@@ -2,13 +2,13 @@
 title: "Agentic Workflow"
 type: concept
 tags: [agents, workflow, productivity]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr]
 last_updated: 2026-07-06
 ---
 
 # Agentic Workflow
 
-Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]], [[KedaibiaoLizheng]] argues that tools such as [[Codex]], [[ClaudeCode]], and [[Cursor]] matter because they let AI operate over files, tools, and persistent context rather than one isolated prompt at a time. [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]] adds concrete examples of skills that route large tasks or adversarial analysis to background agents.
+Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]], [[KedaibiaoLizheng]] argues that tools such as [[Codex]], [[ClaudeCode]], and [[Cursor]] matter because they let AI operate over files, tools, and persistent context rather than one isolated prompt at a time. [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]] adds concrete examples of skills that route large tasks or adversarial analysis to background agents. [[community-led-saas-growth-how-ninety-hit-44m-arr]] adds the market implication: if AI makes building workflow tools easier, SaaS companies must defend through trust, data, distribution, and deeper workflow integration.
 
 ## Key Properties
 - Preserves and reuses project context.
@@ -16,8 +16,10 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 - Encourages users to redesign workflows around AI rather than insert AI into old chat habits.
 - Can include [[SubagentWorkflow]] for background execution, debate, and synthesis.
 - Still needs production safeguards, as shown by [[AIAssistedSoftwareDevelopmentRisk]].
+- Changes competitive pressure for SaaS because AI-native entrants can rebuild workflows faster, even if they still need [[SaaSTrustMoat]].
 
 ## Connections
 - [[ContextEngineering]] — supplies the durable context that makes agentic work compound.
 - [[AISkills]] — reusable procedures that can guide agent behavior.
 - [[EverythingAgent]] — investment-level extension of agents into many workflows.
+- [[AINativeSaaSThreat]] — competitive pressure created when agents reduce software-building friction.

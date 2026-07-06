@@ -2,20 +2,22 @@
 title: "AI Assisted Software Development Risk"
 type: concept
 tags: [software, ai, engineering-risk]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr]
 last_updated: 2026-07-06
 ---
 
 # AI Assisted Software Development Risk
 
-AI-assisted software development risk is the possibility that AI can accelerate implementation while leaving production-critical engineering details under-specified. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the host describes a client app update that lost user-entered scan data after a database schema change lacked a proper migration script.
+AI-assisted software development risk is the possibility that AI can accelerate implementation while leaving production-critical engineering details under-specified. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the host describes a client app update that lost user-entered scan data after a database schema change lacked a proper migration script. [[community-led-saas-growth-how-ninety-hit-44m-arr]] adds a company-building version of the same warning: vibe coding may produce software quickly, but it does not solve distribution, security, SOC 2, GDPR, support, or scaling commitments to customers.
 
 ## Key Lessons
 - AI can help ship features quickly, but migration, backward compatibility, and upgrade paths still require engineering discipline.
 - Production state matters more than whether the generated code looks plausible.
 - The host responded by slowing client changes and prioritizing stability over more rapid iteration.
+- AI-generated product surfaces still need organizational capabilities around trust, compliance, operations, and customer commitments.
 
 ## Connections
 - [[AgenticWorkflow]] — workflow acceleration that still needs safeguards.
 - [[ContextEngineering]] — AI needs enough context about data state, migration rules, and release constraints.
 - [[HumanJudgmentUnderAI]] — humans remain responsible for risk judgment.
+- [[SaaSTrustMoat]] and [[AINativeSaaSThreat]] — market-level version of the same risk in SaaS competition.

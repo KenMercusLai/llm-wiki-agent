@@ -23,3 +23,7 @@ Added source page for a Keji Luandun episode on Lin Junyang's Qwen departure, Al
 ## [2026-07-06] ingest | 从QQ会员到豆包包月，中国人为什么总觉得软件该免费
 
 Added source page for a Keji Luandun episode on Doubao membership, Chinese software payment culture, AI inference costs, subscription economics, product-led willingness to pay, and data portability. Created supporting pages for Doubao, ByteDance, Tencent, QQ, Yuanbao, Ni De Shufang, and related pricing concepts; updated commercialization pressure, video models, DeepSeek, and Keji Luandun pages.
+
+## [2026-07-06] ingest | Community-Led SaaS Growth: How Ninety Hit $44M ARR
+
+Added source page for a The SaaS Podcast episode on Ninety's EOS ecosystem, community-led distribution, bootstrapping, funding, stage-appropriate hiring, AI pricing, and AI-native SaaS threats. Created supporting pages for Ninety, Mark Abbott, EOS Worldwide, Gino Wickman, Traction Tools, Mas, The SaaS Podcast, and related SaaS growth and trust concepts; updated overview and existing AI pricing/risk pages.
