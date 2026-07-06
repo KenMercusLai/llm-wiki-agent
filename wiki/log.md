@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-06] ingest | 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
+
+Added source page for a Shizilukou Crossing road-podcast episode on Xiaoban, Yueban Dongli, Shibo, consumer companion robots, robot liveliness, emotional interaction models, Qwen-based on-device fast/slow brains, and household world simulation. Created supporting entity and concept pages for the major people, products, company, robotics references, and technical/product themes; updated overview, Shizilukou Crossing, Qwen, embodied AI, world models, voice interaction, open-source model, and willingness-to-pay pages.
+
 ## [2026-07-06] ingest | 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
 
 Added source page for a Shizilukou Crossing episode on advanced AI use, agent workflows, context engineering, AI skills, FDE, and AI investment themes. Created supporting entity and concept pages for the major tools, organizations, roles, and AI themes discussed in the source.
