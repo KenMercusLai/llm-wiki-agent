@@ -71,3 +71,7 @@ Added source page for a Shizilukou Crossing episode on Huang Biwei, Aether AI, c
 ## [2026-07-06] lint | Wiki lint check
 
 Ran health and lint checks. Deterministic lint passed; semantic lint was completed manually in-session because the local `litellm` dependency was unavailable.
+
+## [2026-07-06] ingest | 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Yin Qi becoming chair of StepFun while also chairing Qianli Technology, with retrospection on Megvii and AI 1.0. Created supporting entity and concept pages for Yin Qi, StepFun, Qianli Technology, Megvii, the show, AI plus terminals, long-chain AI competition, and AI organization design; updated overview, index, AI commercialization pressure, embodied AI, world models, frontier model scaling, VLA, and stage-appropriate hiring pages.
