@@ -75,3 +75,7 @@ Ran health and lint checks. Deterministic lint passed; semantic lint was complet
 ## [2026-07-06] ingest | 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Yin Qi becoming chair of StepFun while also chairing Qianli Technology, with retrospection on Megvii and AI 1.0. Created supporting entity and concept pages for Yin Qi, StepFun, Qianli Technology, Megvii, the show, AI plus terminals, long-chain AI competition, and AI organization design; updated overview, index, AI commercialization pressure, embodied AI, world models, frontier model scaling, VLA, and stage-appropriate hiring pages.
+
+## [2026-07-06] ingest | OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
+
+Added source page for a Shizilukou Crossing episode on Rolling AI, forward-deployed engineering, digital employees, business-led enterprise AI transformation, frontline enablement, and service as software. Created supporting entity and concept pages for Rolling AI, Agan, Liu Kai, Palantir, BCG, digital employees, frontline AI enablement, business-led AI transformation, and service as software; corrected the existing FDE concept from Frontend Deployment Engineer to Forward Deployed Engineer; updated overview, index, OpenAI, Anthropic, Shizilukou Crossing, context engineering, agentic workflow, human judgment, AI organization design, domain expert alignment, and service productization pages.
