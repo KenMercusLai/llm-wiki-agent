@@ -27,3 +27,7 @@ Added source page for a Keji Luandun episode on Doubao membership, Chinese softw
 ## [2026-07-06] ingest | Community-Led SaaS Growth: How Ninety Hit $44M ARR
 
 Added source page for a The SaaS Podcast episode on Ninety's EOS ecosystem, community-led distribution, bootstrapping, funding, stage-appropriate hiring, AI pricing, and AI-native SaaS threats. Created supporting pages for Ninety, Mark Abbott, EOS Worldwide, Gino Wickman, Traction Tools, Mas, The SaaS Podcast, and related SaaS growth and trust concepts; updated overview and existing AI pricing/risk pages.
+
+## [2026-07-06] ingest | Bootstrapped SaaS: $12M ARR Across 5 Products With a Team of 10
+
+Added source page for a The SaaS Podcast episode on Thibaut-Louis Lucas, Tea Maker, fast product validation, customer pull, Tweet Hunter, Tapio, the Lempire acquisition, and AI-era distribution systems. Created supporting entity and concept pages for the major people, products, and SaaS strategy patterns; updated the overview and related SaaS trust, AI-native threat, and willingness-to-pay pages.
