@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？](sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1.md) — Podcast episode on Jim Simons, Renaissance Technologies, quantitative investing, AI-assisted investing, risk management, crypto, passive investing, and AI IPO valuation.
 - [哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人](sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr.md) — Podcast episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data, and scaling.
 - [How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M](sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m.md) — Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, MSP distribution, category creation, and early SaaS survival.
 - [对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局](sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe.md) — Podcast episode on MiniMax M3, AI coding verification, model-harness co-evolution, model scaling, Deerflow, MultiCard, financial AI agents, and AI interpretability.
@@ -26,6 +27,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
+- [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
@@ -45,6 +47,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
+- [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
@@ -57,6 +60,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
+- [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
@@ -69,13 +73,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
+- [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
+- [Renaissance Technologies](entities/RenaissanceTechnologies.md) — Quantitative investment firm founded by Jim Simons and associated with the Medallion Fund.
 - [Revid](entities/Revid.md) — AI video creation and editing product associated with Tea Maker.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
+- [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
@@ -87,12 +94,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Token Grant](entities/TokenGrant.md) — ZhenFund and Shizilukou Crossing sponsorship project for AI-era zero-to-one builders.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
+- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor used as a comparison point against Jim Simons's quantitative approach.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for the Jim Simons quantitative investing episode.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
@@ -105,7 +114,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
 - [AI Governance And Compliance](concepts/AIGovernanceAndCompliance.md) — Extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats.
 - [AI Inference Cost Structure](concepts/AIInferenceCostStructure.md) — Usage-linked token, GPU, electricity, and infrastructure costs behind large-model services.
+- [AI IPO Valuation](concepts/AIIPOValuation.md) — Investing frame for separating real AI technology progress from attractive public-market entry price.
 - [AI Interpretability By AI](concepts/AIInterpretabilityByAI.md) — Safety-relevant idea that stronger AI may help humans understand AI systems themselves.
+- [AI Investment Research](concepts/AIInvestmentResearch.md) — Use of AI assistants to understand markets, filings, valuation, and risks without outsourcing final investment decisions.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
@@ -122,6 +133,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
+- [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
@@ -143,14 +155,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
+- [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
+- [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
+- [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
+- [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
+- [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
@@ -160,6 +178,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
 - [Stage-Appropriate Hiring](concepts/StageAppropriateHiring.md) — Principle that leaders and executives must fit the company's current stage, ambiguity, pace, and culture.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.
+- [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-06] ingest | EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？
+
+Added source page for a 一劳永逸 episode on Jim Simons, Renaissance Technologies, the Medallion Fund, quantitative investing, AI-assisted investment research, risk management, overfitting, market regime shifts, passive investing, crypto market structure, stablecoins, and AI IPO valuation. Created supporting entity and concept pages for the main people, institutions, assets, and investing frameworks; updated overview, index, OpenAI, Anthropic, ChatGPT, financial AI agents, and AI commercialization pressure pages.
+
 ## [2026-07-06] ingest | How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M
 
 Added source page for a The SaaS Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, ransomware prevention, MSP distribution, category creation, and startup survival under severe financial pressure. Created supporting entity and concept pages for the major people, company, incident context, and cybersecurity/go-to-market themes; updated overview, index, The SaaS Podcast, validation, distribution, willingness-to-pay, customer-pull, and SaaS trust pages.
