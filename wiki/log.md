@@ -19,3 +19,7 @@ Added source page for a Keji Luandun episode on Lin Junyang's Qwen departure, Al
 ## [2026-07-06] graph | Knowledge graph rebuilt
 
 36 nodes, 155 edges (149 extracted, 6 inferred/ambiguous). Built manually because litellm/networkx were unavailable.
+
+## [2026-07-06] ingest | 从QQ会员到豆包包月，中国人为什么总觉得软件该免费
+
+Added source page for a Keji Luandun episode on Doubao membership, Chinese software payment culture, AI inference costs, subscription economics, product-led willingness to pay, and data portability. Created supporting pages for Doubao, ByteDance, Tencent, QQ, Yuanbao, Ni De Shufang, and related pricing concepts; updated commercialization pressure, video models, DeepSeek, and Keji Luandun pages.
