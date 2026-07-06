@@ -51,3 +51,7 @@ Added source page for a The SaaS Podcast episode on Girish Redikar, RecruiterBox
 ## [2026-07-06] ingest | Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 Added source page for a Shizilukou Crossing episode on headless software, GUI thinking, agent-facing interfaces, skills, token costs, and agentic economy infrastructure. Created supporting pages for Tianjie Jack, Cang Shifu, Manus, Open Cloud, Token Grant, Code Pilot, Youyou Agent, Headless Software, Agent-Facing Interfaces, and Agentic Economy; updated overview and related agent workflow, skills, context, Codex, Claude Code, WeChat, ZhenFund, and AI token economics pages.
+
+## [2026-07-06] ingest | 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+
+Added source page for a Shizilukou Crossing MiniMax Developer Meetup episode on MiniMax M3, AI coding verification, model-harness co-evolution, 3T/10T model scaling, MultiCard, Deerflow, financial AI agents, domain experts, and AI interpretability. Created supporting entity and concept pages for the major people, projects, model, and technical themes; updated overview, index, Shizilukou Crossing, Koji, Anthropic, agent workflow, AI skills, AI software risk, AI token economics, AI governance, and human judgment pages.

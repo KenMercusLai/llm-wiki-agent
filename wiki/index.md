@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局](sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe.md) — Podcast episode on MiniMax M3, AI coding verification, model-harness co-evolution, model scaling, Deerflow, MultiCard, financial AI agents, and AI interpretability.
 - [我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】](sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb.md) — Podcast episode on Xiaoban, Yueban Dongli, consumer companion robots, emotional interaction models, on-device fast/slow brains, and household robot liveliness.
 - [Finding Product-Market Fit After 3 Years of Failed Ideas](sources/finding-product-market-fit-after-3-years-of-failed-ideas.md) — Podcast episode on Girish Redikar, Sprinto, RecruiterBox, compliance automation, service productization, existing-demand GTM, and AI governance.
 - [AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing](sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing.md) — Podcast episode on Peak AI, AI search analytics, GEO, pre-product selling, AI-built prototypes, mid-market pricing, and social-led growth.
@@ -31,12 +32,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
+- [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
+- [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
@@ -48,6 +51,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
+- [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
+- [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
+- [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
 - [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
@@ -76,18 +82,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
+- [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
+- [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
+- [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 
 ## Concepts
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
+- [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, maintainability, and responsibility.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
 - [AI Governance And Compliance](concepts/AIGovernanceAndCompliance.md) — Extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats.
 - [AI Inference Cost Structure](concepts/AIInferenceCostStructure.md) — Usage-linked token, GPU, electricity, and infrastructure costs behind large-model services.
+- [AI Interpretability By AI](concepts/AIInterpretabilityByAI.md) — Safety-relevant idea that stronger AI may help humans understand AI systems themselves.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
@@ -105,21 +116,25 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
 - [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — SaaS strategy where product selection and growth are shaped by reusable acquisition systems.
+- [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
+- [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
 - [Frontend Deployment Engineer](concepts/FrontendDeploymentEngineer.md) — Enterprise role for mapping workflows and deploying AI into organizational systems.
+- [Frontier Model Scaling](concepts/FrontierModelScaling.md) — Capability-scaling problem involving parameters, compute, data quality, training efficiency, and limits of simple scaling-law extrapolation.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.

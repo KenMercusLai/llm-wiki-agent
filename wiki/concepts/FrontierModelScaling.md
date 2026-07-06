@@ -1,0 +1,25 @@
+---
+title: "Frontier Model Scaling"
+type: concept
+tags: [models, scaling, infrastructure]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]
+last_updated: 2026-07-06
+---
+
+# Frontier Model Scaling
+
+Frontier model scaling is the attempt to improve AI capability by increasing model scale, training quality, data quality, data quantity, architecture quality, and training efficiency. In [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]], [[YanJunjie]] frames scaling as an accumulation problem rather than a single hard blocker.
+
+## Key Claims
+- Each model generation may require several times more parameters or training investment, but simple scaling-law extrapolation cannot be pushed indefinitely.
+- Yan says U.S. frontier models are roughly an order of magnitude ahead of Chinese models, which he equates to about two model generations.
+- Domestic model companies need to train 3T-scale models well before reliably moving toward 10T-scale models.
+- A 10T-scale model may imply roughly 200T tokens of data under common ratios, creating a data availability and data quality constraint.
+- More scale raises demands on compute, network structure, training efficiency, data cleaning, evaluation, and cost discipline.
+
+## Connections
+- [[MiniMax]] and [[YanJunjie]] — source of the scaling discussion.
+- [[AIInferenceCostStructure]] — related cost pressure at inference and deployment time.
+- [[AICommercializationPressure]] — business pressure created by expensive model training and serving.
+- [[OpenSourceAIModels]] and [[LargeCompanyOpenSourceStrategy]] — adjacent domestic-model ecosystem themes.
+- [[ModelHarnessCoEvolution]] — scaling interacts with agent and harness progress rather than replacing it.
