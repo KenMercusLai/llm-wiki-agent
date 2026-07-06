@@ -59,3 +59,11 @@ Added source page for a Shizilukou Crossing episode on headless software, GUI th
 ## [2026-07-06] ingest | 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
 
 Added source page for a Shizilukou Crossing MiniMax Developer Meetup episode on MiniMax M3, AI coding verification, model-harness co-evolution, 3T/10T model scaling, MultiCard, Deerflow, financial AI agents, domain experts, and AI interpretability. Created supporting entity and concept pages for the major people, projects, model, and technical themes; updated overview, index, Shizilukou Crossing, Koji, Anthropic, agent workflow, AI skills, AI software risk, AI token economics, AI governance, and human judgment pages.
+
+## [2026-07-06] ingest | 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
+
+Added source page for a Shizilukou Crossing episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data strategy, and scaling. Created supporting pages for Huang Biwei, Aether AI, causal AI, causal world models, vision language action models, and world action models; updated overview, index, Shizilukou Crossing, OpenAI, Anthropic, world models, embodied AI, video models, frontier model scaling, and AI for Science pages.
+
+## [2026-07-06] lint | Wiki lint check
+
+Ran health and lint checks. Deterministic lint passed; semantic lint was completed manually in-session because the local `litellm` dependency was unavailable.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人](sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr.md) — Podcast episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data, and scaling.
 - [How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M](sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m.md) — Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, MSP distribution, category creation, and early SaaS survival.
 - [对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局](sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe.md) — Podcast episode on MiniMax M3, AI coding verification, model-harness co-evolution, model scaling, Deerflow, MultiCard, financial AI agents, and AI interpretability.
 - [我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】](sources/wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb.md) — Podcast episode on Xiaoban, Yueban Dongli, consumer companion robots, emotional interaction models, on-device fast/slow brains, and household robot liveliness.
@@ -20,6 +21,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
@@ -42,6 +44,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
+- [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
@@ -111,6 +114,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
+- [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
+- [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, and household relationship-building.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
@@ -159,7 +164,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
+- [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
+- [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
 - [Zero Trust Security](concepts/ZeroTrustSecurity.md) — Cybersecurity idea that systems should not automatically trust software, access, or activity by default.
 
