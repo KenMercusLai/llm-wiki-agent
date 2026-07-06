@@ -35,3 +35,7 @@ Added source page for a The SaaS Podcast episode on Thibaut-Louis Lucas, Tea Mak
 ## [2026-07-06] ingest | Eric Ries on How Founders Quietly Lose Their Company
 
 Added source page for a The SaaS Podcast episode on Eric Ries, Lean Startup principles in the AI era, AI prototype economics, financial gravity, startup governance, customer concentration risk, and shareholder primacy. Created supporting pages for Eric Ries, Long-Term Stock Exchange, validated learning, financial gravity, startup governance, shareholder primacy, and customer concentration risk; updated the overview and related AI cost, AI software risk, validation, trust, OpenAI, and podcast pages.
+
+## [2026-07-06] ingest | AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing
+
+Added source page for a The SaaS Podcast episode on Marius Miners, Peak AI, AI search analytics, generative engine optimization, pre-product selling, V0/vibe-coded prototypes, mid-market pricing, and social/AI-search-led growth. Created supporting pages for Peak AI, Marius Miners, Antler, ChatGPT, Perplexity, Gemini, AI search analytics, generative engine optimization, and pre-product selling; updated overview and related SaaS validation, willingness-to-pay, AI discovery SEO, distribution, OpenAI, and podcast pages.
