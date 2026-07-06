@@ -31,3 +31,7 @@ Added source page for a The SaaS Podcast episode on Ninety's EOS ecosystem, comm
 ## [2026-07-06] ingest | Bootstrapped SaaS: $12M ARR Across 5 Products With a Team of 10
 
 Added source page for a The SaaS Podcast episode on Thibaut-Louis Lucas, Tea Maker, fast product validation, customer pull, Tweet Hunter, Tapio, the Lempire acquisition, and AI-era distribution systems. Created supporting entity and concept pages for the major people, products, and SaaS strategy patterns; updated the overview and related SaaS trust, AI-native threat, and willingness-to-pay pages.
+
+## [2026-07-06] ingest | Eric Ries on How Founders Quietly Lose Their Company
+
+Added source page for a The SaaS Podcast episode on Eric Ries, Lean Startup principles in the AI era, AI prototype economics, financial gravity, startup governance, customer concentration risk, and shareholder primacy. Created supporting pages for Eric Ries, Long-Term Stock Exchange, validated learning, financial gravity, startup governance, shareholder primacy, and customer concentration risk; updated the overview and related AI cost, AI software risk, validation, trust, OpenAI, and podcast pages.
