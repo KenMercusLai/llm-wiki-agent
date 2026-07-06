@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正](sources/gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc.md) — Podcast episode on advanced AI use, agent workflows, context accumulation, skills, and AI investment themes.
 - [从QQ会员到豆包包月，中国人为什么总觉得软件该免费](sources/cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun.md) — Podcast episode on Doubao membership, Chinese software payment culture, AI inference costs, and subscription economics.
 - [阿里千问离职余震，在几万人的铁球里如何体面生存](sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md) — Podcast episode on Qwen, open-source model strategy, large-company organization, star talent, and AI-era professional judgment.
+- [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
@@ -21,8 +22,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
+- [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
+- [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
@@ -41,9 +44,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
+- [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
+- [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, and ecosystem consensus.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
@@ -59,11 +64,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
+- [Tianjie Jack](entities/TianjieJack.md) — ZhenFund investor discussing GUI thinking, headless software, agent infrastructure, and Token Grant.
+- [Token Grant](entities/TokenGrant.md) — ZhenFund and Shizilukou Crossing sponsorship project for AI-era zero-to-one builders.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
-- [Zhengke Fund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role.
+- [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
+- [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 
 ## Concepts
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
@@ -76,6 +84,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
+- [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
+- [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
@@ -95,6 +105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontend Deployment Engineer](concepts/FrontendDeploymentEngineer.md) — Enterprise role for mapping workflows and deploying AI into organizational systems.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
+- [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.

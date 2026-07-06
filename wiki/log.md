@@ -43,3 +43,7 @@ Added source page for a The SaaS Podcast episode on Marius Miners, Peak AI, AI s
 ## [2026-07-06] ingest | Finding Product-Market Fit After 3 Years of Failed Ideas
 
 Added source page for a The SaaS Podcast episode on Girish Redikar, RecruiterBox, Sprinto, compliance automation, service productization, founder-product fit, demand harvesting, AI governance, and deterministic audit data. Created supporting pages for Girish Redikar, Sprinto, RecruiterBox, The Mom Test, and the major compliance/validation concepts; updated overview and related validation, trust, distribution, AI risk, and podcast pages.
+
+## [2026-07-06] ingest | Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+
+Added source page for a Shizilukou Crossing episode on headless software, GUI thinking, agent-facing interfaces, skills, token costs, and agentic economy infrastructure. Created supporting pages for Tianjie Jack, Cang Shifu, Manus, Open Cloud, Token Grant, Code Pilot, Youyou Agent, Headless Software, Agent-Facing Interfaces, and Agentic Economy; updated overview and related agent workflow, skills, context, Codex, Claude Code, WeChat, ZhenFund, and AI token economics pages.
