@@ -40,6 +40,7 @@ This [[TheSaaSPodcast]] episode features [[ThibautLouisLucas]] explaining how [[
 - [[Revid]] and [[Outrank]] - later Tea Maker products tied to AI video and SEO/discovery.
 - [[JKMolina]] and [[AlexBerman]] - influencer partners used to scale distribution for Twitter and LinkedIn products.
 - [[FastProductValidation]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - validation principles emphasized throughout the episode.
+- [[TheMomTest]] - validation book Lucas recommends for cleaner customer discovery.
 - [[DistributionLedProductBuilding]], [[AIDiscoverySEO]], and [[SaaSHoldingCompany]] - strategic patterns behind Tea Maker's current model.
 - [[FounderEgo]] - cautionary pattern from Lucas's failed fundraising-backed startups.
 - [[AINativeSaaSThreat]] and [[SaaSTrustMoat]] - adjacent AI-era SaaS strategy themes already present in the wiki.

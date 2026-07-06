@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Finding Product-Market Fit After 3 Years of Failed Ideas](sources/finding-product-market-fit-after-3-years-of-failed-ideas.md) — Podcast episode on Girish Redikar, Sprinto, RecruiterBox, compliance automation, service productization, existing-demand GTM, and AI governance.
 - [AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing](sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing.md) — Podcast episode on Peak AI, AI search analytics, GEO, pre-product selling, AI-built prototypes, mid-market pricing, and social-led growth.
 - [Bootstrapped SaaS: $12M ARR Across 5 Products With a Team of 10](sources/bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10.md) — Podcast episode on Thibaut-Louis Lucas, Tea Maker, fast SaaS validation, influencer-led distribution, and AI-era distribution advantage.
 - [Community-Led SaaS Growth: How Ninety Hit $44M ARR](sources/community-led-saas-growth-how-ninety-hit-44m-arr.md) — Podcast episode on Ninety's EOS ecosystem, community-led distribution, funding, hiring lessons, and AI-native SaaS strategy.
@@ -30,6 +31,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
+- [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
@@ -47,11 +49,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
+- [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
 - [Revid](entities/Revid.md) — AI video creation and editing product associated with Tea Maker.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
+- [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
+- [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
@@ -65,6 +70,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
+- [AI Governance And Compliance](concepts/AIGovernanceAndCompliance.md) — Extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats.
 - [AI Inference Cost Structure](concepts/AIInferenceCostStructure.md) — Usage-linked token, GPU, electricity, and infrastructure costs behind large-model services.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
@@ -72,16 +78,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
+- [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
 - [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
+- [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
+- [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
 - [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — SaaS strategy where product selection and growth are shaped by reusable acquisition systems.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
+- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
 - [Frontend Deployment Engineer](concepts/FrontendDeploymentEngineer.md) — Enterprise role for mapping workflows and deploying AI into organizational systems.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
@@ -94,6 +104,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
 - [Second Renaissance](concepts/SecondRenaissance.md) — Idea that AI may push people toward broader creative and generalist work.
+- [Service Productization](concepts/ServiceProductization.md) — Turning manual, consultant-heavy, or expert-delivered workflows into repeatable software products.
 - [Shareholder Primacy](concepts/ShareholderPrimacy.md) — Governance belief that shareholder financial returns dominate, especially in sale or control contexts.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
 - [Stage-Appropriate Hiring](concepts/StageAppropriateHiring.md) — Principle that leaders and executives must fit the company's current stage, ambiguity, pace, and culture.

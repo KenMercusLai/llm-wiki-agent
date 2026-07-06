@@ -39,3 +39,7 @@ Added source page for a The SaaS Podcast episode on Eric Ries, Lean Startup prin
 ## [2026-07-06] ingest | AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing
 
 Added source page for a The SaaS Podcast episode on Marius Miners, Peak AI, AI search analytics, generative engine optimization, pre-product selling, V0/vibe-coded prototypes, mid-market pricing, and social/AI-search-led growth. Created supporting pages for Peak AI, Marius Miners, Antler, ChatGPT, Perplexity, Gemini, AI search analytics, generative engine optimization, and pre-product selling; updated overview and related SaaS validation, willingness-to-pay, AI discovery SEO, distribution, OpenAI, and podcast pages.
+
+## [2026-07-06] ingest | Finding Product-Market Fit After 3 Years of Failed Ideas
+
+Added source page for a The SaaS Podcast episode on Girish Redikar, RecruiterBox, Sprinto, compliance automation, service productization, founder-product fit, demand harvesting, AI governance, and deterministic audit data. Created supporting pages for Girish Redikar, Sprinto, RecruiterBox, The Mom Test, and the major compliance/validation concepts; updated overview and related validation, trust, distribution, AI risk, and podcast pages.
