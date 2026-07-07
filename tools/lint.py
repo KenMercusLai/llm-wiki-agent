@@ -35,32 +35,40 @@ from tools._utils import (
 GRAPH_JSON = GRAPH_DIR / "graph.json"
 
 
-def page_name_to_path(name: str) -> list[Path]:
+def build_page_lookup(pages: list[Path]) -> dict[str, list[Path]]:
+    """Build a case-insensitive wiki page stem lookup."""
+    lookup: dict[str, list[Path]] = defaultdict(list)
+    for p in pages:
+        lookup[p.stem.lower()].append(p)
+    return lookup
+
+
+def page_name_to_path(name: str, lookup: dict[str, list[Path]] | None = None) -> list[Path]:
     """Try to resolve a [[WikiLink]] to a file path."""
-    candidates = []
-    for p in all_wiki_pages():
-        if p.stem.lower() == name.lower() or p.stem == name:
-            candidates.append(p)
-    return candidates
+    if lookup is None:
+        lookup = build_page_lookup(all_wiki_pages())
+    return lookup.get(name.lower(), [])
 
 
 def find_orphans(pages: list[Path]) -> list[Path]:
+    lookup = build_page_lookup(pages)
     inbound = defaultdict(int)
     for p in pages:
         content = read_file(p)
         for link in extract_wikilinks(content):
-            resolved = page_name_to_path(link)
+            resolved = page_name_to_path(link, lookup)
             for r in resolved:
                 inbound[r] += 1
     return [p for p in pages if inbound[p] == 0 and p != WIKI_DIR / "overview.md"]
 
 
 def find_broken_links(pages: list[Path]) -> list[tuple[Path, str]]:
+    lookup = build_page_lookup(pages)
     broken = []
     for p in pages:
         content = read_file(p)
         for link in extract_wikilinks(content):
-            if not page_name_to_path(link):
+            if not page_name_to_path(link, lookup):
                 broken.append((p, link))
     return broken
 
@@ -295,7 +303,20 @@ Return a markdown lint report with these sections:
 
 Be specific — name the exact pages and claims involved.
 """
-    semantic_report = call_llm(prompt, "LLM_MODEL", "claude-3-5-sonnet-latest", max_tokens=3000)
+    try:
+        semantic_report = call_llm(prompt, "LLM_MODEL", "claude-3-5-sonnet-latest", max_tokens=3000)
+    except Exception as exc:
+        reason = " ".join(f"{type(exc).__name__}: {exc}".split())
+        print(f"  [warn] semantic lint failed: {reason}")
+        semantic_report = "\n".join([
+            "## Semantic Checks Unavailable",
+            "",
+            "Semantic lint did not complete because the LLM API call failed.",
+            "",
+            f"- Error: `{reason}`",
+            "- Deterministic and graph-aware checks above still completed.",
+            "- Configure `LLM_MODEL` with a provider-qualified LiteLLM model and required API key, then rerun `python tools/lint.py` for contradiction, stale-content, and data-gap analysis.",
+        ])
 
     # Compose full report
     report_lines = [
