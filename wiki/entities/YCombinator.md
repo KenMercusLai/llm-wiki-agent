@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -36,6 +36,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarsseason2-dimitri-final]] adds [[ModernTreasury]] as a Summer 2018 YC company where early progress was hidden inside bank coordination, product buildout, and trust formation. [[DimitriDadiomov]] says YC status helped [[SiliconValleyBank]] take the team seriously, but the first customer still took five or six months to go live. The episode extends YC's validation branch into [[TrustHeavyInfrastructureSales]]: LOIs and repeated customer pain can matter before revenue when the product touches critical [[MoneyMovementInfrastructure]].
 
+[[socialradarss2-billclerico-final]] adds [[WePay]] as a Summer 2009 YC fintech case. YC shifted [[BillClerico]] and [[RichAberman]] away from fundraising theater toward speed, users, and product, while the batch also supplied first users through poker-night payments and credibility when the founders improvised bank access. The episode extends YC's validation branch into regulated payments: early usage can be manual and messy, but bank trust, fraud controls, and a decisive [[PaymentsInfrastructurePivot]] decide whether the company survives.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -55,3 +57,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - operating-discipline lessons added by the second Chesky episode.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech case added by the Armstrong episode.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[MoneyMovementInfrastructure]], [[TrustHeavyInfrastructureSales]], and [[FinancialOperationsResilience]] - fintech infrastructure case added by the Dadiomov episode.
+- [[BillClerico]], [[RichAberman]], [[WePay]], [[PaymentsInfrastructurePivot]], and [[EarlyFintechFraudControls]] - regulated payments case added by the Clerico episode.

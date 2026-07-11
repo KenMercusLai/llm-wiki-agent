@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-11] ingest | Bill Clerico on WePay, YC, and Fire Tech
+
+Added source page for a The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, early bank and merchant-account friction, manual payments operations, university-club customer discovery, the group-payments-to-API pivot, GoFundMe-driven scale, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis. Created pages for Bill Clerico, Rich Aberman, WePay, Convective Capital, OverStory, GoFundMe, Stripe, Payments Infrastructure Pivot, and Fire Tech Climate Resilience; updated overview, index, The Social Radars, Y Combinator, JPMorgan Chase, Money Movement Infrastructure, Trust-Heavy Infrastructure Sales, Early Fintech Fraud Controls, Unscalable Founder Work, Janky MVP, and Climate Adaptation. No direct contradiction found; the source reinforces the wiki's regulated-fintech branch while adding a climate-resilience market analogy.
+
 ## [2026-07-10] ingest | How states are competing in the data center gold rush
 
 Added source page for a Marketplace Tech episode with Nicholas Miller of the National Conference of State Legislatures on state data-center tax incentives, including sales and use tax exemptions, electricity exemptions, property-tax abatements, job requirements, capital-investment thresholds, property-tax benefits, and energy-use reassessment. Created pages for Nicholas Miller, National Conference of State Legislatures, and Data Center Tax Incentives; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Public Utility Commissions, AI Energy Bottleneck, Data Center Cost Shifting, Data Center Backlash, AI Compute Continuity, MaaS Infrastructure, and AI Metabolic Infrastructure. No direct contradiction found; the source extends existing AI data-center regulation pages by adding the public-subsidy and state economic-development layer.
@@ -2015,6 +2019,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] ingest | Dimitri Dadiomov on Modern Treasury and Financial Plumbing
 
 Added source page for The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, YC Summer 2018, money-movement infrastructure, trust-heavy infrastructure sales, SVB and Signature crisis response, financial-operations resilience, accelerated bank runs, founder consistency, and FedNow. Created pages for Dimitri Dadiomov, Modern Treasury, LendingHome, Better Place, FedNow, Signature Bank, BASES, Money Movement Infrastructure, Financial Operations Resilience, Accelerated Bank Runs, Trust-Heavy Infrastructure Sales, and Operational Pain Founder Insight; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Silicon Valley Bank, Stanford University, Paul Graham, Customer Pull, Pre-Product Selling, Fast Product Validation, Founder Product Fit, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's fintech branch from regulated crypto access into bank connectivity, reconciliation, payment operations, and crisis resilience.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 
