@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Digital archiving and the global memory shortage](sources/tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on AI data-center demand, memory-chip and hard-drive shortages, Digital Bedrock's archive work, hyperscaler dependence, and practical personal digital preservation.
 - [How government uses "surveillance as a service" to collect data](sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jeremy Scott on DHS access to private-sector data, administrative subpoenas, data brokers, Flock Safety, the third-party doctrine, and Fourth Amendment reform.
 - [Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.](sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Pentagon pressure for Claude access, Anthropic's use-policy red lines, OpenAI Frontier and consulting-led enterprise AI adoption, and Apple's U.S. Mac Mini manufacturing plan.
 - [Physical media's comeback](sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128.md) — Marketplace Tech episode on DVDs, Blu-rays, and VHS having a renewed moment through subscription fatigue, Vidiots' nonprofit video-store model, LunchMeet VHS reprints, collector demand, and analog media preservation.
@@ -303,6 +304,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Linda Todich](entities/LindaTodich.md) — Digital Bedrock archivist and CEO explaining how memory and hard-drive shortages affect professional and personal digital preservation.
+- [Digital Bedrock](entities/DigitalBedrock.md) — Archive-preservation company used as the Marketplace Tech case for storage scarcity affecting museums, libraries, movie studios, and TV studios.
+- [Western Digital](entities/WesternDigital.md) — Storage company cited as largely sold out of hard drives for the year amid the memory and storage shortage.
+- [IDC](entities/IDC.md) — Market-intelligence firm cited for the claim that data-center demand has helped drive up prices and an unprecedented memory-chip shortage.
 - [Jeremy Scott](entities/JeremyScott.md) — EPIC Surveillance Oversight Program expert explaining DHS access to private-sector data, administrative subpoenas, data brokers, and surveillance-as-a-service systems.
 - [Electronic Privacy Information Center](entities/ElectronicPrivacyInformationCenter.md) — Privacy and civil-liberties organization represented by Jeremy Scott in the Marketplace Tech surveillance-data episode.
 - [U.S. Department of Homeland Security](entities/USDepartmentOfHomelandSecurity.md) — Agency at the center of the Marketplace Tech discussion of lawsuits, private-sector data access, administrative subpoenas, data brokers, and surveillance tools.
@@ -646,7 +651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI chip specialization, smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI chip specialization, smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, digital archiving, data-center debt risk, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -1890,6 +1895,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Memory Chip Shortage](concepts/MemoryChipShortage.md) — AI-data-center-driven shortage pattern affecting memory prices, hard-drive availability, consumer devices, archives, and personal storage.
+- [Digital Preservation](concepts/DigitalPreservation.md) — Active stewardship needed to keep digital materials findable, intact, migrated, and usable over time rather than merely stored.
+- [Personal Digital Archiving](concepts/PersonalDigitalArchiving.md) — Household preservation practice involving cloud-account documentation, multiple copies, migration, and file checking.
 - [Surveillance as a Service](concepts/SurveillanceAsAService.md) — Vendor model where private companies build surveillance infrastructure, aggregate data, and sell searchable access or analysis tools to law enforcement.
 - [Government Data Broker Access](concepts/GovernmentDataBrokerAccess.md) — Practice of government agencies obtaining commercially collected data from brokers or private surveillance vendors.
 - [Data Broker Loophole](concepts/DataBrokerLoophole.md) — Policy gap where government agencies can buy information they would need a warrant to collect directly.
@@ -2085,7 +2093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
-- [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, and consumer pricing across memory and storage markets.
+- [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, consumer pricing, hard-drive availability, and archive-storage access across memory and storage markets.
 - [Data Center Debt Risk](concepts/DataCenterDebtRisk.md) — Financial fragility from AI data-center buildouts that depend on debt, third-party developers, leases, future cloud demand, and local project execution.
 - [AI Search Advertising](concepts/AISearchAdvertising.md) — Sponsored placement and product-listing design for AI answer engines, where user trust, advertiser scale, conversion data, and fewer visible answer slots shape monetization.
 - [Tech Hiring Stabilization](concepts/TechHiringStabilization.md) — Labor-market pattern where tech postings stop falling but remain far below a prior baseline rather than recovering into a hiring boom.
