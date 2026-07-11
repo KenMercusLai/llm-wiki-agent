@@ -2,7 +2,7 @@
 title: "Twitch"
 type: entity
 tags: [company, startups, video, streaming, gaming]
-sources: [socialradarspod-emmettshear-v2]
+sources: [tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
 last_updated: 2026-07-11
 ---
 
@@ -14,7 +14,9 @@ The episode presents Twitch as a fundraising and operating-discipline case. Emme
 
 [[Amazon]] acquired Twitch in 2014. Emmett describes Amazon as a good acquirer for founders who want to keep operating independently, making Twitch part of [[PostAcquisitionFounderIdentity]] rather than only an exit outcome.
 
+[[tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]] adds [[KyleVogt]]'s view of the pivot. The Justin.tv founders debated mobile, gaming, and the existing product, while [[MichaelSeibel]] led Socialcam, [[EmmettShear]] led Twitch, and Vogt supported engineering across projects. Vogt says gaming had organic growth and fewer copyright problems, and that Shear called users directly to turn feature requests into a roadmap.
+
 ## Connections
 - [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context.
 - [[JustinTV|Justin.tv]], [[Amazon]], and [[BessemerVenturePartners]] - predecessor, acquirer, and investor context.
-- [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PostAcquisitionFounderIdentity]] - concepts connected to the source.
+- [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PostAcquisitionFounderIdentity]], and [[FounderProductFit]] - concepts connected to the sources.

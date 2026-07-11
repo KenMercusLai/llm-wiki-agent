@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems](sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final.md) — The Social Radars episode with Kyle Vogt on Justin.tv's live-streaming backpack, Twitch's gaming pivot, Cruise's self-driving MVP, hard-tech fundraising, robotaxi economics, safety benchmarking, and the General Motors acquisition.
 - [Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures](sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final.md) — The Social Radars episode with Yuri Sagalov on AeroFS's enterprise file-sync opportunity, peer-to-peer synchronization risk, the Redbooth merger, YC, angel investing, founder-led sales, investor reference checking, and Wayfinder Ventures.
 - [The Social Radars Season 2 Wrap-Up and Season 3 Announcement](sources/tsr-s2-wrapup-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 2, highlight Emmett Shear, Parker Conrad, and Brian Chesky moments, thank a large listener audience, preview Season 3, and plan more YouTube clips.
 - [Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab](sources/tsr-s2-adoracheung-v5.md) — The Social Radars episode with Adora Cheung on PathJoy, Homejoy's over-scaling and price-war failure, YC partner lessons, Startup School's open-access turn, vote-by-mail funnel work, and Instalab's founder-health and at-home testing thesis.
@@ -268,6 +269,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Daniel Kan](entities/DanielKan.md) — Cruise co-founder added by Kyle Vogt after the company began as a solo-founded self-driving startup.
+- [General Motors](entities/GeneralMotors.md) — Automaker that acquired Cruise to pair startup autonomy work with capital, manufacturing, and vehicle-scaling capacity.
 - [Yuri Sagalov](entities/YuriSagalov.md) — AeroFS co-founder, YC visiting-partner alumnus, angel investor, and Wayfinder Ventures founder whose episode links technical-founder postmortem, founder-led sales, and investor judgment.
 - [AeroFS](entities/AeroFS.md) — YC Summer 2010 enterprise file-sync startup used as a case in technical ambition, peer-to-peer synchronization risk, enterprise demand, and market-timing pressure.
 - [Wayfinder Ventures](entities/WayfinderVentures.md) — Yuri Sagalov's B2B-focused investment firm, connected to founder-led sales, investor reference checking, and founder-investor learning.
@@ -294,7 +297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
 - [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
 - [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
-- [Kyle Vogt](entities/KyleVogt.md) — Justin.tv technical cofounder who led early video-infrastructure work that helped make Twitch possible.
+- [Kyle Vogt](entities/KyleVogt.md) — Justin.tv technical cofounder and Cruise founder whose episode links live-video infrastructure, Twitch, self-driving MVP scoping, robotaxi economics, safety benchmarking, and hard-tech founder stamina.
 - [Tucows](entities/Tucows.md) — Buyer of Kiko in the source, turning a failed calendar startup into useful founder cash and learning.
 - [Patrick Collison](entities/PatrickCollison.md) — Stripe co-founder whose episode links teenage Lisp/Paul Graham contact, web-payment frustration, developer-first payment infrastructure, and vision-to-reality execution.
 - [John Collison](entities/JohnCollison.md) — Stripe co-founder whose episode links early startup-world entry, `/dev/payments`, web-payment friction, founder alignment, and API product design.
@@ -1075,7 +1078,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NASA](entities/NASA.md) — U.S. space agency framed as SpaceX's knowledge, standards, and commercial-procurement foundation.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
-- [Cruise](entities/Cruise.md) — Autonomous-driving company where Xie Chen validated simulation and synthetic data as useful training infrastructure.
+- [Cruise](entities/Cruise.md) — Autonomous-driving company used as both Kyle Vogt's hard-tech startup case and Xie Chen's later simulation/data infrastructure reference.
 - [Scale AI](entities/ScaleAI.md) — Industrial AI data company used as the episode's Data Factory comparator before data-engine learning loops.
 - [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of clear hardware-layer focus in the embodied-AI ecosystem.
 - [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Robot company cited for commercialization and mass-production capability in China's embodied-AI landscape.
@@ -1642,6 +1645,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hard Problem MVP Scoping](concepts/HardProblemMVPScoping.md) — Startup pattern of reducing an enormous technical problem into a narrow first wedge that creates learning, credibility, and de-risking.
+- [Hard Tech Fundraising](concepts/HardTechFundraising.md) — Fundraising pattern for capital-intensive, technically difficult startups that need a credible de-risking path before software-style traction exists.
+- [Robotaxi Economics](concepts/RobotaxiEconomics.md) — Autonomous-mobility business logic where removing the driver changes ride-hailing economics but requires density, operations, safety, capital, and public trust.
+- [Autonomous Vehicle Safety Benchmark](concepts/AutonomousVehicleSafetyBenchmark.md) — Practice of comparing a self-driving system to human-driver performance before deployment when no simple regulatory checklist exists.
+- [Envelope Expansion Deployment](concepts/EnvelopeExpansionDeployment.md) — Rollout pattern of expanding a robot or autonomous system from narrow controlled conditions toward harder real-world operating envelopes.
 - [Enterprise File Sync](concepts/EnterpriseFileSync.md) — Enterprise collaboration and file-sharing category where customers want consumer-grade usability plus security, data control, and reliability.
 - [Peer-to-Peer Synchronization Risk](concepts/PeerToPeerSynchronizationRisk.md) — Product and reliability risk created when decentralized synchronization must behave like a simple centralized cloud service.
 - [Technical Ambition Customer Mismatch](concepts/TechnicalAmbitionCustomerMismatch.md) — Startup failure mode where founders pursue a hard technical problem that differs from the customer's urgent job.

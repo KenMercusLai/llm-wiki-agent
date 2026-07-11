@@ -2,7 +2,7 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -26,6 +26,8 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds Levy as co-interviewer for [[YuriSagalov]] on [[AeroFS]], [[YCombinator]], angel investing, and [[WayfinderVentures]]. Her role in the episode helps turn the AeroFS story into a broader discussion of [[EnterpriseFileSync]], [[PeerToPeerSynchronizationRisk]], [[FounderLedSales]], and founder-investor judgment.
 
+[[tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]] adds Levy as co-interviewer for [[KyleVogt]] on [[JustinTV|Justin.tv]], [[Twitch]], and [[Cruise]]. Her framing helps surface the episode's practical hard-tech lessons: narrowing a self-driving wedge, raising capital after heavy rejection, pivoting from retrofits to robotaxis, benchmarking safety, and managing the post-acquisition relationship with [[GeneralMotors]].
+
 ## Connections
 - [[JessicaLivingston]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], and [[AcceleratedBankRuns]] - Dadiomov episode context.
@@ -34,6 +36,7 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - Collison episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], and [[MissionFocusedCompany]] - Armstrong episode context.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], and [[YuriSagalov]] - interview subjects.
+- [[KyleVogt]], [[Cruise]], [[DanielKan]], [[GeneralMotors]], [[HardTechFundraising]], and [[AutonomousVehicleSafetyBenchmark]] - Season 3 Kyle Vogt episode context.
 - [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Viaweb]], [[Anybots]], [[PlanGrid]], [[TigerEye]], [[DoorDash]], [[Gmail]], and [[FriendFeed]] - main episode subjects.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[RealWorldConnectionProducts]], [[FounderIdeaPivot]], [[PlatformCommunityGovernance]], [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], [[StartupCommunityInfrastructure]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[LargeCompanyRiskIncentives]], [[StartupInfrastructureImprovisation]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring themes in the stories she helps draw out.

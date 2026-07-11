@@ -2,7 +2,7 @@
 title: "Justin.tv"
 type: entity
 tags: [company, startups, video, y-combinator]
-sources: [socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
+sources: [tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
 last_updated: 2026-07-11
 ---
 
@@ -16,8 +16,10 @@ The company also becomes the wiki's core [[StartupRunwayDiscipline]] case. Durin
 
 Justin.tv also appears in [[socialradarspod-brianchesky-final]] as the [[YCombinator]]-linked startup network around [[MichaelSeibel]]. [[BrianChesky]] says a roommate worked at Justin.tv, and after Chesky was stranded in Austin, Seibel and the Justin.tv group became both emergency lodging and a route toward investor introductions for [[Airbnb]].
 
+[[tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]] adds [[KyleVogt]]'s technical account of the early live-streaming system. In 2006 and 2007, continuous mobile video required a backpack with a camera, small computer, multiple cellular modems across carriers, and hot-swappable batteries. The source turns Justin.tv into a live-video example of [[StartupInfrastructureImprovisation]] and explains why Vogt later had confidence that hard technical systems could be figured out by small teams.
+
 ## Connections
 - [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context from the Shear episode.
 - [[Kiko]], [[Twitch]], [[Amazon]], and [[BessemerVenturePartners]] - origin, focused successor, acquirer, and investor context.
 - [[BrianChesky]] and [[Airbnb]] - later founder-network role in the Austin story.
-- [[YCombinator]], [[StartupCommunityInfrastructure]], [[StartupRunwayDiscipline]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - accelerator, network, operating, and monetization context.
+- [[YCombinator]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[StartupRunwayDiscipline]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - accelerator, network, operating, and monetization context.
