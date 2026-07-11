@@ -2442,3 +2442,19 @@ Initial lint pass after health passed. Deterministic checks found two orphan pag
 ## [2026-07-12] lint | Wiki health check
 
 Final lint pass after graph refresh. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Amazon outages and AI coding guardrails, YouTube's revenue-led media dominance, and Meta's acquisition of the AI-only social network MoteBook. Created pages for Financial Times, MoffettNathanson, Ben Parr, Matt Schlicht, AI Coding Guardrails, and YouTube Media Dominance; updated overview, index, Marketplace Tech, Stephanie Hughes, Jewel Burke Solomon, Collab Capital, Amazon, YouTube, Alphabet, Google, Meta, MoteBook, OpenClaw, AI Social Networks, AI Talent Competition, Vibe Coding, AI Assisted Software Development Risk, AI Coding Verification, AI Governance And Compliance, and Human Judgment Under AI. No direct contradiction found; the source qualifies AI coding risk by saying Amazon denied AI-written-code involvement while still extending the need for review and deployment guardrails, and it adds an ambiguity around OpenClaw's identity that should be clarified by later sources.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of explicit contradiction sections found only apparent tensions already documented as non-contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,11 +2,13 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-paulb-final, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-paulb-final, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-07-12
 ---
 
 # Meta
+
+[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] adds Meta through its acquisition of [[MoteBook]], an AI-only social network where chatbots rather than humans post and interact. [[JewelBurkeSolomon]] says observers may read the deal as an acquihire, a product move, or both, because Meta's superintelligence push makes scarce AI builders strategically valuable. The source says Meta will reportedly bring in MoteBook creators [[BenParr]] and [[MattSchlicht]], but that the product's fate under Meta remains unclear.
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds Meta through a reported multiyear [[AIContentLicensing]] deal with [[NewsCorp]]. The episode says Meta gets access to real-time information and archives for AI products and training, while News Corp gets reported annual payments of up to $50 million as publisher traffic falls in the chatbot era.
 
@@ -42,6 +44,7 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 
 ## Connections
 - [[NewsCorp]], [[AIContentLicensing]], [[OpenWebTrafficDecline]], and [[AIAnswerSourceAttribution]] - publisher licensing and AI-answer economics branch added by Marketplace Tech.
+- [[MoteBook]], [[BenParr]], [[MattSchlicht]], [[AISocialNetworks]], and [[AITalentCompetition]] - AI-only social network acquisition branch added by Marketplace Tech Bytes.
 - [[Manus]] — claimed acquisition target and agent product central to the source.
 - [[TikTok]] and [[RecommendationSystemProductization]] — short-video competitive context added by the Musical.ly/TikTok source.
 - [[AgenticWorkflow]] — workflow pattern Meta is portrayed as buying into.

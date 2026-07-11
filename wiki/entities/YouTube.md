@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-11
+sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+last_updated: 2026-07-12
 ---
 
 # YouTube
+
+[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] makes YouTube the main case in [[YouTubeMediaDominance]]. The episode cites a [[MoffettNathanson]] report describing YouTube as the world's largest media company, with more than $62 billion in prior-year revenue, and [[JewelBurkeSolomon]] explains the position through YouTube TV, creator content, Shorts, ads, subscriptions, [[Alphabet]]'s broader ecosystem, and AI-assisted creator tools.
 
 YouTube appears in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] as an overseas distribution surface for Chinese short dramas. [[WangXiaoshu]] says his team has published more than 5000 short dramas on YouTube across many languages, using the platform as part of an international distribution workflow.
 
@@ -19,6 +21,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 ## Connections
 - [[WangXiaoshu]] — guest describing the distribution experience.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
+- [[MoffettNathanson]], [[YouTubeMediaDominance]], [[Alphabet]], and [[AIAdvertisingTargeting]] — Marketplace Tech report frame around revenue, ecosystem leverage, and targeting.
 - [[AIShortDrama]] — content category being distributed.
 - [[AIVideoProductionWorkflow]] — workflow and localization services that may replace pure distribution value.
 - [[VerticalMediaDistribution]] — broader media-distribution frame already used elsewhere in the wiki.

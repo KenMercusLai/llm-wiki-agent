@@ -2,11 +2,13 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-12
 ---
 
 # AI Governance And Compliance
+
+[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] adds two governance cases. The [[Amazon]] segment turns AI coding into a deployment-control issue through [[AICodingGuardrails]], review, uptime, and user safety. The [[MoteBook]] segment turns [[Meta]]'s acquisition of an agent-only social platform into an [[AISocialNetworks]] governance issue around product fate, agent identity, permissions, and talent acquisition.
 
 AI governance and compliance is the extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats. In [[finding-product-market-fit-after-3-years-of-failed-ideas]], [[GirishRedikar]] says AI affects [[Sprinto]] from three directions: Sprinto's own product becomes more autonomous, customers run more internal work on AI, and external attackers gain new AI-enabled tools. [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]] adds a financial-product boundary: [[YuYang]] says AI can filter information and explain markets, but regulated products cannot directly provide investment advice or trade for users.
 
@@ -53,9 +55,12 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - AI hiring governance includes knowing whether automated interviews measure only job-relevant answers or also infer behavioral signals, and preserving human accountability for employment decisions.
 - Defense AI governance includes negotiating acceptable-use rules with powerful government customers whose lawful mission preferences may exceed a provider's own use-policy boundaries.
 - Contractor AI governance includes inventorying embedded models and removing or replacing restricted vendors in critical systems.
+- AI coding governance includes review and deployment gates before AI-assisted work reaches users or affects uptime.
+- Agent-social governance can become acquisition governance when a large platform buys an early agent-only network without yet clarifying product fate.
 
 ## Connections
 - [[AIInterviewing]], [[RaySmith]], [[ObjectiveHiringAssessment]], and [[HumanJudgmentUnderAI]] - hiring-assessment governance branch added by Marketplace Tech.
+- [[Amazon]], [[AICodingGuardrails]], [[MoteBook]], [[Meta]], and [[AITalentCompetition]] - coding-deployment and agent-social acquisition governance branch added by Marketplace Tech Bytes.
 - [[Sprinto]] - company case.
 - [[GirishRedikar]] - source of the three-part AI impact frame.
 - [[ComplianceAutomation]] - underlying compliance-software category.

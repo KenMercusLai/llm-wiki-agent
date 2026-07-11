@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network](sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Amazon AI guardrails, YouTube's media dominance, Meta's MoteBook acquisition, AI talent competition, and vibe-coded products.
 - [Why Bitcoin falls short as a safe haven in geopolitical turmoil](sources/tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Gil Luria on Bitcoin's weak immediate safe-haven behavior versus gold, the digital-gold narrative, inflation and dollar-weakness hedging, 24/7 liquidity, and cross-border crypto capital flight from Iran or China.
 - [An Ohio newspaper gives AI a byline](sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI rewrite desk, AI-written local articles, newsroom survival arguments, staff unease, reader trust, and AI as a reporting aid versus writing substitute.
 - [What do Girl Scouts get out of selling cookies online?](sources/tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Wendy Liu on Girl Scout cookie sales moving online through sites, QR codes, email, social sharing, digital checkout, youth entrepreneurship, digital commerce literacy, and child online commerce safety.
@@ -311,6 +312,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Financial Times](entities/FinancialTimes.md) — Business-news organization whose Amazon outage reporting triggers the source's AI coding guardrails discussion.
+- [MoffettNathanson](entities/MoffettNathanson.md) — Research firm whose YouTube revenue report grounds the source's media-dominance discussion.
+- [Ben Parr](entities/BenParr.md) — MoteBook creator reportedly joining Meta through the AI-only social network acquisition.
+- [Matt Schlicht](entities/MattSchlicht.md) — MoteBook creator reportedly joining Meta through the AI-only social network acquisition.
 - [Gil Luria](entities/GilLuria.md) — D.A. Davidson technology research analyst explaining Bitcoin's volatility, digital-gold narrative, inflation hedge case, and cross-border crisis utility.
 - [D.A. Davidson](entities/DADavidson.md) — Financial-services firm affiliation for Gil Luria in the Marketplace Tech Bitcoin safe-haven episode.
 - [The Plain Dealer](entities/ThePlainDealer.md) — Cleveland newspaper used as the source's case for AI-assisted local-news production and AI-written articles.
@@ -1924,6 +1929,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Coding Guardrails](concepts/AICodingGuardrails.md) — Review, control, and deployment practices for keeping AI-assisted engineering work from becoming production risk.
+- [YouTube Media Dominance](concepts/YouTubeMediaDominance.md) — YouTube's platform position across creator content, TV, Shorts, ads, subscriptions, Alphabet data, and AI creator tools.
 - [Digital Gold](concepts/DigitalGold.md) — Claim that Bitcoin can play a gold-like monetary role through capped supply, government independence, divisibility, and global transferability.
 - [Bitcoin Safe-Haven Behavior](concepts/BitcoinSafeHavenBehavior.md) — Question of whether Bitcoin actually attracts protective demand during shocks rather than only carrying a digital-gold narrative.
 - [Cross-Border Crypto Capital Flight](concepts/CrossBorderCryptoCapitalFlight.md) — Use of crypto assets such as Bitcoin to move wealth across borders during instability, currency pressure, sanctions, or capital controls.
