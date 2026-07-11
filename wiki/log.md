@@ -2171,6 +2171,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Here's how to prep for a job interview with AI
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and "AI plus HI" as a human-in-the-loop hiring boundary. Created pages for Ray Smith, Wall Street Journal, and AI Interviewing; updated overview, index, Marketplace Tech, Stephanie Hughes, Objective Hiring Assessment, AI Hiring Arms Race, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source qualifies objective hiring assessment by showing that skill-focused AI interviews still need transparent measurement and human accountability.
+
 ## [2026-07-12] ingest | Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs
 
 Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews link visibility, publisher traffic, European Commission scrutiny, Palantir's headquarters move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance. Created pages for Google AI Overviews, Daily Mail, European Commission, Alex Karp, Florida, Miami, Tax Foundation, ServiceNow, Citadel, Ring, Ring Search Party, Jamie Siminoff, Flock Safety, AI Answer Source Attribution, South Florida Tech Migration, and Consumer Camera Surveillance; updated overview, index, Marketplace Tech, Stephanie Hughes, Anita Ramaswamy, The Information, Google, Open Web Traffic Decline, Search Advertising Decline, Generative Engine Optimization, AI Search Advertising, Platform Antitrust, Platform Data Regulation, European Union, Palantir, Amazon, Pew Research Center, Ray-Ban Smart Glasses, and Apple Privacy. No direct contradiction found; the source qualifies AI search and GEO optimism by separating visible citations from actual publisher traffic recovery, and it keeps Flock Safety distinct from the unrelated Flock photo-sharing app.
@@ -2326,6 +2330,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | AI makes it easier to code websites — including ones that scam consumers
 
 Added source page for the Marketplace Tech episode on AI-assisted scam websites, a fake Davines sponsored search result, and the way AI coding agents lower the cost of convincing brand impersonation. Created pages for Davines, Netcraft, Ginny Spicer, Coalfire, Charles Henderson, Silent Push, Zach Edwards, Lana Swartz, University of Virginia, AI-Assisted Website Scams, Fake Retail Website Impersonation, Search Ad Trust Gap, and Brand Impersonation Monitoring; updated overview, index, and related Marketplace Tech, Google, search-ad, and fraud pages. No direct contradiction found; the source qualifies AI-enabled scam industrialization by showing website production and paid search placement as another scaling path for fraud.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

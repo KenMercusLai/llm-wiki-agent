@@ -2,13 +2,15 @@
 title: "Stephanie Hughes"
 type: entity
 tags: [person, host, journalism]
-sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
+sources: [tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
 # Stephanie Hughes
 
-Stephanie Hughes is the [[MarketplaceTech]] host for [[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]], [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]], [[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]], [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]], [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]], [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]], and [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]].
+Stephanie Hughes is the [[MarketplaceTech]] host for [[tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]], [[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]], [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]], [[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]], [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]], [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]], [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]], and [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]].
+
+In the February 24 episode, Hughes interviews [[RaySmith]] of the [[WallStreetJournal|Wall Street Journal]] about [[AIInterviewing]]. Her questions connect candidate jitters, recorded answers, AI-generated assessments, and the fear that employers could move from AI screening into AI-controlled hiring decisions, while Smith emphasizes preparation and human review.
 
 In the February 23 episode, Hughes frames [[MeganMcCartyCorino]]'s report on a fake [[Davines]] shopping site that appeared through a sponsored [[Google]] result. The source connects her Marketplace Tech AI-risk coverage to [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], [[SearchAdTrustGap]], and [[AIEnabledScamIndustrialization]].
 
@@ -16,6 +18,7 @@ In the February 20 Bytes episode, Hughes interviews [[AnitaRamaswamy]] about [[G
 
 ## Connections
 - [[MarketplaceTech]] - show context.
+- [[RaySmith]], [[WallStreetJournal|Wall Street Journal]], [[AIInterviewing]], and [[ObjectiveHiringAssessment]] - February 24 AI job-interview episode.
 - [[MeganMcCartyCorino]], [[Davines]], [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], and [[SearchAdTrustGap]] - February 23 AI-assisted scam website episode.
 - [[AnitaRamaswamy]], [[GoogleAIOverviews|Google AI Overviews]], [[Palantir]], [[Ring]], and [[RingSearchParty|Ring Search Party]] - February 20 Bytes episode topics.
 - [[MikeIsaac]], [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[PersonalSuperintelligence]] - Meta AI spending and wearable assistant branch in the February 19 episode.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Here's how to prep for a job interview with AI](sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and the need to keep human judgment in hiring decisions.
 - [AI makes it easier to code websites - including ones that scam consumers](sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Megan McCarty-Corino on AI-assisted scam websites, a fake Davines sponsored search result, brand impersonation, search-ad trust, and cybersecurity monitoring by Netcraft, Coalfire, and Silent Push.
 - [Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs](sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews source links and publisher traffic, Palantir's move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance.
 - [Meta's big bet on superintelligence](sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI capex, ad-targeting payoff, Meta AI's consumer-adoption gap, Ray-Ban smart glasses, personal superintelligence, privacy tension, and AI overtaking VR inside Meta's priorities.
@@ -298,6 +299,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
+- [Wall Street Journal](entities/WallStreetJournal.md) — Media organization entering the wiki through Ray Smith's Marketplace Tech commentary on AI interviewing and hiring automation.
 - [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
 - [Netcraft](entities/Netcraft.md) — Cybersecurity company cited for identifying AI-generated websites impersonating brands.
 - [Ginny Spicer](entities/GinnySpicer.md) — Netcraft speaker explaining why AI-generated impersonation sites can look legitimate to ordinary consumers.
@@ -1860,6 +1863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Interviewing](concepts/AIInterviewing.md) — Hiring automation pattern where AI systems ask interview questions, collect recorded answers, and generate assessments that still require human review and governance.
 - [AI-Assisted Website Scams](concepts/AIAssistedWebsiteScams.md) — Fraudulent websites made cheaper, faster, or more convincing through AI coding agents, generated copy, and automated site production.
 - [Fake Retail Website Impersonation](concepts/FakeRetailWebsiteImpersonation.md) — Scam pattern where a fraudulent e-commerce site imitates the official store, catalog, or brand surface of a legitimate retailer.
 - [Search Ad Trust Gap](concepts/SearchAdTrustGap.md) — Mismatch between how trustworthy sponsored search placement feels to users and what paid placement actually proves.
