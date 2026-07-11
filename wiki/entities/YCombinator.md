@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -15,6 +15,8 @@ Y Combinator appears in [[tsr-s2-trevorblackwell-v2]] through its earliest opera
 The source emphasizes how physical and improvised the early accelerator was. Applications were emailed, reformatted into PDFs, printed, and scored; interviews were longer than later YC interviews; the first Mountain View program used part of [[Anybots]] space; and dinners happened while the building was still being renovated.
 
 [[socialradarsseason1-tracyyoung-final-1]] adds the later YC interview pattern through [[PlanGrid]]. [[TracyYoung]] remembers bringing physical blueprints into the interview, while [[JessicaLivingston]] remembers liking the combination of domain expertise, engineering talent, an important unsexy problem, and early customers willing to pay. This extends YC from early institutional origin story into [[VerticalSaaSDomainExpertise]] and [[ConstructionBlueprintVersionControl]] as batch-selection evidence.
+
+[[socialradars-edithelliot-v3]] adds [[NooraHealth]] as a Winter 2014 nonprofit case. [[EdithElliott]] says YC's nonprofit call let the team raise funding much faster than normal nonprofit processes, then helped them sharpen the story, focus on metrics, use technology, and see themselves as a company-like organization rather than only a charity. The episode extends YC from for-profit startup validation into [[NonprofitStartupDiscipline]], [[FamilyCaregiverTraining]], and [[TrustBasedPhilanthropy]].
 
 [[socialradarspod-tonyxu-final]] adds [[DoorDash]] as a Summer 2013 marketplace-validation case. [[TonyXu]] says the team entered YC after [[PaloAltoDelivery]] had repeat Stanford-area orders, then used the batch to test whether consumers, merchants, and dashers each wanted the marketplace. This extends the YC branch from selection and domain expertise into [[ThreeSidedMarketplaceValidation]] and [[JankyMVP]] learning.
 
@@ -36,6 +38,7 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[Anybots]] and [[StartupInfrastructureImprovisation]] - Mountain View office and dinner context.
 - [[TheSocialRadars]] - source show preserving YC origin stories through interviews.
 - [[TracyYoung]], [[PlanGrid]], and [[VerticalSaaSDomainExpertise]] - later YC company case added by the Young episode.
+- [[EdithElliott]], [[NooraHealth]], [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], and [[TrustBasedPhilanthropy]] - nonprofit startup case added by the Elliott episode.
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], [[JankyMVP]], and [[ThreeSidedMarketplaceValidation]] - marketplace-validation case added by the Xu episode.
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], [[CustomerPull]], and [[PreProductSelling]] - partner, angel-investing, and demand-evidence branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], [[LowFrequencyLowValueProduct]], and [[PowerUserDiscovery]] - mobile-consumer product case added by the Lieb episode.

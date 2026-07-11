@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy](sources/socialradars-edithelliot-v3.md) — The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, nonprofit startup discipline, unrestricted funding, donor trust, and the Care Companion Program.
 - [Paul Graham on Viaweb, Y Combinator, and Writing](sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll.md) — The Social Radars episode with Paul Graham on Viaweb's browser-software origin, Julian Weber's early investment, Y Combinator's first batch, Hacker News, and Graham's shift from painting back to writing.
 - [Brian Chesky on Airbnb's Origins, YC, and Reconnecting People](sources/socialradarspod-brianchesky-final.md) — The Social Radars episode with Brian Chesky on Airbnb's air-bed origin, marketplace trust design, Joe Gebbia, Nate Blecharczyk, Michael Seibel, YC, cereal-box survival, New York host fieldwork, and the mission to reconnect people.
 - [Steve Huffman on Reddit's Origin Story, Sale, and Return](sources/socialradarspod-stevehuffman-final.md) — The Social Radars episode with Steve Huffman on Reddit's YC pivot, Digg competition, Conde Nast sale, Infogami/Aaron Swartz strain, Hipmunk, and his 2015 return during a platform community crisis.
@@ -312,14 +313,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, Reddit's founder-over-idea pivot, PlanGrid's domain-expert interview, and DoorDash's three-sided marketplace validation.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, Reddit's founder-over-idea pivot, PlanGrid's domain-expert interview, DoorDash's marketplace validation, and Noora Health's nonprofit track case.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect Reddit's YC pivot, early YC operations, PlanGrid's domain expertise, and DoorDash's marketplace story.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Reddit's origin and return, early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Reddit, Hipmunk, Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, DoorDash, Gmail, and Bump.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect Noora Health's nonprofit-track case, Reddit's YC pivot, early YC operations, PlanGrid's domain expertise, and DoorDash's marketplace story.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Noora Health's nonprofit execution, Reddit's origin and return, early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Hipmunk, Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, DoorDash, Gmail, and Bump.
+- [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
+- [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
+- [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
@@ -359,7 +363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Stanford University](entities/StanfordUniversity.md) — University context for both the teen chatbot safety report and DoorDash's Stanford Startup Garage origin.
+- [Stanford University](entities/StanfordUniversity.md) — University context for the teen chatbot safety report, DoorDash's Stanford Startup Garage origin, Garry Tan's founder formation, and Noora Health's design-project origin.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
@@ -1596,6 +1600,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
 - [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakout companies dominate returns and founder quality outweighs investor desire for an idea.
 - [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
+- [Family Caregiver Training](concepts/FamilyCaregiverTraining.md) — Health intervention pattern where hospitals train present, motivated family members to support patients safely between formal clinical encounters.
+- [Nonprofit Startup Discipline](concepts/NonprofitStartupDiscipline.md) — Applying startup habits such as focus, metrics, concise storytelling, and milestone learning to nonprofit execution.
+- [Trust-Based Philanthropy](concepts/TrustBasedPhilanthropy.md) — Donor model built around unrestricted funding, shared metrics, and trusting nonprofits as operating experts rather than controlling every expense.
 - [Janky MVP](concepts/JankyMVP.md) — Rough MVP pattern illustrated by PaloAltoDelivery's PDF menus, phone calls, founder deliveries, and manual payment.
 - [Three-Sided Marketplace Validation](concepts/ThreeSidedMarketplaceValidation.md) — Marketplace validation pattern requiring separate proof of consumer demand, merchant participation, and worker or supplier-side willingness.
 - [Founder Proximity](concepts/FounderProximity.md) — Leadership practice of staying directly exposed to customers, workers, support issues, and operational detail as the company scales.

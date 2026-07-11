@@ -1979,3 +1979,11 @@ Added source page for The Social Radars episode with Paul Graham on Viaweb, Y Co
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy
+
+Added source page for The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, the Care Companion Program, nonprofit startup discipline, unrestricted funding, donor trust, and trust-based philanthropy. Created pages for Edith Elliott, Noora Health, Care Companion Program, Family Caregiver Training, Nonprofit Startup Discipline, and Trust-Based Philanthropy; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Stanford University, Founder Product Fit, Startup Accelerator Batch Selection, Validated Learning, Startup Governance, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's startup-validation branch by showing that field evidence, caregiver behavior, outcome metrics, and unrestricted donor trust can make YC-style operating discipline useful inside nonprofit global health.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,598 nodes and 25,116 edges while the wiki scan found 2,624 pages; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
