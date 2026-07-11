@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
 - [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
 - [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
 - [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
@@ -272,6 +273,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Eddy Lu](entities/EddyLu.md) — GOAT co-founder and CEO whose episode links Grub With Us, marketplace friction, sneaker authentication, Black Friday overload, and founder scrappiness.
+- [Daishen](entities/Daishen.md) — Eddy Lu's co-founder whose sneaker enthusiasm and fake-sneaker purchase helped turn GOAT into an authentication-led marketplace.
+- [GOAT](entities/GOAT.md) — Sneaker and apparel marketplace built around authentication, consolidated listings, quality control, used-sneaker access, and category focus.
+- [Grub With Us](entities/GrubWithUs.md) — Group-dinner marketplace from Eddy Lu and Daishen that reached YC but failed because participation involved too much logistical and social friction.
+- [Grub Tonight](entities/GrubTonight.md) — Same-day dinner attempt that reduced timing friction but did not solve the deeper social and logistical barriers in Grub With Us.
+- [GOAT Clean](entities/GOATClean.md) — GOAT used-sneaker refurbishment service for cleaning, deodorizing, and touching up used sneakers.
+- [Adam Bain](entities/AdamBain.md) — Early GOAT customer who became the company's first independent board member after a high-touch sneaker-sourcing story.
 - [David Rusenko](entities/DavidRusenko.md) — Weebly co-founder and Leap Forward founder whose episode links YC Winter 2007, slow PMF, capital efficiency, Square, delegation, and climate-tech investing.
 - [Weebly](entities/Weebly.md) — Drag-and-drop website builder that began as a Penn State class project, entered YC Winter 2007, survived the 2008 downturn, and was acquired by Square.
 - [Square](entities/Square.md) — Commerce and payments company that acquired Weebly in 2018 and used its codebase as the underpinnings of Square Online.
@@ -1669,6 +1677,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Marketplace Friction Reduction](concepts/MarketplaceFrictionReduction.md) — Marketplace product discipline of removing practical, emotional, trust, and decision burdens that block participant behavior.
+- [Authentication-Led Marketplace Trust](concepts/AuthenticationLedMarketplaceTrust.md) — Trust pattern where expert inspection, audits, and platform accountability make buyers comfortable with hard-to-verify resale goods.
+- [Category Focus Before Expansion](concepts/CategoryFocusBeforeExpansion.md) — Startup sequencing discipline of going deep in one category, geography, or use case before broadening the company surface area.
+- [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
 - [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
 - [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and letting teams execute without constant redirection.

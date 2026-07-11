@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -32,6 +32,8 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds Livingston as co-interviewer for [[YinWu]] on [[StartupSchool]], repeated [[YCombinator]] batches, [[Pulley]], and founder resilience. Her shared memory of the 2010 Stanford Startup School auditorium crisis helps frame Yin's early relationship to YC, while the Pulley discussion lets Livingston connect founder trust, [[Carta]], equity confusion, and [[CapTableLiteracy]] to practical company-building advice.
 
+[[tsr-s3-eddylu-v2-tsr-s3-eddylu-v2]] adds Livingston as co-interviewer for [[EddyLu]] on [[GrubWithUs]], [[GOAT]], and marketplace friction. Her memories of the YC-era cream puff story and her closing comparison between Grub With Us and [[Homejoy]] help frame the episode as a concrete lesson in [[MarketplaceFrictionReduction]], [[CategoryFocusBeforeExpansion]], and the difference between early demand and durable product-market fit.
+
 ## Connections
 - [[CarolynLevy]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
@@ -43,6 +45,7 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 - [[KyleVogt]], [[Cruise]], [[DanielKan]], [[GeneralMotors]], [[HardProblemMVPScoping]], and [[RobotaxiEconomics]] - Season 3 Kyle Vogt episode context.
 - [[RonConway]], [[NationalSemiconductor]], [[AltosComputer]], [[BandOfAngels]], and [[SelfDisruptionDiscipline]] - Season 3 Ron Conway episode context.
 - [[YinWu]], [[Pulley]], [[Carta]], [[StartupSchool]], [[CapTableLiteracy]], and [[FounderResilience]] - Season 3 Yin Wu episode context.
+- [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - Season 3 Eddy Lu episode context.
 - [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[Airbnb]], [[Reddit]], [[StartupSchool]], [[Bookface]], [[Posterous]], [[InitializedCapital]], [[Anybots]], [[PlanGrid]], [[DoorDash]], [[Bump]], [[GooglePhotos]], [[Gmail]], [[FriendFeed]], and [[StartupAcceleratorBatchSelection]] - main institutional context.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderIdeaPivot]], [[LongLivedStartupDecisions]], [[FounderHonesty]], [[BuilderCenteredInstitutions]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[ConstructionBlueprintVersionControl]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring operating themes.

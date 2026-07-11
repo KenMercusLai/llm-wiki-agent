@@ -2,7 +2,7 @@
 title: "Founder Product Fit"
 type: concept
 tags: [startup, validation, founder-fit]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, finding-product-market-fit-after-3-years-of-failed-ideas, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, finding-product-market-fit-after-3-years-of-failed-ideas, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -52,6 +52,8 @@ Founder product fit is the match between a founding team's strengths, credibilit
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[YinWu]] as a fit case where the first personal problem was not enough. [[Prim]] matched her dislike of laundry and willingness to do the work directly, but not her long-term motivation to build laundry operations. [[Pulley]] fit more deeply because Yin wanted to serve founders and repeatedly think about their ownership, fundraising, hiring, and control problems. The source turns founder-product fit into [[FounderUserObsession]]: the founder has to want extended contact with the user's real constraints, not just the initial product idea.
 
+[[tsr-s3-eddylu-v2-tsr-s3-eddylu-v2]] adds [[EddyLu]] and [[Daishen]] as a fit case where prior failure sharpened the later product. [[GrubWithUs]] matched a real social need but carried too much marketplace friction for the founders to solve into durable behavior. [[GOAT]] fit better because Daishen's sneaker knowledge, the fake-sneaker pain, and the founders' operating tolerance could become [[AuthenticationLedMarketplaceTrust]], [[MarketplaceFrictionReduction]], and focused category execution.
+
 ## Key Claims
 - Product-market fit is not the only fit question; a team may understand a problem yet lack the channel, credibility, or motivation needed to win it.
 - Founder product fit can help founders reject attractive but mismatched ideas during [[FastProductValidation]].
@@ -80,6 +82,7 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - Technical founder-product fit can overfit to a fascinating implementation problem; the buyer's job still has to decide the product shape.
 - Founder-product fit can be strongest when the founder repeatedly seeks the same kind of constraint, as Vogt moved from live-video hardware to autonomous-driving systems, but it still has to expand into financing, safety, hiring, and distribution.
 - Founder-product fit can fail when the founder solves a real personal problem but does not want to spend years with the user, operations, or domain the company requires.
+- Founder-product fit can improve after a failed marketplace when the founders convert the failure's specific friction lessons into a product whose trust and operations match their strengths.
 
 ## Connections
 - [[GirishRedikar]] - source of the founder-fit discussion in this wiki.
@@ -108,3 +111,4 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - [[YuriSagalov]], [[AeroFS]], [[EnterpriseFileSync]], [[PeerToPeerSynchronizationRisk]], and [[TechnicalAmbitionCustomerMismatch]] - Sagalov episode branch where technical fit diverges from customer need.
 - [[KyleVogt]], [[Cruise]], [[JustinTV|Justin.tv]], [[Twitch]], [[HardProblemMVPScoping]], and [[RobotaxiEconomics]] - Vogt episode branch where technical fit becomes a hard-tech company-building path.
 - [[YinWu]], [[Prim]], [[Pulley]], [[FounderUserObsession]], and [[CapTableLiteracy]] - Yin Wu episode branch where personal pain gives way to a stronger founder-user fit around founders and equity.
+- [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - Eddy Lu episode branch where failed marketplace learning becomes stronger founder-product fit.
