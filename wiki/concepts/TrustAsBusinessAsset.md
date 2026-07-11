@@ -2,8 +2,8 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
-last_updated: 2026-07-11
+sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
+last_updated: 2026-07-12
 ---
 
 # Trust As Business Asset
@@ -26,6 +26,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds the cap-table SaaS version through [[Pulley]] and [[Carta]]. [[YinWu]] says trust became a stronger differentiator after Carta-related incidents made founders worry about privacy, investor contact, and control over sensitive equity information. Pulley's switching support shows how [[TrustSensitiveSaaSSwitching]] can turn lost trust into customer movement.
 
+[[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds the local-news version through [[ThePlainDealer|the Plain Dealer]]. A newspaper's trust asset comes from readers believing that reporting, editing, and accountability sit behind what is published. [[AIWrittenJournalism]] can preserve that asset only if [[NewsroomAIAdoption]] visibly improves coverage without making the institution feel like it has withdrawn human care from the work.
+
 ## Key Claims
 - Trust is not only reputational decoration; it can affect pricing, supplier cooperation, employee commitment, customer loyalty, and regulatory credibility.
 - A trustworthy company can become more tempting to redirect because others want access to the trust it accumulated.
@@ -40,6 +42,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - Nonprofit trust has to preserve operating room: donors can demand accountability through shared metrics without controlling every spending decision.
 - Critical-infrastructure trust is earned through reliability, bank cooperation, domain knowledge, and crisis behavior before it can become ordinary go-to-market leverage.
 - Sensitive SaaS trust depends on whether customers believe the vendor will protect information, act within expected boundaries, and make switching possible when trust breaks.
+- Newsroom trust can be spent by opaque or generic AI writing even when the facts are useful, because readers judge whether the institution still stands behind the work.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -54,3 +57,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[NooraHealth]], [[EdithElliott]], [[TrustBasedPhilanthropy]], and [[NonprofitStartupDiscipline]] - donor-trust branch added by the Elliott episode.
 - [[ModernTreasury]], [[DimitriDadiomov]], [[SiliconValleyBank]], [[MoneyMovementInfrastructure]], [[TrustHeavyInfrastructureSales]], and [[FinancialOperationsResilience]] - financial-infrastructure trust branch added by the Dadiomov episode.
 - [[Pulley]], [[Carta]], [[YinWu]], [[CapTableLiteracy]], and [[TrustSensitiveSaaSSwitching]] - cap-table SaaS trust branch added by the Yin Wu episode.
+- [[ThePlainDealer]], [[AIJournalismTrust]], [[AIWrittenJournalism]], [[NewsroomAIAdoption]], and [[AIContentProvenance]] - newsroom trust branch added by Marketplace Tech.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [An Ohio newspaper gives AI a byline](sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI rewrite desk, AI-written local articles, newsroom survival arguments, staff unease, reader trust, and AI as a reporting aid versus writing substitute.
 - [What do Girl Scouts get out of selling cookies online?](sources/tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Wendy Liu on Girl Scout cookie sales moving online through sites, QR codes, email, social sharing, digital checkout, youth entrepreneurship, digital commerce literacy, and child online commerce safety.
 - [California's one-stop shop for data brokers to delete consumers' data](sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, and why state privacy tools remain incomplete without broader privacy rules.
 - [Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp](sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave on Kalshi and Polymarket prediction-market ethics, Anthropic as a defense AI supply-chain risk, and Meta's News Corp licensing deal.
@@ -309,6 +310,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Plain Dealer](entities/ThePlainDealer.md) — Cleveland newspaper used as the source's case for AI-assisted local-news production and AI-written articles.
+- [Chris Quinn](entities/ChrisQuinn.md) — Plain Dealer editor arguing that AI can help local journalism survive and put reporters back into the field.
+- [Willa Remus](entities/WillaRemus.md) — Washington Post technology reporter explaining the Plain Dealer's AI workflows and reader-trust risks.
+- [Washington Post](entities/WashingtonPost.md) — Media organization represented by Willa Remus in the Marketplace Tech episode on AI in local journalism.
+- [Advanced Local Express Desk](entities/AdvancedLocalExpressDesk.md) — Plain Dealer label or byline associated with mostly AI-written stories from the AI rewrite desk.
 - [Girl Scouts of the USA](entities/GirlScoutsOfTheUSA.md) — Youth nonprofit using cookie sales as a supervised entrepreneurship and digital commerce literacy program.
 - [Wendy Liu](entities/WendyLiu.md) — Girl Scouts of the USA chief revenue officer explaining digital cookie sales, girl-led learning, platform feedback, and online safety.
 - [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
@@ -1915,6 +1921,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Newsroom AI Adoption](concepts/NewsroomAIAdoption.md) — Use of AI across newsroom transcription, lead generation, summarization, document review, and article drafting workflows.
+- [AI Rewrite Desk](concepts/AIRewriteDesk.md) — Workflow where reporters' notes are turned into articles by an editor prompting AI.
+- [AI-Written Journalism](concepts/AIWrittenJournalism.md) — Published news copy substantially drafted by AI rather than by a human reporter.
+- [AI Journalism Trust](concepts/AIJournalismTrust.md) — Reader-confidence problem around AI-written or AI-assisted journalism, beyond disclosure alone.
+- [Local News Automation Tradeoff](concepts/LocalNewsAutomationTradeoff.md) — Question of whether basic AI-assisted local coverage is preferable to no coverage, and when that becomes cost-cutting.
 - [Youth Entrepreneurship](concepts/YouthEntrepreneurship.md) — Supervised youth commercial activity used to teach goals, communication, customer follow-up, money purpose, and responsibility.
 - [Digital Commerce Literacy](concepts/DigitalCommerceLiteracy.md) — Practical skill of using online sales tools while understanding message, channel, follow-up, checkout, safety, and trust.
 - [Child Online Commerce Safety](concepts/ChildOnlineCommerceSafety.md) — Safety boundary for minors using digital tools to sell, fundraise, contact customers, or bridge online ordering into offline delivery.

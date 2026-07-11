@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | An Ohio newspaper gives AI a byline
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI use in local journalism, including transcription, lead generation, letters-to-the-editor summaries, the AI rewrite desk, and the Advanced Local Express Desk label for mostly AI-written articles. Created pages for The Plain Dealer, Chris Quinn, Willa Remus, Washington Post, Advanced Local Express Desk, Newsroom AI Adoption, AI Rewrite Desk, AI-Written Journalism, AI Journalism Trust, and Local News Automation Tradeoff; updated overview, index, Marketplace Tech, Stephanie Hughes, Local Journalism, Public Service Journalism, Human Judgment Under AI, AI Content Devaluation, AI Content Provenance, Trust As Business Asset, Creative Labor AI Backlash, and AI Workflow Triage. No direct contradiction found; the source qualifies local-news automation as a survival strategy only when it expands useful coverage without eroding verification, authorship, staff craft, and reader trust.
+
 ## [2026-07-12] ingest | What do Girl Scouts get out of selling cookies online?
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Wendy Liu of Girl Scouts of the USA on digital cookie sales, online storefronts, QR codes, email outreach, social sharing, customer follow-up, faster checkout, caregiver supervision, local delivery approval, and seasonal scarcity. Created pages for Girl Scouts of the USA, Wendy Liu, Youth Entrepreneurship, Digital Commerce Literacy, and Child Online Commerce Safety; updated overview, index, Marketplace Tech, and Stephanie Hughes. No direct contradiction found; the source qualifies direct-to-consumer sales by showing a nonprofit youth program where digital commerce is treated as supervised learning rather than only conversion or margin capture.
@@ -2418,3 +2422,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,011 nodes and 30,453 edges; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session semantic review of the script sample, orphan pages, and fragile-bridge endpoints found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

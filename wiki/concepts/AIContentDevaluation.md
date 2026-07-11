@@ -2,7 +2,7 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires]
+sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires]
 last_updated: 2026-07-12
 ---
 
@@ -26,6 +26,8 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 
 [[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds the AEO version through [[ErinGriffith]]. In [[AnswerEngineOptimization]], AI-generated marketing filler can fail twice: humans may read it as low-effort, and chatbots may ignore it because it lacks hard facts, specificity, or verifiable information.
 
+[[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds the local-journalism version through [[WillaRemus]] and [[ThePlainDealer|the Plain Dealer]]. AI-written articles may be adequate for basic local items, but they can also read as cliched, boring, or unauthored. The episode's reader-trust question is whether audiences will value an article if they believe the publication itself did not bother to write it.
+
 ## Key Claims
 - Lower creation cost can reduce perceived scarcity, making readers or users more selective about what deserves attention.
 - "AI flavor" in short text can break trust because the audience may infer that the author outsourced the act of thinking.
@@ -41,6 +43,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - Knowledge content can be devalued without making all paid media impossible; the paid layer may shift toward community, events, source trust, and embodied experience.
 - Slop makes content devaluation infrastructural and political: cheap synthetic media can farm attention, shape propaganda, and re-enter future training data.
 - In AI search, generated fluff is not only aesthetically weak; it can be strategically weak if it gives answer engines little factual material to retrieve.
+- In journalism, content devaluation can appear even with useful facts when readers infer that human reporting, voice, and care have been stripped from the article.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -55,3 +58,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[FengTouQuan]], [[HumanConnectionUnderAI]], and [[AIResistantExperientialConsumption]] — episode 137's community and offline-experience response to content devaluation.
 - [[AISlop]], [[ModelCollapse]], and [[AIMetabolicInfrastructure]] — Crawford's synthetic-media, training-data, and resource-cost extension.
 - [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[AIDiscoverySEO]] - AEO case where factual density matters more than AI-generated filler.
+- [[AIWrittenJournalism]], [[AIRewriteDesk]], [[AIJournalismTrust]], and [[LocalNewsAutomationTradeoff]] - local-news case where generated copy may add coverage while weakening perceived authorship.
