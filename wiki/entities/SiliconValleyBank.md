@@ -2,7 +2,7 @@
 title: "Silicon Valley Bank"
 type: entity
 tags: [company, banking, startups, fintech]
-sources: [socialradarspod-brianarmstrong-final]
+sources: [socialradarsseason2-dimitri-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,6 +12,11 @@ Silicon Valley Bank appears in [[socialradarspod-brianarmstrong-final]] as the b
 
 The source uses the bank less as a full institutional history and more as a forcing function. Coinbase's product depended on banking access, and banking access depended on credible [[BankingKYCCompliance]] and [[RegulatedCryptoTrustStrategy]].
 
+[[socialradarsseason2-dimitri-final]] adds a second Silicon Valley Bank role through [[ModernTreasury]]. First, SVB was an obvious early bank partner because many [[YCombinator]] startups used it, and its willingness to work with Modern Treasury helped a young company earn customer trust. Later, the March shutdown made SVB the crisis case for [[FinancialOperationsResilience]]: customers with only one bank relationship faced urgent payment, payroll, and reporting risk, while customers with multi-bank setups already connected to Modern Treasury had more options.
+
+The Dadiomov source also reframes SVB through [[AcceleratedBankRuns]]. The episode argues that texts, social media, mobile apps, and online transfers shortened the bank-run feedback loop, making backup banking less theoretical and more like operational disaster recovery.
+
 ## Connections
 - [[Coinbase]] and [[BrianArmstrong]] - product and founder context.
 - [[AntiMoneyLaundering]], [[BankingKYCCompliance]], and [[RegulatedCryptoTrustStrategy]] - compliance concepts surfaced by the bank-transfer episode.
+- [[ModernTreasury]], [[DimitriDadiomov]], [[SignatureBank]], [[FinancialOperationsResilience]], [[AcceleratedBankRuns]], and [[TrustHeavyInfrastructureSales]] - banking infrastructure and crisis-resilience branch added by the Dadiomov episode.

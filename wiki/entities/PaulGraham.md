@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -28,6 +28,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-brianchesky2-final]] adds Graham's New York advice as the operational version of the same philosophy. When the Airbnb founders objected that visiting users would not scale, Graham told them that was the reason to do it early. This makes Graham a source for [[UnscalableFounderWork]], not only for selection and product-love advice.
 
+[[socialradarsseason2-dimitri-final]] adds Graham indirectly through the "schlep blindness" frame that [[DimitriDadiomov]] uses to explain [[ModernTreasury]]. The episode applies Graham's idea to [[MoneyMovementInfrastructure]]: valuable startup opportunities can hide inside painful operational work that founders avoid because it looks messy, regulated, or boring.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -41,3 +43,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - founder-over-idea branch added by the Huffman episode.
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - survival and product-love branch added by the Chesky episode.
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - New York host-fieldwork advice added by the second Chesky episode.
+- [[DimitriDadiomov]], [[ModernTreasury]], [[OperationalPainFounderInsight]], and [[MoneyMovementInfrastructure]] - Dadiomov episode branch that invokes Graham's schlep-blindness frame.

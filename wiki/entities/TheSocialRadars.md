@@ -2,7 +2,7 @@
 title: "The Social Radars"
 type: entity
 tags: [podcast, media, startup-history]
-sources: [socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,10 +12,13 @@ The Social Radars is the podcast/show context for [[socialradarsseason1-wrapup-f
 
 [[socialradarspod-brianarmstrong-final]] adds [[BrianArmstrong]] on [[Coinbase]], extending the show from YC, consumer products, and nonprofit execution into crypto-fintech company building. The episode preserves a founder account of the wallet-to-buy-button pivot, [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], the [[SEC]] dispute, [[FTX]], [[MissionFocusedCompany]] policy, and [[FounderMotivationEvolution]].
 
+[[socialradarsseason2-dimitri-final]] adds [[DimitriDadiomov]] on [[ModernTreasury]], extending the show further into fintech infrastructure. The episode turns hidden money movement into company-building material: [[LendingHome]] payment pain, bank partnerships, [[TrustHeavyInfrastructureSales]], [[SiliconValleyBank]] crisis response, [[FinancialOperationsResilience]], [[AcceleratedBankRuns]], and [[FedNow]] all become startup-history evidence rather than back-office detail.
+
 The show matters to the wiki as a startup-history source. Rather than only summarizing company outcomes, the episodes preserve operational memories: who had the half-awake browser-software idea, who wrote small checks, who turned around on a train, who wrote scripts, who printed applications, how offices were wired, what robot demos visitors saw, how construction drawings moved through job sites, how founders grieved while building, how second-time founders redesign company operating systems, how a food-delivery marketplace began with PDF menus and founders doing deliveries, how an air-bed hosting experiment became a trust marketplace, how Airbnb later used YC-style unscalable work and crisis focus at public-company scale, how Gmail's launch mixed internal feedback with capacity constraints, how Bump's huge adoption still failed to solve frequency, monetization, and post-acquisition product-politics problems, how a nonprofit used YC-style discipline to train family caregivers, and how YC's own community tools, forums, essays, and advice culture were built as it scaled.
 
 ## Connections
 - [[JessicaLivingston]] and [[CarolynLevy]] - hosts and Season 1 wrap-up participants.
+- [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], [[AcceleratedBankRuns]], and [[TrustHeavyInfrastructureSales]] - fintech infrastructure case added by the Dadiomov episode.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], [[MissionFocusedCompany]], and [[FounderMotivationEvolution]] - crypto-fintech founder case added by the Armstrong episode.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], and [[PaulBuchheit]] - interview subjects in ingested episodes.
 - [[NooraHealth]], [[CareCompanionProgram]], [[Viaweb]], [[YCombinator]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Hipmunk]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Anybots]], [[PlanGrid]], [[TigerEye]], [[DoorDash]], [[Gmail]], [[Google]], and [[FriendFeed]] - main institutions covered.

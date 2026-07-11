@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dimitri Dadiomov on Modern Treasury and Financial Plumbing](sources/socialradarsseason2-dimitri-final.md) — The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, money-movement infrastructure, trust-heavy infrastructure sales, SVB crisis response, financial-operations resilience, accelerated bank runs, and FedNow.
 - [Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience](sources/socialradarspod-brianarmstrong-final.md) — The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, crypto compliance, SEC conflict, FTX, mission-focused company culture, fraud controls, and founder motivation.
 - [Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led](sources/socialradarspod-brianchesky2-final.md) — The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, market expansion, COVID crisis, stakeholder tradeoffs, emergency financing, layoffs, and founder-led functional reset.
 - [Social Radars Season 1 Wrap-Up and Season 2 Announcement](sources/socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 1, explain that seven planned episodes became nine, announce a roughly month-long recording break before Season 2, and preview selected video highlights on YouTube and Twitter.
@@ -260,13 +261,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dimitri Dadiomov](entities/DimitriDadiomov.md) — Modern Treasury co-founder and CEO whose episode links LendingHome payment pain, YC, bank trust, SVB crisis response, and financial-operations resilience.
+- [Modern Treasury](entities/ModernTreasury.md) — Fintech infrastructure company built around bank connectivity, payment initiation, reconciliation, and money-movement workflows.
+- [LendingHome](entities/LendingHome.md) — Mortgage and renovation-loan marketplace where payment volume exposed the operational pain behind Modern Treasury.
+- [Better Place](entities/BetterPlace.md) — Earlier startup-scaling experience in Dimitri Dadiomov's background before Modern Treasury.
+- [FedNow](entities/FedNow.md) — U.S. real-time payment rail discussed as a faster infrastructure layer that still needs bank and software coordination.
+- [Signature Bank](entities/SignatureBank.md) — Bank receivership case paired with Silicon Valley Bank in Modern Treasury's crisis-response account.
+- [BASES](entities/BASES.md) — Stanford entrepreneurship group that connected Dimitri Dadiomov with Jessica Livingston and early YC Startup School work.
 - [Brian Armstrong](entities/BrianArmstrong.md) — Coinbase co-founder and CEO whose episode connects Bitcoin curiosity, Airbnb payments, YC validation, compliance, fraud controls, mission focus, and founder motivation.
 - [Coinbase](entities/Coinbase.md) — Crypto wallet and exchange company used as a case for YC high-beta selection, buy-button product-market fit, regulated crypto trust, and early fintech fraud controls.
 - [FTX](entities/FTX.md) — Collapsed crypto exchange used in the Armstrong episode as a reputational shock and trust-structure contrast with Coinbase.
 - [Sam Bankman-Fried](entities/SamBankmanFried.md) — FTX founder discussed by Armstrong as a rapid-status crypto founder whose media rise, spending signals, and collapse became a cautionary case.
 - [Gary Gensler](entities/GaryGensler.md) — SEC chair discussed through Armstrong's view of Coinbase's crypto regulatory dispute.
 - [SEC](entities/SEC.md) — U.S. securities regulator appearing in the Coinbase source as the enforcement and regulatory-clarity counterparty.
-- [Silicon Valley Bank](entities/SiliconValleyBank.md) — Bank-transfer counterparty that forced Coinbase to confront AML policy before launching the buy feature.
+- [Silicon Valley Bank](entities/SiliconValleyBank.md) — Startup bank appearing first as Coinbase's AML forcing function and later as Modern Treasury's crisis-resilience case.
 - [Mt. Gox](entities/MtGox.md) — Early Bitcoin exchange where Armstrong bought Bitcoin before Coinbase, used as a marker of rough early crypto access.
 - [Julian Weber](entities/JulianWeber.md) — Early Viaweb investor whose $10,000 check, legal work, and board role became a practical template for founder-friendly seed investing.
 - [Hacker News](entities/HackerNews.md) — Paul Graham-started online forum that helped Y Combinator while also creating persistent community-governance stress.
@@ -326,14 +334,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, Reddit's founder-over-idea pivot, PlanGrid's domain-expert interview, DoorDash's marketplace validation, and Noora Health's nonprofit track case.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, founder-over-idea pivots, nonprofit and marketplace cases, and Modern Treasury's trust-heavy infrastructure validation.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect Noora Health's nonprofit-track case, Reddit's YC pivot, early YC operations, PlanGrid's domain expertise, DoorDash's marketplace story, and the Season 1 wrap-up.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Noora Health's nonprofit execution, Reddit's origin and return, early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, Tony Xu's DoorDash story, and the Season 1 wrap-up.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Hipmunk, Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, DoorDash, Gmail, Bump, and the Season 1-to-Season 2 transition.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1-to-Season 2 context.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1-to-Season 2 context.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, and the Season 1-to-Season 2 transition.
 - [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
 - [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
 - [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
@@ -1590,6 +1598,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Money Movement Infrastructure](concepts/MoneyMovementInfrastructure.md) — Hidden fintech layer for bank connectivity, payment instructions, statements, reconciliation, exceptions, and faster payment-rail adoption.
+- [Financial Operations Resilience](concepts/FinancialOperationsResilience.md) — Ability to keep payments, payroll, collections, and reconciliation operating when a bank or payment workflow fails.
+- [Accelerated Bank Runs](concepts/AcceleratedBankRuns.md) — Bank-run risk accelerated by texts, social media, mobile banking, and online transfers.
+- [Trust-Heavy Infrastructure Sales](concepts/TrustHeavyInfrastructureSales.md) — Sales pattern where critical-infrastructure buyers need trust, bank coordination, implementation, and time before usage metrics appear.
+- [Operational Pain Founder Insight](concepts/OperationalPainFounderInsight.md) — Startup insight pattern where founders productize a painful, repeated, unglamorous workflow they lived through directly.
 - [Startup High-Beta Bet](concepts/StartupHighBetaBet.md) — YC selection frame for companies with high failure probability but unusually large upside, added through Coinbase.
 - [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, and regulator engagement as core crypto product strategy.
 - [Early Fintech Fraud Controls](concepts/EarlyFintechFraudControls.md) — Operational fraud controls needed before low-margin financial products are overwhelmed by abuse.
@@ -2479,7 +2492,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Border Fund Transfer Risk](concepts/CrossBorderFundTransferRisk.md) — Compliance, foreign-exchange, data, and account-safety risk created when funds move across jurisdictions and counterparties.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
-- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, pay, or act after clearer product and landing-page communication.
+- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer, pay, sign LOIs, tolerate migration work, or otherwise act beyond polite interest.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintained tools, and durable personal knowledge assets.
@@ -2503,7 +2516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
-- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, recurring use, and design changes measured against user behavior.
+- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, LOIs, deployment work, and user behavior.
 - [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
 - [Finance Career Portability](concepts/FinanceCareerPortability.md) — Transfer of finance-industry communication, sales, customer, risk, and service skills into other roles, institutions, or sectors.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
@@ -2516,7 +2529,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Identity Diversification](concepts/FounderIdentityDiversification.md) — Founder-health pattern of keeping self-worth, learning, and relationships from depending on one company or role.
-- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose, now including Reddit's idea pivot and DoorDash's marketplace-validation case.
+- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, lived operational pain, and go-to-market abilities and the product they choose.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
@@ -2588,7 +2601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
 - [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, including cases where crisis pulls the founder back.
-- [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
+- [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.

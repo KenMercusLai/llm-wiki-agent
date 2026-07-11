@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,8 +14,11 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[socialradarspod-brianarmstrong-final]] adds Livingston as the interviewer framing [[Coinbase]] as a [[StartupHighBetaBet]] from YC's 2012 notes. The episode lets her connect [[BrianArmstrong]]'s self-doubt, YC validation, co-founder mismatch, and later public-company candor to the same practical startup-memory project as the earlier [[TheSocialRadars]] interviews.
 
+[[socialradarsseason2-dimitri-final]] adds Livingston as the interviewer with a long prior connection to [[DimitriDadiomov]]. She remembers working with him in 2006 when he was a [[StanfordUniversity]] undergraduate and [[BASES]] president helping [[YCombinator]] host Startup School at Stanford. The episode extends her source role into [[ModernTreasury]], [[MoneyMovementInfrastructure]], bank trust, and the [[SiliconValleyBank]] crisis.
+
 ## Connections
 - [[CarolynLevy]] and [[TheSocialRadars]] - co-host and show context.
+- [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[StartupHighBetaBet]], and [[RegulatedCryptoTrustStrategy]] - Armstrong episode context.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], and [[RobertMorris]] - interview subjects and YC collaborators.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[Airbnb]], [[Reddit]], [[StartupSchool]], [[Bookface]], [[Posterous]], [[InitializedCapital]], [[Anybots]], [[PlanGrid]], [[DoorDash]], [[Bump]], [[GooglePhotos]], [[Gmail]], [[FriendFeed]], and [[StartupAcceleratorBatchSelection]] - main institutional context.

@@ -2011,3 +2011,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Dimitri Dadiomov on Modern Treasury and Financial Plumbing
+
+Added source page for The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, YC Summer 2018, money-movement infrastructure, trust-heavy infrastructure sales, SVB and Signature crisis response, financial-operations resilience, accelerated bank runs, founder consistency, and FedNow. Created pages for Dimitri Dadiomov, Modern Treasury, LendingHome, Better Place, FedNow, Signature Bank, BASES, Money Movement Infrastructure, Financial Operations Resilience, Accelerated Bank Runs, Trust-Heavy Infrastructure Sales, and Operational Pain Founder Insight; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Silicon Valley Bank, Stanford University, Paul Graham, Customer Pull, Pre-Product Selling, Fast Product Validation, Founder Product Fit, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's fintech branch from regulated crypto access into bank connectivity, reconciliation, payment operations, and crisis resilience.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
