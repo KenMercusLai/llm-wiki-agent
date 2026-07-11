@@ -2190,3 +2190,11 @@ Added source page for The Social Radars YC offsite episode with Garry Tan on fou
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Paul Graham, Founder, Y Combinator
+
+Added source page for The Social Radars YC offsite episode with Paul Graham on founder mode as a real but still unmapped founder-operating phenomenon, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, Paul Gross, and young-founder credibility. Created pages for Replit, Amjad Masad, Stoke, and Paul Gross; updated overview, index, Founder Mode, Vibe Coding, Founder Proximity, Paul Graham, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Brian Chesky, Ron Conway, Steve Jobs, and Jony Ive. No direct contradiction found; the source reinforces the Brian Chesky and Garry Tan founder-mode offsite pages while making the concept explicitly exploratory rather than a finished doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

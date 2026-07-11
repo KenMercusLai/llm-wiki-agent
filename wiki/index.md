@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Paul Graham, Founder, Y Combinator](sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final.md) — The Social Radars YC offsite episode with Paul Graham on founder mode as an unfinished map, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, and young-founder credibility.
 - [Founder Mode: Garry Tan, President & CEO, Y Combinator](sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final.md) — The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy.
 - [Founder Mode: Brian Chesky, Founder & CEO, Airbnb](sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final.md) — The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, skip-level relationships, founder presence, and AI-era speed.
 - [Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work](sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2.md) — The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work.
@@ -500,6 +501,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
+- [Replit](entities/Replit.md) — Developer-tool company used in Paul Graham's YC offsite episode to frame vibe coding as English instructions functioning like source code.
+- [Amjad Masad](entities/AmjadMasad.md) — Replit figure whose AI-coding demo gave Graham the source-code/object-code framing for vibe coding.
+- [Stoke](entities/Stoke.md) — YC company praised by Graham as a low-key hard-engineering execution case at the Founder Mode Retreat.
+- [Paul Gross](entities/PaulGross.md) — Young YC founder whose locomotive carbon-capture startup illustrates credibility through deep subject mastery.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
 - [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1/Season 2 wrap-up context.
 - [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1/Season 2 wrap-up context.

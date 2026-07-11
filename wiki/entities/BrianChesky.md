@@ -2,7 +2,7 @@
 title: "Brian Chesky"
 type: entity
 tags: [person, startups, hospitality, design, crisis-leadership]
-sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
+sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -18,6 +18,8 @@ Chesky's most explicit later-stage claim is about founder leadership. In [[socia
 
 [[tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]] makes that leadership claim explicit as [[FounderMode]]. Chesky says he followed advice to hire experienced executives and trust them, but came to believe that trust had been misread as absence from work, lack of audit, and deference to fragmented executive-owned directions. The episode frames his COVID-era Airbnb reset as a "refounding" story: a small aligned team, direct product review, skip-level relationships, and everyday direction became the operating pattern he now contrasts with professional-manager drift.
 
+[[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds the reception of Chesky's founder-mode talk through [[PaulGraham]]. Graham says many founders recognized their own private experience in Chesky's talk, which convinced him that founder mode pointed to something real even though the exact practices and boundaries still needed to be mapped.
+
 [[tsr-s2-wrapup-v1]] later identifies Chesky's COVID account as one of Season 2's memorable moments. The hosts recall the bankruptcy-level severity of the crisis and Chesky's attitude that the pandemic would not be how [[Airbnb]] died, reinforcing his role in the wiki as a [[CrisisStakeholderLeadership]] and founder-led operating case.
 
 ## Connections
@@ -26,3 +28,4 @@ Chesky's most explicit later-stage claim is about founder leadership. In [[socia
 - [[SequoiaCapital]], [[GregMcAdoo]], and [[KenChenault]] - investor and board-context figures from the second episode.
 - [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderProductFit]], [[FounderCashFlowConstraint]], and [[RealWorldConnectionProducts]] - early Airbnb concepts.
 - [[UnscalableFounderWork]], [[CrisisStakeholderLeadership]], [[FounderLedFunctionalOrganization]], [[FounderMode]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]] - later-stage concepts added by the second and founder-mode episodes.
+- [[PaulGraham]] and [[RonConway]] - YC offsite context around how the founder-mode talk reached the retreat audience.

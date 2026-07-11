@@ -2,7 +2,7 @@
 title: "Ron Conway"
 type: entity
 tags: [person, startups, venture-capital, silicon-valley]
-sources: [tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
+sources: [tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -22,6 +22,8 @@ At Altos, Conway joined an extremely early-stage company, received 2% equity, he
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] briefly adds Conway through [[SamAltman]]'s comparison between the [[OpenAIBoardCrisis]] and the [[SiliconValleyBank]] weekend. Altman says the SVB weekend felt close to a real disaster and that Conway was the main person involved behind the scenes.
 
+[[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds Conway as the person who encouraged [[BrianChesky]] to attend the YC Founder Mode Retreat, where Chesky's unscheduled talk became the trigger for the wider [[FounderMode]] discussion.
+
 ## Connections
 - [[NationalSemiconductor]], [[CharlieSporck]], and [[RelationshipLedSales]] - first Silicon Valley operating apprenticeship.
 - [[AltosComputer]], [[DaveJackson]], [[SequoiaCapital]], [[DonValentine]], and [[SelfDisruptionDiscipline]] - microcomputer company-building and missed platform shift.
@@ -33,3 +35,4 @@ At Altos, Conway joined an extremely early-stage company, received 2% equity, he
 - [[MediaInternetConvergence]], [[CopyrightPlatformConflict]], [[DigitalMusicLicensing]], [[FounderCrisisMediation]], and [[EmployeeSeveranceAtShutdown]] - concepts grounded by the Napster episode.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - interview context.
 - [[SamAltman]], [[SiliconValleyBank]], and [[StartupGovernance]] - crisis-response reference added by the Sam Altman episode.
+- [[BrianChesky]], [[PaulGraham]], and [[FounderMode]] - YC offsite context added by the Paul Graham source.

@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-12
 ---
 
@@ -38,6 +38,8 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Livingston as both co-interviewer and long-running witness to [[SamAltman]]. She corrects the exaggerated first-batch "I'm a sophomore and I'm coming" story, frames Altman's risk-taking as YC-style formidability, and helps connect the early [[Looped]] memories to later [[YCombinator]] leadership and [[OpenAI]] governance.
 
+[[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds Livingston through the [[YCombinator]] Founder Mode Retreat discussion with [[PaulGraham]]. Her story about security mistaking [[PaulGross]] for her and Graham's teenage son helps frame one of the episode's side lessons: young founders in serious industries may need deep subject mastery to overcome first-impression skepticism.
+
 ## Connections
 - [[CarolynLevy]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
@@ -52,6 +54,7 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 - [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - Season 3 Eddy Lu episode context.
 - [[HarjTaggar]], [[BoSo]], [[AutomaticAuctions]], [[Triplebyte]], [[YuriMilner]], and [[ObjectiveHiringAssessment]] - Season 4 Harj Taggar episode context.
 - [[SamAltman]], [[Looped]], [[OpenAI]], [[FounderRiskCalibration]], and [[OpenAIBoardCrisis]] - Season 4 Sam Altman episode context.
+- [[PaulGraham]], [[FounderMode]], [[PaulGross]], [[Stoke]], and [[VibeCoding]] - YC offsite founder-mode source context.
 - [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[Airbnb]], [[Reddit]], [[StartupSchool]], [[Bookface]], [[Posterous]], [[InitializedCapital]], [[Anybots]], [[PlanGrid]], [[DoorDash]], [[Bump]], [[GooglePhotos]], [[Gmail]], [[FriendFeed]], and [[StartupAcceleratorBatchSelection]] - main institutional context.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderIdeaPivot]], [[LongLivedStartupDecisions]], [[FounderHonesty]], [[BuilderCenteredInstitutions]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[ConstructionBlueprintVersionControl]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring operating themes.
