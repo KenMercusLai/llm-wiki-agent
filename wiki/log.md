@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Why Bitcoin falls short as a safe haven in geopolitical turmoil
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Gil Luria of D.A. Davidson on Bitcoin's safe-haven behavior during geopolitical turmoil, contrasting gold's immediate rise after U.S.-Iran escalation with Bitcoin's weaker response. Created pages for Gil Luria, D.A. Davidson, Digital Gold, Bitcoin Safe-Haven Behavior, and Cross-Border Crypto Capital Flight; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Iran, United States, China, Cryptocurrency Market Structure, Gold Monetary Anchor, Capital Account Investment Restrictions, and Virtual Asset AML Risk. No direct contradiction found; the source qualifies the digital-gold narrative by separating Bitcoin's weak immediate safe-haven behavior from its longer-run appeal as an inflation hedge, liquid alternative asset, and portable cross-border wealth-transfer tool.
+
 ## [2026-07-12] ingest | An Ohio newspaper gives AI a byline
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI use in local journalism, including transcription, lead generation, letters-to-the-editor summaries, the AI rewrite desk, and the Advanced Local Express Desk label for mostly AI-written articles. Created pages for The Plain Dealer, Chris Quinn, Willa Remus, Washington Post, Advanced Local Express Desk, Newsroom AI Adoption, AI Rewrite Desk, AI-Written Journalism, AI Journalism Trust, and Local News Automation Tradeoff; updated overview, index, Marketplace Tech, Stephanie Hughes, Local Journalism, Public Service Journalism, Human Judgment Under AI, AI Content Devaluation, AI Content Provenance, Trust As Business Asset, Creative Labor AI Backlash, and AI Workflow Triage. No direct contradiction found; the source qualifies local-news automation as a survival strategy only when it expands useful coverage without eroding verification, authorship, staff craft, and reader trust.
@@ -2426,3 +2430,15 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Initial lint pass after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used a stale graph snapshot and were superseded by the graph rebuild and final lint pass below. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3150 nodes, 31977 edges (31977 extracted, 0 inferred). Rebuilt with `python tools/build_graph.py --no-infer` because the prior graph snapshot had 3011 nodes while lint scanned 3150 wiki pages.
+
+## [2026-07-12] lint | Wiki health check
+
+Final lint pass after graph refresh. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

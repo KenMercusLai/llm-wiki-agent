@@ -2,13 +2,15 @@
 title: "Cryptocurrency Market Structure"
 type: concept
 tags: [crypto, investing, markets, compliance]
-sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-12
 ---
 
 # Cryptocurrency Market Structure
 
 Cryptocurrency market structure is the wiki's frame for how crypto trading rails, exchanges, assets, and user flows create both market opportunity and operational risk. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] highlights 24-hour trading, retail-heavy participation, emotional flows, and price gaps across exchanges as sources of possible arbitrage. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds a [[VirtualAssetAMLRisk]] lens: the same fragmentation, cross-border liquidity, and identity opacity can complicate anti-money-laundering review. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds a family and political-brand monetization lens through [[WorldLibertyFinancial]], where token sales, stablecoin value, warrants, and unlocks create both cash proceeds and headline valuation.
+
+[[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds the crisis-liquidity version through [[Bitcoin]]. [[GilLuria]] says Bitcoin trades around the clock on connected devices, usually has enough liquidity to find another counterparty, and is priced mainly by demand to buy it. That structure supports both the [[DigitalGold]] narrative and [[CrossBorderCryptoCapitalFlight]], even while volatility weakens [[BitcoinSafeHavenBehavior]] in acute shocks.
 
 [[socialradarspod-brianarmstrong-final]] adds the exchange-and-onboarding version through [[Coinbase]]. The market was not only volatile and fragmented; it was hard for ordinary users to enter safely. [[BrianArmstrong]] presents the buy button, bank transfers, compliance, fraud controls, and regulator trust as the infrastructure that let Bitcoin access become a consumer product.
 
@@ -26,6 +28,7 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 
 ## Connections
 - [[Bitcoin]] — asset discussed through this market-structure lens.
+- [[DigitalGold]], [[BitcoinSafeHavenBehavior]], and [[CrossBorderCryptoCapitalFlight]] - March 12 Marketplace Tech branch on liquidity, scarcity, and crisis portability.
 - [[Stablecoins]] — infrastructure adjacent to crypto trading and dollar payment rails.
 - [[VirtualAssetAMLRisk]] — compliance lens added by EP44.
 - [[QuantitativeInvesting]] — method that may exploit these market features.
