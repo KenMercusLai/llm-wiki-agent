@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [New study reveals a "smartphone penalty" that distorts survey results](sources/tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128.md) — Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, randomized device assignment in the Understanding America Study, survey fatigue, representativeness tradeoffs, and AI/chatbot risks for knowledge measurement.
 - [Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start](sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's stalled $100 billion investment relationship, and U.S. TikTok's ownership transition, Oracle-backed outages, and terms-of-service changes.
 - [Founder Mode: Paul Gross, Founder & CEO of Remora Carbon](sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly.md) — The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, and climate hardware commercialization.
 - [Founder Mode: Chris Best, Founder & CEO, Substack](sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov.md) — The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, Substack Notes, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction.
@@ -287,6 +288,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carly Urban](entities/CarlyUrban.md) — Economist interviewed by Marketplace Tech about smartphone effects on financial-knowledge surveys and randomized evidence for a survey-device penalty.
+- [Olivia Valdez](entities/OliviaValdez.md) — Experimental psychologist co-author whose phone-attention hypothesis helped frame the smartphone survey penalty study.
+- [FINRA Foundation](entities/FINRAFoundation.md) — Organization behind the financial-knowledge survey trend discussed as showing a 15% decline from 2009 to 2021.
+- [National Financial Capability Study](entities/NationalFinancialCapabilityStudy.md) — Repeated financial-literacy survey where smartphone completion rose from none in 2009 to 55% in 2021.
+- [Understanding America Study](entities/UnderstandingAmericaStudy.md) — USC-run panel used to randomize respondents into smartphone and non-smartphone survey modes.
+- [University of Southern California](entities/UniversityOfSouthernCalifornia.md) — Institution running the Understanding America Study panel used in the smartphone survey experiment.
+- [Pew Research Center](entities/PewResearchCenter.md) — Research organization whose smartphone-adoption estimates contextualize the shift toward mobile survey-taking.
 - [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing the February 6, 2026 Bytes episode on SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok.
 - [Paresh Devey](entities/PareshDevey.md) — Wired senior writer whose Marketplace Tech analysis connects SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok to infrastructure and capital-market risk.
 - [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
@@ -543,7 +551,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -1787,6 +1795,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Smartphone Survey Penalty](concepts/SmartphoneSurveyPenalty.md) — Device-linked drop in survey knowledge-question performance when respondents answer on phones rather than desktops, laptops, or tablets.
+- [Survey Mode Effects](concepts/SurveyModeEffects.md) — Measurement shifts caused by how respondents answer a survey, including device type, fatigue, effort, and mobile response rates.
+- [Financial Literacy Measurement](concepts/FinancialLiteracyMeasurement.md) — Survey-design problem of measuring personal-finance knowledge across time and countries without confusing knowledge change with device effects.
+- [AI-Assisted Survey Response](concepts/AIAssistedSurveyResponse.md) — Risk that respondents use chatbots or AI tools during surveys, blurring knowledge measurement, lookup behavior, and effort.
 - [Strategic AI Infrastructure Dependence](concepts/StrategicAIInfrastructureDependence.md) — Pattern where model labs, chip suppliers, and cloud providers need one another's scale while hedging single-counterparty dependence.
 - [Platform Ownership Transition](concepts/PlatformOwnershipTransition.md) — Risk pattern where a consumer platform's ownership, infrastructure, legal terms, and data practices change beneath a familiar product surface.
 - [Mobile Carbon Capture](concepts/MobileCarbonCapture.md) — Climate hardware pattern of capturing CO2 from moving freight vehicles and turning it into a usable product under demanding retrofit constraints.

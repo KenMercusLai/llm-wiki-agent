@@ -2227,6 +2227,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for the Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's reported $100 billion investment uncertainty, and the new U.S. TikTok's Oracle-linked outages and data terms. Created pages for Stephanie Hughes, Paresh Devey, U.S. TikTok, MGX, Silver Lake, Strategic AI Infrastructure Dependence, and Platform Ownership Transition; updated overview, index, Marketplace Tech, SpaceX, xAI, Starlink, Grok, Starship, Elon Musk, Nvidia, OpenAI, Jensen Huang, TikTok, ByteDance, Oracle, Space Based AI Infrastructure, and AI IPO Valuation. Flagged a dated-source tension with the later SpaceX IPO source on profitability and IPO timing.
 
+## [2026-07-12] ingest | New study reveals a "smartphone penalty" that distorts survey results
+
+Added source page for the Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, the National Financial Capability Study device shift, the Understanding America Study randomized device experiment, survey fatigue, representativeness tradeoffs, and future AI-assisted survey response risk. Created pages for Carly Urban, Olivia Valdez, FINRA Foundation, National Financial Capability Study, Understanding America Study, University of Southern California, Pew Research Center, Smartphone Survey Penalty, Survey Mode Effects, Financial Literacy Measurement, and AI-Assisted Survey Response; updated overview, index, and Marketplace Tech. No direct contradiction found; the source qualifies the financial-literacy decline as partly a possible measurement artifact while preserving the access benefit of smartphone surveys.
+
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,941 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
