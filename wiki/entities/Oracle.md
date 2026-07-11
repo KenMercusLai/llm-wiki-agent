@@ -14,7 +14,7 @@ In the wiki, Oracle's main relevance from this source is not a company-specific 
 
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds Oracle as a financial-infrastructure case in the AI boom. The [[MarketplaceTech]] episode says Oracle is taking on large amounts of debt for AI cloud capacity, renting many facilities from third-party developers, and facing investor scrutiny after Financial Times reporting that [[BlueOwlCapital]] pulled out of a $10 billion Oracle-linked Michigan project. In this source, Oracle's reported $300 billion cloud-services deal with [[OpenAI]] becomes both a growth signal and a source of [[DataCenterDebtRisk]].
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Oracle as the infrastructure and ownership actor behind [[USTikTok|U.S. TikTok]]. The episode says Oracle, [[MGX]], and [[SilverLake]] are among investors in the new American version, and [[PareshDevey]] links early service disruptions after a storm to TikTok's cloud infrastructure being tied to Oracle.
+[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Oracle as the infrastructure and ownership actor behind [[USTikTok|U.S. TikTok]]. The episode says Oracle, [[MGX]], and [[SilverLake]] are among investors in the new American version, and [[PareshDave]] links early service disruptions after a storm to TikTok's cloud infrastructure being tied to Oracle.
 
 ## Connections
 - [[DigitalInfrastructureWarRisk]] — cloud facilities as potential wartime targets.

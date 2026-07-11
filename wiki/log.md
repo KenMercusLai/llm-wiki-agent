@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave of Wired on Kalshi and Polymarket prediction-market ethics, CFTC boundaries around harmful-event contracts, Anthropic as a defense AI supply-chain risk, possible contractor migration to Google/OpenAI/xAI's Grok, and Meta's reported News Corp AI content licensing deal. Created pages for Kalshi, News Corp, Wired, Commodity Futures Trading Commission, Prediction Market Ethics, AI Content Licensing, and Defense AI Supply Chain Risk; corrected the existing Paresh Dave entity filename and wikilinks; updated overview, index, Marketplace Tech, Stephanie Hughes, Paresh Dave, Polymarket, Ali Khamenei, Anthropic, Claude, US Department of Defense, Defense AI Procurement, Palantir, Frontier Model Use Policy Conflict, Frontier Model Access Restrictions, Pete Hegseth, Dario Amodei, AI Governance And Compliance, Meta, Wall Street Journal, Open Web Traffic Decline, AI Answer Source Attribution, Publisher Relationship Moat, OpenAI, Google, xAI, and Grok. No direct contradiction found; the source updates the February 27 Anthropic/Pentagon story from possible supply-chain designation to reported restriction while noting Anthropic still reportedly lacked written designation.
+
 ## [2026-07-12] ingest | Brands are racing to show up in AI search
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Erin Griffith of the New York Times on answer engine optimization, dense factual content for chatbot discovery, early AEO/GEO startup services, AI-generated marketing fluff, Reddit and review reputation risk, OpenAI paid placement plans, and answer-engine trust. Created pages for Erin Griffith and Answer Engine Optimization; updated overview, index, Marketplace Tech, Stephanie Hughes, New York Times, OpenAI, Google, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Advertising, and AI Content Devaluation. No direct contradiction found; the source reinforces existing AI-search visibility pages while distinguishing AEO as answer-focused, fact-density-oriented, and tightly coupled to reputation and trust.
@@ -2273,7 +2277,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] ingest | Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start
 
-Added source page for the Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's reported $100 billion investment uncertainty, and the new U.S. TikTok's Oracle-linked outages and data terms. Created pages for Stephanie Hughes, Paresh Devey, U.S. TikTok, MGX, Silver Lake, Strategic AI Infrastructure Dependence, and Platform Ownership Transition; updated overview, index, Marketplace Tech, SpaceX, xAI, Starlink, Grok, Starship, Elon Musk, Nvidia, OpenAI, Jensen Huang, TikTok, ByteDance, Oracle, Space Based AI Infrastructure, and AI IPO Valuation. Flagged a dated-source tension with the later SpaceX IPO source on profitability and IPO timing.
+Added source page for the Marketplace Tech Bytes episode with Paresh Dave on SpaceX buying xAI, Nvidia and OpenAI's reported $100 billion investment uncertainty, and the new U.S. TikTok's Oracle-linked outages and data terms. Created pages for Stephanie Hughes, Paresh Dave, U.S. TikTok, MGX, Silver Lake, Strategic AI Infrastructure Dependence, and Platform Ownership Transition; updated overview, index, Marketplace Tech, SpaceX, xAI, Starlink, Grok, Starship, Elon Musk, Nvidia, OpenAI, Jensen Huang, TikTok, ByteDance, Oracle, Space Based AI Infrastructure, and AI IPO Valuation. Flagged a dated-source tension with the later SpaceX IPO source on profitability and IPO timing.
 
 ## [2026-07-12] ingest | New study reveals a "smartphone penalty" that distorts survey results
 
@@ -2390,6 +2394,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Iran's cyberwar on American banks
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks against U.S. banks, broader phishing/vulnerability-scanning/data-theft capabilities, and industrial-control risk through the Unitronics example. Created pages for Rafe Pilling, Sophos, Ministry of Intelligence and Security, Unitronics, Iran-Linked Cyber Operations, Banking DDoS Resilience, Cyber Data Theft and Leak Operations, and Industrial Control System Cyber Risk; updated overview, index, Marketplace Tech, Stephanie Hughes, Iran, IRGC, infrastructure-attack, ransomware-continuity, backup-recovery, health-data, internet-healthcare, and financial-resilience pages. No direct contradiction found; the source qualifies bank-focused cyber concern by arguing banks are likely more prepared for DDoS than health care, sensitive-data, and industrial-control targets are for intrusion, leaks, wipers, or ransomware-type disruption.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

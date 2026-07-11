@@ -12,7 +12,7 @@ Starlink is the satellite internet business discussed in [[145-koushu-spacex-kai
 
 The source gives Starlink two roles. First, it can generate commercial cash flow for longer-horizon Mars and [[Starship]] ambitions. Second, it can become part of [[SpaceEconomyInfrastructure]] by providing a space-based data highway with physical latency advantages in some routes and possible future relevance to [[SpaceBasedAIInfrastructure]].
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] reinforces the cash-flow role. [[PareshDevey]] says [[SpaceX]] appears profitable at least on an adjusted basis, helped by Starlink and launch revenue, making Starlink part of the reason [[XAI|xAI]] could get a better-funded home inside SpaceX.
+[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] reinforces the cash-flow role. [[PareshDave]] says [[SpaceX]] appears profitable at least on an adjusted basis, helped by Starlink and launch revenue, making Starlink part of the reason [[XAI|xAI]] could get a better-funded home inside SpaceX.
 
 ## Connections
 - [[SpaceX]] — Starlink's parent company in the source.

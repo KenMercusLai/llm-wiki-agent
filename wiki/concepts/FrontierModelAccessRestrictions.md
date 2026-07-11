@@ -2,7 +2,7 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The source connects model-access restrictions to simpler regional product limita
 
 [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds a domestic-customer version. The reported [[Anthropic]] and [[USDepartmentOfDefense]] dispute over [[Claude]] is not about blocking foreign users; it is about whether a strategic government customer should receive broader use rights than the provider's acceptable-use policy allows.
 
+[[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the contractor side of domestic access restrictions. If a model provider is treated as a supply-chain risk, access is restricted not only for the department itself but for defense contractors that have embedded the model in critical systems.
+
 ## Key Claims
 - Model restrictions can be imposed by the company, by safety policy, by partner rules, or by state pressure.
 - Nationality-based restrictions may fail when accounts, contractors, companies, and intermediaries separate nominal and actual users.
@@ -24,6 +26,7 @@ The source connects model-access restrictions to simpler regional product limita
 - The more a product depends on the newest frontier model, the more vulnerable it is to sudden access changes.
 - Release-stage review can create similar uncertainty even before a model is generally available.
 - Access restrictions can also appear inside a domestic government contract when a model provider's use policy conflicts with a customer's desired lawful-use scope.
+- A restriction can propagate through contractor software stacks, forcing substitution even when a model remains technically available for noncritical uses.
 
 ## Connections
 - [[AIExportControls]] — broader policy category.
@@ -33,4 +36,4 @@ The source connects model-access restrictions to simpler regional product limita
 - [[AIGovernanceAndCompliance]] — governance and safety context.
 - [[OpenSourceAIModels]] — alternative route when access to closed models becomes uncertain.
 - [[Apple]] and [[EuropeanUnion]] — regional availability examples.
-- [[DefenseAIProcurement]], [[FrontierModelUsePolicyConflict]], [[Claude]], and [[USDepartmentOfDefense]] - domestic defense-customer version added by Marketplace Tech Bytes.
+- [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], [[FrontierModelUsePolicyConflict]], [[Claude]], and [[USDepartmentOfDefense]] - domestic defense-customer and contractor-restriction versions added by Marketplace Tech Bytes.

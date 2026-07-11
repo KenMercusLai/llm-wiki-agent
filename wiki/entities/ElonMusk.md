@@ -18,7 +18,7 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 
 [[tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]] adds [[ChrisBest]]'s account of Musk during the [[Substack]] and [[Twitter]] conflict. Best says Musk asked to meet after buying Twitter, raised the possibility of joining forces or buying Substack, then objected when Best said Substack was about to launch [[SubstackNotes]]. Best says Substack launched anyway and Twitter then restricted Substack references, search, and links for a period; this is preserved as Best's account rather than a complete platform-side history.
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Musk through the announced [[SpaceX]] purchase of [[XAI|xAI]]. [[PareshDevey]] says the combination may make Musk's many projects look more unified to investors, even though it also bundles a cash-burning AI startup, chatbot controversies, and future [[SpaceBasedAIInfrastructure]] claims into a possible SpaceX IPO story.
+[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Musk through the announced [[SpaceX]] purchase of [[XAI|xAI]]. [[PareshDave]] says the combination may make Musk's many projects look more unified to investors, even though it also bundles a cash-burning AI startup, chatbot controversies, and future [[SpaceBasedAIInfrastructure]] claims into a possible SpaceX IPO story.
 
 ## Connections
 - [[SpaceX]], [[Falcon9]], [[Starship]], and [[Starlink]] — primary company and platform context in this source.
