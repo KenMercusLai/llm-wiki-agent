@@ -2,7 +2,7 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
 last_updated: 2026-07-11
 ---
 
@@ -17,6 +17,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 [[socialradarspod-garrytan-final]] adds an early-career version through [[GarryTan]] at [[Microsoft]]. Tan describes working on Windows Mobile with important consumer scenarios but limited resources, while stack ranking, internal fiefdoms, and comfort made the company feel demoralizing for a builder who wanted to start something. The source treats inertia as both organizational and personal: salary and lifestyle can make leaving harder even when the work is not a fit.
 
 [[socialradarspod-stevehuffman-final]] adds an acquired-startup version through [[Reddit]] inside [[CondeNast|Conde Nast]]. [[SteveHuffman]] says Conde Nast treated Reddit well overall, but the corporate setting made hiring hard because Reddit could not offer startup-style stock and had to navigate bureaucracy. The later spinout shows inertia as a structural problem that can require a new ownership and incentive shape, not only better management.
+
+[[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds an earlier acquired-startup version through [[PaulGraham]], [[Viaweb]], and [[Yahoo]]. Graham says Yahoo was trying to become a serious conventional business after the acquisition, and that the office-park atmosphere gradually wore down his startup-level intensity before he left to paint.
 
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds a legacy-platform version through [[Baidu]]. The hosts describe filtered feedback, late corrections, repeated late entry into validated markets, and difficulty sustaining complex new businesses after search advertising became a cash cow.
 
@@ -40,6 +42,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - Inertia can be an incentive problem as much as a competence problem: managers may avoid risky launches even when the company has the talent and technology.
 - Inertia can become a career trap when compensation and comfort raise the cost of returning to founder-level risk.
 - Acquired startups can lose startup-like hiring power when corporate compensation and bureaucracy replace equity upside and speed.
+- Corporate normalization after acquisition can wear down a founder even when the acquired product and team are still valuable.
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
@@ -49,6 +52,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[DavidLieb]], [[Bump]], [[GooglePhotos]], [[GooglePlus]], and [[LargeCompanyRiskIncentives]] — acquired-product conflict added by The Social Radars.
 - [[GarryTan]], [[Microsoft]], [[YCombinator]], and [[BuilderCenteredInstitutions]] - early-career contrast added by The Social Radars.
 - [[Reddit]], [[CondeNast|Conde Nast]], [[SteveHuffman]], and [[CorporateOwnedStartupConstraints]] - acquired-startup constraint added by The Social Radars.
+- [[PaulGraham]], [[Viaweb]], [[Yahoo]], and [[PostAcquisitionFounderIdentity]] - acquired-founder burnout and exit case added by The Social Radars.
 - [[Baidu]], [[LiYanhong]], [[LuQi]], and [[CashCowStrategicInertia]] — legacy search-platform case added by the Baidu source.
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.

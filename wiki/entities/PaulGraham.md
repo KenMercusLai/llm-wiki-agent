@@ -2,11 +2,13 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
 # Paul Graham
+
+[[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] makes Graham the central source rather than an adjacent YC figure. He explains [[Viaweb]] as a route to financial freedom and painting, describes the half-awake [[WebBasedSoftware]] insight, credits [[JulianWeber]] with keeping Viaweb alive, and traces [[YCombinator]] from essays, angel-investing ideas, and [[JessicaLivingston]]'s VC exploration into the first [[SummerFoundersProgram]].
 
 Paul Graham appears in [[tsr-s2-trevorblackwell-v2]] as the person who brought [[TrevorBlackwell]] into [[Viaweb]] and later called him about starting [[YCombinator]]. The episode presents Graham as opinionated about the right way to build things, but also as someone whose hard-won fundraising experience shaped the desire to create a more transparent investor model.
 
@@ -26,8 +28,10 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
+- [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.
 - [[YCombinator]], [[FounderInvestorLearning]], and [[StartupAcceleratorBatchSelection]] - investor and accelerator context.
+- [[StartupEssayDistribution]], [[StartupCommunityForumBurden]], and [[PostAcquisitionFounderIdentity]] - writing, forum, and post-exit themes added by the Graham episode.
 - [[DoorDash]] and [[ThreeSidedMarketplaceValidation]] - marketplace-operations example added by the Tony Xu episode.
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], and [[CustomerPull]] - later YC partner and angel-investing branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], and [[PowerUserDiscovery]] - YC decision and alumni-network branch added by the Lieb episode.

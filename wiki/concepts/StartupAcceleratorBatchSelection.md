@@ -2,13 +2,15 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
 last_updated: 2026-07-11
 ---
 
 # Startup Accelerator Batch Selection
 
 Startup accelerator batch selection is the application and interview process described in [[tsr-s2-trevorblackwell-v2]] for the first [[YCombinator]] Summer Founders Program. The early process was manual: applications arrived by email, [[TrevorBlackwell]] wrote software to reformat them, the team printed more than 300 applications, scored them, and ran longer interviews than YC later used.
+
+[[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds [[PaulGraham]]'s explanation of the batch model. The [[SummerFoundersProgram]] began as a way for the YC founders to learn angel investing by funding many initially throwaway-looking startups at once, and "batch" came from programming rather than venture-capital convention.
 
 The source's main lesson is that batch selection mixes process design with judgment. The team learned that they often formed opinions quickly, but they still needed application structure, technology review, interviews, and dinner context to turn founder-investor intuitions into repeatable selection.
 
@@ -23,12 +25,13 @@ The source's main lesson is that batch selection mixes process design with judgm
 - Technical review matters when applicants propose products whose feasibility is uncertain.
 - Interview length can shrink once a team learns which signals matter, but early programs often need longer conversations to calibrate judgment.
 - Selection design is downstream of [[FounderInvestorLearning]]: YC was trying to become the investor its founders wished had existed during [[Viaweb]].
+- The batch format can begin as an investor-learning device before it becomes an institutional brand.
 - Batch selection must be paired with community infrastructure once the batch becomes too large for informal recognition.
 - A selection process can be right about an idea being weak and still need to revise its decision when the founding team signal is strong.
 - Founder survival behavior can be selection evidence when market proof is thin but the team keeps finding scrappy ways to stay alive and learn.
 
 ## Connections
-- [[YCombinator]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people and institution from the source.
+- [[YCombinator]], [[SummerFoundersProgram]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people, first program, and institution from the source.
 - [[FounderInvestorLearning]] - reason the selection process existed.
 - [[FastProductValidation]], [[FounderProductFit]], and [[CustomerPull]] - adjacent concepts for judging early startup promise.
 - [[StartupInfrastructureImprovisation]] - manual PDFs, printing, scoring, and office logistics.

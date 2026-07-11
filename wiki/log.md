@@ -1971,3 +1971,11 @@ Added source page for The Social Radars episode with Brian Chesky on Airbnb's ai
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Paul Graham on Viaweb, Y Combinator, and Writing
+
+Added source page for The Social Radars episode with Paul Graham on Viaweb, Y Combinator, Hacker News, and writing. Created pages for Julian Weber, Hacker News, Arc, Summer Founders Program, ArtX, Sequoia Capital, Startup Essay Distribution, and Startup Community Forum Burden; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, Viaweb, Y Combinator, Robert Morris, Trevor Blackwell, Sam Altman, Yahoo, Yahoo Store, Reddit, Web-Based Software, Founder-Investor Learning, Startup Accelerator Batch Selection, Startup Infrastructure Improvisation, Startup Community Infrastructure, Founder Cash Flow Constraint, Post-Acquisition Founder Identity, and Large Company Organizational Inertia. No direct contradiction found; the source extends the existing Viaweb/YC cluster by giving Graham's first-person origin story and adding the essay, forum, seed-investor, and post-exit writing angles.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Paul Graham on Viaweb, Y Combinator, and Writing](sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll.md) — The Social Radars episode with Paul Graham on Viaweb's browser-software origin, Julian Weber's early investment, Y Combinator's first batch, Hacker News, and Graham's shift from painting back to writing.
 - [Brian Chesky on Airbnb's Origins, YC, and Reconnecting People](sources/socialradarspod-brianchesky-final.md) — The Social Radars episode with Brian Chesky on Airbnb's air-bed origin, marketplace trust design, Joe Gebbia, Nate Blecharczyk, Michael Seibel, YC, cereal-box survival, New York host fieldwork, and the mission to reconnect people.
 - [Steve Huffman on Reddit's Origin Story, Sale, and Return](sources/socialradarspod-stevehuffman-final.md) — The Social Radars episode with Steve Huffman on Reddit's YC pivot, Digg competition, Conde Nast sale, Infogami/Aaron Swartz strain, Hipmunk, and his 2015 return during a platform community crisis.
 - [Garry Tan on Returning to Y Combinator](sources/socialradarspod-garrytan-final.md) — The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, YC, Bookface, Initialized Capital, founder honesty, co-founder conflict, and builder-centered institutions.
@@ -255,6 +256,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Julian Weber](entities/JulianWeber.md) — Early Viaweb investor whose $10,000 check, legal work, and board role became a practical template for founder-friendly seed investing.
+- [Hacker News](entities/HackerNews.md) — Paul Graham-started online forum that helped Y Combinator while also creating persistent community-governance stress.
+- [Arc](entities/ArcLanguage.md) — Paul Graham's Lisp dialect that followed an unrealized browser-based development-platform idea after Viaweb.
+- [Summer Founders Program](entities/SummerFoundersProgram.md) — First Y Combinator program, initially a summer experiment that became the batch model.
+- [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
+- [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm whose early interest in a first-batch YC company helped validate Y Combinator.
 - [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episode connects hosting, design school, air-bed origins, YC survival, founder fieldwork, and real-world connection.
 - [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design.
 - [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
@@ -1566,6 +1573,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Startup Essay Distribution](concepts/StartupEssayDistribution.md) — Founder-audience pattern where useful startup essays make an institution legible and attract aligned builders before conventional brand proof exists.
+- [Startup Community Forum Burden](concepts/StartupCommunityForumBurden.md) — Operating cost of running an open founder or hacker forum, where distribution value comes with moderation and governance stress.
 - [Peer-to-Peer Marketplace Trust](concepts/PeerToPeerMarketplaceTrust.md) — Product-design problem of making stranger-to-stranger transactions feel safe through profiles, reciprocal reviews, payment handling, and reputation.
 - [Design For One Person](concepts/DesignForOnePerson.md) — Product-design method where founders perfect one concrete user's experience before trying to generalize to a broad market.
 - [Real-World Connection Products](concepts/RealWorldConnectionProducts.md) — Product pattern that deliberately turns convenience, hosting, place, or community back into human connection rather than isolated consumption.
