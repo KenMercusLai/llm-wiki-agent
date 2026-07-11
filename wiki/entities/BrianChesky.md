@@ -2,7 +2,7 @@
 title: "Brian Chesky"
 type: entity
 tags: [person, startups, hospitality, design, crisis-leadership]
-sources: [socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final]
+sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-11
 ---
 
@@ -15,6 +15,8 @@ Chesky's founder fit in the source is unusually tied to hosting rather than trav
 The second episode extends Chesky from early-founder survival into crisis and late-stage operating design. He describes treating YC as a last shot, going to New York because [[PaulGraham]] insisted users should be visited directly, and turning manual host work into [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]]. The COVID section presents Chesky as a crisis CEO who refunded guests, angered and then supported hosts, raised emergency debt, cut initiatives, and used [[CrisisStakeholderLeadership]] to keep multiple stakeholder groups visible under severe pressure.
 
 Chesky's most explicit later-stage claim is about founder leadership. In [[socialradarspod-brianchesky2-final]], he argues that leadership is presence, not absence, and says Airbnb moved toward a [[FounderLedFunctionalOrganization]] with one roadmap, CEO reviews, and fewer disconnected initiatives. That claim creates a useful tension with standard scaling advice: the source treats detailed founder involvement as a route to coherence, while still depending on focus, judgment, and the founder's capacity not to become the bottleneck.
+
+[[tsr-s2-wrapup-v1]] later identifies Chesky's COVID account as one of Season 2's memorable moments. The hosts recall the bankruptcy-level severity of the crisis and Chesky's attitude that the pandemic would not be how [[Airbnb]] died, reinforcing his role in the wiki as a [[CrisisStakeholderLeadership]] and founder-led operating case.
 
 ## Connections
 - [[Airbnb]], [[JoeGebbia]], and [[NateBlecharczyk]] - company and founding team.

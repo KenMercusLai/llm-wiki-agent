@@ -2,7 +2,7 @@
 title: "Emmett Shear"
 type: entity
 tags: [person, startups, y-combinator, video]
-sources: [socialradarspod-emmettshear-v2]
+sources: [tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
 last_updated: 2026-07-11
 ---
 
@@ -14,8 +14,10 @@ His wiki role is a founder-resilience and operating-discipline case. Kiko shows 
 
 The source also makes Shear a YC operator case. [[MichaelSeibel]] recruited him back to YC, and Shear describes interviews and office hours as exhausting but useful because founders compress high-stakes judgment, founder psychology, fundraising, and product uncertainty into short conversations.
 
+[[tsr-s2-wrapup-v1]] later identifies Shear's interview as one of Season 2's memorable moments because it was recorded before his brief [[OpenAI]] spotlight made him newly topical. The wrap-up also preserves the smaller quiche Lorraine anecdote as an example of why personal details made the founder-history interview stick.
+
 ## Connections
 - [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - company path in the source.
 - [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - cofounder and early-team context.
-- [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], and [[CarolynLevy]] - accelerator and interview context.
+- [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], [[CarolynLevy]], and [[OpenAI]] - accelerator, interview, and later timing context.
 - [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[FounderCashFlowConstraint]], and [[FounderProductFit]] - concepts tied to his episode.

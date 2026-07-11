@@ -2058,3 +2058,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki lint
 
 Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because LiteLLM was given an unqualified default model and no provider/API-key environment variables are set. No lint report file was saved.
+
+## [2026-07-11] ingest | The Social Radars Season 2 Wrap-Up and Season 3 Announcement
+
+Added source page for the short The Social Radars Season 2 wrap-up where Jessica Livingston and Carolyn Levy thank listeners, highlight the Emmett Shear, Parker Conrad, and Brian Chesky interviews, confirm Season 3 is planned, and preview more YouTube clips. Updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Emmett Shear, Parker Conrad, Brian Chesky, Airbnb, YouTube, Podcast As Asynchronous Media, Founder Reputation Recovery, and Crisis Stakeholder Leadership. No direct contradiction found; the source contextualizes already ingested Season 2 interviews rather than replacing their first-person accounts.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Founder Reputation Recovery"
 type: concept
 tags: [startup, founder-psychology, governance, reputation]
-sources: [socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s2-wrapup-v1, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -13,6 +13,8 @@ Founder reputation recovery is the process of rebuilding trust, investor confide
 Conrad says the hardest part was not only losing the CEO role. It was becoming "radioactive" while legal constraints limited his ability to answer accusations, while media stories kept reinforcing a simplified villain narrative. The recovery path depended on support from [[YCombinator]], [[JessicaLivingston]], and [[SamAltman]], a network intervention involving [[MarkAndreessen]] and [[AndreessenHorowitz]], and eventually the evidence of [[Rippling]]'s execution.
 
 The concept is not reputation laundering. The source preserves Conrad's own admission that Zenefits had real mistakes and real business problems. Recovery means separating actual lessons and accountability from narratives that make future learning or building impossible.
+
+[[tsr-s2-wrapup-v1]] reinforces the concept from the hosts' side: they identify Conrad's interview as one of Season 2's most memorable moments because they believed he had been unable to tell his side after the public Zenefits narrative took hold. That makes reputation recovery part of why the show values long-form founder interviews.
 
 ## Key Claims
 - Reputation damage becomes an operating constraint when it affects fundraising, recruiting, press coverage, and founder confidence.
@@ -25,3 +27,4 @@ The concept is not reputation laundering. The source preserves Conrad's own admi
 - [[ParkerConrad]], [[Zenefits]], and [[Rippling]] - source case.
 - [[DavidSacks]], [[LannyDavis]], [[SamAltman]], [[MarkAndreessen]], and [[AndreessenHorowitz]] - public-narrative and network-intervention context.
 - [[YCombinator]], [[StartupGovernance]], [[FounderProductFit]], and [[ManualOperationsDebt]] - adjacent institution, governance, and operating concepts.
+- [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - interview context that later selected the Conrad episode as a Season 2 highlight.

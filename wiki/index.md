@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Social Radars Season 2 Wrap-Up and Season 3 Announcement](sources/tsr-s2-wrapup-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 2, highlight Emmett Shear, Parker Conrad, and Brian Chesky moments, thank a large listener audience, preview Season 3, and plan more YouTube clips.
 - [Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab](sources/tsr-s2-adoracheung-v5.md) — The Social Radars episode with Adora Cheung on PathJoy, Homejoy's over-scaling and price-war failure, YC partner lessons, Startup School's open-access turn, vote-by-mail funnel work, and Instalab's founder-health and at-home testing thesis.
 - [Parker Conrad on Zenefits, Rippling, and Building Through Crisis](sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8.md) — The Social Radars episode with Parker Conrad on Zenefits' public collapse, regulatory and media disputes, manual operations debt, Rippling's employee graph, compound startup strategy, founder dogfooding, and B2B AI context.
 - [Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience](sources/socialradarspod-emmettshear-v2.md) — The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner.
@@ -274,7 +275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Cheung](entities/AlexCheung.md) — Adora Cheung's brother and Instalab co-founder.
 - [Tech for Campaigns](entities/TechForCampaigns.md) — civic-tech organization connected to Adora Cheung's 2020 vote-by-mail work.
 - [Mark Lindsay](entities/MarkLindsay.md) — technical lead recruited for the vote-by-mail project discussed in the Adora Cheung episode.
-- [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode links regulatory crisis, public narrative, and software-first rebuilding.
+- [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode and Season 2 wrap-up link regulatory crisis, public narrative, and software-first rebuilding.
 - [Zenefits](entities/Zenefits.md) — HR, payroll, benefits, and insurance startup used as a cautionary case for manual operations debt and governance narrative risk.
 - [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
 - [David Sacks](entities/DavidSacks.md) — Zenefits CEO successor in Conrad's account of the compliance, media, and responsibility dispute.
@@ -284,7 +285,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
 - [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm that led Rippling's Series A through Mamoon Hamid.
 - [Simply Insured](entities/SimplyInsured.md) — YC batch competitor to Zenefits used in the episode to show how launch timing shaped category narrative.
-- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, and returning to YC.
+- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, returning to YC, and later OpenAI-timing context.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
 - [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
 - [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
@@ -321,8 +322,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
 - [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm whose early interest in a first-batch YC company helped validate Y Combinator.
 - [Greg McAdoo](entities/GregMcAdoo.md) — Sequoia Capital investor who helped reframe Airbnb from an air-bed idea into a broader vacation-rental and lodging marketplace opportunity.
-- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, and founder-led operating design.
-- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, and founder-led reset.
+- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes and Season 2 wrap-up context connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, and founder-led operating design.
+- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, Season 2 highlight status, and founder-led reset.
 - [Ken Chenault](entities/KenChenault.md) — Airbnb board member in the COVID crisis story who helped frame the travel collapse as an existential threat.
 - [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
 - [Nate Blecharczyk](entities/NateBlecharczyk.md) — Airbnb technical co-founder who helped turn the hosting insight into a working booking site and joined the team through the YC decision.
@@ -377,9 +378,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1-to-Season 2 context.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1-to-Season 2 context.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, and Twitch.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1/Season 2 wrap-up context.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1/Season 2 wrap-up context.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, Twitch, and season wrap-ups.
 - [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
 - [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
 - [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
@@ -808,7 +809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [YouTube](entities/YouTube.md) — Overseas video distribution surface for Chinese short dramas in episode 266's publishing and localization discussion.
+- [YouTube](entities/YouTube.md) — Video distribution surface for Chinese short dramas and for Social Radars interview clips supplementing podcast episodes.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -1646,7 +1647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
 - [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
 - [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.
-- [Founder Reputation Recovery](concepts/FounderReputationRecovery.md) — Rebuilding founder trust and agency after public failure or disputed scandal while preserving accountability for real mistakes.
+- [Founder Reputation Recovery](concepts/FounderReputationRecovery.md) — Rebuilding founder trust and agency after public failure or disputed scandal while preserving accountability for real mistakes, reinforced by the Parker Conrad Season 2 highlight.
 - [Startup Runway Discipline](concepts/StartupRunwayDiscipline.md) — Operating pattern of making burn, runway, revenue, cost structure, and survival assumptions explicit before a startup runs out of time.
 - [Investor Risk Narrative](concepts/InvestorRiskNarrative.md) — Fundraising discipline of naming real startup risks while making upside and de-risking paths legible enough for investors to underwrite.
 - [Developer-First Payment Infrastructure](concepts/DeveloperFirstPaymentInfrastructure.md) — Stripe's original thesis of making payment acceptance instant, programmable, and developer-friendly rather than a slow merchant-account project.
@@ -1671,7 +1672,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Design For One Person](concepts/DesignForOnePerson.md) — Product-design method where founders perfect one concrete user's experience before trying to generalize to a broad market.
 - [Real-World Connection Products](concepts/RealWorldConnectionProducts.md) — Product pattern that deliberately turns convenience, hosting, place, or community back into human connection rather than isolated consumption.
 - [Unscalable Founder Work](concepts/UnscalableFounderWork.md) — Early-stage practice of doing manual, non-repeatable work to learn which product, trust, payment, and operations systems should later scale.
-- [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible.
+- [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible, reinforced by the Brian Chesky Season 2 highlight.
 - [Founder-Led Functional Organization](concepts/FounderLedFunctionalOrganization.md) — Operating model where a scaling company uses functions, one roadmap, and direct founder review to preserve product coherence after drift or crisis.
 - [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
 - [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
@@ -2655,7 +2656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Payment Led Market Selection](concepts/PaymentLedMarketSelection.md) — Choosing a target market by where demand, trust, payment willingness, and collection paths are strongest.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
-- [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
+- [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifted listening, cumulative archives, listener feedback, and clip distribution while losing live-radio immediacy.
 - [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, including cases where crisis pulls the founder back.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.

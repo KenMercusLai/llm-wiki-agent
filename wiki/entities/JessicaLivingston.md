@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -22,8 +22,10 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[tsr-s2-adoracheung-v5]] adds Livingston as co-interviewer for [[AdoraCheung]] on [[Homejoy]], [[YCombinator]], vote-by-mail work, and [[Instalab]]. Her framing helps draw out why the Homejoy failure matters as a startup postmortem: early fieldwork and demand did not save the company once retention, service quality, discounting, and city operations were allowed to scale ahead of the product.
 
+[[tsr-s2-wrapup-v1]] adds Livingston as co-host of the Season 2 wrap-up. She and [[CarolynLevy]] frame the season around three remembered moments: the timing of [[EmmettShear]]'s interview before his brief [[OpenAI]] spotlight, [[ParkerConrad]]'s opportunity to tell his side of the [[Zenefits]] story, and [[BrianChesky]]'s account of [[Airbnb]] during COVID. The source also records her show-production role in thanking listeners, confirming Season 3, and planning more [[YouTube]] clips.
+
 ## Connections
-- [[CarolynLevy]] and [[TheSocialRadars]] - co-host and show context.
+- [[CarolynLevy]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
 - [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[ManualOperationsDebt]], [[EmployeeGraph]], and [[FounderReputationRecovery]] - Parker Conrad episode context.
 - [[AdoraCheung]], [[Homejoy]], [[Instalab]], [[ScalingBrokenProduct]], [[FullFunnelCivicTechnology]], and [[FounderHealthDebt]] - Adora Cheung episode context.

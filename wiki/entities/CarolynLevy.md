@@ -2,7 +2,7 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -22,8 +22,10 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[tsr-s2-adoracheung-v5]] adds Levy as co-interviewer for [[AdoraCheung]] on [[Homejoy]], [[YCombinator]], vote-by-mail work, and [[Instalab]]. Her framing helps connect Cheung's Homejoy postmortem to later lessons about Startup School, full-funnel civic work, and practical health behavior change.
 
+[[tsr-s2-wrapup-v1]] adds Levy as co-host of the Season 2 wrap-up. She and [[JessicaLivingston]] use the short episode to thank listeners, identify [[EmmettShear]], [[ParkerConrad]], and [[BrianChesky]] interview moments that stayed with them, confirm Season 3 is planned, and preview more [[YouTube]] video clips.
+
 ## Connections
-- [[JessicaLivingston]] and [[TheSocialRadars]] - co-host and show context.
+- [[JessicaLivingston]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], and [[AcceleratedBankRuns]] - Dadiomov episode context.
 - [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[ManualOperationsDebt]], [[EmployeeGraph]], and [[CompoundStartup]] - Parker Conrad episode context.
 - [[AdoraCheung]], [[Homejoy]], [[Instalab]], [[ScalingBrokenProduct]], [[FullFunnelCivicTechnology]], and [[AtHomePreventiveHealth]] - Adora Cheung episode context.
