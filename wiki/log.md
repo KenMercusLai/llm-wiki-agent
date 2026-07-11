@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Brands are racing to show up in AI search
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Erin Griffith of the New York Times on answer engine optimization, dense factual content for chatbot discovery, early AEO/GEO startup services, AI-generated marketing fluff, Reddit and review reputation risk, OpenAI paid placement plans, and answer-engine trust. Created pages for Erin Griffith and Answer Engine Optimization; updated overview, index, Marketplace Tech, Stephanie Hughes, New York Times, OpenAI, Google, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Advertising, and AI Content Devaluation. No direct contradiction found; the source reinforces existing AI-search visibility pages while distinguishing AEO as answer-focused, fact-density-oriented, and tightly coupled to reputation and trust.
+
 ## [2026-07-12] ingest | Can software companies survive the AI boom?
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against traditional SaaS, the difference between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, AI-agent-heavy workplaces, consumption/action/outcome pricing, natural-language interfaces, and SaaS consolidation. Created pages for Daniel Newman, monday.com, and Asana; updated overview, index, Marketplace Tech, Stephanie Hughes, AI Native SaaS Threat, SaaS Trust Moat, Outcome-Based AI Pricing, AI Governance And Compliance, AI Assisted Software Development Risk, Digital Employees, and Enterprise Agent Governance. No direct contradiction found; the source qualifies AI-native SaaS disruption by showing that enterprise replacement depends on data, compliance, governance, APIs, security, and systems-of-record trust, not interface generation alone.
@@ -2370,6 +2374,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | How government uses "surveillance as a service" to collect data
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Jeremy Scott of the Electronic Privacy Information Center on DHS access to private-sector data, administrative subpoenas, government data purchases, Flock Safety license-plate-reader databases, the third-party doctrine, and legislation to close the data broker loophole. Created pages for Jeremy Scott, Electronic Privacy Information Center, U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, Ron Wyden, Montana, Surveillance as a Service, Government Data Broker Access, Data Broker Loophole, Third-Party Doctrine, Fourth Amendment Digital Privacy, Administrative Subpoena Data Access, Civil Liberties Surveillance Risk, Smith v. Maryland, and Fourth Amendment is Not For Sale Act; updated overview, index, Marketplace Tech, Stephanie Hughes, Flock Safety, Consumer Camera Surveillance, and Platform Data Regulation. No direct contradiction found; the source extends consumer-camera surveillance into government-accessible private data infrastructure and qualifies platform data regulation by showing how privately aggregated data can become state surveillance capacity.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

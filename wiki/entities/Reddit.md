@@ -2,7 +2,7 @@
 title: "Reddit"
 type: entity
 tags: [company, social-media, online-community, startups]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
+sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 
 [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds Reddit as a social evidence source inside [[AICollegeSearch]]. [[MichaelCoppenheifer]] says students may ask [[ChatGPT]] to check Reddit and [[Instagram]] for a college's campus vibe, which makes Reddit part of the informal data layer AI tools summarize for high-stakes education decisions.
 
+[[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds Reddit as a reputation input for [[AnswerEngineOptimization]]. [[ErinGriffith]] says negative or inaccurate Reddit posts can surface prominently in chatbot answers, so brands may try to publish more detailed positive or corrective information. This turns Reddit from a community source into a machine-summarized reputation layer for AI search.
+
 ## Connections
 - [[SteveHuffman]], [[AlexisOhanian]], [[YCombinator]], and [[PaulGraham]] - founding path.
 - [[SummerFoundersProgram]] - first-batch context added by Graham's account.
@@ -23,3 +25,4 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 - [[CondeNast|Conde Nast]], [[Infogami]], [[AaronSwartz]], [[YishanWang]], and [[SamAltman]] - ownership, team, and funding history in the source.
 - [[UserPoweredContentPlatform]], [[CorporateOwnedStartupConstraints]], [[PlatformCommunityGovernance]], and [[FounderReturnCrisis]] - concepts extended by the Reddit story.
 - [[AICollegeSearch]], [[ChatGPT]], and [[Instagram]] - campus-vibe use case added by Marketplace Tech.
+- [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[TrustAsBusinessAsset]] - brand-reputation use case added by Marketplace Tech.
