@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [High-tech data centers get a powerful assist from a century-old company](sources/tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128.md) — Marketplace Tech episode on Caterpillar's natural gas generators becoming primary power for some AI data centers as grid interconnection delays push developers toward onsite electricity generation.
 - [Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth](sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Alphabet's long-term AI infrastructure debt, MoteBook as an agent-only social network with security concerns, and Spotify's user growth through Wrapped and AI playlist curation.
 - [Crypto's big growth on the books and in the shadows](sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ari Redbord of TRM Labs on illicit crypto activity, stablecoin sanctions evasion, A7A5, North Korea exchange attacks, pig-butchering and work-from-home scams, and AI-enabled scam industrialization.
 - [Is the moon (and its resources) up for grabs?](sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128.md) — Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, and why stable lunar energy may be the real long-term competition.
@@ -292,6 +293,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Caterpillar](entities/Caterpillar.md) — Industrial company whose natural gas generators are framed as an AI data-center power bottleneck and backlog case.
+- [Dan Ackerman](entities/DanAckerman.md) — Commentator in the Marketplace Tech episode explaining Caterpillar generator demand from AI data centers.
+- [David Victor](entities/DavidVictor.md) — UCSD public policy professor framing data-center development as a speed-driven energy arms race.
 - [Jewel Burke Solomon](entities/JewelBurkeSolomon.md) — Collab Capital guest on Marketplace Tech Bytes explaining Alphabet's AI infrastructure borrowing, MoteBook's agent-social security risk, and Spotify's Wrapped-driven growth.
 - [Collab Capital](entities/CollabCapital.md) — Investment firm affiliation for Jewel Burke Solomon in the Marketplace Tech Bytes episode.
 - [MoteBook](entities/MoteBook.md) — AI-agent-only social platform discussed as a Reddit-like agent internet experiment with security and identity risks.
@@ -1818,6 +1822,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Center Onsite Power](concepts/DataCenterOnsitePower.md) — Pattern where data-center developers generate electricity at or near the facility, often to move faster than grid interconnection queues allow.
 - [AI Infrastructure Debt Financing](concepts/AIInfrastructureDebtFinancing.md) — Use of long-term debt, bonds, and capital-market confidence to fund AI data centers and infrastructure buildout.
 - [Personalization As Social Identity](concepts/PersonalizationAsSocialIdentity.md) — Product pattern where private usage data becomes a shareable statement about taste, status, mood, or belonging.
 - [AI Prompted Playlist Curation](concepts/AIPromptedPlaylistCuration.md) — Use of natural-language prompts to generate or refine music playlists as a consumer AI curation layer.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | High-tech data centers get a powerful assist from a century-old company
+
+Added source page for a Marketplace Tech episode on Caterpillar's AI data-center generator demand, grid interconnection delays, onsite natural gas power, and the power-generation backlog affecting both data-center developers and traditional backup-power customers. Created pages for Caterpillar, Dan Ackerman, David Victor, and Data Center Onsite Power; updated overview, index, Marketplace Tech, UCSD, Alphabet, AI Energy Bottleneck, AI Compute Continuity, MaaS Infrastructure, Data Center Physical Resilience, and AI Metabolic Infrastructure. No direct contradiction found; the source qualifies earlier utility-regulation and energy-bottleneck pages by showing that onsite generation can route around slow grid connections while shifting constraints to generator supply, fuel, emissions, and operations.
+
 ## [2026-07-12] ingest | Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth
 
 Added source page for a Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon of Collab Capital on Alphabet's long-term debt for AI infrastructure, MoteBook as an agent-only social platform, Wiz's reported security concerns, and Spotify's growth through Wrapped and AI playlist curation. Created pages for Jewel Burke Solomon, Collab Capital, MoteBook, Wiz, Spotify, Spotify Wrapped, AI Infrastructure Debt Financing, Personalization As Social Identity, and AI Prompted Playlist Curation; updated overview, index, Marketplace Tech, Stephanie Hughes, Alphabet, Google, Data Center Debt Risk, AI Compute Continuity, MaaS Infrastructure, AI Equity Valuation Risk, AI Social Networks, Agentic Economy, Agent Permission Boundaries, Agent Identity And Authentication, and AI Governance And Compliance. No direct contradiction found; the source qualifies earlier data-center debt risk by showing a stronger-credit Alphabet borrowing case, and qualifies AI social network concepts by separating agent-only social spaces from AI-mediated human matching.
@@ -2266,6 +2270,10 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes and found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
