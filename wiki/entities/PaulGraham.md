@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-10
 ---
 
@@ -18,6 +18,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-davidlieb-final]] adds Graham through [[DavidLieb]]'s decision to take [[Bump]] into [[YCombinator]]. Lieb recalls Graham saying there was no way to prove in advance that YC would be worth it, but that it would be, which frames YC's value as trust, network access, and founder-aligned incentives that only become clear after joining.
 
+[[socialradarspod-garrytan-final]] adds Graham through [[GarryTan]] and [[Posterous]]. Tan remembers Graham criticizing Posterous's signup flow and teaching the team to see the product through a beginner's eyes. This extends Graham's wiki role from YC origin and deal judgment into direct product critique under [[FastProductValidation]].
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.
@@ -25,3 +27,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[DoorDash]] and [[ThreeSidedMarketplaceValidation]] - marketplace-operations example added by the Tony Xu episode.
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], and [[CustomerPull]] - later YC partner and angel-investing branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], and [[PowerUserDiscovery]] - YC decision and alumni-network branch added by the Lieb episode.
+- [[GarryTan]], [[Posterous]], [[FounderHonesty]], and [[FastProductValidation]] - product-critique branch added by the Tan episode.

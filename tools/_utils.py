@@ -92,13 +92,18 @@ def sha256(text: str, truncate: int = 0) -> str:
 # ── Wiki helpers ───────────────────────────────────────────────────────
 
 def extract_wikilinks(content: str, unique: bool = False) -> list[str]:
-    """Extract all [[WikiLink]] targets from page content.
+    """Extract normalized [[WikiLink]] targets from page content.
 
     Args:
         unique: Deduplicate results (used by build_graph.py).
     """
-    links = re.findall(r"\[\[([^\]]+)\]\]", content)
-    return list(set(links)) if unique else links
+    raw_links = re.findall(r"\[\[([^\]]+)\]\]", content)
+    links = []
+    for link in raw_links:
+        target = link.split("|", 1)[0].split("#", 1)[0].strip()
+        if target:
+            links.append(target)
+    return list(dict.fromkeys(links)) if unique else links
 
 
 def all_wiki_pages(extra_exclude: set[str] | None = None) -> list[Path]:

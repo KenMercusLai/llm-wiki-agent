@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -20,6 +20,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarspod-davidlieb-final]] adds [[DavidLieb]] and [[Bump]] as another YC company case. Lieb says the founders nearly skipped YC after outside advisors and VCs criticized the deal, but [[PaulGraham]] told him there was no way to prove in advance that YC would be worth it, only that it would be. The later Bump server-crash story also makes the YC alumni network tangible: the founder email list produced immediate operational help during an [[Apple]]-driven traffic spike.
 
+[[socialradarspod-garrytan-final]] adds [[GarryTan]] as a full-circle YC case. [[StartupSchool]] helped move him from startup interest into applying, [[Posterous]] used YC launch and product advice during the 2008 financial crisis, [[Bookface]] became YC [[StartupCommunityInfrastructure]] as batches scaled, and Tan later returned as president and CEO after [[InitializedCapital]]. The episode sharpens YC as a [[BuilderCenteredInstitutions|builder-centered institution]]: capital matters, but peer community, candid advice, launch help, and a path for outsiders are the operating core.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[FounderInvestorLearning]] - Viaweb fundraising experience translated into investor design.
@@ -30,3 +32,5 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], [[JankyMVP]], and [[ThreeSidedMarketplaceValidation]] - marketplace-validation case added by the Xu episode.
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], [[CustomerPull]], and [[PreProductSelling]] - partner, angel-investing, and demand-evidence branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], [[LowFrequencyLowValueProduct]], and [[PowerUserDiscovery]] - mobile-consumer product case added by the Lieb episode.
+- [[GarryTan]], [[Posterous]], [[StartupSchool]], [[Bookface]], and [[InitializedCapital]] - builder, company, event, community software, and investing branch added by the Tan episode.
+- [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], and [[StartupCommunityInfrastructure]] - institutional and founder-psychology concepts added by the Tan episode.

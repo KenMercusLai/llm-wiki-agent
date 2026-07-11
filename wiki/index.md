@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Garry Tan on Returning to Y Combinator](sources/socialradarspod-garrytan-final.md) — The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, YC, Bookface, Initialized Capital, founder honesty, co-founder conflict, and builder-centered institutions.
 - [David Lieb on Bump, Google Photos, and Returning to YC](sources/socialradarspod-davidlieb-final.md) — The Social Radars episode with David Lieb on Bump's low-frequency business-model problem, power-user photo-sharing discovery, Flock, Google Photos, Google Plus conflict, large-company risk incentives, and returning to YC.
 - [Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment](sources/socialradarspod-paulb-final.md) — The Social Radars episode with Paul Buchheit on Gmail's internal feedback loops, constrained launch, FriendFeed's social product, Facebook acquisition, YC advice, and outlier-driven angel investing.
 - [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
@@ -252,6 +253,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Garry Tan](entities/GarryTan.md) — YC president and CEO whose episode connects Stanford, Microsoft, Palantir, Posterous, Initialized Capital, Bookface, founder honesty, co-founder conflict, and builder-centered institutions.
+- [Posterous](entities/Posterous.md) — Garry Tan's YC-backed blogging startup, used as a case for iPhone-era timing, launch support, Instagram competition, and co-founder conflict.
+- [Initialized Capital](entities/InitializedCapital.md) — Venture firm Garry Tan began from the YC orbit, extending founder-investor learning beyond the seed-stage accelerator model.
+- [Startup School](entities/StartupSchool.md) — YC-linked startup event that helped push Garry Tan toward applying to YC by making the builder community visible.
+- [Bookface](entities/Bookface.md) — YC community software designed by Garry Tan to preserve founder identity, trust, and shared memory as batches scaled.
 - [David Lieb](entities/DavidLieb.md) — Bump co-founder and Google Photos product leader whose episode connects low-frequency product limits, power-user discovery, post-acquisition persistence, and YC founder support.
 - [Bump](entities/Bump.md) — Mobile contact-sharing startup with huge installs but weak usage frequency, used as the source case for low-frequency low-value product risk.
 - [Flock](entities/Flock.md) — Bump team's photo-sharing follow-on app whose failure clarified that the real product needed to live at the camera-roll layer.
@@ -1539,6 +1545,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Builder-Centered Institutions](concepts/BuilderCenteredInstitutions.md) — Institutional pattern where capital, status, advice, and community are organized around people actively building products and companies.
+- [Founder Honesty](concepts/FounderHonesty.md) — Founder-support stance that favors candid, trust-based critique over flattering founders or disappearing when problems appear.
+- [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder disagreement damages product response, leadership, and founder health.
+- [Startup Timing Windows](concepts/StartupTimingWindows.md) — Temporary openings created by platform shifts, market conditions, or workflow gaps that can create and later close startup opportunities.
+- [Startup Community Infrastructure](concepts/StartupCommunityInfrastructure.md) — Software, events, lists, rituals, and trust systems that let founder communities keep working as they scale.
 - [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.
 - [Power User Discovery](concepts/PowerUserDiscovery.md) — Product-research pattern where a team studies its heaviest users to find the real job and adjacent opportunity hidden by aggregate metrics.
 - [Large Company Risk Incentives](concepts/LargeCompanyRiskIncentives.md) — Organizational incentive pattern where successful companies under-launch risky products because personal downside is clearer than uncertain upside.

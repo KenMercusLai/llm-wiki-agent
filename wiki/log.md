@@ -1916,6 +1916,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Garry Tan on Returning to Y Combinator
+
+Added source page for The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, Y Combinator, Bookface, Initialized Capital, founder honesty, co-founder conflict, startup timing windows, and builder-centered institutions. Created pages for Garry Tan, Posterous, Initialized Capital, Startup School, Bookface, Builder-Centered Institutions, Founder Honesty, Co-Founder Conflict, Startup Timing Windows, and Startup Community Infrastructure; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Palantir, Microsoft, Stanford University, Paul Graham, Founder Product Fit, Founder-Investor Learning, Fast Product Validation, Customer Pull, Large Company Organizational Inertia, and Startup Accelerator Batch Selection. No direct contradiction found; the source extends the wiki's startup branch by treating YC as a builder-centered institution and Posterous as a case where product timing, candid advice, and co-founder conflict all shaped the outcome.
+
 ## [2026-07-11] ingest | David Lieb on Bump, Google Photos, and Returning to YC
 
 Added source page for The Social Radars episode with David Lieb on Bump, Google Photos, Flock, Y Combinator, Apple, Google, Google Plus, low-frequency product risk, power-user discovery, post-acquisition founder persistence, large-company risk incentives, cancer, and returning to YC founder support. Created pages for David Lieb, Bump, Flock, Google Photos, Google Plus, Low-Frequency Low-Value Product, Power User Discovery, and Large Company Risk Incentives; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Google, Apple, Customer Pull, Product Led Willingness To Pay, Fast Feedback Loops, Fast Product Validation, Founder Product Fit, Post-Acquisition Founder Identity, Large Company Organizational Inertia, Validated Learning, and Founder-Investor Learning. No direct contradiction found; the source adds Lieb's perspective on Google Photos' internal path while reinforcing the wiki's startup-validation branch that adoption, user love, and funding do not replace frequency, monetization, and direct user evidence.
@@ -1931,6 +1935,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] ingest | Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment
 
 Added source page for The Social Radars episode with Paul Buchheit on Gmail, early Google, FriendFeed, Facebook/Meta acquisition, Y Combinator, and angel investing. Created pages for Paul Buchheit, Gmail, FriendFeed, Fast Feedback Loops, Product Launch Under Constraint, and Outlier-Driven Angel Investing; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Google, Meta, Y Combinator, Paul Graham, DoorDash, Customer Pull, Fast Product Validation, Pre-Product Selling, Product Led Willingness To Pay, Founder Product Fit, and Founder-Investor Learning. No direct contradiction found; the source self-flags the disputed FriendFeed/Facebook Like button origin claim and extends the wiki's startup-validation branch by treating fast feedback, launch constraints, costly customer signals, and founder quality as practical judgment tools.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 
