@@ -2,8 +2,8 @@
 title: "Cryptocurrency Market Structure"
 type: concept
 tags: [crypto, investing, markets, compliance]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-12
 ---
 
 # Cryptocurrency Market Structure
@@ -11,6 +11,8 @@ last_updated: 2026-07-11
 Cryptocurrency market structure is the wiki's frame for how crypto trading rails, exchanges, assets, and user flows create both market opportunity and operational risk. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] highlights 24-hour trading, retail-heavy participation, emotional flows, and price gaps across exchanges as sources of possible arbitrage. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds a [[VirtualAssetAMLRisk]] lens: the same fragmentation, cross-border liquidity, and identity opacity can complicate anti-money-laundering review. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds a family and political-brand monetization lens through [[WorldLibertyFinancial]], where token sales, stablecoin value, warrants, and unlocks create both cash proceeds and headline valuation.
 
 [[socialradarspod-brianarmstrong-final]] adds the exchange-and-onboarding version through [[Coinbase]]. The market was not only volatile and fragmented; it was hard for ordinary users to enter safely. [[BrianArmstrong]] presents the buy button, bank transfers, compliance, fraud controls, and regulator trust as the infrastructure that let Bitcoin access become a consumer product.
+
+[[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds the illicit-activity measurement layer through [[TRMLabs]] and [[AriRedbord]]. The source says lawful crypto use is growing faster than illicit use, but also says illicit activity reached roughly $158 billion in 2025. That makes market structure a dual-use question: exchanges, stablecoins, wallets, and payment rails can expand legitimate adoption while also giving sanctioned actors and scam networks faster fund movement.
 
 ## Key Claims
 - Crypto markets can contain more short-term inefficiencies than mature equity markets.
@@ -20,6 +22,7 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - The same volatility that creates opportunity also requires stronger [[InvestmentRiskManagement]].
 - Token issuance and unlock structure can make [[PaperWealthVsCashValue]] more important than headline token price.
 - Crypto market structure includes access and custody design: users need trustworthy wallet, purchase, banking, and compliance rails before market exposure becomes practical.
+- A growing lawful ecosystem can still produce larger absolute illicit volumes when stablecoin payments, exchange access, and cross-border liquidity scale.
 
 ## Connections
 - [[Bitcoin]] — asset discussed through this market-structure lens.
@@ -29,3 +32,4 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - [[MarketEfficiency]] — crypto is framed as less efficient than mature public equity markets.
 - [[WorldLibertyFinancial]] and [[PoliticalInfluenceMonetization]] — EP77's crypto monetization case.
 - [[Coinbase]], [[BrianArmstrong]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], [[FTX]], and [[SamBankmanFried]] — Armstrong episode's exchange trust and reputational-risk branch.
+- [[TRMLabs]], [[AriRedbord]], [[A7A5]], [[StablecoinSanctionsEvasion]], and [[AIEnabledScamIndustrialization]] — Marketplace Tech crypto-crime and scam-scale branch.

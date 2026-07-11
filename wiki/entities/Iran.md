@@ -1,9 +1,9 @@
 ---
 title: "Iran"
 type: entity
-tags: [country, politics, geopolitics]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-07-09
+tags: [country, politics, geopolitics, sanctions]
+sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-12
 ---
 
 # Iran
@@ -20,6 +20,8 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] adds the Gulf-facing consequence of the same war context. The episode treats uncertainty after the Iran war as a direct [[GulfStabilityRisk]] problem for the [[GulfCooperationCouncil]], especially if America and Iran cannot reach a durable settlement.
 
+[[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds Iran to the crypto-sanctions branch. [[AriRedbord]] cites two Iran-based cryptocurrency exchanges allegedly used by the [[IslamicRevolutionaryGuardCorps]] to launder illicit proceeds and evade sanctions, followed by [[USTreasury|U.S. Treasury]] sanctions against the exchanges and a financial facilitator.
+
 ## Connections
 - [[AliKhamenei]] - deceased supreme leader at the center of the funeral segment.
 - [[MujtabaKhamenei]] - successor figure whose absence creates uncertainty.
@@ -32,3 +34,4 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 - [[ProxyConflictSpoilerRisk]] - risk that the Lebanon conflict undercuts diplomacy.
 - [[DigitalInfrastructureWarRisk]] - adjacent Iran-related conflict frame from another source.
 - [[NicholasPelham]] - contributor explaining the ceasefire-collapse episode.
+- [[IslamicRevolutionaryGuardCorps]], [[USTreasury|U.S. Treasury]], [[StablecoinSanctionsEvasion]], and [[VirtualAssetAMLRisk]] - crypto sanctions branch added by Marketplace Tech.

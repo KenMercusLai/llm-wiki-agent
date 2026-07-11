@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Crypto's big growth on the books and in the shadows](sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ari Redbord of TRM Labs on illicit crypto activity, stablecoin sanctions evasion, A7A5, North Korea exchange attacks, pig-butchering and work-from-home scams, and AI-enabled scam industrialization.
 - [Is the moon (and its resources) up for grabs?](sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128.md) — Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, and why stable lunar energy may be the real long-term competition.
 - [TPU? GPU? What's the difference between these two chips used for AI?](sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128.md) — Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI-chip specialization, training versus inference, edge NPUs, and why software ecosystems and R&D scale protect incumbents like Nvidia and Google.
 - [New study reveals a "smartphone penalty" that distorts survey results](sources/tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128.md) — Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, randomized device assignment in the Understanding America Study, survey fatigue, representativeness tradeoffs, and AI/chatbot risks for knowledge measurement.
@@ -290,6 +291,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ari Redbord](entities/AriRedbord.md) — TRM Labs expert interviewed by Marketplace Tech about crypto crime, stablecoin sanctions evasion, scam networks, and AI-enabled fraud.
+- [TRM Labs](entities/TRMLabs.md) — Crypto-compliance and blockchain-intelligence company whose report grounds the Marketplace Tech episode on illicit crypto activity.
+- [A7A5](entities/A7A5.md) — Russia-related stablecoin identified in the Marketplace Tech episode as a major driver of sanctions-related illicit crypto activity in 2025.
+- [Prince Group](entities/PrinceGroup.md) — Cambodia-based scam network cited as a sanctions and targeted-enforcement case in the Marketplace Tech crypto-crime episode.
+- [North Korea](entities/NorthKorea.md) — State actor now tied in the wiki to crypto-exchange attacks and remote-work identity-fraud risk.
+- [Islamic Revolutionary Guard Corps](entities/IslamicRevolutionaryGuardCorps.md) — Iranian organization connected by the Marketplace Tech source to alleged crypto-exchange laundering and sanctions evasion.
 - [Sadia Pekkanen](entities/SadiaPekkanen.md) — Space-policy expert interviewed by Marketplace Tech about lunar resources, the Artemis Accords, and the distinction between territorial ownership and resource use.
 - [Artemis 2](entities/Artemis2.md) — NASA mission framed by Marketplace Tech as a milestone inside the wider push toward sustained lunar presence.
 - [Artemis Accords](entities/ArtemisAccords.md) — U.S.-led nonbinding space-exploration principles discussed as a starting point for lunar safety zones, transparency, and resource governance.
@@ -1804,6 +1811,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Stablecoin Sanctions Evasion](concepts/StablecoinSanctionsEvasion.md) — Dual-use risk where stablecoin rails move value outside traditional banking channels and complicate sanctions enforcement.
+- [Work-From-Home Scam](concepts/WorkFromHomeScam.md) — Fake task or gig-work platform scam using fabricated earnings balances and withdrawal fees, deposits, or taxes.
+- [AI-Enabled Scam Industrialization](concepts/AIEnabledScamIndustrialization.md) — Use of AI to scale scam outreach, personalize narratives, and strengthen deepfake or cloned-audio fraud.
 - [Lunar Resource Governance](concepts/LunarResourceGovernance.md) — Rule-making problem of using lunar resources and operating safely on the Moon without claiming territory.
 - [Space Resource Extraction](concepts/SpaceResourceExtraction.md) — Commercial-use distinction where extracted space resources may be owned even though celestial territory cannot be claimed.
 - [Lunar Nuclear Power](concepts/LunarNuclearPower.md) — Stable-energy constraint for sustained lunar bases, research stations, and commercial activity.
