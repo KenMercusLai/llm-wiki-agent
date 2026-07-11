@@ -2174,3 +2174,11 @@ Added source page for The Social Radars bonus episode with Ron Conway on Napster
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Brian Chesky, Founder & CEO, Airbnb
+
+Added source page for The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, founder presence, skip-level relationships, and AI-era speed. Created pages for Founder Mode and Andy Grove; updated overview, index, Brian Chesky, Airbnb, Y Combinator, The Social Radars, Carolyn Levy, Ken Chenault, Founder-Led Functional Organization, Founder Control, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the earlier Airbnb COVID reset while making it an explicit founder-operating doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

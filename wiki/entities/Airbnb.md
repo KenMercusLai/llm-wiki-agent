@@ -2,8 +2,8 @@
 title: "Airbnb"
 type: entity
 tags: [company, marketplace, hospitality, travel, crisis]
-sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
+last_updated: 2026-07-12
 ---
 
 # Airbnb
@@ -16,6 +16,8 @@ The second episode turns Airbnb into a later-stage operating case. It describes 
 
 The COVID section makes Airbnb a crisis-governance case. The company was preparing for an IPO when travel collapsed, then lost roughly 80% of business in eight weeks. Chesky says Airbnb refunded about $1 billion to guests, committed $250 million to hosts after overriding host cancellation policies, raised $2 billion in emergency debt, cut initiatives, and reorganized around a more focused [[FounderLedFunctionalOrganization]]. The episode presents the post-crisis company as more efficient and profitable, connecting Airbnb to [[CrisisStakeholderLeadership]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]].
 
+[[tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]] turns that post-crisis operating model into the explicit [[FounderMode]] case. Chesky says Airbnb had lost coherence as executives and teams moved in many directions, and that the pandemic created the forcing function to run the company as a "giant startup": smaller, more aligned, reviewed by the CEO, and held together by founder presence rather than executive autonomy alone.
+
 [[tsr-s2-wrapup-v1]] later marks that COVID account as one of the hosts' three most memorable Season 2 moments. In the wrap-up, Airbnb functions less as a new company case than as the season's clearest example of crisis survival storytelling.
 
 [[socialradarspod-brianarmstrong-final]] adds Airbnb as [[BrianArmstrong]]'s pre-[[Coinbase]] payments context. Armstrong says Airbnb exposed him to global payment friction: slow transfers, cost, opacity, and fraud. In the wiki, this makes Airbnb one source of founder-product fit for Coinbase rather than only a hospitality marketplace case.
@@ -25,5 +27,5 @@ The COVID section makes Airbnb a crisis-governance case. The company was prepari
 - [[MichaelSeibel]], [[JustinTV]], [[YCombinator]], and [[PaulGraham]] - early network and accelerator path.
 - [[SequoiaCapital]], [[GregMcAdoo]], and [[KenChenault]] - investor and board-crisis context.
 - [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderProximity]], [[CustomerDiscoveryByDoingWork]], and [[RealWorldConnectionProducts]] - early product and marketplace concepts shaped by the first source.
-- [[UnscalableFounderWork]], [[CrisisStakeholderLeadership]], [[FounderLedFunctionalOrganization]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]] - operating concepts added by the second source.
+- [[UnscalableFounderWork]], [[CrisisStakeholderLeadership]], [[FounderLedFunctionalOrganization]], [[FounderMode]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]] - operating concepts added by the second and founder-mode sources.
 - [[BrianArmstrong]], [[Coinbase]], [[FounderProductFit]], and [[EarlyFintechFraudControls]] - Armstrong episode context for global payment pain and fraud learning.
