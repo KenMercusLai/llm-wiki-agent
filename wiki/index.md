@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
 - [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
 - [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
 - [Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems](sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final.md) — The Social Radars episode with Kyle Vogt on Justin.tv's live-streaming backpack, Twitch's gaming pivot, Cruise's self-driving MVP, hard-tech fundraising, robotaxi economics, safety benchmarking, and the General Motors acquisition.
@@ -271,6 +272,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Rusenko](entities/DavidRusenko.md) — Weebly co-founder and Leap Forward founder whose episode links YC Winter 2007, slow PMF, capital efficiency, Square, delegation, and climate-tech investing.
+- [Weebly](entities/Weebly.md) — Drag-and-drop website builder that began as a Penn State class project, entered YC Winter 2007, survived the 2008 downturn, and was acquired by Square.
+- [Square](entities/Square.md) — Commerce and payments company that acquired Weebly in 2018 and used its codebase as the underpinnings of Square Online.
+- [Square Online](entities/SquareOnline.md) — Commerce website product whose source lineage runs through Weebly after the Square acquisition.
+- [Leap Forward](entities/LeapForward.md) — David Rusenko's climate-focused fund backing economically compelling climate-tech companies.
+- [Jessica Alter](entities/JessicaAlter.md) — Leap Forward venture partner whose go-to-market background complements Rusenko's engineering and product-founder experience.
+- [Blue Dot](entities/BlueDot.md) — Leap Forward portfolio company offering EV charging rewards and fleet charging reimbursement workflows.
+- [Electric Air](entities/ElectricAir.md) — Leap Forward portfolio company building a residential heat-pump contracting model around lower installation cost.
 - [Yin Wu](entities/YinWu.md) — Pulley founder and CEO whose episode links Stanford Startup School, repeated YC pivots, Prim, Echo Locker, Microsoft, founder user obsession, cap table literacy, and founder resilience.
 - [Pulley](entities/Pulley.md) — Founder-focused equity and cap-table software company built around cap table visibility, fundraising modeling, offer letters, compliant issuance, founder control, and trust.
 - [Carta](entities/Carta.md) — Cap-table management incumbent contrasted with Pulley through founder access, late-stage workflow focus, and trust-sensitive switching after privacy and secondary-sale concerns.
@@ -1660,6 +1669,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
+- [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
+- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and letting teams execute without constant redirection.
+- [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
+- [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
+- [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where help is grounded, available, and low-friction rather than distracting or performative.
 - [Cap Table Literacy](concepts/CapTableLiteracy.md) — Founder ability to understand ownership, dilution, employee pools, investor rights, and control before financing and hiring decisions become irreversible.
 - [Founder Equity Dilution](concepts/FounderEquityDilution.md) — Ownership reduction from co-founders, advisors, accelerators, early investors, option pools, and later rounds, with consequences for motivation and fundraising.
 - [Fundraising Scenario Modeling](concepts/FundraisingScenarioModeling.md) — Practice of modeling SAFEs, pro rata rights, MFNs, valuation, employee pools, dilution, and control before founders sign financing documents.

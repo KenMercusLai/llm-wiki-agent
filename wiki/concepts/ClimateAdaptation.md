@@ -2,7 +2,7 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 
 [[socialradarss2-billclerico-final]] adds wildfire resilience through [[FireTechClimateResilience]]. [[BillClerico]] argues that climate-driven fire risk needs a portfolio of tools across detection, suppression, vegetation management, home hardening, utility mitigation, insurance, and filtration, with [[ConvectiveCapital]] funding startups such as [[OverStory]].
 
+[[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds the customer-economics side through [[LeapForward]] and [[EconomicClimateTechAdoption]]. [[DavidRusenko]] argues that solar, batteries, EVs, heat pumps, and related technologies are becoming attractive because they can save money or solve practical customer problems, while [[BlueDot]] and [[ElectricAir]] show how charging reimbursement and lower-cost heat-pump installation can make climate adoption easier to buy.
+
 ## Key Claims
 - Adaptation should begin where risk is legible, politics can hold, and talent can orchestrate.
 - Heat, water, food, energy, and infrastructure risks are social-contract issues as much as technical issues.
@@ -25,6 +27,7 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - Climate-cycle preparation depends on budgets and institutional capacity, not only early warning.
 - Cooling access can be climate adaptation when heat risk is high and electricity is decarbonizing, but it still depends on pricing, efficiency, and grid planning.
 - Wildfire adaptation needs technology, institutions, and business models that can work with conservative buyers such as utilities, fire agencies, and insurers.
+- Climate adoption accelerates when the buyer's practical economics align with the climate benefit.
 
 ## Connections
 - [[SystemicDegenerativeVolatility]] — climate risk as part of a wider cascade.
@@ -34,3 +37,4 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[ElNino]] and [[ElNinoClimateRisk]] — climate-cycle shock and preparation frame from The Intelligence.
 - [[CoolingAsPublicHealth]] — air-conditioning and household cooling branch added by The Intelligence.
 - [[FireTechClimateResilience]], [[ConvectiveCapital]], and [[OverStory]] — wildfire resilience branch added by The Social Radars.
+- [[LeapForward]], [[EconomicClimateTechAdoption]], [[BlueDot]], and [[ElectricAir]] - climate-tech adoption branch added by The Social Radars.

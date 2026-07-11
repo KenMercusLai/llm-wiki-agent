@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-11] ingest | David Rusenko on Weebly, Capital Efficiency, and Climate Tech
+
+Added source page for The Social Radars episode with David Rusenko on Weebly's Penn State class-project origin, YC Winter 2007, slow product-market fit, capital-efficient survival through the 2008 funding crisis, Square acquisition, founder delegation, and Leap Forward's climate-tech investing thesis. Created pages for David Rusenko, Weebly, Square, Square Online, Leap Forward, Jessica Alter, Blue Dot, Electric Air, Capital Efficient Startup Building, Slow Product Market Fit, Founder Delegation Discipline, Economic Climate Tech Adoption, Climate Startup Commercialization Gap, and Founder Friendly Investor Support; updated overview, index, The Social Radars, Y Combinator, Startup Runway Discipline, Product Led Willingness To Pay, and Climate Adaptation. No direct contradiction found; the source reinforces existing runway and willingness-to-pay patterns while showing that slow product improvement, low burn, and small paid-conversion signals can compound into a durable company.
+
 ## [2026-07-11] ingest | Yin Wu on Pulley, Equity, and Founder Resilience
 
 Added source page for The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Microsoft, Pulley, cap table literacy, fundraising modeling, founder equity dilution, employee equity communication, founder control, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience. Created pages for Yin Wu, Pulley, Carta, Prim, Echo Locker, Cap Table Literacy, Founder Equity Dilution, Fundraising Scenario Modeling, Employee Equity Communication, Founder Control, Trust-Sensitive SaaS Switching, Founder User Obsession, Future-Oriented Fundraising Pitch, and Founder Resilience; updated overview, index, The Social Radars, Y Combinator, Startup School, BASES, Jessica Livingston, Carolyn Levy, Microsoft, Founder Product Fit, Customer Discovery By Doing Work, Unscalable Founder Work, Operational Pain Founder Insight, Equity Compensation Upside, Trust As Business Asset, Startup Governance, Second-Time Founder Operating Judgment, Founder Motivation Evolution, and Investor Risk Narrative. No direct contradiction found; the source qualifies founder-fit and customer-discovery pages by showing that doing the work and solving one's own problem still have to become durable user obsession and founder-facing product judgment.
@@ -2078,6 +2082,10 @@ Ran health and lint checks. Health passed with no empty/stub files, index drift,
 ## [2026-07-11] ingest | The Social Radars Season 2 Wrap-Up and Season 3 Announcement
 
 Added source page for the short The Social Radars Season 2 wrap-up where Jessica Livingston and Carolyn Levy thank listeners, highlight the Emmett Shear, Parker Conrad, and Brian Chesky interviews, confirm Season 3 is planned, and preview more YouTube clips. Updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Emmett Shear, Parker Conrad, Brian Chesky, Airbnb, YouTube, Podcast As Asynchronous Media, Founder Reputation Recovery, and Crisis Stakeholder Leadership. No direct contradiction found; the source contextualizes already ingested Season 2 interviews rather than replacing their first-person accounts.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 

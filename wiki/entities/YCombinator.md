@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -52,6 +52,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[YinWu]] as a repeat YC founder across Summer 2011, Summer 2013, and Winter 2020. Her path moves from video advertising and disappearing messages to [[Prim]], then a clean restart around [[EchoLocker]], and finally [[Pulley]]. The episode reinforces YC as a reset and learning institution: the same founder can use the batch format to pivot, restart with a cleaner company boundary, and later build a founder-facing infrastructure product around [[CapTableLiteracy]] and [[FounderUserObsession]].
 
+[[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds [[Weebly]] as a Winter 2007 YC case. [[DavidRusenko]] describes a last-minute application, a same-day TechCrunch mention before the interview, early San Francisco apartment-building startup life, and weekly dinners that created pressure to show progress. The episode extends YC's survival branch through [[CapitalEfficientStartupBuilding]] and [[SlowProductMarketFit]]: Weebly raised little primary capital, took years to see clear metrics, launched Weebly Pro during the 2008 funding crisis, and survived long enough for the product to compound into the later [[Square]] acquisition.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -79,3 +81,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[YuriSagalov]], [[AeroFS]], [[WayfinderVentures]], [[EnterpriseFileSync]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Summer 2010 founder and later investor case added by the Yuri Sagalov episode.
 - [[KyleVogt]], [[Cruise]], [[DanielKan]], [[GeneralMotors]], [[HardProblemMVPScoping]], [[HardTechFundraising]], [[RobotaxiEconomics]], and [[AutonomousVehicleSafetyBenchmark]] - Winter 2014 hard-tech case added by the Kyle Vogt episode.
 - [[YinWu]], [[Prim]], [[EchoLocker]], [[Pulley]], [[CapTableLiteracy]], [[FounderUserObsession]], and [[FounderResilience]] - repeat-founder and founder-facing equity case added by the Yin Wu episode.
+- [[DavidRusenko]], [[Weebly]], [[CapitalEfficientStartupBuilding]], [[SlowProductMarketFit]], [[StartupRunwayDiscipline]], and [[Square]] - Winter 2007 website-builder case added by the David Rusenko episode.
