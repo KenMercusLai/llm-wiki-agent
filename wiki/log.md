@@ -2458,3 +2458,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of explicit contradiction sections found only apparent tensions already documented as non-contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | How confident are crypto consumers?
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Dave Reibstein of the Wharton School on the Consumer Cryptocurrency Confidence Index, crypto sentiment as a possible price signal, regional and age differences in optimism, and crypto being held mostly as investment rather than used as payment. Created pages for Dave Reibstein, Wharton School, and Crypto Consumer Confidence; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Bitcoin Safe-Haven Behavior, Cryptocurrency Market Structure, and Contrarian Sentiment Indicators. No direct contradiction found; the source qualifies digital-gold and safe-haven narratives by showing that many consumers still treat crypto as risky stock-like exposure or gamble money.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

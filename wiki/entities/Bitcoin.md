@@ -2,11 +2,13 @@
 title: "Bitcoin"
 type: entity
 tags: [asset, cryptocurrency]
-sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final]
+sources: [tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-12
 ---
 
 # Bitcoin
+
+[[tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128]] adds Bitcoin to the [[CryptoConsumerConfidence]] branch. [[DaveReibstein]] of the [[WhartonSchool]] says crypto confidence can rise with Bitcoin prices and may itself help push prices higher, but he also says many consumers think of crypto more like a risky stock than a currency. This makes Bitcoin a consumer-sentiment asset as well as a technical, liquidity, and monetary narrative.
 
 [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds Bitcoin as a crisis-asset test. [[GilLuria]] of [[DADavidson|D.A. Davidson]] argues that Bitcoin has a [[DigitalGold]] narrative because of fixed supply, government independence, global liquidity, and divisibility, but its [[BitcoinSafeHavenBehavior]] remains weaker than gold in acute geopolitical stress because volatility and risky-use associations make investors hesitate. The same episode says Bitcoin may still matter during prolonged war, inflation, dollar weakness, or [[CrossBorderCryptoCapitalFlight]] from [[Iran]] or [[China]].
 
@@ -17,6 +19,7 @@ Bitcoin appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren
 [[socialradarspod-brianarmstrong-final]] adds Bitcoin as the origin asset behind [[Coinbase]]. [[BrianArmstrong]] first saw the white paper on [[HackerNews]], bought early Bitcoin on [[MtGox]], and then discovered that ordinary wallet users did not have Bitcoin to store. The source therefore shifts Bitcoin from asset or AML object into an onboarding problem: access, custody, buying, bank transfers, and [[RegulatedCryptoTrustStrategy]] had to be solved before normal users could participate.
 
 ## Connections
+- [[CryptoConsumerConfidence]], [[DaveReibstein]], and [[WhartonSchool]] - consumer confidence, price feedback, and risky-stock framing added by the March 16 Marketplace Tech episode.
 - [[GilLuria]], [[DADavidson|D.A. Davidson]], [[MarketplaceTech]], and [[StephanieHughes]] - March 12, 2026 crisis-asset discussion.
 - [[DigitalGold]], [[BitcoinSafeHavenBehavior]], [[GoldMonetaryAnchor]], and [[CrossBorderCryptoCapitalFlight]] - safe-haven, scarcity, gold-comparison, and portability branches added by the episode.
 - [[CryptocurrencyMarketStructure]] — market features that create arbitrage and quant-trading opportunities.
