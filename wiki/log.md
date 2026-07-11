@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-11] ingest | Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab
+
+Added source page for The Social Radars episode with Adora Cheung on PathJoy, Homejoy, YC partner lessons, Startup School's open-access turn, 2020 vote-by-mail funnel work, and Instalab. Created pages for Adora Cheung, Homejoy, PathJoy, Instalab, Aaron Cheung, Alex Cheung, Tech for Campaigns, Mark Lindsay, Scaling Broken Product, Price War Growth, Full-Funnel Civic Technology, Founder Health Debt, At-Home Preventive Health, Service Marketplace Quality Control, and Behavior Change Baby Steps; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Startup School, Customer Discovery By Doing Work, Unscalable Founder Work, Manual Operations Debt, Operational Pain Founder Insight, Customer Pull, Founder Product Fit, Fast Feedback Loops, Personal Health Data, and AI Health Management. No direct contradiction found; the source reinforces the wiki's existing warning that early customer pull and founder fieldwork must be converted into retention, quality control, and durable operating systems before growth.
+
 ## [2026-07-11] ingest | Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition
 
 Added source page for The Social Radars episode with Patrick and John Collison on Stripe's origins, early YC and Paul Graham connections, web-payment friction, the App Store monetization contrast, `/dev/payments`, "Slicehost for payments," API product design, financial-institution resourcefulness, and long-term company execution. Created pages for Patrick Collison, John Collison, Developer-First Payment Infrastructure, API Product Design, Vision-to-Reality Execution, and Relentlessly Resourceful Founder; updated overview, index, Stripe, The Social Radars, Y Combinator, Paul Graham, Robert Morris, Jessica Livingston, Carolyn Levy, App Store, Money Movement Infrastructure, Payments Infrastructure Pivot, Trust-Heavy Infrastructure Sales, Operational Pain Founder Insight, Entrepreneurship Infrastructure, and Founder Product Fit. No direct contradiction found; the source reinforces the fintech infrastructure branch while distinguishing Stripe's developer-first origin from WePay's later infrastructure pivot and Modern Treasury's financial-operations thesis.
@@ -2050,3 +2054,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki lint
+
+Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because LiteLLM was given an unqualified default model and no provider/API-key environment variables are set. No lint report file was saved.

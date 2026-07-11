@@ -2,7 +2,7 @@
 title: "Unscalable Founder Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -14,6 +14,8 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 
 [[socialradarss2-billclerico-final]] adds the payments version through [[WePay]]. [[BillClerico]] describes poker-night payment forcing among YC batchmates, manual transfers behind a user interface, barbecue onboarding for fraternity treasurers, and university-club outreach. These tactics exposed real payment workflows and customer segments before the company understood that its larger opportunity was a [[PaymentsInfrastructurePivot]].
 
+[[tsr-s2-adoracheung-v5]] adds the service-marketplace version through [[Homejoy]]. [[AdoraCheung]] cleaned early customer homes herself and then worked as a cleaner to understand the labor, tools, and process behind the marketplace. The same source also marks the limit: if the learning does not become retention, training, employment model, and quality-control systems, unscalable founder work can still lead into [[ScalingBrokenProduct]].
+
 [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds the boundary case through [[ParkerConrad]], [[Zenefits]], and [[Rippling]]. Conrad accepts YC's lesson that early unscalable work can be correct, but argues Zenefits let manual back-office work become the operating system after demand surged. This turns the useful early practice into [[ManualOperationsDebt]] when the company does not convert learning into automation, controls, and reliable software quickly enough.
 
 ## Key Claims
@@ -23,6 +25,7 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - Unscalable founder work turns [[FounderProximity]] and [[CustomerDiscoveryByDoingWork]] into operating practice.
 - The risk is romanticizing manual heroics after the company should have converted the learning into product, process, or organization design.
 - Manual payment operations can validate demand, but they must eventually become risk controls, automation, and reliable infrastructure.
+- Manual service work can validate supply quality, but it must become training, process, and reliability systems before geography and headcount scale.
 - Manual operations become debt when they hide product gaps while growth, compliance, support load, and gross-margin pressure compound.
 
 ## Connections
@@ -32,3 +35,4 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - [[FastProductValidation]] and [[ProductLedWillingnessToPay]] - validation concepts that manual work can sharpen.
 - [[WePay]], [[BillClerico]], [[RichAberman]], and [[PaymentsInfrastructurePivot]] - payments case where manual operations preceded infrastructure.
 - [[Zenefits]], [[Rippling]], [[ParkerConrad]], and [[ManualOperationsDebt]] - boundary case where manual operations failed to become scalable software fast enough.
+- [[Homejoy]], [[AdoraCheung]], [[ScalingBrokenProduct]], and [[ServiceMarketplaceQualityControl]] - service-marketplace case added by the Adora Cheung episode.

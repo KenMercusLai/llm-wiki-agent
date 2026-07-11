@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -44,6 +44,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds [[ParkerConrad]] as both a 2013 and 2016 YC case. For [[Zenefits]], YC created urgency through dinners, peer pressure, a direct batch competitor in [[SimplyInsured]], and [[PaulGraham]]'s push to launch earlier than planned. For [[Rippling]], YC provided a forcing function and credibility while Conrad rebuilt under a reputation cloud, with [[JessicaLivingston]] investing early and [[SamAltman]] later intervening in the alleged post-Zenefits media campaign.
 
+[[tsr-s2-adoracheung-v5]] adds [[AdoraCheung]] as a YC founder and later partner case. [[PathJoy]] and [[Homejoy]] show the long pivot path from weak marketplace demand into a stronger but operationally fragile services marketplace, while Cheung's partner reflections emphasize founder communication, perseverance, and fast recovery from setbacks. The same source also updates [[StartupSchool]] through the accidental acceptance/rejection email reversal that helped push it toward open access.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -67,3 +69,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[BillClerico]], [[RichAberman]], [[WePay]], [[PaymentsInfrastructurePivot]], and [[EarlyFintechFraudControls]] - regulated payments case added by the Clerico episode.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - developer-payments company added by the Collison episode.
 - [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[SimplyInsured]], [[ManualOperationsDebt]], and [[FounderReputationRecovery]] - founder crisis, batch urgency, and rebuilding case added by the Parker Conrad episode.
+- [[AdoraCheung]], [[PathJoy]], [[Homejoy]], [[StartupSchool]], [[ScalingBrokenProduct]], and [[ServiceMarketplaceQualityControl]] - YC founder, partner, and Startup School case added by the Adora Cheung episode.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab](sources/tsr-s2-adoracheung-v5.md) — The Social Radars episode with Adora Cheung on PathJoy, Homejoy's over-scaling and price-war failure, YC partner lessons, Startup School's open-access turn, vote-by-mail funnel work, and Instalab's founder-health and at-home testing thesis.
 - [Parker Conrad on Zenefits, Rippling, and Building Through Crisis](sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8.md) — The Social Radars episode with Parker Conrad on Zenefits' public collapse, regulatory and media disputes, manual operations debt, Rippling's employee graph, compound startup strategy, founder dogfooding, and B2B AI context.
 - [Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience](sources/socialradarspod-emmettshear-v2.md) — The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner.
 - [Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition](sources/socialradarss2-stripe-v2.md) — The Social Radars episode with Stripe's co-founders on teenage programming, early YC ties, web-payment friction, App Store monetization contrast, `/dev/payments`, API product design, and long-term company execution.
@@ -265,6 +266,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Adora Cheung](entities/AdoraCheung.md) — Homejoy founder, former YC partner, vote-by-mail project operator, and Instalab founder.
+- [Homejoy](entities/Homejoy.md) — Home-services marketplace used as a cautionary case in scaling before retention and service quality held.
+- [PathJoy](entities/PathJoy.md) — Adora and Aaron Cheung's early services-marketplace company before the Homejoy pivot.
+- [Instalab](entities/Instalab.md) — Adora Cheung's at-home blood testing and preventive-health company.
+- [Aaron Cheung](entities/AaronCheung.md) — Adora Cheung's brother and Homejoy co-founder, associated with acquisition and funnel work.
+- [Alex Cheung](entities/AlexCheung.md) — Adora Cheung's brother and Instalab co-founder.
+- [Tech for Campaigns](entities/TechForCampaigns.md) — civic-tech organization connected to Adora Cheung's 2020 vote-by-mail work.
+- [Mark Lindsay](entities/MarkLindsay.md) — technical lead recruited for the vote-by-mail project discussed in the Adora Cheung episode.
 - [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode links regulatory crisis, public narrative, and software-first rebuilding.
 - [Zenefits](entities/Zenefits.md) — HR, payroll, benefits, and insurance startup used as a cautionary case for manual operations debt and governance narrative risk.
 - [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
@@ -1627,6 +1636,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Scaling Broken Product](concepts/ScalingBrokenProduct.md) — Failure pattern where a startup keeps expanding before retention, product quality, and operations are strong enough.
+- [Price War Growth](concepts/PriceWarGrowth.md) — Discount-driven acquisition before repeat behavior and unit economics can support the subsidy.
+- [Full-Funnel Civic Technology](concepts/FullFunnelCivicTechnology.md) — Civic-tech measurement that follows users through to completed participation, not only clicks or signups.
+- [Founder Health Debt](concepts/FounderHealthDebt.md) — Startup-health analogy for accumulated physical problems caused by deferred self-care.
+- [At-Home Preventive Health](concepts/AtHomePreventiveHealth.md) — Service model that brings testing and measurements to busy people and creates repeat feedback loops.
+- [Service Marketplace Quality Control](concepts/ServiceMarketplaceQualityControl.md) — Operational challenge of standardizing human-delivered marketplace services.
+- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Product-design pattern of turning health feedback into small changes that fit existing routines.
 - [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
 - [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
 - [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.
