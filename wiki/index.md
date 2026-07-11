@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [California's one-stop shop for data brokers to delete consumers' data](sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, and why state privacy tools remain incomplete without broader privacy rules.
 - [Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp](sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave on Kalshi and Polymarket prediction-market ethics, Anthropic as a defense AI supply-chain risk, and Meta's News Corp licensing deal.
 - [Iran's cyberwar on American banks](sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks on U.S. banks, newer data theft and leak operations, industrial-control attacks, and why health care and sensitive-data holders may be more exposed than banks.
 - [Brands are racing to show up in AI search](sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Erin Griffith on answer engine optimization, dense factual content for chatbot discovery, AI-generated marketing fluff, Reddit and review reputation risk, and paid AI-search placement trust concerns.
@@ -307,6 +308,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
+- [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
+- [California](entities/California.md) — State privacy-law case launching DROP under the California Delete Act as a consumer-side complement to warrant-focused data-broker reforms.
+- [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP tool for residents to request deletion of personal information from registered data brokers.
 - [Kalshi](entities/Kalshi.md) — Prediction-market platform used by the Marketplace Tech episode to examine harmful-event wagers, Khamenei-related market resolution, reimbursement, CFTC rules, and market-integrity risk.
 - [News Corp](entities/NewsCorp.md) — Media company whose reported Meta licensing deal grounds the wiki's AI content licensing and publisher traffic-loss branch.
 - [Wired](entities/Wired.md) — Technology publication affiliation for Paresh Dave in Marketplace Tech Bytes episodes on AI infrastructure, prediction markets, defense AI, and media licensing.
@@ -1907,6 +1912,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Consumer privacy mechanism for requesting removal of broker-held personal information, framed as harm reduction rather than total erasure.
+- [California Delete Act](concepts/CaliforniaDeleteAct.md) — 2023 California law mandating DROP and turning data-broker deletion rights into a centralized state workflow.
+- [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.
 - [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing death, war, terrorism, nuclear escalation, or other socially harmful outcomes.
 - [AI Content Licensing](concepts/AIContentLicensing.md) — AI-company payments to publishers or content owners for current information, archives, training data, grounding, attribution, or answer visibility.
 - [Defense AI Supply Chain Risk](concepts/DefenseAISupplyChainRisk.md) — Contractor and procurement risk created when a defense customer treats an AI vendor, model, or integration as unacceptable for critical military systems.

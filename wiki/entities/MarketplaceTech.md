@@ -8,6 +8,8 @@ last_updated: 2026-07-12
 
 # Marketplace Tech
 
+The March 9, 2026 episode adds a consumer-privacy and data-broker deletion layer through [[StephanieHughes]] and [[NicoleTurnerLee]] of the [[BrookingsInstitution]]. It connects [[California]], the [[CaliforniaDeleteAct]], and the [[DeleteRequestAndOptOutPlatform|DROP]] tool to [[ConsumerDataDeletion]], [[DataBrokerLoophole]], [[PlatformDataRegulation]], and [[AIEnabledSpam]] by showing that a state opt-out portal can reduce broker-held personal data while still leaving broader surveillance, cookies, government systems, and AI-enabled outreach unresolved.
+
 The March 6, 2026 Bytes episode adds a platform-legitimacy layer through [[StephanieHughes]] and [[PareshDave]] of [[Wired]]. It connects [[PredictionMarketEthics]] around [[Kalshi]] and [[Polymarket]], [[DefenseAISupplyChainRisk]] around [[Anthropic]] and [[Claude]], and [[AIContentLicensing]] around [[Meta]] and [[NewsCorp]], showing how high-growth information platforms run into regulators, defense procurement rules, and publisher bargaining power.
 
 The March 5, 2026 episode adds an Iran-linked cybersecurity layer through [[StephanieHughes]] and [[RafePilling]] of [[Sophos]]. It connects [[IranLinkedCyberOperations]], [[BankingDDoSResilience]], [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]] by using the 2011-2013 DDoS attacks on U.S. banks as a historical case, then contrasting bank preparedness with higher-consequence exposure in health care, sensitive-data organizations, and industrial-control environments.
@@ -75,6 +77,7 @@ The data-center episode moves the show into AI infrastructure policy. Through [[
 The February 6, 2026 Bytes episode adds another weekly-news synthesis through [[StephanieHughes]] and [[PareshDave]]. It links [[SpaceX]]'s [[XAI|xAI]] acquisition to [[SpaceBasedAIInfrastructure]] and [[AIIPOValuation]], uses [[Nvidia]] and [[OpenAI]] to show [[StrategicAIInfrastructureDependence]], and turns [[USTikTok|U.S. TikTok]] into a [[PlatformOwnershipTransition]] case where ownership, [[Oracle]] infrastructure, outages, and terms of service all matter.
 
 ## Connections
+- [[NicoleTurnerLee]], [[BrookingsInstitution]], [[California]], [[DeleteRequestAndOptOutPlatform|DROP]], [[CaliforniaDeleteAct]], [[ConsumerDataDeletion]], and [[AIEnabledSpam]] - consumer privacy and data-broker deletion branch added by the 2026-03-09 episode.
 - [[PareshDave]], [[Wired]], [[Kalshi]], [[Polymarket]], [[PredictionMarketEthics]], [[DefenseAISupplyChainRisk]], [[Meta]], [[NewsCorp]], and [[AIContentLicensing]] - March 6 Bytes platform-legitimacy branch.
 - [[RafePilling]], [[Sophos]], [[IranLinkedCyberOperations]], [[BankingDDoSResilience]], [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]] - Iran-linked cyber risk branch added by the 2026-03-05 episode.
 - [[ErinGriffith]], [[NewYorkTimes|New York Times]], [[AnswerEngineOptimization]], [[AIDiscoverySEO]], [[GenerativeEngineOptimization]], and [[AISearchAdvertising]] - AI-search brand visibility and answer-integrity branch added by the 2026-03-04 episode.
