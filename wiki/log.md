@@ -2110,3 +2110,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment
+
+Added source page for The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, YC Winter 2007, early YC investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's attempt to assess engineering talent beyond credentials, the James Damore controversy, and Harj's return to YC in 2020. Created pages for Harj Taggar, Triplebyte, BoSo, Automatic / Automatic Auctions, Kulvir Taggar, Armand Benard, Guillaume Cabane, Live Current Media, Yuri Milner, James Damore, Light Cone, Startup Legitimacy Transfer, and Objective Hiring Assessment; updated overview, index, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, Patrick Collison, John Collison, Paul Buchheit, Garry Tan, Meta, Builder-Centered Institutions, Founder-Investor Learning, Startup Community Infrastructure, and Founder Product Fit. No direct contradiction found; the source preserves Harj's participant perspective, especially around Triplebyte's diversity-hiring and Damore sections.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

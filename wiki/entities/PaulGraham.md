@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -36,6 +36,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds Graham through [[ParkerConrad]]'s first [[YCombinator]] run with [[Zenefits]]. Conrad says Graham pushed the company to launch earlier than Conrad planned because Demo Day was too close, and that the timing mattered when [[SimplyInsured]] launched shortly afterward. The episode adds another case where Graham's pressure converted YC urgency into a specific launch-timing advantage.
 
+[[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Graham through [[HarjTaggar]]'s Winter 2007 and early-operator accounts. Graham helped connect Harj and [[KulvirTaggar]] with [[PatrickCollison]] and [[JohnCollison]], was brought into the room when [[YuriMilner]] wanted to fund every YC startup, and later asked Harj to try working at [[YCombinator]] for a batch. The source extends Graham's page from founder selection and product critique into delegated institution-building through trusted early alumni.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -53,3 +55,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], and [[DeveloperFirstPaymentInfrastructure]] - Collison episode branch connected through early programming and startup relationships.
 - [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - Shear episode branch connected through first-batch selection, idea critique, and Justin.tv's first check.
 - [[ParkerConrad]], [[Zenefits]], [[SimplyInsured]], and [[StartupTimingWindows]] - Parker Conrad episode branch connected through YC launch urgency.
+- [[HarjTaggar]], [[KulvirTaggar]], [[AutomaticAuctions]], [[YuriMilner]], and [[StartupLegitimacyTransfer]] - Harj Taggar episode branch connected through YC alumni help and investor-access scaling.

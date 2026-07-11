@@ -2,7 +2,7 @@
 title: "Garry Tan"
 type: entity
 tags: [person, startups, venture-capital, y-combinator]
-sources: [socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final]
+sources: [tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -16,6 +16,8 @@ Tan's Posterous experience is the cautionary center of the episode. The company 
 
 [[socialradarspod-brianarmstrong-final]] adds Tan as an informal CEO coach for [[BrianArmstrong]] before and during early [[Coinbase]]. The source extends Tan's wiki role from founder-investor and YC institution builder into direct founder-support work for a [[StartupHighBetaBet]].
 
+[[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Tan through [[HarjTaggar]]'s early [[YCombinator]] institutional-memory thread. Harj briefly recalls a Moscow trip with Tan, [[PaulBuchheit]], and Aaron Iba connected to Russian government interest in startups; the episode treats it as an example of the strange, informal moments around early YC rather than a major Tan biography point.
+
 ## Connections
 - [[YCombinator]], [[StartupSchool]], and [[Bookface]] - community and institution arc.
 - [[Posterous]] and [[StartupTimingWindows]] - founder/product case.
@@ -23,3 +25,4 @@ Tan's Posterous experience is the cautionary center of the episode. The company 
 - [[Microsoft]], [[Palantir]], and [[LargeCompanyOrganizationalInertia]] - early career and builder-value context.
 - [[JessicaLivingston]], [[CarolynLevy]], and [[TheSocialRadars]] - interview context.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], and [[FounderMotivationEvolution]] - coaching context added by the Armstrong episode.
+- [[HarjTaggar]], [[PaulBuchheit]], [[YCombinator]], and [[StartupCommunityInfrastructure]] - early YC network-memory context added by the Harj Taggar episode.

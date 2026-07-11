@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
 - [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
 - [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
 - [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
@@ -273,6 +274,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Harj Taggar](entities/HarjTaggar.md) — YC Winter 2007 founder, early YC investor-relations operator, Triplebyte founder, and later YC partner.
+- [Triplebyte](entities/Triplebyte.md) — Engineering-hiring company built around direct skill assessment beyond credentials, used as a case in the limits of objective hiring prediction.
+- [BoSo](entities/BoSo.md) — Harj and Kulvir Taggar's YC Winter 2007 student marketplace idea before the shift into Automatic Auctions.
+- [Automatic / Automatic Auctions](entities/AutomaticAuctions.md) — Post-BoSo seller-tools company that raised after YC and chose Live Current Media's acquisition offer over Facebook stock.
+- [Kulvir Taggar](entities/KulvirTaggar.md) — Harj Taggar's cousin and co-founder through BoSo and Automatic Auctions.
+- [Armand Benard](entities/ArmandBenard.md) — Triplebyte co-founder in the Harj Taggar episode.
+- [Guillaume Cabane](entities/GuillaumeCabane.md) — Triplebyte co-founder in the Harj Taggar episode.
+- [Live Current Media](entities/LiveCurrentMedia.md) — Acquirer of Automatic Auctions in Harj Taggar's account.
+- [Yuri Milner](entities/YuriMilner.md) — Investor whose offer to fund every YC startup marked a major investor-access shift in Harj Taggar's account.
+- [James Damore](entities/JamesDamore.md) — Controversial Triplebyte candidate case used to examine the governance limits of technical hiring tests.
+- [Light Cone](entities/LightCone.md) — YC-partner podcast mentioned by Harj Taggar as reflecting how YC partners talk about startups.
 - [Eddy Lu](entities/EddyLu.md) — GOAT co-founder and CEO whose episode links Grub With Us, marketplace friction, sneaker authentication, Black Friday overload, and founder scrappiness.
 - [Daishen](entities/Daishen.md) — Eddy Lu's co-founder whose sneaker enthusiasm and fake-sneaker purchase helped turn GOAT into an authentication-led marketplace.
 - [GOAT](entities/GOAT.md) — Sneaker and apparel marketplace built around authentication, consolidated listings, quality control, used-sneaker access, and category focus.
@@ -1677,6 +1689,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Startup Legitimacy Transfer](concepts/StartupLegitimacyTransfer.md) — Pattern where an accelerator, investor, or institution lends credibility, ambition, and access to founders before ordinary traction exists.
+- [Objective Hiring Assessment](concepts/ObjectiveHiringAssessment.md) — Hiring model that uses direct skill evidence beyond credentials while still facing team-fit, culture, values, and prediction limits.
 - [Marketplace Friction Reduction](concepts/MarketplaceFrictionReduction.md) — Marketplace product discipline of removing practical, emotional, trust, and decision burdens that block participant behavior.
 - [Authentication-Led Marketplace Trust](concepts/AuthenticationLedMarketplaceTrust.md) — Trust pattern where expert inspection, audits, and platform accountability make buyers comfortable with hard-to-verify resale goods.
 - [Category Focus Before Expansion](concepts/CategoryFocusBeforeExpansion.md) — Startup sequencing discipline of going deep in one category, geography, or use case before broadening the company surface area.

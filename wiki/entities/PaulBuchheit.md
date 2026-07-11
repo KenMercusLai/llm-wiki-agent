@@ -2,7 +2,7 @@
 title: "Paul Buchheit"
 type: entity
 tags: [person, startups, google, engineering, venture-capital]
-sources: [socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -16,6 +16,8 @@ PB also adds an investor-judgment branch through [[OutlierDrivenAngelInvesting]]
 
 [[socialradarspod-brianarmstrong-final]] adds PB as an early advisor to [[BrianArmstrong]] during [[Coinbase]]'s co-founder mismatch. PB told Armstrong that ending the relationship early would be easier before incorporation and fundraising, making his practical YC advice part of the wiki's [[CoFounderConflict]] branch as well as validation and investing.
 
+[[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds PB to [[HarjTaggar]]'s YC orbit. Harj says [[AutomaticAuctions]] raised money from PB after Demo Day, and later mentions a Moscow trip with PB, [[GarryTan]], and Aaron Iba connected to Russian government interest in startups. The source adds a small institutional-memory branch rather than a new PB product lesson.
+
 ## Connections
 - [[Gmail]], [[Google]], and [[ProductLaunchUnderConstraint]] - Gmail assignment, infrastructure reuse, launch leak, capacity limit, and invite-system story.
 - [[FriendFeed]] and [[Meta]] - startup and acquisition path after leaving Google.
@@ -23,3 +25,4 @@ PB also adds an investor-judgment branch through [[OutlierDrivenAngelInvesting]]
 - [[FastFeedbackLoops]], [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] - product and demand-evidence themes.
 - [[OutlierDrivenAngelInvesting]], [[FounderProductFit]], and [[FounderInvestorLearning]] - investing and founder-judgment themes.
 - [[BrianArmstrong]], [[Coinbase]], and [[CoFounderConflict]] - Armstrong episode context for early co-founder advice.
+- [[HarjTaggar]], [[AutomaticAuctions]], [[YCombinator]], and [[GarryTan]] - Harj Taggar episode context for seed investing and YC network memory.
