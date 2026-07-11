@@ -1951,3 +1951,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Steve Huffman on Reddit's Origin Story, Sale, and Return
+
+Added source page for The Social Radars episode with Steve Huffman on Reddit's YC pivot from a rejected mobile food-ordering idea, Digg competition, the Conde Nast sale, the Infogami/Aaron Swartz relationship strain, Hipmunk, and Huffman's 2015 return during Reddit's community crisis. Created pages for Steve Huffman, Reddit, Alexis Ohanian, Aaron Swartz, Hipmunk, Adam Goldstein, Conde Nast, Infogami, Digg, Slashdot, Delicious, Yishan Wang, Sam Altman, Founder Idea Pivot, User-Powered Content Platform, Corporate-Owned Startup Constraints, Platform Community Governance, Founder Return Crisis, and Long-Lived Startup Decisions; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Startup Accelerator Batch Selection, Co-Founder Conflict, Founder Product Fit, Large Company Organizational Inertia, Post-Acquisition Founder Identity, and Startup Governance. No direct contradiction found; the source extends the wiki's startup branch by showing how a founder-over-idea pivot, acquisition structure, unresolved relationships, and community governance choices can last far beyond a company's first year.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] graph | Knowledge graph rebuilt
+
+2598 nodes, 25116 edges (25116 extracted, 0 inferred).

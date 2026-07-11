@@ -2,7 +2,7 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
+sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
 last_updated: 2026-07-10
 ---
 
@@ -14,12 +14,15 @@ The source's main lesson is that batch selection mixes process design with judgm
 
 [[socialradarspod-garrytan-final]] adds the scaling consequence of batch selection through [[GarryTan]] and [[Bookface]]. Tan says YC batches grew enough that founders no longer knew everyone directly, which created a need for [[StartupCommunityInfrastructure]] to preserve identity, trust, and founder-to-founder access. The selection process therefore creates a second design problem: once a batch exists, the institution has to help the selected founders actually function as a community.
 
+[[socialradarspod-stevehuffman-final]] adds the founder-versus-idea lesson through [[SteveHuffman]], [[AlexisOhanian]], and [[Reddit]]. [[YCombinator]] initially rejected their mobile food-ordering idea, then [[PaulGraham]] called them back because the founders seemed worth funding if they worked on something else. This turns selection into [[FounderIdeaPivot]]: the system has to distinguish a bad initial plan from a promising team.
+
 ## Key Claims
 - Application formatting is part of selection because messy submissions are hard to compare fairly.
 - Technical review matters when applicants propose products whose feasibility is uncertain.
 - Interview length can shrink once a team learns which signals matter, but early programs often need longer conversations to calibrate judgment.
 - Selection design is downstream of [[FounderInvestorLearning]]: YC was trying to become the investor its founders wished had existed during [[Viaweb]].
 - Batch selection must be paired with community infrastructure once the batch becomes too large for informal recognition.
+- A selection process can be right about an idea being weak and still need to revise its decision when the founding team signal is strong.
 
 ## Connections
 - [[YCombinator]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people and institution from the source.
@@ -27,3 +30,4 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[FastProductValidation]], [[FounderProductFit]], and [[CustomerPull]] - adjacent concepts for judging early startup promise.
 - [[StartupInfrastructureImprovisation]] - manual PDFs, printing, scoring, and office logistics.
 - [[GarryTan]], [[Bookface]], and [[StartupCommunityInfrastructure]] - scaling layer added by the Tan episode.
+- [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], and [[FounderIdeaPivot]] - founder-over-idea lesson added by the Huffman episode.

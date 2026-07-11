@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-10
 ---
 
@@ -20,6 +20,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-garrytan-final]] adds Graham through [[GarryTan]] and [[Posterous]]. Tan remembers Graham criticizing Posterous's signup flow and teaching the team to see the product through a beginner's eyes. This extends Graham's wiki role from YC origin and deal judgment into direct product critique under [[FastProductValidation]].
 
+[[socialradarspod-stevehuffman-final]] adds Graham through the [[Reddit]] origin story. He first challenged [[SteveHuffman]] and [[AlexisOhanian]]'s mobile food-ordering idea, then called them back from the train because [[YCombinator]] liked the founders more than the idea. His prompt toward a better [[Delicious]] Popular became a source case for [[FounderIdeaPivot]] and [[StartupAcceleratorBatchSelection]].
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.
@@ -28,3 +30,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], and [[CustomerPull]] - later YC partner and angel-investing branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], and [[PowerUserDiscovery]] - YC decision and alumni-network branch added by the Lieb episode.
 - [[GarryTan]], [[Posterous]], [[FounderHonesty]], and [[FastProductValidation]] - product-critique branch added by the Tan episode.
+- [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - founder-over-idea branch added by the Huffman episode.

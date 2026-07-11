@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Steve Huffman on Reddit's Origin Story, Sale, and Return](sources/socialradarspod-stevehuffman-final.md) — The Social Radars episode with Steve Huffman on Reddit's YC pivot, Digg competition, Conde Nast sale, Infogami/Aaron Swartz strain, Hipmunk, and his 2015 return during a platform community crisis.
 - [Garry Tan on Returning to Y Combinator](sources/socialradarspod-garrytan-final.md) — The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, YC, Bookface, Initialized Capital, founder honesty, co-founder conflict, and builder-centered institutions.
 - [David Lieb on Bump, Google Photos, and Returning to YC](sources/socialradarspod-davidlieb-final.md) — The Social Radars episode with David Lieb on Bump's low-frequency business-model problem, power-user photo-sharing discovery, Flock, Google Photos, Google Plus conflict, large-company risk incentives, and returning to YC.
 - [Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment](sources/socialradarspod-paulb-final.md) — The Social Radars episode with Paul Buchheit on Gmail's internal feedback loops, constrained launch, FriendFeed's social product, Facebook acquisition, YC advice, and outlier-driven angel investing.
@@ -253,6 +254,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Steve Huffman](entities/SteveHuffman.md) — Reddit co-founder and CEO whose episode connects YC's founder-over-idea pivot, the Conde Nast sale, Hipmunk, and his 2015 return during Reddit's community crisis.
+- [Reddit](entities/Reddit.md) — User-powered content and community platform born from a YC pivot, shaped by Delicious/Slashdot influences, Digg competition, Conde Nast ownership, and later platform governance crises.
+- [Alexis Ohanian](entities/AlexisOhanian.md) — Reddit co-founder whose pairing with Steve Huffman illustrates founder compatibility before the first product idea was validated.
+- [Aaron Swartz](entities/AaronSwartz.md) — Infogami founder who joined Reddit through a merger, creating early-team strain that Huffman later frames as an unresolved relationship.
+- [Hipmunk](entities/Hipmunk.md) — Steve Huffman and Adam Goldstein's travel startup, used as the second-company context that made Huffman's 2015 return to Reddit costly.
+- [Adam Goldstein](entities/AdamGoldstein.md) — Hipmunk co-founder whose M&A process and promise from Huffman make the Reddit return a founder-responsibility conflict.
+- [Conde Nast](entities/CondeNast.md) — Media company that acquired Reddit, creating stability but also startup hiring and incentive constraints.
+- [Infogami](entities/Infogami.md) — YC company associated with Aaron Swartz that merged with Reddit before Reddit's traction pulled attention away from the broader merged vision.
+- [Digg](entities/Digg.md) — Earlier and larger Reddit competitor that Huffman says gave Reddit lessons by absorbing platform heat first.
+- [Slashdot](entities/Slashdot.md) — Early technical news and comment community that influenced Reddit and also surfaced YC to Paul Buchheit.
+- [Delicious](entities/Delicious.md) — Social bookmarking site whose Popular page helped inspire Reddit's dynamic user-powered link list.
+- [Yishan Wang](entities/YishanWang.md) — Reddit CEO in the post-Conde Nast spinout period when the company regained more startup-like hiring and incentive structure.
+- [Sam Altman](entities/SamAltman.md) — Startup investor in the Reddit episode, linked to Reddit's Series B and the 2015 push for Huffman to return.
 - [Garry Tan](entities/GarryTan.md) — YC president and CEO whose episode connects Stanford, Microsoft, Palantir, Posterous, Initialized Capital, Bookface, founder honesty, co-founder conflict, and builder-centered institutions.
 - [Posterous](entities/Posterous.md) — Garry Tan's YC-backed blogging startup, used as a case for iPhone-era timing, launch support, Instagram competition, and co-founder conflict.
 - [Initialized Capital](entities/InitializedCapital.md) — Venture firm Garry Tan began from the YC orbit, extending founder-investor learning beyond the seed-stage accelerator model.
@@ -284,14 +298,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, PlanGrid's domain-expert interview, and DoorDash's three-sided marketplace validation.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, Reddit's founder-over-idea pivot, PlanGrid's domain-expert interview, and DoorDash's three-sided marketplace validation.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
-- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, later recalled by Jessica Livingston as describing DoorDash as an organizational work of art.
+- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, PlanGrid's domain expertise, and DoorDash's operational marketplace story.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, and DoorDash.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect Reddit's YC pivot, early YC operations, PlanGrid's domain expertise, and DoorDash's marketplace story.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Reddit's origin and return, early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Reddit, Hipmunk, Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, DoorDash, Gmail, and Bump.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
@@ -1545,9 +1559,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
+- [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
+- [Corporate-Owned Startup Constraints](concepts/CorporateOwnedStartupConstraints.md) — Operating limits that appear when an acquired startup needs equity incentives and speed but sits inside a larger corporate parent.
+- [Platform Community Governance](concepts/PlatformCommunityGovernance.md) — Moderation, legitimacy, and trust problem of managing a user-powered platform whose communities and moderators can shape product survival.
+- [Founder Return Crisis](concepts/FounderReturnCrisis.md) — Crisis pattern where a company asks an earlier founder to return because product memory and legitimacy matter to stabilization.
+- [Long-Lived Startup Decisions](concepts/LongLivedStartupDecisions.md) — Early technical, ownership, and relationship choices that keep shaping a startup for years or decades.
 - [Builder-Centered Institutions](concepts/BuilderCenteredInstitutions.md) — Institutional pattern where capital, status, advice, and community are organized around people actively building products and companies.
 - [Founder Honesty](concepts/FounderHonesty.md) — Founder-support stance that favors candid, trust-based critique over flattering founders or disappearing when problems appear.
-- [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder disagreement damages product response, leadership, and founder health.
+- [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder or early-team disagreement damages product response, leadership, relationships, and founder health.
 - [Startup Timing Windows](concepts/StartupTimingWindows.md) — Temporary openings created by platform shifts, market conditions, or workflow gaps that can create and later close startup opportunities.
 - [Startup Community Infrastructure](concepts/StartupCommunityInfrastructure.md) — Software, events, lists, rituals, and trust systems that let founder communities keep working as they scale.
 - [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.
@@ -1567,7 +1587,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Web-Based Software](concepts/WebBasedSoftware.md) — Early server-hosted browser software model that made Viaweb feel revolutionary because fixes and features could be deployed without boxed release cycles.
 - [Startup Infrastructure Improvisation](concepts/StartupInfrastructureImprovisation.md) — Pattern where early companies keep services and institutions running through practical but risky fixes such as bogometers, fax modems, generator attempts, and unfinished offices.
 - [Dynamic Balancing Robotics](concepts/DynamicBalancingRobotics.md) — Walking-robot route focused on active balance, compliant actuation, terrain adaptation, and impact tolerance rather than only careful foot geometry.
-- [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection.
+- [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection, including founder-versus-idea calls.
 - [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where founders translate their own fundraising pain into investor services, advice, selection, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
@@ -2449,7 +2469,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Identity Diversification](concepts/FounderIdentityDiversification.md) — Founder-health pattern of keeping self-worth, learning, and relationships from depending on one company or role.
-- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose, now including DoorDash's marketplace-validation case.
+- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose, now including Reddit's idea pivot and DoorDash's marketplace-validation case.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
@@ -2479,7 +2499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
-- [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules, scale, corporate ownership, and incentives reduce startup-like leverage.
 - [Learning How To Learn](concepts/LearningHowToLearn.md) — Durable meta-skill for improving study, practice, communication, and AI use across changing majors and careers.
 - [Leverage-Driven Bull Market](concepts/LeverageDrivenBullMarket.md) — Rally pattern where margin finance, off-market financing, or borrowed money amplifies gains and later forced selling.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
@@ -2520,7 +2540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
 - [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
-- [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
+- [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, including cases where crisis pulls the founder back.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
@@ -2558,7 +2578,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Stop-Loss Discipline](concepts/StopLossDiscipline.md) — Rule-based loss control that exits invalidated trades instead of extending losses through hope or delay.
-- [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
+- [Startup Governance](concepts/StartupGovernance.md) — Founder protection and control system spanning mission, ownership, board design, post-acquisition structure, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Sustainable Growth Pace](concepts/SustainableGrowthPace.md) — Choosing a company growth speed that employees, operations, mission, and management capacity can absorb.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
