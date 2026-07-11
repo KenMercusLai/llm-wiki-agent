@@ -2,8 +2,8 @@
 title: "Open Web Traffic Decline"
 type: concept
 tags: [internet, search, platforms, china]
-sources: [dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
-last_updated: 2026-07-07
+sources: [tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
+last_updated: 2026-07-12
 ---
 
 # Open Web Traffic Decline
@@ -14,16 +14,20 @@ The concept matters because search engines do not only need algorithms; they nee
 
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] reinforces the habit side of the concept. The hosts describe everyday queries moving into short-video search and [[Xiaohongshu]], such as school-major or local restaurant questions that no longer necessarily begin on [[Baidu]].
 
+[[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the AI-search version through [[GoogleAIOverviews|Google AI Overviews]]. Here the content can still be open-web publisher material, but the user may receive enough of the answer inside [[Google]]'s generated summary that source links do not restore the old click path. The source turns [[AIAnswerSourceAttribution]] into an economic question for publishers such as [[DailyMail]], not only a citation-design question.
+
 ## Key Claims
 - Open-web search depends on accessible content, visible links, and users who start with a search box.
 - Mobile super apps and community platforms can capture both the content and the commercial transaction before search sees it.
 - The loss of crawlable or habit-forming information sources makes old traffic-aggregation tactics weaker.
 - A company built around open-web traffic may need new platform positions, not just better search results.
 - Habit shift is as important as content access: if users begin in social or video apps, general search loses demand before ranking quality is even tested.
+- AI answer boxes can reduce open-web traffic even while displaying sources, because the answer layer may satisfy the user's intent before a click happens.
 
 ## Connections
 - [[Baidu]] — company case shaped by the open-web-to-mobile-app shift.
 - [[SearchAdvertisingDecline]] — downstream business-model effect.
+- [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], and [[DailyMail]] — AI-search attribution and publisher-traffic branch added by Marketplace Tech.
 - [[WeChat]] and [[Xiaohongshu]] — closed or community entry points cited in the source.
 - [[Google]] — comparison case because it found additional platform positions such as Android.
 - [[AIProductFragmentation]] — adjacent platform problem where technical ability still needs a coherent user entry point.

@@ -2171,6 +2171,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews link visibility, publisher traffic, European Commission scrutiny, Palantir's headquarters move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance. Created pages for Google AI Overviews, Daily Mail, European Commission, Alex Karp, Florida, Miami, Tax Foundation, ServiceNow, Citadel, Ring, Ring Search Party, Jamie Siminoff, Flock Safety, AI Answer Source Attribution, South Florida Tech Migration, and Consumer Camera Surveillance; updated overview, index, Marketplace Tech, Stephanie Hughes, Anita Ramaswamy, The Information, Google, Open Web Traffic Decline, Search Advertising Decline, Generative Engine Optimization, AI Search Advertising, Platform Antitrust, Platform Data Regulation, European Union, Palantir, Amazon, Pew Research Center, Ray-Ban Smart Glasses, and Apple Privacy. No direct contradiction found; the source qualifies AI search and GEO optimism by separating visible citations from actual publisher traffic recovery, and it keeps Flock Safety distinct from the unrelated Flock photo-sharing app.
+
 ## [2026-07-12] ingest | TPU? GPU? What's the difference between these two chips used for AI?
 
 Added source page for the Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI chip specialization, training versus inference, edge neural processing units, and why R&D scale plus software ecosystems protect incumbents such as Nvidia and Google. Created pages for Christopher Miller, Chip War, GPU, AI Chip Specialization, and Neural Processing Units; updated overview, index, Marketplace Tech, Nvidia, Google, TPU, On-Device AI, Anthropic, OpenAI, Meta, Megan McCarty-Corino, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source extends the existing TPU and AI infrastructure branches by treating TPUs as a credible specialized alternative for some workloads rather than a full replacement for general-purpose Nvidia GPUs.
@@ -2310,6 +2314,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] report | Graph health report generated
 
 3011 nodes analyzed.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

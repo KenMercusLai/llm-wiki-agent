@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs](sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews source links and publisher traffic, Palantir's move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance.
 - [Meta's big bet on superintelligence](sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI capex, ad-targeting payoff, Meta AI's consumer-adoption gap, Ray-Ban smart glasses, personal superintelligence, privacy tension, and AI overtaking VR inside Meta's priorities.
 - [Can software companies survive the AI boom?](sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against SaaS, the gap between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, agent-heavy workplaces, consumption/outcome pricing, and SaaS consolidation.
 - [Fewer students are enrolling in computer science classes and majors](sources/tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Carrie George on declining U.S. computer and information science enrollment, uneven demand across computing subfields, AI and labor-market anxiety, international-student declines, and research-pipeline risk.
@@ -296,6 +297,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Google AI Overviews](entities/GoogleAIOverviews.md) — Google's AI-generated search-summary product, now tied in the wiki to source attribution, publisher traffic loss, and regulatory pressure.
+- [Daily Mail](entities/DailyMail.md) — Publisher example used to show AI Overview click-through losses and the economic stakes of AI answer attribution.
+- [European Commission](entities/EuropeanCommission.md) — EU regulator investigating Google over possible competition issues around digital publisher content and AI search.
+- [Alex Karp](entities/AlexKarp.md) — Palantir leader whose Silicon Valley critique helps frame the company's Miami headquarters move as cultural and political signaling.
+- [Florida](entities/Florida.md) — State context for Palantir's Miami headquarters move and South Florida's perceived tax, regulatory, and political pull.
+- [Miami](entities/Miami.md) — City destination for Palantir's announced headquarters move and anchor for the South Florida tech migration branch.
+- [Tax Foundation](entities/TaxFoundation.md) — Tax-policy organization cited to complicate a simple tax-only explanation of Palantir's headquarters move.
+- [ServiceNow](entities/ServiceNow.md) — Enterprise software company cited as adding South Florida office space in the same relocation narrative.
+- [Citadel](entities/Citadel.md) — Finance-company precedent for headquarters movement to Miami in the South Florida business-geography discussion.
+- [Ring](entities/Ring.md) — Amazon-owned video doorbell and camera company discussed through Search Party, law-enforcement relationships, and surveillance backlash.
+- [Ring Search Party](entities/RingSearchParty.md) — Ring AI feature for finding lost dogs that raised broader connected-camera surveillance concerns.
+- [Jamie Siminoff](entities/JamieSiminoff.md) — Ring founder tied to the reported broader crime-reduction ambition behind Search Party.
+- [Flock Safety](entities/FlockSafety.md) — Public-safety camera company whose planned Ring partnership was canceled after Search Party backlash.
 - [Mike Isaac](entities/MikeIsaac.md) — New York Times reporter interviewed by Marketplace Tech about Meta's AI spending, ad business, consumer-assistant gap, smart glasses, and VR priority shift.
 - [New York Times](entities/NewYorkTimes.md) — Media organization entering the wiki through Mike Isaac's Marketplace Tech commentary on Meta's AI strategy.
 - [Meta AI](entities/MetaAI.md) — Meta's consumer AI assistant, discussed as less prominent than ChatGPT and in need of differentiation through personal superintelligence.
@@ -1836,6 +1850,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Answer Source Attribution](concepts/AIAnswerSourceAttribution.md) — Source-visibility, trust, traffic, and regulation problem created when AI search answers summarize publisher material.
+- [South Florida Tech Migration](concepts/SouthFloridaTechMigration.md) — Business-geography pattern where Miami and nearby Florida markets attract technology and finance firms through taxes, regulation, politics, and symbolism.
+- [Consumer Camera Surveillance](concepts/ConsumerCameraSurveillance.md) — Privacy and governance problem created when consumer camera devices become searchable AI-enabled neighborhood networks.
 - [Personal Superintelligence](concepts/PersonalSuperintelligence.md) — Meta's proposed personalized assistant strategy combining user data, Meta AI, app distribution, and wearable hardware.
 - [AI Advertising Targeting](concepts/AIAdvertisingTargeting.md) — Use of AI to improve ad matching, timing, prediction, and monetization inside platform advertising businesses.
 - [Computing Enrollment Decline](concepts/ComputingEnrollmentDecline.md) — Reported fall in U.S. computer and information science enrollment, with students shifting away from traditional CS toward applied computing subfields.
