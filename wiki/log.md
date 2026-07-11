@@ -2151,6 +2151,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Founder Mode: Jake Heller, Founder & CEO, Casetext
+
+Added source page for The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, the companywide move into Co-Counsel, board and employee persuasion, the Thomson Reuters acquisition, and founder mode under a model inflection. Created pages for Jake Heller, Casetext, Co-Counsel, Thomson Reuters, GPT-4, and Frontier Model Inflection Pivot; updated overview, index, OpenAI, Y Combinator, The Social Radars, Founder Mode, Vertical Workflow AI, AI Workflow Triage, and Legal AI Hallucination. No direct contradiction found; the source is preserved as Heller's founder account rather than an independent customer, employee, investor, or acquirer postmortem.
+
 ## [2026-07-12] ingest | Sam Altman on YC, OpenAI, and the Meaning of Formidable
 
 Added source page for The Social Radars episode with Sam Altman on Looped, the first Y Combinator batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis. Created pages for Looped, Greg Brockman, Blake Ross, Helion, Reid Hoffman, Shivon Zilis, Will Hurd, Founder Risk Calibration, OpenAI Board Crisis, Language Model Scaling Bet, and Delegated Web Research; updated overview, index, Sam Altman, OpenAI, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, ChatGPT, Google, Google DeepMind, Ilya Sutskever, Emmett Shear, Adam D'Angelo, Microsoft, David Sacks, Elon Musk, Ron Conway, Steve Jobs, Goldman Sachs, Sequoia Capital, Startup Governance, AI Alignment Governance, Platform Dependency Risk, and Startup Accelerator Batch Selection. No direct contradiction found; the OpenAI crisis material is preserved as Altman's first-person account and should be paired with other perspectives for disputed board intent and safety claims.
@@ -2194,6 +2198,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Founder Mode: Paul Graham, Founder, Y Combinator
 
 Added source page for The Social Radars YC offsite episode with Paul Graham on founder mode as a real but still unmapped founder-operating phenomenon, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, Paul Gross, and young-founder credibility. Created pages for Replit, Amjad Masad, Stoke, and Paul Gross; updated overview, index, Founder Mode, Vibe Coding, Founder Proximity, Paul Graham, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Brian Chesky, Ron Conway, Steve Jobs, and Jony Ive. No direct contradiction found; the source reinforces the Brian Chesky and Garry Tan founder-mode offsite pages while making the concept explicitly exploratory rather than a finished doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

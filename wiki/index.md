@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Jake Heller, Founder & CEO, Casetext](sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final.md) — The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, a full-company pivot into Co-Counsel, board and employee persuasion, Thomson Reuters acquisition, and founder mode under a model inflection.
 - [Founder Mode: Paul Graham, Founder, Y Combinator](sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final.md) — The Social Radars YC offsite episode with Paul Graham on founder mode as an unfinished map, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, and young-founder credibility.
 - [Founder Mode: Garry Tan, President & CEO, Y Combinator](sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final.md) — The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy.
 - [Founder Mode: Brian Chesky, Founder & CEO, Airbnb](sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final.md) — The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, skip-level relationships, founder presence, and AI-era speed.
@@ -283,6 +284,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jake Heller](entities/JakeHeller.md) — Casetext founder and CEO whose YC offsite episode links legal-tech frustration, early GPT-4 access, founder-mode persuasion, Co-Counsel, and the Thomson Reuters acquisition.
+- [Casetext](entities/Casetext.md) — Legal-tech company that used early GPT-4 access to pivot from a long legal-search and workflow grind into Co-Counsel and a Thomson Reuters acquisition.
+- [Co-Counsel](entities/CoCounsel.md) — Casetext legal AI product built after early GPT-4 workflow testing and later distributed through Thomson Reuters.
+- [Thomson Reuters](entities/ThomsonReuters.md) — Professional information and workflow company that acquired Casetext for $650 million in the source's account.
+- [GPT-4](entities/GPT4.md) — OpenAI frontier model whose early unreleased version triggered Casetext's legal-AI pivot in Jake Heller's account.
 - [Drew Houston](entities/DrewHouston.md) — Dropbox founder and CEO whose Social Radars episode links personal file-sync pain, YC persistence, incumbent pressure, strategic focus, founder psychology, and Dropbox Dash.
 - [Dropbox](entities/Dropbox.md) — File-sync and productivity company built around reliable sync, simple design, viral sharing, bottom-up enterprise spread, and later knowledge-work organization.
 - [Arash Ferdowsi](entities/ArashFerdowsi.md) — Dropbox co-founder introduced to Drew Houston by Kyle Vogt before YC, helping turn the demo into a fundable company.
@@ -1765,6 +1771,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Frontier Model Inflection Pivot](concepts/FrontierModelInflectionPivot.md) — Company-level strategic reset triggered when a frontier model capability jump makes previously impractical workflows suddenly plausible.
 - [Sync Reliability As UX](concepts/SyncReliabilityAsUX.md) — Product principle where hard sync, backup, recovery, and status behavior become valuable only when users can trust them without understanding the machinery.
 - [Incumbent Platform Pressure](concepts/IncumbentPlatformPressure.md) — Competitive squeeze created when platform companies can copy, bundle, subsidize, or preinstall a startup's product category.
 - [Bottom-Up Enterprise Distribution](concepts/BottomUpEnterpriseDistribution.md) — Enterprise adoption path where individual users and teams spread a tool before formal purchasing catches up.
