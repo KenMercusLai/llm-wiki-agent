@@ -2,7 +2,7 @@
 title: "Founder Mode"
 type: concept
 tags: [startups, leadership, organization-design, ai]
-sources: [tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources: [tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -22,6 +22,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 
 [[tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]] adds [[ChrisBest]]'s media-network version through [[Substack]]. Best's founder mode is the ability to hold a principled long-term thesis about a new economic engine for culture while making concrete product decisions that look questionable in the short term. [[SubstackNotes]] is the main case: Best says the feed looked weak for roughly two years, but Substack kept working because owned discovery was essential to the larger [[CreatorOwnedAudience]] and [[PlatformDependencyRisk]] problem.
 
+[[tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly]] adds [[PaulGross]]'s hard-tech version through [[RemoraCarbon]]. Gross defines his founder mode as a [[FounderRiskDeepDive]] loop: choose the company's top three risks each quarter, delegate the rest, and personally go deep where founder involvement can change technical progress, hiring, customer trust, or government affairs. The case makes founder mode less about broad presence across every team and more about selective intensity around the company's most dangerous constraints.
+
 ## Key Claims
 - Founder mode treats leadership as presence, not absence.
 - Trusting executives does not mean giving up audit, product judgment, skip-level relationships, or direction.
@@ -34,6 +36,7 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - The boundary between founder involvement and micromanagement depends on whether the involvement improves the work and preserves collaboration with the person doing it.
 - In Heller's version, founder mode can be necessary when a model capability jump forces a company to abandon reasonable existing work for a larger but still uncertain product direction.
 - In Best's version, founder mode can protect a [[StrategicMustWorkProductBet]] when short-term metrics are weak but the product is necessary to the company's core strategy.
+- In Gross's version, founder mode can mean learning a risky technical or commercial domain deeply enough to unblock work, hire better, and then step back once the risk is reduced.
 
 ## Connections
 - [[BrianChesky]] and [[Airbnb]] - primary source case.
@@ -45,3 +48,4 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - [[JonyIve]] - collaboration example used by Graham to distinguish intense founder involvement from simple interference.
 - [[JakeHeller]], [[Casetext]], [[CoCounsel|Co-Counsel]], and [[FrontierModelInflectionPivot]] - legal-AI pivot case added by the Jake Heller episode.
 - [[ChrisBest]], [[Substack]], [[SubstackNotes]], [[StrategicMustWorkProductBet]], and [[CreatorOwnedAudience]] - media-network and discovery case added by the Chris Best episode.
+- [[PaulGross]], [[RemoraCarbon]], [[MobileCarbonCapture]], and [[FounderRiskDeepDive]] - hard-tech climate case added by the Paul Gross episode.

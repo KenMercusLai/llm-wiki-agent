@@ -2214,3 +2214,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Paul Gross, Founder & CEO of Remora Carbon
+
+Added source page for The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for semi trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, CO2 liquefaction, selling CO2, government affairs, and manufacturing. Created pages for Remora Carbon, Mobile Carbon Capture, and Founder Risk Deep Dive; updated overview, index, Paul Gross, Founder Mode, Y Combinator, The Social Radars, Economic Climate Tech Adoption, and Climate Startup Commercialization Gap. No direct contradiction found; Remora's technical efficiency, customer partnership, and commercialization claims are preserved as Gross's account rather than independent validation.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Paul Gross, Founder & CEO of Remora Carbon](sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly.md) — The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, and climate hardware commercialization.
 - [Founder Mode: Chris Best, Founder & CEO, Substack](sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov.md) — The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, Substack Notes, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction.
 - [Founder Mode: Jake Heller, Founder & CEO, Casetext](sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final.md) — The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, a full-company pivot into Co-Counsel, board and employee persuasion, Thomson Reuters acquisition, and founder mode under a model inflection.
 - [Founder Mode: Paul Graham, Founder, Y Combinator](sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final.md) — The Social Radars YC offsite episode with Paul Graham on founder mode as an unfinished map, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, and young-founder credibility.
@@ -285,6 +286,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Remora Carbon](entities/RemoraCarbon.md) — Climate hardware company building retrofit systems for semi trucks and locomotives to capture exhaust CO2 and purify it into beverage-grade CO2.
 - [Chris Best](entities/ChrisBest.md) — Substack founder and CEO whose YC offsite episode links broken media incentives, paid newsletters, owned discovery, Substack Notes, and founder-mode persistence.
 - [Substack](entities/Substack.md) — Creator-media platform that began with paid newsletter infrastructure and later pushed toward owned discovery through the app and Substack Notes.
 - [Hamish McKenzie](entities/HamishMcKenzie.md) — Substack co-founder who pushed Chris Best from internet-media critique toward the practical question of what should be built.
@@ -518,7 +520,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Replit](entities/Replit.md) — Developer-tool company used in Paul Graham's YC offsite episode to frame vibe coding as English instructions functioning like source code.
 - [Amjad Masad](entities/AmjadMasad.md) — Replit figure whose AI-coding demo gave Graham the source-code/object-code framing for vibe coding.
 - [Stoke](entities/Stoke.md) — YC company praised by Graham as a low-key hard-engineering execution case at the Founder Mode Retreat.
-- [Paul Gross](entities/PaulGross.md) — Young YC founder whose locomotive carbon-capture startup illustrates credibility through deep subject mastery.
+- [Paul Gross](entities/PaulGross.md) — Remora Carbon founder and CEO whose YC offsite episodes connect young-founder credibility, mobile carbon capture, and risk-focused founder mode.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
 - [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1/Season 2 wrap-up context.
 - [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1/Season 2 wrap-up context.
@@ -1779,6 +1781,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mobile Carbon Capture](concepts/MobileCarbonCapture.md) — Climate hardware pattern of capturing CO2 from moving freight vehicles and turning it into a usable product under demanding retrofit constraints.
+- [Founder Risk Deep Dive](concepts/FounderRiskDeepDive.md) — Founder-mode pattern of delegating broadly while going deep on the company's few highest technical, commercial, or organizational risks.
 - [Creator-Owned Audience](concepts/CreatorOwnedAudience.md) — Media pattern where creators build direct reader or listener relationships through email, subscriptions, and payment while still needing discovery.
 - [Strategic Must-Work Product Bet](concepts/StrategicMustWorkProductBet.md) — Product strategy distinction for features a company decides must work because the core thesis depends on them, illustrated by Substack Notes.
 - [Frontier Model Inflection Pivot](concepts/FrontierModelInflectionPivot.md) — Company-level strategic reset triggered when a frontier model capability jump makes previously impractical workflows suddenly plausible.
