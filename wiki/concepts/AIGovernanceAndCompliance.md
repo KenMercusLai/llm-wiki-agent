@@ -2,7 +2,7 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-12
 ---
 
@@ -30,6 +30,8 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 
 [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the agent-social security version. The episode discusses [[MoteBook]] as a social network for AI agents and says [[Wiz]] reported access to sensitive information, including email addresses. That turns agent governance into a third-party platform question: even experimental agent spaces need identity, permissions, data minimization, and security review before users connect bots with meaningful context.
 
+[[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds the defense-access version. The reported [[Anthropic]] and [[USDepartmentOfDefense]] dispute over [[Claude]] shows that AI governance can involve acceptable-use policy, classified deployment, procurement leverage, supply-chain-risk labels, and the difference between lawful use and vendor-permitted use.
+
 ## Key Claims
 - Compliance programs must increasingly govern not only people, servers, systems, and software, but also agents and AI-related entities.
 - CISOs care about whether internal AI usage is safe, secure, and governed.
@@ -47,6 +49,7 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - Enterprise software governance is a replacement barrier: AI must satisfy data access, permission, audit, API, privacy, and security requirements before it can take over systems of record.
 - Agent-social platforms require governance for data exposure, identity ambiguity, human interference, and the boundary between safe experimentation and connecting agents with real accounts.
 - AI hiring governance includes knowing whether automated interviews measure only job-relevant answers or also infer behavioral signals, and preserving human accountability for employment decisions.
+- Defense AI governance includes negotiating acceptable-use rules with powerful government customers whose lawful mission preferences may exceed a provider's own use-policy boundaries.
 
 ## Connections
 - [[AIInterviewing]], [[RaySmith]], [[ObjectiveHiringAssessment]], and [[HumanJudgmentUnderAI]] - hiring-assessment governance branch added by Marketplace Tech.
@@ -65,3 +68,4 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - [[PublicUtilityCommissions]], [[ScottBrennan]], [[NYUCenterOnTechnologyPolicy]], and [[DataCenterCostShifting]] - state utility regulation branch added by Marketplace Tech.
 - [[DanielNewman]], [[AINativeSaaSThreat]], [[SaaSTrustMoat]], and [[EnterpriseAgentGovernance]] - enterprise-software replacement boundary added by Marketplace Tech.
 - [[MoteBook]], [[Wiz]], [[AISocialNetworks]], [[AgentPermissionBoundaries]], and [[AgentIdentityAndAuthentication]] - agent-social platform security branch added by Marketplace Tech Bytes.
+- [[Anthropic]], [[Claude]], [[USDepartmentOfDefense]], [[DefenseAIProcurement]], and [[FrontierModelUsePolicyConflict]] - defense-access governance branch added by Marketplace Tech Bytes.

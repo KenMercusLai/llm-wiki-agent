@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.](sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Pentagon pressure for Claude access, Anthropic's use-policy red lines, OpenAI Frontier and consulting-led enterprise AI adoption, and Apple's U.S. Mac Mini manufacturing plan.
 - [Physical media's comeback](sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128.md) — Marketplace Tech episode on DVDs, Blu-rays, and VHS having a renewed moment through subscription fatigue, Vidiots' nonprofit video-store model, LunchMeet VHS reprints, collector demand, and analog media preservation.
 - [AI Meets the Search for a BA](sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128.md) — Marketplace Tech episode on students using AI for college search, campus vibe, acceptances, scholarships, and hidden-gem discovery while colleges optimize their AI visibility and fight outdated or ranker-heavy answers.
 - [Here's how to prep for a job interview with AI](sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and the need to keep human judgment in hiring decisions.
@@ -301,6 +302,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Claude](entities/Claude.md) — Anthropic model at the center of the Marketplace Tech Bytes dispute over Pentagon classified use, acceptable-use limits, and defense procurement leverage.
+- [OpenAI Frontier](entities/OpenAIFrontier.md) — OpenAI business platform for building and managing AI coworkers, framed through consulting-led enterprise adoption.
+- [Mac Mini](entities/MacMini.md) — Apple desktop Mac used in the episode as a concrete but limited U.S. manufacturing reshoring case.
+- [Pete Hegseth](entities/PeteHegseth.md) — Defense secretary reportedly pressing Anthropic for broader Pentagon access to Claude.
+- [Maria Curie](entities/MariaCurie.md) — Marketplace Tech episode analyst explaining the Anthropic-Pentagon dispute, OpenAI's enterprise push, and Apple's Houston Mac Mini plan.
 - [Vidiots](entities/Vidiots.md) — Los Angeles nonprofit video store and restored-theater case for renewed physical video rental.
 - [Robbie McCluskey](entities/RobbieMcCluskey.md) — Vidiots store director explaining the store's 1985 origin, 2017 closure, 2023 nonprofit reopening, and rental growth.
 - [LunchMeet VHS](entities/LunchMeetVHS.md) — North Carolina VHS reprint and magazine business preserving tape-only films and video-store culture.
@@ -1877,6 +1883,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Defense AI Procurement](concepts/DefenseAIProcurement.md) — Buying, deploying, and governing AI systems for military and national-security work, grounded by the Claude-Pentagon dispute.
+- [Frontier Model Use Policy Conflict](concepts/FrontierModelUsePolicyConflict.md) — Mismatch between a model provider's acceptable-use policy and a powerful customer's desired lawful-use scope.
+- [Tech Manufacturing Reshoring](concepts/TechManufacturingReshoring.md) — Attempts to move hardware production or advanced-manufacturing capability back into the U.S., grounded by Apple's Houston Mac Mini plan.
 - [Physical Video Media Revival](concepts/PhysicalVideoMediaRevival.md) — Renewed interest in DVDs, Blu-rays, and VHS as a response to streaming fragmentation, collecting, rare-title access, and preservation.
 - [Video Store Culture](concepts/VideoStoreCulture.md) — Social and discovery layer of browsing shelves, renting physical copies, talking with staff, and encountering movies in shared retail space.
 - [Analog Media Preservation](concepts/AnalogMediaPreservation.md) — Preserving media works and context through physical or analog formats when streaming catalogs or digital platforms do not reliably carry them.

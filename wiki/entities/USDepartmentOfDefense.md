@@ -2,8 +2,8 @@
 title: "US Department of Defense"
 type: entity
 tags: [government, defense, ai]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]
-last_updated: 2026-07-11
+sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]
+last_updated: 2026-07-12
 ---
 
 # US Department of Defense
@@ -12,7 +12,11 @@ The US Department of Defense appears in [[tsr-s4-alexandrwang-v3-tsr-s4-alexandr
 
 The episode also connects the defense work to [[Ukraine]] satellite-imagery damage detection. Wang says Scale helped build image-recognition models that could identify damage and support both DOD coordination and humanitarian organizations.
 
+[[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds the frontier-model procurement version. The episode says the department already uses [[Claude]] for classified purposes, while [[PeteHegseth]] reportedly pressed [[Anthropic]] and [[DarioAmodei]] for broader access and threatened contract or supply-chain consequences. The source therefore connects the department to [[DefenseAIProcurement]] and [[FrontierModelUsePolicyConflict]].
+
 ## Connections
 - [[ScaleAI]] and [[AlexandrWang]] - contractor and founder in the source.
 - [[Ukraine]] - satellite-imagery damage-detection context.
 - [[AIDataInfrastructure]] - broader AI data and labeling infrastructure frame.
+- [[Anthropic]], [[Claude]], [[PeteHegseth]], and [[DarioAmodei]] - Marketplace Tech Bytes access dispute.
+- [[DefenseAIProcurement]] and [[FrontierModelUsePolicyConflict]] - procurement and use-policy concepts added by the episode.

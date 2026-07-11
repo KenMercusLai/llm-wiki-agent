@@ -2354,3 +2354,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.
+
+Added source page for the Marketplace Tech Bytes episode on Pentagon pressure for broader Claude access, Anthropic's red lines around mass surveillance and autonomous weapons, OpenAI Frontier and consulting-led AI coworker adoption, and Apple's Houston Mac Mini manufacturing plan. Created pages for Claude, OpenAI Frontier, Mac Mini, Pete Hegseth, Maria Curie, Defense AI Procurement, Frontier Model Use Policy Conflict, and Tech Manufacturing Reshoring; updated overview, index, Marketplace Tech, Anthropic, US Department of Defense, Dario Amodei, OpenAI, Apple, xAI, Google, AI Coworkers, Digital Employees, Business-Led AI Transformation, Enterprise Agent Governance, AI Governance And Compliance, and Frontier Model Access Restrictions. No direct contradiction found; the source extends model-access governance from foreign-user and release-stage restrictions into domestic defense procurement, and qualifies AI coworker adoption by emphasizing workflow, governance, liability, compliance, and employee buy-in.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
