@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth](sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Alphabet's long-term AI infrastructure debt, MoteBook as an agent-only social network with security concerns, and Spotify's user growth through Wrapped and AI playlist curation.
 - [Crypto's big growth on the books and in the shadows](sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ari Redbord of TRM Labs on illicit crypto activity, stablecoin sanctions evasion, A7A5, North Korea exchange attacks, pig-butchering and work-from-home scams, and AI-enabled scam industrialization.
 - [Is the moon (and its resources) up for grabs?](sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128.md) — Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, and why stable lunar energy may be the real long-term competition.
 - [TPU? GPU? What's the difference between these two chips used for AI?](sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128.md) — Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI-chip specialization, training versus inference, edge NPUs, and why software ecosystems and R&D scale protect incumbents like Nvidia and Google.
@@ -291,6 +292,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jewel Burke Solomon](entities/JewelBurkeSolomon.md) — Collab Capital guest on Marketplace Tech Bytes explaining Alphabet's AI infrastructure borrowing, MoteBook's agent-social security risk, and Spotify's Wrapped-driven growth.
+- [Collab Capital](entities/CollabCapital.md) — Investment firm affiliation for Jewel Burke Solomon in the Marketplace Tech Bytes episode.
+- [MoteBook](entities/MoteBook.md) — AI-agent-only social platform discussed as a Reddit-like agent internet experiment with security and identity risks.
+- [Wiz](entities/Wiz.md) — Cloud security platform whose reported MoteBook review raised sensitive-information exposure concerns.
+- [Spotify](entities/Spotify.md) — Audio-streaming platform discussed through fourth-quarter user growth, Wrapped engagement, and AI-assisted playlist curation.
+- [Spotify Wrapped](entities/SpotifyWrapped.md) — Spotify's year-end listening recap feature, treated as a personalization and social-sharing growth engine.
 - [Ari Redbord](entities/AriRedbord.md) — TRM Labs expert interviewed by Marketplace Tech about crypto crime, stablecoin sanctions evasion, scam networks, and AI-enabled fraud.
 - [TRM Labs](entities/TRMLabs.md) — Crypto-compliance and blockchain-intelligence company whose report grounds the Marketplace Tech episode on illicit crypto activity.
 - [A7A5](entities/A7A5.md) — Russia-related stablecoin identified in the Marketplace Tech episode as a major driver of sanctions-related illicit crypto activity in 2025.
@@ -1811,6 +1818,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Infrastructure Debt Financing](concepts/AIInfrastructureDebtFinancing.md) — Use of long-term debt, bonds, and capital-market confidence to fund AI data centers and infrastructure buildout.
+- [Personalization As Social Identity](concepts/PersonalizationAsSocialIdentity.md) — Product pattern where private usage data becomes a shareable statement about taste, status, mood, or belonging.
+- [AI Prompted Playlist Curation](concepts/AIPromptedPlaylistCuration.md) — Use of natural-language prompts to generate or refine music playlists as a consumer AI curation layer.
 - [Stablecoin Sanctions Evasion](concepts/StablecoinSanctionsEvasion.md) — Dual-use risk where stablecoin rails move value outside traditional banking channels and complicate sanctions enforcement.
 - [Work-From-Home Scam](concepts/WorkFromHomeScam.md) — Fake task or gig-work platform scam using fabricated earnings balances and withdrawal fees, deposits, or taxes.
 - [AI-Enabled Scam Industrialization](concepts/AIEnabledScamIndustrialization.md) — Use of AI to scale scam outreach, personalize narratives, and strengthen deepfake or cloned-audio fraud.
