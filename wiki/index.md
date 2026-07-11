@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [TPU? GPU? What's the difference between these two chips used for AI?](sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128.md) — Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI-chip specialization, training versus inference, edge NPUs, and why software ecosystems and R&D scale protect incumbents like Nvidia and Google.
 - [New study reveals a "smartphone penalty" that distorts survey results](sources/tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128.md) — Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, randomized device assignment in the Understanding America Study, survey fatigue, representativeness tradeoffs, and AI/chatbot risks for knowledge measurement.
 - [Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start](sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's stalled $100 billion investment relationship, and U.S. TikTok's ownership transition, Oracle-backed outages, and terms-of-service changes.
 - [Founder Mode: Paul Gross, Founder & CEO of Remora Carbon](sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly.md) — The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, and climate hardware commercialization.
@@ -288,6 +289,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Christopher Miller](entities/ChristopherMiller.md) — Chip War author interviewed by Marketplace Tech about GPUs, Google TPUs, chip specialization, AI workloads, and semiconductor ecosystem concentration.
+- [Chip War](entities/ChipWar.md) — Christopher Miller book cited as context for the Marketplace Tech explanation of AI chip competition.
+- [GPU](entities/GPU.md) — General-purpose accelerator category contrasted with Google TPUs in the Marketplace Tech AI-chip explainer.
 - [Carly Urban](entities/CarlyUrban.md) — Economist interviewed by Marketplace Tech about smartphone effects on financial-knowledge surveys and randomized evidence for a survey-device penalty.
 - [Olivia Valdez](entities/OliviaValdez.md) — Experimental psychologist co-author whose phone-attention hypothesis helped frame the smartphone survey penalty study.
 - [FINRA Foundation](entities/FINRAFoundation.md) — Organization behind the financial-knowledge survey trend discussed as showing a 15% decline from 2009 to 2021.
@@ -551,7 +555,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI chip specialization, smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -810,7 +814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bambu Lab / 拓竹科技](entities/BambuLab.md) — DJI-alumni hardware company example used to explain hardware talent spillover.
 - [EcoFlow / 正浩](entities/EcoFlow.md) — DJI-alumni portable-energy company example and category-expansion contrast.
 - [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
-- [TPU](entities/TPU.md) — Google's AI chip family, discussed as a training and inference infrastructure layer inside Google's cloud-model-enterprise stack.
+- [TPU](entities/TPU.md) — Google's tensor-processing-unit chip family, discussed as both a cloud-model-enterprise stack layer and a specialized AI-chip alternative to Nvidia GPUs for some workloads.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
 - [China](entities/China.md) — Strategic investor and rival power in the Latin lessons source's Latin America investment, factory, mining, and infrastructure frame.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
@@ -1795,6 +1799,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Chip Specialization](concepts/AIChipSpecialization.md) — Tradeoff where AI chips tuned for narrower workloads can improve speed and power use while losing general-purpose flexibility.
+- [Neural Processing Units](concepts/NeuralProcessingUnits.md) — Device-side AI accelerators that bring specialized model execution into PCs, phones, cars, robots, and industrial equipment.
 - [Smartphone Survey Penalty](concepts/SmartphoneSurveyPenalty.md) — Device-linked drop in survey knowledge-question performance when respondents answer on phones rather than desktops, laptops, or tablets.
 - [Survey Mode Effects](concepts/SurveyModeEffects.md) — Measurement shifts caused by how respondents answer a survey, including device type, fatigue, effort, and mobile response rates.
 - [Financial Literacy Measurement](concepts/FinancialLiteracyMeasurement.md) — Survey-design problem of measuring personal-finance knowledge across time and countries without confusing knowledge change with device effects.

@@ -2151,6 +2151,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | TPU? GPU? What's the difference between these two chips used for AI?
+
+Added source page for the Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI chip specialization, training versus inference, edge neural processing units, and why R&D scale plus software ecosystems protect incumbents such as Nvidia and Google. Created pages for Christopher Miller, Chip War, GPU, AI Chip Specialization, and Neural Processing Units; updated overview, index, Marketplace Tech, Nvidia, Google, TPU, On-Device AI, Anthropic, OpenAI, Meta, Megan McCarty-Corino, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source extends the existing TPU and AI infrastructure branches by treating TPUs as a credible specialized alternative for some workloads rather than a full replacement for general-purpose Nvidia GPUs.
+
 ## [2026-07-12] ingest | Founder Mode: Chris Best, Founder & CEO, Substack
 
 Added source page for The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, the app and Substack Notes as owned-discovery bets, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction. Created pages for Chris Best, Substack, Hamish McKenzie, Bill Bishop, Sinocism, Twitter / X, Substack Notes, Creator-Owned Audience, and Strategic Must-Work Product Bet; updated overview, index, Founder Mode, Platform Dependency Risk, Y Combinator, The Social Radars, and Elon Musk. No direct contradiction found; the Musk/Twitter incident is preserved as Best's account rather than a complete platform-side history.
@@ -2234,6 +2238,10 @@ Added source page for the Marketplace Tech episode with Carly Urban on smartphon
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,941 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
