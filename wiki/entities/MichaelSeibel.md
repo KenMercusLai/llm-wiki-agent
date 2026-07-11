@@ -2,7 +2,7 @@
 title: "Michael Seibel"
 type: entity
 tags: [person, startups, y-combinator]
-sources: [socialradarspod-brianchesky-final]
+sources: [socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,7 +12,10 @@ Michael Seibel appears in [[socialradarspod-brianchesky-final]] as the [[JustinT
 
 The source uses Seibel as an example of how failed field experiences can become useful founder-network events. The Austin trip did not validate the product at scale, but it exposed the payments problem and connected Chesky to a YC-adjacent founder who could make investor introductions.
 
+[[socialradarspod-emmettshear-v2]] adds Seibel inside Justin.tv itself. [[EmmettShear]] says the founders recruited him because he was steadier than Emmett and [[JustinKan]], and the team later treated him as one of the aligned cofounders who made a four-founder structure work. The same episode adds Seibel's later YC role: he recruited Emmett back to [[YCombinator]] as a partner after [[Twitch]].
+
 ## Connections
 - [[BrianChesky]] and [[Airbnb]] - founder and company he helped introduce.
-- [[JustinTV]] and [[YCombinator]] - network context.
+- [[EmmettShear]], [[JustinKan]], [[KyleVogt]], [[JustinTV|Justin.tv]], and [[Twitch]] - founder-team and later recruiting context added by the Shear episode.
+- [[YCombinator]] - network and partner-recruiting context.
 - [[PeerToPeerMarketplaceTrust]], [[FastProductValidation]], and [[StartupAcceleratorBatchSelection]] - concepts connected to his source role.

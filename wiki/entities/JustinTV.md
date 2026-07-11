@@ -2,16 +2,22 @@
 title: "Justin.tv"
 type: entity
 tags: [company, startups, video, y-combinator]
-sources: [socialradarspod-brianchesky-final]
+sources: [socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
 last_updated: 2026-07-11
 ---
 
 # Justin.tv
 
-Justin.tv appears in [[socialradarspod-brianchesky-final]] as the [[YCombinator]]-linked startup network around [[MichaelSeibel]]. [[BrianChesky]] says a roommate worked at Justin.tv, and after Chesky was stranded in Austin, Seibel and the Justin.tv group became both emergency lodging and a route toward investor introductions for [[Airbnb]].
+Justin.tv appears in [[socialradarspod-emmettshear-v2]] as the live-video startup that [[EmmettShear]] and [[JustinKan]] pursued after selling [[Kiko]]. [[PaulGraham]] rejected their first post-Kiko idea but funded the live-streaming concept with a $50,000 check because he saw it as a possible new form of reality TV.
 
-The source does not analyze Justin.tv's own product history. Its wiki role here is network infrastructure: an earlier YC company created social proximity that helped a later, struggling startup reach the people who could evaluate it.
+The source presents Justin.tv as both a strange idea and a practical infrastructure company. Justin wore a camera and streamed his life, but Emmett says the most durable signals were audience conversation and game streaming. The technical side forced the team beyond simple CDN use, with [[KyleVogt]] leading early video-system work while Emmett handled other technology.
+
+The company also becomes the wiki's core [[StartupRunwayDiscipline]] case. During the 2008 financial crisis, Justin.tv shifted toward profitability, monthly P&L review, burn and runway transparency, cost cutting, revenue experiments, and page-level monetization. That discipline helped fund [[Twitch]] from internal cash flow before outside capital arrived.
+
+Justin.tv also appears in [[socialradarspod-brianchesky-final]] as the [[YCombinator]]-linked startup network around [[MichaelSeibel]]. [[BrianChesky]] says a roommate worked at Justin.tv, and after Chesky was stranded in Austin, Seibel and the Justin.tv group became both emergency lodging and a route toward investor introductions for [[Airbnb]].
 
 ## Connections
-- [[MichaelSeibel]], [[BrianChesky]], and [[Airbnb]] - people and company connected through the Austin story.
-- [[YCombinator]] and [[StartupCommunityInfrastructure]] - accelerator and founder-network context.
+- [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context from the Shear episode.
+- [[Kiko]], [[Twitch]], [[Amazon]], and [[BessemerVenturePartners]] - origin, focused successor, acquirer, and investor context.
+- [[BrianChesky]] and [[Airbnb]] - later founder-network role in the Austin story.
+- [[YCombinator]], [[StartupCommunityInfrastructure]], [[StartupRunwayDiscipline]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - accelerator, network, operating, and monetization context.

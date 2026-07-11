@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -32,6 +32,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarss2-stripe-v2]] adds Graham through [[PatrickCollison]]'s teenage path into the startup world. Patrick says he emailed Graham after learning Lisp, met him in Boston, and was later invited to a dinner where [[RobertMorris]] advised him about MIT. The source makes Graham part of the early relationship network around the Collisons before [[Stripe]], not only YC's formal accelerator story.
 
+[[socialradarspod-emmettshear-v2]] adds Graham through [[EmmettShear]]'s first-batch path. Graham and YC accepted [[Kiko]] because the founders and demo were strong enough even though the calendar idea looked weak. After Kiko sold, Graham rejected the founders' print-on-demand coffee-table-book idea, then wrote a $50,000 check for [[JustinTV|Justin.tv]] because the 24/7 live-streaming idea looked like a possible new kind of reality TV.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -47,3 +49,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - New York host-fieldwork advice added by the second Chesky episode.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[OperationalPainFounderInsight]], and [[MoneyMovementInfrastructure]] - Dadiomov episode branch that invokes Graham's schlep-blindness frame.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], and [[DeveloperFirstPaymentInfrastructure]] - Collison episode branch connected through early programming and startup relationships.
+- [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - Shear episode branch connected through first-batch selection, idea critique, and Justin.tv's first check.

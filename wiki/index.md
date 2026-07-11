@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience](sources/socialradarspod-emmettshear-v2.md) — The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner.
 - [Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition](sources/socialradarss2-stripe-v2.md) — The Social Radars episode with Stripe's co-founders on teenage programming, early YC ties, web-payment friction, App Store monetization contrast, `/dev/payments`, API product design, and long-term company execution.
 - [Bill Clerico on WePay, YC, and Fire Tech](sources/socialradarss2-billclerico-final.md) — The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, group-payments-to-API pivot, early bank friction, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis.
 - [Dimitri Dadiomov on Modern Treasury and Financial Plumbing](sources/socialradarsseason2-dimitri-final.md) — The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, money-movement infrastructure, trust-heavy infrastructure sales, SVB crisis response, financial-operations resilience, accelerated bank runs, and FedNow.
@@ -263,6 +264,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, and returning to YC.
+- [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
+- [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
+- [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
+- [Kyle Vogt](entities/KyleVogt.md) — Justin.tv technical cofounder who led early video-infrastructure work that helped make Twitch possible.
+- [Tucows](entities/Tucows.md) — Buyer of Kiko in the source, turning a failed calendar startup into useful founder cash and learning.
 - [Patrick Collison](entities/PatrickCollison.md) — Stripe co-founder whose episode links teenage Lisp/Paul Graham contact, web-payment frustration, developer-first payment infrastructure, and vision-to-reality execution.
 - [John Collison](entities/JohnCollison.md) — Stripe co-founder whose episode links early startup-world entry, `/dev/payments`, web-payment friction, founder alignment, and API product design.
 - [Bill Clerico](entities/BillClerico.md) — WePay co-founder and former CEO whose episode links YC, early payments friction, fraud controls, JPMorgan acquisition, and post-WePay fire-tech investing.
@@ -299,8 +306,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ken Chenault](entities/KenChenault.md) — Airbnb board member in the COVID crisis story who helped frame the travel collapse as an existential threat.
 - [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
 - [Nate Blecharczyk](entities/NateBlecharczyk.md) — Airbnb technical co-founder who helped turn the hosting insight into a working booking site and joined the team through the YC decision.
-- [Michael Seibel](entities/MichaelSeibel.md) — Justin.tv founder-network contact who housed Chesky in Austin, heard the Airbnb pitch, and introduced the founders to investors.
-- [Justin.tv](entities/JustinTV.md) — YC-linked startup network that connected Michael Seibel and Brian Chesky during Airbnb's early Austin/SXSW period.
+- [Michael Seibel](entities/MichaelSeibel.md) — Justin.tv cofounder and later YC leader whose wiki role now spans Airbnb introductions and recruiting Emmett Shear back to YC.
+- [Justin.tv](entities/JustinTV.md) — YC-linked live-video startup whose lifecasting experiment, 2008 runway discipline, and video infrastructure helped produce Twitch.
 - [Steve Huffman](entities/SteveHuffman.md) — Reddit co-founder and CEO whose episode connects YC's founder-over-idea pivot, the Conde Nast sale, Hipmunk, and his 2015 return during Reddit's community crisis.
 - [Reddit](entities/Reddit.md) — User-powered content and community platform born from a YC pivot, shaped by Delicious/Slashdot influences, Digg competition, Conde Nast ownership, and later platform governance crises.
 - [Alexis Ohanian](entities/AlexisOhanian.md) — Reddit co-founder whose pairing with Steve Huffman illustrates founder compatibility before the first product idea was validated.
@@ -345,14 +352,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, founder-over-idea pivots, nonprofit and marketplace cases, and Modern Treasury's trust-heavy infrastructure validation.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, Kiko/Twitch first-batch learning, founder-over-idea pivots, nonprofit and marketplace cases, and Modern Treasury's trust-heavy infrastructure validation.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
 - [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1-to-Season 2 context.
 - [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1-to-Season 2 context.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, and the Season 1-to-Season 2 transition.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, and Twitch.
 - [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
 - [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
 - [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
@@ -1609,6 +1616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Startup Runway Discipline](concepts/StartupRunwayDiscipline.md) — Operating pattern of making burn, runway, revenue, cost structure, and survival assumptions explicit before a startup runs out of time.
+- [Investor Risk Narrative](concepts/InvestorRiskNarrative.md) — Fundraising discipline of naming real startup risks while making upside and de-risking paths legible enough for investors to underwrite.
 - [Developer-First Payment Infrastructure](concepts/DeveloperFirstPaymentInfrastructure.md) — Stripe's original thesis of making payment acceptance instant, programmable, and developer-friendly rather than a slow merchant-account project.
 - [API Product Design](concepts/APIProductDesign.md) — Product discipline of treating an API, documentation, examples, onboarding, and developer trust as the main user experience.
 - [Vision-to-Reality Execution](concepts/VisionToRealityExecution.md) — Scaling-company challenge of turning a broad vision into real products, systems, organizations, and durable execution.

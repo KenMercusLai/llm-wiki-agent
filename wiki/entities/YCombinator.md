@@ -2,13 +2,15 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
 # Y Combinator
 
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds [[PaulGraham]]'s first-person origin story for Y Combinator. The model drew on [[JulianWeber]]'s small early [[Viaweb]] investment, Graham's startup essays, [[JessicaLivingston]]'s VC exploration, and a desire to work again with [[RobertMorris]] and [[TrevorBlackwell]]. The [[SummerFoundersProgram]] began as a possible one-off experiment, but the first batch, early Demo Days, [[Reddit]], [[SamAltman]], and [[SequoiaCapital]] attention made the model feel real.
+
+[[socialradarspod-emmettshear-v2]] adds [[EmmettShear]]'s participant account from that first batch. [[Kiko]] was accepted with a working browser-calendar demo even though YC warned the idea might be weak, and Emmett says the batch's peer support, Tuesday dinners, and later friendships with founders such as [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] mattered more than the small check. The episode also extends YC forward: [[MichaelSeibel]] later recruited Emmett back as a partner after [[JustinTV|Justin.tv]], [[Twitch]], and the [[Amazon]] acquisition.
 
 Y Combinator appears in [[tsr-s2-trevorblackwell-v2]] through its earliest operating history. [[PaulGraham]] called [[TrevorBlackwell]] with the idea of becoming the kind of investor they wished they had during [[Viaweb]], and the first Summer Founders Program began as a one-summer experiment rather than a fully specified institution.
 
@@ -45,6 +47,7 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
 - [[FounderInvestorLearning]] - Viaweb fundraising experience translated into investor design.
 - [[StartupAcceleratorBatchSelection]] - application, interview, and first-batch selection process.
+- [[EmmettShear]], [[Kiko]], [[JustinTV|Justin.tv]], [[Twitch]], [[StartupRunwayDiscipline]], and [[InvestorRiskNarrative]] - first-batch company and later YC partner case added by the Shear episode.
 - [[Anybots]] and [[StartupInfrastructureImprovisation]] - Mountain View office and dinner context.
 - [[TheSocialRadars]] - source show preserving YC origin stories through interviews.
 - [[TracyYoung]], [[PlanGrid]], and [[VerticalSaaSDomainExpertise]] - later YC company case added by the Young episode.

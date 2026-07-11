@@ -2,7 +2,7 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
+sources: [socialradarspod-emmettshear-v2, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -26,6 +26,8 @@ The source's main lesson is that batch selection mixes process design with judgm
 
 [[socialradarspod-brianarmstrong-final]] adds [[Coinbase]] as a [[StartupHighBetaBet]] case. YC notes described Coinbase as high beta: the company could easily have failed because crypto, banking, fraud, and regulation were all unresolved, but the upside was large if [[BrianArmstrong]] could make [[Bitcoin]] access usable and trusted.
 
+[[socialradarspod-emmettshear-v2]] adds [[Kiko]] as another first-batch case. [[EmmettShear]] says the working browser calendar demo and founder quality helped get the team accepted, while YC warned that the idea itself might be weak. The episode also adds the social side of selection: Tuesday dinners and peer support made the batch more valuable than the small check for founders who otherwise felt isolated.
+
 ## Key Claims
 - Application formatting is part of selection because messy submissions are hard to compare fairly.
 - Technical review matters when applicants propose products whose feasibility is uncertain.
@@ -38,6 +40,8 @@ The source's main lesson is that batch selection mixes process design with judgm
 - Batch pressure can turn selection into operating discipline when founders use the program to create routine, urgency, and direct user contact.
 - Nonprofit selection can use many startup signals without pretending that market revenue is the only valid proof; field evidence, intervention leverage, and operating discipline can also matter.
 - High-beta selection can be rational when an unproven market discontinuity, founder fit, and extreme upside justify funding before the risk is comfortable.
+- A working demo can overcome a weak-market concern when it proves the founders can build, but selection still needs to keep idea risk visible.
+- Batch selection creates peer infrastructure as well as investment decisions; the accepted founders may help each other survive emotionally and operationally before their products work.
 
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people, first program, and institution from the source.
@@ -50,3 +54,4 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - post-selection operating discipline added by the second Chesky episode.
 - [[EdithElliott]], [[NooraHealth]], [[FamilyCaregiverTraining]], and [[NonprofitStartupDiscipline]] - nonprofit-track selection lesson added by the Elliott episode.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech selection lesson added by the Armstrong episode.
+- [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - first-batch demo, weak-idea, and peer-support case added by the Shear episode.

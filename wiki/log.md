@@ -555,7 +555,6 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-07] ingest | Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春
 
 Added source page for a Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic SOTA model releases, Seedance-style video generation, ChatGPT subscription/advertising, OpenAI voice/hardware, local translation models, agentic shopping/payment, cloud-chip binding, data-center power, space compute, robotics, and AI-for-science news. Created supporting pages for Xcode, Model Workflow Fit, and Agentic Commerce; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, Claude Code, Gemini, Apple, Google, OpenAI, Anthropic, Amazon, ByteDance, Model Routing Cost Control, AI Inference Cost Structure, AI Coding Verification, AI Product Fragmentation, AI Subscription Economics, Agent Permission Boundaries, MaaS Infrastructure, Video Models, World Models, AI Interactive Entertainment, and AI Plus Terminals.
@@ -2031,6 +2030,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience
+
+Added source page for The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner. Created pages for Emmett Shear, Kiko, Twitch, Justin Kan, Kyle Vogt, Tucows, Startup Runway Discipline, and Investor Risk Narrative; updated overview, index, The Social Radars, Y Combinator, Justin.tv, Michael Seibel, Paul Graham, Amazon, Bessemer Venture Partners, Startup Accelerator Batch Selection, Founder Cash Flow Constraint, Founder Product Fit, Startup Community Infrastructure, Customer Pull, Product Led Willingness To Pay, and Post-Acquisition Founder Identity. No direct contradiction found; the source grounds the prior first-batch "Twitch founders" reference and extends the wiki's startup branch with cash-cushion, runway-discipline, usage-signal, and fundraising-narrative lessons.
 
 ## [2026-07-11] lint | Wiki health check
 
