@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-12
 ---
 
@@ -42,6 +42,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Graham through [[SamAltman]]'s first-batch account. Graham's funding call is the life-pivot moment that caused Altman to cancel [[GoldmanSachs]], and his early advice that Altman needed to get good at business turned [[Looped]] into practical training in deals, carriers, fundraising, and launch work.
 
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Graham through [[DrewHouston]]'s [[Dropbox]] application. Graham's push for a co-founder sent Houston toward [[ArashFerdowsi]], and his later funding call placed Dropbox inside YC after Houston had tried several informal routes to get attention and feedback.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -62,3 +64,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[HarjTaggar]], [[KulvirTaggar]], [[AutomaticAuctions]], [[YuriMilner]], and [[StartupLegitimacyTransfer]] - Harj Taggar episode branch connected through YC alumni help and investor-access scaling.
 - [[EricMigicovsky]], [[Pebble]], [[Kickstarter]], and [[KickstarterDemandShock]] - Eric Migicovsky episode branch connected through crowdfunding advice after investor rejection.
 - [[SamAltman]], [[Looped]], [[GoldmanSachs]], and [[FounderRiskCalibration]] - Sam Altman episode branch connected through the first-batch funding call and business-training advice.
+- [[DrewHouston]], [[Dropbox]], [[ArashFerdowsi]], and [[SyncReliabilityAsUX]] - Drew Houston episode branch connected through YC co-founder pressure and acceptance.

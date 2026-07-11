@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Drew Houston on Dropbox: Origin, Survival, and Reinvention
+
+Added source page for The Social Radars episode with Drew Houston on Dropbox's origin, YC entry, Arash Ferdowsi, sync reliability, viral and bottom-up distribution, Sequoia funding, Apple/Google/Microsoft incumbent pressure, Carousel and Mailbox, productivity focus, founder psychology, dual-class public-company control, and Dropbox Dash. Created pages for Drew Houston, Dropbox, Arash Ferdowsi, Dropbox Dash, Pejman Nozad, Mike Moritz, Carousel, Mailbox, Sync Reliability As UX, Incumbent Platform Pressure, Bottom-Up Enterprise Distribution, Strategic Focus Under Incumbent Pressure, Knowledge Work Fragmentation, and Founder Psychology Operational Risk; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Trevor Blackwell, Sequoia Capital, Apple, Steve Jobs, Google, Google Photos, Microsoft, Enterprise File Sync, Trust-Heavy Infrastructure Sales, Founder Product Fit, Founder Control, Founder Motivation Evolution, Founder Resilience, Startup Community Infrastructure, Platform Dependency Risk, and Product Vision Drift. No direct contradiction found; the source qualifies the AeroFS file-sync branch by showing Dropbox as the simple, reliable, user-trusted reference product that later had to survive platform-backed competition and strategic narrowing.
+
 ## [2026-07-11] ingest | David Rusenko on Weebly, Capital Efficiency, and Climate Tech
 
 Added source page for The Social Radars episode with David Rusenko on Weebly's Penn State class-project origin, YC Winter 2007, slow product-market fit, capital-efficient survival through the 2008 funding crisis, Square acquisition, founder delegation, and Leap Forward's climate-tech investing thesis. Created pages for David Rusenko, Weebly, Square, Square Online, Leap Forward, Jessica Alter, Blue Dot, Electric Air, Capital Efficient Startup Building, Slow Product Market Fit, Founder Delegation Discipline, Economic Climate Tech Adoption, Climate Startup Commercialization Gap, and Founder Friendly Investor Support; updated overview, index, The Social Radars, Y Combinator, Startup Runway Discipline, Product Led Willingness To Pay, and Climate Adaptation. No direct contradiction found; the source reinforces existing runway and willingness-to-pay patterns while showing that slow product improvement, low burn, and small paid-conversion signals can compound into a durable company.
@@ -2146,6 +2150,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Sam Altman on YC, OpenAI, and the Meaning of Formidable
 
 Added source page for The Social Radars episode with Sam Altman on Looped, the first Y Combinator batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis. Created pages for Looped, Greg Brockman, Blake Ross, Helion, Reid Hoffman, Shivon Zilis, Will Hurd, Founder Risk Calibration, OpenAI Board Crisis, Language Model Scaling Bet, and Delegated Web Research; updated overview, index, Sam Altman, OpenAI, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, ChatGPT, Google, Google DeepMind, Ilya Sutskever, Emmett Shear, Adam D'Angelo, Microsoft, David Sacks, Elon Musk, Ron Conway, Steve Jobs, Goldman Sachs, Sequoia Capital, Startup Governance, AI Alignment Governance, Platform Dependency Risk, and Startup Accelerator Batch Selection. No direct contradiction found; the OpenAI crisis material is preserved as Altman's first-person account and should be paired with other perspectives for disputed board intent and safety claims.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

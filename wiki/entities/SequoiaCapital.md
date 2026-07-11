@@ -2,7 +2,7 @@
 title: "Sequoia Capital"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-12
 ---
 
@@ -18,6 +18,8 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Sequoia through [[SamAltman]]'s first-company account. [[JessicaLivingston]] lists raising from Sequoia as one of the concrete examples of Altman's early YC-era business execution around [[Looped]].
 
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Sequoia through [[Dropbox]]'s fast seed-round story. [[PejmanNozad]] introduced [[DrewHouston]] and [[ArashFerdowsi]] to the firm, [[MikeMoritz]] met them in their apartment, and Houston recalls a quick handshake deal for $1 million after Boston investors had mostly emphasized market and incumbent objections.
+
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], and [[StartupAcceleratorBatchSelection]] - accelerator context.
 - [[SamAltman]] - founder/investor-network example named in the source.
@@ -25,3 +27,4 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 - [[RonConway]], [[AltosComputer]], [[DonValentine]], and [[FounderInvestorLearning]] - Altos board, IPO, and operator-to-investor context added by the Conway episode.
 - [[FounderInvestorLearning]] and [[StartupEssayDistribution]] - adjacent YC deal-flow and investor-design concepts.
 - [[Looped]], [[SamAltman]], and [[FounderRiskCalibration]] - first-company fundraising context added by the Sam Altman episode.
+- [[Dropbox]], [[DrewHouston]], [[ArashFerdowsi]], [[PejmanNozad]], and [[MikeMoritz]] - seed-round context added by the Drew Houston episode.

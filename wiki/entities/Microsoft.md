@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
 last_updated: 2026-07-12
 ---
 
@@ -28,6 +28,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds Microsoft through [[EchoLocker]], [[YinWu]]'s lock-screen notification and priority-inbox product. The product was acquired by Microsoft after Yin's team restarted from [[Prim]] and went through [[YCombinator]] again in Summer 2013, making Microsoft part of her pre-[[Pulley]] founder-learning arc.
 
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Microsoft as one of the platform incumbents tightening pressure on [[Dropbox]] through OneDrive and broader productivity-suite distribution. In [[DrewHouston]]'s account, Microsoft is part of the slow competitive squeeze that made Dropbox narrow its strategy around productivity and work use cases.
+
 ## Connections
 - [[Nvidia]] — supplier discussed through GPU and AI infrastructure demand.
 - [[Google]] and [[Amazon]] — peer hyperscaler customers in the episode's capex-risk frame.
@@ -41,3 +43,4 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
 - [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.
 - [[OpenAI]], [[SamAltman]], [[EmmettShear]], and [[OpenAIBoardCrisis]] - crisis fallback context added by The Social Radars.
+- [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[StrategicFocusUnderIncumbentPressure]] - file-sync and productivity-suite pressure added by The Social Radars.

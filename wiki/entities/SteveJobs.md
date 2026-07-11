@@ -2,7 +2,7 @@
 title: "Steve Jobs"
 type: entity
 tags: [person, founder, apple, product]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
 last_updated: 2026-07-12
 ---
 
@@ -14,10 +14,13 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Jobs as part of [[SamAltman]]'s [[Looped]] story. Altman says he rehearsed an App Store-era demo in front of Jobs in a dark theater, froze, and expected to lose the demo slot, but Apple still invited him to final rehearsals.
 
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Jobs as the person who warned [[DrewHouston]] that [[Dropbox]] was a feature rather than a product. In the episode, the warning becomes a concise expression of [[IncumbentPlatformPressure]]: Dropbox had a loved product but did not control the operating-system layer where file sync could be bundled.
+
 ## Source Position
 - Jobs represents the Apple of product myth, founder charisma, and "Think Different" symbolism.
 - The episode uses Jobs mainly to explain why Cook is often judged unfairly by the wrong metric.
 - Cook's contribution is framed as less spectacular but more systematic: values embedded into product, supplier, legal, and policy systems.
+- The Dropbox source uses Jobs as the strategic voice of platform ownership: a great product may still be exposed if the OS owner can absorb the category.
 
 ## Connections
 - [[Apple]] — company shaped first by Jobs's product era and then Cook's institutional era.
@@ -25,3 +28,4 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 - [[IPhone]] and [[SmartphoneOperatingSystemEcosystems]] — Jobs-era product and ecosystem reference.
 - [[ValuesAsOperationalAsset]] — contrast between symbolic values and executable values.
 - [[Looped]], [[SamAltman]], and [[Apple]] - App Store demo context added by The Social Radars.
+- [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[PlatformDependencyRisk]] - file-sync platform warning added by The Social Radars.

@@ -2,8 +2,8 @@
 title: "Trust-Heavy Infrastructure Sales"
 type: concept
 tags: [startups, enterprise-sales, infrastructure, trust]
-sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
-last_updated: 2026-07-11
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
+last_updated: 2026-07-12
 ---
 
 # Trust-Heavy Infrastructure Sales
@@ -18,6 +18,8 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 
 [[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds [[AeroFS]] as a non-financial enterprise-infrastructure version. [[YuriSagalov]] says AeroFS sold six-figure contracts to serious customers, but [[EnterpriseFileSync]] buyers still needed long-running reliability and clear synchronization status. The source shows that trust-heavy sales do not end at contract close: [[PeerToPeerSynchronizationRisk]] can turn initial buyer trust into delivery pressure if the system cannot keep behaving simply.
 
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds [[Dropbox]] as the consumer-to-enterprise version. Before formal enterprise selling, users trusted Dropbox enough to put real files into shared folders and invite colleagues. That bottom-up trust depended on [[SyncReliabilityAsUX]]: if the green check mark, restore behavior, and file availability were wrong, viral adoption would have become a liability rather than distribution.
+
 ## Key Claims
 - Critical-infrastructure customers may validate a problem long before production usage or revenue appears.
 - Bank, security, compliance, and workflow counterparties can all become part of the sales path.
@@ -26,6 +28,7 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 - Payments infrastructure trust includes bank access, fraud loss control, operational reliability, and customer confidence in a vendor's survival.
 - Developer-first infrastructure still needs institution-first trust when the API controls money.
 - Enterprise collaboration infrastructure still needs institution-level trust when the product controls shared company files and sync state.
+- Bottom-up adoption can create infrastructure trust before procurement, but only if the product's reliability signals are accurate enough for real work.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], [[LendingHome]], and [[SiliconValleyBank]] - source case and counterparties.
@@ -35,3 +38,4 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 - [[CustomerPull]], [[PreProductSelling]], and [[FastProductValidation]] - validation concepts qualified by long sales cycles.
 - [[TrustAsBusinessAsset]] - broader trust concept extended by this source.
 - [[AeroFS]], [[YuriSagalov]], [[EnterpriseFileSync]], and [[PeerToPeerSynchronizationRisk]] - enterprise file-sync trust case added by the Sagalov episode.
+- [[Dropbox]], [[DrewHouston]], [[BottomUpEnterpriseDistribution]], and [[SyncReliabilityAsUX]] - consumer-to-workplace trust case added by the Drew Houston episode.
