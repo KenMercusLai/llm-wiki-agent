@@ -2,7 +2,7 @@
 title: "Outlier-Driven Angel Investing"
 type: concept
 tags: [venture-capital, startups, investing]
-sources: [socialradarspod-paulb-final]
+sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,12 +12,15 @@ Outlier-driven angel investing is the startup-investing pattern where a small nu
 
 PB's version of the idea is founder-centered. He says the biggest factor is always the founders, and his recurring mistake is wanting an idea to work even when the founder signal is not strong enough. That ties investment judgment to [[FounderProductFit]], [[CustomerPull]], and [[PreProductSelling]] rather than only to market excitement.
 
+[[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds [[YuriSagalov]]'s angel-investing path. Sagalov says he learned that angel investing did not require special permission, started with small checks into founders he met through [[YCombinator]] office hours, and eventually made about 50 investments before building [[WayfinderVentures]]. His disclosed hit-rate framing reinforces the outlier logic while adding [[FounderLedSales]] as a concrete help pattern for B2B founders.
+
 ## Key Claims
 - Angel portfolios are not judged by the median company; rare breakout outcomes can dominate results.
 - Founder quality can matter more than the investor's desire for a specific idea to exist.
 - Personal desire for a product can help an investor notice a market, as PB did with suburban food delivery, but it still needs user behavior and founder execution.
 - LOIs, payment, or other customer sacrifices are better demand evidence than polite interest.
 - The pattern complements [[FounderInvestorLearning]] because experienced builders can advise founders while still respecting that the founders own the final decision.
+- Angel investing can begin as founder-help inside a trusted network before becoming a formal fund.
 
 ## Connections
 - [[PaulBuchheit]] - source investor.
@@ -25,3 +28,4 @@ PB's version of the idea is founder-centered. He says the biggest factor is alwa
 - [[DoorDash]] - source's strongest disclosed financial angel outcome.
 - [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] - demand-evidence concepts.
 - [[FounderProductFit]] and [[FounderInvestorLearning]] - adjacent founder-judgment concepts.
+- [[YuriSagalov]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Sagalov episode branch where angel investing becomes a focused B2B fund.

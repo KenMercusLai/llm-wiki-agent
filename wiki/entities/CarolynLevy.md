@@ -2,7 +2,7 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -24,6 +24,8 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[tsr-s2-wrapup-v1]] adds Levy as co-host of the Season 2 wrap-up. She and [[JessicaLivingston]] use the short episode to thank listeners, identify [[EmmettShear]], [[ParkerConrad]], and [[BrianChesky]] interview moments that stayed with them, confirm Season 3 is planned, and preview more [[YouTube]] video clips.
 
+[[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds Levy as co-interviewer for [[YuriSagalov]] on [[AeroFS]], [[YCombinator]], angel investing, and [[WayfinderVentures]]. Her role in the episode helps turn the AeroFS story into a broader discussion of [[EnterpriseFileSync]], [[PeerToPeerSynchronizationRisk]], [[FounderLedSales]], and founder-investor judgment.
+
 ## Connections
 - [[JessicaLivingston]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], and [[AcceleratedBankRuns]] - Dadiomov episode context.
@@ -31,6 +33,7 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 - [[AdoraCheung]], [[Homejoy]], [[Instalab]], [[ScalingBrokenProduct]], [[FullFunnelCivicTechnology]], and [[AtHomePreventiveHealth]] - Adora Cheung episode context.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - Collison episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], and [[MissionFocusedCompany]] - Armstrong episode context.
-- [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], and [[PaulBuchheit]] - interview subjects.
+- [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], and [[YuriSagalov]] - interview subjects.
+- [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Viaweb]], [[Anybots]], [[PlanGrid]], [[TigerEye]], [[DoorDash]], [[Gmail]], and [[FriendFeed]] - main episode subjects.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[RealWorldConnectionProducts]], [[FounderIdeaPivot]], [[PlatformCommunityGovernance]], [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], [[StartupCommunityInfrastructure]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[LargeCompanyRiskIncentives]], [[StartupInfrastructureImprovisation]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring themes in the stories she helps draw out.

@@ -2,7 +2,7 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final]
+sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,6 +14,8 @@ Startup community infrastructure is the set of software, rituals, lists, events,
 
 [[socialradarspod-emmettshear-v2]] adds the first-batch lived version through [[EmmettShear]] and [[Kiko]]. Emmett says Tuesday dinners were the founders' main social connection during a lonely, hot, isolated summer, and that later friendships with founders such as [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] made the batch more valuable than the small amount of money. This shows startup community infrastructure before it became software: dinners, shared office proximity, peer momentum, and knowing other people were also choosing startups over conventional jobs.
 
+[[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds the Summer 2010 version through [[YuriSagalov]] and [[AeroFS]]. Sagalov remembers a small batch, close dinners, Mountain View apartment improvisation, and long-lived Bay Area friendships from the YC period. The episode extends the concept by showing how batch community later becomes deal flow, references, angel investing, and [[WayfinderVentures]] network formation.
+
 The source's clearest case is Bookface. [[GarryTan]] says YC needed it because larger batches meant founders no longer knew everyone and because outsiders sometimes represented themselves as YC companies. A community tool became infrastructure when it preserved identity, access, memory, and founder-to-founder help at a scale where informal recognition no longer worked.
 
 ## Key Claims
@@ -23,10 +25,12 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - Open forums can create attention and shared culture, but their governance burden must be counted as part of the infrastructure.
 - Community infrastructure supports [[BuilderCenteredInstitutions]] by making peer help repeatable rather than accidental.
 - In early batches, community infrastructure can be as simple as recurring dinners and proximity, if those rituals reduce isolation and normalize startup commitment.
+- Batch community can later become investor trust, deal flow, and long-term professional support, not only friendship during the program.
 
 ## Connections
 - [[HackerNews]], [[Bookface]], [[StartupSchool]], [[YCombinator]], and [[GarryTan]] - source cases.
 - [[EmmettShear]], [[Kiko]], [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] - first-batch peer-support case added by the Shear episode.
+- [[YuriSagalov]], [[AeroFS]], [[WayfinderVentures]], and [[YCombinator]] - Summer 2010 batch and later investor-network case.
 - [[BuilderCenteredInstitutions]] and [[FounderInvestorLearning]] - institutional concepts connected to community design.
 - [[StartupAcceleratorBatchSelection]] - batch structure that creates the scaling problem.
 - [[StartupCommunityForumBurden]] and [[StartupEssayDistribution]] - open community cost and lower-governance distribution layer.

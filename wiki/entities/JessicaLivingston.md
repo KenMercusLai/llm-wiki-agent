@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -24,6 +24,8 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[tsr-s2-wrapup-v1]] adds Livingston as co-host of the Season 2 wrap-up. She and [[CarolynLevy]] frame the season around three remembered moments: the timing of [[EmmettShear]]'s interview before his brief [[OpenAI]] spotlight, [[ParkerConrad]]'s opportunity to tell his side of the [[Zenefits]] story, and [[BrianChesky]]'s account of [[Airbnb]] during COVID. The source also records her show-production role in thanking listeners, confirming Season 3, and planning more [[YouTube]] clips.
 
+[[tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final]] adds Livingston as co-interviewer for [[YuriSagalov]] on [[AeroFS]], [[YCombinator]], angel investing, and [[WayfinderVentures]]. Her questions help frame AeroFS as both a YC-era community story and a founder postmortem about [[TechnicalAmbitionCustomerMismatch]], [[PeerToPeerSynchronizationRisk]], and responsibility during the [[Redbooth]] merger.
+
 ## Connections
 - [[CarolynLevy]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
@@ -31,6 +33,7 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 - [[AdoraCheung]], [[Homejoy]], [[Instalab]], [[ScalingBrokenProduct]], [[FullFunnelCivicTechnology]], and [[FounderHealthDebt]] - Adora Cheung episode context.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[RelentlesslyResourcefulFounder]] - Collison episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[StartupHighBetaBet]], and [[RegulatedCryptoTrustStrategy]] - Armstrong episode context.
-- [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], and [[RobertMorris]] - interview subjects and YC collaborators.
+- [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], [[RobertMorris]], and [[YuriSagalov]] - interview subjects and YC collaborators.
+- [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[Airbnb]], [[Reddit]], [[StartupSchool]], [[Bookface]], [[Posterous]], [[InitializedCapital]], [[Anybots]], [[PlanGrid]], [[DoorDash]], [[Bump]], [[GooglePhotos]], [[Gmail]], [[FriendFeed]], and [[StartupAcceleratorBatchSelection]] - main institutional context.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderIdeaPivot]], [[LongLivedStartupDecisions]], [[FounderHonesty]], [[BuilderCenteredInstitutions]], [[StartupCommunityInfrastructure]], [[StartupInfrastructureImprovisation]], [[ConstructionBlueprintVersionControl]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring operating themes.

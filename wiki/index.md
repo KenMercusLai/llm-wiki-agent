@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures](sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final.md) — The Social Radars episode with Yuri Sagalov on AeroFS's enterprise file-sync opportunity, peer-to-peer synchronization risk, the Redbooth merger, YC, angel investing, founder-led sales, investor reference checking, and Wayfinder Ventures.
 - [The Social Radars Season 2 Wrap-Up and Season 3 Announcement](sources/tsr-s2-wrapup-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 2, highlight Emmett Shear, Parker Conrad, and Brian Chesky moments, thank a large listener audience, preview Season 3, and plan more YouTube clips.
 - [Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab](sources/tsr-s2-adoracheung-v5.md) — The Social Radars episode with Adora Cheung on PathJoy, Homejoy's over-scaling and price-war failure, YC partner lessons, Startup School's open-access turn, vote-by-mail funnel work, and Instalab's founder-health and at-home testing thesis.
 - [Parker Conrad on Zenefits, Rippling, and Building Through Crisis](sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8.md) — The Social Radars episode with Parker Conrad on Zenefits' public collapse, regulatory and media disputes, manual operations debt, Rippling's employee graph, compound startup strategy, founder dogfooding, and B2B AI context.
@@ -267,6 +268,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yuri Sagalov](entities/YuriSagalov.md) — AeroFS co-founder, YC visiting-partner alumnus, angel investor, and Wayfinder Ventures founder whose episode links technical-founder postmortem, founder-led sales, and investor judgment.
+- [AeroFS](entities/AeroFS.md) — YC Summer 2010 enterprise file-sync startup used as a case in technical ambition, peer-to-peer synchronization risk, enterprise demand, and market-timing pressure.
+- [Wayfinder Ventures](entities/WayfinderVentures.md) — Yuri Sagalov's B2B-focused investment firm, connected to founder-led sales, investor reference checking, and founder-investor learning.
+- [Redbooth](entities/Redbooth.md) — Project-management company that merged with AeroFS, used in the Yuri Sagalov episode as a founder-responsibility and wind-down context.
 - [Adora Cheung](entities/AdoraCheung.md) — Homejoy founder, former YC partner, vote-by-mail project operator, and Instalab founder.
 - [Homejoy](entities/Homejoy.md) — Home-services marketplace used as a cautionary case in scaling before retention and service quality held.
 - [PathJoy](entities/PathJoy.md) — Adora and Aaron Cheung's early services-marketplace company before the Homejoy pivot.
@@ -1637,6 +1642,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Enterprise File Sync](concepts/EnterpriseFileSync.md) — Enterprise collaboration and file-sharing category where customers want consumer-grade usability plus security, data control, and reliability.
+- [Peer-to-Peer Synchronization Risk](concepts/PeerToPeerSynchronizationRisk.md) — Product and reliability risk created when decentralized synchronization must behave like a simple centralized cloud service.
+- [Technical Ambition Customer Mismatch](concepts/TechnicalAmbitionCustomerMismatch.md) — Startup failure mode where founders pursue a hard technical problem that differs from the customer's urgent job.
+- [Founder-Led Sales](concepts/FounderLedSales.md) — Early B2B pattern where founders personally sell, learn, and convert customer conversations into product and company direction.
+- [Investor Reference Checking](concepts/InvestorReferenceChecking.md) — Founder practice of evaluating investors through references, including difficult portfolio outcomes, before accepting a long-term partner.
 - [Scaling Broken Product](concepts/ScalingBrokenProduct.md) — Failure pattern where a startup keeps expanding before retention, product quality, and operations are strong enough.
 - [Price War Growth](concepts/PriceWarGrowth.md) — Discount-driven acquisition before repeat behavior and unit economics can support the subsidy.
 - [Full-Funnel Civic Technology](concepts/FullFunnelCivicTechnology.md) — Civic-tech measurement that follows users through to completed participation, not only clicks or signups.

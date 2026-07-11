@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-11] ingest | Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures
+
+Added source page for The Social Radars episode with Yuri Sagalov on AeroFS, YC, angel investing, and Wayfinder Ventures. Created pages for Yuri Sagalov, AeroFS, Wayfinder Ventures, Redbooth, Enterprise File Sync, Peer-to-Peer Synchronization Risk, Technical Ambition Customer Mismatch, Founder-Led Sales, and Investor Reference Checking; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Customer Pull, Founder Product Fit, Second-Time Founder Operating Judgment, Trust-Heavy Infrastructure Sales, Outlier-Driven Angel Investing, and Startup Community Infrastructure. No direct contradiction found; the source qualifies customer-pull and founder-product-fit pages by showing that real enterprise demand and strong engineering can still fail when the team chooses a technically elegant architecture that does not match the customer's practical job.
+
 ## [2026-07-11] ingest | Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab
 
 Added source page for The Social Radars episode with Adora Cheung on PathJoy, Homejoy, YC partner lessons, Startup School's open-access turn, 2020 vote-by-mail funnel work, and Instalab. Created pages for Adora Cheung, Homejoy, PathJoy, Instalab, Aaron Cheung, Alex Cheung, Tech for Campaigns, Mark Lindsay, Scaling Broken Product, Price War Growth, Full-Funnel Civic Technology, Founder Health Debt, At-Home Preventive Health, Service Marketplace Quality Control, and Behavior Change Baby Steps; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Startup School, Customer Discovery By Doing Work, Unscalable Founder Work, Manual Operations Debt, Operational Pain Founder Insight, Customer Pull, Founder Product Fit, Fast Feedback Loops, Personal Health Data, and AI Health Management. No direct contradiction found; the source reinforces the wiki's existing warning that early customer pull and founder fieldwork must be converted into retention, quality control, and durable operating systems before growth.
@@ -2062,6 +2066,10 @@ Ran health and lint checks. Health passed with no empty/stub files, index drift,
 ## [2026-07-11] ingest | The Social Radars Season 2 Wrap-Up and Season 3 Announcement
 
 Added source page for the short The Social Radars Season 2 wrap-up where Jessica Livingston and Carolyn Levy thank listeners, highlight the Emmett Shear, Parker Conrad, and Brian Chesky interviews, confirm Season 3 is planned, and preview more YouTube clips. Updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Emmett Shear, Parker Conrad, Brian Chesky, Airbnb, YouTube, Podcast As Asynchronous Media, Founder Reputation Recovery, and Crisis Stakeholder Leadership. No direct contradiction found; the source contextualizes already ingested Season 2 interviews rather than replacing their first-person accounts.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 
