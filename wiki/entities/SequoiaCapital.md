@@ -2,7 +2,7 @@
 title: "Sequoia Capital"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
+sources: [tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,8 +14,11 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 
 [[socialradarspod-brianchesky2-final]] adds Sequoia as part of [[Airbnb]]'s market-framing shift after [[YCombinator]]. [[BrianChesky]] says [[GregMcAdoo]] identified vacation rentals as a large existing industry, which helped the founders and investors see that Airbnb was not limited to air beds or conference overflow.
 
+[[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds Sequoia through [[AltosComputer]] and [[DonValentine]]. [[RonConway]] says Altos was venture-backed by Sequoia despite being profitable enough not to spend the money, Valentine joined the board and roadshow, and the relationship later helped Conway discover investing as a way to advise founders.
+
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], and [[StartupAcceleratorBatchSelection]] - accelerator context.
 - [[SamAltman]] - founder/investor-network example named in the source.
 - [[BrianChesky]], [[Airbnb]], and [[GregMcAdoo]] - market-reframing case added by the second Chesky episode.
+- [[RonConway]], [[AltosComputer]], [[DonValentine]], and [[FounderInvestorLearning]] - Altos board, IPO, and operator-to-investor context added by the Conway episode.
 - [[FounderInvestorLearning]] and [[StartupEssayDistribution]] - adjacent YC deal-flow and investor-design concepts.

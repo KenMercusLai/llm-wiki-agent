@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
 - [Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems](sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final.md) — The Social Radars episode with Kyle Vogt on Justin.tv's live-streaming backpack, Twitch's gaming pivot, Cruise's self-driving MVP, hard-tech fundraising, robotaxi economics, safety benchmarking, and the General Motors acquisition.
 - [Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures](sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final.md) — The Social Radars episode with Yuri Sagalov on AeroFS's enterprise file-sync opportunity, peer-to-peer synchronization risk, the Redbooth merger, YC, angel investing, founder-led sales, investor reference checking, and Wayfinder Ventures.
 - [The Social Radars Season 2 Wrap-Up and Season 3 Announcement](sources/tsr-s2-wrapup-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 2, highlight Emmett Shear, Parker Conrad, and Brian Chesky moments, thank a large listener audience, preview Season 3, and plan more YouTube clips.
@@ -269,6 +270,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episode traces National Semiconductor, Altos, Band of Angels, and the pre-SV Angel apprenticeship behind his founder-helper investing style.
+- [SV Angel](entities/SVAngel.md) — Ron Conway's later institutional context named in the source metadata; current page is intentionally narrow until later Conway episodes cover the SV Angel era directly.
+- [National Semiconductor](entities/NationalSemiconductor.md) — Conway's first Silicon Valley employer and a source case for semiconductor sales culture, equity compensation, customer relationships, and talent genealogy.
+- [Charlie Sporck](entities/CharlieSporck.md) — National Semiconductor CEO in Conway's account, representing the intense semiconductor operating culture that shaped early Silicon Valley talent.
+- [Altos Computer](entities/AltosComputer.md) — Early microcomputer company where Conway led sales and marketing, built distribution, reached an IPO, and later learned the cost of missing the PC wave.
+- [Dave Jackson](entities/DaveJackson.md) — Altos Computer founder who recruited Conway through National Semiconductor colleagues and built the company through the microcomputer timing window.
+- [Band of Angels](entities/BandOfAngels.md) — Early Bay Area angel-investor group of retired semiconductor executives that Conway says organized founder pitches and individual checks.
+- [Don Valentine](entities/DonValentine.md) — Sequoia Capital investor tied to Altos's board and IPO, later encouraging Conway to observe boards and try investing.
 - [Daniel Kan](entities/DanielKan.md) — Cruise co-founder added by Kyle Vogt after the company began as a solo-founded self-driving startup.
 - [General Motors](entities/GeneralMotors.md) — Automaker that acquired Cruise to pair startup autonomy work with capital, manufacturing, and vehicle-scaling capacity.
 - [Yuri Sagalov](entities/YuriSagalov.md) — AeroFS co-founder, YC visiting-partner alumnus, angel investor, and Wayfinder Ventures founder whose episode links technical-founder postmortem, founder-led sales, and investor judgment.
@@ -1645,6 +1654,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
+- [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
+- [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.
+- [Organized Angel Investor Networks](concepts/OrganizedAngelInvestorNetworks.md) — Early-stage investing structure where recurring meetings, trusted operators, founder pitches, and individual checks make angel investing repeatable.
+- [Equity Compensation Upside](concepts/EquityCompensationUpside.md) — Startup and technology-company compensation pattern where employee ownership can create major upside when timing and company trajectory align.
 - [Hard Problem MVP Scoping](concepts/HardProblemMVPScoping.md) — Startup pattern of reducing an enormous technical problem into a narrow first wedge that creates learning, credibility, and de-risking.
 - [Hard Tech Fundraising](concepts/HardTechFundraising.md) — Fundraising pattern for capital-intensive, technically difficult startups that need a credible de-risking path before software-style traction exists.
 - [Robotaxi Economics](concepts/RobotaxiEconomics.md) — Autonomous-mobility business logic where removing the driver changes ride-hailing economics but requires density, operations, safety, capital, and public trust.
