@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What do Girl Scouts get out of selling cookies online?](sources/tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Wendy Liu on Girl Scout cookie sales moving online through sites, QR codes, email, social sharing, digital checkout, youth entrepreneurship, digital commerce literacy, and child online commerce safety.
 - [California's one-stop shop for data brokers to delete consumers' data](sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, and why state privacy tools remain incomplete without broader privacy rules.
 - [Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp](sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave on Kalshi and Polymarket prediction-market ethics, Anthropic as a defense AI supply-chain risk, and Meta's News Corp licensing deal.
 - [Iran's cyberwar on American banks](sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks on U.S. banks, newer data theft and leak operations, industrial-control attacks, and why health care and sensitive-data holders may be more exposed than banks.
@@ -308,6 +309,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Girl Scouts of the USA](entities/GirlScoutsOfTheUSA.md) — Youth nonprofit using cookie sales as a supervised entrepreneurship and digital commerce literacy program.
+- [Wendy Liu](entities/WendyLiu.md) — Girl Scouts of the USA chief revenue officer explaining digital cookie sales, girl-led learning, platform feedback, and online safety.
 - [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
 - [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
 - [California](entities/California.md) — State privacy-law case launching DROP under the California Delete Act as a consumer-side complement to warrant-focused data-broker reforms.
@@ -1912,6 +1915,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Youth Entrepreneurship](concepts/YouthEntrepreneurship.md) — Supervised youth commercial activity used to teach goals, communication, customer follow-up, money purpose, and responsibility.
+- [Digital Commerce Literacy](concepts/DigitalCommerceLiteracy.md) — Practical skill of using online sales tools while understanding message, channel, follow-up, checkout, safety, and trust.
+- [Child Online Commerce Safety](concepts/ChildOnlineCommerceSafety.md) — Safety boundary for minors using digital tools to sell, fundraise, contact customers, or bridge online ordering into offline delivery.
 - [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Consumer privacy mechanism for requesting removal of broker-held personal information, framed as harm reduction rather than total erasure.
 - [California Delete Act](concepts/CaliforniaDeleteAct.md) — 2023 California law mandating DROP and turning data-broker deletion rights into a centralized state workflow.
 - [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.

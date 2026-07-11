@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | What do Girl Scouts get out of selling cookies online?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Wendy Liu of Girl Scouts of the USA on digital cookie sales, online storefronts, QR codes, email outreach, social sharing, customer follow-up, faster checkout, caregiver supervision, local delivery approval, and seasonal scarcity. Created pages for Girl Scouts of the USA, Wendy Liu, Youth Entrepreneurship, Digital Commerce Literacy, and Child Online Commerce Safety; updated overview, index, Marketplace Tech, and Stephanie Hughes. No direct contradiction found; the source qualifies direct-to-consumer sales by showing a nonprofit youth program where digital commerce is treated as supervised learning rather than only conversion or margin capture.
+
 ## [2026-07-12] ingest | California's one-stop shop for data brokers to delete consumers' data
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee of the Brookings Institution on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, identity-theft risk, and the gap left by the absence of a national privacy standard. Created pages for Nicole Turner-Lee, Brookings Institution, California, Delete Request and Opt Out Platform, Consumer Data Deletion, California Delete Act, and AI-Enabled Spam; updated overview, index, Marketplace Tech, Stephanie Hughes, Data Broker Loophole, and Platform Data Regulation. No direct contradiction found; the source complements the March 2 government-data-access episode by shifting from warrant requirements and the data broker loophole to consumer-side deletion and state implementation limits.
@@ -2410,3 +2414,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,011 nodes and 30,453 edges; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session semantic review of the script sample, orphan pages, and fragile-bridge endpoints found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
