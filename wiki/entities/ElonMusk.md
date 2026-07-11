@@ -2,7 +2,7 @@
 title: "Elon Musk"
 type: entity
 tags: [person, founder, spacex, tesla]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+sources: [tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s view of Musk as an early [[OpenAI]] participant and later Twitter/X owner. Altman calls Musk a genius engineer and also unusually strong at moving fast, motivating people, and getting things done beyond engineering. Asked whether Musk bought Twitter to end "wokeness," Altman says he is sure that was part of the motivation, but also says Musk loved Twitter as a product and likely had multiple motivations.
 
+[[tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]] adds [[ChrisBest]]'s account of Musk during the [[Substack]] and [[Twitter]] conflict. Best says Musk asked to meet after buying Twitter, raised the possibility of joining forces or buying Substack, then objected when Best said Substack was about to launch [[SubstackNotes]]. Best says Substack launched anyway and Twitter then restricted Substack references, search, and links for a period; this is preserved as Best's account rather than a complete platform-side history.
+
 ## Connections
 - [[SpaceX]], [[Falcon9]], [[Starship]], and [[Starlink]] — primary company and platform context in this source.
 - [[FirstPrinciplesManufacturing]] and [[HighResponsibilityDensity]] — management and engineering style associated with the source's Musk stories.
@@ -23,3 +25,4 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 - [[SpaceBasedAIInfrastructure]] — possible long-run integration point between space infrastructure and AI compute.
 - [[AIIPOValuation]] and [[IndexFundAutomaticExposure]] — valuation and ordinary-saver exposure added by the SpaceX IPO segment.
 - [[OpenAI]], [[SamAltman]], and [[FounderRiskCalibration]] - OpenAI/Twitter discussion context added by The Social Radars.
+- [[Substack]], [[ChrisBest]], [[Twitter]], and [[SubstackNotes]] - creator-platform conflict account added by the Chris Best YC offsite episode.

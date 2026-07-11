@@ -2,7 +2,7 @@
 title: "Founder Mode"
 type: concept
 tags: [startups, leadership, organization-design, ai]
-sources: [tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources: [tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -20,6 +20,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 
 [[tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final]] adds [[JakeHeller]]'s legal-AI version through [[Casetext]]. Heller's founder mode is less about scaled design review and more about a technical inflection: after early access to an unreleased [[GPT4|GPT-4]] model, he and a co-founder tested legal workflows directly, built demos, redirected an executive offsite, aligned a skeptical company, and convinced investors that [[CoCounsel|Co-Counsel]] was more important than the old path. The case makes founder mode a [[FrontierModelInflectionPivot]] pattern where closeness to product, customers, and model behavior lets a founder act before ordinary consensus forms.
 
+[[tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]] adds [[ChrisBest]]'s media-network version through [[Substack]]. Best's founder mode is the ability to hold a principled long-term thesis about a new economic engine for culture while making concrete product decisions that look questionable in the short term. [[SubstackNotes]] is the main case: Best says the feed looked weak for roughly two years, but Substack kept working because owned discovery was essential to the larger [[CreatorOwnedAudience]] and [[PlatformDependencyRisk]] problem.
+
 ## Key Claims
 - Founder mode treats leadership as presence, not absence.
 - Trusting executives does not mean giving up audit, product judgment, skip-level relationships, or direction.
@@ -31,6 +33,7 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - In Graham's version, founder mode is an active research problem for founders, not a finished doctrine.
 - The boundary between founder involvement and micromanagement depends on whether the involvement improves the work and preserves collaboration with the person doing it.
 - In Heller's version, founder mode can be necessary when a model capability jump forces a company to abandon reasonable existing work for a larger but still uncertain product direction.
+- In Best's version, founder mode can protect a [[StrategicMustWorkProductBet]] when short-term metrics are weak but the product is necessary to the company's core strategy.
 
 ## Connections
 - [[BrianChesky]] and [[Airbnb]] - primary source case.
@@ -41,3 +44,4 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - [[SteveJobs]], [[Apple]], [[JensenHuang]], and [[Nvidia]] - examples used in the source to discuss founder-led operating patterns.
 - [[JonyIve]] - collaboration example used by Graham to distinguish intense founder involvement from simple interference.
 - [[JakeHeller]], [[Casetext]], [[CoCounsel|Co-Counsel]], and [[FrontierModelInflectionPivot]] - legal-AI pivot case added by the Jake Heller episode.
+- [[ChrisBest]], [[Substack]], [[SubstackNotes]], [[StrategicMustWorkProductBet]], and [[CreatorOwnedAudience]] - media-network and discovery case added by the Chris Best episode.

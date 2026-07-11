@@ -2151,6 +2151,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Founder Mode: Chris Best, Founder & CEO, Substack
+
+Added source page for The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, the app and Substack Notes as owned-discovery bets, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction. Created pages for Chris Best, Substack, Hamish McKenzie, Bill Bishop, Sinocism, Twitter / X, Substack Notes, Creator-Owned Audience, and Strategic Must-Work Product Bet; updated overview, index, Founder Mode, Platform Dependency Risk, Y Combinator, The Social Radars, and Elon Musk. No direct contradiction found; the Musk/Twitter incident is preserved as Best's account rather than a complete platform-side history.
+
 ## [2026-07-12] ingest | Founder Mode: Jake Heller, Founder & CEO, Casetext
 
 Added source page for The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, the companywide move into Co-Counsel, board and employee persuasion, the Thomson Reuters acquisition, and founder mode under a model inflection. Created pages for Jake Heller, Casetext, Co-Counsel, Thomson Reuters, GPT-4, and Frontier Model Inflection Pivot; updated overview, index, OpenAI, Y Combinator, The Social Radars, Founder Mode, Vertical Workflow AI, AI Workflow Triage, and Legal AI Hallucination. No direct contradiction found; the source is preserved as Heller's founder account rather than an independent customer, employee, investor, or acquirer postmortem.
@@ -2198,6 +2202,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Founder Mode: Paul Graham, Founder, Y Combinator
 
 Added source page for The Social Radars YC offsite episode with Paul Graham on founder mode as a real but still unmapped founder-operating phenomenon, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, Paul Gross, and young-founder credibility. Created pages for Replit, Amjad Masad, Stoke, and Paul Gross; updated overview, index, Founder Mode, Vibe Coding, Founder Proximity, Paul Graham, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Brian Chesky, Ron Conway, Steve Jobs, and Jony Ive. No direct contradiction found; the source reinforces the Brian Chesky and Garry Tan founder-mode offsite pages while making the concept explicitly exploratory rather than a finished doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

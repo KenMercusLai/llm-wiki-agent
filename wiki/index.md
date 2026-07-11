@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Chris Best, Founder & CEO, Substack](sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov.md) — The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, Substack Notes, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction.
 - [Founder Mode: Jake Heller, Founder & CEO, Casetext](sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final.md) — The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, a full-company pivot into Co-Counsel, board and employee persuasion, Thomson Reuters acquisition, and founder mode under a model inflection.
 - [Founder Mode: Paul Graham, Founder, Y Combinator](sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final.md) — The Social Radars YC offsite episode with Paul Graham on founder mode as an unfinished map, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, and young-founder credibility.
 - [Founder Mode: Garry Tan, President & CEO, Y Combinator](sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final.md) — The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy.
@@ -284,6 +285,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chris Best](entities/ChrisBest.md) — Substack founder and CEO whose YC offsite episode links broken media incentives, paid newsletters, owned discovery, Substack Notes, and founder-mode persistence.
+- [Substack](entities/Substack.md) — Creator-media platform that began with paid newsletter infrastructure and later pushed toward owned discovery through the app and Substack Notes.
+- [Hamish McKenzie](entities/HamishMcKenzie.md) — Substack co-founder who pushed Chris Best from internet-media critique toward the practical question of what should be built.
+- [Bill Bishop](entities/BillBishop.md) — Sinocism writer and Substack's first real user case, whose paid newsletter launch created the early YC proof point in Best's account.
+- [Sinocism](entities/Sinocism.md) — China-focused newsletter by Bill Bishop that became Substack's first real paid-newsletter customer case.
+- [Twitter / X](entities/Twitter.md) — Social platform and distribution gatekeeper tied to Substack's discovery dependence, FriendFeed's social-web context, and Best's account of the Musk-era Substack conflict.
+- [Substack Notes](entities/SubstackNotes.md) — Substack short-form feed and discovery product that Best frames as a strategically necessary product despite weak early traction.
 - [Jake Heller](entities/JakeHeller.md) — Casetext founder and CEO whose YC offsite episode links legal-tech frustration, early GPT-4 access, founder-mode persuasion, Co-Counsel, and the Thomson Reuters acquisition.
 - [Casetext](entities/Casetext.md) — Legal-tech company that used early GPT-4 access to pivot from a long legal-search and workflow grind into Co-Counsel and a Thomson Reuters acquisition.
 - [Co-Counsel](entities/CoCounsel.md) — Casetext legal AI product built after early GPT-4 workflow testing and later distributed through Thomson Reuters.
@@ -1771,6 +1779,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creator-Owned Audience](concepts/CreatorOwnedAudience.md) — Media pattern where creators build direct reader or listener relationships through email, subscriptions, and payment while still needing discovery.
+- [Strategic Must-Work Product Bet](concepts/StrategicMustWorkProductBet.md) — Product strategy distinction for features a company decides must work because the core thesis depends on them, illustrated by Substack Notes.
 - [Frontier Model Inflection Pivot](concepts/FrontierModelInflectionPivot.md) — Company-level strategic reset triggered when a frontier model capability jump makes previously impractical workflows suddenly plausible.
 - [Sync Reliability As UX](concepts/SyncReliabilityAsUX.md) — Product principle where hard sync, backup, recovery, and status behavior become valuable only when users can trust them without understanding the machinery.
 - [Incumbent Platform Pressure](concepts/IncumbentPlatformPressure.md) — Competitive squeeze created when platform companies can copy, bundle, subsidize, or preinstall a startup's product category.
