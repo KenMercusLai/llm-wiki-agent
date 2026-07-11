@@ -2,8 +2,8 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-07-10
+sources: [socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
+last_updated: 2026-07-11
 ---
 
 # Startup Accelerator Batch Selection
@@ -16,6 +16,8 @@ The source's main lesson is that batch selection mixes process design with judgm
 
 [[socialradarspod-stevehuffman-final]] adds the founder-versus-idea lesson through [[SteveHuffman]], [[AlexisOhanian]], and [[Reddit]]. [[YCombinator]] initially rejected their mobile food-ordering idea, then [[PaulGraham]] called them back because the founders seemed worth funding if they worked on something else. This turns selection into [[FounderIdeaPivot]]: the system has to distinguish a bad initial plan from a promising team.
 
+[[socialradarspod-brianchesky-final]] adds the survival-under-stress version through [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], and [[Airbnb]]. YC did not initially like the stranger-lodging idea, but the team's cereal boxes, debt, and continued attempts during the 2008 financial crisis showed persistence. This makes batch selection partly a test of whether founders can keep learning and selling before the idea is conventionally credible.
+
 ## Key Claims
 - Application formatting is part of selection because messy submissions are hard to compare fairly.
 - Technical review matters when applicants propose products whose feasibility is uncertain.
@@ -23,6 +25,7 @@ The source's main lesson is that batch selection mixes process design with judgm
 - Selection design is downstream of [[FounderInvestorLearning]]: YC was trying to become the investor its founders wished had existed during [[Viaweb]].
 - Batch selection must be paired with community infrastructure once the batch becomes too large for informal recognition.
 - A selection process can be right about an idea being weak and still need to revise its decision when the founding team signal is strong.
+- Founder survival behavior can be selection evidence when market proof is thin but the team keeps finding scrappy ways to stay alive and learn.
 
 ## Connections
 - [[YCombinator]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people and institution from the source.
@@ -31,3 +34,4 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[StartupInfrastructureImprovisation]] - manual PDFs, printing, scoring, and office logistics.
 - [[GarryTan]], [[Bookface]], and [[StartupCommunityInfrastructure]] - scaling layer added by the Tan episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], and [[FounderIdeaPivot]] - founder-over-idea lesson added by the Huffman episode.
+- [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], and [[FounderCashFlowConstraint]] - survival-under-stress lesson added by the Chesky episode.

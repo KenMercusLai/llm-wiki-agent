@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -24,6 +24,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarspod-stevehuffman-final]] adds [[Reddit]] as an origin case for YC's earliest founder-versus-idea learning. YC initially rejected [[SteveHuffman]] and [[AlexisOhanian]]'s mobile food-ordering idea, then [[PaulGraham]] called them back because the founders seemed strong and pointed them toward what became Reddit. The source extends YC into [[FounderIdeaPivot]], [[UserPoweredContentPlatform]], and [[LongLivedStartupDecisions]]: choosing the founders over the first idea created a platform whose early code, ownership, and relationships lasted far beyond the first batch.
 
+[[socialradarspod-brianchesky-final]] adds [[Airbnb]] as a Winter 2009 survival case. [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] applied after repeated investor rejection, credit card debt, weak launches, and the cereal-box fundraising stunt. [[JessicaLivingston]] and Graham saw founders who were tough enough to keep moving during the 2008 financial crisis, extending YC's batch-selection logic into [[FounderCashFlowConstraint]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]].
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[FounderInvestorLearning]] - Viaweb fundraising experience translated into investor design.
@@ -37,3 +39,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[GarryTan]], [[Posterous]], [[StartupSchool]], [[Bookface]], and [[InitializedCapital]] - builder, company, event, community software, and investing branch added by the Tan episode.
 - [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], and [[StartupCommunityInfrastructure]] - institutional and founder-psychology concepts added by the Tan episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - earliest-batch founder pivot added by the Huffman episode.
+- [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - Winter 2009 survival and product-design case added by the Chesky episode.

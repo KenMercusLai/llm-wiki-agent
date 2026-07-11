@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [socialradarspod-tonyxu-final]
+sources: [socialradarspod-brianchesky-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,15 +12,19 @@ Customer discovery by doing work is the pattern where founders learn by helping 
 
 The pattern matters because it exposed a delivery problem that a survey could easily miss. A macaron shop could sell more if it handled delivery, but logistics were outside the merchant's craft and capacity. That insight led from [[StanfordStartupGarage]] into [[PaloAltoDelivery]] and then DoorDash.
 
+[[socialradarspod-brianchesky-final]] adds a host-supply version through [[Airbnb]]. [[BrianChesky]] says he and [[JoeGebbia]] went to New York, visited hosts, noticed that homes were often better than their photos, and helped improve listings through photography. The founders were not only interviewing hosts; they were doing part of the work needed to make the marketplace trustworthy and bookable.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
 - The method is especially useful when the buyer's problem involves physical work, staffing, logistics, or workflow interruptions.
 - Field work should still become a testable product hypothesis; in this source it led to [[JankyMVP]] testing and [[ThreeSidedMarketplaceValidation]].
 - The pattern strengthens [[FounderProductFit]] when founders discover whether they are willing to keep engaging with the unglamorous parts of the market.
+- The same pattern can apply to marketplace supply quality: doing work for suppliers can reveal why demand is blocked even when the underlying offering is good.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
 - [[JankyMVP]] and [[ThreeSidedMarketplaceValidation]] - next validation steps.
 - [[FounderProximity]] - scaled version of staying close to customers, merchants, and dashers.
 - [[CustomerPull]], [[FastProductValidation]], and [[ValidatedLearning]] - adjacent startup-learning concepts.
+- [[BrianChesky]], [[JoeGebbia]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - host-fieldwork case added by the Chesky episode.

@@ -1963,3 +1963,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] graph | Knowledge graph rebuilt
 
 2598 nodes, 25116 edges (25116 extracted, 0 inferred).
+
+## [2026-07-11] ingest | Brian Chesky on Airbnb's Origins, YC, and Reconnecting People
+
+Added source page for The Social Radars episode with Brian Chesky on Airbnb's air-bed origin, hosting as the emotional center, peer-to-peer marketplace trust, Joe Gebbia, Nate Blecharczyk, Michael Seibel, Justin.tv, YC, cereal-box survival, New York host fieldwork, and the mission to reconnect people. Created pages for Brian Chesky, Airbnb, Joe Gebbia, Nate Blecharczyk, Michael Seibel, Justin.tv, Peer-to-Peer Marketplace Trust, Design For One Person, and Real-World Connection Products; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Startup Accelerator Batch Selection, Founder Product Fit, Founder Cash Flow Constraint, Founder Proximity, Customer Discovery By Doing Work, Design Led Growth, Trust As Business Asset, Fast Product Validation, and Product Led Willingness To Pay. No direct contradiction found; the source extends the wiki's startup-validation branch by showing how trust design, founder survival, and direct host/guest fieldwork made Airbnb legible before the market looked obvious.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

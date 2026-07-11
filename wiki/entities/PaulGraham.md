@@ -2,8 +2,8 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
-last_updated: 2026-07-10
+sources: [socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+last_updated: 2026-07-11
 ---
 
 # Paul Graham
@@ -22,6 +22,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-stevehuffman-final]] adds Graham through the [[Reddit]] origin story. He first challenged [[SteveHuffman]] and [[AlexisOhanian]]'s mobile food-ordering idea, then called them back from the train because [[YCombinator]] liked the founders more than the idea. His prompt toward a better [[Delicious]] Popular became a source case for [[FounderIdeaPivot]] and [[StartupAcceleratorBatchSelection]].
 
+[[socialradarspod-brianchesky-final]] adds Graham through the [[Airbnb]] YC interview. [[JessicaLivingston]] says Graham did not like the lodging idea and tried to redirect [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] toward a payments-related idea, but the cereal boxes helped show that the founders were unusually persistent. Chesky also highlights Graham's advice to build something a few people deeply love, which becomes part of [[DesignForOnePerson]].
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.
@@ -31,3 +33,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[DavidLieb]], [[Bump]], and [[PowerUserDiscovery]] - YC decision and alumni-network branch added by the Lieb episode.
 - [[GarryTan]], [[Posterous]], [[FounderHonesty]], and [[FastProductValidation]] - product-critique branch added by the Tan episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - founder-over-idea branch added by the Huffman episode.
+- [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - survival and product-love branch added by the Chesky episode.

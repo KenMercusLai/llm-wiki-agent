@@ -2,8 +2,8 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
-last_updated: 2026-07-09
+sources: [socialradarspod-brianchesky-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
+last_updated: 2026-07-11
 ---
 
 # Trust As Business Asset
@@ -16,6 +16,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] adds the wealth-management version through [[YouzhiYouxing]]. Trust is valuable because users cannot easily evaluate fund products, incentives, or long-term behavioral harm, but that same trust can be damaged if the platform monetizes paid exposure, trading urgency, or product complexity against the user's life interests.
 
+[[socialradarspod-brianchesky-final]] adds the peer-to-peer marketplace version through [[Airbnb]]. [[BrianChesky]] says the first hosted stays exposed a trust problem: strangers needed enough confidence to sleep in one another's homes. Profiles, reciprocal reviews, and payment handling therefore became product infrastructure for [[PeerToPeerMarketplaceTrust]], not only safety or compliance features.
+
 ## Key Claims
 - Trust is not only reputational decoration; it can affect pricing, supplier cooperation, employee commitment, customer loyalty, and regulatory credibility.
 - A trustworthy company can become more tempting to redirect because others want access to the trust it accumulated.
@@ -25,6 +27,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - The Cook episode adds a dual-use caveat: a values-driven reputation can be both a moral commitment and a durable competitive asset, especially when privacy and accessibility reinforce user loyalty.
 - AI-era solo founders may need trust before scale: users who cannot inspect every generated artifact may rely on public history, relationship context, and personal accountability.
 - Financial-platform trust depends on visible refusals as well as visible services: a company may need to decline revenue paths to keep [[InvestmentForBetterLife]] credible.
+- Peer-to-peer marketplace trust has to be designed into identity, reputation, and payment flows because the product asks ordinary people to accept social risk.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -34,3 +37,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[Apple]], [[TimCook]], [[ValuesAsOperationalAsset]], [[ApplePrivacy]], and [[AppleAccessibility]] - consumer-platform trust branch added by the Cook episode.
 - [[YuYi]], [[BuildingPublic]], and [[OnePersonCompany]] - personal-brand and public-trust branch added by S10E18.
 - [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], and [[KnowingEnough]] - wealth-management trust branch added by E44.
+- [[Airbnb]], [[BrianChesky]], [[PeerToPeerMarketplaceTrust]], and [[RealWorldConnectionProducts]] - marketplace and connection branch added by the Chesky episode.
