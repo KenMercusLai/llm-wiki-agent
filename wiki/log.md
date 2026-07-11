@@ -2195,6 +2195,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | The ethics of using AI to immortalize the dead
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance. Created pages for Tomas Holoneck, University of Cambridge, Google Inactive Account Manager, AI Grief Bots, Post-Mortem AI Consent, and Digital Memorialization; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Digital Preservation, Persistent Agent Memory, and Human Connection Under AI. No direct contradiction found; the source extends digital preservation from storage stewardship into consent-aware interactive memorialization and qualifies persistent memory by showing that memory used after death needs stronger consent, dignity, and deletion boundaries.
+
 ## [2026-07-12] ingest | Digital archiving and the global memory shortage
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Linda Todich of Digital Bedrock on AI data-center demand, memory-chip and hard-drive shortages, Western Digital hard-drive availability, IDC's shortage framing, hyperscaler dependence, and the difference between storage and preservation. Created pages for Linda Todich, Digital Bedrock, Western Digital, IDC, Memory Chip Shortage, Digital Preservation, and Personal Digital Archiving; updated overview, index, Marketplace Tech, Stephanie Hughes, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source extends AI hardware supply-chain pressure from high-bandwidth memory and consumer storage pricing into archival storage, cultural memory, and family archive stewardship.
@@ -2474,3 +2478,7 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Jos
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,150 nodes and 31,977 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
