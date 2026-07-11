@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -34,6 +34,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-emmettshear-v2]] adds Graham through [[EmmettShear]]'s first-batch path. Graham and YC accepted [[Kiko]] because the founders and demo were strong enough even though the calendar idea looked weak. After Kiko sold, Graham rejected the founders' print-on-demand coffee-table-book idea, then wrote a $50,000 check for [[JustinTV|Justin.tv]] because the 24/7 live-streaming idea looked like a possible new kind of reality TV.
 
+[[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds Graham through [[ParkerConrad]]'s first [[YCombinator]] run with [[Zenefits]]. Conrad says Graham pushed the company to launch earlier than Conrad planned because Demo Day was too close, and that the timing mattered when [[SimplyInsured]] launched shortly afterward. The episode adds another case where Graham's pressure converted YC urgency into a specific launch-timing advantage.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -50,3 +52,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[DimitriDadiomov]], [[ModernTreasury]], [[OperationalPainFounderInsight]], and [[MoneyMovementInfrastructure]] - Dadiomov episode branch that invokes Graham's schlep-blindness frame.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], and [[DeveloperFirstPaymentInfrastructure]] - Collison episode branch connected through early programming and startup relationships.
 - [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - Shear episode branch connected through first-batch selection, idea critique, and Justin.tv's first check.
+- [[ParkerConrad]], [[Zenefits]], [[SimplyInsured]], and [[StartupTimingWindows]] - Parker Conrad episode branch connected through YC launch urgency.

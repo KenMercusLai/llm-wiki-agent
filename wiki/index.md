@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Parker Conrad on Zenefits, Rippling, and Building Through Crisis](sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8.md) — The Social Radars episode with Parker Conrad on Zenefits' public collapse, regulatory and media disputes, manual operations debt, Rippling's employee graph, compound startup strategy, founder dogfooding, and B2B AI context.
 - [Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience](sources/socialradarspod-emmettshear-v2.md) — The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner.
 - [Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition](sources/socialradarss2-stripe-v2.md) — The Social Radars episode with Stripe's co-founders on teenage programming, early YC ties, web-payment friction, App Store monetization contrast, `/dev/payments`, API product design, and long-term company execution.
 - [Bill Clerico on WePay, YC, and Fire Tech](sources/socialradarss2-billclerico-final.md) — The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, group-payments-to-API pivot, early bank friction, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis.
@@ -264,6 +265,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode links regulatory crisis, public narrative, and software-first rebuilding.
+- [Zenefits](entities/Zenefits.md) — HR, payroll, benefits, and insurance startup used as a cautionary case for manual operations debt and governance narrative risk.
+- [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
+- [David Sacks](entities/DavidSacks.md) — Zenefits CEO successor in Conrad's account of the compliance, media, and responsibility dispute.
+- [Andreessen Horowitz](entities/AndreessenHorowitz.md) — Venture firm appearing in Conrad's account through the network intervention that stopped orchestrated attacks.
+- [Mark Andreessen](entities/MarkAndreessen.md) — Andreessen Horowitz co-founder named in Conrad's account of the YC-network intervention.
+- [Lanny Davis](entities/LannyDavis.md) — Crisis-communications figure Conrad says was involved in aggressive post-Zenefits media pressure.
+- [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
+- [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm that led Rippling's Series A through Mamoon Hamid.
+- [Simply Insured](entities/SimplyInsured.md) — YC batch competitor to Zenefits used in the episode to show how launch timing shaped category narrative.
 - [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, and returning to YC.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
 - [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
@@ -1616,6 +1627,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
+- [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
+- [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.
+- [Founder Reputation Recovery](concepts/FounderReputationRecovery.md) — Rebuilding founder trust and agency after public failure or disputed scandal while preserving accountability for real mistakes.
 - [Startup Runway Discipline](concepts/StartupRunwayDiscipline.md) — Operating pattern of making burn, runway, revenue, cost structure, and survival assumptions explicit before a startup runs out of time.
 - [Investor Risk Narrative](concepts/InvestorRiskNarrative.md) — Fundraising discipline of naming real startup risks while making upside and de-risking paths legible enough for investors to underwrite.
 - [Developer-First Payment Infrastructure](concepts/DeveloperFirstPaymentInfrastructure.md) — Stripe's original thesis of making payment acceptance instant, programmable, and developer-friendly rather than a slow merchant-account project.

@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -18,9 +18,12 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[socialradarss2-stripe-v2]] adds Livingston as interviewer and long-running witness to [[PatrickCollison]], [[JohnCollison]], and [[Stripe]]. Her closing reflections emphasize how much the Collisons' lives and Stripe's origin were interwoven with YC relationships, and she frames the unasked bank-partnership story through [[RelentlesslyResourcefulFounder]].
 
+[[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds Livingston as interviewer and early supporter of [[ParkerConrad]] after [[Zenefits]]. Conrad says he was grateful that Livingston invested in [[Rippling]]'s seed round when he felt radioactive, making her part of the episode's [[FounderReputationRecovery]] and [[YCombinator]] support-network thread.
+
 ## Connections
 - [[CarolynLevy]] and [[TheSocialRadars]] - co-host and show context.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[BASES]], [[MoneyMovementInfrastructure]], and [[FinancialOperationsResilience]] - Dadiomov episode context.
+- [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[ManualOperationsDebt]], [[EmployeeGraph]], and [[FounderReputationRecovery]] - Parker Conrad episode context.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[RelentlesslyResourcefulFounder]] - Collison episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[StartupHighBetaBet]], and [[RegulatedCryptoTrustStrategy]] - Armstrong episode context.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], [[PaulBuchheit]], and [[RobertMorris]] - interview subjects and YC collaborators.

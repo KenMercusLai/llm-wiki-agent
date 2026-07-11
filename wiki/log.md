@@ -2039,6 +2039,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner. Created pages for Emmett Shear, Kiko, Twitch, Justin Kan, Kyle Vogt, Tucows, Startup Runway Discipline, and Investor Risk Narrative; updated overview, index, The Social Radars, Y Combinator, Justin.tv, Michael Seibel, Paul Graham, Amazon, Bessemer Venture Partners, Startup Accelerator Batch Selection, Founder Cash Flow Constraint, Founder Product Fit, Startup Community Infrastructure, Customer Pull, Product Led Willingness To Pay, and Post-Acquisition Founder Identity. No direct contradiction found; the source grounds the prior first-batch "Twitch founders" reference and extends the wiki's startup branch with cash-cushion, runway-discipline, usage-signal, and fundraising-narrative lessons.
 
+## [2026-07-11] ingest | Parker Conrad on Zenefits, Rippling, and Building Through Crisis
+
+Added source page for The Social Radars episode with Parker Conrad on Zenefits' licensing, macro, and culture controversies, the company's real manual-operations and growth problems, his ouster and public-reputation fight, and Rippling's employee graph and compound startup strategy. Created pages for Parker Conrad, Zenefits, Rippling, David Sacks, Andreessen Horowitz, Mark Andreessen, Lanny Davis, Mamoon Hamid, Kleiner Perkins, Simply Insured, Compound Startup, Employee Graph, Manual Operations Debt, and Founder Reputation Recovery; updated overview, index, and related Social Radars, YC, host, founder, governance, and organization-context pages. No direct contradiction found; the source is Conrad's participant account and should be treated cautiously where it describes disputed motives or responsibility.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -18,9 +18,12 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[socialradarss2-stripe-v2]] adds Levy as co-interviewer for [[PatrickCollison]] and [[JohnCollison]] on [[Stripe]]. Her framing helps draw out the contrast between early developer-payment pain, [[AppStore]] monetization ease, API-company product design, family determination, and the hosts' closing view of the brothers as [[RelentlesslyResourcefulFounder|relentlessly resourceful founders]].
 
+[[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds Levy as co-interviewer for [[ParkerConrad]] on [[Zenefits]] and [[Rippling]]. Her questions help frame the episode as both a disputed public-crisis account and a product-building lesson around [[ManualOperationsDebt]], [[EmployeeGraph]], and [[CompoundStartup]].
+
 ## Connections
 - [[JessicaLivingston]] and [[TheSocialRadars]] - co-host and show context.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], and [[AcceleratedBankRuns]] - Dadiomov episode context.
+- [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[ManualOperationsDebt]], [[EmployeeGraph]], and [[CompoundStartup]] - Parker Conrad episode context.
 - [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - Collison episode context.
 - [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], and [[MissionFocusedCompany]] - Armstrong episode context.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], and [[PaulBuchheit]] - interview subjects.
