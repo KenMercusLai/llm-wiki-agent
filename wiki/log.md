@@ -2466,3 +2466,11 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Dav
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | AI-powered workplace tools keep tabs on employees
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Josh Bersin on AI workplace monitoring, including meeting recorders, email summaries, Galileo meeting analysis, workplace digital twins, productivity gains, memory/attention changes, and transparency boundaries. Created pages for Josh Bersin, Galileo, Recorded Meeting Analysis, Workplace Digital Twins, and Workplace AI Transparency; updated overview, index, Marketplace Tech, Stephanie Hughes, AI Workforce Monitoring, Digital Employees, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source extends workplace monitoring from abstract activity telemetry into concrete meeting, email, and digital-twin workflows while qualifying digital-employee claims by emphasizing transparency, human conversation, and non-punitive deployment boundaries.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
