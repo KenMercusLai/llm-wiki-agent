@@ -2,8 +2,8 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
+last_updated: 2026-07-12
 ---
 
 # Microsoft
@@ -13,6 +13,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] adds Microsoft through Windows Phone and [[Nokia]]'s late post-[[Symbian]] transition. In that source, Microsoft's mobile ecosystem is presented as unable to build enough developer and user gravity against [[IPhone]] and [[Android]].
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Microsoft through the [[OpenAI]] cloud-partnership discussion. The hosts frame the end of OpenAI's exclusive Microsoft dependency as positive for OpenAI and potentially positive for other infrastructure providers, while also showing that frontier AI economics are tied to cloud capacity, API cost, and provider bargaining power.
+
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Microsoft through [[SamAltman]]'s account of the [[OpenAIBoardCrisis]]. After the board appointed [[EmmettShear]], Altman announced he would join Microsoft to work on an AI research project, making Microsoft the immediate fallback path before OpenAI employees pushed for Altman's return.
 
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds Microsoft as a historical example inside [[DepressionDrivenInnovation]]: the episode uses companies founded in uncertain or weak periods to argue that important technology waves often begin before macro optimism is obvious.
 
@@ -38,3 +40,4 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[GarryTan]], [[YCombinator]], and [[LargeCompanyOrganizationalInertia]] — early-career builder contrast added by The Social Radars.
 - [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
 - [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.
+- [[OpenAI]], [[SamAltman]], [[EmmettShear]], and [[OpenAIBoardCrisis]] - crisis fallback context added by The Social Radars.

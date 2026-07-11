@@ -2,8 +2,8 @@
 title: "Emmett Shear"
 type: entity
 tags: [person, startups, y-combinator, video]
-sources: [tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
+last_updated: 2026-07-12
 ---
 
 # Emmett Shear
@@ -16,8 +16,11 @@ The source also makes Shear a YC operator case. [[MichaelSeibel]] recruited him 
 
 [[tsr-s2-wrapup-v1]] later identifies Shear's interview as one of Season 2's memorable moments because it was recorded before his brief [[OpenAI]] spotlight made him newly topical. The wrap-up also preserves the smaller quiche Lorraine anecdote as an example of why personal details made the founder-history interview stick.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds the reason for that OpenAI spotlight more directly. In [[SamAltman]]'s account of the [[OpenAIBoardCrisis]], the board appointed Shear after Altman thought he was likely to return, which led Altman to announce a [[Microsoft]] AI research project before employee pressure pushed the company toward his return.
+
 ## Connections
 - [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - company path in the source.
 - [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - cofounder and early-team context.
 - [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], [[CarolynLevy]], and [[OpenAI]] - accelerator, interview, and later timing context.
 - [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[FounderCashFlowConstraint]], and [[FounderProductFit]] - concepts tied to his episode.
+- [[OpenAIBoardCrisis]], [[SamAltman]], and [[Microsoft]] - interim-CEO crisis context added by the Sam Altman episode.

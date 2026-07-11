@@ -2,11 +2,13 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
-last_updated: 2026-07-10
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+last_updated: 2026-07-12
 ---
 
 # ChatGPT
+
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds ChatGPT search as [[SamAltman]]'s main consumer-search contrast with [[Google]]. Altman says he already uses Google less for many queries, that ChatGPT is better for most things except simple navigation, and that the next step is [[DelegatedWebResearch]]: a search experience that can spend hours researching and synthesize the result.
 
 ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as one of the AI answer and search surfaces monitored by [[PeakAI]]. The episode frames ChatGPT as a place where B2B buyers may research products and where brands may need to understand whether they are mentioned, cited, and described favorably.
 
@@ -45,3 +47,4 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 - [[OpenAI]], [[AIInvestmentMetrics]], and [[JevonsParadoxInAI]] - E155's user-scale and token-demand interpretation.
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] - recruiting overload and fake-profile risks added by The Intelligence.
 - [[AGIThreeActs]], [[OpenAI]], [[Codex]], and [[ModelAsOperatingSystem]] - first-act chatbot and second-act coding-agent contrast added by episode 136.
+- [[SamAltman]], [[DelegatedWebResearch]], [[AISearchEvaluation]], and [[Google]] - search replacement and long-running research context added by The Social Radars.

@@ -2,8 +2,8 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradarspod-emmettshear-v2, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarspod-emmettshear-v2, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-12
 ---
 
 # Startup Accelerator Batch Selection
@@ -28,6 +28,8 @@ The source's main lesson is that batch selection mixes process design with judgm
 
 [[socialradarspod-emmettshear-v2]] adds [[Kiko]] as another first-batch case. [[EmmettShear]] says the working browser calendar demo and founder quality helped get the team accepted, while YC warned that the idea itself might be weak. The episode also adds the social side of selection: Tuesday dinners and peer support made the batch more valuable than the small check for founders who otherwise felt isolated.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]] and [[Looped]] as another first-batch account. Altman remembers the Garden Street interview as closer to office-hours brainstorming than formal evaluation, while [[JessicaLivingston]] corrects the exaggerated story of his application email. The case strengthens the point that early YC selection mixed founder signal, casual conversation, and willingness to redirect a student's life path before startup risk was legible from the outside.
+
 ## Key Claims
 - Application formatting is part of selection because messy submissions are hard to compare fairly.
 - Technical review matters when applicants propose products whose feasibility is uncertain.
@@ -42,6 +44,7 @@ The source's main lesson is that batch selection mixes process design with judgm
 - High-beta selection can be rational when an unproven market discontinuity, founder fit, and extreme upside justify funding before the risk is comfortable.
 - A working demo can overcome a weak-market concern when it proves the founders can build, but selection still needs to keep idea risk visible.
 - Batch selection creates peer infrastructure as well as investment decisions; the accepted founders may help each other survive emotionally and operationally before their products work.
+- First-batch selection could convert a dorm-room project into a company because the program changed both founder belief and practical next steps.
 
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], [[TrevorBlackwell]], [[PaulGraham]], [[RobertMorris]], and [[JessicaLivingston]] - people, first program, and institution from the source.
@@ -55,3 +58,4 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[EdithElliott]], [[NooraHealth]], [[FamilyCaregiverTraining]], and [[NonprofitStartupDiscipline]] - nonprofit-track selection lesson added by the Elliott episode.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech selection lesson added by the Armstrong episode.
 - [[EmmettShear]], [[JustinKan]], [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - first-batch demo, weak-idea, and peer-support case added by the Shear episode.
+- [[SamAltman]], [[Looped]], [[BlakeRoss]], [[FounderRiskCalibration]], and [[YCombinator]] - first-batch interview and life-pivot case added by the Sam Altman episode.

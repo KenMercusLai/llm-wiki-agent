@@ -2,8 +2,8 @@
 title: "Ron Conway"
 type: entity
 tags: [person, startups, venture-capital, silicon-valley]
-sources: [tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]
+last_updated: 2026-07-12
 ---
 
 # Ron Conway
@@ -14,8 +14,11 @@ Conway's operating lessons begin at National Semiconductor. Under [[CharlieSporc
 
 At Altos, Conway joined an extremely early-stage company, received 2% equity, helped build U.S. sales and distribution, and saw the company go public in 1982 with [[SequoiaCapital]] backing. The later flattening of Altos after the personal-computer and Ethernet wave became his clearest [[SelfDisruptionDiscipline]] lesson: companies that ride one disruption can become the incumbent for the next one.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] briefly adds Conway through [[SamAltman]]'s comparison between the [[OpenAIBoardCrisis]] and the [[SiliconValleyBank]] weekend. Altman says the SVB weekend felt close to a real disaster and that Conway was the main person involved behind the scenes.
+
 ## Connections
 - [[NationalSemiconductor]], [[CharlieSporck]], and [[RelationshipLedSales]] - first Silicon Valley operating apprenticeship.
 - [[AltosComputer]], [[DaveJackson]], [[SequoiaCapital]], [[DonValentine]], and [[SelfDisruptionDiscipline]] - microcomputer company-building and missed platform shift.
 - [[BandOfAngels]], [[OrganizedAngelInvestorNetworks]], [[FounderInvestorLearning]], and [[OutlierDrivenAngelInvesting]] - move from operator to founder-helper investor.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - interview context.
+- [[SamAltman]], [[SiliconValleyBank]], and [[StartupGovernance]] - crisis-response reference added by the Sam Altman episode.

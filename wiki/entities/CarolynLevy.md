@@ -2,8 +2,8 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-12
 ---
 
 # Carolyn Levy
@@ -36,6 +36,8 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Levy as co-interviewer for [[HarjTaggar]] on [[YCombinator]], [[Triplebyte]], and the changing startup culture around hiring. Her role helps frame the episode as both institutional memory and a practical founder postmortem: YC's legitimacy and investor access changed Harj's path, while Triplebyte showed how hard it is to turn engineering hiring into objective software.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Levy as co-interviewer and early legal-context witness for [[SamAltman]]. The episode says she has known Altman since the 2005 [[YCombinator]] batch, when she was his lawyer, and uses that long relationship to draw out details about [[Looped]], YC presidency, [[OpenAI]], and the [[OpenAIBoardCrisis]].
+
 ## Connections
 - [[JessicaLivingston]], [[TheSocialRadars]], and [[tsr-s2-wrapup-v1]] - co-host, show context, and Season 2 wrap-up.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[MoneyMovementInfrastructure]], [[FinancialOperationsResilience]], and [[AcceleratedBankRuns]] - Dadiomov episode context.
@@ -49,6 +51,7 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 - [[YinWu]], [[Pulley]], [[Carta]], [[CapTableLiteracy]], [[FundraisingScenarioModeling]], and [[FounderControl]] - Season 3 Yin Wu episode context.
 - [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[AuthenticationLedMarketplaceTrust]], and [[DemandShockProductMarketFit]] - Season 3 Eddy Lu episode context.
 - [[HarjTaggar]], [[YCombinator]], [[Triplebyte]], [[StartupLegitimacyTransfer]], and [[ObjectiveHiringAssessment]] - Season 4 Harj Taggar episode context.
+- [[SamAltman]], [[Looped]], [[OpenAI]], [[FounderRiskCalibration]], and [[OpenAIBoardCrisis]] - Season 4 Sam Altman episode context.
 - [[AeroFS]], [[Redbooth]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Season 3 Yuri Sagalov episode context.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Viaweb]], [[Anybots]], [[PlanGrid]], [[TigerEye]], [[DoorDash]], [[Gmail]], and [[FriendFeed]] - main episode subjects.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[RealWorldConnectionProducts]], [[FounderIdeaPivot]], [[PlatformCommunityGovernance]], [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], [[StartupCommunityInfrastructure]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[LargeCompanyRiskIncentives]], [[StartupInfrastructureImprovisation]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring themes in the stories she helps draw out.

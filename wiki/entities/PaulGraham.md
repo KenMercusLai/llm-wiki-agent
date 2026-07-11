@@ -2,8 +2,8 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-12
 ---
 
 # Paul Graham
@@ -40,6 +40,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds Graham through [[EricMigicovsky]]'s [[Pebble]] funding path. Eric says an office hour with Graham forced him to face that he was not going to raise ordinary venture money for the new watch, and Graham pushed him toward a fast [[Kickstarter]] launch. The episode adds a hardware-specific version of Graham's advice: when investors reject a real user need, find the funding mechanism that lets customers prove [[CustomerPull]] directly.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Graham through [[SamAltman]]'s first-batch account. Graham's funding call is the life-pivot moment that caused Altman to cancel [[GoldmanSachs]], and his early advice that Altman needed to get good at business turned [[Looped]] into practical training in deals, carriers, fundraising, and launch work.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -59,3 +61,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[ParkerConrad]], [[Zenefits]], [[SimplyInsured]], and [[StartupTimingWindows]] - Parker Conrad episode branch connected through YC launch urgency.
 - [[HarjTaggar]], [[KulvirTaggar]], [[AutomaticAuctions]], [[YuriMilner]], and [[StartupLegitimacyTransfer]] - Harj Taggar episode branch connected through YC alumni help and investor-access scaling.
 - [[EricMigicovsky]], [[Pebble]], [[Kickstarter]], and [[KickstarterDemandShock]] - Eric Migicovsky episode branch connected through crowdfunding advice after investor rejection.
+- [[SamAltman]], [[Looped]], [[GoldmanSachs]], and [[FounderRiskCalibration]] - Sam Altman episode branch connected through the first-batch funding call and business-training advice.

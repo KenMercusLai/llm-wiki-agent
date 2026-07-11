@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sam Altman on YC, OpenAI, and the Meaning of Formidable](sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4.md) — The Social Radars episode with Sam Altman on Looped, YC's first batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis.
 - [Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself](sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2.md) — The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, Shenzhen manufacturing, inventory and venture-debt mistakes, product-vision drift, and Beeper as another build-for-yourself product.
 - [Alexandr Wang on Scale and AI Data Infrastructure](sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3.md) — The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, image and text labeling, autonomous-vehicle data, defense work, generative AI resource shift, MEI culture stance, and agent data.
 - [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
@@ -276,6 +277,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Looped](entities/Looped.md) — Sam Altman's first startup as described in the source, used as a case in YC first-batch formation, carrier dependency, and founder business training.
+- [Greg Brockman](entities/GregBrockman.md) — OpenAI leader named in the Social Radars episode as removed alongside Sam Altman during the November 2023 board crisis.
+- [Blake Ross](entities/BlakeRoss.md) — Stanford neighbor whose Facebook post led Sam Altman to the Summer Founders Program.
+- [Helion](entities/Helion.md) — Private fusion company Altman cites as an example of his active hard-tech recruiting while YC president.
+- [Reid Hoffman](entities/ReidHoffman.md) — Former OpenAI board member Altman names in his board-composition lesson from the 2023 crisis.
+- [Shivon Zilis](entities/ShivonZilis.md) — Former OpenAI board member Altman names when discussing board continuity and the 2023 crisis.
+- [Will Hurd](entities/WillHurd.md) — Former OpenAI board member Altman names as part of the board-continuity lesson from the 2023 crisis.
 - [Eric Migicovsky](entities/EricMigicovsky.md) — Pebble and Beeper founder whose Social Radars episode links personal-product insight, YC, Kickstarter, hardware execution, inventory risk, venture debt, and product vision drift.
 - [Pebble](entities/Pebble.md) — Smartwatch company that broke out through Kickstarter, shipped millions of watches, and later became a hardware startup postmortem around manufacturing, inventory, debt, and vision.
 - [Beeper](entities/Beeper.md) — Eric Migicovsky's universal-chat app, introduced in the episode as another product he built because he wanted it himself.
@@ -1709,6 +1717,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founder Risk Calibration](concepts/FounderRiskCalibration.md) — Founder judgment pattern where a socially risky-looking choice can be rational once downside, upside, learning, and life trajectory are weighed correctly.
+- [OpenAI Board Crisis](concepts/OpenAIBoardCrisis.md) — November 2023 OpenAI governance crisis involving Altman's removal, employee revolt, Microsoft fallback, and board-composition lessons.
+- [Language Model Scaling Bet](concepts/LanguageModelScalingBet.md) — Research-strategy choice to concentrate compute and organizational belief behind scaled language models after a more efficient architecture appeared.
+- [Delegated Web Research](concepts/DelegatedWebResearch.md) — AI search pattern where a system performs long-running research and synthesis rather than returning a quick answer or ranked links.
 - [Consumer Hardware Startup Risk](concepts/ConsumerHardwareStartupRisk.md) — Operating risk in hardware startups where platforms, manufacturing, quality, support, inventory, and financing must align before software-style iteration can catch up.
 - [Kickstarter Demand Shock](concepts/KickstarterDemandShock.md) — Crowdfunding pattern where unexpectedly strong preorder demand validates pull while creating immediate delivery and support obligations.
 - [Hardware Inventory Risk](concepts/HardwareInventoryRisk.md) — Startup operating risk where physical units require cash, forecasts, storage, and discount decisions before demand fully converts.

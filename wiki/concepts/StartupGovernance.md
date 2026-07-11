@@ -2,8 +2,8 @@
 title: "Startup Governance"
 type: concept
 tags: [startup, governance, mission, founders]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradars-edithelliot-v3, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradars-edithelliot-v3, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-12
 ---
 
 # Startup Governance
@@ -32,6 +32,8 @@ Startup governance is the operating system of power inside a company: charter la
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Pulley]] as an early-stage equity and board-control governance case. [[YinWu]] says founders need to understand ownership, dilution, employee pools, fundraising terms, and board composition because the board is effectively the founder's boss, especially when the company is not doing well. This turns [[CapTableLiteracy]], [[FounderEquityDilution]], [[FundraisingScenarioModeling]], and [[FounderControl]] into governance work rather than administrative cleanup.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s first-person account of the November 2023 [[OpenAIBoardCrisis]]. The source strengthens the existing OpenAI governance branch by adding concrete mechanics: nonprofit origins, AI-safety disagreements, loss of CEO access, employee revolt, [[Microsoft]] as fallback, board-member continuity, and Altman's later claim that a normal company structure would likely have been healthier if OpenAI had known its product and capital path.
+
 ## Key Claims
 - Standard startup documents often leave purpose broad, which can later be interpreted through [[ShareholderPrimacy]] and investor expectations.
 - Mission-driven founders should define the mission early, write it into governing documents, and ensure co-founders, lawyers, board members, and employees share the same interpretation.
@@ -54,6 +56,7 @@ Startup governance is the operating system of power inside a company: charter la
 - Mission-scope policies are governance choices when they define which conversations and conflicts belong inside the company operating system.
 - Founder-transition governance can shape reputation, legal defense, investor trust, and whether a founder can build again after leaving.
 - Early cap-table and fundraising choices are governance choices because they shape founder motivation, employee equity capacity, investor trust, and board power before a crisis arrives.
+- Mission-sensitive AI governance can fail when board authority, employee power, partner dependence, safety interpretation, and capital needs are not aligned.
 
 ## Connections
 - [[EricRies]] - source of the governance frame.
@@ -77,3 +80,4 @@ Startup governance is the operating system of power inside a company: charter la
 - [[Coinbase]], [[BrianArmstrong]], [[MissionFocusedCompany]], and [[FounderMotivationEvolution]] - mission-scope governance case from The Social Radars.
 - [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[DavidSacks]], and [[FounderReputationRecovery]] - disputed founder-transition and reputation-governance case from The Social Radars.
 - [[YinWu]], [[Pulley]], [[CapTableLiteracy]], [[FounderEquityDilution]], [[FundraisingScenarioModeling]], and [[FounderControl]] - founder equity and board-control governance case from The Social Radars.
+- [[OpenAIBoardCrisis]], [[SamAltman]], [[GregBrockman]], [[IlyaSutskever]], [[AdamDAngelo]], [[EmmettShear]], and [[Microsoft]] - OpenAI crisis account from The Social Radars.

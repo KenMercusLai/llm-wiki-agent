@@ -2,8 +2,8 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-12
 ---
 
 # Y Combinator
@@ -60,6 +60,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds [[EricMigicovsky]] and [[Pebble]] as a Winter 2011 YC hardware case. The episode shows YC experimenting with Canadian corporate setup and early hardware companies, while [[PaulGraham]]'s advice helped Eric stop trying to raise a conventional venture round and launch on [[Kickstarter]]. The case extends YC's startup-learning branch into [[ConsumerHardwareStartupRisk]], where customer demand, platform APIs, manufacturing, inventory, and debt all move more slowly and physically than software metrics.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s participant and later-president account. The first-batch section shows YC turning [[Looped]] from a Stanford dorm-room project into a company and helping Altman choose the batch over [[GoldmanSachs]]. The presidency section adds active recruiting of ambitious companies such as [[Helion]], founder-defense work in cases such as [[ParkerConrad]], and the claim that YC's peer group remains one of its strongest effects.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -91,3 +93,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - Winter 2011 marketplace founder case added by the Eddy Lu episode.
 - [[HarjTaggar]], [[BoSo]], [[AutomaticAuctions]], [[Triplebyte]], [[YuriMilner]], [[StartupLegitimacyTransfer]], and [[ObjectiveHiringAssessment]] - Winter 2007 founder, early YC operator, and partner-return case added by the Harj Taggar episode.
 - [[EricMigicovsky]], [[Pebble]], [[Kickstarter]], [[ConsumerHardwareStartupRisk]], [[KickstarterDemandShock]], and [[ProductVisionDrift]] - Winter 2011 consumer-hardware and crowdfunding case added by the Eric Migicovsky episode.
+- [[SamAltman]], [[Looped]], [[BlakeRoss]], [[FounderRiskCalibration]], [[Helion]], and [[FounderReputationRecovery]] - first-batch and YC-president account added by the Sam Altman episode.

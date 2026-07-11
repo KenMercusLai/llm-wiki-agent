@@ -2,8 +2,8 @@
 title: "Steve Jobs"
 type: entity
 tags: [person, founder, apple, product]
-sources: [264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-12
 ---
 
 # Steve Jobs
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Steve Jobs appears in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] as the comparison shadow over [[TimCook]]'s Apple tenure. The episode says media narratives often cast Jobs as the creator, artist, and revolutionary product figure, while Cook is cast as the operator, accountant, and supply-chain manager.
 
 The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instead, it argues that using the Jobs-era product-revolution standard as the only evaluation frame misses Cook's different contribution: turning values into durable institutional practice.
+
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Jobs as part of [[SamAltman]]'s [[Looped]] story. Altman says he rehearsed an App Store-era demo in front of Jobs in a dark theater, froze, and expected to lose the demo slot, but Apple still invited him to final rehearsals.
 
 ## Source Position
 - Jobs represents the Apple of product myth, founder charisma, and "Think Different" symbolism.
@@ -22,3 +24,4 @@ The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instea
 - [[TimCook]] — successor whose legacy the episode reframes.
 - [[IPhone]] and [[SmartphoneOperatingSystemEcosystems]] — Jobs-era product and ecosystem reference.
 - [[ValuesAsOperationalAsset]] — contrast between symbolic values and executable values.
+- [[Looped]], [[SamAltman]], and [[Apple]] - App Store demo context added by The Social Radars.

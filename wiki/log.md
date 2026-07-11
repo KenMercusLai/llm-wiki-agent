@@ -2142,3 +2142,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Sam Altman on YC, OpenAI, and the Meaning of Formidable
+
+Added source page for The Social Radars episode with Sam Altman on Looped, the first Y Combinator batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis. Created pages for Looped, Greg Brockman, Blake Ross, Helion, Reid Hoffman, Shivon Zilis, Will Hurd, Founder Risk Calibration, OpenAI Board Crisis, Language Model Scaling Bet, and Delegated Web Research; updated overview, index, Sam Altman, OpenAI, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, ChatGPT, Google, Google DeepMind, Ilya Sutskever, Emmett Shear, Adam D'Angelo, Microsoft, David Sacks, Elon Musk, Ron Conway, Steve Jobs, Goldman Sachs, Sequoia Capital, Startup Governance, AI Alignment Governance, Platform Dependency Risk, and Startup Accelerator Batch Selection. No direct contradiction found; the OpenAI crisis material is preserved as Altman's first-person account and should be paired with other perspectives for disputed board intent and safety claims.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
