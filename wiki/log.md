@@ -2166,3 +2166,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work
+
+Added source page for The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work. Created pages for Sean Parker, Mark Zuckerberg, Snowcap, Plaxo, GitHub, Hummer Winblad, Bertelsmann, RIAA, Media Internet Convergence, Copyright Platform Conflict, Digital Music Licensing, Founder Crisis Mediation, and Employee Severance at Shutdown; updated overview, index, Ron Conway, SV Angel, Napster, Sean Fanning, Rajiv Motwani, Susan Wojcicki, Google, The Social Radars, Meta, Founder Friendly Investor Support, Legal Risk Acquirer Fit, Venture Syndicate Orchestration, and Distribution Before Monetization. No direct contradiction found; the Napster material is preserved as Conway's participant account and should be paired with record-label, RIAA, Hummer Winblad, Bertelsmann, and Napster management perspectives for a balanced legal history.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

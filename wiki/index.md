@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work](sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2.md) — The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work.
 - [Ron Conway on Google's Early History and SV Angel's Role](sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2.md) — The Social Radars episode with Ron Conway on Google, Backrub, PageRank, Stanford sourcing, Larry Page and Sergey Brin, early angels, Kleiner/Sequoia financing, AOL/Yahoo distribution, AdWords, Gmail politics, YouTube, Napster, and Susan Wojcicki.
 - [Drew Houston on Dropbox: Origin, Survival, and Reinvention](sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5.md) — The Social Radars episode with Drew Houston on Dropbox's forgotten-thumb-drive origin, YC entry, Arash Ferdowsi, sync reliability, viral distribution, Sequoia seed funding, Apple/Google/Microsoft pressure, productivity focus, founder psychology, public-company control, and Dropbox Dash.
 - [Sam Altman on YC, OpenAI, and the Meaning of Formidable](sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4.md) — The Social Radars episode with Sam Altman on Looped, YC's first batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis.
@@ -366,6 +367,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Susan Wojcicki](entities/SusanWojcicki.md) — Google garage host, search-metrics artifact preserver, and YouTube leader remembered in Conway Part 3.
 - [Napster](entities/Napster.md) — File-sharing company contrasted with Google and YouTube as a legal-risk cautionary case.
 - [Sean Fanning](entities/SeanFanning.md) — Napster founder whom Larry Page and Sergey Brin wanted to meet while Google was still small.
+- [Sean Parker](entities/SeanParker.md) — Napster co-builder and later Plaxo/Facebook connector in Conway's account of long founder relationships.
+- [Mark Zuckerberg](entities/MarkZuckerberg.md) — Facebook/Meta founder connected to Conway through Sean Parker and later Silicon Valley infrastructure coordination.
+- [Snowcap](entities/Snowcap.md) — Sean Fanning's post-Napster digital-music licensing attempt backed by Ron Conway and SV Angel.
+- [Plaxo](entities/Plaxo.md) — Sean Parker's post-Napster online-address-book company and bridge into the later Facebook relationship network.
+- [GitHub](entities/GitHub.md) — Developer infrastructure company introduced to Ron Conway by Sean Fanning after their Napster and Snowcap work.
+- [Hummer Winblad](entities/HummerWinblad.md) — Venture firm whose risky Napster financing became a Conway founder-crisis mediation case.
+- [Bertelsmann](entities/Bertelsmann.md) — Media company whose Napster investment created the funding-day crisis that led toward Snowcap.
+- [RIAA](entities/RIAA.md) — Music-industry trade association central to Napster's copyright conflict and later licensing-repair attempts.
 - [National Semiconductor](entities/NationalSemiconductor.md) — Conway's first Silicon Valley employer and a source case for semiconductor sales culture, equity compensation, customer relationships, and talent genealogy.
 - [Charlie Sporck](entities/CharlieSporck.md) — National Semiconductor CEO in Conway's account, representing the intense semiconductor operating culture that shaped early Silicon Valley talent.
 - [Altos Computer](entities/AltosComputer.md) — Early microcomputer company where Conway led sales and marketing, built distribution, reached an IPO, and later learned the cost of missing the PC wave.
@@ -1800,6 +1809,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Distribution Before Monetization](concepts/DistributionBeforeMonetization.md) — Startup sequence where product value and distribution access justify financing before a clear revenue model emerges.
 - [Search Quality Operating Cadence](concepts/SearchQualityOperatingCadence.md) — Product-operating pattern where search counts, failed queries, and founder review make relevance improvement daily work.
 - [Legal Risk Acquirer Fit](concepts/LegalRiskAcquirerFit.md) — Acquisition pattern where the right buyer can absorb legal exposure that might overwhelm an independent media or platform startup.
+- [Media Internet Convergence](concepts/MediaInternetConvergence.md) — SV Angel investment thesis that consumer media, entertainment relationships, and internet distribution would merge into startup opportunity.
+- [Copyright Platform Conflict](concepts/CopyrightPlatformConflict.md) — Collision between new platform user behavior and rights holders' legal/economic control, grounded by Napster.
+- [Digital Music Licensing](concepts/DigitalMusicLicensing.md) — Rights, registry, compensation, and label-alignment problem behind legal online music distribution.
+- [Founder Crisis Mediation](concepts/FounderCrisisMediation.md) — Investor-support pattern for compressed founder, financing, management, legal, and narrative crises.
+- [Employee Severance at Shutdown](concepts/EmployeeSeveranceAtShutdown.md) — Startup shutdown principle that remaining cash should protect employees rather than defaulting to lawsuits or insiders.
 - [Hard Problem MVP Scoping](concepts/HardProblemMVPScoping.md) — Startup pattern of reducing an enormous technical problem into a narrow first wedge that creates learning, credibility, and de-risking.
 - [Hard Tech Fundraising](concepts/HardTechFundraising.md) — Fundraising pattern for capital-intensive, technically difficult startups that need a credible de-risking path before software-style traction exists.
 - [Robotaxi Economics](concepts/RobotaxiEconomics.md) — Autonomous-mobility business logic where removing the driver changes ride-hailing economics but requires density, operations, safety, capital, and public trust.
