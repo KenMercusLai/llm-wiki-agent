@@ -2,8 +2,8 @@
 title: "Marketplace Tech"
 type: entity
 tags: [podcast, technology, public-radio]
-sources: [tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, the-latest-tv-innovations-have-their-critics, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-10
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, the-latest-tv-innovations-have-their-critics, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-12
 ---
 
 # Marketplace Tech
@@ -32,6 +32,8 @@ The TV episode shifts the same practical lens into consumer displays. Through [[
 
 The data-center episode moves the show into AI infrastructure policy. Through [[ScottBrennan]] and the [[NYUCenterOnTechnologyPolicy]], it argues that [[PublicUtilityCommissions]] can become key gatekeepers for AI data centers because power connections, grid upgrades, rate design, and [[DataCenterCostShifting]] shape who pays for the [[AIEnergyBottleneck]].
 
+The February 6, 2026 Bytes episode adds another weekly-news synthesis through [[StephanieHughes]] and [[PareshDevey]]. It links [[SpaceX]]'s [[XAI|xAI]] acquisition to [[SpaceBasedAIInfrastructure]] and [[AIIPOValuation]], uses [[Nvidia]] and [[OpenAI]] to show [[StrategicAIInfrastructureDependence]], and turns [[USTikTok|U.S. TikTok]] into a [[PlatformOwnershipTransition]] case where ownership, [[Oracle]] infrastructure, outages, and terms of service all matter.
+
 ## Connections
 - [[HassanBenchikran]], [[PatientAIUse]], and [[DoctorGuidedAIInterpretation]] - patient-facing AI health branch added by the 2025-12-22 episode.
 - [[DariaGeorgievich]] - guest expert in the episode.
@@ -47,4 +49,5 @@ The data-center episode moves the show into AI infrastructure policy. Through [[
 - [[CoreyStaley]], [[Indeed]], [[TechHiringStabilization]], [[TechJobPostingIndex]], [[AILaborMarketConcentration]], [[SoftwareDeveloperHiringPullback]], [[DataEngineeringDemand]], and [[LowFireLaborMarket]] - tech labor-market branch added by the 2025-12-17 episode.
 - [[GarrettJohnson]], [[BostonUniversity]], [[AISearchAdvertising]], [[Perplexity]], [[OpenAI]], [[Walmart]], [[Shopify]], and [[GenerativeEngineOptimization]] - AI search advertising branch added by the 2025-12-18 episode.
 - [[AnitaRamaswamy]], [[TheInformation]], [[MicronTechnology]], [[HighBandwidthMemory]], [[Oracle]], [[BlueOwlCapital]], [[DataCenterDebtRisk]], [[MerriamWebster]], and [[AISlop]] - AI hardware, data-center finance, and slop branch added by the 2025-12-19 Bytes episode.
+- [[StephanieHughes]], [[PareshDevey]], [[SpaceX]], [[XAI|xAI]], [[Nvidia]], [[OpenAI]], [[USTikTok|U.S. TikTok]], [[StrategicAIInfrastructureDependence]], and [[PlatformOwnershipTransition]] - SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok branch added by the 2026-02-06 Bytes episode.
 - [[AIGovernanceAndCompliance]] and [[HumanJudgmentUnderAI]] - broader governance and professional-responsibility frames.

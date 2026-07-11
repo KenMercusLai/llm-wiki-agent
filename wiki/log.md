@@ -2222,3 +2222,11 @@ Added source page for The Social Radars YC offsite episode with Paul Gross on Re
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start
+
+Added source page for the Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's reported $100 billion investment uncertainty, and the new U.S. TikTok's Oracle-linked outages and data terms. Created pages for Stephanie Hughes, Paresh Devey, U.S. TikTok, MGX, Silver Lake, Strategic AI Infrastructure Dependence, and Platform Ownership Transition; updated overview, index, Marketplace Tech, SpaceX, xAI, Starlink, Grok, Starship, Elon Musk, Nvidia, OpenAI, Jensen Huang, TikTok, ByteDance, Oracle, Space Based AI Infrastructure, and AI IPO Valuation. Flagged a dated-source tension with the later SpaceX IPO source on profitability and IPO timing.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,941 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

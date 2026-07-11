@@ -2,8 +2,8 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-08
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-07-12
 ---
 
 # TikTok
@@ -20,6 +20,8 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 
 [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds TikTok's growth-system layer. [[XuHongliang]] says much of his ByteDance work served TikTok growth, including overseas regional UG teams, [[LTVBasedGrowthBudgeting]], automated ad buying, creative material supply, attribution, and market-priority decisions. The Brazil case is the clearest source example: TikTok chose higher-potential cities and creators, bought traffic more aggressively than [[Kuaishou]], and waited for retention and content supply to cross a flywheel threshold.
 
+[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds the [[USTikTok|U.S. TikTok]] ownership-transition layer. The episode says a new American version was finalized with investors including [[Oracle]], [[MGX]], and [[SilverLake]] owning more than 80%, then experienced major outages after a storm. The source connects the transition to Oracle infrastructure, creator frustration, and terms of service that reportedly allow more data collection.
+
 ## Connections
 
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
@@ -30,3 +32,4 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 - [[BusinessFluentDesign]] — design posture Daqi carries from large-company collaboration into independent work.
 - [[CityCommercialObservation]] — listener-submission method that surfaced the employee account.
 - [[XuHongliang]], [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], and [[GlobalProductLocalization]] — growth and overseas-organization layer added by the episode 7 source.
+- [[USTikTok|U.S. TikTok]], [[Oracle]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — ownership, infrastructure, and terms-of-service layer added by Marketplace Tech.

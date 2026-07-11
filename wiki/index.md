@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start](sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Devey on SpaceX buying xAI, Nvidia and OpenAI's stalled $100 billion investment relationship, and U.S. TikTok's ownership transition, Oracle-backed outages, and terms-of-service changes.
 - [Founder Mode: Paul Gross, Founder & CEO of Remora Carbon](sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly.md) — The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, and climate hardware commercialization.
 - [Founder Mode: Chris Best, Founder & CEO, Substack](sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov.md) — The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, Substack Notes, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction.
 - [Founder Mode: Jake Heller, Founder & CEO, Casetext](sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final.md) — The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, a full-company pivot into Co-Counsel, board and employee persuasion, Thomson Reuters acquisition, and founder mode under a model inflection.
@@ -286,6 +287,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing the February 6, 2026 Bytes episode on SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok.
+- [Paresh Devey](entities/PareshDevey.md) — Wired senior writer whose Marketplace Tech analysis connects SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok to infrastructure and capital-market risk.
+- [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
+- [MGX](entities/MGX.md) — Investor named in the joint venture behind U.S. TikTok.
+- [Silver Lake](entities/SilverLake.md) — Technology investment firm named in the joint venture behind U.S. TikTok.
 - [Remora Carbon](entities/RemoraCarbon.md) — Climate hardware company building retrofit systems for semi trucks and locomotives to capture exhaust CO2 and purify it into beverage-grade CO2.
 - [Chris Best](entities/ChrisBest.md) — Substack founder and CEO whose YC offsite episode links broken media incentives, paid newsletters, owned discovery, Substack Notes, and founder-mode persistence.
 - [Substack](entities/Substack.md) — Creator-media platform that began with paid newsletter infrastructure and later pushed toward owned discovery through the app and Substack Notes.
@@ -1781,6 +1787,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic AI Infrastructure Dependence](concepts/StrategicAIInfrastructureDependence.md) — Pattern where model labs, chip suppliers, and cloud providers need one another's scale while hedging single-counterparty dependence.
+- [Platform Ownership Transition](concepts/PlatformOwnershipTransition.md) — Risk pattern where a consumer platform's ownership, infrastructure, legal terms, and data practices change beneath a familiar product surface.
 - [Mobile Carbon Capture](concepts/MobileCarbonCapture.md) — Climate hardware pattern of capturing CO2 from moving freight vehicles and turning it into a usable product under demanding retrofit constraints.
 - [Founder Risk Deep Dive](concepts/FounderRiskDeepDive.md) — Founder-mode pattern of delegating broadly while going deep on the company's few highest technical, commercial, or organizational risks.
 - [Creator-Owned Audience](concepts/CreatorOwnedAudience.md) — Media pattern where creators build direct reader or listener relationships through email, subscriptions, and payment while still needing discovery.
