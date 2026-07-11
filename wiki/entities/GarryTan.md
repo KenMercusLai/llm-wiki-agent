@@ -2,7 +2,7 @@
 title: "Garry Tan"
 type: entity
 tags: [person, startups, venture-capital, y-combinator]
-sources: [socialradarspod-garrytan-final]
+sources: [socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,9 +14,12 @@ The source presents Tan as a builder-investor whose core identity is tied to mak
 
 Tan's Posterous experience is the cautionary center of the episode. The company benefited from the iPhone timing window, YC launch support, and fast growth, but later hit Instagram competition and founder disagreement. Tan frames the lesson as partly product and timing, but also [[CoFounderConflict]] and [[FounderHonesty]]: founders need candid conversations before avoidance becomes strategic and physical damage.
 
+[[socialradarspod-brianarmstrong-final]] adds Tan as an informal CEO coach for [[BrianArmstrong]] before and during early [[Coinbase]]. The source extends Tan's wiki role from founder-investor and YC institution builder into direct founder-support work for a [[StartupHighBetaBet]].
+
 ## Connections
 - [[YCombinator]], [[StartupSchool]], and [[Bookface]] - community and institution arc.
 - [[Posterous]] and [[StartupTimingWindows]] - founder/product case.
 - [[InitializedCapital]] and [[FounderInvestorLearning]] - investing and later founder-support path.
 - [[Microsoft]], [[Palantir]], and [[LargeCompanyOrganizationalInertia]] - early career and builder-value context.
 - [[JessicaLivingston]], [[CarolynLevy]], and [[TheSocialRadars]] - interview context.
+- [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], and [[FounderMotivationEvolution]] - coaching context added by the Armstrong episode.

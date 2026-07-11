@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -32,6 +32,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarspod-brianchesky2-final]] adds the operating-discipline sequel to the Airbnb YC case. Chesky says the founders treated YC as their last shot, built a strict weekly routine, reached ramen profitability, and followed [[PaulGraham]]'s advice to go to New York because their users were there. The episode makes [[UnscalableFounderWork]] a durable YC lesson: manual checks, host visits, photography, pricing help, and city-by-city supply work taught the team what the product needed to automate later.
 
+[[socialradarspod-brianarmstrong-final]] adds [[Coinbase]] as a Summer 2012 [[StartupHighBetaBet]]. [[JessicaLivingston]] recalls YC notes calling the company high beta, while [[BrianArmstrong]] says YC's first check helped him overcome self-doubt and leave [[Airbnb]]. The episode extends YC's selection branch into regulated crypto: the risky bet only became durable after user calls exposed the buy-button need, [[SiliconValleyBank]] forced [[AntiMoneyLaundering]] work into the product path, and [[EarlyFintechFraudControls]] made transaction growth survivable.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -49,3 +51,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - earliest-batch founder pivot added by the Huffman episode.
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - Winter 2009 survival and product-design case added by the Chesky episode.
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - operating-discipline lessons added by the second Chesky episode.
+- [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech case added by the Armstrong episode.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience](sources/socialradarspod-brianarmstrong-final.md) — The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, crypto compliance, SEC conflict, FTX, mission-focused company culture, fraud controls, and founder motivation.
 - [Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led](sources/socialradarspod-brianchesky2-final.md) — The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, market expansion, COVID crisis, stakeholder tradeoffs, emergency financing, layoffs, and founder-led functional reset.
 - [Social Radars Season 1 Wrap-Up and Season 2 Announcement](sources/socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 1, explain that seven planned episodes became nine, announce a roughly month-long recording break before Season 2, and preview selected video highlights on YouTube and Twitter.
 - [Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy](sources/socialradars-edithelliot-v3.md) — The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, nonprofit startup discipline, unrestricted funding, donor trust, and the Care Companion Program.
@@ -259,6 +260,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Brian Armstrong](entities/BrianArmstrong.md) — Coinbase co-founder and CEO whose episode connects Bitcoin curiosity, Airbnb payments, YC validation, compliance, fraud controls, mission focus, and founder motivation.
+- [Coinbase](entities/Coinbase.md) — Crypto wallet and exchange company used as a case for YC high-beta selection, buy-button product-market fit, regulated crypto trust, and early fintech fraud controls.
+- [FTX](entities/FTX.md) — Collapsed crypto exchange used in the Armstrong episode as a reputational shock and trust-structure contrast with Coinbase.
+- [Sam Bankman-Fried](entities/SamBankmanFried.md) — FTX founder discussed by Armstrong as a rapid-status crypto founder whose media rise, spending signals, and collapse became a cautionary case.
+- [Gary Gensler](entities/GaryGensler.md) — SEC chair discussed through Armstrong's view of Coinbase's crypto regulatory dispute.
+- [SEC](entities/SEC.md) — U.S. securities regulator appearing in the Coinbase source as the enforcement and regulatory-clarity counterparty.
+- [Silicon Valley Bank](entities/SiliconValleyBank.md) — Bank-transfer counterparty that forced Coinbase to confront AML policy before launching the buy feature.
+- [Mt. Gox](entities/MtGox.md) — Early Bitcoin exchange where Armstrong bought Bitcoin before Coinbase, used as a marker of rough early crypto access.
 - [Julian Weber](entities/JulianWeber.md) — Early Viaweb investor whose $10,000 check, legal work, and board role became a practical template for founder-friendly seed investing.
 - [Hacker News](entities/HackerNews.md) — Paul Graham-started online forum that helped Y Combinator while also creating persistent community-governance stress.
 - [Arc](entities/ArcLanguage.md) — Paul Graham's Lisp dialect that followed an unrealized browser-based development-platform idea after Viaweb.
@@ -1581,6 +1590,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Startup High-Beta Bet](concepts/StartupHighBetaBet.md) — YC selection frame for companies with high failure probability but unusually large upside, added through Coinbase.
+- [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, and regulator engagement as core crypto product strategy.
+- [Early Fintech Fraud Controls](concepts/EarlyFintechFraudControls.md) — Operational fraud controls needed before low-margin financial products are overwhelmed by abuse.
+- [Mission-Focused Company](concepts/MissionFocusedCompany.md) — Governance stance that explicitly narrows workplace focus to company mission and product.
+- [Founder Motivation Evolution](concepts/FounderMotivationEvolution.md) — Shift from proving oneself and fear-based drive toward durable motivation based on learning, joy, fulfillment, and responsibility.
 - [Startup Essay Distribution](concepts/StartupEssayDistribution.md) — Founder-audience pattern where useful startup essays make an institution legible and attract aligned builders before conventional brand proof exists.
 - [Startup Community Forum Burden](concepts/StartupCommunityForumBurden.md) — Operating cost of running an open founder or hacker forum, where distribution value comes with moderation and governance stress.
 - [Peer-to-Peer Marketplace Trust](concepts/PeerToPeerMarketplaceTrust.md) — Product-design problem of making stranger-to-stranger transactions feel safe through profiles, reciprocal reviews, payment handling, and reputation.

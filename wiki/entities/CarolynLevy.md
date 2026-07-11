@@ -2,7 +2,7 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,8 +12,11 @@ Carolyn Levy is one of the [[TheSocialRadars]] hosts in [[socialradarsseason1-wr
 
 Her role in the wiki is mainly source-contextual: she is part of the interview format that lets startup participants clarify details from [[NooraHealth]], [[Viaweb]], [[YCombinator]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Anybots]], [[PlanGrid]], [[DoorDash]], [[Gmail]], [[FriendFeed]], YC origin stories, nonprofit execution, and later company-building lessons.
 
+[[socialradarspod-brianarmstrong-final]] adds Levy as co-interviewer for [[BrianArmstrong]] on [[Coinbase]]. The episode extends her source role into crypto-fintech operations: the buy-button insight, compliance as product work, fraud risk, [[FTX]], [[MissionFocusedCompany]] policy, and founder motivation are drawn out as company-building lessons rather than only crypto-market commentary.
+
 ## Connections
 - [[JessicaLivingston]] and [[TheSocialRadars]] - co-host and show context.
+- [[BrianArmstrong]], [[Coinbase]], [[FTX]], [[RegulatedCryptoTrustStrategy]], [[EarlyFintechFraudControls]], and [[MissionFocusedCompany]] - Armstrong episode context.
 - [[EdithElliott]], [[PaulGraham]], [[BrianChesky]], [[SteveHuffman]], [[GarryTan]], [[DavidLieb]], [[TrevorBlackwell]], [[TracyYoung]], [[TonyXu]], and [[PaulBuchheit]] - interview subjects.
 - [[YCombinator]], [[SummerFoundersProgram]], [[NooraHealth]], [[CareCompanionProgram]], [[HackerNews]], [[Airbnb]], [[Reddit]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[Bump]], [[Flock]], [[GooglePhotos]], [[Viaweb]], [[Anybots]], [[PlanGrid]], [[TigerEye]], [[DoorDash]], [[Gmail]], and [[FriendFeed]] - main episode subjects.
 - [[FamilyCaregiverTraining]], [[NonprofitStartupDiscipline]], [[TrustBasedPhilanthropy]], [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[RealWorldConnectionProducts]], [[FounderIdeaPivot]], [[PlatformCommunityGovernance]], [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], [[StartupCommunityInfrastructure]], [[LowFrequencyLowValueProduct]], [[PowerUserDiscovery]], [[LargeCompanyRiskIncentives]], [[StartupInfrastructureImprovisation]], [[SecondTimeFounderOperatingJudgment]], [[ThreeSidedMarketplaceValidation]], [[FastFeedbackLoops]], and [[ProductLaunchUnderConstraint]] - recurring themes in the stories she helps draw out.

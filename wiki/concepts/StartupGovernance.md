@@ -2,7 +2,7 @@
 title: "Startup Governance"
 type: concept
 tags: [startup, governance, mission, founders]
-sources: [socialradars-edithelliot-v3, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1]
+sources: [socialradars-edithelliot-v3, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -26,6 +26,8 @@ Startup governance is the operating system of power inside a company: charter la
 
 [[socialradarspod-brianchesky2-final]] adds a crisis-and-refounding version through [[Airbnb]]. [[BrianChesky]] frames COVID as a moment when the company had to decide why it deserved to exist, which initiatives to shut down, how to trade off guest refunds against host trust, how to finance survival, and how to reorganize afterward. The episode turns governance into [[CrisisStakeholderLeadership]] and [[FounderLedFunctionalOrganization]]: principles, board framing, cash preservation, layoffs, one roadmap, and founder review become operating power, not only legal structure.
 
+[[socialradarspod-brianarmstrong-final]] adds [[Coinbase]] as a mission-scope governance case. [[BrianArmstrong]] says the 2020 [[MissionFocusedCompany]] policy followed internal conflict and an employee walkout, and that he had not previously been clear enough about what kind of company Coinbase would be. The source treats cultural scope as operating governance: what the company will discuss, what it will optimize for, and how it handles disagreement can become as consequential as formal board or ownership structure.
+
 ## Key Claims
 - Standard startup documents often leave purpose broad, which can later be interpreted through [[ShareholderPrimacy]] and investor expectations.
 - Mission-driven founders should define the mission early, write it into governing documents, and ensure co-founders, lawyers, board members, and employees share the same interpretation.
@@ -45,6 +47,7 @@ Startup governance is the operating system of power inside a company: charter la
 - Nonprofit governance can include explicit funding refusal rules when restricted grants would weaken the organization's ability to learn, operate, or preserve mission focus.
 - Post-acquisition governance can either preserve or weaken startup mechanics depending on whether ownership, equity, hiring, and decision rights fit the company's stage.
 - Crisis governance has to make stakeholder tradeoffs visible and then convert the reset into clearer operating design rather than only smaller budgets.
+- Mission-scope policies are governance choices when they define which conversations and conflicts belong inside the company operating system.
 
 ## Connections
 - [[EricRies]] - source of the governance frame.
@@ -65,3 +68,4 @@ Startup governance is the operating system of power inside a company: charter la
 - [[NooraHealth]], [[EdithElliott]], [[TrustBasedPhilanthropy]], and [[NonprofitStartupDiscipline]] - nonprofit funding-governance case from The Social Radars.
 - [[Reddit]], [[CondeNast|Conde Nast]], [[SteveHuffman]], [[YishanWang]], [[SamAltman]], and [[CorporateOwnedStartupConstraints]] - acquisition-and-spinout governance case from The Social Radars.
 - [[Airbnb]], [[BrianChesky]], [[KenChenault]], [[CrisisStakeholderLeadership]], and [[FounderLedFunctionalOrganization]] - crisis and refounding governance case from The Social Radars.
+- [[Coinbase]], [[BrianArmstrong]], [[MissionFocusedCompany]], and [[FounderMotivationEvolution]] - mission-scope governance case from The Social Radars.

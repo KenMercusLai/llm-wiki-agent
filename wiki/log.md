@@ -1916,6 +1916,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience
+
+Added source page for The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, regulated crypto trust, SEC conflict, FTX, mission-focused company culture, fintech fraud controls, and founder motivation. Created pages for Brian Armstrong, Coinbase, FTX, Sam Bankman-Fried, Gary Gensler, SEC, Silicon Valley Bank, Mt. Gox, Startup High-Beta Bet, Regulated Crypto Trust Strategy, Early Fintech Fraud Controls, Mission-Focused Company, and Founder Motivation Evolution; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Bitcoin, crypto market structure, AML/KYC concepts, customer validation pages, co-founder conflict, founder-investor learning, founder-product fit, startup governance, Garry Tan, Paul Buchheit, and Airbnb. No direct contradiction found; the source adds Armstrong's participant perspective on Coinbase, regulation, FTX, and company culture while extending the wiki's startup-validation and regulated-finance branches.
+
 ## [2026-07-11] ingest | Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led
 
 Added source page for The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, unscalable founder work, market expansion, Sequoia market reframing, COVID crisis, stakeholder tradeoffs, emergency debt financing, layoffs, and founder-led functional reset. Created pages for Greg McAdoo, Ken Chenault, Unscalable Founder Work, Crisis Stakeholder Leadership, and Founder-Led Functional Organization; updated overview, index, Brian Chesky, Airbnb, The Social Radars, Y Combinator, Paul Graham, Sequoia Capital, Joe Gebbia, Nate Blecharczyk, Peer-to-Peer Marketplace Trust, Founder Proximity, Customer Discovery By Doing Work, Design Led Growth, Startup Accelerator Batch Selection, Startup Governance, Trust As Business Asset, Stakeholder Capitalism, Profit And Cash Flow Quality, and Large Company Organizational Inertia. No direct contradiction found; the source extends the first Airbnb episode by showing how the same YC instincts around users, focus, trust, and detail reappeared during public-company crisis and post-crisis operating design.
@@ -1995,6 +1999,10 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-11] ingest | Social Radars Season 1 Wrap-Up and Season 2 Announcement
 
 Added source page for the short The Social Radars Season 1 wrap-up with Jessica Livingston and Carolyn Levy. The source says the show began as an idea the previous fall, launched in March, expanded from seven planned episodes to nine, would pause for about a month to record Season 2 interviews, and would publish selected Season 1 highlights on YouTube and Twitter. Updated overview, index, The Social Radars, Jessica Livingston, and Carolyn Levy. No direct contradiction found; the source contextualizes the existing Season 1 interview cluster rather than adding a new founder, company, or concept page.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 

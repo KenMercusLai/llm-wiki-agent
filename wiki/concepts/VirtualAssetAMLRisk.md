@@ -2,13 +2,15 @@
 title: "Virtual Asset AML Risk"
 type: concept
 tags: [crypto, finance, compliance, aml]
-sources: [ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]
-last_updated: 2026-07-07
+sources: [ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-11
 ---
 
 # Virtual Asset AML Risk
 
 Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, miners, wallets, or conversion services as one layer in a broader laundering or fund-transfer chain. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] treats virtual assets as neither magic anonymity nor automatically suspicious; their risk comes from identity opacity, cross-border liquidity, conversion routes, and combination with other assets.
+
+[[socialradarspod-brianarmstrong-final]] adds the exchange-operator side through [[Coinbase]]. [[BrianArmstrong]] says adding bank transfers forced the company to learn [[AntiMoneyLaundering]] and build a trusted posture. The source therefore complements the user-risk view with the operator problem: if a virtual-asset company wants banking access, AML policy and transaction controls become part of product feasibility.
 
 ## Key Claims
 - Public blockchains can make transactions visible, but identifying the person behind an address or exchange account may still be hard.
@@ -16,6 +18,7 @@ Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, mine
 - Overseas exchanges, miners, mining equipment, precious metals, options, stocks, and property can be combined to create additional layers.
 - Virtual assets can increase tracing complexity, but the episode does not describe them as a perfect or risk-free laundering tool.
 - For ordinary users, the key risk is interacting with counterparties or platforms whose source of funds cannot be explained if a bank or investigator asks.
+- For exchange operators, virtual-asset AML risk can block core user features such as bank-funded purchases unless the company can explain its controls to banks and regulators.
 
 ## Connections
 - [[AntiMoneyLaundering]] — compliance frame for suspicious virtual-asset flows.
@@ -24,3 +27,4 @@ Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, mine
 - [[Bitcoin]] — volatile crypto asset contrasted with stablecoin-like instruments.
 - [[Stablecoins]] — dollar-like virtual-asset infrastructure with AML and regulatory implications.
 - [[UndergroundMoneyTransferRisk]] — platforms and informal conversion routes can overlap with virtual-asset movement.
+- [[Coinbase]], [[SiliconValleyBank]], and [[RegulatedCryptoTrustStrategy]] — operator-side AML branch added by the Armstrong episode.

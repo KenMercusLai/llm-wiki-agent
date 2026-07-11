@@ -2,7 +2,7 @@
 title: "Founder-Investor Learning"
 type: concept
 tags: [startup, venture-capital, founders]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, tsr-s2-trevorblackwell-v2]
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -20,6 +20,8 @@ The concept explains why early YC was not only capital allocation. It combined s
 
 [[socialradarspod-garrytan-final]] adds [[GarryTan]] as a broader version of the same loop. Tan moved from [[StartupSchool]] attendee to YC founder with [[Posterous]], then to YC designer and partner, then to [[InitializedCapital]], and finally back to [[YCombinator]] as president and CEO. The source expands founder-investor learning beyond seed advice: founder conflict, product timing, community software, later-stage fundraising, and investor integrity all become part of what experienced builders can return to the next generation.
 
+[[socialradarspod-brianarmstrong-final]] adds the psychological side of first-check learning through [[BrianArmstrong]]. He says he might not have started [[Coinbase]] without [[YCombinator]]'s initial check, and [[GarryTan]] later served as an informal CEO coach. The source shows founder-investor learning as confidence transfer: early capital and repeated advice can make a risky idea feel real enough for the founder to commit.
+
 ## Key Claims
 - Painful fundraising experience can become product insight when founders later design investor services.
 - A single helpful early investor can become a template when the founders remember both the money and the non-money help.
@@ -29,6 +31,7 @@ The concept explains why early YC was not only capital allocation. It combined s
 - The advisor role is strongest when it gives founders sharper evidence standards while leaving the final decision and accountability with them.
 - Founder support can become a post-operating career when the founder's strongest remaining interest is helping other builders make better decisions.
 - Founder-investor learning can include institution-building work such as [[Bookface]] and [[StartupCommunityInfrastructure]], not only one-on-one advice or capital.
+- Early investor belief can change founder psychology before it changes company economics.
 
 ## Connections
 - [[Viaweb]], [[YCombinator]], [[TrevorBlackwell]], [[PaulGraham]], and [[JulianWeber]] - source path from founder experience to investor design.
@@ -39,3 +42,4 @@ The concept explains why early YC was not only capital allocation. It combined s
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], [[CustomerPull]], and [[PreProductSelling]] - later YC partner and angel-investor branch added by the Buchheit episode.
 - [[DavidLieb]], [[Bump]], [[GooglePhotos]], [[PowerUserDiscovery]], and [[PostAcquisitionFounderIdentity]] - founder-operator-to-YC branch added by the Lieb episode.
 - [[GarryTan]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[FounderHonesty]], and [[StartupCommunityInfrastructure]] - founder, investor, and institution-builder branch added by the Tan episode.
+- [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], and [[FounderMotivationEvolution]] - Armstrong episode branch where YC validation and coaching help a founder commit.
