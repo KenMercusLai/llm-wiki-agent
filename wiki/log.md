@@ -2322,3 +2322,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | AI makes it easier to code websites — including ones that scam consumers
+
+Added source page for the Marketplace Tech episode on AI-assisted scam websites, a fake Davines sponsored search result, and the way AI coding agents lower the cost of convincing brand impersonation. Created pages for Davines, Netcraft, Ginny Spicer, Coalfire, Charles Henderson, Silent Push, Zach Edwards, Lana Swartz, University of Virginia, AI-Assisted Website Scams, Fake Retail Website Impersonation, Search Ad Trust Gap, and Brand Impersonation Monitoring; updated overview, index, and related Marketplace Tech, Google, search-ad, and fraud pages. No direct contradiction found; the source qualifies AI-enabled scam industrialization by showing website production and paid search placement as another scaling path for fraud.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

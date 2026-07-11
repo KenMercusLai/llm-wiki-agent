@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI makes it easier to code websites - including ones that scam consumers](sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Megan McCarty-Corino on AI-assisted scam websites, a fake Davines sponsored search result, brand impersonation, search-ad trust, and cybersecurity monitoring by Netcraft, Coalfire, and Silent Push.
 - [Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs](sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews source links and publisher traffic, Palantir's move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance.
 - [Meta's big bet on superintelligence](sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI capex, ad-targeting payoff, Meta AI's consumer-adoption gap, Ray-Ban smart glasses, personal superintelligence, privacy tension, and AI overtaking VR inside Meta's priorities.
 - [Can software companies survive the AI boom?](sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against SaaS, the gap between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, agent-heavy workplaces, consumption/outcome pricing, and SaaS consolidation.
@@ -297,6 +298,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
+- [Netcraft](entities/Netcraft.md) — Cybersecurity company cited for identifying AI-generated websites impersonating brands.
+- [Ginny Spicer](entities/GinnySpicer.md) — Netcraft speaker explaining why AI-generated impersonation sites can look legitimate to ordinary consumers.
+- [Coalfire](entities/Coalfire.md) — Cybersecurity company represented by Charles Henderson in the Marketplace Tech episode on AI-assisted scam websites.
+- [Charles Henderson](entities/CharlesHenderson.md) — Coalfire expert framing AI scam websites as a cost, speed, and scale change rather than a new fraud category.
+- [Silent Push](entities/SilentPush.md) — Threat-intelligence company represented by Zach Edwards in the episode on smaller brands facing impostor sites.
+- [Zach Edwards](entities/ZachEdwards.md) — Silent Push speaker connecting AI-assisted fake-site production to brand monitoring and search-ad abuse.
+- [Lana Swartz](entities/LanaSwartz.md) — University of Virginia scholar framing AI infrastructure as a broader recalibration of online trust signals.
+- [University of Virginia](entities/UniversityOfVirginia.md) — Affiliation for Lana Swartz in the Marketplace Tech discussion of AI, scams, and trust signals.
 - [Google AI Overviews](entities/GoogleAIOverviews.md) — Google's AI-generated search-summary product, now tied in the wiki to source attribution, publisher traffic loss, and regulatory pressure.
 - [Daily Mail](entities/DailyMail.md) — Publisher example used to show AI Overview click-through losses and the economic stakes of AI answer attribution.
 - [European Commission](entities/EuropeanCommission.md) — EU regulator investigating Google over possible competition issues around digital publisher content and AI search.
@@ -350,7 +360,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Understanding America Study](entities/UnderstandingAmericaStudy.md) — USC-run panel used to randomize respondents into smartphone and non-smartphone survey modes.
 - [University of Southern California](entities/UniversityOfSouthernCalifornia.md) — Institution running the Understanding America Study panel used in the smartphone survey experiment.
 - [Pew Research Center](entities/PewResearchCenter.md) — Research organization whose smartphone-adoption estimates contextualize the shift toward mobile survey-taking.
-- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing the February 6, 2026 Bytes episode on SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok.
+- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on AI scam websites, Meta AI strategy, SaaS pressure, computing enrollment, crypto crime, and weekly tech news.
 - [Paresh Devey](entities/PareshDevey.md) — Wired senior writer whose Marketplace Tech analysis connects SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok to infrastructure and capital-market risk.
 - [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
 - [MGX](entities/MGX.md) — Investor named in the joint venture behind U.S. TikTok.
@@ -632,7 +642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
-- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, Apple/streaming/AI-ad news, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host/reporter framing episodes on AI scam websites, patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, AI search advertising, data-center debt risk, and AI slop.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -1629,7 +1639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Search, ads, mobile, cloud, and AI company now grounded by Conway's early PageRank, financing, distribution, AdWords, Gmail, and YouTube account.
+- [Google](entities/Google.md) — Search, ads, mobile, cloud, and AI company now grounded by early PageRank, distribution, AdWords, Gmail, AI search, TPUs, and sponsored-result trust risk.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
@@ -1850,6 +1860,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI-Assisted Website Scams](concepts/AIAssistedWebsiteScams.md) — Fraudulent websites made cheaper, faster, or more convincing through AI coding agents, generated copy, and automated site production.
+- [Fake Retail Website Impersonation](concepts/FakeRetailWebsiteImpersonation.md) — Scam pattern where a fraudulent e-commerce site imitates the official store, catalog, or brand surface of a legitimate retailer.
+- [Search Ad Trust Gap](concepts/SearchAdTrustGap.md) — Mismatch between how trustworthy sponsored search placement feels to users and what paid placement actually proves.
+- [Brand Impersonation Monitoring](concepts/BrandImpersonationMonitoring.md) — Operational need for brands to find, verify, and respond to fake domains, ads, storefronts, and other impersonation surfaces.
 - [AI Answer Source Attribution](concepts/AIAnswerSourceAttribution.md) — Source-visibility, trust, traffic, and regulation problem created when AI search answers summarize publisher material.
 - [South Florida Tech Migration](concepts/SouthFloridaTechMigration.md) — Business-geography pattern where Miami and nearby Florida markets attract technology and finance firms through taxes, regulation, politics, and symbolism.
 - [Consumer Camera Surveillance](concepts/ConsumerCameraSurveillance.md) — Privacy and governance problem created when consumer camera devices become searchable AI-enabled neighborhood networks.

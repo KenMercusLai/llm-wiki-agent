@@ -2,7 +2,7 @@
 title: "Megan McCarty-Corino"
 type: entity
 tags: [journalist, podcast, technology]
-sources: [tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
+sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
 last_updated: 2026-07-12
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Megan McCarty-Corino is the [[MarketplaceTech]] host named in [[3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]]. In this episode, she frames the question of why 3D printing has not made prosthetic limbs much cheaper after roughly a decade of public expectation.
 
 Her role in the wiki is mainly as interview context. The episode uses her questions to move from consumer 3D-printing hype toward [[ThreeDPrintedProsthetics]], [[ProstheticInsuranceCoverage]], [[AssistiveDeviceClassification]], and global access logistics.
+
+[[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]] adds McCarty-Corino as the reporter whose near-purchase from a fake [[Davines]] shopping site anchors a [[MarketplaceTech]] episode on [[AIAssistedWebsiteScams]]. Her experience connects ordinary mobile shopping to [[FakeRetailWebsiteImpersonation]], [[SearchAdTrustGap]], and [[BrandImpersonationMonitoring]]: the fake site looked official enough that the decisive warning came from checking the URL.
 
 [[tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128]] adds McCarty-Corino as the host of a patient-facing healthcare-AI episode with [[HassanBenchikran]]. Her framing turns the "Dr. Google" to "Dr. AI" shift into a clinician-trust question, connecting [[PatientAIUse]], [[DoctorGuidedAIInterpretation]], [[AIHealthManagement]], and [[HumanJudgmentUnderAI]].
 
@@ -30,6 +32,7 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 
 ## Connections
 - [[MarketplaceTech]] - show context.
+- [[Davines]], [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], [[SearchAdTrustGap]], and [[BrandImpersonationMonitoring]] - AI-assisted retail scam episode anchored by her reporting.
 - [[HassanBenchikran]], [[PatientAIUse]], and [[DoctorGuidedAIInterpretation]] - patient-facing healthcare-AI episode topics added by the 2025-12-22 source.
 - [[BrittYoung]] - interview guest.
 - [[ThreeDPrintedProsthetics]] and [[ProstheticInsuranceCoverage]] - main topic areas of the interview.
