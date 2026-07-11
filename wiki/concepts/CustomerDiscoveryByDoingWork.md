@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-11
 ---
 
@@ -18,6 +18,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[tsr-s2-adoracheung-v5]] adds the home-services version through [[AdoraCheung]] and [[Homejoy]]. Cheung cleaned houses herself and also took cleaning jobs to learn the tools, chemicals, sequencing, pair-work, and reliability requirements behind the service. The source shows that doing the work can reveal supply quality requirements, but it also warns that field learning has to become [[ServiceMarketplaceQualityControl]] before expansion.
 
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Prim]] as another service-work case. [[YinWu]] personally picked up, washed, folded, and delivered laundry for the first three months, which exposed the operational reality behind a same-day laundry promise. The episode's twist is that doing the work helped Yin learn the market but also helped her see that she lacked long-term [[FounderUserObsession]] for laundry operations.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
@@ -27,6 +29,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - The same pattern can apply to marketplace supply quality: doing work for suppliers can reveal why demand is blocked even when the underlying offering is good.
 - Payment, pricing, and presentation work can be discovery surfaces because they show where a transaction still depends on founder intervention.
 - Doing the service personally can reveal quality-control requirements that interviews and marketplace dashboards would miss.
+- Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -36,3 +39,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[BrianChesky]], [[JoeGebbia]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - host-fieldwork case added by the Chesky episode.
 - [[UnscalableFounderWork]] - second Chesky episode's explicit frame for manual work before scalable systems.
 - [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
+- [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.

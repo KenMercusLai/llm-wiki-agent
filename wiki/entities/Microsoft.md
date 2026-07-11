@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
+sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
 last_updated: 2026-07-11
 ---
 
@@ -24,6 +24,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 
 [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds Microsoft through [[AltosComputer]]'s Zenix relationship. [[RonConway]] says Altos sold applications around Microsoft's Unix shell and once took a floppy disk to Microsoft for an urgent bug fix, making Microsoft part of the early microcomputer software ecosystem that preceded the PC wave Altos failed to meet.
 
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds Microsoft through [[EchoLocker]], [[YinWu]]'s lock-screen notification and priority-inbox product. The product was acquired by Microsoft after Yin's team restarted from [[Prim]] and went through [[YCombinator]] again in Summer 2013, making Microsoft part of her pre-[[Pulley]] founder-learning arc.
+
 ## Connections
 - [[Nvidia]] — supplier discussed through GPU and AI infrastructure demand.
 - [[Google]] and [[Amazon]] — peer hyperscaler customers in the episode's capex-risk frame.
@@ -35,3 +37,4 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[WeiQing]], [[SilentProtagonist]], and [[AIOrganizationDesign]] — organization-transformation and AI-adoption context added by the Wuren Zhixiao episode.
 - [[GarryTan]], [[YCombinator]], and [[LargeCompanyOrganizationalInertia]] — early-career builder contrast added by The Social Radars.
 - [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
+- [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.

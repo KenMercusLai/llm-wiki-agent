@@ -2,7 +2,7 @@
 title: "Startup School"
 type: entity
 tags: [event, startups, y-combinator]
-sources: [tsr-s2-adoracheung-v5, socialradarspod-garrytan-final]
+sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-garrytan-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,8 +14,11 @@ The episode uses Startup School as an early signal of [[BuilderCenteredInstituti
 
 [[tsr-s2-adoracheung-v5]] adds a product-history turn through [[AdoraCheung]]. She says that around 2017, acceptance and rejection emails were accidentally reversed for the Startup School mentoring component, and that the response helped push Startup School toward being open to anyone who signed up. In this source, the mistake becomes an example of YC converting an operational error into broader access.
 
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[YinWu]]'s 2010 Stanford event story. [[BASES]] helped [[YCombinator]] host Startup School at [[StanfordUniversity]], but the auditorium was not fully confirmed until the night before, forcing Yin and others to solve a high-stakes logistics problem before hundreds of attendees and major speakers arrived. The episode makes Startup School part of Yin's founder-origin story because the event, [[JessicaLivingston]]'s encouragement, and the local builder environment helped make startups feel possible.
+
 ## Connections
 - [[GarryTan]], [[JessicaLivingston]], and [[YCombinator]] - source event context.
 - [[AdoraCheung]] - YC partner connected to the accidental open-access shift.
+- [[YinWu]], [[BASES]], and [[StanfordUniversity]] - 2010 Stanford event and founder-origin context added by the Yin Wu episode.
 - [[BuilderCenteredInstitutions]] and [[StartupCommunityInfrastructure]] - concepts the event helps illustrate.
 - [[StartupAcceleratorBatchSelection]] - adjacent YC process that followed application.

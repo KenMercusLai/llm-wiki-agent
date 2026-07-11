@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
 - [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
 - [Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems](sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final.md) — The Social Radars episode with Kyle Vogt on Justin.tv's live-streaming backpack, Twitch's gaming pivot, Cruise's self-driving MVP, hard-tech fundraising, robotaxi economics, safety benchmarking, and the General Motors acquisition.
 - [Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures](sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final.md) — The Social Radars episode with Yuri Sagalov on AeroFS's enterprise file-sync opportunity, peer-to-peer synchronization risk, the Redbooth merger, YC, angel investing, founder-led sales, investor reference checking, and Wayfinder Ventures.
@@ -270,6 +271,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yin Wu](entities/YinWu.md) — Pulley founder and CEO whose episode links Stanford Startup School, repeated YC pivots, Prim, Echo Locker, Microsoft, founder user obsession, cap table literacy, and founder resilience.
+- [Pulley](entities/Pulley.md) — Founder-focused equity and cap-table software company built around cap table visibility, fundraising modeling, offer letters, compliant issuance, founder control, and trust.
+- [Carta](entities/Carta.md) — Cap-table management incumbent contrasted with Pulley through founder access, late-stage workflow focus, and trust-sensitive switching after privacy and secondary-sale concerns.
+- [Prim](entities/Prim.md) — Yin Wu's same-day laundry delivery startup used as a case in doing the work, local-service operations, and the limit of solving one's own problem without durable user obsession.
+- [Echo Locker](entities/EchoLocker.md) — Lock-screen notification and priority-inbox product Yin Wu restarted around in YC Summer 2013 before Microsoft acquired it.
 - [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episode traces National Semiconductor, Altos, Band of Angels, and the pre-SV Angel apprenticeship behind his founder-helper investing style.
 - [SV Angel](entities/SVAngel.md) — Ron Conway's later institutional context named in the source metadata; current page is intentionally narrow until later Conway episodes cover the SV Angel era directly.
 - [National Semiconductor](entities/NationalSemiconductor.md) — Conway's first Silicon Valley employer and a source case for semiconductor sales culture, equity compensation, customer relationships, and talent genealogy.
@@ -1654,6 +1660,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cap Table Literacy](concepts/CapTableLiteracy.md) — Founder ability to understand ownership, dilution, employee pools, investor rights, and control before financing and hiring decisions become irreversible.
+- [Founder Equity Dilution](concepts/FounderEquityDilution.md) — Ownership reduction from co-founders, advisors, accelerators, early investors, option pools, and later rounds, with consequences for motivation and fundraising.
+- [Fundraising Scenario Modeling](concepts/FundraisingScenarioModeling.md) — Practice of modeling SAFEs, pro rata rights, MFNs, valuation, employee pools, dilution, and control before founders sign financing documents.
+- [Employee Equity Communication](concepts/EmployeeEquityCommunication.md) — Founder discipline of explaining startup equity, offer letters, upside, and risk clearly enough for recruits and employees to make informed decisions.
+- [Founder Control](concepts/FounderControl.md) — Practical ability of founders to retain enough ownership, board influence, and governance clarity to lead through strong and weak company conditions.
+- [Trust-Sensitive SaaS Switching](concepts/TrustSensitiveSaaSSwitching.md) — Pattern where trust, privacy, or control incidents make customers willing to endure SaaS migration pain.
+- [Founder User Obsession](concepts/FounderUserObsession.md) — Durable desire to spend years serving a specific user, beyond merely solving one's own initial problem.
+- [Future-Oriented Fundraising Pitch](concepts/FutureOrientedFundraisingPitch.md) — Fundraising narrative discipline of making the company's future scale legible while staying grounded in current customer evidence.
+- [Founder Resilience](concepts/FounderResilience.md) — Practical ability to keep learning, rebuilding, selling, and serving customers through repeated setbacks without confusing persistence with denial.
 - [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
 - [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
 - [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.

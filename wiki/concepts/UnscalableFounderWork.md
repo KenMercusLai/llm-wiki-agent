@@ -2,7 +2,7 @@
 title: "Unscalable Founder Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -18,6 +18,8 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 
 [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds the boundary case through [[ParkerConrad]], [[Zenefits]], and [[Rippling]]. Conrad accepts YC's lesson that early unscalable work can be correct, but argues Zenefits let manual back-office work become the operating system after demand surged. This turns the useful early practice into [[ManualOperationsDebt]] when the company does not convert learning into automation, controls, and reliable software quickly enough.
 
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Prim]] through [[YinWu]] personally doing laundry pickup, washing, folding, and delivery. The source reinforces that unscalable work is a learning method, not a proof of destiny: Yin learned the service but decided she was not motivated enough by laundry operations to spend the next five to ten years there.
+
 ## Key Claims
 - Work that cannot scale can still be the fastest way to understand which scalable system to build.
 - Early manual operations are most useful when founders are learning directly from users, not merely compensating for missing product polish.
@@ -27,6 +29,7 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - Manual payment operations can validate demand, but they must eventually become risk controls, automation, and reliable infrastructure.
 - Manual service work can validate supply quality, but it must become training, process, and reliability systems before geography and headcount scale.
 - Manual operations become debt when they hide product gaps while growth, compliance, support load, and gross-margin pressure compound.
+- Early manual work can expose founder motivation as well as customer process; sometimes the right lesson is to leave the domain.
 
 ## Connections
 - [[Airbnb]], [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] - source case and founding team.
@@ -36,3 +39,4 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - [[WePay]], [[BillClerico]], [[RichAberman]], and [[PaymentsInfrastructurePivot]] - payments case where manual operations preceded infrastructure.
 - [[Zenefits]], [[Rippling]], [[ParkerConrad]], and [[ManualOperationsDebt]] - boundary case where manual operations failed to become scalable software fast enough.
 - [[Homejoy]], [[AdoraCheung]], [[ScalingBrokenProduct]], and [[ServiceMarketplaceQualityControl]] - service-marketplace case added by the Adora Cheung episode.
+- [[Prim]], [[YinWu]], [[FounderProductFit]], and [[FounderUserObsession]] - service-work boundary case added by the Yin Wu episode.
