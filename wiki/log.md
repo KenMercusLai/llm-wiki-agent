@@ -1987,3 +1987,11 @@ Added source page for The Social Radars episode with Edith Elliott on Noora Heal
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,598 nodes and 25,116 edges while the wiki scan found 2,624 pages; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-11] ingest | Social Radars Season 1 Wrap-Up and Season 2 Announcement
+
+Added source page for the short The Social Radars Season 1 wrap-up with Jessica Livingston and Carolyn Levy. The source says the show began as an idea the previous fall, launched in March, expanded from seven planned episodes to nine, would pause for about a month to record Season 2 interviews, and would publish selected Season 1 highlights on YouTube and Twitter. Updated overview, index, The Social Radars, Jessica Livingston, and Carolyn Levy. No direct contradiction found; the source contextualizes the existing Season 1 interview cluster rather than adding a new founder, company, or concept page.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
