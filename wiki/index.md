@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Alexandr Wang on Scale and AI Data Infrastructure](sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3.md) — The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, image and text labeling, autonomous-vehicle data, defense work, generative AI resource shift, MEI culture stance, and agent data.
 - [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
 - [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
 - [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
@@ -274,6 +275,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alexandr Wang](entities/AlexandrWang.md) — Scale AI founder and CEO whose Social Radars episode links YC, early manual labeling, autonomous-vehicle data, defense work, generative AI data, and agent data.
+- [Quora](entities/Quora.md) — Gap-year work context for Alexandr Wang before MIT and Scale AI.
+- [Adam D'Angelo](entities/AdamDAngelo.md) — Quora executive who advised Alexandr Wang to attend at least some college before founding Scale.
+- [Teespring](entities/Teespring.md) — Early Scale AI customer whose T-shirt categorization work Wang handled manually.
+- [Accel](entities/Accel.md) — Venture firm represented by Dan Levine's pre-Demo-Day funding offer to Scale AI.
+- [Dan Levine](entities/DanLevine.md) — Accel investor who offered to fund Scale AI before YC Demo Day.
+- [US Department of Defense](entities/USDepartmentOfDefense.md) — Government customer context for Scale AI's 2020 defense and Ukraine satellite-imagery work.
 - [Harj Taggar](entities/HarjTaggar.md) — YC Winter 2007 founder, early YC investor-relations operator, Triplebyte founder, and later YC partner.
 - [Triplebyte](entities/Triplebyte.md) — Engineering-hiring company built around direct skill assessment beyond credentials, used as a case in the limits of objective hiring prediction.
 - [BoSo](entities/BoSo.md) — Harj and Kulvir Taggar's YC Winter 2007 student marketplace idea before the shift into Automatic Auctions.
@@ -1689,6 +1697,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Data Infrastructure](concepts/AIDataInfrastructure.md) — Systems, labor, quality control, feedback, and expert task data that make AI model training and improvement possible.
+- [Agent Data](concepts/AgentData.md) — Process data about how people think, gather information, check constraints, and act while completing tasks.
+- [Merit, Excellence, and Intelligence](concepts/MeritExcellenceIntelligence.md) — Scale AI's source-described culture and hiring stance around meritocracy, excellence, talent, and diversity debates.
+- [Do Too Much Founder Philosophy](concepts/DoTooMuchFounderPhilosophy.md) — Alexandr Wang's founder response pattern for overreacting deliberately to major technology shifts.
 - [Startup Legitimacy Transfer](concepts/StartupLegitimacyTransfer.md) — Pattern where an accelerator, investor, or institution lends credibility, ambition, and access to founders before ordinary traction exists.
 - [Objective Hiring Assessment](concepts/ObjectiveHiringAssessment.md) — Hiring model that uses direct skill evidence beyond credentials while still facing team-fit, culture, values, and prediction limits.
 - [Marketplace Friction Reduction](concepts/MarketplaceFrictionReduction.md) — Marketplace product discipline of removing practical, emotional, trust, and decision burdens that block participant behavior.

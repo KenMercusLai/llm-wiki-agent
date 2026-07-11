@@ -2,7 +2,7 @@
 title: "Unscalable Founder Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-11
 ---
 
@@ -22,6 +22,8 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 
 [[tsr-s3-eddylu-v2-tsr-s3-eddylu-v2]] adds the [[GOAT]] version through [[EddyLu]] and [[Daishen]]. The founders operated cream puff stores while coding, secretly bought an early GOAT sale to keep morale up, and manually sourced and hand-delivered a sneaker for [[AdamBain]]. The source treats this work as useful because it exposed operations, trust, and customer-service needs that later became [[MarketplaceFrictionReduction]] and [[AuthenticationLedMarketplaceTrust]].
 
+[[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] adds the [[ScaleAI]] version through [[AlexandrWang]]. Wang personally stayed up labeling and categorizing T-shirt designs for [[Teespring]], turning early data-labeling work into direct product and operations learning before the company expanded into autonomous-vehicle data, defense imagery, and generative AI.
+
 ## Key Claims
 - Work that cannot scale can still be the fastest way to understand which scalable system to build.
 - Early manual operations are most useful when founders are learning directly from users, not merely compensating for missing product polish.
@@ -33,6 +35,7 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - Manual operations become debt when they hide product gaps while growth, compliance, support load, and gross-margin pressure compound.
 - Early manual work can expose founder motivation as well as customer process; sometimes the right lesson is to leave the domain.
 - Manual customer service can create durable relationships when it reveals what a trusted marketplace must eventually systematize.
+- Manual data labeling can reveal workflow, quality, and customer requirements before an AI-data platform can automate or scale them.
 
 ## Connections
 - [[Airbnb]], [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] - source case and founding team.
@@ -44,3 +47,4 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - [[Homejoy]], [[AdoraCheung]], [[ScalingBrokenProduct]], and [[ServiceMarketplaceQualityControl]] - service-marketplace case added by the Adora Cheung episode.
 - [[Prim]], [[YinWu]], [[FounderProductFit]], and [[FounderUserObsession]] - service-work boundary case added by the Yin Wu episode.
 - [[GOAT]], [[EddyLu]], [[Daishen]], [[AdamBain]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - marketplace and customer-service case added by the Eddy Lu episode.
+- [[ScaleAI]], [[AlexandrWang]], [[Teespring]], and [[AIDataInfrastructure]] - data-labeling case added by the Scale episode.

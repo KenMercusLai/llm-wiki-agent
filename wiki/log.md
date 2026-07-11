@@ -2118,3 +2118,19 @@ Added source page for The Social Radars episode with Harj Taggar on BoSo, Automa
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Alexandr Wang on Scale and AI Data Infrastructure
+
+Added source page for The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, manual data-labeling origins, autonomous-vehicle data, defense and Ukraine satellite-imagery work, generative AI resource shift, MEI culture stance, and agent data. Created pages for Alexandr Wang, Quora, Adam D'Angelo, Teespring, Accel, Dan Levine, US Department of Defense, AI Data Infrastructure, Agent Data, Merit/Excellence/Intelligence, and Do Too Much Founder Philosophy; updated Scale AI, overview, index, Data As Education, Data Engine Learning Loop, Founder Idea Pivot, Startup High-Beta Bet, Unscalable Founder Work, and Human-Agent Collaboration. No direct contradiction found; the source extends Scale from a Data Factory comparator into a first-person founder account of AI-data infrastructure becoming central as model capabilities and workflows changed.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] graph | Knowledge graph rebuilt
+
+2816 nodes, 27906 edges (27906 extracted, 0 inferred).
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
