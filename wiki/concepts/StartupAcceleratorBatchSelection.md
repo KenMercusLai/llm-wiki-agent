@@ -2,7 +2,7 @@
 title: "Startup Accelerator Batch Selection"
 type: concept
 tags: [startup, venture-capital, selection]
-sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
+sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, tsr-s2-trevorblackwell-v2]
 last_updated: 2026-07-11
 ---
 
@@ -20,6 +20,8 @@ The source's main lesson is that batch selection mixes process design with judgm
 
 [[socialradarspod-brianchesky-final]] adds the survival-under-stress version through [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], and [[Airbnb]]. YC did not initially like the stranger-lodging idea, but the team's cereal boxes, debt, and continued attempts during the 2008 financial crisis showed persistence. This makes batch selection partly a test of whether founders can keep learning and selling before the idea is conventionally credible.
 
+[[socialradarspod-brianchesky2-final]] adds the post-selection discipline version. Chesky says Airbnb treated YC as the final shot, created a strict routine, tracked weekly revenue toward ramen profitability, and turned [[PaulGraham]]'s advice into New York fieldwork. Selection therefore did not end at admission; the batch environment forced the team into cadence, focus, and [[UnscalableFounderWork]].
+
 [[socialradars-edithelliot-v3]] adds the nonprofit-track version through [[EdithElliott]] and [[NooraHealth]]. [[YCombinator]] had put out a call for nonprofits, and the Noora team applied before it was formally registered as an entity. The case widens batch selection beyond equity-backed software: YC could still select for a massive problem, strong field evidence, founder commitment, and an operating model that could benefit from startup pressure.
 
 ## Key Claims
@@ -31,6 +33,7 @@ The source's main lesson is that batch selection mixes process design with judgm
 - Batch selection must be paired with community infrastructure once the batch becomes too large for informal recognition.
 - A selection process can be right about an idea being weak and still need to revise its decision when the founding team signal is strong.
 - Founder survival behavior can be selection evidence when market proof is thin but the team keeps finding scrappy ways to stay alive and learn.
+- Batch pressure can turn selection into operating discipline when founders use the program to create routine, urgency, and direct user contact.
 - Nonprofit selection can use many startup signals without pretending that market revenue is the only valid proof; field evidence, intervention leverage, and operating discipline can also matter.
 
 ## Connections
@@ -41,4 +44,5 @@ The source's main lesson is that batch selection mixes process design with judgm
 - [[GarryTan]], [[Bookface]], and [[StartupCommunityInfrastructure]] - scaling layer added by the Tan episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], and [[FounderIdeaPivot]] - founder-over-idea lesson added by the Huffman episode.
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], and [[FounderCashFlowConstraint]] - survival-under-stress lesson added by the Chesky episode.
+- [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - post-selection operating discipline added by the second Chesky episode.
 - [[EdithElliott]], [[NooraHealth]], [[FamilyCaregiverTraining]], and [[NonprofitStartupDiscipline]] - nonprofit-track selection lesson added by the Elliott episode.

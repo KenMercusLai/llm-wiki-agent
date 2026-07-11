@@ -1916,6 +1916,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led
+
+Added source page for The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, unscalable founder work, market expansion, Sequoia market reframing, COVID crisis, stakeholder tradeoffs, emergency debt financing, layoffs, and founder-led functional reset. Created pages for Greg McAdoo, Ken Chenault, Unscalable Founder Work, Crisis Stakeholder Leadership, and Founder-Led Functional Organization; updated overview, index, Brian Chesky, Airbnb, The Social Radars, Y Combinator, Paul Graham, Sequoia Capital, Joe Gebbia, Nate Blecharczyk, Peer-to-Peer Marketplace Trust, Founder Proximity, Customer Discovery By Doing Work, Design Led Growth, Startup Accelerator Batch Selection, Startup Governance, Trust As Business Asset, Stakeholder Capitalism, Profit And Cash Flow Quality, and Large Company Organizational Inertia. No direct contradiction found; the source extends the first Airbnb episode by showing how the same YC instincts around users, focus, trust, and detail reappeared during public-company crisis and post-crisis operating design.
+
 ## [2026-07-11] ingest | Garry Tan on Returning to Y Combinator
 
 Added source page for The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, Y Combinator, Bookface, Initialized Capital, founder honesty, co-founder conflict, startup timing windows, and builder-centered institutions. Created pages for Garry Tan, Posterous, Initialized Capital, Startup School, Bookface, Builder-Centered Institutions, Founder Honesty, Co-Founder Conflict, Startup Timing Windows, and Startup Community Infrastructure; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Palantir, Microsoft, Stanford University, Paul Graham, Founder Product Fit, Founder-Investor Learning, Fast Product Validation, Customer Pull, Large Company Organizational Inertia, and Startup Accelerator Batch Selection. No direct contradiction found; the source extends the wiki's startup branch by treating YC as a builder-centered institution and Posterous as a case where product timing, candid advice, and co-founder conflict all shaped the outcome.
@@ -1991,6 +1995,10 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-11] ingest | Social Radars Season 1 Wrap-Up and Season 2 Announcement
 
 Added source page for the short The Social Radars Season 1 wrap-up with Jessica Livingston and Carolyn Levy. The source says the show began as an idea the previous fall, launched in March, expanded from seven planned episodes to nine, would pause for about a month to record Season 2 interviews, and would publish selected Season 1 highlights on YouTube and Twitter. Updated overview, index, The Social Radars, Jessica Livingston, and Carolyn Levy. No direct contradiction found; the source contextualizes the existing Season 1 interview cluster rather than adding a new founder, company, or concept page.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 

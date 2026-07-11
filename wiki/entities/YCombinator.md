@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -30,6 +30,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarspod-brianchesky-final]] adds [[Airbnb]] as a Winter 2009 survival case. [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] applied after repeated investor rejection, credit card debt, weak launches, and the cereal-box fundraising stunt. [[JessicaLivingston]] and Graham saw founders who were tough enough to keep moving during the 2008 financial crisis, extending YC's batch-selection logic into [[FounderCashFlowConstraint]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]].
 
+[[socialradarspod-brianchesky2-final]] adds the operating-discipline sequel to the Airbnb YC case. Chesky says the founders treated YC as their last shot, built a strict weekly routine, reached ramen profitability, and followed [[PaulGraham]]'s advice to go to New York because their users were there. The episode makes [[UnscalableFounderWork]] a durable YC lesson: manual checks, host visits, photography, pricing help, and city-by-city supply work taught the team what the product needed to automate later.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -46,3 +48,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[BuilderCenteredInstitutions]], [[FounderHonesty]], [[CoFounderConflict]], [[StartupTimingWindows]], and [[StartupCommunityInfrastructure]] - institutional and founder-psychology concepts added by the Tan episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[FounderIdeaPivot]], and [[UserPoweredContentPlatform]] - earliest-batch founder pivot added by the Huffman episode.
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - Winter 2009 survival and product-design case added by the Chesky episode.
+- [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - operating-discipline lessons added by the second Chesky episode.

@@ -1,18 +1,24 @@
 ---
 title: "Brian Chesky"
 type: entity
-tags: [person, startups, hospitality, design]
-sources: [socialradarspod-brianchesky-final]
+tags: [person, startups, hospitality, design, crisis-leadership]
+sources: [socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-11
 ---
 
 # Brian Chesky
 
-Brian Chesky is the [[Airbnb]] co-founder and CEO interviewed in [[socialradarspod-brianchesky-final]]. The episode traces his path from industrial design training and early product work into the first AirBed & Breakfast experiment with [[JoeGebbia]], where a rent problem, sold-out conference hotels, and three air beds became a test of whether strangers could trust one another enough to share a home.
+Brian Chesky is the [[Airbnb]] co-founder and CEO interviewed in [[socialradarspod-brianchesky-final]] and [[socialradarspod-brianchesky2-final]]. The first episode traces his path from industrial design training and early product work into the first AirBed & Breakfast experiment with [[JoeGebbia]], where a rent problem, sold-out conference hotels, and three air beds became a test of whether strangers could trust one another enough to share a home.
 
 Chesky's founder fit in the source is unusually tied to hosting rather than travel. He says the company began because he liked bringing people into his world, then later connected that instinct to [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], and [[RealWorldConnectionProducts]]. The episode also presents him as a founder who survived long enough for a strange idea to become legible: repeated investor rejection, credit card debt, the cereal-box stunt, and [[YCombinator]]'s 2009 backing all become part of the same survival arc.
 
+The second episode extends Chesky from early-founder survival into crisis and late-stage operating design. He describes treating YC as a last shot, going to New York because [[PaulGraham]] insisted users should be visited directly, and turning manual host work into [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]]. The COVID section presents Chesky as a crisis CEO who refunded guests, angered and then supported hosts, raised emergency debt, cut initiatives, and used [[CrisisStakeholderLeadership]] to keep multiple stakeholder groups visible under severe pressure.
+
+Chesky's most explicit later-stage claim is about founder leadership. In [[socialradarspod-brianchesky2-final]], he argues that leadership is presence, not absence, and says Airbnb moved toward a [[FounderLedFunctionalOrganization]] with one roadmap, CEO reviews, and fewer disconnected initiatives. That claim creates a useful tension with standard scaling advice: the source treats detailed founder involvement as a route to coherence, while still depending on focus, judgment, and the founder's capacity not to become the bottleneck.
+
 ## Connections
 - [[Airbnb]], [[JoeGebbia]], and [[NateBlecharczyk]] - company and founding team.
-- [[MichaelSeibel]], [[JustinTV]], [[YCombinator]], [[PaulGraham]], and [[JessicaLivingston]] - accelerator and founder-network context.
-- [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderProductFit]], [[FounderCashFlowConstraint]], and [[RealWorldConnectionProducts]] - main concepts tied to the source.
+- [[MichaelSeibel]], [[JustinTV]], [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], and [[CarolynLevy]] - accelerator, founder-network, and interview context.
+- [[SequoiaCapital]], [[GregMcAdoo]], and [[KenChenault]] - investor and board-context figures from the second episode.
+- [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderProductFit]], [[FounderCashFlowConstraint]], and [[RealWorldConnectionProducts]] - early Airbnb concepts.
+- [[UnscalableFounderWork]], [[CrisisStakeholderLeadership]], [[FounderLedFunctionalOrganization]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]] - later-stage concepts added by the second episode.

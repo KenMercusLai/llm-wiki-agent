@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led](sources/socialradarspod-brianchesky2-final.md) — The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, market expansion, COVID crisis, stakeholder tradeoffs, emergency financing, layoffs, and founder-led functional reset.
 - [Social Radars Season 1 Wrap-Up and Season 2 Announcement](sources/socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 1, explain that seven planned episodes became nine, announce a roughly month-long recording break before Season 2, and preview selected video highlights on YouTube and Twitter.
 - [Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy](sources/socialradars-edithelliot-v3.md) — The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, nonprofit startup discipline, unrestricted funding, donor trust, and the Care Companion Program.
 - [Paul Graham on Viaweb, Y Combinator, and Writing](sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll.md) — The Social Radars episode with Paul Graham on Viaweb's browser-software origin, Julian Weber's early investment, Y Combinator's first batch, Hacker News, and Graham's shift from painting back to writing.
@@ -264,8 +265,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Summer Founders Program](entities/SummerFoundersProgram.md) — First Y Combinator program, initially a summer experiment that became the batch model.
 - [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
 - [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm whose early interest in a first-batch YC company helped validate Y Combinator.
-- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episode connects hosting, design school, air-bed origins, YC survival, founder fieldwork, and real-world connection.
-- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design.
+- [Greg McAdoo](entities/GregMcAdoo.md) — Sequoia Capital investor who helped reframe Airbnb from an air-bed idea into a broader vacation-rental and lodging marketplace opportunity.
+- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, and founder-led operating design.
+- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, and founder-led reset.
+- [Ken Chenault](entities/KenChenault.md) — Airbnb board member in the COVID crisis story who helped frame the travel collapse as an existential threat.
 - [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
 - [Nate Blecharczyk](entities/NateBlecharczyk.md) — Airbnb technical co-founder who helped turn the hosting insight into a working booking site and joined the team through the YC decision.
 - [Michael Seibel](entities/MichaelSeibel.md) — Justin.tv founder-network contact who housed Chesky in Austin, heard the Airbnb pitch, and introduced the founders to investors.
@@ -1583,6 +1586,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peer-to-Peer Marketplace Trust](concepts/PeerToPeerMarketplaceTrust.md) — Product-design problem of making stranger-to-stranger transactions feel safe through profiles, reciprocal reviews, payment handling, and reputation.
 - [Design For One Person](concepts/DesignForOnePerson.md) — Product-design method where founders perfect one concrete user's experience before trying to generalize to a broad market.
 - [Real-World Connection Products](concepts/RealWorldConnectionProducts.md) — Product pattern that deliberately turns convenience, hosting, place, or community back into human connection rather than isolated consumption.
+- [Unscalable Founder Work](concepts/UnscalableFounderWork.md) — Early-stage practice of doing manual, non-repeatable work to learn which product, trust, payment, and operations systems should later scale.
+- [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible.
+- [Founder-Led Functional Organization](concepts/FounderLedFunctionalOrganization.md) — Operating model where a scaling company uses functions, one roadmap, and direct founder review to preserve product coherence after drift or crisis.
 - [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
 - [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
 - [Corporate-Owned Startup Constraints](concepts/CorporateOwnedStartupConstraints.md) — Operating limits that appear when an acquired startup needs equity incentives and speed but sits inside a larger corporate parent.

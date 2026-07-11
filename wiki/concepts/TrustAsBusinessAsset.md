@@ -2,7 +2,7 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [socialradars-edithelliot-v3, socialradarspod-brianchesky-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
+sources: [socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
 last_updated: 2026-07-11
 ---
 
@@ -18,6 +18,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[socialradarspod-brianchesky-final]] adds the peer-to-peer marketplace version through [[Airbnb]]. [[BrianChesky]] says the first hosted stays exposed a trust problem: strangers needed enough confidence to sleep in one another's homes. Profiles, reciprocal reviews, and payment handling therefore became product infrastructure for [[PeerToPeerMarketplaceTrust]], not only safety or compliance features.
 
+[[socialradarspod-brianchesky2-final]] adds the crisis version of the same asset. Airbnb's COVID refunds protected guest trust but damaged host trust, forcing the company to commit money back to hosts and communicate more directly. The source shows that a trust asset can fragment across stakeholder groups; protecting one side of a marketplace can create a debt to another side.
+
 [[socialradars-edithelliot-v3]] adds the nonprofit donor version through [[NooraHealth]]. [[EdithElliott]] argues that philanthropists should understand the work and then trust nonprofits as experts, because excessive reporting and restricted funding can consume the very operating capacity donors intend to support. In this case, trust is both a fundraising asset and a governance condition for [[TrustBasedPhilanthropy]].
 
 ## Key Claims
@@ -30,6 +32,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - AI-era solo founders may need trust before scale: users who cannot inspect every generated artifact may rely on public history, relationship context, and personal accountability.
 - Financial-platform trust depends on visible refusals as well as visible services: a company may need to decline revenue paths to keep [[InvestmentForBetterLife]] credible.
 - Peer-to-peer marketplace trust has to be designed into identity, reputation, and payment flows because the product asks ordinary people to accept social risk.
+- Crisis decisions can spend trust with one stakeholder group to protect another, so repair mechanisms have to be part of the decision rather than an afterthought.
 - Nonprofit trust has to preserve operating room: donors can demand accountability through shared metrics without controlling every spending decision.
 
 ## Connections
@@ -41,4 +44,5 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[YuYi]], [[BuildingPublic]], and [[OnePersonCompany]] - personal-brand and public-trust branch added by S10E18.
 - [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], [[InvestmentForBetterLife]], and [[KnowingEnough]] - wealth-management trust branch added by E44.
 - [[Airbnb]], [[BrianChesky]], [[PeerToPeerMarketplaceTrust]], and [[RealWorldConnectionProducts]] - marketplace and connection branch added by the Chesky episode.
+- [[CrisisStakeholderLeadership]] and [[StakeholderCapitalism]] - second Chesky episode's COVID trust-tradeoff branch.
 - [[NooraHealth]], [[EdithElliott]], [[TrustBasedPhilanthropy]], and [[NonprofitStartupDiscipline]] - donor-trust branch added by the Elliott episode.

@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [socialradarspod-brianchesky-final, socialradarspod-tonyxu-final]
+sources: [socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,6 +14,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[socialradarspod-brianchesky-final]] adds a host-supply version through [[Airbnb]]. [[BrianChesky]] says he and [[JoeGebbia]] went to New York, visited hosts, noticed that homes were often better than their photos, and helped improve listings through photography. The founders were not only interviewing hosts; they were doing part of the work needed to make the marketplace trustworthy and bookable.
 
+[[socialradarspod-brianchesky2-final]] adds more operational detail to the same pattern. Airbnb's founders manually carried checks, handled payments before automation, helped with pricing, and built host supply city by city. The work revealed which pieces of the marketplace were operational bottlenecks and which should become product features later.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
@@ -21,6 +23,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - Field work should still become a testable product hypothesis; in this source it led to [[JankyMVP]] testing and [[ThreeSidedMarketplaceValidation]].
 - The pattern strengthens [[FounderProductFit]] when founders discover whether they are willing to keep engaging with the unglamorous parts of the market.
 - The same pattern can apply to marketplace supply quality: doing work for suppliers can reveal why demand is blocked even when the underlying offering is good.
+- Payment, pricing, and presentation work can be discovery surfaces because they show where a transaction still depends on founder intervention.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -28,3 +31,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[FounderProximity]] - scaled version of staying close to customers, merchants, and dashers.
 - [[CustomerPull]], [[FastProductValidation]], and [[ValidatedLearning]] - adjacent startup-learning concepts.
 - [[BrianChesky]], [[JoeGebbia]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - host-fieldwork case added by the Chesky episode.
+- [[UnscalableFounderWork]] - second Chesky episode's explicit frame for manual work before scalable systems.

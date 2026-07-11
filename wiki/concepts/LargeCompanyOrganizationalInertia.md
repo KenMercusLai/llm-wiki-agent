@@ -2,7 +2,7 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
+sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
 last_updated: 2026-07-11
 ---
 
@@ -28,6 +28,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 
 [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]] adds the ordinary-worker and nonfiction version through [[XiaoMan]] and [[DaChangXiaomin]]. It shows large-company inertia from the inside of middle-platform work, layoffs, outsourcing inequality, and report-driven content projects, while also acknowledging that rules, welfare, and severance can protect workers better than more arbitrary organizations. This source turns the concept toward [[SystemHumanity]]: whether large systems leave enough room for people to soften their own machinery.
 
+[[socialradarspod-brianchesky2-final]] adds [[Airbnb]] as a founder-led countermeasure to inertia. [[BrianChesky]] argues that after COVID the company moved away from disconnected divisions and toward one roadmap, functional organization, and CEO review of major work. The source does not prove that this model works universally, but it frames founder presence and focus as one way to prevent a large company from drifting into too many projects and weak product coherence.
+
 ## Key Claims
 - Large companies amplify work with resources, distribution, and existing momentum.
 - They also impose layers, rules, approvals, and personnel arrangements that limit individual control.
@@ -43,6 +45,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - Inertia can become a career trap when compensation and comfort raise the cost of returning to founder-level risk.
 - Acquired startups can lose startup-like hiring power when corporate compensation and bureaucracy replace equity upside and speed.
 - Corporate normalization after acquisition can wear down a founder even when the acquired product and team are still valuable.
+- A founder-led functional reset can reduce some inertia by forcing one roadmap and fewer initiatives, but it can also concentrate review capacity around the founder.
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
@@ -57,3 +60,4 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], [[SystemHumanity]], and [[LayoffBuffer]] — ordinary-worker and layoff layer added by the Mianji source.
+- [[Airbnb]], [[BrianChesky]], and [[FounderLedFunctionalOrganization]] — founder-led countermeasure added by the second Chesky episode.
