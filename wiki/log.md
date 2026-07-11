@@ -2490,3 +2490,15 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Sta
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,150 nodes and 31,977 edges while the wiki scan found 3,184 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' $71 million Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI app pivot, and Amazon's one-hour and three-hour delivery expansion. Created pages for Gecko Robotics, U.S. Navy, Anduril, Raytheon, Boeing, BuzzFeed, QuizParty, Center for Strategic and International Studies, Uber Eats, Defense Robotics Maintenance, Defense Tech Startup Procurement, Media AI Rescue Strategy, Ultra-Fast Delivery Economics, and AI Consumer Decision Shaping; updated overview, index, Marketplace Tech, Stephanie Hughes, Anita Ramaswamy, The Information, Amazon, Walmart, Palantir, DoorDash, Defense AI Procurement, Instant Retail, Ecommerce Fulfillment Complexity, AI Slop, AI Content Devaluation, and AI Commercialization Pressure. No direct contradiction found; the source extends defense AI procurement into physical maintenance robotics, qualifies AI media optimism through BuzzFeed's distressed pivot, and extends instant retail into a U.S. Amazon-Walmart competition frame.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

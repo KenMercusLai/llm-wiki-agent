@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery](sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI apps, and Amazon's one-hour and three-hour delivery push against Walmart.
 - [How low-cost drones are used in modern military strikes](sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of CNAS on Shahed-style low-cost drones, the U.S. Lucas drone, commercial component supply chains, counter-drone defense, jamming, decoys, and the cost mismatch between cheap attacks and expensive interceptors.
 - [The ethics of using AI to immortalize the dead](sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance.
 - [AI-powered workplace tools keep tabs on employees](sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Josh Bersin on AI meeting recorders, email analysis, Galileo, workplace digital twins, productivity gains, memory/attention effects, and transparency boundaries for employee monitoring.
@@ -316,6 +317,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Gecko Robotics](entities/GeckoRobotics.md) — Pittsburgh robotics startup whose $71M Navy contract grounds the defense robotics maintenance and defense tech startup procurement branch.
+- [U.S. Navy](entities/USNavy.md) — Military customer for Gecko Robotics' ship-inspection contract, tied to ship readiness, repair delays, and industrial-capacity concerns.
+- [Anduril](entities/Anduril.md) — Defense startup cited as another large-contract example of newer technology companies gaining ground in military procurement.
+- [Raytheon](entities/Raytheon.md) — Legacy defense contractor example used to frame startup pressure on traditional vendors.
+- [Boeing](entities/Boeing.md) — Legacy aerospace and defense contractor example used to frame startup pressure on traditional vendors.
+- [BuzzFeed](entities/BuzzFeed.md) — Media company whose going-concern warning and AI app pivot ground the media AI rescue strategy branch.
+- [QuizParty](entities/QuizParty.md) — BuzzFeed quiz app named as part of its AI games, quizzes, and interactive-product strategy.
+- [Center for Strategic and International Studies](entities/CenterForStrategicAndInternationalStudies.md) — Think tank cited for the shipbuilding-capacity comparison in the Gecko/Navy discussion.
+- [Uber Eats](entities/UberEats.md) — Delivery app comparison for consumer willingness to pay for Amazon's ultra-fast delivery.
 - [Stacey Pettijohn](entities/StaceyPettijohn.md) — CNAS expert explaining low-cost drone warfare, Shahed-style systems, the Lucas drone, commercial component supply chains, and counter-drone economics.
 - [Center for a New American Security](entities/CenterForNewAmericanSecurity.md) — Defense think tank affiliation for Stacey Pettijohn in the Marketplace Tech episode on low-cost drones and counter-drone strategy.
 - [Shahed 136](entities/Shahed136.md) — Iranian one-way attack drone used as the reference case for cheap, commercial-component, long-range drone warfare.
@@ -1944,6 +1954,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Defense Robotics Maintenance](concepts/DefenseRoboticsMaintenance.md) — Use of robots, drones, sensors, and AI models to inspect, repair, or predict defects in military systems and infrastructure.
+- [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
+- [Media AI Rescue Strategy](concepts/MediaAIRescueStrategy.md) — Attempt to use AI games, quizzes, personalization, or interactive content to compensate for a weakened media business model.
+- [Ultra-Fast Delivery Economics](concepts/UltraFastDeliveryEconomics.md) — Cost, pricing, inventory, routing, and expectation-setting problem behind one-hour or near-immediate delivery.
+- [AI Consumer Decision Shaping](concepts/AIConsumerDecisionShaping.md) — Recommendation and fulfillment loop where AI helps influence what consumers notice, want, and buy.
 - [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
 - [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
 - [Drone Defense Economics](concepts/DroneDefenseEconomics.md) — Cost and scarcity problem where cheap drones force defenders to spend expensive interceptors, attention, and short-range defense capacity.

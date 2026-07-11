@@ -2,7 +2,7 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires]
+sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires]
 last_updated: 2026-07-12
 ---
 
@@ -28,6 +28,8 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 
 [[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds the local-journalism version through [[WillaRemus]] and [[ThePlainDealer|the Plain Dealer]]. AI-written articles may be adequate for basic local items, but they can also read as cliched, boring, or unauthored. The episode's reader-trust question is whether audiences will value an article if they believe the publication itself did not bother to write it.
 
+[[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] adds the distressed-media-product version through [[BuzzFeed]]. AI quizzes, games, and interactive apps may create engagement, but the source's skepticism shows that audiences and analysts may discount AI products when they look derivative, generic, or like a rescue attempt after the journalism model has weakened.
+
 ## Key Claims
 - Lower creation cost can reduce perceived scarcity, making readers or users more selective about what deserves attention.
 - "AI flavor" in short text can break trust because the audience may infer that the author outsourced the act of thinking.
@@ -44,6 +46,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - Slop makes content devaluation infrastructural and political: cheap synthetic media can farm attention, shape propaganda, and re-enter future training data.
 - In AI search, generated fluff is not only aesthetically weak; it can be strategically weak if it gives answer engines little factual material to retrieve.
 - In journalism, content devaluation can appear even with useful facts when readers infer that human reporting, voice, and care have been stripped from the article.
+- In media-product pivots, content devaluation can appear when AI interactivity is treated as a replacement for a weak business model rather than a clearly valuable new product.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -59,3 +62,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[AISlop]], [[ModelCollapse]], and [[AIMetabolicInfrastructure]] — Crawford's synthetic-media, training-data, and resource-cost extension.
 - [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[AIDiscoverySEO]] - AEO case where factual density matters more than AI-generated filler.
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], [[AIJournalismTrust]], and [[LocalNewsAutomationTradeoff]] - local-news case where generated copy may add coverage while weakening perceived authorship.
+- [[BuzzFeed]], [[QuizParty]], [[MediaAIRescueStrategy]], and [[AISlop]] - distressed media AI pivot branch added by Marketplace Tech.

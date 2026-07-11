@@ -2,7 +2,7 @@
 title: "Palantir"
 type: entity
 tags: [company, software, enterprise]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
 last_updated: 2026-07-12
 ---
 
@@ -16,11 +16,14 @@ Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] names Palantir as an example of a defense contractor that could need to remove [[Anthropic]] technology from critical military software if [[Claude]] is treated as a [[DefenseAISupplyChainRisk]]. In this source, Palantir is not the main subject; it is the concrete contractor case showing that model-use policy disputes can become integration and replacement work.
 
+[[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] names Palantir as another newer technology company gaining ground in defense alongside [[GeckoRobotics]] and [[Anduril]]. This source shifts Palantir from the model-removal example above into the broader [[DefenseTechStartupProcurement]] frame: defense buyers are becoming more willing to use newer software and robotics companies where legacy contractors once dominated.
+
 ## Connections
 - [[ForwardDeployedEngineer]] — role associated with Palantir's enterprise implementation model.
 - [[GarryTan]] and [[BuilderCenteredInstitutions]] — early employee and builder-value context added by The Social Radars.
 - [[AlexKarp]], [[Miami]], [[Florida]], [[TaxFoundation]], and [[SouthFloridaTechMigration]] - headquarters move and business-geography context added by Marketplace Tech.
 - [[OpenAI]] and [[Anthropic]] — frontier AI companies now discussed as adopting or emphasizing similar enterprise-deployment roles.
 - [[Claude]], [[USDepartmentOfDefense]], and [[DefenseAISupplyChainRisk]] - defense-AI supply-chain example added by Marketplace Tech.
+- [[GeckoRobotics]], [[Anduril]], and [[DefenseTechStartupProcurement]] - newer defense technology company context added by the March 2026 Marketplace Tech Bytes episode.
 - [[RollingAI]] — company using the FDE frame for AI agents and enterprise transformation.
 - [[Cresta]] and [[Jove]] — later AI-agent deployment case that traces its role model back to Palantir.
