@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Physical media's comeback](sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128.md) — Marketplace Tech episode on DVDs, Blu-rays, and VHS having a renewed moment through subscription fatigue, Vidiots' nonprofit video-store model, LunchMeet VHS reprints, collector demand, and analog media preservation.
 - [AI Meets the Search for a BA](sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128.md) — Marketplace Tech episode on students using AI for college search, campus vibe, acceptances, scholarships, and hidden-gem discovery while colleges optimize their AI visibility and fight outdated or ranker-heavy answers.
 - [Here's how to prep for a job interview with AI](sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and the need to keep human judgment in hiring decisions.
 - [AI makes it easier to code websites - including ones that scam consumers](sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Megan McCarty-Corino on AI-assisted scam websites, a fake Davines sponsored search result, brand impersonation, search-ad trust, and cybersecurity monitoring by Netcraft, Coalfire, and Silent Push.
@@ -300,6 +301,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vidiots](entities/Vidiots.md) — Los Angeles nonprofit video store and restored-theater case for renewed physical video rental.
+- [Robbie McCluskey](entities/RobbieMcCluskey.md) — Vidiots store director explaining the store's 1985 origin, 2017 closure, 2023 nonprofit reopening, and rental growth.
+- [LunchMeet VHS](entities/LunchMeetVHS.md) — North Carolina VHS reprint and magazine business preserving tape-only films and video-store culture.
+- [Josh Schaeffer](entities/JoshSchaeffer.md) — LunchMeet VHS operator who frames VHS and video-store culture as social history worth preserving.
+- [Consumer Reports](entities/ConsumerReports.md) — Survey source cited for continued U.S. DVD, Blu-ray, and VHS viewing.
 - [EAB](entities/EAB.md) — Education company whose survey grounds the episode's claim that about half of college-bound high schoolers use AI tools during college search.
 - [Jennifer Jesse](entities/JenniferJesse.md) — College consultant describing students' AI-assisted school lists and the need to push beyond familiar ranking defaults.
 - [Michael Coppenheifer](entities/MichaelCoppenheifer.md) — Marketplace Tech speaker connecting student AI use for campus vibe and offer comparison to colleges' need to monitor AI descriptions.
@@ -1871,6 +1877,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Physical Video Media Revival](concepts/PhysicalVideoMediaRevival.md) — Renewed interest in DVDs, Blu-rays, and VHS as a response to streaming fragmentation, collecting, rare-title access, and preservation.
+- [Video Store Culture](concepts/VideoStoreCulture.md) — Social and discovery layer of browsing shelves, renting physical copies, talking with staff, and encountering movies in shared retail space.
+- [Analog Media Preservation](concepts/AnalogMediaPreservation.md) — Preserving media works and context through physical or analog formats when streaming catalogs or digital platforms do not reliably carry them.
 - [AI College Search](concepts/AICollegeSearch.md) — Student-facing pattern where prospective students use AI tools to build school lists, assess campus vibe, and compare acceptances or scholarships.
 - [Higher Education AI Discoverability](concepts/HigherEducationAIDiscoverability.md) — College marketing and information-quality practice of making schools accurately visible in AI answer surfaces.
 - [AI Ranking Reinforcement](concepts/AIRankingReinforcement.md) — Failure mode where conversational AI repeats familiar ranked options instead of surfacing fit-based alternatives.

@@ -2171,6 +2171,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Physical media's comeback
+
+Added source page for the Marketplace Tech episode on DVDs, Blu-rays, and VHS returning through subscription fatigue, rare-title access, collecting, video-store culture, Vidiots' nonprofit theater-backed rental model, and LunchMeet VHS's rights-backed tape reprints. Created pages for Vidiots, Robbie McCluskey, LunchMeet VHS, Josh Schaeffer, Consumer Reports, Physical Video Media Revival, Video Store Culture, and Analog Media Preservation; updated overview, index, Marketplace Tech, Subscription Fatigue, and Game Preservation. No direct contradiction found; the source extends the existing streaming-friction and game-preservation branches into physical video media.
+
 ## [2026-07-12] ingest | AI Meets the Search for a BA
 
 Added source page for the Marketplace Tech episode on AI entering the college search process for students and colleges. Created pages for EAB, Jennifer Jesse, Michael Coppenheifer, Nick Swisher, Indiana Wesleyan University, U.S. News and World Report, Instagram, AI College Search, Higher Education AI Discoverability, and AI Ranking Reinforcement; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Analytics, College Major Choice, and College Career Preparation. No direct contradiction found; the source qualifies AI discovery optimism by showing that AI can make college search easier while reinforcing familiar ranking defaults unless students and counselors ask for fit-based alternatives.
@@ -2334,6 +2338,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | AI makes it easier to code websites — including ones that scam consumers
 
 Added source page for the Marketplace Tech episode on AI-assisted scam websites, a fake Davines sponsored search result, and the way AI coding agents lower the cost of convincing brand impersonation. Created pages for Davines, Netcraft, Ginny Spicer, Coalfire, Charles Henderson, Silent Push, Zach Edwards, Lana Swartz, University of Virginia, AI-Assisted Website Scams, Fake Retail Website Impersonation, Search Ad Trust Gap, and Brand Impersonation Monitoring; updated overview, index, and related Marketplace Tech, Google, search-ad, and fraud pages. No direct contradiction found; the source qualifies AI-enabled scam industrialization by showing website production and paid search placement as another scaling path for fraud.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
