@@ -2,7 +2,7 @@
 title: "Platform Data Regulation"
 type: concept
 tags: [platform, regulation, data, antitrust]
-sources: [tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+sources: [tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The concept matters because visible app screens are not enough to evaluate platf
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds an AI-search attribution angle. When [[GoogleAIOverviews|Google AI Overviews]] use publisher material and reduce click-through traffic, regulators and publishers need visibility into answer design, source display, traffic changes, and content use, not just the public search page.
 
+[[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]] adds a government-access angle. [[GovernmentDataBrokerAccess]] and [[SurveillanceAsAService]] show that data regulation is not only about platform competition or merchant visibility; brokered and vendor-collected data can become state surveillance capacity unless warrant rules or similar process limits close the [[DataBrokerLoophole]].
+
 ## Key Claims
 - Data visibility can make [[PlatformAntitrust]] more evidence-based by showing actual order flow, split, pricing, and fulfillment behavior.
 - Regulation does not have to mean nationalization or direct platform operation.
@@ -23,9 +25,11 @@ The concept matters because visible app screens are not enough to evaluate platf
 - The same approach may generalize to ticketing platforms such as [[Damai]] and other public-infrastructure-like digital intermediaries.
 - Data visibility matters for merchants as well as regulators: without order, ad, ranking, and fulfillment data, local businesses cannot audit or automate their own platform-dependent work.
 - For AI search, source-link display and traffic outcomes are data-governance questions because public citations do not reveal how answer placement affects publisher economics.
+- For government access, the key regulatory question is not only whether data is collected lawfully by a company, but whether agencies can buy or query it without judicial process.
 
 ## Connections
 - [[Ctrip]], [[StateAdministrationForMarketRegulation]], and [[Damai]] — source cases.
 - [[PlatformAntitrust]], [[OTAPlatformConcentration]], [[HotelPlatformPricingPower]], and [[TravelBookingHiddenFees]] — related governance concepts.
 - [[LocalLifePlatformDependency]], [[OperationalDataCapture]], and [[ChinaAgentMarketFriction]] — merchant-side data-access case added by the flower-shop source.
 - [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], [[EuropeanCommission]], and [[PlatformAntitrust]] - AI-search regulation case added by Marketplace Tech.
+- [[GovernmentDataBrokerAccess]], [[SurveillanceAsAService]], [[DataBrokerLoophole]], and [[FourthAmendmentDigitalPrivacy]] - government-access regulation branch added by Marketplace Tech.

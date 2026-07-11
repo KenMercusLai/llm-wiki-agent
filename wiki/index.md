@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How government uses "surveillance as a service" to collect data](sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jeremy Scott on DHS access to private-sector data, administrative subpoenas, data brokers, Flock Safety, the third-party doctrine, and Fourth Amendment reform.
 - [Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.](sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Pentagon pressure for Claude access, Anthropic's use-policy red lines, OpenAI Frontier and consulting-led enterprise AI adoption, and Apple's U.S. Mac Mini manufacturing plan.
 - [Physical media's comeback](sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128.md) — Marketplace Tech episode on DVDs, Blu-rays, and VHS having a renewed moment through subscription fatigue, Vidiots' nonprofit video-store model, LunchMeet VHS reprints, collector demand, and analog media preservation.
 - [AI Meets the Search for a BA](sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128.md) — Marketplace Tech episode on students using AI for college search, campus vibe, acceptances, scholarships, and hidden-gem discovery while colleges optimize their AI visibility and fight outdated or ranker-heavy answers.
@@ -302,6 +303,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jeremy Scott](entities/JeremyScott.md) — EPIC Surveillance Oversight Program expert explaining DHS access to private-sector data, administrative subpoenas, data brokers, and surveillance-as-a-service systems.
+- [Electronic Privacy Information Center](entities/ElectronicPrivacyInformationCenter.md) — Privacy and civil-liberties organization represented by Jeremy Scott in the Marketplace Tech surveillance-data episode.
+- [U.S. Department of Homeland Security](entities/USDepartmentOfHomelandSecurity.md) — Agency at the center of the Marketplace Tech discussion of lawsuits, private-sector data access, administrative subpoenas, data brokers, and surveillance tools.
+- [U.S. Immigration and Customs Enforcement](entities/USImmigrationAndCustomsEnforcement.md) — DHS-linked enforcement agency named in the surveillance-as-a-service discussion, kept distinct from the unrelated ICE investor page.
+- [Ron Wyden](entities/RonWyden.md) — Senator associated with the federal Fourth Amendment is Not For Sale Act referenced in the data broker loophole episode.
+- [Montana](entities/Montana.md) — State cited for passing a law requiring warrants for government data purchases that would otherwise exploit the data broker loophole.
 - [Claude](entities/Claude.md) — Anthropic model at the center of the Marketplace Tech Bytes dispute over Pentagon classified use, acceptable-use limits, and defense procurement leverage.
 - [OpenAI Frontier](entities/OpenAIFrontier.md) — OpenAI business platform for building and managing AI coworkers, framed through consulting-led enterprise adoption.
 - [Mac Mini](entities/MacMini.md) — Apple desktop Mac used in the episode as a concrete but limited U.S. manufacturing reshoring case.
@@ -1883,6 +1890,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Surveillance as a Service](concepts/SurveillanceAsAService.md) — Vendor model where private companies build surveillance infrastructure, aggregate data, and sell searchable access or analysis tools to law enforcement.
+- [Government Data Broker Access](concepts/GovernmentDataBrokerAccess.md) — Practice of government agencies obtaining commercially collected data from brokers or private surveillance vendors.
+- [Data Broker Loophole](concepts/DataBrokerLoophole.md) — Policy gap where government agencies can buy information they would need a warrant to collect directly.
+- [Third-Party Doctrine](concepts/ThirdPartyDoctrine.md) — Legal principle that people can lose some privacy interests in information shared with private third parties.
+- [Fourth Amendment Digital Privacy](concepts/FourthAmendmentDigitalPrivacy.md) — Problem of applying search-and-seizure protections to digital data held by private companies.
+- [Administrative Subpoena Data Access](concepts/AdministrativeSubpoenaDataAccess.md) — Route where agencies compel company or institutional records without the same judicial oversight as a warrant.
+- [Civil Liberties Surveillance Risk](concepts/CivilLibertiesSurveillanceRisk.md) — Risk that searchable, outsourced, large-scale surveillance chills speech, association, and democratic participation.
+- [Smith v. Maryland](concepts/SmithVMaryland.md) — Precedent named in the episode as the legal anchor for third-party doctrine in digital privacy debates.
+- [Fourth Amendment is Not For Sale Act](concepts/FourthAmendmentIsNotForSaleAct.md) — Federal bill referenced as the model for closing the data broker loophole through warrant requirements.
 - [Defense AI Procurement](concepts/DefenseAIProcurement.md) — Buying, deploying, and governing AI systems for military and national-security work, grounded by the Claude-Pentagon dispute.
 - [Frontier Model Use Policy Conflict](concepts/FrontierModelUsePolicyConflict.md) — Mismatch between a model provider's acceptable-use policy and a powerful customer's desired lawful-use scope.
 - [Tech Manufacturing Reshoring](concepts/TechManufacturingReshoring.md) — Attempts to move hardware production or advanced-manufacturing capability back into the U.S., grounded by Apple's Houston Mac Mini plan.

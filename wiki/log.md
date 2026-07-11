@@ -2362,3 +2362,11 @@ Added source page for the Marketplace Tech Bytes episode on Pentagon pressure fo
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | How government uses "surveillance as a service" to collect data
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Jeremy Scott of the Electronic Privacy Information Center on DHS access to private-sector data, administrative subpoenas, government data purchases, Flock Safety license-plate-reader databases, the third-party doctrine, and legislation to close the data broker loophole. Created pages for Jeremy Scott, Electronic Privacy Information Center, U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, Ron Wyden, Montana, Surveillance as a Service, Government Data Broker Access, Data Broker Loophole, Third-Party Doctrine, Fourth Amendment Digital Privacy, Administrative Subpoena Data Access, Civil Liberties Surveillance Risk, Smith v. Maryland, and Fourth Amendment is Not For Sale Act; updated overview, index, Marketplace Tech, Stephanie Hughes, Flock Safety, Consumer Camera Surveillance, and Platform Data Regulation. No direct contradiction found; the source extends consumer-camera surveillance into government-accessible private data infrastructure and qualifies platform data regulation by showing how privately aggregated data can become state surveillance capacity.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

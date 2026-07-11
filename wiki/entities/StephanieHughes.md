@@ -2,13 +2,15 @@
 title: "Stephanie Hughes"
 type: entity
 tags: [person, host, journalism]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
+sources: [tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
 # Stephanie Hughes
 
-Stephanie Hughes is the [[MarketplaceTech]] host for [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]], [[tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]], [[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]], [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]], [[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]], [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]], [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]], [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]], and [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]].
+Stephanie Hughes is the [[MarketplaceTech]] host for [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]], [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]], [[tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128]], [[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]], [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]], [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]], [[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]], [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]], [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]], [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]], and [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]].
+
+In the March 2 episode, Hughes interviews [[JeremyScott]] of the [[ElectronicPrivacyInformationCenter]] about [[USDepartmentOfHomelandSecurity]] access to privately collected data. Her questions frame how [[AdministrativeSubpoenaDataAccess]], [[GovernmentDataBrokerAccess]], [[SurveillanceAsAService]], [[ThirdPartyDoctrine]], and [[FourthAmendmentDigitalPrivacy]] make data brokers and license-plate-reader networks into a public-accountability issue.
 
 In the February 25 episode, Hughes frames how [[AICollegeSearch]] is changing the college-search process for students and colleges. The source connects [[EAB]] survey results, [[JenniferJesse]]'s college-consulting perspective, [[MichaelCoppenheifer]]'s campus-vibe and AI-description examples, and [[NickSwisher]]'s [[IndianaWesleyanUniversity]] marketing case.
 
@@ -20,6 +22,7 @@ In the February 20 Bytes episode, Hughes interviews [[AnitaRamaswamy]] about [[G
 
 ## Connections
 - [[MarketplaceTech]] - show context.
+- [[JeremyScott]], [[ElectronicPrivacyInformationCenter]], [[USDepartmentOfHomelandSecurity]], [[FlockSafety]], [[SurveillanceAsAService]], [[DataBrokerLoophole]], and [[FourthAmendmentDigitalPrivacy]] - March 2 privacy and government-data-access episode.
 - [[EAB]], [[JenniferJesse]], [[MichaelCoppenheifer]], [[NickSwisher]], [[AICollegeSearch]], and [[HigherEducationAIDiscoverability]] - February 25 AI college-search episode.
 - [[RaySmith]], [[WallStreetJournal|Wall Street Journal]], [[AIInterviewing]], and [[ObjectiveHiringAssessment]] - February 24 AI job-interview episode.
 - [[MeganMcCartyCorino]], [[Davines]], [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], and [[SearchAdTrustGap]] - February 23 AI-assisted scam website episode.
