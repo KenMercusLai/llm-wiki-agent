@@ -1,9 +1,9 @@
 ---
 title: "China"
 type: entity
-tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space]
+sources: [tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-12
 ---
 
 # China
@@ -22,6 +22,8 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds China as the efficiency and infrastructure side of an East Asian consumer comparison. The episode says China is stronger in internet ordering, instant retail, hardware, fast construction, and digital service efficiency, but weaker in [[AuthenticNeighborhoodExperience]] and [[LongTermPlaceOperation]] when districts become over-marketed, homogeneous, or too focused on check-in traffic. It also raises [[InboundTourismBrandDiscovery]] as a possible consumer-brand opportunity as foreign tourists encounter Chinese products and stores directly.
 
+[[tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128]] adds China as a lunar-race actor. The episode says China aims to land humans on the [[Moon]] by 2030 and has not signed the [[ArtemisAccords]], placing it inside [[LunarResourceGovernance]] debates over safety zones, transparency, resource access, and side-by-side operation with U.S.-led partners.
+
 ## Connections
 - [[LatinAmerica]] and [[LatinAmericaInvestmentBoom]] - region where Chinese investment and U.S. competition shape capital flows.
 - [[UnitedStates]] and [[DonroeDoctrine]] - rival influence frame in the episode.
@@ -32,3 +34,4 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 - [[ChinesePlayerOverseasArbitrage]], [[YouthFootballDevelopmentSystem]], and [[ShandongLunengFootballSchool]] - football-development branch added by the Jumilla source.
 - [[EastStarAirlines]], [[SpringAirlines]], [[CivilAviationAdministrationOfChina]], and [[ChinesePrivateAirlineOpening]] - private-aviation branch added by the Lan Shili source.
 - [[Anaya]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], and [[InboundTourismBrandDiscovery]] - consumer-experience and tourism branch added by FengTouQuan episode 142.
+- [[Moon]], [[ArtemisAccords]], [[Russia]], and [[LunarResourceGovernance]] - lunar diplomacy and resource-governance branch added by Marketplace Tech.

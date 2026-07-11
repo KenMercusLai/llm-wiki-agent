@@ -2246,3 +2246,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Is the moon (and its resources) up for grabs?
+
+Added source page for the Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, first-mover resource access, and stable lunar energy. Created pages for Sadia Pekkanen, Artemis 2, Artemis Accords, Moon, Lunar Resource Governance, Space Resource Extraction, Lunar Nuclear Power, and Helium-3; updated overview, index, Marketplace Tech, NASA, China, Russia, and Space Economy Infrastructure. No direct contradiction found; the source extends the existing space-infrastructure branch by adding lunar governance, resource-rights, and power constraints.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,968 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
