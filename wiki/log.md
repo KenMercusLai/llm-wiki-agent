@@ -1947,6 +1947,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself
+
+Added source page for The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, manufacturing in Shenzhen and Dongguan, product defects, hiring friends, inventory misses, CRV funding, Silicon Valley Bank venture debt, Fitbit sale, and Beeper as another build-for-yourself product. Created pages for Eric Migicovsky, Pebble, Beeper, Alerta, Impulse Watch, Kickstarter, BlackBerry, Fitbit, Garmin, Tim Draper, CRV, Consumer Hardware Startup Risk, Kickstarter Demand Shock, Hardware Inventory Risk, Venture Debt Operational Risk, Build For Yourself Founder Fit, and Product Vision Drift; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Paul Buchheit, Yuri Milner, Silicon Valley Bank, Apple, Founder Product Fit, Founder User Obsession, Founder Motivation Evolution, Customer Pull, Hard Tech Fundraising, Startup Runway Discipline, Consumer Electronics Lifecycle, and Hardware Category Definition Power. No direct contradiction found; the source is Eric's participant postmortem and should be treated cautiously where it assigns causality for Pebble's failure.
+
 ## [2026-07-11] ingest | Eddy Lu on GOAT, Grub With Us, and Marketplace Friction
 
 Added source page for The Social Radars episode with Eddy Lu on quitting jobs with Daishen, early failed businesses, cream puff stores, Grub With Us, the YC Winter 2011 experience, the pivot into GOAT, sneaker authentication, GOAT Clean, the 2015 Black Friday product-market-fit moment, category focus, and the Adam Bain customer-to-board-member story. Created pages for Eddy Lu, Daishen, GOAT, Grub With Us, Grub Tonight, GOAT Clean, Adam Bain, Marketplace Friction Reduction, Authentication-Led Marketplace Trust, Category Focus Before Expansion, and Demand Shock Product-Market Fit; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Unscalable Founder Work, Relentlessly Resourceful Founder, Operational Pain Founder Insight, Founder Product Fit, Peer-to-Peer Marketplace Trust, Service Marketplace Quality Control, Scaling Broken Product, New Balance, and HOKA. No direct contradiction found; the source extends the wiki's marketplace branch by showing how a failed social dinner marketplace taught the founders to remove buyer friction, trust risk, category sprawl, and operational uncertainty in a later sneaker marketplace.
@@ -2132,5 +2136,9 @@ Ran lint. See lint-report.md for details.
 2816 nodes, 27906 edges (27906 extracted, 0 inferred).
 
 ## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

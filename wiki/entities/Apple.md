@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media, governance]
-sources: [socialradarspod-davidlieb-final, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarspod-davidlieb-final, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
 last_updated: 2026-07-11
 ---
 
@@ -40,6 +40,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds Apple as a historical example inside [[DepressionDrivenInnovation]]. The episode uses Apple and [[Microsoft]] to illustrate that important technology companies can form in weak or uncertain macro windows before a new technology wave is widely accepted.
 
+[[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds Apple as both an early platform constraint and later wearable competitor in the [[Pebble]] story. [[EricMigicovsky]] says the first watch concept could not fully use iPhone because the needed Bluetooth API was unavailable, while later Apple Watch competition pushed Pebble toward health, fitness, and feature expansion.
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
@@ -59,6 +61,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The 264 Luanfanshu source treats Apple as a social institution whose trust depends on whether values reach products, contracts, supplier systems, legal disputes, and regulatory speech.
 - The Marketplace Tech Bytes source treats Apple as a talent, succession, and AI-device credibility case rather than only a platform-distribution case.
 - The David Lieb source treats Apple as an early iPhone-era platform amplifier: App Store approval, promotion, and TV advertising could turn a small app into a sudden infrastructure event.
+- The Eric Migicovsky source treats Apple as a platform and competitor: missing iPhone Bluetooth support shaped the early [[BlackBerry]] watch path, while Apple Watch later intensified [[ConsumerElectronicsLifecycle]] and [[ProductVisionDrift]] pressure on [[Pebble]].
 
 ## Connections
 - [[TimCook]], [[SteveJobs]], and [[BusinessRoundtable]] — leadership and governance context added by the 264 Luanfanshu source.
@@ -82,3 +85,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[DepressionDrivenInnovation]], [[Microsoft]], and [[KondratievCycle]] — E162's long-cycle innovation context.
 - [[JoannaStern]], [[JohnTernus]], [[JonyIve]], [[AITalentCompetition]], and [[SmartphoneAIHub]] — leadership and next-device branch added by Marketplace Tech Bytes.
 - [[Bump]], [[DavidLieb]], [[IPhone]], and [[AppStore]] — iPhone-era app approval, promotion, and acquisition context added by The Social Radars.
+- [[Pebble]], [[EricMigicovsky]], [[BlackBerry]], [[Fitbit]], [[Garmin]], [[ConsumerHardwareStartupRisk]], and [[ProductVisionDrift]] — smartwatch platform and competition context added by The Social Radars.

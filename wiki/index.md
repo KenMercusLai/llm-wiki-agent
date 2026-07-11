@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself](sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2.md) — The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, Shenzhen manufacturing, inventory and venture-debt mistakes, product-vision drift, and Beeper as another build-for-yourself product.
 - [Alexandr Wang on Scale and AI Data Infrastructure](sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3.md) — The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, image and text labeling, autonomous-vehicle data, defense work, generative AI resource shift, MEI culture stance, and agent data.
 - [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
 - [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
@@ -275,6 +276,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Eric Migicovsky](entities/EricMigicovsky.md) — Pebble and Beeper founder whose Social Radars episode links personal-product insight, YC, Kickstarter, hardware execution, inventory risk, venture debt, and product vision drift.
+- [Pebble](entities/Pebble.md) — Smartwatch company that broke out through Kickstarter, shipped millions of watches, and later became a hardware startup postmortem around manufacturing, inventory, debt, and vision.
+- [Beeper](entities/Beeper.md) — Eric Migicovsky's universal-chat app, introduced in the episode as another product he built because he wanted it himself.
+- [Alerta](entities/Alerta.md) — Early company name behind Eric Migicovsky's pre-Pebble BlackBerry watch effort.
+- [Impulse Watch](entities/ImpulseWatch.md) — Early BlackBerry-oriented watch product that foreshadowed Pebble's notification insight and hardware/platform risks.
+- [Kickstarter](entities/Kickstarter.md) — Crowdfunding platform that turned Pebble's investor-rejected smartwatch into a $10 million preorder campaign and manufacturing obligation.
+- [BlackBerry](entities/BlackBerry.md) — Mobile platform whose Bluetooth accessory APIs made Eric Migicovsky's early watch possible before the market shifted toward iPhone.
+- [Fitbit](entities/Fitbit.md) — Wearables company that competed with Pebble in health and fitness and later acquired pieces of the company.
+- [Garmin](entities/Garmin.md) — Wearables and fitness company named as part of the competitive pressure that pulled Pebble toward health features.
+- [Tim Draper](entities/TimDraper.md) — Investor in Eric Migicovsky's early post-Demo-Day hardware company before Pebble's Kickstarter breakout.
+- [CRV](entities/CRV.md) — Venture firm whose Pebble investment marks the shift from crowdfunding breakout to venture-backed hardware scaling.
 - [Alexandr Wang](entities/AlexandrWang.md) — Scale AI founder and CEO whose Social Radars episode links YC, early manual labeling, autonomous-vehicle data, defense work, generative AI data, and agent data.
 - [Quora](entities/Quora.md) — Gap-year work context for Alexandr Wang before MIT and Scale AI.
 - [Adam D'Angelo](entities/AdamDAngelo.md) — Quora executive who advised Alexandr Wang to attend at least some college before founding Scale.
@@ -1697,6 +1709,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Consumer Hardware Startup Risk](concepts/ConsumerHardwareStartupRisk.md) — Operating risk in hardware startups where platforms, manufacturing, quality, support, inventory, and financing must align before software-style iteration can catch up.
+- [Kickstarter Demand Shock](concepts/KickstarterDemandShock.md) — Crowdfunding pattern where unexpectedly strong preorder demand validates pull while creating immediate delivery and support obligations.
+- [Hardware Inventory Risk](concepts/HardwareInventoryRisk.md) — Startup operating risk where physical units require cash, forecasts, storage, and discount decisions before demand fully converts.
+- [Venture Debt Operational Risk](concepts/VentureDebtOperationalRisk.md) — Risk that debt used for startup operations reduces flexibility through repayment, covenants, and cash-balance requirements.
+- [Build For Yourself Founder Fit](concepts/BuildForYourselfFounderFit.md) — Founder-product-fit pattern where the strongest initial insight comes from a tool the founder personally wants to use.
+- [Product Vision Drift](concepts/ProductVisionDrift.md) — Failure pattern where a company keeps pursuing adjacent product directions after its first promise but loses a durable explanation of what it is for.
 - [AI Data Infrastructure](concepts/AIDataInfrastructure.md) — Systems, labor, quality control, feedback, and expert task data that make AI model training and improvement possible.
 - [Agent Data](concepts/AgentData.md) — Process data about how people think, gather information, check constraints, and act while completing tasks.
 - [Merit, Excellence, and Intelligence](concepts/MeritExcellenceIntelligence.md) — Scale AI's source-described culture and hiring stance around meritocracy, excellence, talent, and diversity debates.
