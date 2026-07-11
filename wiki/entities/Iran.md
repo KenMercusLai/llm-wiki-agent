@@ -2,11 +2,13 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics, sanctions]
-sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-07-12
 ---
 
 # Iran
+
+[[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds a low-cost drone warfare branch. [[StaceyPettijohn]] says drones are currently a primary Iranian weapon, with [[Shahed136]]-style systems showing how [[CommercialOffTheShelfWeaponization]] can turn ordinary components, commercial intermediaries, and good-enough performance into long-range coercive capacity.
 
 [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds an economic and crypto-capital-flight branch. [[GilLuria]] says Bitcoin can be popular in unstable environments such as Iran because it exists outside government money and can be moved globally; in a longer war or economic stagnation, demand could come from people trying to move wealth abroad through [[CrossBorderCryptoCapitalFlight]] rather than from Bitcoin behaving like an immediate gold-style safe haven.
 
@@ -27,6 +29,7 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds Iran to the crypto-sanctions branch. [[AriRedbord]] cites two Iran-based cryptocurrency exchanges allegedly used by the [[IslamicRevolutionaryGuardCorps]] to launder illicit proceeds and evade sanctions, followed by [[USTreasury|U.S. Treasury]] sanctions against the exchanges and a financial facilitator.
 
 ## Connections
+- [[StaceyPettijohn]], [[Shahed136]], [[LowCostDroneWarfare]], [[CommercialOffTheShelfWeaponization]], and [[DroneDefenseEconomics]] - low-cost drone warfare branch added by Marketplace Tech.
 - [[Bitcoin]], [[GilLuria]], [[BitcoinSafeHavenBehavior]], and [[CrossBorderCryptoCapitalFlight]] - crisis-asset and wealth-portability branch added by Marketplace Tech.
 - [[IranLinkedCyberOperations]], [[BankingDDoSResilience]], [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]] - cyber-risk branch added by Marketplace Tech.
 - [[RafePilling]], [[Sophos]], and [[MinistryOfIntelligenceAndSecurity]] - expert, security-company, and sponsor context in the cyber episode.

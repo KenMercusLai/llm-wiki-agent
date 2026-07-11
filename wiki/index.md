@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How low-cost drones are used in modern military strikes](sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of CNAS on Shahed-style low-cost drones, the U.S. Lucas drone, commercial component supply chains, counter-drone defense, jamming, decoys, and the cost mismatch between cheap attacks and expensive interceptors.
 - [The ethics of using AI to immortalize the dead](sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance.
 - [AI-powered workplace tools keep tabs on employees](sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Josh Bersin on AI meeting recorders, email analysis, Galileo, workplace digital twins, productivity gains, memory/attention effects, and transparency boundaries for employee monitoring.
 - [How confident are crypto consumers?](sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Dave Reibstein of Wharton on the Consumer Cryptocurrency Confidence Index, crypto sentiment as a possible price signal, regional and age differences in optimism, and crypto being held mostly as investment rather than used as payment.
@@ -315,6 +316,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stacey Pettijohn](entities/StaceyPettijohn.md) — CNAS expert explaining low-cost drone warfare, Shahed-style systems, the Lucas drone, commercial component supply chains, and counter-drone economics.
+- [Center for a New American Security](entities/CenterForNewAmericanSecurity.md) — Defense think tank affiliation for Stacey Pettijohn in the Marketplace Tech episode on low-cost drones and counter-drone strategy.
+- [Shahed 136](entities/Shahed136.md) — Iranian one-way attack drone used as the reference case for cheap, commercial-component, long-range drone warfare.
+- [Lucas Drone](entities/LucasDrone.md) — U.S. low-cost uncrewed system described as reverse-engineered from the Shahed 136 with shorter range and smaller payload.
 - [Tomas Holoneck](entities/TomasHoloneck.md) — University of Cambridge researcher interviewed by Marketplace Tech about AI grief bots, post-mortem consent, privacy, dignity, and digital memorialization.
 - [University of Cambridge](entities/UniversityOfCambridge.md) — Academic affiliation for Tomas Holoneck in the Marketplace Tech episode on post-mortem AI avatars and grief-bot ethics.
 - [Google Inactive Account Manager](entities/GoogleInactiveAccountManager.md) — Google account feature used in the grief-bot episode as an example of deletion and inactivity planning for digital remains.
@@ -1939,6 +1944,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
+- [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
+- [Drone Defense Economics](concepts/DroneDefenseEconomics.md) — Cost and scarcity problem where cheap drones force defenders to spend expensive interceptors, attention, and short-range defense capacity.
+- [Counter-Drone Layered Defense](concepts/CounterDroneLayeredDefense.md) — Multi-layer defense approach using jamming, sensors, classification, short-range interceptors, and cost discipline against adaptive drone threats.
+- [Drone Decoy Economics](concepts/DroneDecoyEconomics.md) — Use of cheap or unarmed drone-like systems to force costly, fast, and imperfect defensive decisions.
 - [AI Grief Bots](concepts/AIGriefBots.md) — Post-mortem AI avatars or conversation-like simulations of deceased people, raising consent, dignity, privacy, grief, and access questions.
 - [Post-Mortem AI Consent](concepts/PostMortemAIConsent.md) — Boundary for whether and how a deceased person's data, likeness, style, or private communications may become an AI representation.
 - [Digital Memorialization](concepts/DigitalMemorialization.md) — Preservation or representation of people, memories, and testimony through digital systems after death, especially when AI makes them interactive.
