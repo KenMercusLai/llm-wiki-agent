@@ -2182,3 +2182,11 @@ Added source page for The Social Radars YC offsite episode with Brian Chesky on 
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Garry Tan, President & CEO, Y Combinator
+
+Added source page for The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy. Updated overview, index, Garry Tan, Posterous, Y Combinator, The Social Radars, Founder Mode, Founder Delegation Discipline, AI Startup Unit Economics, and AI Organization Design. No direct contradiction found; the source reinforces the Brian Chesky founder-mode offsite while adding a delegation and accountability boundary around founder involvement.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

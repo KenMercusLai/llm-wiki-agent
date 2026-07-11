@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Garry Tan, President & CEO, Y Combinator](sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final.md) — The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy.
 - [Founder Mode: Brian Chesky, Founder & CEO, Airbnb](sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final.md) — The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, skip-level relationships, founder presence, and AI-era speed.
 - [Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work](sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2.md) — The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work.
 - [Ron Conway on Google's Early History and SV Angel's Role](sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2.md) — The Social Radars episode with Ron Conway on Google, Backrub, PageRank, Stanford sourcing, Larry Page and Sergey Brin, early angels, Kleiner/Sequoia financing, AOL/Yahoo distribution, AdWords, Gmail politics, YouTube, Napster, and Susan Wojcicki.
@@ -464,8 +465,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Delicious](entities/Delicious.md) — Social bookmarking site whose Popular page helped inspire Reddit's dynamic user-powered link list.
 - [Yishan Wang](entities/YishanWang.md) — Reddit CEO in the post-Conde Nast spinout period when the company regained more startup-like hiring and incentive structure.
 - [Sam Altman](entities/SamAltman.md) — Startup investor in the Reddit episode, linked to Reddit's Series B and the 2015 push for Huffman to return.
-- [Garry Tan](entities/GarryTan.md) — YC president and CEO whose episode connects Stanford, Microsoft, Palantir, Posterous, Initialized Capital, Bookface, founder honesty, co-founder conflict, and builder-centered institutions.
-- [Posterous](entities/Posterous.md) — Garry Tan's YC-backed blogging startup, used as a case for iPhone-era timing, launch support, Instagram competition, and co-founder conflict.
+- [Garry Tan](entities/GarryTan.md) — YC president and CEO whose episodes connect Stanford, Microsoft, Palantir, Posterous, Initialized Capital, Bookface, founder honesty, co-founder conflict, founder mode, and AI-era small-team economics.
+- [Posterous](entities/Posterous.md) — Garry Tan's YC-backed blogging startup, used as a case for iPhone-era timing, launch support, Instagram competition, co-founder conflict, and founder delegation failure.
 - [Initialized Capital](entities/InitializedCapital.md) — Venture firm Garry Tan began from the YC orbit, extending founder-investor learning beyond the seed-stage accelerator model.
 - [Startup School](entities/StartupSchool.md) — YC-linked startup event that helped push Garry Tan toward applying to YC by making the builder community visible.
 - [Bookface](entities/Bookface.md) — YC community software designed by Garry Tan to preserve founder identity, trust, and shared memory as batches scaled.
@@ -495,14 +496,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, Kiko/Twitch first-batch learning, founder-over-idea pivots, nonprofit and marketplace cases, trust-heavy infrastructure validation, and founder mode as a later scaling doctrine.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, first-batch learning, founder-over-idea pivots, nonprofit and marketplace cases, trust-heavy infrastructure validation, founder mode, and AI-era small-team economics.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
 - [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1/Season 2 wrap-up context.
 - [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1/Season 2 wrap-up context.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, Airbnb founder mode, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, Twitch, and season wrap-ups.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, Airbnb/Garry Tan founder mode, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, Twitch, and season wrap-ups.
 - [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
 - [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
 - [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
@@ -1787,7 +1788,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
 - [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
-- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and letting teams execute without constant redirection.
+- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and turning founder attention into real team ownership.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
 - [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
 - [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where grounded help can include coaching, financing, distribution, recruiting, and external translation.
@@ -1863,7 +1864,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unscalable Founder Work](concepts/UnscalableFounderWork.md) — Early-stage practice of doing manual, non-repeatable work to learn which product, trust, payment, and operations systems should later scale.
 - [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible, reinforced by the Brian Chesky Season 2 highlight.
 - [Founder-Led Functional Organization](concepts/FounderLedFunctionalOrganization.md) — Operating model where a scaling company uses functions, one roadmap, and direct founder review to preserve product coherence after drift or crisis.
-- [Founder Mode](concepts/FounderMode.md) — Scaling-company leadership doctrine where founders preserve direction through presence, skip-level relationships, product judgment, and small aligned teams rather than stepping back into professional-manager absence.
+- [Founder Mode](concepts/FounderMode.md) — Scaling-company leadership doctrine where founders preserve direction through presence, product judgment, accountability, delegation, and small aligned teams rather than professional-manager absence.
 - [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
 - [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
 - [Corporate-Owned Startup Constraints](concepts/CorporateOwnedStartupConstraints.md) — Operating limits that appear when an acquired startup needs equity incentives and speed but sits inside a larger corporate parent.
@@ -2642,7 +2643,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Agent Execution](concepts/LocalAgentExecution.md) — Agent execution against local files, apps, devices, and desktop workflows, with strong value and permission tradeoffs.
 - [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
 - [Private Label Brand Risk](concepts/PrivateLabelBrandRisk.md) — CPG risk where retailer-owned volume can weaken margin, brand memory, and category ownership.
-- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, experience quality, payment tolerance, market ceiling, and survival runway.
+- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, experience quality, payment tolerance, headcount leverage, market ceiling, and survival runway.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.
@@ -2675,7 +2676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
-- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
+- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, agent leverage, coordination, research vitality, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Commercialization thesis linking models, software, hardware carriers, users, physical-world data, and mainstream phone entry points.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
