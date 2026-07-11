@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Fewer students are enrolling in computer science classes and majors
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Carrie George of the Computing Research Association on declining U.S. computer and information science enrollment, uneven shifts across computing subfields, student reactions to AI and labor-market signals, international-student declines, and long-term research-pipeline risk. Created pages for Carrie George, Computing Research Association, National Student Clearinghouse Research Center, Computing Enrollment Decline, and Computing Research Pipeline; updated overview, index, Marketplace Tech, Stephanie Hughes, College Major Choice, AI Programming Engine Shift, Tech Hiring Stabilization, AI Labor Market Concentration, Software Developer Hiring Pullback, and Data Engineering Demand. No direct contradiction found; the source qualifies the weak tech-hiring branch by showing its effect on student demand, and qualifies college-major guidance by showing that AI-era uncertainty is shifting computing enrollment toward applied, specialized, and physical-systems-oriented programs rather than eliminating computing interest.
+
 ## [2026-07-12] ingest | High-tech data centers get a powerful assist from a century-old company
 
 Added source page for a Marketplace Tech episode on Caterpillar's AI data-center generator demand, grid interconnection delays, onsite natural gas power, and the power-generation backlog affecting both data-center developers and traditional backup-power customers. Created pages for Caterpillar, Dan Ackerman, David Victor, and Data Center Onsite Power; updated overview, index, Marketplace Tech, UCSD, Alphabet, AI Energy Bottleneck, AI Compute Continuity, MaaS Infrastructure, Data Center Physical Resilience, and AI Metabolic Infrastructure. No direct contradiction found; the source qualifies earlier utility-regulation and energy-bottleneck pages by showing that onsite generation can route around slow grid connections while shifting constraints to generator supply, fuel, emissions, and operations.
@@ -2278,3 +2282,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,999 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because no provider/model environment variables are present and the default `LLM_MODEL` fallback is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
