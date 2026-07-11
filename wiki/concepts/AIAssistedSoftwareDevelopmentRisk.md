@@ -2,8 +2,8 @@
 title: "AI Assisted Software Development Risk"
 type: concept
 tags: [software, ai, engineering-risk]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
-last_updated: 2026-07-07
+sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+last_updated: 2026-07-12
 ---
 
 # AI Assisted Software Development Risk
@@ -13,6 +13,8 @@ AI-assisted software development risk is the possibility that AI can accelerate 
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the architecture and context-management version: if users do not understand boundaries, interfaces, and module design, [[VibeCoding]] can create code that is harder to modify later even when it helps them build an initial product.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a self-use versus product-use distinction. Internal tools can be tolerated, repaired, or discarded by their creator, but products for other users require boundary cases, shared-state behavior, user responsibility, and long-term reliability. The source uses a successful [[ShengpaiNotice]] build and a failed larger automatic implementation attempt to show that [[AIEngineeringThinking]] is what separates useful AI-built tools from brittle product demos.
+
+[[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]] adds the enterprise SaaS version of the same boundary. [[DanielNewman]] says AI can generate a CRM-like or dashboard-like prototype, but production enterprise software also needs databases, APIs, updates, compliance, governance, security, and safe access to proprietary data.
 
 ## Key Lessons
 - AI can help ship features quickly, but migration, backward compatibility, and upgrade paths still require engineering discipline.
@@ -27,8 +29,10 @@ AI-assisted software development risk is the possibility that AI can accelerate 
 - Vibe coding increases the value of architecture because smaller, well-bounded modules fit agent context and review better than tangled code.
 - Self-use AI tools can be useful even when rough, but productized systems need explicit responsibility for users, edge cases, operations, and maintenance.
 - Asking AI to implement a large product document without staged decomposition can produce something neither architecturally coherent nor product-ready.
+- A plausible SaaS interface is not proof of enterprise replacement when the missing layer is data, permissions, records, compliance, and operational continuity.
 
 ## Connections
+- [[DanielNewman]], [[MarketplaceTech]], [[AINativeSaaSThreat]], and [[SaaSTrustMoat]] — enterprise-software production boundary added by the February 18, 2026 episode.
 - [[AgenticWorkflow]] — workflow acceleration that still needs safeguards.
 - [[ContextEngineering]] — AI needs enough context about data state, migration rules, and release constraints.
 - [[HumanJudgmentUnderAI]] — humans remain responsible for risk judgment.

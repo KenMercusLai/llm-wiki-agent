@@ -2,8 +2,8 @@
 title: "Digital Employees"
 type: concept
 tags: [ai, enterprise-ai, workforce]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
-last_updated: 2026-07-08
+sources: [tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
+last_updated: 2026-07-12
 ---
 
 # Digital Employees
@@ -22,6 +22,8 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 
 [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds the solo-organization version through [[YuYi]]. He explicitly asks what it would mean to treat AI as an employee: onboarding, training, working with colleagues, accumulating experience, and knowing when to escalate are still missing as complete infrastructure. The source therefore supports the digital-employee metaphor while showing why a founder cannot simply summon fifty agents and expect a functioning organization.
 
+[[tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128]] adds the SaaS-pricing version through [[DanielNewman]]. If a business runs many agents per human employee, software vendors can no longer assume that the number of human seats maps cleanly to work volume, compute consumption, or value created.
+
 ## Key Claims
 - Enterprise AI needs company context, workflow knowledge, data access, and workbench integration before it can create practical value.
 - AI workers need "teachers" inside the business, such as excellent store managers, salespeople, nutrition coaches, or property managers.
@@ -36,8 +38,10 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - The Shengdong Jixi crossover adds that managing agents resembles front-line management: a user must assign goals, describe process, inspect output, and decide which responsibilities remain human.
 - E225 adds that digital employees can become a commercial staffing unit through [[AIStaffing]], and that humans may move toward training, review, signing, and responsibility rather than executing every task step.
 - S10E18 adds that even personal or solo-company agents need employee-like lifecycle design: onboarding, authority, collaboration, feedback, memory, and escalation rules.
+- Marketplace Tech adds that digital employees also reshape software purchasing because agents may become the active users of enterprise systems.
 
 ## Connections
+- [[DanielNewman]], [[MarketplaceTech]], and [[OutcomeBasedAIPricing]] — agent-heavy SaaS pricing implication added by the February 18, 2026 episode.
 - [[ForwardDeployedEngineer]] — role that onboards and manages digital employees inside enterprises.
 - [[FrontlineAIEnablement]] — digital employees become valuable when paired with local human judgment.
 - [[BusinessLedAITransformation]] — organization and incentive changes needed for AI labor to work.

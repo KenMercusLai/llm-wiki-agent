@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Can software companies survive the AI boom?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against traditional SaaS, the difference between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, AI-agent-heavy workplaces, consumption/action/outcome pricing, natural-language interfaces, and SaaS consolidation. Created pages for Daniel Newman, monday.com, and Asana; updated overview, index, Marketplace Tech, Stephanie Hughes, AI Native SaaS Threat, SaaS Trust Moat, Outcome-Based AI Pricing, AI Governance And Compliance, AI Assisted Software Development Risk, Digital Employees, and Enterprise Agent Governance. No direct contradiction found; the source qualifies AI-native SaaS disruption by showing that enterprise replacement depends on data, compliance, governance, APIs, security, and systems-of-record trust, not interface generation alone.
+
 ## [2026-07-12] ingest | Fewer students are enrolling in computer science classes and majors
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Carrie George of the Computing Research Association on declining U.S. computer and information science enrollment, uneven shifts across computing subfields, student reactions to AI and labor-market signals, international-student declines, and long-term research-pipeline risk. Created pages for Carrie George, Computing Research Association, National Student Clearinghouse Research Center, Computing Enrollment Decline, and Computing Research Pipeline; updated overview, index, Marketplace Tech, Stephanie Hughes, College Major Choice, AI Programming Engine Shift, Tech Hiring Stabilization, AI Labor Market Concentration, Software Developer Hiring Pullback, and Data Engineering Demand. No direct contradiction found; the source qualifies the weak tech-hiring branch by showing its effect on student demand, and qualifies college-major guidance by showing that AI-era uncertainty is shifting computing enrollment toward applied, specialized, and physical-systems-oriented programs rather than eliminating computing interest.
@@ -2286,3 +2290,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,999 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because no provider/model environment variables are present and the default `LLM_MODEL` fallback is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
