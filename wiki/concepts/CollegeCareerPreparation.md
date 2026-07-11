@@ -2,7 +2,7 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
+sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
@@ -13,6 +13,8 @@ College career preparation is the episode's goal-dependent way to allocate under
 [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds an AI-disruption angle. [[WangJunyu]] and [[JustinYan]] note that some first-job tasks may be compressed by [[VibeCoding]], while students can also build apps and projects earlier than before. The preparation question therefore shifts from only finding an entry-level slot to building enough foundation, taste, and project evidence to judge and direct AI output.
 
 [[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]] adds an enrollment-signal version of the same pressure. [[ComputingEnrollmentDecline]] suggests that students and departments are already reacting to [[SoftwareDeveloperHiringPullback]], AI uncertainty, and the perceived relative strength of data science, cybersecurity, AI, and computer engineering.
+
+[[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds a pre-enrollment search version. Students use [[AICollegeSearch]] to compare colleges, scholarships, campus culture, and likely career outcomes, while schools respond through [[HigherEducationAIDiscoverability]] by making degree and career information easier for AI tools to retrieve.
 
 ## Key Claims
 
@@ -25,6 +27,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - AI may reduce some traditional beginner tasks, making independent projects and practical tool use more important as evidence of capability.
 - Foundations matter more, not less, when AI can generate plausible output that the learner must evaluate.
 - When enrollment shifts away from traditional CS, preparation should not only mean choosing a different label; students still need practical evidence, technical foundations, and enough labor-market literacy to understand why a subfield is attractive.
+- AI can support college and career-path comparison before enrollment, but students still need to verify whether summarized offers, outcomes, and campus signals match their actual goals.
 
 ## Connections
 
@@ -35,3 +38,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[AIEngineeringThinking]] and [[HumanJudgmentUnderAI]] — engineering and judgment signals that remain useful when AI lowers execution barriers.
 - [[VibeCoding]] and [[AIAsTutor]] — AI-era paths for building earlier practice while keeping enough foundation to judge output.
 - [[ComputingEnrollmentDecline]] and [[ComputingResearchPipeline]] — education-system signals that connect individual preparation to long-term workforce capacity.
+- [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-choice and offer-comparison layer added by Marketplace Tech.

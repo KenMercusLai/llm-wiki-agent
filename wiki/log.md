@@ -2171,6 +2171,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | AI Meets the Search for a BA
+
+Added source page for the Marketplace Tech episode on AI entering the college search process for students and colleges. Created pages for EAB, Jennifer Jesse, Michael Coppenheifer, Nick Swisher, Indiana Wesleyan University, U.S. News and World Report, Instagram, AI College Search, Higher Education AI Discoverability, and AI Ranking Reinforcement; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Analytics, College Major Choice, and College Career Preparation. No direct contradiction found; the source qualifies AI discovery optimism by showing that AI can make college search easier while reinforcing familiar ranking defaults unless students and counselors ask for fit-based alternatives.
+
 ## [2026-07-12] ingest | Here's how to prep for a job interview with AI
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and "AI plus HI" as a human-in-the-loop hiring boundary. Created pages for Ray Smith, Wall Street Journal, and AI Interviewing; updated overview, index, Marketplace Tech, Stephanie Hughes, Objective Hiring Assessment, AI Hiring Arms Race, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source qualifies objective hiring assessment by showing that skill-focused AI interviews still need transparent measurement and human accountability.
@@ -2330,6 +2334,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | AI makes it easier to code websites — including ones that scam consumers
 
 Added source page for the Marketplace Tech episode on AI-assisted scam websites, a fake Davines sponsored search result, and the way AI coding agents lower the cost of convincing brand impersonation. Created pages for Davines, Netcraft, Ginny Spicer, Coalfire, Charles Henderson, Silent Push, Zach Edwards, Lana Swartz, University of Virginia, AI-Assisted Website Scams, Fake Retail Website Impersonation, Search Ad Trust Gap, and Brand Impersonation Monitoring; updated overview, index, and related Marketplace Tech, Google, search-ad, and fraud pages. No direct contradiction found; the source qualifies AI-enabled scam industrialization by showing website production and paid search placement as another scaling path for fraud.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
