@@ -2,11 +2,13 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics, sanctions]
-sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-07-12
 ---
 
 # Iran
+
+[[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds a cybersecurity branch to the Iran page. [[RafePilling]] of [[Sophos]] describes [[IranLinkedCyberOperations]] as having evolved from website defacement and DDoS, including the 2011-2013 attacks on U.S. banks, into phishing, vulnerability scanning, [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]].
 
 Iran appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] through [[AliKhamenei]]'s funeral, the Islamic Republic's succession problem, the recent war with America and Israel as described by the episode, and unresolved diplomacy around sanctions, the nuclear file, the [[StraitOfHormuz]], and regional influence.
 
@@ -23,6 +25,8 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds Iran to the crypto-sanctions branch. [[AriRedbord]] cites two Iran-based cryptocurrency exchanges allegedly used by the [[IslamicRevolutionaryGuardCorps]] to launder illicit proceeds and evade sanctions, followed by [[USTreasury|U.S. Treasury]] sanctions against the exchanges and a financial facilitator.
 
 ## Connections
+- [[IranLinkedCyberOperations]], [[BankingDDoSResilience]], [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]] - cyber-risk branch added by Marketplace Tech.
+- [[RafePilling]], [[Sophos]], and [[MinistryOfIntelligenceAndSecurity]] - expert, security-company, and sponsor context in the cyber episode.
 - [[AliKhamenei]] - deceased supreme leader at the center of the funeral segment.
 - [[MujtabaKhamenei]] - successor figure whose absence creates uncertainty.
 - [[PoliticalFuneral]] - state-mobilized mourning and legitimacy performance.

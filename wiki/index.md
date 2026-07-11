@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Iran's cyberwar on American banks](sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks on U.S. banks, newer data theft and leak operations, industrial-control attacks, and why health care and sensitive-data holders may be more exposed than banks.
 - [Brands are racing to show up in AI search](sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Erin Griffith on answer engine optimization, dense factual content for chatbot discovery, AI-generated marketing fluff, Reddit and review reputation risk, and paid AI-search placement trust concerns.
 - [Digital archiving and the global memory shortage](sources/tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on AI data-center demand, memory-chip and hard-drive shortages, Digital Bedrock's archive work, hyperscaler dependence, and practical personal digital preservation.
 - [How government uses "surveillance as a service" to collect data](sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jeremy Scott on DHS access to private-sector data, administrative subpoenas, data brokers, Flock Safety, the third-party doctrine, and Fourth Amendment reform.
@@ -305,6 +306,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rafe Pilling](entities/RafePilling.md) — Sophos cybersecurity expert explaining Iran-linked cyber operations, the 2011-2013 DDoS attacks on U.S. banks, and why sensitive-data and industrial-control targets may worry him more than banks.
+- [Sophos](entities/Sophos.md) — Cybersecurity company represented by Rafe Pilling in the Marketplace Tech episode on Iran-linked cyber threats.
+- [Ministry of Intelligence and Security](entities/MinistryOfIntelligenceAndSecurity.md) — Iranian state sponsor named alongside the IRGC in the episode's account of Iran-linked cyber operations.
+- [Unitronics](entities/Unitronics.md) — Industrial-control systems company cited through a 2023 attack affecting water-treatment facilities near Pittsburgh.
 - [Erin Griffith](entities/ErinGriffith.md) — New York Times reporter interviewed by Marketplace Tech about answer engine optimization, brand visibility in chatbots, AI-generated marketing fluff, and trust risks around paid answer placement.
 - [Linda Todich](entities/LindaTodich.md) — Digital Bedrock archivist and CEO explaining how memory and hard-drive shortages affect professional and personal digital preservation.
 - [Digital Bedrock](entities/DigitalBedrock.md) — Archive-preservation company used as the Marketplace Tech case for storage scarcity affecting museums, libraries, movie studios, and TV studios.
@@ -382,7 +387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A7A5](entities/A7A5.md) — Russia-related stablecoin identified in the Marketplace Tech episode as a major driver of sanctions-related illicit crypto activity in 2025.
 - [Prince Group](entities/PrinceGroup.md) — Cambodia-based scam network cited as a sanctions and targeted-enforcement case in the Marketplace Tech crypto-crime episode.
 - [North Korea](entities/NorthKorea.md) — State actor now tied in the wiki to crypto-exchange attacks and remote-work identity-fraud risk.
-- [Islamic Revolutionary Guard Corps](entities/IslamicRevolutionaryGuardCorps.md) — Iranian organization connected by the Marketplace Tech source to alleged crypto-exchange laundering and sanctions evasion.
+- [Islamic Revolutionary Guard Corps](entities/IslamicRevolutionaryGuardCorps.md) — Iranian organization connected by Marketplace Tech to alleged crypto-exchange laundering, sanctions evasion, and Iran-linked cyber operations.
 - [Sadia Pekkanen](entities/SadiaPekkanen.md) — Space-policy expert interviewed by Marketplace Tech about lunar resources, the Artemis Accords, and the distinction between territorial ownership and resource use.
 - [Artemis 2](entities/Artemis2.md) — NASA mission framed by Marketplace Tech as a milestone inside the wider push toward sustained lunar presence.
 - [Artemis Accords](entities/ArtemisAccords.md) — U.S.-led nonbinding space-exploration principles discussed as a starting point for lunar safety zones, transparency, and resource governance.
@@ -397,7 +402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Understanding America Study](entities/UnderstandingAmericaStudy.md) — USC-run panel used to randomize respondents into smartphone and non-smartphone survey modes.
 - [University of Southern California](entities/UniversityOfSouthernCalifornia.md) — Institution running the Understanding America Study panel used in the smartphone survey experiment.
 - [Pew Research Center](entities/PewResearchCenter.md) — Research organization whose smartphone-adoption estimates contextualize the shift toward mobile survey-taking.
-- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on AI scam websites, Meta AI strategy, SaaS pressure, computing enrollment, crypto crime, and weekly tech news.
+- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on Iran-linked cyber risk, AI scam websites, Meta AI strategy, SaaS pressure, computing enrollment, crypto crime, and weekly tech news.
 - [Paresh Devey](entities/PareshDevey.md) — Wired senior writer whose Marketplace Tech analysis connects SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok to infrastructure and capital-market risk.
 - [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
 - [MGX](entities/MGX.md) — Investor named in the joint venture behind U.S. TikTok.
@@ -653,7 +658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI chip specialization, smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, digital archiving, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on Iran-linked cyber risk, AI chip specialization, smartphone survey bias, patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, digital archiving, data-center debt risk, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -1279,7 +1284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
-- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, and digital-infrastructure war risk.
+- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, digital-infrastructure war risk, and state-linked cyber operations.
 - [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to the episode's U.S.-Iran deal terms and later Iran ceasefire bargaining.
 - [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
@@ -1897,6 +1902,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Iran-Linked Cyber Operations](concepts/IranLinkedCyberOperations.md) — State-linked cyber activity described as evolving from DDoS and website defacement toward phishing, vulnerability scanning, data theft, leaks, and industrial-control targeting.
+- [Banking DDoS Resilience](concepts/BankingDDoSResilience.md) — Bank preparedness against denial-of-service campaigns that overwhelm public websites while preserving legitimate customer access.
+- [Cyber Data Theft and Leak Operations](concepts/CyberDataTheftAndLeakOperations.md) — Intrusion pattern where stolen data is released or amplified to spread uncertainty, damage credibility, or expose sensitive records.
+- [Industrial Control System Cyber Risk](concepts/IndustrialControlSystemCyberRisk.md) — Cyber risk to systems that control physical infrastructure, grounded by the Unitronics water-treatment example.
 - [Answer Engine Optimization](concepts/AnswerEngineOptimization.md) — Practice of making brands, products, institutions, or services discoverable and accurately represented in chatbot answers through dense factual public information.
 - [Memory Chip Shortage](concepts/MemoryChipShortage.md) — AI-data-center-driven shortage pattern affecting memory prices, hard-drive availability, consumer devices, archives, and personal storage.
 - [Digital Preservation](concepts/DigitalPreservation.md) — Active stewardship needed to keep digital materials findable, intact, migrated, and usable over time rather than merely stored.

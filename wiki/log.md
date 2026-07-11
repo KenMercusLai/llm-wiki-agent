@@ -2386,3 +2386,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Iran's cyberwar on American banks
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks against U.S. banks, broader phishing/vulnerability-scanning/data-theft capabilities, and industrial-control risk through the Unitronics example. Created pages for Rafe Pilling, Sophos, Ministry of Intelligence and Security, Unitronics, Iran-Linked Cyber Operations, Banking DDoS Resilience, Cyber Data Theft and Leak Operations, and Industrial Control System Cyber Risk; updated overview, index, Marketplace Tech, Stephanie Hughes, Iran, IRGC, infrastructure-attack, ransomware-continuity, backup-recovery, health-data, internet-healthcare, and financial-resilience pages. No direct contradiction found; the source qualifies bank-focused cyber concern by arguing banks are likely more prepared for DDoS than health care, sensitive-data, and industrial-control targets are for intrusion, leaks, wipers, or ransomware-type disruption.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
