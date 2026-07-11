@@ -2,7 +2,7 @@
 title: "Sequoia Capital"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-12
 ---
 
@@ -20,6 +20,8 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 
 [[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Sequoia through [[Dropbox]]'s fast seed-round story. [[PejmanNozad]] introduced [[DrewHouston]] and [[ArashFerdowsi]] to the firm, [[MikeMoritz]] met them in their apartment, and Houston recalls a quick handshake deal for $1 million after Boston investors had mostly emphasized market and incumbent objections.
 
+[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Sequoia through [[Google]]'s 1999 financing. [[LarryPage]] and [[SergeyBrin]] wanted Sequoia because of its [[Yahoo]] relationship, while they wanted [[KleinerPerkins]] because of its [[AOL]] relationship. [[RonConway]] says he and [[RamShriram]] helped get both firms into the same round despite initial resistance, making Sequoia part of a [[VentureSyndicateOrchestration]] case rather than only a capital provider.
+
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], and [[StartupAcceleratorBatchSelection]] - accelerator context.
 - [[SamAltman]] - founder/investor-network example named in the source.
@@ -28,3 +30,5 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 - [[FounderInvestorLearning]] and [[StartupEssayDistribution]] - adjacent YC deal-flow and investor-design concepts.
 - [[Looped]], [[SamAltman]], and [[FounderRiskCalibration]] - first-company fundraising context added by the Sam Altman episode.
 - [[Dropbox]], [[DrewHouston]], [[ArashFerdowsi]], [[PejmanNozad]], and [[MikeMoritz]] - seed-round context added by the Drew Houston episode.
+- [[Google]], [[LarryPage]], [[SergeyBrin]], [[RonConway]], [[RamShriram]], [[KleinerPerkins]], and [[Yahoo]] - Google financing context added by the Conway Part 3 episode.
+- [[VentureSyndicateOrchestration]] and [[DistributionBeforeMonetization]] - concepts grounded by the Google round.

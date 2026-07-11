@@ -2,7 +2,7 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-11
 ---
 
@@ -14,9 +14,13 @@ YouTube appears in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgz
 
 The episode's forward-looking claim is that pure overseas distribution may become less defensible as AI subtitles, translation, and dubbing improve. Distributors may need to provide deeper value through [[AIVideoProductionWorkflow]], IP sourcing, creator services, platform communication, and packaging rather than only uploading and localizing files.
 
+[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds YouTube through [[RonConway]]'s [[Google]] relationship and media/internet convergence thesis. Conway says YouTube faced lawsuits and that selling to Google helped it avoid [[Napster]]'s fate, making the acquisition a case in [[LegalRiskAcquirerFit]]. The source also remembers [[SusanWojcicki]] as a key builder and later leader of YouTube.
+
 ## Connections
 - [[WangXiaoshu]] — guest describing the distribution experience.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
 - [[AIShortDrama]] — content category being distributed.
 - [[AIVideoProductionWorkflow]] — workflow and localization services that may replace pure distribution value.
 - [[VerticalMediaDistribution]] — broader media-distribution frame already used elsewhere in the wiki.
+- [[Google]], [[RonConway]], [[SVAngel]], [[Napster]], and [[SusanWojcicki]] — Google acquisition and institutional-memory context added by the Conway Part 3 episode.
+- [[LegalRiskAcquirerFit]] — acquisition pattern where the right buyer can absorb startup legal exposure.

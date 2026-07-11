@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Ron Conway on Google's Early History and SV Angel's Role
+
+Added source page for The Social Radars episode with Ron Conway on Google's early history, SV Angel's Stanford sourcing, PageRank and relevance, Larry Page and Sergey Brin, early angels, the Kleiner Perkins/Sequoia round, AOL/Yahoo distribution, AdWords monetization, Gmail politics, YouTube/Napster legal-risk contrast, and Susan Wojcicki. Created pages for Larry Page, Sergey Brin, David Cheriton, Rajiv Motwani, Jeff Ullman, Ram Shriram, Jeff Bezos, Andy Bechtolsheim, Bob Bozeman, John Doerr, Salar Kamangar, AdWords, AOL, Ask Jeeves, Cindy McCaffrey, Omid Kordestani, Eric Schmidt, Sheryl Sandberg, Susan Wojcicki, Napster, Sean Fanning, PageRank Search Relevance, Stanford Startup Sourcing, Venture Syndicate Orchestration, Distribution Before Monetization, Search Quality Operating Cadence, and Legal Risk Acquirer Fit; updated overview, index, Ron Conway, SV Angel, Google, The Social Radars, Stanford University, Sequoia Capital, Kleiner Perkins, Mike Moritz, Yahoo, Gmail, YouTube, Warren Buffett, Semantic Search Relevance, Founder Friendly Investor Support, Outlier-Driven Angel Investing, and Founder-Investor Learning. No direct contradiction found; the source complements existing Google and Gmail material with Conway's investor-network account and should be read as the SV Angel cut of early Google history.
+
 ## [2026-07-12] ingest | Drew Houston on Dropbox: Origin, Survival, and Reinvention
 
 Added source page for The Social Radars episode with Drew Houston on Dropbox's origin, YC entry, Arash Ferdowsi, sync reliability, viral and bottom-up distribution, Sequoia funding, Apple/Google/Microsoft incumbent pressure, Carousel and Mailbox, productivity focus, founder psychology, dual-class public-company control, and Dropbox Dash. Created pages for Drew Houston, Dropbox, Arash Ferdowsi, Dropbox Dash, Pejman Nozad, Mike Moritz, Carousel, Mailbox, Sync Reliability As UX, Incumbent Platform Pressure, Bottom-Up Enterprise Distribution, Strategic Focus Under Incumbent Pressure, Knowledge Work Fragmentation, and Founder Psychology Operational Risk; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Trevor Blackwell, Sequoia Capital, Apple, Steve Jobs, Google, Google Photos, Microsoft, Enterprise File Sync, Trust-Heavy Infrastructure Sales, Founder Product Fit, Founder Control, Founder Motivation Evolution, Founder Resilience, Startup Community Infrastructure, Platform Dependency Risk, and Product Vision Drift. No direct contradiction found; the source qualifies the AeroFS file-sync branch by showing Dropbox as the simple, reliable, user-trusted reference product that later had to survive platform-backed competition and strategic narrowing.
@@ -2150,6 +2154,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Sam Altman on YC, OpenAI, and the Meaning of Formidable
 
 Added source page for The Social Radars episode with Sam Altman on Looped, the first Y Combinator batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis. Created pages for Looped, Greg Brockman, Blake Ross, Helion, Reid Hoffman, Shivon Zilis, Will Hurd, Founder Risk Calibration, OpenAI Board Crisis, Language Model Scaling Bet, and Delegated Web Research; updated overview, index, Sam Altman, OpenAI, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, ChatGPT, Google, Google DeepMind, Ilya Sutskever, Emmett Shear, Adam D'Angelo, Microsoft, David Sacks, Elon Musk, Ron Conway, Steve Jobs, Goldman Sachs, Sequoia Capital, Startup Governance, AI Alignment Governance, Platform Dependency Risk, and Startup Accelerator Batch Selection. No direct contradiction found; the OpenAI crisis material is preserved as Altman's first-person account and should be paired with other perspectives for disputed board intent and safety claims.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

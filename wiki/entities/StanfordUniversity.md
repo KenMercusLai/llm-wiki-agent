@@ -2,8 +2,8 @@
 title: "Stanford University"
 type: entity
 tags: [university, research, ai, startups]
-sources: [socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final]
-last_updated: 2026-07-11
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final]
+last_updated: 2026-07-12
 ---
 
 # Stanford University
@@ -20,6 +20,8 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 
 [[socialradarsseason2-dimitri-final]] adds Stanford through [[DimitriDadiomov]]'s undergraduate connection to [[YCombinator]]. Dadiomov was president of [[BASES]] when he helped [[JessicaLivingston]] and YC host Startup School at Stanford in 2006, creating a long relationship before his later [[ModernTreasury]] interview.
 
+[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Stanford as the research and sourcing environment behind early [[Google]]. [[RonConway]] says [[SVAngel]] deliberately cultivated Stanford engineering professors because startups often came out of PhD programs; [[DavidCheriton]] and [[RajivMotwani]] then became key links to [[LarryPage]], [[SergeyBrin]], and [[PageRankSearchRelevance]].
+
 ## Connections
 - [[CommonSenseMedia]] - co-cited report source in the episode.
 - [[DariaGeorgievich]] - expert interviewed about chatbot testing.
@@ -29,3 +31,4 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 - [[GarryTan]], [[YCombinator]], [[StartupSchool]], and [[BuilderCenteredInstitutions]] - founder-formation branch added by the Tan episode.
 - [[EdithElliott]], [[NooraHealth]], [[CareCompanionProgram]], and [[FamilyCaregiverTraining]] - global-health design-project branch added by The Social Radars.
 - [[DimitriDadiomov]], [[BASES]], [[JessicaLivingston]], [[YCombinator]], and [[ModernTreasury]] - Stanford startup-community branch added by the Dadiomov episode.
+- [[Google]], [[LarryPage]], [[SergeyBrin]], [[DavidCheriton]], [[RajivMotwani]], and [[StanfordStartupSourcing]] - search and investor-sourcing branch added by the Conway Part 3 episode.

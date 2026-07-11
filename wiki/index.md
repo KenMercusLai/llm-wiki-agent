@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ron Conway on Google's Early History and SV Angel's Role](sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2.md) — The Social Radars episode with Ron Conway on Google, Backrub, PageRank, Stanford sourcing, Larry Page and Sergey Brin, early angels, Kleiner/Sequoia financing, AOL/Yahoo distribution, AdWords, Gmail politics, YouTube, Napster, and Susan Wojcicki.
 - [Drew Houston on Dropbox: Origin, Survival, and Reinvention](sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5.md) — The Social Radars episode with Drew Houston on Dropbox's forgotten-thumb-drive origin, YC entry, Arash Ferdowsi, sync reliability, viral distribution, Sequoia seed funding, Apple/Google/Microsoft pressure, productivity focus, founder psychology, public-company control, and Dropbox Dash.
 - [Sam Altman on YC, OpenAI, and the Meaning of Formidable](sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4.md) — The Social Radars episode with Sam Altman on Looped, YC's first batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis.
 - [Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself](sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2.md) — The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, Shenzhen manufacturing, inventory and venture-debt mistakes, product-vision drift, and Beeper as another build-for-yourself product.
@@ -342,8 +343,29 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carta](entities/Carta.md) — Cap-table management incumbent contrasted with Pulley through founder access, late-stage workflow focus, and trust-sensitive switching after privacy and secondary-sale concerns.
 - [Prim](entities/Prim.md) — Yin Wu's same-day laundry delivery startup used as a case in doing the work, local-service operations, and the limit of solving one's own problem without durable user obsession.
 - [Echo Locker](entities/EchoLocker.md) — Lock-screen notification and priority-inbox product Yin Wu restarted around in YC Summer 2013 before Microsoft acquired it.
-- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episode traces National Semiconductor, Altos, Band of Angels, and the pre-SV Angel apprenticeship behind his founder-helper investing style.
-- [SV Angel](entities/SVAngel.md) — Ron Conway's later institutional context named in the source metadata; current page is intentionally narrow until later Conway episodes cover the SV Angel era directly.
+- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episodes trace National Semiconductor, Altos, Band of Angels, SV Angel, Google financing, and founder-helper investing.
+- [SV Angel](entities/SVAngel.md) — Ron Conway's investment firm, expanded through the Google episode as a case in Stanford sourcing, venture syndication, distribution help, and founder-friendly support.
+- [Larry Page](entities/LarryPage.md) — Google co-founder whose Conway Part 3 story links PageRank, search-quality metrics, hiring rigor, and distribution-aware financing.
+- [Sergey Brin](entities/SergeyBrin.md) — Google co-founder whose Conway Part 3 story links PageRank, the Kleiner/Sequoia round, and Gmail-era political translation.
+- [David Cheriton](entities/DavidCheriton.md) — Stanford professor and early Google backer who introduced Ron Conway to Backrub and made PageRank/relevance legible.
+- [Rajiv Motwani](entities/RajivMotwani.md) — Stanford professor close to Larry Page and Sergey Brin, part of the research and sourcing network behind early Google.
+- [Jeff Ullman](entities/JeffUllman.md) — Stanford professor named in the early Google research context around Page, Brin, and Motwani.
+- [Ram Shriram](entities/RamShriram.md) — Early Google investor who worked with Ron Conway to get Kleiner Perkins and Sequoia into the same financing.
+- [Jeff Bezos](entities/JeffBezos.md) — Early Google angel investor named in Ron Conway's account, currently a supporting node until an Amazon-specific source expands him.
+- [Andy Bechtolsheim](entities/AndyBechtolsheim.md) — Early Google angel investor whose $100,000 check is part of Conway's company-formation account.
+- [Bob Bozeman](entities/BobBozeman.md) — Angel Investors One partner who validated Google's search quality for Ron Conway during the 165 University Avenue visit.
+- [John Doerr](entities/JohnDoerr.md) — Kleiner Perkins investor wanted by Google's founders for the 1999 round and AOL distribution access.
+- [Salar Kamangar](entities/SalarKamangar.md) — Early Google operator credited by Ron Conway with the AdWords strategy that monetized search usage.
+- [AdWords](entities/AdWords.md) — Google advertising product presented in Conway Part 3 as the monetization bridge after search relevance and distribution.
+- [AOL](entities/AOL.md) — Pre-Google internet/search company and desired distribution partner behind Google's interest in Kleiner Perkins.
+- [Ask Jeeves](entities/AskJeeves.md) — Pre-Google search company used in Conway's account to show the crowded but relevance-poor search market.
+- [Cindy McCaffrey](entities/CindyMcCaffrey.md) — Google's first VP of marketing, introduced by SV Angel according to Ron Conway.
+- [Omid Kordestani](entities/OmidKordestani.md) — Early Google business-side leader whom Conway says SV Angel helped during the company-building phase.
+- [Eric Schmidt](entities/EricSchmidt.md) — Google CEO hire named in Conway's account as part of the company's post-financing governance and scaling path.
+- [Sheryl Sandberg](entities/SherylSandberg.md) — Google executive in Conway's account of the funding round that AdWords revenue made unnecessary.
+- [Susan Wojcicki](entities/SusanWojcicki.md) — Google garage host, search-metrics artifact preserver, and YouTube leader remembered in Conway Part 3.
+- [Napster](entities/Napster.md) — File-sharing company contrasted with Google and YouTube as a legal-risk cautionary case.
+- [Sean Fanning](entities/SeanFanning.md) — Napster founder whom Larry Page and Sergey Brin wanted to meet while Google was still small.
 - [National Semiconductor](entities/NationalSemiconductor.md) — Conway's first Silicon Valley employer and a source case for semiconductor sales culture, equity compensation, customer relationships, and talent genealogy.
 - [Charlie Sporck](entities/CharlieSporck.md) — National Semiconductor CEO in Conway's account, representing the intense semiconductor operating culture that shaped early Silicon Valley talent.
 - [Altos Computer](entities/AltosComputer.md) — Early microcomputer company where Conway led sales and marketing, built distribution, reached an IPO, and later learned the cost of missing the PC wave.
@@ -372,7 +394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Andreessen](entities/MarkAndreessen.md) — Andreessen Horowitz co-founder named in Conrad's account of the YC-network intervention.
 - [Lanny Davis](entities/LannyDavis.md) — Crisis-communications figure Conrad says was involved in aggressive post-Zenefits media pressure.
 - [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
-- [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm that led Rippling's Series A through Mamoon Hamid.
+- [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm tied to Rippling's Series A and Google's 1999 round, where its AOL relationship made it strategically useful.
 - [Simply Insured](entities/SimplyInsured.md) — YC batch competitor to Zenefits used in the episode to show how launch timing shaped category narrative.
 - [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, returning to YC, and later OpenAI-timing context.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
@@ -409,7 +431,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Arc](entities/ArcLanguage.md) — Paul Graham's Lisp dialect that followed an unrealized browser-based development-platform idea after Viaweb.
 - [Summer Founders Program](entities/SummerFoundersProgram.md) — First Y Combinator program, initially a summer experiment that became the batch model.
 - [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
-- [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm whose early interest in a first-batch YC company helped validate Y Combinator.
+- [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm linked to YC validation, Altos, Airbnb, Dropbox, and Google's 1999 round through Yahoo distribution access.
 - [Greg McAdoo](entities/GregMcAdoo.md) — Sequoia Capital investor who helped reframe Airbnb from an air-bed idea into a broader vacation-rental and lodging marketplace opportunity.
 - [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes and Season 2 wrap-up context connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, and founder-led operating design.
 - [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, Season 2 highlight status, and founder-led reset.
@@ -442,7 +464,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google Photos](entities/GooglePhotos.md) — Google photo product that Lieb traces back to Bump power users, Flock's failed separate-app path, and an internal fight against Google Plus framing.
 - [Google Plus](entities/GooglePlus.md) — Google social product context that redirected photo work after the Bump acquisition and became the internal obstacle in Lieb's Google Photos account.
 - [Paul Buchheit](entities/PaulBuchheit.md) — Creator of Gmail, early Google employee, FriendFeed founder, former YC partner, and angel investor whose episode links fast product feedback to startup judgment.
-- [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal-user feedback, large-storage differentiation, and a constrained launch after a press leak.
+- [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal feedback and later appearing in Conway's IPO-period privacy/political story.
 - [FriendFeed](entities/FriendFeed.md) — Social-activity aggregation startup founded by Paul Buchheit after Google and later acquired by Facebook/Meta.
 - [Tony Xu](entities/TonyXu.md) — DoorDash founder and CEO whose episode connects small-business exposure, Stanford Startup Garage, janky MVP testing, YC, and founder proximity.
 - [DoorDash](entities/DoorDash.md) — Food-delivery marketplace built from PaloAltoDelivery, used as a case for three-sided validation, suburban delivery strategy, and operational complexity.
@@ -473,7 +495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
 - [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
 - [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
-- [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
+- [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and desired early Google distribution partner behind the founders' interest in Sequoia.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
 - [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist explaining Micron's AI memory demand, Oracle data-center debt risk, and AI slop in the Marketplace Tech Bytes episode.
@@ -512,7 +534,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Stanford University](entities/StanfordUniversity.md) — University context for the teen chatbot safety report, DoorDash's Stanford Startup Garage origin, Garry Tan's founder formation, and Noora Health's design-project origin.
+- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, and teen chatbot safety.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
@@ -898,7 +920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [YouTube](entities/YouTube.md) — Video distribution surface for Chinese short dramas and for Social Radars interview clips supplementing podcast episodes.
+- [YouTube](entities/YouTube.md) — Video platform discussed through short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -1505,7 +1527,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, world-model interest, search-platform comparison, mobile-platform strategy, and TikTok's global-incumbent competitive frame.
+- [Google](entities/Google.md) — Search, ads, mobile, cloud, and AI company now grounded by Conway's early PageRank, financing, distribution, AdWords, Gmail, and YouTube account.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
@@ -1680,7 +1702,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
-- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons, Berkshire's cash and Apple reduction, and consumer-brand cases with Charlie Munger.
+- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through public-market discipline, Munger cases, and Conway's account of Google's IPO-letter influence.
 - [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, low-level programming craft, campus radio, and monitor physics.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [微信读书](entities/WeChatReading.md) — Reading and notes product used as a non-coding Skill target for personal knowledge workflows.
@@ -1757,7 +1779,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and letting teams execute without constant redirection.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
 - [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
-- [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where help is grounded, available, and low-friction rather than distracting or performative.
+- [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where grounded help can include coaching, financing, distribution, recruiting, and external translation.
 - [Cap Table Literacy](concepts/CapTableLiteracy.md) — Founder ability to understand ownership, dilution, employee pools, investor rights, and control before financing and hiring decisions become irreversible.
 - [Founder Equity Dilution](concepts/FounderEquityDilution.md) — Ownership reduction from co-founders, advisors, accelerators, early investors, option pools, and later rounds, with consequences for motivation and fundraising.
 - [Fundraising Scenario Modeling](concepts/FundraisingScenarioModeling.md) — Practice of modeling SAFEs, pro rata rights, MFNs, valuation, employee pools, dilution, and control before founders sign financing documents.
@@ -1772,6 +1794,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.
 - [Organized Angel Investor Networks](concepts/OrganizedAngelInvestorNetworks.md) — Early-stage investing structure where recurring meetings, trusted operators, founder pitches, and individual checks make angel investing repeatable.
 - [Equity Compensation Upside](concepts/EquityCompensationUpside.md) — Startup and technology-company compensation pattern where employee ownership can create major upside when timing and company trajectory align.
+- [PageRank Search Relevance](concepts/PageRankSearchRelevance.md) — Historical Google search-quality breakthrough where link-based ranking made relevance visibly better in a crowded search market.
+- [Stanford Startup Sourcing](concepts/StanfordStartupSourcing.md) — Investor practice of building trusted Stanford professor relationships to discover technical startups before ordinary deal channels.
+- [Venture Syndicate Orchestration](concepts/VentureSyndicateOrchestration.md) — Fundraising pattern where founders and trusted intermediaries assemble investors for strategic distribution and credibility, not only capital.
+- [Distribution Before Monetization](concepts/DistributionBeforeMonetization.md) — Startup sequence where product value and distribution access justify financing before a clear revenue model emerges.
+- [Search Quality Operating Cadence](concepts/SearchQualityOperatingCadence.md) — Product-operating pattern where search counts, failed queries, and founder review make relevance improvement daily work.
+- [Legal Risk Acquirer Fit](concepts/LegalRiskAcquirerFit.md) — Acquisition pattern where the right buyer can absorb legal exposure that might overwhelm an independent media or platform startup.
 - [Hard Problem MVP Scoping](concepts/HardProblemMVPScoping.md) — Startup pattern of reducing an enormous technical problem into a narrow first wedge that creates learning, credibility, and de-risking.
 - [Hard Tech Fundraising](concepts/HardTechFundraising.md) — Fundraising pattern for capital-intensive, technically difficult startups that need a credible de-risking path before software-style traction exists.
 - [Robotaxi Economics](concepts/RobotaxiEconomics.md) — Autonomous-mobility business logic where removing the driver changes ride-hailing economics but requires density, operations, safety, capital, and public trust.
@@ -1835,7 +1863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Large Company Risk Incentives](concepts/LargeCompanyRiskIncentives.md) — Organizational incentive pattern where successful companies under-launch risky products because personal downside is clearer than uncertain upside.
 - [Fast Feedback Loops](concepts/FastFeedbackLoops.md) — Product-building pattern where working versions reach real users quickly and direct user behavior drives the next change.
 - [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
-- [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakout companies dominate returns and founder quality outweighs investor desire for an idea.
+- [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakouts dominate returns and investors may actively help sourcing, validation, financing, and distribution.
 - [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
 - [Family Caregiver Training](concepts/FamilyCaregiverTraining.md) — Health intervention pattern where hospitals train present, motivated family members to support patients safely between formal clinical encounters.
 - [Nonprofit Startup Discipline](concepts/NonprofitStartupDiscipline.md) — Applying startup habits such as focus, metrics, concise storytelling, and milestone learning to nonprofit execution.
@@ -1851,7 +1879,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Startup Infrastructure Improvisation](concepts/StartupInfrastructureImprovisation.md) — Pattern where early companies keep services and institutions running through practical but risky fixes such as bogometers, fax modems, generator attempts, and unfinished offices.
 - [Dynamic Balancing Robotics](concepts/DynamicBalancingRobotics.md) — Walking-robot route focused on active balance, compliant actuation, terrain adaptation, and impact tolerance rather than only careful foot geometry.
 - [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection, including founder-versus-idea calls.
-- [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where founders translate their own fundraising pain into investor services, advice, selection, and community design.
+- [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where operators translate founder experience into investor services, advice, sourcing, validation, syndication, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
@@ -1977,7 +2005,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Active Use Metrics](concepts/RobotActiveUseMetrics.md) — robotics adoption metric discipline focused on active rate and repeated real-world use rather than shipments or demos.
 - [Vector Model Engineering](concepts/VectorModelEngineering.md) — Practice of training and evaluating embedding, recall, ranking, and retrieval models that remain necessary beneath GPT-style AI systems.
 - [Retrieval-Augmented Generation](concepts/RetrievalAugmentedGeneration.md) — Pattern and enterprise pipeline for grounding language-model answers in retrieved external knowledge.
-- [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of what counts as a useful retrieval match across FAQ, search, clustering, and domain workflows.
+- [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of useful retrieval, now linked to both AI/vector search and Google's historical PageRank relevance breakthrough.
 - [Document Chunking](concepts/DocumentChunking.md) — RAG design problem of splitting source material into retrieval units without destroying semantic, layout, or argument structure.
 - [Reranking Models](concepts/RerankingModels.md) — Second-stage retrieval models that rescore recalled candidates before evidence is passed to a language model.
 - [Hard Negative Mining](concepts/HardNegativeMining.md) — Training-data practice of using close-but-wrong examples so retrieval models learn domain-specific distinctions.
