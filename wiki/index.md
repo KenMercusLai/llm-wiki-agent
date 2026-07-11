@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta's big bet on superintelligence](sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI capex, ad-targeting payoff, Meta AI's consumer-adoption gap, Ray-Ban smart glasses, personal superintelligence, privacy tension, and AI overtaking VR inside Meta's priorities.
 - [Can software companies survive the AI boom?](sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against SaaS, the gap between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, agent-heavy workplaces, consumption/outcome pricing, and SaaS consolidation.
 - [Fewer students are enrolling in computer science classes and majors](sources/tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Carrie George on declining U.S. computer and information science enrollment, uneven demand across computing subfields, AI and labor-market anxiety, international-student declines, and research-pipeline risk.
 - [High-tech data centers get a powerful assist from a century-old company](sources/tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128.md) — Marketplace Tech episode on Caterpillar's natural gas generators becoming primary power for some AI data centers as grid interconnection delays push developers toward onsite electricity generation.
@@ -295,6 +296,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mike Isaac](entities/MikeIsaac.md) — New York Times reporter interviewed by Marketplace Tech about Meta's AI spending, ad business, consumer-assistant gap, smart glasses, and VR priority shift.
+- [New York Times](entities/NewYorkTimes.md) — Media organization entering the wiki through Mike Isaac's Marketplace Tech commentary on Meta's AI strategy.
+- [Meta AI](entities/MetaAI.md) — Meta's consumer AI assistant, discussed as less prominent than ChatGPT and in need of differentiation through personal superintelligence.
+- [Ray-Ban Smart Glasses](entities/RayBanSmartGlasses.md) — Meta wearable hardware route for putting AI assistance into object recognition, directions, recipes, and other daily contexts.
+- [Reality Labs](entities/RealityLabs.md) — Meta's VR/AR division, used in the source to show AI overtaking VR as the company's more urgent priority.
 - [Daniel Newman](entities/DanielNewman.md) — Marketplace Tech guest explaining why AI-generated prototypes threaten some SaaS categories but do not automatically replace governed enterprise systems.
 - [monday.com](entities/MondayCom.md) — Project-management SaaS example named in the Marketplace Tech episode on AI pressure against traditional software companies.
 - [Asana](entities/Asana.md) — Project-management SaaS example named in the Marketplace Tech episode on AI pressure against traditional software companies.
@@ -1830,6 +1836,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Personal Superintelligence](concepts/PersonalSuperintelligence.md) — Meta's proposed personalized assistant strategy combining user data, Meta AI, app distribution, and wearable hardware.
+- [AI Advertising Targeting](concepts/AIAdvertisingTargeting.md) — Use of AI to improve ad matching, timing, prediction, and monetization inside platform advertising businesses.
 - [Computing Enrollment Decline](concepts/ComputingEnrollmentDecline.md) — Reported fall in U.S. computer and information science enrollment, with students shifting away from traditional CS toward applied computing subfields.
 - [Computing Research Pipeline](concepts/ComputingResearchPipeline.md) — Path from undergraduate computing study into graduate programs, university research, and industry research capacity.
 - [Data Center Onsite Power](concepts/DataCenterOnsitePower.md) — Pattern where data-center developers generate electricity at or near the facility, often to move faster than grid interconnection queues allow.

@@ -2,7 +2,7 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-12
 ---
 
@@ -15,6 +15,8 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] extends that search-surface role into [[AISearchAdvertising]]. The episode discusses chatbot answers as attractive partly because they currently feel ad-light, then asks whether platforms such as [[OpenAI]] can add sponsored results without undermining user trust.
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds ChatGPT as the retention benchmark for consumer assistants. The hosts say one reason they keep returning to ChatGPT over [[Doubao]], [[Gemini]], or other assistants is accumulated memory and personal context, which makes later conversations feel more aware of the user.
+
+[[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]] adds ChatGPT as the consumer-mindshare benchmark for [[MetaAI|Meta AI]]. [[MikeIsaac]] says people are not flocking to Meta AI the way they did to ChatGPT, and frames [[OpenAI]]'s early first-mover advantage as a reason many users now associate chatbots with ChatGPT.
 
 [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] adds an investing use case: ChatGPT-like tools can help ordinary investors understand filings, valuation ideas, and terminology, but should be used as assistants inside [[AIInvestmentResearch]] rather than as final stock pickers.
 
@@ -48,3 +50,4 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] - recruiting overload and fake-profile risks added by The Intelligence.
 - [[AGIThreeActs]], [[OpenAI]], [[Codex]], and [[ModelAsOperatingSystem]] - first-act chatbot and second-act coding-agent contrast added by episode 136.
 - [[SamAltman]], [[DelegatedWebResearch]], [[AISearchEvaluation]], and [[Google]] - search replacement and long-running research context added by The Social Radars.
+- [[MetaAI|Meta AI]], [[PersonalSuperintelligence]], and [[RayBanSmartGlasses|Ray-Ban smart glasses]] - Meta's attempt to differentiate against ChatGPT through user data and wearable context.

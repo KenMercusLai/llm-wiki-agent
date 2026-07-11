@@ -2294,3 +2294,23 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Meta's big bet on superintelligence
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI spending, ad-targeting payoff, Meta AI's weaker consumer mindshare than ChatGPT, Ray-Ban smart glasses as a wearable assistant route, personal superintelligence, Meta's data advantage and privacy tension, and AI overtaking VR inside Meta's priorities. Created pages for Mike Isaac, New York Times, Meta AI, Ray-Ban Smart Glasses, Reality Labs, Personal Superintelligence, and AI Advertising Targeting; updated overview, index, and related Meta/AI strategy pages. No direct contradiction found; the source qualifies AI terminal and assistant-entry optimism by showing that distribution and data do not automatically create a default consumer AI product.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3011 nodes, 30453 edges (30453 extracted, 0 inferred).
+
+## [2026-07-12] report | Graph health report generated
+
+3011 nodes analyzed.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
