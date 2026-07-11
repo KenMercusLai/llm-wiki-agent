@@ -1,17 +1,24 @@
 ---
 title: "Stripe"
 type: entity
-tags: [company, fintech, payments, infrastructure]
-sources: [socialradarss2-billclerico-final]
+tags: [company, fintech, payments, infrastructure, developer-tools]
+sources: [socialradarss2-billclerico-final, socialradarss2-stripe-v2]
 last_updated: 2026-07-11
 ---
 
 # Stripe
 
-Stripe appears in [[socialradarss2-billclerico-final]] as a timing marker for the online-payments environment [[WePay]] entered. [[BillClerico]] says WePay needed a merchant account before Stripe existed, when banks were skeptical of young founders trying to move money online.
+[[socialradarss2-stripe-v2]] makes Stripe the central company rather than a timing marker. [[PatrickCollison]] and [[JohnCollison]] describe Stripe as emerging from repeated frustration with online payments: building useful software could be easier than collecting money for it, and [[AppStore]] monetization looked dramatically simpler than web payments.
 
-The episode does not analyze Stripe directly. Its role is to make the earlier infrastructure gap legible: WePay's founders had to improvise bank credibility and payment operations in a market where developer-friendly payment infrastructure was not yet normalized.
+The episode frames the first Stripe code, initially called `/dev/payments`, through [[DeveloperFirstPaymentInfrastructure]]. Patrick's "Slicehost for payments" analogy captures the original product shape: instant setup and low-level API control for money, instead of slow merchant-account access or limited checkout tools. [[APIProductDesign]] then becomes part of the company story because documentation, examples, and programmer ergonomics were core to the product rather than after-sales material.
+
+[[socialradarss2-billclerico-final]] still matters as the pre-Stripe comparison. [[BillClerico]] says [[WePay]] needed a merchant account before Stripe existed, when banks were skeptical of young founders trying to move money online. The two sources together make the infrastructure gap legible: WePay discovered its [[PaymentsInfrastructurePivot]] through painful operations, while Stripe started closer to a developer-first infrastructure thesis.
+
+At scale, the Collison episode adds [[VisionToRealityExecution]]. The brothers say Stripe remains interesting because it is building tooling for the global economy, and Patrick argues that the scarce challenge is turning vision into reality through products, systems, and a large collaborative organization.
 
 ## Connections
-- [[WePay]], [[BillClerico]], and [[RichAberman]] - source context.
-- [[PaymentsInfrastructurePivot]], [[MoneyMovementInfrastructure]], and [[TrustHeavyInfrastructureSales]] - payment-infrastructure concepts clarified by the pre-Stripe environment.
+- [[PatrickCollison]] and [[JohnCollison]] - co-founders interviewed in the Stripe source.
+- [[DeveloperFirstPaymentInfrastructure]], [[APIProductDesign]], and [[EntrepreneurshipInfrastructure]] - direct product and developer-tool concepts added by the source.
+- [[MoneyMovementInfrastructure]], [[PaymentsInfrastructurePivot]], and [[TrustHeavyInfrastructureSales]] - adjacent fintech infrastructure concepts clarified by comparing Stripe, WePay, and Modern Treasury.
+- [[WePay]], [[BillClerico]], and [[RichAberman]] - pre-Stripe payments context from the WePay source.
+- [[VisionToRealityExecution]] and [[RelentlesslyResourcefulFounder]] - founder and scaling themes added by the Collison episode.

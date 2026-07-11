@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -38,6 +38,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarss2-billclerico-final]] adds [[WePay]] as a Summer 2009 YC fintech case. YC shifted [[BillClerico]] and [[RichAberman]] away from fundraising theater toward speed, users, and product, while the batch also supplied first users through poker-night payments and credibility when the founders improvised bank access. The episode extends YC's validation branch into regulated payments: early usage can be manual and messy, but bank trust, fraud controls, and a decisive [[PaymentsInfrastructurePivot]] decide whether the company survives.
 
+[[socialradarss2-stripe-v2]] adds [[PatrickCollison]] and [[JohnCollison]] as a YC-orbit and early-startup-network case. Patrick's teenage emails with [[PaulGraham]], the dinner with [[RobertMorris]], and Graham's later connection to other founders show YC's pre-institutional relationship layer; the discussion of early San Francisco and YC talent density extends [[StartupCommunityInfrastructure]] and [[BuilderCenteredInstitutions]] by showing how low-status, high-intensity startup communities can attract intrinsically motivated builders.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -58,3 +60,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - high-beta crypto-fintech case added by the Armstrong episode.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[MoneyMovementInfrastructure]], [[TrustHeavyInfrastructureSales]], and [[FinancialOperationsResilience]] - fintech infrastructure case added by the Dadiomov episode.
 - [[BillClerico]], [[RichAberman]], [[WePay]], [[PaymentsInfrastructurePivot]], and [[EarlyFintechFraudControls]] - regulated payments case added by the Clerico episode.
+- [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - developer-payments company added by the Collison episode.

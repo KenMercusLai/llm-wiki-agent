@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition](sources/socialradarss2-stripe-v2.md) — The Social Radars episode with Stripe's co-founders on teenage programming, early YC ties, web-payment friction, App Store monetization contrast, `/dev/payments`, API product design, and long-term company execution.
 - [Bill Clerico on WePay, YC, and Fire Tech](sources/socialradarss2-billclerico-final.md) — The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, group-payments-to-API pivot, early bank friction, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis.
 - [Dimitri Dadiomov on Modern Treasury and Financial Plumbing](sources/socialradarsseason2-dimitri-final.md) — The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, money-movement infrastructure, trust-heavy infrastructure sales, SVB crisis response, financial-operations resilience, accelerated bank runs, and FedNow.
 - [Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience](sources/socialradarspod-brianarmstrong-final.md) — The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, crypto compliance, SEC conflict, FTX, mission-focused company culture, fraud controls, and founder motivation.
@@ -262,13 +263,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Patrick Collison](entities/PatrickCollison.md) — Stripe co-founder whose episode links teenage Lisp/Paul Graham contact, web-payment frustration, developer-first payment infrastructure, and vision-to-reality execution.
+- [John Collison](entities/JohnCollison.md) — Stripe co-founder whose episode links early startup-world entry, `/dev/payments`, web-payment friction, founder alignment, and API product design.
 - [Bill Clerico](entities/BillClerico.md) — WePay co-founder and former CEO whose episode links YC, early payments friction, fraud controls, JPMorgan acquisition, and post-WePay fire-tech investing.
 - [WePay](entities/WePay.md) — Payments company that moved from group payments to API infrastructure before JPMorgan Chase acquired it.
 - [Rich Aberman](entities/RichAberman.md) — WePay co-founder whose bachelor-party collection problem sparked the original group-payments idea.
 - [Convective Capital](entities/ConvectiveCapital.md) — Bill Clerico's fire-tech investment firm focused on wildfire resilience, utilities, insurers, agencies, and climate adaptation.
 - [OverStory](entities/OverStory.md) — Convective Capital portfolio company using satellite imagery to help utilities monitor vegetation risk around power lines.
 - [GoFundMe](entities/GoFundMe.md) — Fundraising platform cited as an early WePay API customer whose growth exposed payments fraud and scaling pressure.
-- [Stripe](entities/Stripe.md) — Payments infrastructure company used in the WePay episode as a timing marker for the pre-Stripe online-payments environment.
+- [Stripe](entities/Stripe.md) — Payments infrastructure company whose direct source covers developer-first payment APIs, `/dev/payments`, documentation, financial-institution trust, and long-term ambition.
 - [Dimitri Dadiomov](entities/DimitriDadiomov.md) — Modern Treasury co-founder and CEO whose episode links LendingHome payment pain, YC, bank trust, SVB crisis response, and financial-operations resilience.
 - [Modern Treasury](entities/ModernTreasury.md) — Fintech infrastructure company built around bank connectivity, payment initiation, reconciliation, and money-movement workflows.
 - [LendingHome](entities/LendingHome.md) — Mortgage and renovation-loan marketplace where payment volume exposed the operational pain behind Modern Treasury.
@@ -1606,6 +1609,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Developer-First Payment Infrastructure](concepts/DeveloperFirstPaymentInfrastructure.md) — Stripe's original thesis of making payment acceptance instant, programmable, and developer-friendly rather than a slow merchant-account project.
+- [API Product Design](concepts/APIProductDesign.md) — Product discipline of treating an API, documentation, examples, onboarding, and developer trust as the main user experience.
+- [Vision-to-Reality Execution](concepts/VisionToRealityExecution.md) — Scaling-company challenge of turning a broad vision into real products, systems, organizations, and durable execution.
+- [Relentlessly Resourceful Founder](concepts/RelentlesslyResourcefulFounder.md) — Founder pattern where practical sequencing, product clarity, and social strategy overcome early trust and status barriers.
 - [Payments Infrastructure Pivot](concepts/PaymentsInfrastructurePivot.md) — WePay's move from low-frequency group payments into API payments infrastructure after customer requests, fraud pressure, and monetization limits.
 - [Fire Tech Climate Resilience](concepts/FireTechClimateResilience.md) — Wildfire-focused climate-resilience startup market spanning detection, suppression, vegetation management, utilities, insurance, home hardening, and filtration.
 - [Money Movement Infrastructure](concepts/MoneyMovementInfrastructure.md) — Hidden fintech layer for bank connectivity, payment instructions, statements, reconciliation, exceptions, and faster payment-rail adoption.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-11] ingest | Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition
+
+Added source page for The Social Radars episode with Patrick and John Collison on Stripe's origins, early YC and Paul Graham connections, web-payment friction, the App Store monetization contrast, `/dev/payments`, "Slicehost for payments," API product design, financial-institution resourcefulness, and long-term company execution. Created pages for Patrick Collison, John Collison, Developer-First Payment Infrastructure, API Product Design, Vision-to-Reality Execution, and Relentlessly Resourceful Founder; updated overview, index, Stripe, The Social Radars, Y Combinator, Paul Graham, Robert Morris, Jessica Livingston, Carolyn Levy, App Store, Money Movement Infrastructure, Payments Infrastructure Pivot, Trust-Heavy Infrastructure Sales, Operational Pain Founder Insight, Entrepreneurship Infrastructure, and Founder Product Fit. No direct contradiction found; the source reinforces the fintech infrastructure branch while distinguishing Stripe's developer-first origin from WePay's later infrastructure pivot and Modern Treasury's financial-operations thesis.
+
 ## [2026-07-11] ingest | Bill Clerico on WePay, YC, and Fire Tech
 
 Added source page for a The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, early bank and merchant-account friction, manual payments operations, university-club customer discovery, the group-payments-to-API pivot, GoFundMe-driven scale, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis. Created pages for Bill Clerico, Rich Aberman, WePay, Convective Capital, OverStory, GoFundMe, Stripe, Payments Infrastructure Pivot, and Fire Tech Climate Resilience; updated overview, index, The Social Radars, Y Combinator, JPMorgan Chase, Money Movement Infrastructure, Trust-Heavy Infrastructure Sales, Early Fintech Fraud Controls, Unscalable Founder Work, Janky MVP, and Climate Adaptation. No direct contradiction found; the source reinforces the wiki's regulated-fintech branch while adding a climate-resilience market analogy.
@@ -2019,6 +2023,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] ingest | Dimitri Dadiomov on Modern Treasury and Financial Plumbing
 
 Added source page for The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, YC Summer 2018, money-movement infrastructure, trust-heavy infrastructure sales, SVB and Signature crisis response, financial-operations resilience, accelerated bank runs, founder consistency, and FedNow. Created pages for Dimitri Dadiomov, Modern Treasury, LendingHome, Better Place, FedNow, Signature Bank, BASES, Money Movement Infrastructure, Financial Operations Resilience, Accelerated Bank Runs, Trust-Heavy Infrastructure Sales, and Operational Pain Founder Insight; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Silicon Valley Bank, Stanford University, Paul Graham, Customer Pull, Pre-Product Selling, Fast Product Validation, Founder Product Fit, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's fintech branch from regulated crypto access into bank connectivity, reconciliation, payment operations, and crisis resilience.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 

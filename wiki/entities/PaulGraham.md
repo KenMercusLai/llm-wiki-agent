@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -30,6 +30,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarsseason2-dimitri-final]] adds Graham indirectly through the "schlep blindness" frame that [[DimitriDadiomov]] uses to explain [[ModernTreasury]]. The episode applies Graham's idea to [[MoneyMovementInfrastructure]]: valuable startup opportunities can hide inside painful operational work that founders avoid because it looks messy, regulated, or boring.
 
+[[socialradarss2-stripe-v2]] adds Graham through [[PatrickCollison]]'s teenage path into the startup world. Patrick says he emailed Graham after learning Lisp, met him in Boston, and was later invited to a dinner where [[RobertMorris]] advised him about MIT. The source makes Graham part of the early relationship network around the Collisons before [[Stripe]], not only YC's formal accelerator story.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -44,3 +46,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - survival and product-love branch added by the Chesky episode.
 - [[UnscalableFounderWork]], [[FounderProximity]], and [[CustomerDiscoveryByDoingWork]] - New York host-fieldwork advice added by the second Chesky episode.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[OperationalPainFounderInsight]], and [[MoneyMovementInfrastructure]] - Dadiomov episode branch that invokes Graham's schlep-blindness frame.
+- [[PatrickCollison]], [[JohnCollison]], [[Stripe]], and [[DeveloperFirstPaymentInfrastructure]] - Collison episode branch connected through early programming and startup relationships.

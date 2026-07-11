@@ -2,7 +2,7 @@
 title: "Founder Product Fit"
 type: concept
 tags: [startup, validation, founder-fit]
-sources: [socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, finding-product-market-fit-after-3-years-of-failed-ideas, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-brianarmstrong-final]
+sources: [socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, finding-product-market-fit-after-3-years-of-failed-ideas, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-11
 ---
 
@@ -36,6 +36,8 @@ Founder product fit is the match between a founding team's strengths, credibilit
 
 [[socialradarsseason2-dimitri-final]] adds [[DimitriDadiomov]] as a financial-infrastructure fit case. His [[LendingHome]] work made ACH, wires, bank statements, and reconciliation painful enough to become [[OperationalPainFounderInsight]], while his startup, venture, business-school, and cross-industry curiosity helped him see [[ModernTreasury]] as broader than one company's workflow. The fit still had to expand into [[TrustHeavyInfrastructureSales]] because bank and customer trust became part of the product.
 
+[[socialradarss2-stripe-v2]] adds [[PatrickCollison]] and [[JohnCollison]] as a developer-payments fit case. Their programming background, early startup exposure, and repeated frustration with web monetization let them see [[Stripe]] as [[DeveloperFirstPaymentInfrastructure]] rather than only another payments company. Their fit still had to expand into financial-institution trust and [[VisionToRealityExecution]] as Stripe grew.
+
 [[socialradarss2-billclerico-final]] adds [[BillClerico]] as a fit case that changes over time. His finance background and [[RichAberman]]'s group-payment pain fit the first [[WePay]] idea, but the company only became durable after the founders learned that their real fit was payments infrastructure, fraud control, and bank trust. After WePay, Clerico's ranch life and volunteer firefighting experience created a different founder-market fit around [[ConvectiveCapital]] and [[FireTechClimateResilience]].
 
 ## Key Claims
@@ -57,6 +59,7 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - Founder-product fit can start from the emotional center of a product rather than the market category outsiders assign to it; Airbnb looked like travel, but Chesky frames it as hosting and connection.
 - Founder-product fit can begin with technical and personal insight, then require rapid learning in adjacent regulated domains before the product can operate.
 - Founder-product fit can come from operational pain in a prior job when the founder can prove the pain repeats across customers and can endure the trust-building work required to serve it.
+- Developer-product fit can come from knowing both the technical user and the infrastructure pain deeply enough to redesign the setup experience.
 - Founder-product fit can migrate when direct operating exposure reveals a deeper market than the starting idea, as with WePay's shift into payments infrastructure and Clerico's later fire-tech thesis.
 
 ## Connections
@@ -78,4 +81,5 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - [[BrianChesky]], [[JoeGebbia]], [[NateBlecharczyk]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - Chesky episode branch where hosting and design fit precede obvious market acceptance.
 - [[BrianArmstrong]], [[Coinbase]], [[Bitcoin]], [[Airbnb]], [[RegulatedCryptoTrustStrategy]], and [[EarlyFintechFraudControls]] - Armstrong episode branch where technical, monetary, and payments experience had to expand into regulated-fintech execution.
 - [[DimitriDadiomov]], [[ModernTreasury]], [[LendingHome]], [[OperationalPainFounderInsight]], [[MoneyMovementInfrastructure]], and [[TrustHeavyInfrastructureSales]] - Dadiomov episode branch where operational payment pain became infrastructure-founder fit.
+- [[PatrickCollison]], [[JohnCollison]], [[Stripe]], [[DeveloperFirstPaymentInfrastructure]], and [[APIProductDesign]] - Collison episode branch where programming background and payment frustration became developer-first infrastructure.
 - [[BillClerico]], [[RichAberman]], [[WePay]], [[PaymentsInfrastructurePivot]], [[ConvectiveCapital]], and [[FireTechClimateResilience]] - Clerico episode branch where founder fit shifts from group payments to infrastructure and then wildfire resilience.
