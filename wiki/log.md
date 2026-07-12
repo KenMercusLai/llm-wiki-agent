@@ -2510,3 +2510,11 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Hea
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | U.S. regulators eye rules for prediction markets
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes on prediction markets facing gambling-like integrity risks, using the Jontay Porter NBA betting scandal to explain sportsbook geolocation, wager tracking, integrity monitors, insider screening, and reporting. Created pages for Jontay Porter, National Basketball Association, DraftKings, Matthew Holt, Ben Schifrin, Better Markets, John Holden, Indiana University, Prediction Market Integrity Oversight, Sportsbook Integrity Monitoring, and Event Contract Manipulation Risk; updated overview, index, Marketplace Tech, Stephanie Hughes, Commodity Futures Trading Commission, Polymarket, and Prediction Market Ethics. No direct contradiction found; the source extends the earlier prediction-market ethics branch from harmful-event boundaries into operational market-integrity controls and the legal tension around sportsbook-like regulation.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

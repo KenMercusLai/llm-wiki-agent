@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [U.S. regulators eye rules for prediction markets](sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128.md) — Marketplace Tech episode on prediction markets facing gambling-like integrity risks, the Jontay Porter NBA betting scandal, sportsbook monitoring, CFTC rulemaking, conflict-market insider information, and the legal tension around looking like sports betting.
 - [What do students lose when they rely on AI for homework?](sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking worries, first draft thinking, classroom AI-free time, and sequencing AI after the student's first attempt.
 - [Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery](sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI apps, and Amazon's one-hour and three-hour delivery push against Walmart.
 - [How low-cost drones are used in modern military strikes](sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of CNAS on Shahed-style low-cost drones, the U.S. Lucas drone, commercial component supply chains, counter-drone defense, jamming, decoys, and the cost mismatch between cheap attacks and expensive interceptors.
@@ -318,6 +319,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jontay Porter](entities/JontayPorter.md) — NBA player whose 2024 betting scandal grounds the episode's comparison between sportsbook monitoring and prediction-market integrity.
+- [National Basketball Association](entities/NationalBasketballAssociation.md) — League context for the Porter betting scandal and the source's sports-integrity comparison.
+- [DraftKings](entities/DraftKings.md) — Sportsbook named in the Porter case as part of the trackable wager-data environment.
+- [Matthew Holt](entities/MatthewHolt.md) — Sports-betting integrity expert explaining suspicious wager patterns and licensed sportsbook monitoring.
+- [Ben Schifrin](entities/BenSchifrin.md) — Better Markets expert framing prediction markets as a regulatory mismatch for the CFTC when event contracts create corruption risk.
+- [Better Markets](entities/BetterMarkets.md) — Financial-regulation policy organization represented by Ben Schifrin in the prediction-market oversight discussion.
+- [John Holden](entities/JohnHolden.md) — Indiana University expert explaining prediction-market business incentives, sportsbook-like controls, and gambling-law tension.
+- [Indiana University](entities/IndianaUniversity.md) — John Holden's affiliation in the Marketplace Tech episode on prediction-market regulation.
 - [Heather Schwartz](entities/HeatherSchwartz.md) — RAND researcher explaining student AI homework use, critical-thinking concerns, first draft thinking, and classroom AI-free time.
 - [RAND](entities/RAND.md) — Research organization whose cited study grounds the Marketplace Tech episode on student AI homework use and critical-thinking concern.
 - [Gecko Robotics](entities/GeckoRobotics.md) — Pittsburgh robotics startup whose $71M Navy contract grounds the defense robotics maintenance and defense tech startup procurement branch.
@@ -1957,6 +1966,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, and sportsbook-like monitoring.
+- [Sportsbook Integrity Monitoring](concepts/SportsbookIntegrityMonitoring.md) — Licensed sports-betting oversight system using wager tracking, geolocation, integrity monitors, insider screening, and reporting duties.
+- [Event Contract Manipulation Risk](concepts/EventContractManipulationRisk.md) — Risk that a tradable event can be influenced or privately known by a participant, official, military insider, or other non-public actor.
 - [First Draft Thinking](concepts/FirstDraftThinking.md) — Protected initial synthesis, draft, or solution attempt students should make before AI help enters the learning process.
 - [Defense Robotics Maintenance](concepts/DefenseRoboticsMaintenance.md) — Use of robots, drones, sensors, and AI models to inspect, repair, or predict defects in military systems and infrastructure.
 - [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
