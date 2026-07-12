@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The tech transforming Baltimore's Francis Scott Key Bridge](sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jim Harkness on rebuilding Baltimore's Francis Scott Key Bridge with structural health monitoring, higher and longer cable-stayed design, heavier port-load capacity, and real-time or near-real-time maintenance data.
 - [Why digital archiving is more than "store and ignore"](sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on cloud files' physical roots, LTO and backup-system obsolescence, active migration, and Digital Bedrock's recovery of WIPR recordings for the American Archive of Public Broadcasting.
 - [U.S. regulators eye rules for prediction markets](sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128.md) — Marketplace Tech episode on prediction markets facing gambling-like integrity risks, the Jontay Porter NBA betting scandal, sportsbook monitoring, CFTC rulemaking, conflict-market insider information, and the legal tension around looking like sports betting.
 - [What do students lose when they rely on AI for homework?](sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking worries, first draft thinking, classroom AI-free time, and sequencing AI after the student's first attempt.
@@ -320,6 +321,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jim Harkness](entities/JimHarkness.md) — Maryland Transportation Authority chief engineer explaining the Key Bridge rebuild, structural health monitoring, and load-performance data.
+- [Maryland Transportation Authority](entities/MarylandTransportationAuthority.md) — Agency context for rebuilding the Francis Scott Key Bridge with monitoring, access, and heavier-load expectations.
+- [Francis Scott Key Bridge](entities/FrancisScottKeyBridge.md) — Baltimore bridge being rebuilt after the Dali strike, now tied to structural health monitoring and port-freight load capacity.
+- [Dali Container Ship](entities/DaliContainerShip.md) — Container ship whose strike on the Francis Scott Key Bridge triggered the rebuild discussed by Marketplace Tech.
+- [Port of Baltimore](entities/PortOfBaltimore.md) — Freight context for the Key Bridge rebuild and its heavier-load design requirements.
 - [WIPR](entities/WIPR.md) — Puerto Rican public broadcaster whose recovered 1950s-1980s radio recordings ground the source's preservation technical environment case.
 - [American Archive of Public Broadcasting](entities/AmericanArchiveOfPublicBroadcasting.md) — Public archive where recovered WIPR recordings became accessible after Digital Bedrock restored old LTO backups.
 - [Jontay Porter](entities/JontayPorter.md) — NBA player whose 2024 betting scandal grounds the episode's comparison between sportsbook monitoring and prediction-market integrity.
@@ -469,7 +475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Understanding America Study](entities/UnderstandingAmericaStudy.md) — USC-run panel used to randomize respondents into smartphone and non-smartphone survey modes.
 - [University of Southern California](entities/UniversityOfSouthernCalifornia.md) — Institution running the Understanding America Study panel used in the smartphone survey experiment.
 - [Pew Research Center](entities/PewResearchCenter.md) — Research organization whose smartphone-adoption estimates contextualize the shift toward mobile survey-taking.
-- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on AI grief bots, workplace monitoring, crypto confidence, local-news AI, privacy, cyber risk, scams, and weekly tech news.
+- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on infrastructure monitoring, AI grief bots, workplace monitoring, crypto confidence, local-news AI, privacy, cyber risk, scams, and weekly tech news.
 - [Paresh Dave](entities/PareshDave.md) — Wired senior writer whose Marketplace Tech analysis connects prediction markets, defense AI procurement, media licensing, SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok.
 - [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
 - [MGX](entities/MGX.md) — Investor named in the joint venture behind U.S. TikTok.
@@ -725,7 +731,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI grief bots, workplace AI, crypto confidence, privacy, cyber risk, AI chips, patient AI use, tech hiring, world models, data centers, digital archiving, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on bridge monitoring, AI grief bots, workplace AI, crypto confidence, privacy, cyber risk, AI chips, patient AI use, tech hiring, world models, data centers, digital archiving, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -1969,6 +1975,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.
+- [Sensor-Driven Infrastructure Maintenance](concepts/SensorDrivenInfrastructureMaintenance.md) — Maintenance pattern where sensors, engineering models, inspection access, and operating policy shape public-infrastructure upkeep.
+- [Bridge Load Capacity](concepts/BridgeLoadCapacity.md) — Practical ability of a bridge to carry commuter and freight loads, tied by the source to port operations and monitoring data.
 - [Cloud Storage Physicality](concepts/CloudStoragePhysicality.md) — Claim that cloud files rest on finite-lived physical media, data-center operations, account custody, and migration.
 - [Preservation Technical Environment](concepts/PreservationTechnicalEnvironment.md) — Hardware, software, operating-system, cable, documentation, and institutional-memory layer needed to make old digital archives readable.
 - [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, and sportsbook-like monitoring.

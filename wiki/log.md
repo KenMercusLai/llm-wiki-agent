@@ -2526,3 +2526,11 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Lin
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | The tech transforming Baltimore's Francis Scott Key Bridge
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Jim Harkness of the Maryland Transportation Authority on rebuilding Baltimore's Francis Scott Key Bridge after the Dali strike and collapse. Created pages for Jim Harkness, Maryland Transportation Authority, Francis Scott Key Bridge, Dali Container Ship, Port of Baltimore, Structural Health Monitoring, Sensor-Driven Infrastructure Maintenance, and Bridge Load Capacity; updated overview, index, Marketplace Tech, and Stephanie Hughes. No direct contradiction found; the source extends the wiki's infrastructure-resilience branch into civil engineering by showing that real-time bridge data is useful only when tied to physical access, load decisions, model comparison, and maintenance authority.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
