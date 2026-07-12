@@ -2534,3 +2534,11 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes and Jim
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on a Los Angeles negligence verdict against Meta and YouTube, the U.S. Department of Labor's text-message AI literacy course, and Kalshi's new guardrails for political and sports-linked prediction markets. Created pages for Axios, U.S. Department of Labor, Snapchat, Social Media Product Liability, AI Worker Literacy, and Prediction Market Self-Regulation; updated overview, index, Marketplace Tech, Stephanie Hughes, Maria Curi, Meta, YouTube, TikTok, Kalshi, Commodity Futures Trading Commission, AI Literacy Against Worship, AI Backlash Politics, Prediction Market Integrity Oversight, Prediction Market Ethics, and Event Contract Manipulation Risk. No direct contradiction found; the source qualifies platform and government reassurance by showing that parental controls, short AI courses, and voluntary market guardrails do not fully answer design liability, job displacement, or insider-information risk.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

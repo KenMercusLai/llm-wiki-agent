@@ -2,11 +2,13 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-07-12
 ---
 
 # TikTok
+
+[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds TikTok as a possible later target in the litigation wave around addictive social-media design and youth mental-health harms. The source does not litigate TikTok's own product details; it places the platform next to [[Meta]], [[YouTube]], and [[Snapchat]] in the broader [[SocialMediaProductLiability]] branch.
 
 [[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds TikTok's formation story through [[Vanessa]]'s PM account of the [[MusicalLy]] merger. The episode frames TikTok as the result of combining Musical.ly's creator community, music-led creation tools, and early youth culture with [[ByteDance]]'s recommendation, safety, growth, experimentation, and global execution systems.
 
@@ -25,6 +27,7 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 ## Connections
 
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
+- [[SocialMediaProductLiability]], [[Meta]], [[YouTube]], and [[Snapchat]] - U.S. youth-safety litigation context added by Marketplace Tech.
 - [[ShortVideoCreationTools]], [[RecommendationSystemProductization]], [[ContentEcosystemGovernance]], [[DataDrivenProductCulture]], [[GlobalProductLocalization]], and [[ProductContainer]] — main product concepts attached to TikTok by the new source.
 - [[Daqi]] — designer whose career path includes TikTok Singapore.
 - [[ByteDance]] — parent-company context already present in the wiki.

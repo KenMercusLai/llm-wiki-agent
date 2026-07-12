@@ -2,11 +2,13 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-12
 ---
 
 # YouTube
+
+[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds YouTube as a defendant alongside [[Meta]] in a Los Angeles verdict finding the companies negligent in a youth mental-health case. The episode uses YouTube to extend the wiki's platform branch into [[SocialMediaProductLiability]], where autoplay, engagement loops, parental controls, and product-design decisions can become legal questions rather than only speech or moderation questions.
 
 [[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] makes YouTube the main case in [[YouTubeMediaDominance]]. The episode cites a [[MoffettNathanson]] report describing YouTube as the world's largest media company, with more than $62 billion in prior-year revenue, and [[JewelBurkeSolomon]] explains the position through YouTube TV, creator content, Shorts, ads, subscriptions, [[Alphabet]]'s broader ecosystem, and AI-assisted creator tools.
 
@@ -19,6 +21,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds YouTube through [[RonConway]]'s [[Google]] relationship and media/internet convergence thesis. Conway says YouTube faced lawsuits and that selling to Google helped it avoid [[Napster]]'s fate, making the acquisition a case in [[LegalRiskAcquirerFit]]. The source also remembers [[SusanWojcicki]] as a key builder and later leader of YouTube.
 
 ## Connections
+- [[Meta]], [[SocialMediaProductLiability]], [[TikTok]], and [[Snapchat]] - platform-liability and youth mental-health litigation branch added by Marketplace Tech.
 - [[WangXiaoshu]] — guest describing the distribution experience.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
 - [[MoffettNathanson]], [[YouTubeMediaDominance]], [[Alphabet]], and [[AIAdvertisingTargeting]] — Marketplace Tech report frame around revenue, ecosystem leverage, and targeting.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation](sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on social-media product liability, the Department of Labor's text-message AI literacy course, and Kalshi guardrails for political and sports-linked prediction markets.
 - [The tech transforming Baltimore's Francis Scott Key Bridge](sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jim Harkness on rebuilding Baltimore's Francis Scott Key Bridge with structural health monitoring, higher and longer cable-stayed design, heavier port-load capacity, and real-time or near-real-time maintenance data.
 - [Why digital archiving is more than "store and ignore"](sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on cloud files' physical roots, LTO and backup-system obsolescence, active migration, and Digital Bedrock's recovery of WIPR recordings for the American Archive of Public Broadcasting.
 - [U.S. regulators eye rules for prediction markets](sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128.md) — Marketplace Tech episode on prediction markets facing gambling-like integrity risks, the Jontay Porter NBA betting scandal, sportsbook monitoring, CFTC rulemaking, conflict-market insider information, and the legal tension around looking like sports betting.
@@ -321,6 +322,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Axios](entities/Axios.md) — News organization represented by Maria Curi in the Marketplace Tech Bytes episode on social media liability, AI worker literacy, and prediction-market guardrails.
+- [U.S. Department of Labor](entities/USDepartmentOfLabor.md) — Agency introducing the text-message AI literacy course used by the episode to frame worker AI readiness and displacement anxiety.
+- [Snapchat](entities/Snapchat.md) — Youth-facing social platform named as a possible later target in the social-media product-liability litigation wave.
 - [Jim Harkness](entities/JimHarkness.md) — Maryland Transportation Authority chief engineer explaining the Key Bridge rebuild, structural health monitoring, and load-performance data.
 - [Maryland Transportation Authority](entities/MarylandTransportationAuthority.md) — Agency context for rebuilding the Francis Scott Key Bridge with monitoring, access, and heavier-load expectations.
 - [Francis Scott Key Bridge](entities/FrancisScottKeyBridge.md) — Baltimore bridge being rebuilt after the Dali strike, now tied to structural health monitoring and port-freight load capacity.
@@ -375,10 +379,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
 - [California](entities/California.md) — State privacy-law case launching DROP under the California Delete Act as a consumer-side complement to warrant-focused data-broker reforms.
 - [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP tool for residents to request deletion of personal information from registered data brokers.
-- [Kalshi](entities/Kalshi.md) — Prediction-market platform used by the Marketplace Tech episode to examine harmful-event wagers, Khamenei-related market resolution, reimbursement, CFTC rules, and market-integrity risk.
+- [Kalshi](entities/Kalshi.md) — Prediction-market platform used by Marketplace Tech to examine harmful-event wagers, Khamenei-related market resolution, CFTC rules, market-integrity risk, and self-regulatory guardrails.
 - [News Corp](entities/NewsCorp.md) — Media company whose reported Meta licensing deal grounds the wiki's AI content licensing and publisher traffic-loss branch.
 - [Wired](entities/Wired.md) — Technology publication affiliation for Paresh Dave in Marketplace Tech Bytes episodes on AI infrastructure, prediction markets, defense AI, and media licensing.
-- [Commodity Futures Trading Commission](entities/CommodityFuturesTradingCommission.md) — U.S. markets regulator whose event-contract rules are cited in the prediction-market ethics discussion.
+- [Commodity Futures Trading Commission](entities/CommodityFuturesTradingCommission.md) — U.S. markets regulator whose event-contract rules, integrity questions, and federal-state boundary shape the prediction-market ethics discussion.
 - [Rafe Pilling](entities/RafePilling.md) — Sophos cybersecurity expert explaining Iran-linked cyber operations, the 2011-2013 DDoS attacks on U.S. banks, and why sensitive-data and industrial-control targets may worry him more than banks.
 - [Sophos](entities/Sophos.md) — Cybersecurity company represented by Rafe Pilling in the Marketplace Tech episode on Iran-linked cyber threats.
 - [Ministry of Intelligence and Security](entities/MinistryOfIntelligenceAndSecurity.md) — Iranian state sponsor named alongside the IRGC in the episode's account of Iran-linked cyber operations.
@@ -398,7 +402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OpenAI Frontier](entities/OpenAIFrontier.md) — OpenAI business platform for building and managing AI coworkers, framed through consulting-led enterprise adoption.
 - [Mac Mini](entities/MacMini.md) — Apple desktop Mac used in the episode as a concrete but limited U.S. manufacturing reshoring case.
 - [Pete Hegseth](entities/PeteHegseth.md) — Defense secretary reportedly pressing Anthropic for broader Pentagon access to Claude.
-- [Maria Curie](entities/MariaCurie.md) — Marketplace Tech episode analyst explaining the Anthropic-Pentagon dispute, OpenAI's enterprise push, and Apple's Houston Mac Mini plan.
+- [Maria Curi](entities/MariaCurie.md) — Axios analyst explaining Marketplace Tech policy stories on social-media liability, worker AI literacy, prediction markets, defense AI, enterprise AI, and Apple's Houston Mac Mini plan.
 - [Vidiots](entities/Vidiots.md) — Los Angeles nonprofit video store and restored-theater case for renewed physical video rental.
 - [Robbie McCluskey](entities/RobbieMcCluskey.md) — Vidiots store director explaining the store's 1985 origin, 2017 closure, 2023 nonprofit reopening, and rental growth.
 - [LunchMeet VHS](entities/LunchMeetVHS.md) — North Carolina VHS reprint and magazine business preserving tape-only films and video-store culture.
@@ -1147,7 +1151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [YouTube](entities/YouTube.md) — Video platform discussed through short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
+- [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -1519,7 +1523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company discussed through Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
+- [Meta](entities/Meta.md) — Platform company discussed through social-media product liability, Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -1638,7 +1642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
-- [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, and regulatory stress.
+- [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, regulatory stress, and possible social-media liability pressure.
 - [Maxine Clark](entities/MaxineClark.md) — Build-A-Bear founder and former retail executive connecting customer empathy, child-centered design, mall retail, and succession.
 - [Build-A-Bear](entities/BuildABear.md) — Make-your-own stuffed animal retailer built around customer co-creation, mall expansion, brand ritual, and experiential retail.
 - [May Department Stores](entities/MayDepartmentStores.md) — Retail company where Maxine Clark developed merchandising, operations, and executive experience before Build-A-Bear.
@@ -1975,14 +1979,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating addictive or harmful social-platform features as product-design choices rather than only speech or hosting.
+- [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
+- [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
 - [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.
 - [Sensor-Driven Infrastructure Maintenance](concepts/SensorDrivenInfrastructureMaintenance.md) — Maintenance pattern where sensors, engineering models, inspection access, and operating policy shape public-infrastructure upkeep.
 - [Bridge Load Capacity](concepts/BridgeLoadCapacity.md) — Practical ability of a bridge to carry commuter and freight loads, tied by the source to port operations and monitoring data.
 - [Cloud Storage Physicality](concepts/CloudStoragePhysicality.md) — Claim that cloud files rest on finite-lived physical media, data-center operations, account custody, and migration.
 - [Preservation Technical Environment](concepts/PreservationTechnicalEnvironment.md) — Hardware, software, operating-system, cable, documentation, and institutional-memory layer needed to make old digital archives readable.
-- [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, and sportsbook-like monitoring.
+- [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, sportsbook-like monitoring, and platform guardrails.
 - [Sportsbook Integrity Monitoring](concepts/SportsbookIntegrityMonitoring.md) — Licensed sports-betting oversight system using wager tracking, geolocation, integrity monitors, insider screening, and reporting duties.
-- [Event Contract Manipulation Risk](concepts/EventContractManipulationRisk.md) — Risk that a tradable event can be influenced or privately known by a participant, official, military insider, or other non-public actor.
+- [Event Contract Manipulation Risk](concepts/EventContractManipulationRisk.md) — Risk that a tradable event can be influenced or privately known by a participant, official, athlete, campaign, military insider, or other non-public actor.
 - [First Draft Thinking](concepts/FirstDraftThinking.md) — Protected initial synthesis, draft, or solution attempt students should make before AI help enters the learning process.
 - [Defense Robotics Maintenance](concepts/DefenseRoboticsMaintenance.md) — Use of robots, drones, sensors, and AI models to inspect, repair, or predict defects in military systems and infrastructure.
 - [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
@@ -2017,7 +2024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Consumer privacy mechanism for requesting removal of broker-held personal information, framed as harm reduction rather than total erasure.
 - [California Delete Act](concepts/CaliforniaDeleteAct.md) — 2023 California law mandating DROP and turning data-broker deletion rights into a centralized state workflow.
 - [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.
-- [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing death, war, terrorism, nuclear escalation, or other socially harmful outcomes.
+- [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing harmful outcomes or inviting insider-informed trading.
 - [AI Content Licensing](concepts/AIContentLicensing.md) — AI-company payments to publishers or content owners for current information, archives, training data, grounding, attribution, or answer visibility.
 - [Defense AI Supply Chain Risk](concepts/DefenseAISupplyChainRisk.md) — Contractor and procurement risk created when a defense customer treats an AI vendor, model, or integration as unacceptable for critical military systems.
 - [Iran-Linked Cyber Operations](concepts/IranLinkedCyberOperations.md) — State-linked cyber activity described as evolving from DDoS and website defacement toward phishing, vulnerability scanning, data theft, leaks, and industrial-control targeting.
@@ -2380,7 +2387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
-- [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
+- [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
 - [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, culture, and utility capacity while producing outputs, heat, carbon, and waste.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
@@ -2562,7 +2569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Want Can Should May Framework](concepts/WantCanShouldMayFramework.md) — Engineering judgment frame that asks what people want, can do, should do, and may or are ready to do before building.
 - [Attention Industrialization](concepts/AttentionIndustrialization.md) — Platform and AI risk where algorithmic feeds and free services become industrialized mental food that captures attention.
 - [Human-Machine Amplification](concepts/HumanMachineAmplification.md) — AI-era claim that technology multiplies the user's judgment, values, volition, and weak points rather than automatically improving them.
-- [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, and agency before tool training.
+- [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, labor context, and agency before tool training.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
 - [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, review patient AI outputs, and support prevention without replacing diagnosis or treatment.
 - [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.
