@@ -2,7 +2,7 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ College career preparation is the episode's goal-dependent way to allocate under
 
 [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds a pre-enrollment search version. Students use [[AICollegeSearch]] to compare colleges, scholarships, campus culture, and likely career outcomes, while schools respond through [[HigherEducationAIDiscoverability]] by making degree and career information easier for AI tools to retrieve.
 
+[[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds a learning-habit risk before students reach the workforce. [[HeatherSchwartz]] of [[RAND]] argues that if AI removes too much cognitive friction from homework, students may enter jobs with weaker independent reasoning, interpretation, and analysis. [[FirstDraftThinking]] becomes career preparation because later judgment depends on practice doing the first synthesis oneself.
+
 ## Key Claims
 
 - GPA remains important for graduate school and baoyan, but it is not the only meaningful undergraduate signal.
@@ -28,6 +30,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - Foundations matter more, not less, when AI can generate plausible output that the learner must evaluate.
 - When enrollment shifts away from traditional CS, preparation should not only mean choosing a different label; students still need practical evidence, technical foundations, and enough labor-market literacy to understand why a subfield is attractive.
 - AI can support college and career-path comparison before enrollment, but students still need to verify whether summarized offers, outcomes, and campus signals match their actual goals.
+- Students also need protected practice doing first drafts and first solutions because future work requires internalized reasoning, not only access to good explanations.
 
 ## Connections
 
@@ -39,3 +42,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[VibeCoding]] and [[AIAsTutor]] — AI-era paths for building earlier practice while keeping enough foundation to judge output.
 - [[ComputingEnrollmentDecline]] and [[ComputingResearchPipeline]] — education-system signals that connect individual preparation to long-term workforce capacity.
 - [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-choice and offer-comparison layer added by Marketplace Tech.
+- [[FirstDraftThinking]], [[AIShortcutRisk]], [[HeatherSchwartz]], and [[RAND]] - homework-to-workforce reasoning branch added by Marketplace Tech.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What do students lose when they rely on AI for homework?](sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking worries, first draft thinking, classroom AI-free time, and sequencing AI after the student's first attempt.
 - [Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery](sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI apps, and Amazon's one-hour and three-hour delivery push against Walmart.
 - [How low-cost drones are used in modern military strikes](sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of CNAS on Shahed-style low-cost drones, the U.S. Lucas drone, commercial component supply chains, counter-drone defense, jamming, decoys, and the cost mismatch between cheap attacks and expensive interceptors.
 - [The ethics of using AI to immortalize the dead](sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance.
@@ -317,6 +318,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Heather Schwartz](entities/HeatherSchwartz.md) — RAND researcher explaining student AI homework use, critical-thinking concerns, first draft thinking, and classroom AI-free time.
+- [RAND](entities/RAND.md) — Research organization whose cited study grounds the Marketplace Tech episode on student AI homework use and critical-thinking concern.
 - [Gecko Robotics](entities/GeckoRobotics.md) — Pittsburgh robotics startup whose $71M Navy contract grounds the defense robotics maintenance and defense tech startup procurement branch.
 - [U.S. Navy](entities/USNavy.md) — Military customer for Gecko Robotics' ship-inspection contract, tied to ship readiness, repair delays, and industrial-capacity concerns.
 - [Anduril](entities/Anduril.md) — Defense startup cited as another large-contract example of newer technology companies gaining ground in military procurement.
@@ -1954,6 +1957,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [First Draft Thinking](concepts/FirstDraftThinking.md) — Protected initial synthesis, draft, or solution attempt students should make before AI help enters the learning process.
 - [Defense Robotics Maintenance](concepts/DefenseRoboticsMaintenance.md) — Use of robots, drones, sensors, and AI models to inspect, repair, or predict defects in military systems and infrastructure.
 - [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
 - [Media AI Rescue Strategy](concepts/MediaAIRescueStrategy.md) — Attempt to use AI games, quizzes, personalization, or interactive content to compensate for a weakened media business model.

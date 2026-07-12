@@ -2502,3 +2502,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | What do students lose when they rely on AI for homework?
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking concern, first draft thinking, classroom AI-free time, and sequencing AI after the student's own first attempt. Created pages for Heather Schwartz, RAND, and First Draft Thinking; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, AI As Tutor, AI Shortcut Risk, Self-Directed Learning, Learning Experience Design, Learning How To Learn, AI Use Pacing, Human Judgment Under AI, and College Career Preparation. No direct contradiction found; the source qualifies AI tutoring optimism by showing that explanation quality does not guarantee learning if AI replaces the student's initial reasoning.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
