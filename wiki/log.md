@@ -2518,3 +2518,11 @@ Added source page for the Marketplace Tech episode with Stephanie Hughes on pred
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Why digital archiving is more than "store and ignore"
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Linda Todich of Digital Bedrock on cloud files' physical roots, old LTO tapes, obsolete backup systems, "store and ignore" failure, and active migration. Created pages for WIPR, American Archive of Public Broadcasting, Cloud Storage Physicality, and Preservation Technical Environment; updated overview, index, Marketplace Tech, Stephanie Hughes, Linda Todich, Digital Bedrock, Digital Preservation, Personal Digital Archiving, and Analog Media Preservation. No direct contradiction found; the source extends the March 3 digital-preservation episode by showing that stored bits still depend on media, software, operating systems, cables, documentation, and institutional memory.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.

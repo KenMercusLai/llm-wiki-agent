@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why digital archiving is more than "store and ignore"](sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on cloud files' physical roots, LTO and backup-system obsolescence, active migration, and Digital Bedrock's recovery of WIPR recordings for the American Archive of Public Broadcasting.
 - [U.S. regulators eye rules for prediction markets](sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128.md) — Marketplace Tech episode on prediction markets facing gambling-like integrity risks, the Jontay Porter NBA betting scandal, sportsbook monitoring, CFTC rulemaking, conflict-market insider information, and the legal tension around looking like sports betting.
 - [What do students lose when they rely on AI for homework?](sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking worries, first draft thinking, classroom AI-free time, and sequencing AI after the student's first attempt.
 - [Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery](sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI apps, and Amazon's one-hour and three-hour delivery push against Walmart.
@@ -319,6 +320,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [WIPR](entities/WIPR.md) — Puerto Rican public broadcaster whose recovered 1950s-1980s radio recordings ground the source's preservation technical environment case.
+- [American Archive of Public Broadcasting](entities/AmericanArchiveOfPublicBroadcasting.md) — Public archive where recovered WIPR recordings became accessible after Digital Bedrock restored old LTO backups.
 - [Jontay Porter](entities/JontayPorter.md) — NBA player whose 2024 betting scandal grounds the episode's comparison between sportsbook monitoring and prediction-market integrity.
 - [National Basketball Association](entities/NationalBasketballAssociation.md) — League context for the Porter betting scandal and the source's sports-integrity comparison.
 - [DraftKings](entities/DraftKings.md) — Sportsbook named in the Porter case as part of the trackable wager-data environment.
@@ -375,8 +378,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ministry of Intelligence and Security](entities/MinistryOfIntelligenceAndSecurity.md) — Iranian state sponsor named alongside the IRGC in the episode's account of Iran-linked cyber operations.
 - [Unitronics](entities/Unitronics.md) — Industrial-control systems company cited through a 2023 attack affecting water-treatment facilities near Pittsburgh.
 - [Erin Griffith](entities/ErinGriffith.md) — New York Times reporter interviewed by Marketplace Tech about answer engine optimization, brand visibility in chatbots, AI-generated marketing fluff, and trust risks around paid answer placement.
-- [Linda Todich](entities/LindaTodich.md) — Digital Bedrock archivist and CEO explaining how memory and hard-drive shortages affect professional and personal digital preservation.
-- [Digital Bedrock](entities/DigitalBedrock.md) — Archive-preservation company used as the Marketplace Tech case for storage scarcity affecting museums, libraries, movie studios, and TV studios.
+- [Linda Todich](entities/LindaTodich.md) — Digital Bedrock archivist and CEO explaining storage scarcity, cloud physicality, technical obsolescence, and recovery work in digital preservation.
+- [Digital Bedrock](entities/DigitalBedrock.md) — Archive-preservation company used as the Marketplace Tech case for storage scarcity and legacy-media recovery.
 - [Western Digital](entities/WesternDigital.md) — Storage company cited as largely sold out of hard drives for the year amid the memory and storage shortage.
 - [IDC](entities/IDC.md) — Market-intelligence firm cited for the claim that data-center demand has helped drive up prices and an unprecedented memory-chip shortage.
 - [Jeremy Scott](entities/JeremyScott.md) — EPIC Surveillance Oversight Program expert explaining DHS access to private-sector data, administrative subpoenas, data brokers, and surveillance-as-a-service systems.
@@ -1966,6 +1969,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cloud Storage Physicality](concepts/CloudStoragePhysicality.md) — Claim that cloud files rest on finite-lived physical media, data-center operations, account custody, and migration.
+- [Preservation Technical Environment](concepts/PreservationTechnicalEnvironment.md) — Hardware, software, operating-system, cable, documentation, and institutional-memory layer needed to make old digital archives readable.
 - [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, and sportsbook-like monitoring.
 - [Sportsbook Integrity Monitoring](concepts/SportsbookIntegrityMonitoring.md) — Licensed sports-betting oversight system using wager tracking, geolocation, integrity monitors, insider screening, and reporting duties.
 - [Event Contract Manipulation Risk](concepts/EventContractManipulationRisk.md) — Risk that a tradable event can be influenced or privately known by a participant, official, military insider, or other non-public actor.
@@ -2012,8 +2017,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Industrial Control System Cyber Risk](concepts/IndustrialControlSystemCyberRisk.md) — Cyber risk to systems that control physical infrastructure, grounded by the Unitronics water-treatment example.
 - [Answer Engine Optimization](concepts/AnswerEngineOptimization.md) — Practice of making brands, products, institutions, or services discoverable and accurately represented in chatbot answers through dense factual public information.
 - [Memory Chip Shortage](concepts/MemoryChipShortage.md) — AI-data-center-driven shortage pattern affecting memory prices, hard-drive availability, consumer devices, archives, and personal storage.
-- [Digital Preservation](concepts/DigitalPreservation.md) — Active stewardship needed to keep digital materials findable and usable, now extended to consent-aware limits around interactive memorialization.
-- [Personal Digital Archiving](concepts/PersonalDigitalArchiving.md) — Household preservation practice involving cloud-account documentation, multiple copies, migration, and file checking.
+- [Digital Preservation](concepts/DigitalPreservation.md) — Active stewardship needed to keep digital materials findable and usable across storage scarcity, cloud physicality, obsolete technical environments, and consent-aware memorialization.
+- [Personal Digital Archiving](concepts/PersonalDigitalArchiving.md) — Household preservation practice involving cloud-account documentation, multiple copies, migration, readable exports, and file checking.
 - [Surveillance as a Service](concepts/SurveillanceAsAService.md) — Vendor model where private companies build surveillance infrastructure, aggregate data, and sell searchable access or analysis tools to law enforcement.
 - [Government Data Broker Access](concepts/GovernmentDataBrokerAccess.md) — Practice of government agencies obtaining commercially collected data from brokers or private surveillance vendors.
 - [Data Broker Loophole](concepts/DataBrokerLoophole.md) — Policy gap where government agencies can buy information they would need a warrant to collect directly.
@@ -2028,7 +2033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tech Manufacturing Reshoring](concepts/TechManufacturingReshoring.md) — Attempts to move hardware production or advanced-manufacturing capability back into the U.S., grounded by Apple's Houston Mac Mini plan.
 - [Physical Video Media Revival](concepts/PhysicalVideoMediaRevival.md) — Renewed interest in DVDs, Blu-rays, and VHS as a response to streaming fragmentation, collecting, rare-title access, and preservation.
 - [Video Store Culture](concepts/VideoStoreCulture.md) — Social and discovery layer of browsing shelves, renting physical copies, talking with staff, and encountering movies in shared retail space.
-- [Analog Media Preservation](concepts/AnalogMediaPreservation.md) — Preserving media works and context through physical or analog formats when streaming catalogs or digital platforms do not reliably carry them.
+- [Analog Media Preservation](concepts/AnalogMediaPreservation.md) — Preserving media works and context through physical or analog formats, including analog-to-digital recovery when old digital copies become hard to read.
 - [AI College Search](concepts/AICollegeSearch.md) — Student-facing pattern where prospective students use AI tools to build school lists, assess campus vibe, and compare acceptances or scholarships.
 - [Higher Education AI Discoverability](concepts/HigherEducationAIDiscoverability.md) — College marketing and information-quality practice of making schools accurately visible in AI answer surfaces.
 - [AI Ranking Reinforcement](concepts/AIRankingReinforcement.md) — Failure mode where conversational AI repeats familiar ranked options instead of surfacing fit-based alternatives.
