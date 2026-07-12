@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [日谈串台｜姐妹聊天会：重启人生也是我最妖娇](sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425.md) — 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, career redirection, regret integration, pet grief, mother-daughter repair, learning capacity, and female self-possession.
 - [Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation](sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on social-media product liability, the Department of Labor's text-message AI literacy course, and Kalshi guardrails for political and sports-linked prediction markets.
 - [The tech transforming Baltimore's Francis Scott Key Bridge](sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jim Harkness on rebuilding Baltimore's Francis Scott Key Bridge with structural health monitoring, higher and longer cable-stayed design, heavier port-load capacity, and real-time or near-real-time maintenance data.
 - [Why digital archiving is more than "store and ignore"](sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on cloud files' physical roots, LTO and backup-system obsolescence, active migration, and Digital Bedrock's recovery of WIPR recordings for the American Archive of Public Broadcasting.
@@ -323,6 +324,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for the Women's Day crossover on life restarts, regret, pets, mother-daughter grief, and female self-possession.
+- [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
+- [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
+- [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
+- [秦总](entities/QinZong.md) — 蜜獾吃书 host in the restart-life episode, linking career exits, high-school embarrassment, mother loss, and love as human capacity.
+- [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
 - [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episode links USV, learning to code, Dropbox compliance pain, YC, and founder-led enterprise sales.
 - [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain, spreadsheet gap assessments, YC sales, and annual upfront contracts.
 - [Union Square Ventures](entities/UnionSquareVentures.md) — Venture firm where Christina Cacioppo learned founder patterns before teaching herself to code and later founding Vanta.
@@ -1988,6 +1995,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Life Restart Thought Experiment](concepts/LifeRestartThoughtExperiment.md) — Reflective device asking what one would revisit with memory intact, used to reveal unresolved meaning rather than a corrected life plan.
+- [Regret Integration](concepts/RegretIntegration.md) — Process of keeping embarrassment, pain, mistakes, and unfinished goodbyes inside a coherent life story instead of treating them only as errors to erase.
+- [Pet Grief And Care](concepts/PetGriefAndCare.md) — Pattern where animal loss changes later routines, responsibility, and meaning-making.
+- [Mother-Daughter Reconciliation](concepts/MotherDaughterReconciliation.md) — Adult reinterpretation of maternal absence, conflict, expectation, and repair.
+- [Female Self-Possession](concepts/FemaleSelfPossession.md) — Women's Day life-design stance built around self-knowledge, self-directed choice, learning capacity, and love without conventional success scripts.
 - [SOC 2 Audit](concepts/SOC2Audit.md) — Evidence-based software-company trust audit covering security, IT, access, policy, infrastructure, and people-process controls.
 - [Manual Compliance MVP](concepts/ManualComplianceMVP.md) — Startup validation pattern where founders deliver a manual compliance artifact, such as a SOC 2 gap spreadsheet, before building software.
 - [Annual Upfront SaaS Cash Flow](concepts/AnnualUpfrontSaaSCashFlow.md) — SaaS payment-timing pattern where annual prepayment funds early operations and extends runway when customer urgency is real.

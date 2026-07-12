@@ -2196,6 +2196,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | 日谈串台｜姐妹聊天会：重启人生也是我最妖娇
+
+Added source page for the 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, life restarts, career redirection, pet grief, mother-daughter repair, learning capacity, and female self-possession. Created pages for 蜜獾吃书, 日谈, Hookie, 殷姐, 秦总, 重启人生 / Brush Up Life, Life Restart Thought Experiment, Regret Integration, Pet Grief And Care, Mother-Daughter Reconciliation, and Female Self-Possession; updated overview, index, Learning How To Learn, Career Self-Rescue, Life Antifragility, No Better Life, and Impermanence And No-Self. No direct contradiction found; the source qualifies restart fantasies by showing that many regrets ask for understanding, presence, or integration rather than a different life.
+
 ## [2026-07-12] ingest | The ethics of using AI to immortalize the dead
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance. Created pages for Tomas Holoneck, University of Cambridge, Google Inactive Account Manager, AI Grief Bots, Post-Mortem AI Consent, and Digital Memorialization; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Digital Preservation, Persistent Agent Memory, and Human Connection Under AI. No direct contradiction found; the source extends digital preservation from storage stewardship into consent-aware interactive memorialization and qualifies persistent memory by showing that memory used after death needs stronger consent, dignity, and deletion boundaries.
@@ -2555,6 +2559,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] graph | Knowledge graph rebuilt
 
 3248 nodes, 33122 edges (33122 extracted, 0 inferred).
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
