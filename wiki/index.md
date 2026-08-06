@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？](sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e.md) — Talk三联 episode with 高一丁 and 苗伟 on 徐光启, late-Ming Western learning, Euclidean proof, agricultural relief, calendar legitimacy, Jesuit science transmission, and intellectual life.
 - [EP258 我们如何重拾睡前读书？](sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix.md) — Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading, reading media, AI recommendation, bookstore encounter, attention fragmentation, bodily sleep limits, and reading as a non-KPI daily ritual.
 - [EP257 不上班：一场逃离与寻找的复杂冒险](sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng.md) — Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition involving burnout, free time, freelance risk, parent pressure, resume-gap stigma, and work self-worth boundaries.
 - [EP256 AI时代，“自由意志”还存在吗？](sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx.md) — Talk三联 episode with 土摩托 on free will in the AI age, covering determinism, Libet experiments, Sapolsky, biological agency, meaning, embodied intelligence, and future AI free-will risk.
@@ -816,6 +817,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [徐光启 / Xu Guangqi](entities/XuGuangqi.md) — Late-Ming official and learner who anchors EP259's geometry, agriculture, calendar reform, artillery, and intellectual-life branches.
+- [苗伟 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer and EP259 guest explaining Xu Guangqi as a model of active intellectual life and science-history communication.
+- [利玛窦 / Matteo Ricci](entities/MatteoRicci.md) — Jesuit missionary whose maps, geometry teaching, and elite strategy make late-Ming Western learning concrete in EP259.
+- [李之藻 / Li Zhizao](entities/LiZhizao.md) — Late-Ming literatus used in EP259 as a second example of active learning from Western mathematical and technical knowledge.
+- [汤若望 / Johann Adam Schall von Bell](entities/JohannAdamSchallVonBell.md) — Jesuit calendar expert linking 崇祯历书, Ming-Qing transition, Qing astronomy, and later anti-foreign controversy.
+- [杨光先 / Yang Guangxian](entities/YangGuangxian.md) — Qing critic of Jesuit calendar authority used in EP259 to show science, foreignness, and cultural sovereignty in conflict.
+- [孙元化 / Sun Yuanhua](entities/SunYuanhua.md) — Xu Guangqi student connected in EP259 to artillery, fortification, and military use of late-Ming technical learning.
+- [《几何原本》 / Chinese Euclid's Elements](entities/EuclidsElementsChinese.md) — Translated geometry work anchoring EP259's proof-training and mathematical-language branch.
+- [《农政全书》 / Nongzheng Quanshu](entities/NongzhengQuanshu.md) — Xu Guangqi agricultural work used in EP259 to connect knowledge, crop survival, famine, and statecraft.
+- [《崇祯历书》 / Chongzhen Lishu](entities/ChongzhenLishu.md) — Late-Ming calendar-reform compilation connecting astronomy, imperial legitimacy, and Jesuit expertise in EP259.
+- [《坤舆万国全图》 / Kunyu Wanguo Quantu](entities/KunyuWanguoQuantu.md) — Ricci world map used in EP259 as the cartographic spark for Xu Guangqi's Western-learning curiosity.
+- [《同文算指》 / Tongwen Suanzhi](entities/TongwenSuanzhi.md) — Arithmetic text in EP259 used to imagine missed early-modern education reforms around calculation and mathematical learning.
 - [随机波动 / Random Fluctuations](entities/RandomFluctuations.md) — Podcast context for 冷建国 and 张芝琪 in EP258, grounding a non-moralized reading-life conversation.
 - [冷建国 / Leng Jianguo](entities/LengJianguo.md) — Random Fluctuations speaker in EP258 linking bedtime reading to unfinished books, private taste, long attention, and resisting every media wave.
 - [张芝琪 / Zhang Zhiqi](entities/ZhangZhiqi.md) — Random Fluctuations speaker in EP258 grounding reading in body, dry-eye constraints, medium pluralism, bookstores, AI recommendation, and attention practice.
@@ -5516,6 +5529,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Late-Ming Western Learning / 晚明西学东渐](concepts/LateMingWesternLearning.md) — EP259 frame for Western knowledge entering China through maps, geometry, calendars, Jesuit strategy, translation, and state needs.
+- [Euclidean Proof Training / 欧几里得式证明训练](concepts/EuclideanProofTraining.md) — EP259 concept for geometry as training in definitions, postulates, proof, and knowing why a result follows.
+- [Calendar Reform Legitimacy / 历法改革与政治合法性](concepts/CalendarReformLegitimacy.md) — EP259 frame for calendar astronomy as imperial legitimacy infrastructure rather than neutral technical calculation.
+- [Intellectual Life As Practice / 智识生活作为实践](concepts/IntellectualLifeAsPractice.md) — EP259 answer to how people become smarter: curiosity, reality contact, hard tools, and disciplined reasoning.
+- [Science Value Transmission / 科学价值观传入](concepts/ScienceValueTransmission.md) — EP259 claim that science carries norms around evidence, communication, anti-authoritarianism, dignity, and institutional openness.
+- [Agricultural Relief Statecraft / 农政救荒](concepts/AgriculturalReliefStatecraft.md) — EP259 concept linking Xu Guangqi's agricultural writing to famine survival, crop promotion, and food-security responsibility.
 - [Bedtime Reading Ritual / 睡前阅读仪式](concepts/BedtimeReadingRitual.md) — EP258 frame for reading as a transition from daytime alertness into sleep and dream rather than a cultural KPI.
 - [Reading Medium Pluralism / 阅读媒介多元主义](concepts/ReadingMediumPluralism.md) — EP258 anti-purist reading frame covering paper books, phone reading, text-based video, and AI recommendation as possible reading routes.
 - [Attention Fragmentation / 注意力碎片化](concepts/AttentionFragmentation.md) — EP258 diagnosis that modern reading trouble comes from broken attention more than lack of clock time.

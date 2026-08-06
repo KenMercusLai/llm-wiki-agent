@@ -2,11 +2,13 @@
 title: "Humanistic Science Communication"
 type: concept
 tags: [science, communication, humanities, public-science, big-science, engineering]
-sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
+sources: [ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
 last_updated: 2026-08-07
 ---
 
 # Humanistic Science Communication
+
+[[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]] adds a history-of-science version through [[MiaoWeiSanlian|苗伟]]'s discussion of [[XuGuangqi|徐光启]]. The episode explains mathematics, agriculture, astronomy, missionary networks, and tomb visits as lived intellectual questions, making [[EuclideanProofTraining|proof]], [[AgriculturalReliefStatecraft|famine relief]], and [[CalendarReformLegitimacy|calendar legitimacy]] graspable without stripping away their political and cultural tension.
 
 [[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]] adds a large-infrastructure version through [[MiaoQian|苗千]]'s reporting on Chinese [[BigScienceInfrastructure|大科学基础设施]]. The episode explains basic physics without making it feel detached from bodies and places: oxygen tanks and blood-oxygen readings at [[AliPrimordialGravitationalWaveObservatory|阿里原初引力波探测站]], underground water at [[JiangmenUndergroundNeutrinoObservatory|江门中微子实验]], cleanroom detector work near [[ChinaSpallationNeutronSource|中国散裂中子源]], and phone-free visitor rules at [[FAST|贵州天眼]] all turn abstract science into graspable scenes.
 
@@ -27,8 +29,10 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 - In conservation communication, evidence and emotion can reinforce each other when the story stays accountable to species behavior, field uncertainty, and institutional work.
 - Everyday nature communication can be effective when it gives children and neighbors names, scenes, and memories for organisms already living nearby.
 - Big-science communication can use [[ScienceEngineeringAesthetics|engineering aesthetics]] and field detail to justify curiosity without replacing evidence with spectacle.
+- Science-history communication can make old technical material legible when it connects reasoning systems, material needs, institutions, and present-day analogies without reducing them to patriotic or anti-patriotic slogans.
 
 ## Connections
+- [[MiaoWeiSanlian]], [[XuGuangqi]], [[LateMingWesternLearning]], [[EuclideanProofTraining]], [[AgriculturalReliefStatecraft]], and [[ScienceValueTransmission]] - history-of-science extension added by EP259.
 - [[MiaoQian]], [[BigScienceInfrastructure]], [[WeakSignalDetection]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - big-science reporting extension added by EP248.
 - [[CarlSagan|Carl Sagan]], [[CosmosBook|《宇宙》 / Cosmos]], and [[ContactNovel|《接触》 / Contact]] - central source cases.
 - [[ScientificSkepticism]] and [[ScienceOptimismAndPseudoscience]] - method and media-ecology boundaries.

@@ -6350,6 +6350,10 @@ Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？
+
+Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光启 as a late-Ming official, learner, translator, agricultural reformer, military-modernization advocate, and calendar-reform organizer. Created pages for 徐光启, 苗伟, 利玛窦, 李之藻, 汤若望, 杨光先, 孙元化, 《几何原本》, 《农政全书》, 《崇祯历书》, 《坤舆万国全图》, 《同文算指》, Late-Ming Western Learning, Euclidean Proof Training, Calendar Reform Legitimacy, Intellectual Life As Practice, Science Value Transmission, and Agricultural Relief Statecraft; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Jesuits, Humanistic Science Communication, Scientific Revolution Social Infrastructure, and Learning How To Learn. No direct contradiction found; the source qualifies simple science-versus-tradition narratives by treating Western learning as simultaneously mathematical, practical, religiously mediated, politically useful, and culturally vulnerable.
+
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
