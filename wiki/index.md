@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己](sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d.md) — Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》, menstrual shame, gynecological dignity, saying no, female friendship, body confidence, and mother-daughter self-permission.
 - [EP253 爆火的AI好物，到底是“真香”还是智商税？](sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4.md) — Talk三联 episode on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, vertical sports and cleaning robots, AI appliances, and privacy tradeoffs.
 - [EP252 《太平年》之外的五代十国，什么样？](sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh.md) — Talk三联 episode with 王洪杰 on 《太平年》, 五代十国概念形成, 唐宋转型, 十国关系类型, southern stability, social mobility, military/literati coexistence, succession, adoptive-son ties, and women.
 - [EP251 伊朗困局：四十年战略选择的代价与现实](sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd.md) — Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, Hormuz, Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization.
@@ -811,6 +812,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [文淇 / Wen Qi](entities/WenQi.md) — Actor and EP254 host whose stories connect 《我许可》 to menarche, body confidence, people-pleasing, online women-to-women recognition, and self-permission.
+- [游晓颖 / You Xiaoying](entities/YouXiaoying.md) — Screenwriter of 《我许可》 in EP254, linking self-permission to body acceptance, gynecological dignity, driving, accounting, and authorship-credit boundaries.
+- [杜素娟 / Du Sujuan](entities/DuSujuan.md) — Literature teacher in EP254 reading 《我许可》 through three generations of women, menstrual shame, medical dignity, appearance anxiety, and mother-daughter mirroring.
+- [《我许可》 / Wo Xuke](entities/WoXukeFilm.md) — Film used by EP254 as a prompt for women learning self-permission through body experience, refusal, friendship, and mother-daughter recognition.
 - [Ropet](entities/Ropet.md) — AI companion toy in EP253 illustrating the nonverbal pet-like route for emotional hardware.
 - [福仔 / Fuzai AI Toy](entities/FuzaiAIToy.md) — Speech-centered AI toy in EP253 used to contrast talking and non-talking companion design.
 - [小智AI / Xiaozhi AI](entities/XiaozhiAI.md) — Open-source AI hardware project named as one trigger for Huaqiangbei AI-hardware experimentation.
@@ -5483,6 +5488,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Self-Permission / 自我许可](concepts/SelfPermission.md) — EP254 frame for treating one's body, feeling, need, ambition, and refusal as legitimate before external permission fully arrives.
+- [Gynecological Exam Dignity / 妇科检查尊严](concepts/GynecologicalExamDignity.md) — EP254 concept for intimate medical care that preserves explanation, consent, privacy, and patient dignity.
+- [Female Friendship Recognition / 女性友谊的看见](concepts/FemaleFriendshipRecognition.md) — EP254 frame for women friends, film figures, and online commenters helping women name shared experience.
+- [Mother-Daughter Intergenerational Mirror / 母女代际镜像](concepts/MotherDaughterIntergenerationalMirror.md) — EP254 pattern where mothers and daughters reveal inherited scripts, interrupted desires, and the wish not to pass regret forward.
 - [Consumer AI Hardware Product Fit / 消费级AI硬件产品适配](concepts/ConsumerAIHardwareProductFit.md) — EP253 frame for separating useful consumer AI devices from gimmicks by task, feedback, form factor, and user value.
 - [AI Glasses Product Fit / AI眼镜产品适配](concepts/AIGlassesProductFit.md) — EP253 concept for judging AI glasses as translation, meeting, recording, prompting, and recognition wearables rather than full AR platforms.
 - [AI Toy Companionship / AI玩具陪伴](concepts/AIToyCompanionship.md) — EP253 branch of AI friend products focused on toys, memory, speech restraint, child companionship, and dependence risk.
