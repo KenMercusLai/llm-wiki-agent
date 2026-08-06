@@ -6565,3 +6565,11 @@ Added source page for a Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP264 踏访“唐诗之路”：盛唐气象少年心
+
+Added source page for a Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 三联生活周刊's "唐诗之路" cover report, reading 王维/长安, 孟浩然/浙东, and 岑参/边塞 through cultural geography, field reporting, archaeological/document evidence, and AI hallucination risk in historical reporting. Created pages for 艾江涛, 薄静, 王维, 孟浩然, 岑参, 唐代长安, 辋川, 北庭故城, 交河故城, 唐诗之路, 唐诗文化地理, 京城诗社交性, 浙东唐诗之路, 边塞诗的实地经验, 文人漫游作为仕途策略, and 历史报道中的AI幻觉; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 张星云, Fieldwork As Knowledge Method, AI Journalism Trust, Creator Fact-Checking Responsibility, Situated Media Observation, and Reading As Life Experience. No direct contradiction found; the source qualifies AI-assisted cultural reporting by insisting on primary texts, chronologies, experts, field visits, ruins, inscriptions, and excavated documents before turning a route or poem-date claim into settled knowledge.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

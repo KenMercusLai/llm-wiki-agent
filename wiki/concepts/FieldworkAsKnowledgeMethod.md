@@ -2,11 +2,13 @@
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
 tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
-sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+sources: [ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-07
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds a literary-geography version through [[TangPoetryRoad|唐诗之路]]. The source shows that classical poetry reporting can also require fieldwork: lost [[ChangAnTang|唐代长安]] sites, [[Wangchuan|辋川]] terrain, [[ZhedongTangPoetryRoad|浙东]] roads and streams, and western-region ruins such as [[BeitingAncientCity|北庭故城]] and [[JiaoheAncientCity|交河故城]] all help test what can and cannot be claimed from texts alone.
 
 [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds an ecology-and-agriculture version through [[DuanNongyu|段农裕]] in [[Mengyin|蒙阴]] and [[LiuChang|刘畅]] in [[Xishuangbanna|西双版纳]]. The source shows that bee crisis becomes clearer when reporting follows hive sounds, transfer timing, flower windows, pesticide rumors, wild-honey harvesting, cash-crop orchards, and species-survey gaps rather than only citing global insect-decline claims.
 
@@ -33,8 +35,10 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - Science reporting fieldwork can make instruments and environments legible by showing how bodies, logistics, and engineering constraints shape what counts as evidence.
 - Ritual reporting adds that spectacular events need slow contextualization: who organizes, pays, carries, mediates, watches, inherits, and is excluded is part of the evidence.
 - Ecology and agriculture reporting add that pollinator decline must be observed through farms, hives, species surveys, weather, chemicals, and harvest practices as well as through global statistics.
+- Literary-geography reporting adds that poems, ruins, route claims, old maps, inscriptions, and excavated documents need to be read together before a travel route becomes evidence.
 
 ## Connections
+- [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[Wangchuan]], [[BeitingAncientCity]], and [[JiaoheAncientCity]] - EP264 literary-geography extension.
 - [[YongningAncientCity|永宁古城]], [[ZhangCongzhi|张从志]], [[CaiXiaochuan|蔡小川]], [[MinnanRitualNetwork]], and [[JitongSpiritMedium]] - EP249 ritual-reporting extension.
 - [[DuanNongyu]], [[LiuChang]], [[Mengyin]], [[Xishuangbanna]], [[WildPollinatorCrisis]], and [[MigratoryBeekeeperLivelihood]] - EP261 bee-crisis fieldwork extension.
 - [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[FAST]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - EP248 science-reporting extension.

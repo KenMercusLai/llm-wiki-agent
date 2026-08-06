@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP264 踏访“唐诗之路”：盛唐气象少年心](sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi.md) — Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 唐诗之路, reading Wang Wei/Chang'an, Meng Haoran/Zhejiang, and Cen Shen/frontier poetry through cultural geography, field reporting, archaeology, and AI hallucination risk.
 - [EP263 线香崛起：发现中式香气的魅力](sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv.md) — Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory.
 - [EP262 高考过后，知识“归零”：我们需要怎样的科学教育？](sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r.md) — Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy for everyday judgment, big-concept teaching, project-based science learning, HPS, exam pressure, AI projects, and regional reform gaps.
 - [EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？](sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv.md) — Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild pollinators, migratory beekeepers, pesticide risk, Xishuangbanna native bees, pollination services, and ecological consequences if pollinators disappear.
@@ -821,6 +822,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [艾江涛 / Ai Jiangtao](entities/AiJiangtao.md) — Sanlian reporter explaining the Chang'an and Wang Wei branch of the Tang Poetry Road episode.
+- [薄静 / Bo Jing](entities/BoJingSanlianCulture.md) — Sanlian reporter explaining the eastern Zhejiang and Meng Haoran branch; kept separate from 博靖 / Bo Jing because the source uses different Chinese characters.
+- [王维 / Wang Wei](entities/WangWei.md) — Tang poet read through Chang'an social poetry, Buddhist public spaces, and Wangchuan landscape practice.
+- [孟浩然 / Meng Haoran](entities/MengHaoran.md) — Tang poet used to ground the eastern Zhejiang route while keeping his exact itinerary source-scoped and uncertain.
+- [岑参 / Cen Shen](entities/CenShen.md) — Tang frontier poet whose Anxi and Beiting service gives his border poems site and document evidence.
+- [唐代长安 / Tang Chang'an](entities/ChangAnTang.md) — Capital-space node for Tang poetry as court, monastery, reputation, and lost-city geography.
+- [辋川 / Wangchuan](entities/Wangchuan.md) — Lantian valley tied to Wang Wei and Pei Di's Wangchuan landscape poems, with relic loss and access limits.
+- [北庭故城 / Beiting Ancient City](entities/BeitingAncientCity.md) — Xinjiang site used to understand Cen Shen's Beiting service and frontier-poetry geography.
+- [交河故城 / Jiaohe Ancient City](entities/JiaoheAncientCity.md) — Turpan-area site used to read Tang western-region urban structure and frontier context.
 - [沉香 / Agarwood](entities/Agarwood.md) — Fragrant resinous material in EP263 linking tree injury response, wild scarcity, Hainan aroma reputation, beads, line incense, essential oil, and supply-chain trust.
 - [奇楠 / Qinan](entities/Qinan.md) — Premium agarwood category and grafting breakthrough in EP263, used to explain planted agarwood, 转韵, and the consumer upgrade path from blended incense to raw-material appreciation.
 - [观夏 / Guanxia](entities/Guanxia.md) — Chinese fragrance brand case in EP263 showing how contemporary scent products use mood naming, retail experience, packaging, and Chinese fragrance storytelling.
@@ -5548,6 +5558,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [唐诗之路 / Tang Poetry Road](concepts/TangPoetryRoad.md) — Route frame for reading Tang poetry through Chang'an, eastern Zhejiang, and western-frontier spaces rather than only through isolated famous lines.
+- [唐诗文化地理 / Tang Poetry Cultural Geography](concepts/TangPoetryCulturalGeography.md) — Method for connecting Tang poems to sites, institutions, routes, ruins, documents, and uncertainty labels.
+- [京城诗社交性 / Capital Poetry Sociality](concepts/CapitalPoetrySociality.md) — Frame for poems produced through capital courts, princely mansions, banquets, send-offs, exams, and reputation exchange.
+- [浙东唐诗之路 / Eastern Zhejiang Tang Poetry Road](concepts/ZhedongTangPoetryRoad.md) — Southern route branch linking Meng Haoran, Zhejiang waterways, mountains, temples, and Six Dynasties cultural memory.
+- [边塞诗的实地经验 / Tang Frontier Poetry Field Experience](concepts/TangFrontierPoetryFieldExperience.md) — Distinction between inherited frontier imagery and poems grounded in Cen Shen's western-region service.
+- [文人漫游作为仕途策略 / Literary Travel As Career Strategy](concepts/LiteraryTravelAsCareerStrategy.md) — Claim that Tang literati roaming could combine scenery, pilgrimage, reputation, recommendation, reclusion, and career search.
+- [历史报道中的AI幻觉 / Historical Reporting AI Hallucination](concepts/HistoricalReportingAIHallucination.md) — AI-assisted history-reporting risk where plausible routes, citations, names, or classical phrasing require independent verification.
 - [Line Incense Daily Life / 线香日常化](concepts/LineIncenseDailyLife.md) — EP263 frame for line incense moving from formal 香席 and literati practice into home reading, meditation, sleep, decompression, and low-threshold scent ritual.
 - [Chinese Fragrance / 中式香气](concepts/ChineseFragrance.md) — EP263 concept for culturally legible Chinese scent built from osmanthus, green notes, agarwood, ancient formulas, understated projection, and shared memory.
 - [Incense Formula Reconstruction / 古方香复刻](concepts/IncenseFormulaReconstruction.md) — EP263 method for reconstructing ancient incense recipes through textual comparison, craft testing, and poetic-scene interpretation.
