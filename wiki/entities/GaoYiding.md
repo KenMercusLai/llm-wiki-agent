@@ -1,12 +1,14 @@
 ---
 title: "高一丁 / Gao Yiding"
 type: entity
-tags: [person, host, podcast, technology, games]
-sources: [ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+tags: [person, host, podcast, technology, games, science, physics]
+sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # 高一丁 / Gao Yiding
+
+Gao Yiding hosts [[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]], where he talks with [[MiaoQian|苗千]] about Chinese [[BigScienceInfrastructure|大科学基础设施]]. His role is to ask why ordinary listeners should care about high-altitude, underground, and radio-quiet scientific sites, then keep the conversation grounded in [[WeakSignalDetection|weak-signal detection]], [[ExtremeEnvironmentPhysics|extreme environments]], and public spending arguments.
 
 [[ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu]] adds Gao's host role in a young-side-income episode. He frames [[IndieGameCommercialization|independent games]] as a concrete way to test whether "搞钱" paths are real businesses, then keeps the conversation tied to [[WuJunIndieGameCreator|巫君]]'s operating details and [[WangYiranSanlian|王依然]]'s broader reporting on creator communities.
 
@@ -18,6 +20,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 
 ## Connections
 - [[TalkSanlian]] — show context.
+- [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[ChinaSpallationNeutronSource]], [[FAST]], and [[BigScienceInfrastructure]] — EP248 big-science branch.
 - [[WuJunIndieGameCreator]], [[WangYiranSanlian]], [[IndieGameCommercialization]], and [[SkillBasedSideIncome]] — EP242 independent-game and side-income branch.
 - [[ZhangCongzhi]] — guest and reporter.
 - [[GPU]], [[SemiconductorSupplyChain]], and [[ComputeFreedom]] — technical frames he helps introduce.

@@ -1,12 +1,14 @@
 ---
 title: "Humanistic Science Communication"
 type: concept
-tags: [science, communication, humanities, public-science]
-sources: [85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
-last_updated: 2026-08-06
+tags: [science, communication, humanities, public-science, big-science, engineering]
+sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
+last_updated: 2026-08-07
 ---
 
 # Humanistic Science Communication
+
+[[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]] adds a large-infrastructure version through [[MiaoQian|苗千]]'s reporting on Chinese [[BigScienceInfrastructure|大科学基础设施]]. The episode explains basic physics without making it feel detached from bodies and places: oxygen tanks and blood-oxygen readings at [[AliPrimordialGravitationalWaveObservatory|阿里原初引力波探测站]], underground water at [[JiangmenUndergroundNeutrinoObservatory|江门中微子实验]], cleanroom detector work near [[ChinaSpallationNeutronSource|中国散裂中子源]], and phone-free visitor rules at [[FAST|贵州天眼]] all turn abstract science into graspable scenes.
 
 Humanistic science communication is the source's reading of [[CarlSagan|Carl Sagan]] as someone who can explain science accurately while preserving literary force, cultural memory, emotional warmth, and human responsibility. In [[sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]], [[CosmosBook|《宇宙》 / Cosmos]], [[ContactNovel|《接触》 / Contact]], [[SETI]], the [[VoyagerGoldenRecord|Voyager golden record]], and [[NuclearWinter]] all show science as a way of locating human beings inside a larger cosmos rather than reducing them to dust.
 
@@ -24,8 +26,10 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 - The source treats public science as civic work: it can defend exploration, warn against nuclear self-destruction, and help people imagine themselves as part of one civilization.
 - In conservation communication, evidence and emotion can reinforce each other when the story stays accountable to species behavior, field uncertainty, and institutional work.
 - Everyday nature communication can be effective when it gives children and neighbors names, scenes, and memories for organisms already living nearby.
+- Big-science communication can use [[ScienceEngineeringAesthetics|engineering aesthetics]] and field detail to justify curiosity without replacing evidence with spectacle.
 
 ## Connections
+- [[MiaoQian]], [[BigScienceInfrastructure]], [[WeakSignalDetection]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - big-science reporting extension added by EP248.
 - [[CarlSagan|Carl Sagan]], [[CosmosBook|《宇宙》 / Cosmos]], and [[ContactNovel|《接触》 / Contact]] - central source cases.
 - [[ScientificSkepticism]] and [[ScienceOptimismAndPseudoscience]] - method and media-ecology boundaries.
 - [[SaganEffect]] and [[ScienceCommunicationDisadvantage]] - costs and asymmetries of public science work.

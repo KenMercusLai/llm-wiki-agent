@@ -1,12 +1,14 @@
 ---
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
-tags: [method, fieldwork, evidence, scholarship]
-sources: [xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting]
+sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-07
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]] adds a science-journalism extension through [[MiaoQian|苗千]]'s 14-day route across high plateau, underground laboratory, cleanroom, radio-telescope tourism, and conference interviews. Her reporting shows that [[BigScienceInfrastructure|大科学基础设施]] cannot be understood only from project descriptions; altitude sickness, oxygen support, underground water, detector cooling, visitor restrictions, and the scale of apparatuses all become evidence about how science is actually organized.
 
 [[xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c]] adds a journalism version through [[QinSi|秦思]] and [[ChengJing|程静]]. Qin Si connects social-science training to domestic reporting in villages, pollution sites, and difficult investigations; Cheng Jing shows how international news can use social investigation and [[RemoteReportingPresence|remote reporting presence]] when travel to the scene is impossible.
 
@@ -24,8 +26,10 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - Fieldwork challenges inherited textual authority without rejecting older scholarship.
 - [[ObservationBeforeInference]] is the reasoning discipline that keeps field evidence from becoming anecdote.
 - Anthropology fieldwork adds that the observer's own dependence, body, and local classification are part of what must be observed.
+- Science reporting fieldwork can make instruments and environments legible by showing how bodies, logistics, and engineering constraints shape what counts as evidence.
 
 ## Connections
+- [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[FAST]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - EP248 science-reporting extension.
 - [[QinSi]], [[ChengJing]], [[FemaleJournalistFieldwork]], [[RemoteReportingPresence]], and [[ReporterSourceTrustNetwork]] - journalism extension added by the year-end special.
 - [[DingWenjiang|丁文江]], [[XuXiake|徐霞客]], and [[GeologicalResearchInstitute|地质研究所/地质调查所]] - geology branch.
 - [[LiangSicheng|梁思成]], [[LinHuiyin|林徽因]], and [[SocietyForResearchInChineseArchitecture|中国营造学社]] - architecture branch.

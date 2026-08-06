@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP248 在高原与地下，探寻中国“大科学项目”](sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo.md) — Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali CMB/primordial gravitational waves, Jiangmen neutrinos, Dongguan spallation neutrons, FAST, weak-signal detection, extreme environments, international collaboration, and technology spillovers.
 - [EP247 重启人生：当农村中年女性开始“做主播”](sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj.md) — Talk三联 episode with 魏茜 and 曾欣 on rural middle-aged women becoming livestreamers, covering visibility, family resistance, persona labor, platform feedback, compressed modernity, and county platform work.
 - [EP246 让女生安心的约会小酒馆，什么样？](sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm.md) — Talk三联 love-issue episode with 张星云 and Moku on spatial love studies, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small venues make women feel safer.
 - [现场！现场！ | 2025年终特辑：三联女记者揭秘新闻背后的苦与光](sources/xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c.md) — Talk三联 year-end reporting special with 秦思, 程静, and 魏昭阳 on women reporters, fieldwork, remote interviews, source trust, emotional labor, and sustainable media work.
@@ -805,6 +806,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [苗千 / Miao Qian](entities/MiaoQian.md) — Sanlian reporter and Talk三联 guest translating Chinese big-science facilities into field-reporting scenes across Ali, Jiangmen, Dongguan, Guizhou, and Wuhan.
+- [阿里原初引力波探测站 / Ali Primordial Gravitational Wave Observatory](entities/AliPrimordialGravitationalWaveObservatory.md) — high-altitude Tibet project searching cosmic microwave background polarization traces of primordial gravitational waves.
+- [江门中微子实验 / Jiangmen Underground Neutrino Observatory](entities/JiangmenUndergroundNeutrinoObservatory.md) — underground neutrino project using rock shielding, reactor-distance geometry, liquid scintillator, and high-purity water to study weak neutrino signals.
+- [中国散裂中子源 / China Spallation Neutron Source](entities/ChinaSpallationNeutronSource.md) — Dongguan neutron-scattering facility used in the episode to connect big science with nondestructive materials probing and detector-related instrumentation.
+- [贵州天眼 / FAST](entities/FAST.md) — radio-telescope project and public-facing big-science site where visitor access is shaped by radio-quiet research constraints.
 - [曾欣 / Zeng Xin](entities/ZengXin.md) — CASS journalism and communication scholar in EP247 whose fieldwork grounds rural women livestreaming, compressed modernity, family-based agency, and county platform labor.
 - [张星云 / Zhang Xingyun](entities/ZhangXingyun.md) — Sanlian speaker in EP246 framing the annual love issue through spatial love studies, nearby encounters, coffee shops, bistros, and city dating venues.
 - [Moku](entities/Moku.md) — Bistro operator interviewed in EP246, explaining how portions, seating, owner presence, and service discretion make a small venue comfortable for women and dates.
@@ -5438,6 +5444,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Big Science Infrastructure / 大科学基础设施](concepts/BigScienceInfrastructure.md) — framework for large facilities, long timelines, extreme environments, and project-scale organization in frontier physics.
+- [Weak Signal Detection / 微弱信号探测](concepts/WeakSignalDetection.md) — evidence regime where noise control, shielding, cooling, long data accumulation, and statistics make barely perceptible physical signals measurable.
+- [Extreme Environment Physics / 极端环境物理](concepts/ExtremeEnvironmentPhysics.md) — frame for high plateaus, underground labs, radio-quiet sites, and source-distance geometry as parts of scientific instruments.
+- [Big Science International Collaboration / 大科学国际合作](concepts/BigScienceInternationalCollaboration.md) — account of contemporary basic-physics projects as nationally led yet internationally staffed, open, competitive, and cooperative.
+- [Big Science Technology Spillover / 大科学技术外溢](concepts/BigScienceTechnologySpillover.md) — concept for material, detector, semiconductor, and data-system capabilities pulled forward by demanding basic-science projects.
+- [Scientist As Project Organizer / 科学家作为项目组织者](concepts/ScientistAsProjectOrganizer.md) — frame for chief scientists as researchers, engineering coordinators, budget advocates, and long-horizon project managers.
+- [Science Engineering Aesthetics / 科学工程美感](concepts/ScienceEngineeringAesthetics.md) — concept for the visual and bodily force of large scientific apparatuses as public science communication.
 - [Rural Women Livestreaming / 乡村女主播](concepts/RuralWomenLivestreaming.md) — EP247 concept for rural middle-aged women using livestreaming as phone-skill training, public visibility, flexible work, family negotiation, and uneven platform income.
 - [Livestream Persona Labor / 直播人设劳动](concepts/LivestreamPersonaLabor.md) — EP247 frame for streamers testing beauty, rural authenticity, field scenes, and wife-mother trust signals in response to traffic and buyers.
 - [Compressed Modernity Gender Transition / 压缩现代性中的女性转型](concepts/CompressedModernityGenderTransition.md) — EP247/Zeng Xin frame for inherited family roles and modern selfhood colliding inside rural women's midlife choices.
