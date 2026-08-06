@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP263 线香崛起：发现中式香气的魅力](sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv.md) — Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory.
 - [EP262 高考过后，知识“归零”：我们需要怎样的科学教育？](sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r.md) — Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy for everyday judgment, big-concept teaching, project-based science learning, HPS, exam pressure, AI projects, and regional reform gaps.
 - [EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？](sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv.md) — Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild pollinators, migratory beekeepers, pesticide risk, Xishuangbanna native bees, pollination services, and ecological consequences if pollinators disappear.
 - [EP260 一口肥美脂肪，藏着中国养殖的新故事](sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j.md) — Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on salmon-trout labeling, Longyangxia rainbow trout, eel seedling volatility, Guangdong/Shunde grilled eel, foie gras welfare tradeoffs, and prepared high-value food formats.
@@ -820,6 +821,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [沉香 / Agarwood](entities/Agarwood.md) — Fragrant resinous material in EP263 linking tree injury response, wild scarcity, Hainan aroma reputation, beads, line incense, essential oil, and supply-chain trust.
+- [奇楠 / Qinan](entities/Qinan.md) — Premium agarwood category and grafting breakthrough in EP263, used to explain planted agarwood, 转韵, and the consumer upgrade path from blended incense to raw-material appreciation.
+- [观夏 / Guanxia](entities/Guanxia.md) — Chinese fragrance brand case in EP263 showing how contemporary scent products use mood naming, retail experience, packaging, and Chinese fragrance storytelling.
+- [桂花 / Osmanthus](entities/Osmanthus.md) — Fragrance and memory case in EP263 where season, food, hometown, and 满陇桂雨 associations make a floral note culturally legible.
+- [刘良佑 / Liu Liangyou](entities/LiuLiangyou.md) — Taiwan incense-revival figure in EP263 used to contrast formal 香席 practice with today's lower-threshold line incense use.
+- [吴清 / Wu Qing (incense)](entities/WuQingIncense.md) — Ancient-incense-formula reconstruction practitioner in EP263 grounding the 鹅梨帐中香 discussion.
 - [虹鳟 / Rainbow Trout](entities/RainbowTrout.md) — Salmonid food case in EP260 linking domestic cold-water farming, "三文鱼" labeling, freshness claims, feed color, and smoked/prepared trout formats.
 - [鳗鱼 / Eel](entities/Eel.md) — Aquaculture and processing case in EP260 where wild seedling dependence, Guangdong/Shunde production, and grilled-eel factories make eel look both biological and financial.
 - [鹅肝 / Foie Gras](entities/FoieGras.md) — Fatty luxury-food case in EP260 connecting Chinese production, restaurant and prepared formats, farmer income, force-feeding, disease, and animal-welfare tradeoffs.
@@ -5541,6 +5548,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Line Incense Daily Life / 线香日常化](concepts/LineIncenseDailyLife.md) — EP263 frame for line incense moving from formal 香席 and literati practice into home reading, meditation, sleep, decompression, and low-threshold scent ritual.
+- [Chinese Fragrance / 中式香气](concepts/ChineseFragrance.md) — EP263 concept for culturally legible Chinese scent built from osmanthus, green notes, agarwood, ancient formulas, understated projection, and shared memory.
+- [Incense Formula Reconstruction / 古方香复刻](concepts/IncenseFormulaReconstruction.md) — EP263 method for reconstructing ancient incense recipes through textual comparison, craft testing, and poetic-scene interpretation.
+- [Agarwood Industrialization / 沉香产业化](concepts/AgarwoodIndustrialization.md) — EP263 supply-chain frame connecting wild agarwood scarcity, planting, qinan grafting, artificial结香, standardization, and export compliance.
+- [Fragrance Product Storytelling / 香气产品叙事](concepts/FragranceProductStorytelling.md) — EP263 branding concept for making hard-to-sample scent legible through naming, packaging, shops, social content, gift language, and use scenes.
+- [Scent As Brand Memory / 气味作为品牌记忆](concepts/ScentAsBrandMemory.md) — EP263 concept for using ambient scent as repeatable brand memory in hotels, museums, retail, and cultural spaces.
 - [Science Education As Civic Literacy / 作为公民素养的科学教育](concepts/ScienceEducationAsCivicLiteracy.md) — EP262 frame for science education as ordinary judgment in health, AI information, parenting, environment, evidence, and everyday decision modeling.
 - [Big-Concept Science Teaching / 大概念科学教学](concepts/BigConceptScienceTeaching.md) — EP262 curriculum approach that connects facts such as teeth, magnets, force, digestion, and electromagnetism to larger scientific systems.
 - [Project-Based Science Learning / 项目式科学学习](concepts/ProjectBasedScienceLearning.md) — EP262 inquiry mode where projects such as cotton-candy machines, local stones, campus ecology, and shared equipment become science learning only when tied to evidence and concepts.

@@ -6557,3 +6557,11 @@ Added source page for a Talk三联 episode with 高一丁, 魏茜, and 王依然
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] ingest | EP263 线香崛起：发现中式香气的魅力
+
+Added source page for a Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory. Created pages for 沉香 / Agarwood, 奇楠 / Qinan, 观夏 / Guanxia, 桂花 / Osmanthus, 刘良佑 / Liu Liangyou, 吴清 / Wu Qing (incense), Line Incense Daily Life, Chinese Fragrance, Incense Formula Reconstruction, Agarwood Industrialization, Fragrance Product Storytelling, and Scent As Brand Memory; updated overview, index, Talk三联, 三联生活周刊, 邱连, 薛鹏, 吴立伟, Taste Training, Flavor As Self-Knowledge, Emotion Economy, Immediate-Relief Wellness Consumption, Story Led Consumer Branding, Consumer Brand Moat, and Material History Narrative. No direct contradiction found; the source qualifies simple wellness and market-size claims by keeping health effects, price ranges, and industry scale source-scoped rather than treating them as validated general facts.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

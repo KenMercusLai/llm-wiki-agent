@@ -2,7 +2,7 @@
 title: "Story Led Consumer Branding"
 type: concept
 tags: [consumer-products, brand, storytelling, founder-led]
-sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
+sources: [ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, 142-riben-xiaofeizhe-weihe-ruci-chimi-jijie-xianding-chuantai-kuahai-dianbo-lgbjiahlutyyf4paylnyxy7hv0iq]
 last_updated: 2026-08-07
 ---
 
@@ -20,6 +20,8 @@ The concept is useful because story can create memory, trust, and willingness to
 
 [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds the second-generation manufacturing version through [[FactorySecondGenerationPersonalIP|厂二代个人IP]]. In the source, successors at or around [[Fadior|法迪奥]], [[WoteShoes|沃特鞋企]], and [[Malawangzi|麻辣王子]] use personal accounts, factory visibility, and family-business stories to make products and companies more legible under [[ManufacturingSalesShift|manufacturing's sales shift]].
 
+[[ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv]] adds the fragrance version through [[FragranceProductStorytelling|香气产品叙事]]. Because customers cannot smell a line incense or perfume through text, story has to carry scene, material, ancient formula, character, packaging, and gift meaning until the user can test the scent.
+
 ## Key Claims
 - A consumer brand story works when it makes the product easier to understand, remember, gift, or justify.
 - Founder and family stories can create authenticity, but they need operating systems that can scale beyond the founder retelling the story one customer at a time.
@@ -30,6 +32,7 @@ The concept is useful because story can create memory, trust, and willingness to
 - A story can be carried by place, mascot, packaging, and retail display even when the founder stays mostly outside the public frame.
 - A story can be carried by season or region when the buyer can explain when, where, and why the product belongs to a specific scene.
 - A successor's personal story can help a traditional manufacturer become visible, but it must connect back to product proof, channels, and operations rather than remain an exposure play.
+- In fragrance, story is partly a sampling bridge: it helps users imagine a scent, but it still has to survive the actual smelling experience.
 
 ## Connections
 - [[YearlyCo]], [[IslandBeeCompany]], and [[WanderingSoulBeer]] - source cases.
@@ -40,3 +43,4 @@ The concept is useful because story can create memory, trust, and willingness to
 - [[SunBum]], [[TomRinks]], [[CocoaBeach]], [[SunnySunBumMascot]], [[VisualBrandSystem]], and [[PlaceBasedBrandPerception]] - Sun Bum branch where story travels through place, mascot, and package.
 - [[JapaneseSeasonalLimitedConsumption]], [[NakagawaMasashichiShoten]], [[Montbell]], and [[PlaceBasedBrandPerception]] - Japan branch where story travels through craft, region, and seasonal availability.
 - [[FactorySecondGenerationPersonalIP]], [[FactorySecondGeneration]], [[Fadior]], [[WoteShoes]], [[Malawangzi]], and [[ManufacturingSalesShift]] - factory-successor personal-brand branch added by EP255.
+- [[FragranceProductStorytelling]], [[ChineseFragrance]], [[Guanxia]], and [[ScentAsBrandMemory]] - fragrance-brand branch added by EP263.
