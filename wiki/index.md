@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP256 AI时代，“自由意志”还存在吗？](sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx.md) — Talk三联 episode with 土摩托 on free will in the AI age, covering determinism, Libet experiments, Sapolsky, biological agency, meaning, embodied intelligence, and future AI free-will risk.
 - [EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？](sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw.md) — Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, Fadior, Wote shoes, Malawangzi, personal IP, business-school training, and succession as continuous entrepreneurship.
 - [EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己](sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d.md) — Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》, menstrual shame, gynecological dignity, saying no, female friendship, body confidence, and mother-daughter self-permission.
 - [EP253 爆火的AI好物，到底是“真香”还是智商税？](sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4.md) — Talk三联 episode on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, vertical sports and cleaning robots, AI appliances, and privacy tradeoffs.
@@ -813,6 +814,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [土摩托 / Tu Motuo](entities/TuMotuo.md) — Talk三联 EP256 guest translating free will across philosophy, neuroscience, biology, and AI risk.
+- [Philip Ball](entities/PhilipBall.md) — Science writer whose How Life Works helps route EP256 from free will toward life, meaning, and biological agency.
+- [How Life Works](entities/HowLifeWorks.md) — Philip Ball book used in EP256 as a bridge from life science to meaning and agency.
+- [Kevin Mitchell](entities/KevinMitchell.md) — Biology and free-will author cited in EP256 for an organism-level account of agency.
+- [Robert Sapolsky / 萨波斯基](entities/RobertSapolsky.md) — No-free-will thinker used in EP256 to connect behavior, crime, biology, and social conditions.
+- [Benjamin Libet / 利比特](entities/BenjaminLibet.md) — Neuroscientist behind the button-press experiment EP256 treats as important but overinterpreted.
+- [Democritus / 德谟克利特](entities/Democritus.md) — Ancient atomist used in EP256 to introduce material determinism as a free-will challenge.
+- [Chrysippus / 克律西波斯](entities/Chrysippus.md) — Ancient causal-chain reference used in EP256 to frame action as traceable to prior causes.
+- [Pierre-Simon Laplace / 拉普拉斯](entities/PierreSimonLaplace.md) — Mathematician invoked through Laplace's demon as a maximum-predictability pressure on free will.
+- [Deep Blue / 深蓝](entities/DeepBlue.md) — Chess AI used in EP256 as a brute-force contrast with AlphaGo and embodied intelligence.
 - [法迪奥 / Fadior](entities/Fadior.md) — Shunde stainless-steel home-furnishing company used in EP255 to show staged factory-second-generation succession through after-sales, marketing, dealers, category education, and sibling division of labor.
 - [沃特鞋企 / Wote Shoes](entities/WoteShoes.md) — Putian shoe company in EP255 illustrating a harder succession path through failed brand scaling, inventory complexity, e-commerce, live-streaming, IP, and overseas sales.
 - [麻辣王子 / Malawangzi](entities/Malawangzi.md) — Consumer food brand referenced in EP255 as a factory-second-generation personal-IP and self-media operation case.
@@ -5499,6 +5510,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Free Will / 自由意志](concepts/FreeWill.md) — Meaningful agency under causal, biological, social, and AI-era constraints.
+- [Causal Determinism / 因果决定论](concepts/CausalDeterminism.md) — Free-will challenge that action may be traceable through prior physical, biological, and social causes.
+- [Laplace's Demon / 拉普拉斯妖](concepts/LaplacesDemon.md) — Predictability thought experiment used in EP256 to pressure naive free-will intuitions.
+- [Libet Experiment Interpretation / 利比特实验解释](concepts/LibetExperimentInterpretation.md) — Caution that neural readiness-potential results should not be overextended from random button pressing to meaningful choice.
+- [Moral Responsibility Under Determinism / 决定论下的道德责任](concepts/MoralResponsibilityUnderDeterminism.md) — Justice and policy frame for taking causal constraints seriously without ignoring harm.
+- [Biological Agency / 生物能动性](concepts/BiologicalAgency.md) — EP256 concept that living systems initiate action toward continuation rather than behaving like passive matter.
+- [Meaning As Evolved Function / 意义作为进化功能](concepts/MeaningAsEvolvedFunction.md) — EP256 claim that meaning can be understood as a life function that guides action and communication.
+- [Embodied Intelligence / 具身智能](concepts/EmbodiedIntelligence.md) — Body, sensing, motion, emotion, and physical feedback as parts of intelligence rather than add-ons.
+- [AI Free-Will Risk / AI自由意志风险](concepts/AIFreeWillRisk.md) — Conditional AI-alignment risk if future systems develop their own goals, meaning, and freedom to act.
 - [Factory Second Generation / 厂二代](concepts/FactorySecondGeneration.md) — EP255 concept for children of Chinese family-business founders who inherit factories, brands, operating systems, and unfinished market transitions rather than only wealth.
 - [Chinese Family Business Succession / 中国家族企业接班](concepts/ChineseFamilyBusinessSuccession.md) — EP255 frame for reform-era private firms entering a concentrated founder-to-child handoff with limited domestic multigenerational precedent.
 - [Second-Generation Business Entry Routes / 二代接班切入路径](concepts/SecondGenerationBusinessEntryRoutes.md) — EP255 framework for successors entering through new business, digital/intelligent transformation, and foreign trade or overseas expansion.

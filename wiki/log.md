@@ -6314,6 +6314,10 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP256 AI时代，“自由意志”还存在吗？
+
+Added source page for a Talk三联 episode with 土摩托 on free will in the AI age, covering ancient and Newtonian determinism, Laplace's demon, Libet experiments, Sapolsky's no-free-will argument, moral responsibility, biological agency, meaning, embodied intelligence, AlphaGo/Deep Blue, and conditional future AI free-will risk. Created pages for 土摩托, Philip Ball, How Life Works, Kevin Mitchell, Robert Sapolsky, Benjamin Libet, Democritus, Chrysippus, Pierre-Simon Laplace, Deep Blue, Free Will, Causal Determinism, Laplace's Demon, Libet Experiment Interpretation, Moral Responsibility Under Determinism, Biological Agency, Meaning As Evolved Function, Embodied Intelligence, and AI Free-Will Risk; updated overview, index, Talk三联, 三联生活周刊, Human Agency Under AI, Wet-State Human Agency, Embodied Personhood, Mind-Body Union, Embodied Judgment, Predestined Choice, Consciousness Measurement, AI Alignment Governance, Robot-Human Boundary, LLM Statistical Boundary, AlphaGo, Isaac Newton, Charles Darwin, Environment Over Willpower, and Embodied AI. No direct contradiction found; the source extends the wiki's AI-agency branch by arguing that meaningful choice is constrained but not made meaningless by causal, social, biological, and embodied conditions, while treating current LLMs as short of the stronger future AI-agency risk case.
+
 ## [2026-08-07] ingest | EP244 记者眼中的“好工作”，什么样？
 
 Added source page for a Talk三联 episode with 魏茜, 李小杰, and 吴淑彬 on changing good-work standards, normal work, work role decentering, journalism's publicness, social-reporting burnout, journalistic authority erosion, media work as lifestyle, AI-era interviewing, and long-horizon work evaluation through 袁长庚. Created pages for 袁长庚, Good Work New Standard, Normal Work Baseline, Work Role Decentering, Journalistic Publicness, Social Reporting Burnout, Journalistic Authority Erosion, Interview As Embodied Reporting, Media Work As Lifestyle, and Long-Horizon Work Evaluation; updated overview, index, Talk三联, 三联生活周刊, 魏茜, 李小杰, 吴淑彬, AI-Written Journalism, AI Journalism Trust, and Public Service Journalism. No direct contradiction found; the source qualifies good-job and AI-journalism discussions by showing that ordinary labor protections are becoming the real baseline while interviewing, field presence, and byline responsibility remain distinct from generated prose.
@@ -6501,6 +6505,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？
 
 Added source page for a Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, family-business handoff, Fadior, Wote shoes, Malawangzi, personal IP, Changjiang Business School training, tacit management knowledge, and succession as continuous entrepreneurship. Created pages for 法迪奥, 沃特鞋企, 麻辣王子, 沈真文, 范鑫宇, 长江商学院, 接力长江, 厂二代GoGoGo, Putian, Foshan, Factory Second Generation, Chinese Family Business Succession, Second-Generation Business Entry Routes, Manufacturing Sales Shift, Tacit Management Knowledge, Succession as Continuous Entrepreneurship, Gendered Family-Business Roles, Factory-Second-Generation Personal IP, and Family-Business Work-Life Boundary; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 李小杰, 魏茜, Shunde, Fujian, Anta Sports, Family Business Scaling, Family Business Succession Opacity, Founder Succession, Process Knowledge, Story Led Consumer Branding, Digital Commerce Literacy, Consumer Brand Moat, Founder Work Boundaries, and Global Product Localization. No direct contradiction found; the source extends the wiki's family-business and manufacturing branches by treating inheritance as an operating, market, and identity transition rather than passive asset transfer.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 
