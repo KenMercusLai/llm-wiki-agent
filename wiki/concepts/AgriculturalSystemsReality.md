@@ -2,8 +2,8 @@
 title: "Agricultural Systems Reality"
 type: concept
 tags: [agriculture, systems, work]
-sources: [62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
-last_updated: 2026-07-15
+sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-08-07
 ---
 
 # Agricultural Systems Reality
@@ -14,6 +14,8 @@ The concept is close to [[DispersedInformationProblem]] in practice. Many farm d
 
 [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds a livestock-industry insider version. [[ZhuGe|猪哥 / 猪场严选]] shows how [[FoodAnimalWelfare]] depends on production batches, worker safety, animal fear responses, slaughter equipment, consumer meat-color beliefs, product labeling, and affordability constraints rather than on abstract kindness alone.
 
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds a beekeeping version. [[MigratoryBeekeeperLivelihood|Migratory beekeeping]] depends on short bloom windows, truck movement, hive behavior, local farmer relations, pesticide timing, weather, honey prices, and the emerging [[PollinationServiceMarket|pollination-service market]], so bees become part of agricultural operations rather than a pastoral symbol.
+
 ## Key Claims
 - Farming is an operating system, not a scenery choice: land, machines, animals, weather, finance, labor, markets, and policy interact.
 - Large farm equipment can be technically sophisticated, expensive, and dangerous rather than merely rustic or macho.
@@ -21,6 +23,7 @@ The concept is close to [[DispersedInformationProblem]] in practice. Many farm d
 - Government forms, land plans, subsidies, and environmental rules are part of production, not external paperwork.
 - Outsider confidence can fail quickly when local conditions and tacit skills matter.
 - Animal welfare standards have to be implemented through equipment, routines, worker incentives, product markets, and consumer education, not only through moral preference.
+- Beekeeping exposes the same systems reality: flowers, crops, chemicals, local trust, roads, weather, insects, and buyers all interact.
 
 ## Connections
 - [[ClarksonsFarm|《克拉克森的农场》 / Clarkson's Farm]] - source case.
@@ -30,3 +33,4 @@ The concept is close to [[DispersedInformationProblem]] in practice. Many farm d
 - [[EnvironmentalTradeoffAccounting]] - environmental-policy branch.
 - [[ExternalityInternalization]] - adjacent economic frame for costs and spillovers.
 - [[DispersedInformationProblem]] - local-knowledge analogy.
+- [[MigratoryBeekeeperLivelihood]], [[PesticidePollinatorRisk]], and [[PollinationServiceMarket]] - beekeeping extension from EP261.

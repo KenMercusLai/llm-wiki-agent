@@ -6541,3 +6541,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint without saving a report file. Deterministic and graph-aware checks completed; semantic lint was unavailable because `LLM_MODEL` is not provider-qualified.
+
+## [2026-08-07] ingest | EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？
+
+Added source page for a Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild and native pollinators, migratory beekeepers in 蒙阴, 西双版纳 local bees, pesticide and drone-spraying risk, low honey prices, pollination services, biodiversity knowledge gaps, and ecological consequences if pollinators decline. Created pages for Wild Pollinator Crisis, Native Bee Ecological Pollination, Pesticide Pollinator Risk, Migratory Beekeeper Livelihood, 西双版纳 / Xishuangbanna, 蒙阴 / Mengyin, and 西双版纳植物园 / Xishuangbanna Botanical Garden; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 苗千, 段农裕, 刘畅, Yunnan, Pollination Service Market, Honey Quality Standards, Bee Colony Collapse, Commodity Price Exposure, Fieldwork As Knowledge Method, Foraging Ethics, Conservation Intervention, Environmental Tradeoff Accounting, Agricultural Systems Reality, and Urban Ecology. No direct contradiction found; the source qualifies the existing bee-economics branch by separating managed-hive markets from wild-pollinator decline and by showing that priced pollination cannot by itself solve pesticide, habitat, climate, and biodiversity-survey gaps.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

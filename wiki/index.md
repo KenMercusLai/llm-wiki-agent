@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？](sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv.md) — Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild pollinators, migratory beekeepers, pesticide risk, Xishuangbanna native bees, pollination services, and ecological consequences if pollinators disappear.
 - [EP260 一口肥美脂肪，藏着中国养殖的新故事](sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j.md) — Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on salmon-trout labeling, Longyangxia rainbow trout, eel seedling volatility, Guangdong/Shunde grilled eel, foie gras welfare tradeoffs, and prepared high-value food formats.
 - [EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？](sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e.md) — Talk三联 episode with 高一丁 and 苗伟 on 徐光启, late-Ming Western learning, Euclidean proof, agricultural relief, calendar legitimacy, Jesuit science transmission, and intellectual life.
 - [EP258 我们如何重拾睡前读书？](sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix.md) — Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading, reading media, AI recommendation, bookstore encounter, attention fragmentation, bodily sleep limits, and reading as a non-KPI daily ritual.
@@ -4349,6 +4350,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [麦考林 / Mecox Lane](entities/MecoxLane.md) — Catalog-retail and fashion ecommerce company marking the mail-order-to-online transition.
 - [聚美优品 / Jumei Youpin](entities/JumeiYoupin.md) — Beauty ecommerce company whose celebrity-founder listing story later met counterfeit trust and diversification pressure.
 - [乐蜂网 / Lefeng](entities/Lefeng.md) — Content and celebrity-led beauty ecommerce platform later acquired by Vipshop.
+- [西双版纳 / Xishuangbanna](entities/Xishuangbanna.md) — Yunnan field setting for native bees, rainforest pollination, wild honey collection, and bee-biodiversity knowledge gaps.
+- [蒙阴 / Mengyin](entities/Mengyin.md) — Shandong mountain field site where migratory beekeepers follow locust blossoms while facing weather, market, and pesticide risk.
+- [西双版纳植物园 / Xishuangbanna Botanical Garden](entities/XishuangbannaBotanicalGarden.md) — Local research setting for beginning systematic bee investigation in a high-biodiversity area.
 - [蘑菇街 / Mogujie](entities/Mogujie.md) — Women's fashion discovery and social-commerce platform exposed to Taobao link-rule dependency.
 - [美丽说 / Meilishuo](entities/Meilishuo.md) — Fashion guide-community peer to Mogujie and later merger counterpart.
 - [寺库 / Secoo](entities/Secoo.md) — Luxury ecommerce case illustrating authentication, supply, discount, and low-frequency purchase constraints.
@@ -8663,6 +8667,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Assisted Dying Safeguards](concepts/AssistedDyingSafeguards.md) — Eligibility and procedure controls such as prognosis, physician review, mental competence, witnessed request, and self-administration.
 - [Skijoring](concepts/Skijoring.md) — Winter sport where a horse pulls a skier through a snowy course with gates, rings, and jumps.
 - [Externality Internalization](concepts/ExternalityInternalization.md) — Process of turning spillover costs or benefits into contracts, prices, norms, subsidies, or operating risks.
+- [Wild Pollinator Crisis / 野生传粉昆虫危机](concepts/WildPollinatorCrisis.md) — Ecological risk where wild bees and other pollinators decline despite visible managed honeybee activity.
+- [Native Bee Ecological Pollination / 本土蜂生态授粉](concepts/NativeBeeEcologicalPollination.md) — Local-bee frame that values pollination of surrounding plants and crops beyond commercial honey output.
+- [Pesticide Pollinator Risk / 农药传粉昆虫风险](concepts/PesticidePollinatorRisk.md) — Agricultural chemical and drone-spraying risk that links pest control, colony loss, field experiments, and crop pollination.
+- [Migratory Beekeeper Livelihood / 转场蜂农生计](concepts/MigratoryBeekeeperLivelihood.md) — Flower-following beekeeping livelihood shaped by bloom windows, transfer logistics, local relationships, prices, weather, and pesticide exposure.
 - [Pollination Service Market](concepts/PollinationServiceMarket.md) — Agricultural-service market where beekeepers are paid to move hives into farms and orchards for crop pollination.
 - [Honey Quality Standards](concepts/HoneyQualityStandards.md) — Food-standard and trust problem around mature honey, concentrated honey, fake honey, and beekeeper income.
 - [Bee Colony Collapse](concepts/BeeColonyCollapse.md) — Beekeeping risk where worker bees disappear or colonies fail, turning ecology into supply-chain and replacement-cost pressure.

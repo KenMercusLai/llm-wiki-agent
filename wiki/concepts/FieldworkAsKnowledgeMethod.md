@@ -2,11 +2,13 @@
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
 tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
-sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-07
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds an ecology-and-agriculture version through [[DuanNongyu|段农裕]] in [[Mengyin|蒙阴]] and [[LiuChang|刘畅]] in [[Xishuangbanna|西双版纳]]. The source shows that bee crisis becomes clearer when reporting follows hive sounds, transfer timing, flower windows, pesticide rumors, wild-honey harvesting, cash-crop orchards, and species-survey gaps rather than only citing global insect-decline claims.
 
 [[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a ritual-reporting version through [[ZhangCongzhi|张从志]] and [[CaiXiaochuan|蔡小川]]'s multi-year attention to [[YongningAncientCity|永宁古城]]. The source argues that deity processions cannot be understood from spectacle alone; fieldwork has to follow organizers, temples, ancestral halls, money, waiting, sounds, blood, local names, gendered roles, and youth succession.
 
@@ -30,9 +32,11 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - Anthropology fieldwork adds that the observer's own dependence, body, and local classification are part of what must be observed.
 - Science reporting fieldwork can make instruments and environments legible by showing how bodies, logistics, and engineering constraints shape what counts as evidence.
 - Ritual reporting adds that spectacular events need slow contextualization: who organizes, pays, carries, mediates, watches, inherits, and is excluded is part of the evidence.
+- Ecology and agriculture reporting add that pollinator decline must be observed through farms, hives, species surveys, weather, chemicals, and harvest practices as well as through global statistics.
 
 ## Connections
 - [[YongningAncientCity|永宁古城]], [[ZhangCongzhi|张从志]], [[CaiXiaochuan|蔡小川]], [[MinnanRitualNetwork]], and [[JitongSpiritMedium]] - EP249 ritual-reporting extension.
+- [[DuanNongyu]], [[LiuChang]], [[Mengyin]], [[Xishuangbanna]], [[WildPollinatorCrisis]], and [[MigratoryBeekeeperLivelihood]] - EP261 bee-crisis fieldwork extension.
 - [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[FAST]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - EP248 science-reporting extension.
 - [[QinSi]], [[ChengJing]], [[FemaleJournalistFieldwork]], [[RemoteReportingPresence]], and [[ReporterSourceTrustNetwork]] - journalism extension added by the year-end special.
 - [[DingWenjiang|丁文江]], [[XuXiake|徐霞客]], and [[GeologicalResearchInstitute|地质研究所/地质调查所]] - geology branch.
