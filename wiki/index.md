@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP257 不上班：一场逃离与寻找的复杂冒险](sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng.md) — Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition involving burnout, free time, freelance risk, parent pressure, resume-gap stigma, and work self-worth boundaries.
 - [EP256 AI时代，“自由意志”还存在吗？](sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx.md) — Talk三联 episode with 土摩托 on free will in the AI age, covering determinism, Libet experiments, Sapolsky, biological agency, meaning, embodied intelligence, and future AI free-will risk.
 - [EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？](sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw.md) — Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, Fadior, Wote shoes, Malawangzi, personal IP, business-school training, and succession as continuous entrepreneurship.
 - [EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己](sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d.md) — Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》, menstrual shame, gynecological dignity, saying no, female friendship, body confidence, and mother-daughter self-permission.
@@ -814,6 +815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mia / 自由职业营销从业者](entities/MiaFreelancer.md) — EP257 freelancer whose post-employment path grounds self-directed work, freelance market exposure, and work self-worth boundaries.
 - [土摩托 / Tu Motuo](entities/TuMotuo.md) — Talk三联 EP256 guest translating free will across philosophy, neuroscience, biology, and AI risk.
 - [Philip Ball](entities/PhilipBall.md) — Science writer whose How Life Works helps route EP256 from free will toward life, meaning, and biological agency.
 - [How Life Works](entities/HowLifeWorks.md) — Philip Ball book used in EP256 as a bridge from life science to meaning and agency.
@@ -5510,6 +5512,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Not Working Ambivalence / 不上班的复杂性](concepts/NotWorkingAmbivalence.md) — EP257 frame for not working as relief, drift, recovery, freelance work, failed re-entry, and family negotiation rather than simple freedom.
+- [Freelance Market Exposure / 自由职业市场暴露](concepts/FreelanceMarketExposure.md) — Risk shift where leaving an organization increases control while exposing the individual to clients, cash flow, payment, reputation, and self-management burdens.
+- [Resume Gap Stigma / 简历空白污名](concepts/ResumeGapStigma.md) — Hiring suspicion attached to visible time away from employment, including health treatment, burnout recovery, exploration, and failed re-entry.
+- [Work Self-Worth Boundary / 工作与自我价值边界](concepts/WorkSelfWorthBoundary.md) — Practice of separating work outcomes, boss/customer judgment, and project failure from personal worth.
 - [Free Will / 自由意志](concepts/FreeWill.md) — Meaningful agency under causal, biological, social, and AI-era constraints.
 - [Causal Determinism / 因果决定论](concepts/CausalDeterminism.md) — Free-will challenge that action may be traceable through prior physical, biological, and social causes.
 - [Laplace's Demon / 拉普拉斯妖](concepts/LaplacesDemon.md) — Predictability thought experiment used in EP256 to pressure naive free-will intuitions.

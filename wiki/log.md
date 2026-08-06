@@ -6312,7 +6312,7 @@ Added source page for a 起朱楼宴宾客 algorithm-series crossover with 独�
 
 ## [2026-08-07] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health before lint; health scanned 9,200 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,200 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while the current wiki scan has 9,200 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. No `wiki/lint-report.md` file was saved.
 
 ## [2026-08-07] ingest | EP256 AI时代，“自由意志”还存在吗？
 
@@ -6509,6 +6509,14 @@ Added source page for a Talk三联 episode with 高一丁, 李小杰, and 魏茜
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP257 不上班：一场逃离与寻找的复杂冒险
+
+Added source page for a Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition. Created pages for Mia / 自由职业营销从业者, Not Working Ambivalence, Freelance Market Exposure, Resume Gap Stigma, and Work Self-Worth Boundary; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 吴淑彬, 阮佳宁, Good Work New Standard, Work Role Decentering, Self-Directed Work, Career Self-Rescue, Unemployment Stigma, Long-Term Unemployment Penalty, and Workplace Pacing. No direct contradiction found; the source extends the existing good-work and unemployment-stigma branches by showing that leaving a job can be necessary without being a complete solution to income, time structure, family legitimacy, gap narratives, freelance market risk, or internalized work judgment.
 
 ## [2026-08-07] lint | Wiki health check
 
