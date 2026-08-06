@@ -2,11 +2,13 @@
 title: "AI Default Learning Environment"
 type: concept
 tags: [ai, education, learning, work]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]
 last_updated: 2026-07-23
 ---
 
 # AI Default Learning Environment
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds the K12 science-education side of the AI default environment. The episode argues that AI makes [[ScienceEducationAsCivicLiteracy|scientific literacy]] more important because students and adults must search for evidence, judge claims, and avoid letting fluent answers replace inquiry; it also warns that youth AI projects can become adult success theater if [[ProjectBasedScienceLearning|project learning]] loses its educational goal.
 
 AI default learning environment is the shift in [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] from "students sometimes use AI" to "students assume AI is part of the environment." [[AlfredLinTongyu|Alfred 林童雨]], [[KelentoHouTaiyu|Kelento 侯泰宇]], and [[JackRaoJiewu|Jack 饶街五]] describe AI as tutor, coder, research assistant, assignment collaborator, calendar/email helper, and thinking partner rather than a separate cheating device.
 
@@ -26,3 +28,4 @@ The source's closing anecdote makes the concept generational: a younger high-sch
 - [[CollegeCareerPreparation]] - career preparation when AI tool use is expected but hard to evaluate.
 - [[HumanJudgmentUnderAI]] and [[AICodingVerification]] - capacities needed to own AI-assisted work.
 - [[AIUsePacing]] - dependency, addiction, memory, and productivity-overhead boundary.
+- [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[AIHackathons]] - K12 science-education and youth-project extension.

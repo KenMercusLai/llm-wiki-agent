@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP262 高考过后，知识“归零”：我们需要怎样的科学教育？](sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r.md) — Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy for everyday judgment, big-concept teaching, project-based science learning, HPS, exam pressure, AI projects, and regional reform gaps.
 - [EP261 “蜜蜂危机”：如果失去蜜蜂，世界将会怎样？](sources/ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv.md) — Talk三联 episode with 高一丁, 苗千, 段农裕, and 刘畅 on managed honeybees, wild pollinators, migratory beekeepers, pesticide risk, Xishuangbanna native bees, pollination services, and ecological consequences if pollinators disappear.
 - [EP260 一口肥美脂肪，藏着中国养殖的新故事](sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j.md) — Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on salmon-trout labeling, Longyangxia rainbow trout, eel seedling volatility, Guangdong/Shunde grilled eel, foie gras welfare tradeoffs, and prepared high-value food formats.
 - [EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？](sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e.md) — Talk三联 episode with 高一丁 and 苗伟 on 徐光启, late-Ming Western learning, Euclidean proof, agricultural relief, calendar legitimacy, Jesuit science transmission, and intellectual life.
@@ -5540,6 +5541,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Science Education As Civic Literacy / 作为公民素养的科学教育](concepts/ScienceEducationAsCivicLiteracy.md) — EP262 frame for science education as ordinary judgment in health, AI information, parenting, environment, evidence, and everyday decision modeling.
+- [Big-Concept Science Teaching / 大概念科学教学](concepts/BigConceptScienceTeaching.md) — EP262 curriculum approach that connects facts such as teeth, magnets, force, digestion, and electromagnetism to larger scientific systems.
+- [Project-Based Science Learning / 项目式科学学习](concepts/ProjectBasedScienceLearning.md) — EP262 inquiry mode where projects such as cotton-candy machines, local stones, campus ecology, and shared equipment become science learning only when tied to evidence and concepts.
+- [Exam-Driven Science Education / 应试化科学教育](concepts/ExamDrivenScienceEducation.md) — EP262 failure mode where higher-status science classes become worksheets, memorization, and test pressure instead of inquiry and scientific literacy.
+- [HPS Science Education / 科学史哲社会科学教育](concepts/HPSScienceEducation.md) — EP262 approach that teaches science through history, philosophy, society, paradigm change, and the making of concepts rather than settled answer banks.
 - [Chinese New Specialty Aquaculture / 中国新特产养殖](concepts/ChineseNewSpecialtyAquaculture.md) — EP260 frame for high-value farmed foods becoming Chinese specialties through water, seedlings, feed, processing, restaurant trust, ecommerce, and local eating habits.
 - [Salmon-Trout Label Transparency / 鲑鳟商品名透明](concepts/SalmonTroutLabelTransparency.md) — Consumer-trust concept from EP260 arguing that "三文鱼" disputes should be resolved through clear species, origin, and production disclosure.
 - [Eel Seed Price Volatility / 鳗苗价格波动](concepts/EelSeedPriceVolatility.md) — EP260 risk mechanism where wild-caught eel seedlings, informal forward-like deals, and extreme price swings shape aquaculture decisions.

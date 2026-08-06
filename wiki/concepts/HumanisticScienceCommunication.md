@@ -2,11 +2,13 @@
 title: "Humanistic Science Communication"
 type: concept
 tags: [science, communication, humanities, public-science, big-science, engineering]
-sources: [ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, 85-chedundun-yeshiji-zou-a-bandao-xiangxia-zuan-xiaoshuliner-qu-700935571, 163-jiao-yi-zhi-sheli-wangji-dongwuyuan-xiye-de-gushi-bi-fengkuang-dongwucheng-2-geng-jingcai-939887179, sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074]
 last_updated: 2026-08-07
 ---
 
 # Humanistic Science Communication
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds a classroom-science version through [[HPSScienceEducation|HPS science education]]. The episode argues that scientific ideas become more teachable when students meet them through history, philosophy, society, real objects, and everyday problems rather than only through textbook conclusions.
 
 [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]] adds a history-of-science version through [[MiaoWeiSanlian|苗伟]]'s discussion of [[XuGuangqi|徐光启]]. The episode explains mathematics, agriculture, astronomy, missionary networks, and tomb visits as lived intellectual questions, making [[EuclideanProofTraining|proof]], [[AgriculturalReliefStatecraft|famine relief]], and [[CalendarReformLegitimacy|calendar legitimacy]] graspable without stripping away their political and cultural tension.
 
@@ -30,9 +32,11 @@ The concept is not anti-skeptical. The source's Sagan refuses superstition, UFO 
 - Everyday nature communication can be effective when it gives children and neighbors names, scenes, and memories for organisms already living nearby.
 - Big-science communication can use [[ScienceEngineeringAesthetics|engineering aesthetics]] and field detail to justify curiosity without replacing evidence with spectacle.
 - Science-history communication can make old technical material legible when it connects reasoning systems, material needs, institutions, and present-day analogies without reducing them to patriotic or anti-patriotic slogans.
+- Science education can use the same humanistic route when HPS, local objects, and life problems help students understand science as a method rather than an answer list.
 
 ## Connections
 - [[MiaoWeiSanlian]], [[XuGuangqi]], [[LateMingWesternLearning]], [[EuclideanProofTraining]], [[AgriculturalReliefStatecraft]], and [[ScienceValueTransmission]] - history-of-science extension added by EP259.
+- [[HPSScienceEducation]], [[ScienceEducationAsCivicLiteracy]], and [[BigConceptScienceTeaching]] - classroom-science extension added by EP262.
 - [[MiaoQian]], [[BigScienceInfrastructure]], [[WeakSignalDetection]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - big-science reporting extension added by EP248.
 - [[CarlSagan|Carl Sagan]], [[CosmosBook|《宇宙》 / Cosmos]], and [[ContactNovel|《接触》 / Contact]] - central source cases.
 - [[ScientificSkepticism]] and [[ScienceOptimismAndPseudoscience]] - method and media-ecology boundaries.

@@ -2,11 +2,13 @@
 title: "Science Value Transmission / 科学价值观传入"
 type: concept
 tags: [science, values, modernity, education, institutions]
-sources: [ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]
 last_updated: 2026-08-07
 ---
 
 # Science Value Transmission / 科学价值观传入
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds the school-education version. In this source, scientific values are taught through [[ScienceEducationAsCivicLiteracy|public literacy]], [[ProjectBasedScienceLearning|project inquiry]], [[BigConceptScienceTeaching|big concepts]], and [[HPSScienceEducation|history/philosophy/society]] rather than only through late-Ming intellectual exchange.
 
 Science value transmission is the late-stage argument in [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]] that knowledge is never simply bare technique. [[MiaoWeiSanlian|苗伟]] cites a book rendered in the source as 《自由的科学》 to argue that science tends to carry values such as anti-authoritarianism, communication freedom, association freedom, experiment, dignity, and self-respect.
 
@@ -25,4 +27,5 @@ The concept is not naive universalism. The episode repeatedly shows that science
 - [[XuGuangqi]], [[MatteoRicci]], [[JohannAdamSchallVonBell]], and [[YangGuangxian]] - source cases.
 - [[LateMingWesternLearning]], [[EuclideanProofTraining]], and [[CalendarReformLegitimacy]] - technical channels through which values are tested.
 - [[AntiAuthoritarianEducation]], [[HumanisticScienceCommunication]], and [[ScientificSkepticism]] - adjacent values and public-science frames.
+- [[ScienceEducationAsCivicLiteracy]], [[HPSScienceEducation]], and [[ExamDrivenScienceEducation]] - EP262's school-science values branch.
 - [[ScienceReligionCivilizationTension]] and [[KnowledgeMonopoly]] - conflict and authority frames.

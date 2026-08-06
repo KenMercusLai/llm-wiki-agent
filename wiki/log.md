@@ -6549,3 +6549,11 @@ Added source page for a Talk三联 episode with 高一丁, 苗千, 段农裕, an
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP262 高考过后，知识“归零”：我们需要怎样的科学教育？
+
+Added source page for a Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy, big-concept teaching, project-based science learning, HPS, exam-driven reform limits, AI youth projects, and regional implementation gaps. Created pages for Science Education As Civic Literacy, Big-Concept Science Teaching, Project-Based Science Learning, Exam-Driven Science Education, and HPS Science Education; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 魏茜, 王依然, Learning How To Learn, Infectious Disease Public Literacy, AI Default Learning Environment, AI Hackathons, Educational Tracking By Testing, Project-Based Vocational Learning, Humanistic Science Communication, and Science Value Transmission. No direct contradiction found; the source qualifies science-education reform and AI-project optimism by showing that higher status, projects, and tools only matter when tied to evidence, concepts, teachers, assessment, and ordinary judgment.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

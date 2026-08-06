@@ -1,12 +1,14 @@
 ---
 title: "魏茜 / Wei Qian (Sanlian)"
 type: entity
-tags: [person, journalist, media, culture, mental-health, work, reading]
-sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
+tags: [person, journalist, media, culture, mental-health, work, reading, science-education]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
 last_updated: 2026-08-07
 ---
 
 # 魏茜 / Wei Qian (Sanlian)
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds Wei Qian's science-education reporting and synthesis branch. She distinguishes ordinary scientific literacy from traditional science-subject training, uses [[BigConceptScienceTeaching|大概念]] and [[HPSScienceEducation|HPS]] to connect facts with concepts and history, and ends with a life-modeling view of [[ScienceEducationAsCivicLiteracy|science education as civic literacy]].
 
 [[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds Wei Qian's host role in a reading, sleep, and attention conversation. She frames "睡前读书" through quiet time, reading memory, physical space, the shift from rational brain to bodily sensing, and the need to bring reading back into ordinary nights rather than treating it as a solemn cultural task.
 
@@ -22,6 +24,7 @@ Her contribution is strongest on the consumer and wellness side of the episode. 
 
 ## Connections
 - [[SanlianLifeWeekly|三联生活周刊]] and [[TalkSanlian|Talk三联]] - media and show context.
+- [[GaoYiding]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[BigConceptScienceTeaching]], and [[HPSScienceEducation]] - EP262 science-education branch.
 - [[LengJianguo|冷建国]], [[ZhangZhiqi|张芝琪]], [[RandomFluctuations|随机波动]], [[BedtimeReadingRitual]], [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[SleepAsResistance]] - EP258 reading, sleep, body, and attention branch.
 - [[WoteShoes]], [[Putian]], [[Fujian]], [[ManufacturingSalesShift]], [[FactorySecondGeneration]], [[SuccessionAsContinuousEntrepreneurship]], and [[GlobalProductLocalization]] - EP255 shoe-manufacturing and succession branch.
 - [[ZengXin|曾欣]], [[RuralWomenLivestreaming]], [[FamilyBasedEmotionalMotivation]], and [[CompressedModernityGenderTransition]] - EP247's rural women and midlife-transition branch.

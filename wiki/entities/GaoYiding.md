@@ -1,12 +1,14 @@
 ---
 title: "高一丁 / Gao Yiding"
 type: entity
-tags: [person, host, podcast, technology, games, science, physics]
-sources: [ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+tags: [person, host, podcast, technology, games, science, physics, education]
+sources: [ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # 高一丁 / Gao Yiding
+
+[[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds Gao's host role in a [[TalkSanlian|Talk三联]] science-education episode. He frames the gaokao-season question as a test of whether school science becomes [[ScienceEducationAsCivicLiteracy|usable public literacy]] or disappears after exams, and he presses the tension between engaging project classes and unavoidable assessment pressure.
 
 [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds Gao's host role in a [[TalkSanlian|Talk三联]] bee-crisis episode. He frames the discussion around why familiar honeybees can open onto a wider [[WildPollinatorCrisis|wild-pollinator crisis]], then keeps the conversation connected to honey, food prices, beekeeper work, and everyday responses such as pesticide limits and urban flowering spaces.
 
@@ -29,6 +31,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds Gao's summer-reading host role. He frames the discussion around why heroic epics remain active in present-day media, from [[TheOdyssey|《奥德赛》]] and "奥德赛时间" to the [[MarvelCinematicUniverse|漫威宇宙]], games, fantasy, and the reading difficulty of ancient oral texts.
 
 ## Connections
+- [[WeiQianSanlian]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[ExamDrivenScienceEducation]] — EP262 science-education branch.
 - [[MiaoQian]], [[DuanNongyu]], [[LiuChang]], [[WildPollinatorCrisis]], [[MigratoryBeekeeperLivelihood]], and [[PollinationServiceMarket]] — EP261 bee-crisis branch.
 - [[QiuLian]], [[Heimai]], [[BoJing]], [[RainbowTrout]], [[Eel]], [[FoieGras]], [[ChineseNewSpecialtyAquaculture]], and [[PreparedHighValueFoodFormats]] — EP260 food-supply-chain discussion.
 - [[TalkSanlian]] — show context.
