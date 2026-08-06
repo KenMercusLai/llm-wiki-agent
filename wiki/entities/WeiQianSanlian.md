@@ -1,12 +1,14 @@
 ---
 title: "魏茜 / Wei Qian (Sanlian)"
 type: entity
-tags: [person, journalist, media, culture, mental-health, work]
-sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
+tags: [person, journalist, media, culture, mental-health, work, reading]
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj, ep244-jizhe-yanzhong-de-hao-gongzuo-shenme-yang-lk8iz9cllzx2jou5-sw9yt2ogpyb, ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]
 last_updated: 2026-08-07
 ---
 
 # 魏茜 / Wei Qian (Sanlian)
+
+[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds Wei Qian's host role in a reading, sleep, and attention conversation. She frames "睡前读书" through quiet time, reading memory, physical space, the shift from rational brain to bodily sensing, and the need to bring reading back into ordinary nights rather than treating it as a solemn cultural task.
 
 [[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds Wei Qian's manufacturing and family-business reporting branch. Her [[WoteShoes|沃特鞋企]] case in [[Putian|莆田]] tracks a son returning to a troubled shoe company, learning production from the factory floor, and then testing design, IP, live-streaming, foreign trade, and [[Amazon]] sales under [[ManufacturingSalesShift|manufacturing's sales shift]].
 
@@ -20,6 +22,7 @@ Her contribution is strongest on the consumer and wellness side of the episode. 
 
 ## Connections
 - [[SanlianLifeWeekly|三联生活周刊]] and [[TalkSanlian|Talk三联]] - media and show context.
+- [[LengJianguo|冷建国]], [[ZhangZhiqi|张芝琪]], [[RandomFluctuations|随机波动]], [[BedtimeReadingRitual]], [[ReadingMediumPluralism]], [[AttentionFragmentation]], and [[SleepAsResistance]] - EP258 reading, sleep, body, and attention branch.
 - [[WoteShoes]], [[Putian]], [[Fujian]], [[ManufacturingSalesShift]], [[FactorySecondGeneration]], [[SuccessionAsContinuousEntrepreneurship]], and [[GlobalProductLocalization]] - EP255 shoe-manufacturing and succession branch.
 - [[ZengXin|曾欣]], [[RuralWomenLivestreaming]], [[FamilyBasedEmotionalMotivation]], and [[CompressedModernityGenderTransition]] - EP247's rural women and midlife-transition branch.
 - [[EmotionEconomy]], [[TactileComfortConsumption]], and [[ImmediateReliefWellnessConsumption]] - main reporting and reflection themes.

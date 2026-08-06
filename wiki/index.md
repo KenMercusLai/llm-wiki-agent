@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP258 我们如何重拾睡前读书？](sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix.md) — Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading, reading media, AI recommendation, bookstore encounter, attention fragmentation, bodily sleep limits, and reading as a non-KPI daily ritual.
 - [EP257 不上班：一场逃离与寻找的复杂冒险](sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng.md) — Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition involving burnout, free time, freelance risk, parent pressure, resume-gap stigma, and work self-worth boundaries.
 - [EP256 AI时代，“自由意志”还存在吗？](sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx.md) — Talk三联 episode with 土摩托 on free will in the AI age, covering determinism, Libet experiments, Sapolsky, biological agency, meaning, embodied intelligence, and future AI free-will risk.
 - [EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？](sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw.md) — Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, Fadior, Wote shoes, Malawangzi, personal IP, business-school training, and succession as continuous entrepreneurship.
@@ -815,6 +816,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [随机波动 / Random Fluctuations](entities/RandomFluctuations.md) — Podcast context for 冷建国 and 张芝琪 in EP258, grounding a non-moralized reading-life conversation.
+- [冷建国 / Leng Jianguo](entities/LengJianguo.md) — Random Fluctuations speaker in EP258 linking bedtime reading to unfinished books, private taste, long attention, and resisting every media wave.
+- [张芝琪 / Zhang Zhiqi](entities/ZhangZhiqi.md) — Random Fluctuations speaker in EP258 grounding reading in body, dry-eye constraints, medium pluralism, bookstores, AI recommendation, and attention practice.
 - [Mia / 自由职业营销从业者](entities/MiaFreelancer.md) — EP257 freelancer whose post-employment path grounds self-directed work, freelance market exposure, and work self-worth boundaries.
 - [土摩托 / Tu Motuo](entities/TuMotuo.md) — Talk三联 EP256 guest translating free will across philosophy, neuroscience, biology, and AI risk.
 - [Philip Ball](entities/PhilipBall.md) — Science writer whose How Life Works helps route EP256 from free will toward life, meaning, and biological agency.
@@ -5512,6 +5516,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bedtime Reading Ritual / 睡前阅读仪式](concepts/BedtimeReadingRitual.md) — EP258 frame for reading as a transition from daytime alertness into sleep and dream rather than a cultural KPI.
+- [Reading Medium Pluralism / 阅读媒介多元主义](concepts/ReadingMediumPluralism.md) — EP258 anti-purist reading frame covering paper books, phone reading, text-based video, and AI recommendation as possible reading routes.
+- [Attention Fragmentation / 注意力碎片化](concepts/AttentionFragmentation.md) — EP258 diagnosis that modern reading trouble comes from broken attention more than lack of clock time.
+- [Sleep As Resistance / 睡眠作为抵抗](concepts/SleepAsResistance.md) — EP258 frame for sleep as a bodily limit and private time that resists continuous productivity, platform capture, and high-tech stimulation.
 - [Not Working Ambivalence / 不上班的复杂性](concepts/NotWorkingAmbivalence.md) — EP257 frame for not working as relief, drift, recovery, freelance work, failed re-entry, and family negotiation rather than simple freedom.
 - [Freelance Market Exposure / 自由职业市场暴露](concepts/FreelanceMarketExposure.md) — Risk shift where leaving an organization increases control while exposing the individual to clients, cash flow, payment, reputation, and self-management burdens.
 - [Resume Gap Stigma / 简历空白污名](concepts/ResumeGapStigma.md) — Hiring suspicion attached to visible time away from employment, including health treatment, burnout recovery, exploration, and failed re-entry.

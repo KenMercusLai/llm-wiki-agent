@@ -2,8 +2,8 @@
 title: "Screen Time Friction"
 type: concept
 tags: [attention, design, digital-wellbeing, behavior]
-sources: [154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix, 154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128]
+last_updated: 2026-08-07
 ---
 
 # Screen Time Friction
@@ -14,6 +14,8 @@ The design pattern reverses the usual product goal of making use effortless. A b
 
 [[154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x]] adds a self-measurement trigger. [[DavidWeng|大卫翁]] checks phone use and finds heavy daily screen time plus frequent pickups, treating those numbers as evidence that autonomy is leaking through small automatic openings rather than through one dramatic addiction story.
 
+[[ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix]] adds a bedtime-reading contrast. The episode's opening asks listeners to put phones down for ninety seconds, and its larger argument implies that a bedside book or body practice can create friction against default pre-sleep phone use.
+
 ## Key Claims
 - Friction can be cognitive, behavioral, social, or physical.
 - The point is not to remove the phone entirely; it is to make automatic opening less automatic.
@@ -22,6 +24,7 @@ The design pattern reverses the usual product goal of making use effortless. A b
 - [[BenGoldhersh]]'s Staff of Destiny and [[MatterNeuroscience]]'s proposed heavy case make inconvenience the product.
 - Friction can help, but the source leaves open whether these tools produce durable behavior change over time.
 - Episode 154 adds that usage dashboards and pickup counts can make invisible impulse loops visible enough to become a self-governance question.
+- EP258 adds that a reading or sleep ritual can be a low-tech friction pattern before bed, especially when phones pull attention into feeds.
 
 ## Connections
 - [[DigitalDetoxEconomy]] - market where friction is sold as a consumer feature.
@@ -29,3 +32,4 @@ The design pattern reverses the usual product goal of making use effortless. A b
 - [[AddictiveInteractionDesign]] - inverse design pattern: restore interruption where engagement systems removed it.
 - [[AttentionIndustrialization]] and [[AIUsePacing]] - broader attention and pacing concepts.
 - [[AutonomyUnderInformationFlow]] - episode 154's broader frame for phone, feed, and AI-answer autonomy.
+- [[BedtimeReadingRitual]], [[AttentionFragmentation]], and [[SleepAsResistance]] - EP258's bedtime attention boundary.

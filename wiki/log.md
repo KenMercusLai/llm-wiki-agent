@@ -6521,3 +6521,11 @@ Added source page for a Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP258 我们如何重拾睡前读书？
+
+Added source page for a Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading as a bodily and attentional practice rather than a self-discipline KPI. Created pages for 随机波动 / Random Fluctuations, 冷建国 / Leng Jianguo, 张芝琪 / Zhang Zhiqi, Bedtime Reading Ritual, Reading Medium Pluralism, Attention Fragmentation, and Sleep As Resistance; updated overview, index, Talk三联, 三联生活周刊, 魏茜, Reading As Life Experience, Non-Instrumental Literary Reading, Reading As Cognitive Restoration, Bookstore Serendipity, AI-Assisted Reading, Attention Industrialization, AI Use Pacing, Screen Time Friction, Artisanal Attention, and Sleep As Daily Health Account. No direct contradiction found; the source qualifies paper-book purism and AI-summary optimism by arguing that reading survives through body, timing, medium choice, bookstore encounter, long-form complexity, and protected sleep.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
