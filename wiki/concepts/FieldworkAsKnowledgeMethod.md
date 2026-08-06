@@ -1,12 +1,14 @@
 ---
 title: "Fieldwork As Knowledge Method / 田野作为知识方法"
 type: concept
-tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting]
-sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
+tags: [method, fieldwork, evidence, scholarship, journalism, science-reporting, ritual]
+sources: [ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, xianchang-xianchang-2025-nianzhong-teji-sanlian-nvjizhe-jiemi-xinwen-beihou-de-ku-yu-guang-loz-sggelhx166n2me8v6d8k9a3c, 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-08-07
 ---
 
 # Fieldwork As Knowledge Method / 田野作为知识方法
+
+[[ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww]] adds a ritual-reporting version through [[ZhangCongzhi|张从志]] and [[CaiXiaochuan|蔡小川]]'s multi-year attention to [[YongningAncientCity|永宁古城]]. The source argues that deity processions cannot be understood from spectacle alone; fieldwork has to follow organizers, temples, ancestral halls, money, waiting, sounds, blood, local names, gendered roles, and youth succession.
 
 [[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]] adds a science-journalism extension through [[MiaoQian|苗千]]'s 14-day route across high plateau, underground laboratory, cleanroom, radio-telescope tourism, and conference interviews. Her reporting shows that [[BigScienceInfrastructure|大科学基础设施]] cannot be understood only from project descriptions; altitude sickness, oxygen support, underground water, detector cooling, visitor restrictions, and the scale of apparatuses all become evidence about how science is actually organized.
 
@@ -27,8 +29,10 @@ The concept gathers several branches. [[DingWenjiang|丁文江]] walks geologica
 - [[ObservationBeforeInference]] is the reasoning discipline that keeps field evidence from becoming anecdote.
 - Anthropology fieldwork adds that the observer's own dependence, body, and local classification are part of what must be observed.
 - Science reporting fieldwork can make instruments and environments legible by showing how bodies, logistics, and engineering constraints shape what counts as evidence.
+- Ritual reporting adds that spectacular events need slow contextualization: who organizes, pays, carries, mediates, watches, inherits, and is excluded is part of the evidence.
 
 ## Connections
+- [[YongningAncientCity|永宁古城]], [[ZhangCongzhi|张从志]], [[CaiXiaochuan|蔡小川]], [[MinnanRitualNetwork]], and [[JitongSpiritMedium]] - EP249 ritual-reporting extension.
 - [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[FAST]], [[ExtremeEnvironmentPhysics]], and [[ScienceEngineeringAesthetics]] - EP248 science-reporting extension.
 - [[QinSi]], [[ChengJing]], [[FemaleJournalistFieldwork]], [[RemoteReportingPresence]], and [[ReporterSourceTrustNetwork]] - journalism extension added by the year-end special.
 - [[DingWenjiang|丁文江]], [[XuXiake|徐霞客]], and [[GeologicalResearchInstitute|地质研究所/地质调查所]] - geology branch.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP249 闽南古城游神记：传统仪式背后的乡土网络](sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww.md) — Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城 ritual networks, deity processions, ancestor worship, 鸡童/乩童, lineage politics, ritual tourism, gendered participation, and succession pressure.
 - [EP248 在高原与地下，探寻中国“大科学项目”](sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo.md) — Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali CMB/primordial gravitational waves, Jiangmen neutrinos, Dongguan spallation neutrons, FAST, weak-signal detection, extreme environments, international collaboration, and technology spillovers.
 - [EP247 重启人生：当农村中年女性开始“做主播”](sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj.md) — Talk三联 episode with 魏茜 and 曾欣 on rural middle-aged women becoming livestreamers, covering visibility, family resistance, persona labor, platform feedback, compressed modernity, and county platform work.
 - [EP246 让女生安心的约会小酒馆，什么样？](sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm.md) — Talk三联 love-issue episode with 张星云 and Moku on spatial love studies, female-friendly bistros, coffee-shop first-date affordances, familiar-space dating, and how small venues make women feel safer.
@@ -806,6 +807,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蔡小川 / Cai Xiaochuan](entities/CaiXiaochuan.md) — Sanlian photographer and Talk三联 guest in EP249 whose field observations ground Yongning ritual scenes, sensory immersion, gendered ritual participation, and lineage belonging.
+- [永宁古城 / Yongning Ancient City](entities/YongningAncientCity.md) — Minnan ancient-city case in EP249, used to connect Ming guard-settlement history, multi-surname lineage density, temples, ancestral halls, 城隍 worship, and ritual succession.
 - [苗千 / Miao Qian](entities/MiaoQian.md) — Sanlian reporter and Talk三联 guest translating Chinese big-science facilities into field-reporting scenes across Ali, Jiangmen, Dongguan, Guizhou, and Wuhan.
 - [阿里原初引力波探测站 / Ali Primordial Gravitational Wave Observatory](entities/AliPrimordialGravitationalWaveObservatory.md) — high-altitude Tibet project searching cosmic microwave background polarization traces of primordial gravitational waves.
 - [江门中微子实验 / Jiangmen Underground Neutrino Observatory](entities/JiangmenUndergroundNeutrinoObservatory.md) — underground neutrino project using rock shielding, reactor-distance geometry, liquid scintillator, and high-purity water to study weak neutrino signals.
@@ -924,7 +927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Li Lu / 李璐](entities/LiLu.md) — Investor-author whose modernization and value-investment worldview frames episode 150's civilizational account of China.
 - [《文明、现代化、价值投资与中国》](entities/CivilizationModernizationValueInvestmentChina.md) — Li Lu book used by episode 150 to link Malthusian escape, free-market/science loops, and long-term China judgment.
 - [宋铮 / Song Zheng](entities/SongZheng.md) — Economist cited by episode 150 as an example of the need for reality-oriented Chinese economic research.
-- [Fujian / 福建](entities/Fujian.md) — Coastal province used for informal investment-trust history in episode 150 and as a historical-baggage-plus-bistro cuisine case in EP245.
+- [Fujian / 福建](entities/Fujian.md) — Coastal province used for informal investment-trust history, cuisine innovation, and EP249's Minnan ritual network around Yongning.
 - [Zhejiang / 浙江](entities/Zhejiang.md) — Coastal province used by episode 150 to contrast early private-economy formation with later inland catch-up.
 - [杨一 / Yang Yi](entities/YangYi.md) — Early Chinese podcast practitioner and 忽左忽右 speaker explaining market education, brand-podcast services, and the Chinese-vs-U.S. podcast path.
 - [欧阳斌 / Ouyang Bin](entities/OuyangBin.md) — 去现场 and 725沙龙-side speaker framing the episode from listener, media-observer, and cultural-dialogue perspectives.
@@ -2145,7 +2148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [民生证券 / Minsheng Securities](entities/MinshengSecurities.md) — Securities research institution associated with 牟一凌 in vol.112's China strategy discussion.
 - [毛冬 / Mao Dong](entities/MaoDong.md) — Podcast host and stand-up comedian whose high-entry gold holding example grounds EP268's gold drawdown psychology.
 - [唐涛 / 唐唐 / Tang Tao](entities/TangTao.md) — Ant Fortune community creator explaining gold position size, recurring buyers, family savers, and monthly reward buyers in EP268.
-- [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion through price swings, child savings, and household time horizons.
+- [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion and EP249's Minnan ritual conversation through Fujian hometown knowledge.
 - [莫晨 / Mo Chen](entities/MoChen.md) — EP268 participant adding family-memory and long-term-practice examples to the household gold discussion.
 - [蚂蚁财富 / Ant Fortune](entities/AntFortune.md) — Wealth-management platform context for EP268's online gold accumulation, recurring purchases, virtual grams, and redemption loop.
 - [《王氏之死》 / The Death of Woman Wang](entities/TheDeathOfWomanWang.md) — Jonathan Spence microhistory of 王氏's murder in early Qing 郯城.
@@ -3359,7 +3362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东岳大帝](entities/DongyueDadi.md) — Taishan-linked life-and-death ruler used by episode 136 as an older sacred-mountain branch of afterlife authority.
 - [阎罗王](entities/YanluoWang.md) — Localized Yama/Yanluo death judge connecting Buddhist afterlife material with Chinese clear-official moral judgment.
 - [十殿阎罗](entities/TenKingsOfHell.md) — Ten-court hell-judge system used by episode 136 to organize judgment, punishment, reports, and rebirth.
-- [城隍](entities/Chenghuang.md) — City-god office read by episode 136 as local divine administration, underworld mayoralty, and civic moral memory.
+- [城隍](entities/Chenghuang.md) — City-god office read as local divine administration, underworld mayoralty, civic memory, and EP249's Yongning temple-governance resource.
 - [土地](entities/Tudigong.md) — Intimate local land-god office in episode 136, handling neighborhood-scale protection, reporting, and death registration.
 - [孟婆](entities/MengPo.md) — Underworld figure whose soup of forgetting explains rebirth without previous-life memory in episode 136.
 - [钟馗](entities/ZhongKui.md) — Ghost-quelling figure in episode 136, shaped by image culture, Tang court legend, and possible tool etymology.
@@ -3587,7 +3590,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scotland Yard](entities/ScotlandYard.md) — London policing institution used by the episode to show how early investigative failures shaped later criminal-investigation discipline.
 - [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
 - [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
-- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing battery manufacturing consistency in E229 and semiconductor supply-chain, EDA, lithography, packaging, and compute-cost complexity in EP270.
+- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist covering battery manufacturing, vocational education, semiconductors, and EP249's Yongning/Minnan ritual network.
 - [CATL / 宁德时代](entities/CATL.md) — Chinese power-battery leader positioned as a beneficiary of demand creation, whitelist protection, manufacturing scale, and Yibin chain anchoring.
 - [ATL / Amperex Technology Limited](entities/ATL.md) — Early Chinese lithium-battery company used to show how licensed technology still required coating, process, and reliability know-how.
 - [Northvolt](entities/Northvolt.md) — European battery counterexample where capital, equipment, and orders did not substitute for deep manufacturing process capability.
@@ -4297,7 +4300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thai Orient Airlines / 泰国东方航空](entities/ThaiOrientAirlines.md) — Overseas airline acquisition target tied to Lan Shili's later contract-fraud acquittal.
 - [Xiu Life / 秀生活](entities/XiuLife.md) — Unmanned convenience-store project used as a later capital-market relaunch case.
 - [Wuhan Erchang Soda / 武汉二厂汽水](entities/WuhanErchangSoda.md) — Revived local beverage brand tied to Lan Shili's later listed-company transaction story.
-- [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port city anchoring the episode's religious plurality, world-heritage, Song-Yuan maritime trade, and later diaspora/manufacturing story.
+- [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port and ritual-region node anchoring religious plurality, Song-Yuan maritime trade, diaspora/manufacturing history, and EP249's Yongning ritual network.
 - [Pu Shougeng / 蒲寿庚](entities/PuShougeng.md) — Quanzhou maritime merchant-official used to discuss foreign merchant power, port survival, and regime-change choices.
 - [Zheng Zhilong / 郑芝龙](entities/ZhengZhilong.md) — Minnan maritime trader, pirate, and official whose rise illustrates sea-ban-era gray trade, armed route control, and state incorporation.
 - [Zheng Chenggong / 郑成功](entities/ZhengChenggong.md) — Anti-Qing maritime leader whose Taiwan campaign is framed as both symbolic recovery and practical rear-base strategy.
@@ -5444,6 +5447,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Minnan Ritual Network / 闽南仪式网络](concepts/MinnanRitualNetwork.md) — EP249 model for deity processions, ancestor worship, lineage halls, temple committees, donations, routes, and local belonging as one working social system.
+- [Jitong Spirit Medium / 鸡童（乩童）](concepts/JitongSpiritMedium.md) — EP249 concept for the spirit-medium role that makes deity-human communication bodily, contested, and difficult to officialize as cultural tourism.
+- [Ritual Tourism Authenticity Tension / 仪式文旅真实性张力](concepts/RitualTourismAuthenticityTension.md) — EP249 tension between displaying folk ritual as heritage for outsiders and performing it as effective local deity/lineage practice.
+- [Gendered Lineage Ritual Order / 性别化宗族仪式秩序](concepts/GenderedLineageRitualOrder.md) — EP249 frame for women's necessary ritual labor and participation coexisting with male-dominated formal ancestor worship and core procession roles.
+- [Ritual Succession Crisis / 仪式传承危机](concepts/RitualSuccessionCrisis.md) — EP249 concept for the risk that young locals may consume, film, or commercialize tradition without taking on the physical and organizational work that sustains it.
 - [Big Science Infrastructure / 大科学基础设施](concepts/BigScienceInfrastructure.md) — framework for large facilities, long timelines, extreme environments, and project-scale organization in frontier physics.
 - [Weak Signal Detection / 微弱信号探测](concepts/WeakSignalDetection.md) — evidence regime where noise control, shielding, cooling, long data accumulation, and statistics make barely perceptible physical signals measurable.
 - [Extreme Environment Physics / 极端环境物理](concepts/ExtremeEnvironmentPhysics.md) — frame for high plateaus, underground labs, radio-quiet sites, and source-distance geometry as parts of scientific instruments.
@@ -7478,10 +7486,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Professional Dignity Beyond Patient Identity](concepts/ProfessionalDignityBeyondPatientIdentity.md) — Boundary against evaluating a sick person only through sympathy rather than professional craft, expertise, and judgment.
 - [Overseas Identity Reset](concepts/OverseasIdentityReset.md) — Pattern where working abroad lets a person loosen domestic labels and names, while remaining tied to risk and loneliness.
 - [Unprotected Overseas Work](concepts/UnprotectedOverseasWork.md) — Overseas-work pattern where autonomy comes without the representative office, HR, colleagues, or emergency support of a large organization.
-- [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, and oral variants coexist without one standard doctrine.
+- [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, oral variants, and EP249's Minnan mediumship practice coexist without one standard doctrine.
 - [Underworld Bureaucracy](concepts/UnderworldBureaucracy.md) — Afterlife model of offices, seals, reports, judges, local gods, and procedures, developed through episode 136's Chinese ghost-and-deity map.
 - [Afterlife Moral Accounting](concepts/AfterlifeMoralAccounting.md) — Supernatural ledger of ordinary conduct, punishments, clean-official judgment, and social order in episode 136's hell stories.
-- [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where city gods and land gods act as territorial administrators, neighborhood protectors, and moral record-keepers.
+- [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where local gods act as territorial administrators, moral record-keepers, arbitration authorities, and sometimes temple-governance resource centers.
 - [Film Gossip As Context](concepts/FilmGossipAsContext.md) — Use of director anecdotes, scandals, rumors, and habits as source-scoped entry points into film history, production power, and memory.
 - [Director Myth Deflation](concepts/DirectorMythDeflation.md) — Practice of bringing celebrated directors down from pure-genius images without reducing film history to scandal alone.
 - [Film Set Power And Abuse](concepts/FilmSetPowerAndAbuse.md) — Production-side pattern where creative authority, scheduling pressure, money, and career control can turn into fear, coercion, or exploitation.
@@ -8053,7 +8061,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sycophantic AI Companion Risk](concepts/SycophanticAICompanionRisk.md) — Danger that emotionally fluent AI companions over-validate users when correction, friction, or human support is needed.
 - [Experience-Led Brand](concepts/ExperienceLedBrand.md) — Consumer-brand pattern where felt visit, mood, social time, ritual, and place attachment carry value beyond functional product attributes.
 - [Authentic Neighborhood Experience](concepts/AuthenticNeighborhoodExperience.md) — Place-quality frame where resident life, street texture, discovery, and commerce coexist without becoming only a check-in set.
-- [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination or commercial space valuable through operations after the initial build and launch.
+- [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination, heritage place, or ritual community valuable through operations after the initial build or attention spike.
 - [Image-First IP](concepts/ImageFirstIP.md) — Consumer-IP pattern where visual identity and emotional association carry more value than a deep story universe.
 - [Inbound Tourism Brand Discovery](concepts/InboundTourismBrandDiscovery.md) — Route where foreign visitors discover local consumer brands in person and carry attention outward through social media and word of mouth.
 - [Fan Economy](concepts/FanEconomy.md) — Marketing system where entertainment attention, celebrity attachment, fandom behavior, and branded goods reinforce each other.
@@ -8072,7 +8080,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Trade Systems](concepts/FrontierTradeSystems.md) — Borderland trade arrangements linking military provisioning, salt permits, Mongolian trade, guarantees, routes, and branch networks.
 - [Jin Merchant Governance](concepts/JinMerchantGovernance.md) — Shanxi merchant-house incentive system using competence-based promotion, ownership discipline, and profit participation to manage distant operations.
 - [Long-Distance Trade Friction](concepts/LongDistanceTradeFriction.md) — Problem of moving goods, money, information, trust, and legal order across distance in frontier trade, piaohao finance, and supply chains.
-- [Heritage Tourism Commercialization](concepts/HeritageTourismCommercialization.md) — Conversion of preserved architecture and historical memory into tourism value, with risks from over-commercialized scenic-area management.
+- [Heritage Tourism Commercialization](concepts/HeritageTourismCommercialization.md) — Conversion of preserved architecture, historical memory, or ritual practice into tourism value, with risks from over-commercialized or decontextualized display.
 - [Shanxi Coal Economy](concepts/ShanxiCoalEconomy.md) — Modern Shanxi resource base tying national energy supply, coal wealth, safety risk, regulation, corruption exposure, and industrial concentration.
 - [Resource-Based Economic Transition](concepts/ResourceBasedEconomicTransition.md) — Development problem of diversifying a resource-dependent region while the old extractive base remains economically central.
 - [Zou Xikou Migration](concepts/ZouXikouMigration.md) — Northbound Shanxi migration beyond the pass that supplied labor, routes, apprenticeships, and commercial ties for frontier trade.
@@ -8662,7 +8670,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [City Commercial Observation](concepts/CityCommercialObservation.md) — Practice of using ordinary city details, listener submissions, and local anomalies as evidence about commercial systems.
 - [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
 - [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
-- [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, or durable neighborhood value.
+- [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, durable neighborhood value, or the social machinery behind "real" ritual.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.

@@ -6449,3 +6449,11 @@ Added source page for a Talk三联 episode with 高一丁 and 苗千 on Chinese 
 ## [2026-08-07] lint | Wiki health check
 
 Ran health before lint; health scanned 9,076 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,076 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used existing `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while current lint scanned 9,076 pages, so graph findings are advisory until `build graph` refreshes it; the graph pass found no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because no provider-qualified `LLM_MODEL` or provider API key is configured in this shell. A bounded fallback scan found no explicit `Contradicts [[...]]` markers, but did surface a likely casing duplicate (`wiki/entities/MidJourney.md` and `wiki/entities/Midjourney.md`) and one `+-` bullet artifact in `wiki/sources/ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun.md`. No `wiki/lint-report.md` file was saved.
+
+## [2026-08-07] ingest | EP249 闽南古城游神记：传统仪式背后的乡土网络
+
+Added source page for a Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城's Minnan ritual network, covering deity processions, ancestor worship, temples, lineage halls, 鸡童/乩童 mediumship, 城隍 temple politics, ritual tourism, gendered ritual order, and youth succession pressure. Created pages for 蔡小川 / Cai Xiaochuan, 永宁古城 / Yongning Ancient City, Minnan Ritual Network, Jitong Spirit Medium, Ritual Tourism Authenticity Tension, Gendered Lineage Ritual Order, and Ritual Succession Crisis; updated overview, index, Talk三联, 三联生活周刊, 吴淑冰, 张从志, 福建, 泉州, 城隍, Chinese Folk Religion Layering, Local Deity Governance, Fieldwork As Knowledge Method, Minnan Maritime Commercial Culture, Heritage Tourism Commercialization, Tourism Traffic Mismatch, and Long-Term Place Operation. No direct contradiction found; the source reinforces the wiki's folk-religion and Minnan branches by showing ritual as local social infrastructure, while qualifying heritage-tourism optimism with the need for local efficacy and youth participation.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
