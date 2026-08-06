@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | EP251 伊朗困局：四十年战略选择的代价与现实
+
+Added source page for a Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, finance, Hormuz, and Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization. Created pages for 刘仪, Iran Horizontal Escalation, Iran Nuclear-Missile Bargaining, Resistance Axis Backfire, and Regime Basic-Base Stabilization; updated overview, index, Talk三联, 三联生活周刊, 程静, Iran, Israel, Donald Trump, Benjamin Netanyahu, Ali Khamenei, Ruhollah Khomeini, IRGC, Hezbollah, Strait of Hormuz, GCC, U.S.-Iran Nuclear Diplomacy, Gulf Stability Risk, Iran Postwar Economic Relief, Iran Sanctions, Chokepoint Shipping Confidence, Proxy Conflict Spoiler Risk, and Low-Cost Drone Warfare. No direct contradiction found; this source is earlier than the later Khamenei funeral and renewed-strikes pages and supplies the pre-memorandum bargaining logic behind those later updates.
+
 ## [2026-08-06] ingest | 161. 全球宏观和资本市场2026一季度复盘与展望
 
 Added source page for a 起朱楼宴宾客 live Beijing Q1 2026 macro and capital-market review with 大卫翁 and Ricky on the March 23 market selloff, Iran war risk, old-order breakdown, stagflation/recession/liquidity repricing, China January-February data, AI application and financing risk, private credit, gold, oil, A/H allocation, and cash discipline. Created pages for Stagflation Risk Repricing and Lindy Effect Asset Allocation; updated overview, index, 起朱楼宴宾客, 大卫翁, Ricky, Iran, Strait of Hormuz, BlackRock, KKR, Apollo, Federal Reserve, Donald Trump, and related macro, China, gold, AI, private-credit, convertible-bond, and allocation concepts. No direct contradiction found; the source qualifies the January 2026 outlook by showing how quickly the 2026 risk-asset frame shifted from optimism to war, inflation, liquidity, and policy-response uncertainty.
@@ -6461,6 +6465,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] ingest | EP250 走进山野，顺流而上：寻找户外运动中的心流时刻
 
 Added source page for a Talk三联 episode with 张时 and 阿蒙 on outdoor sport, flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor visibility, and body-mind reintegration through nature. Created pages for 张时, 阿蒙, 《顺流而上》, 杨小华, 始祖鸟山地课堂, Outdoor Flow State, Trail Running Entry Risk, Outdoor Safety Preparation, Rock Climbing Failure Practice, Women Outdoor Visibility, and Outdoor Body-Mind Reintegration; updated overview, index, Talk三联, 三联生活周刊, Flow Environment Design, Embodied Judgment, Trained Intuition, Extreme Environment Risk Management, Sports Lifestyle Consumption, Urban Niche Sports, Nature Contact And Self-Perception, and Female Self-Possession. No direct contradiction found; the source extends the wiki's sports branch from city-access niche sports into mountain and wilderness practice while qualifying outdoor-flow enthusiasm with safety preparation, ability judgment, and non-forced immersion.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-07] lint | Wiki health check
 

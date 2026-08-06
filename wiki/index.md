@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP251 伊朗困局：四十年战略选择的代价与现实](sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd.md) — Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, Hormuz, Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization.
 - [EP250 走进山野，顺流而上：寻找户外运动中的心流时刻](sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo.md) — Talk三联 episode with 张时 and 阿蒙 on outdoor flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor participants, and nature as body-mind reintegration.
 - [EP249 闽南古城游神记：传统仪式背后的乡土网络](sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww.md) — Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城 ritual networks, deity processions, ancestor worship, 鸡童/乩童, lineage politics, ritual tourism, gendered participation, and succession pressure.
 - [EP248 在高原与地下，探寻中国“大科学项目”](sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo.md) — Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali CMB/primordial gravitational waves, Jiangmen neutrinos, Dongguan spallation neutrons, FAST, weak-signal detection, extreme environments, international collaboration, and technology spillovers.
@@ -808,6 +809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘仪 / Liu Yi](entities/LiuYiSanlian.md) — Talk三联 EP251 guest explaining Iran's nuclear/missile bargaining, horizontal escalation, resistance-axis backfire, and regime-base stabilization.
 - [张时 / Zhang Shi](entities/ZhangShi.md) — Talk三联 EP250 speaker using trail running, breath, wrong turns, equipment, and self-paced challenge to frame outdoor flow and safety judgment.
 - [阿蒙 / Amon](entities/Amon.md) — Outdoor-sports speaker in EP250 grounding climbing, skiing, breath control, fear, failure, women climbers, and controlled-risk practice.
 - [《顺流而上》 / Upstream Documentary](entities/ShunliuErshangDocumentary.md) — Outdoor-sports documentary referenced in EP250 to frame long-term inner direction, skiing practice, and women athlete visibility.
@@ -5453,6 +5455,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Iran Horizontal Escalation / 伊朗横向升级](concepts/IranHorizontalEscalation.md) — EP251 frame for how Iran can widen war pressure from the battlefield into Hormuz, energy infrastructure, insurance, markets, and Gulf business confidence.
+- [Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉](concepts/IranNuclearMissileBargaining.md) — EP251 distinction between Iran's politically valuable nuclear file and harder-to-verify missile deterrent as bargaining assets.
+- [Resistance Axis Backfire / 抵抗之弧反噬](concepts/ResistanceAxisBackfire.md) — EP251 diagnosis that Iran's proxy and allied network became a costly, semi-autonomous, transactional strategic liability.
+- [Regime Basic-Base Stabilization / 政权基本盘稳定](concepts/RegimeBasicBaseStabilization.md) — EP251 political-economy frame for postwar money stabilizing Iran's state-dependent base rather than producing rapid reform.
 - [Outdoor Flow State / 户外心流](concepts/OutdoorFlowState.md) — EP250 concept for flow as contingent immersion where breath, terrain, weather, skill, fear, and surprise make outdoor sport more than performance success.
 - [Trail Running Entry Risk / 越野跑低入口高风险](concepts/TrailRunningEntryRisk.md) — EP250 warning that running seems easy to enter while mountain routes require navigation, light, warmth, water, signal, and conservative goals.
 - [Outdoor Safety Preparation / 户外安全准备](concepts/OutdoorSafetyPreparation.md) — EP250 safety frame for layered clothing, tested equipment, headlamps, GPS, helmet details, route judgment, and stopping before conditions deteriorate.
