@@ -6350,6 +6350,10 @@ Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-07] ingest | EP260 一口肥美脂肪，藏着中国养殖的新故事
+
+Added source page for a Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on rainbow trout, eel, and foie gras as high-value foods rebuilt through Chinese aquaculture, processing, labeling, welfare tradeoffs, and prepared product formats. Created pages for Rainbow Trout, Eel, Foie Gras, Guangdong, Longyangxia, Anhui, Chinese New Specialty Aquaculture, Salmon-Trout Label Transparency, Eel Seed Price Volatility, Foie Gras Welfare Tradeoff, and Prepared High-Value Food Formats; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 邱连, 黑麦, 博靖, Shunde, Guangxi, Fujian, Aquaculture Feed Dependency, Food Animal Welfare, Livestock Care Economics, Animal Welfare Product Labeling, Restaurant Supply Chain Localization, Culinary Grammar, Material History Narrative, and Restaurant Cultural Legibility. No direct contradiction found; the source qualifies simple imported-versus-domestic and luxury-versus-substitute frames by making water, seedlings, feed, species labels, animal welfare, processing labor, and consumption format central to the food story.
+
 ## [2026-08-07] ingest | EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？
 
 Added source page for a Talk三联 episode with 高一丁 and 苗伟 on 徐光启 as a late-Ming official, learner, translator, agricultural reformer, military-modernization advocate, and calendar-reform organizer. Created pages for 徐光启, 苗伟, 利玛窦, 李之藻, 汤若望, 杨光先, 孙元化, 《几何原本》, 《农政全书》, 《崇祯历书》, 《坤舆万国全图》, 《同文算指》, Late-Ming Western Learning, Euclidean Proof Training, Calendar Reform Legitimacy, Intellectual Life As Practice, Science Value Transmission, and Agricultural Relief Statecraft; updated overview, index, Talk三联, 三联生活周刊, 高一丁, Jesuits, Humanistic Science Communication, Scientific Revolution Social Infrastructure, and Learning How To Learn. No direct contradiction found; the source qualifies simple science-versus-tradition narratives by treating Western learning as simultaneously mathematical, practical, religiously mediated, politically useful, and culturally vulnerable.
@@ -6533,3 +6537,7 @@ Added source page for a Talk三联 episode with 魏茜, 冷建国, and 张芝琪
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint without saving a report file. Deterministic and graph-aware checks completed; semantic lint was unavailable because `LLM_MODEL` is not provider-qualified.

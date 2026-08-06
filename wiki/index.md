@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP260 一口肥美脂肪，藏着中国养殖的新故事](sources/ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j.md) — Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on salmon-trout labeling, Longyangxia rainbow trout, eel seedling volatility, Guangdong/Shunde grilled eel, foie gras welfare tradeoffs, and prepared high-value food formats.
 - [EP259 与苗师傅漫谈徐光启：四百年前如何让人变聪明？](sources/ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e.md) — Talk三联 episode with 高一丁 and 苗伟 on 徐光启, late-Ming Western learning, Euclidean proof, agricultural relief, calendar legitimacy, Jesuit science transmission, and intellectual life.
 - [EP258 我们如何重拾睡前读书？](sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix.md) — Talk三联 episode with 魏茜, 冷建国, and 张芝琪 on bedtime reading, reading media, AI recommendation, bookstore encounter, attention fragmentation, bodily sleep limits, and reading as a non-KPI daily ritual.
 - [EP257 不上班：一场逃离与寻找的复杂冒险](sources/ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng.md) — Talk三联 episode with 高一丁, 吴树彬/吴淑彬, 阮佳宁, and Mia on not working as a complex post-employment condition involving burnout, free time, freelance risk, parent pressure, resume-gap stigma, and work self-worth boundaries.
@@ -817,6 +818,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [虹鳟 / Rainbow Trout](entities/RainbowTrout.md) — Salmonid food case in EP260 linking domestic cold-water farming, "三文鱼" labeling, freshness claims, feed color, and smoked/prepared trout formats.
+- [鳗鱼 / Eel](entities/Eel.md) — Aquaculture and processing case in EP260 where wild seedling dependence, Guangdong/Shunde production, and grilled-eel factories make eel look both biological and financial.
+- [鹅肝 / Foie Gras](entities/FoieGras.md) — Fatty luxury-food case in EP260 connecting Chinese production, restaurant and prepared formats, farmer income, force-feeding, disease, and animal-welfare tradeoffs.
+- [广东 / Guangdong](entities/Guangdong.md) — Province added through EP260 as a major eel-production and processing node, especially around Taishan and Shunde.
+- [龙羊峡 / Longyangxia](entities/Longyangxia.md) — Highland cold-water trout case in EP260 where reservoir conditions, parasite testing, feed, and fast logistics support domestic rainbow trout.
+- [安徽 / Anhui](entities/Anhui.md) — Foie gras production-region case in EP260, with Huoqiu showing dispersed goose raising, veterinary risk, and processing coordination.
 - [徐光启 / Xu Guangqi](entities/XuGuangqi.md) — Late-Ming official and learner who anchors EP259's geometry, agriculture, calendar reform, artillery, and intellectual-life branches.
 - [苗伟 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer and EP259 guest explaining Xu Guangqi as a model of active intellectual life and science-history communication.
 - [利玛窦 / Matteo Ricci](entities/MatteoRicci.md) — Jesuit missionary whose maps, geometry teaching, and elite strategy make late-Ming Western learning concrete in EP259.
@@ -5529,6 +5536,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese New Specialty Aquaculture / 中国新特产养殖](concepts/ChineseNewSpecialtyAquaculture.md) — EP260 frame for high-value farmed foods becoming Chinese specialties through water, seedlings, feed, processing, restaurant trust, ecommerce, and local eating habits.
+- [Salmon-Trout Label Transparency / 鲑鳟商品名透明](concepts/SalmonTroutLabelTransparency.md) — Consumer-trust concept from EP260 arguing that "三文鱼" disputes should be resolved through clear species, origin, and production disclosure.
+- [Eel Seed Price Volatility / 鳗苗价格波动](concepts/EelSeedPriceVolatility.md) — EP260 risk mechanism where wild-caught eel seedlings, informal forward-like deals, and extreme price swings shape aquaculture decisions.
+- [Foie Gras Welfare Tradeoff / 鹅肝福利权衡](concepts/FoieGrasWelfareTradeoff.md) — EP260 animal-food ethics frame connecting force-feeding, lower-mortality technique, disease, farmer income, product quality, and unresolved welfare concerns.
+- [Prepared High-Value Food Formats / 高价值食材即食化](concepts/PreparedHighValueFoodFormats.md) — EP260 concept for smoked trout, grilled eel, small foie gras packs, baby-food products, and other formats that make skill-intensive foods more consumable.
 - [Late-Ming Western Learning / 晚明西学东渐](concepts/LateMingWesternLearning.md) — EP259 frame for Western knowledge entering China through maps, geometry, calendars, Jesuit strategy, translation, and state needs.
 - [Euclidean Proof Training / 欧几里得式证明训练](concepts/EuclideanProofTraining.md) — EP259 concept for geometry as training in definitions, postulates, proof, and knowing why a result follows.
 - [Calendar Reform Legitimacy / 历法改革与政治合法性](concepts/CalendarReformLegitimacy.md) — EP259 frame for calendar astronomy as imperial legitimacy infrastructure rather than neutral technical calculation.

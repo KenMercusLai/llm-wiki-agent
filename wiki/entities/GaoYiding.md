@@ -2,11 +2,13 @@
 title: "高一丁 / Gao Yiding"
 type: entity
 tags: [person, host, podcast, technology, games, science, physics]
-sources: [ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+sources: [ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j, ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e, ep257-bu-shangban-yi-chang-taoli-yu-xunzhao-de-fuza-maoxian-li-wflyd48dmxvgersphxfp-gnng, ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # 高一丁 / Gao Yiding
+
+[[ep260-yikou-feimei-zhifang-cangzhe-zhongguo-yangzhi-de-xin-gushi-linjq2fkzhqvzjcgrmhudq12vs4j]] adds Gao's host role in a [[TalkSanlian|Talk三联]] food-supply-chain episode on [[ChineseNewSpecialtyAquaculture|中国新特产养殖]]. He frames [[RainbowTrout|虹鳟]], [[Eel|鳗鱼]], and [[FoieGras|鹅肝]] as a shared question about how Chinese production changes imported or high-end food categories through water, feed, labels, processing, welfare, and domestic consumption formats.
 
 [[ep259-yu-miao-shifu-mantan-xu-guangqi-sibainian-qian-ruhe-rangren-biancongming-lkirczxnx8skbbfpmz5-m-mivs4e]] adds Gao's host role in a [[TalkSanlian|Talk三联]] science-history episode with [[MiaoWeiSanlian|苗伟]] on [[XuGuangqi|徐光启]]. Gao's framing questions move from why Xu is hard to categorize toward how [[EuclidsElementsChinese|《几何原本》]], [[NongzhengQuanshu|《农政全书》]], [[ChongzhenLishu|《崇祯历书》]], and missionary knowledge illuminate [[IntellectualLifeAsPractice|智识生活]].
 
@@ -25,6 +27,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds Gao's summer-reading host role. He frames the discussion around why heroic epics remain active in present-day media, from [[TheOdyssey|《奥德赛》]] and "奥德赛时间" to the [[MarvelCinematicUniverse|漫威宇宙]], games, fantasy, and the reading difficulty of ancient oral texts.
 
 ## Connections
+- [[QiuLian]], [[Heimai]], [[BoJing]], [[RainbowTrout]], [[Eel]], [[FoieGras]], [[ChineseNewSpecialtyAquaculture]], and [[PreparedHighValueFoodFormats]] — EP260 food-supply-chain discussion.
 - [[TalkSanlian]] — show context.
 - [[MiaoWeiSanlian]], [[XuGuangqi]], [[LateMingWesternLearning]], [[EuclideanProofTraining]], [[AgriculturalReliefStatecraft]], and [[CalendarReformLegitimacy]] — EP259 science-history discussion.
 - [[WuShubin]], [[RuanJianing]], [[MiaFreelancer]], [[NotWorkingAmbivalence]], and [[WorkSelfWorthBoundary]] — EP257 work-exit discussion.
