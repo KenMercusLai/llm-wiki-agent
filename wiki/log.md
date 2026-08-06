@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | EP252 《太平年》之外的五代十国，什么样？
+
+Added source page for a Talk三联 episode with 王洪杰 on 《太平年》 as an entry point to 五代十国, covering 唐宋转型, "十国" category formation, southern-regime relationship types, economic-cultural southward shift, social mobility, military/literati coexistence, succession crises, adoptive-son ties, women, everyday life, and historical memory. Created pages for 王洪杰, 《太平年》, 五代十国, 《新五代史》, 后梁, 后唐, 后晋, 后汉, 前蜀, 后蜀, 吴越, 南唐, 南汉, 荆南, 冯道, 黄巢, 王建, 李克用, 李存勖, 李嗣源, 石敬瑭, Tang-Song Transition, Five Dynasties Ten Kingdoms Concept Formation, Ten Kingdoms Relationship Types, Economic-Cultural Center Southward Shift, Southern Regime Stability in the Five Dynasties, Five Dynasties Social Mobility, Five Dynasties Military-Literati Coexistence, Five Dynasties Succession Crisis, Five Dynasties Adoptive-Son System, and Five Dynasties Women Agency; updated overview, index, Talk三联, 三联生活周刊, 欧阳修, 柴荣, 后周, 北宋, 先南后北, and Historical Memory Contest. No direct contradiction found; the source complements the existing Song founding cluster by pushing the explanatory frame backward into late Tang fragmentation, Five Dynasties politics, and southern-regime accumulation.
+
 ## [2026-08-07] ingest | EP251 伊朗困局：四十年战略选择的代价与现实
 
 Added source page for a Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, finance, Hormuz, and Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization. Created pages for 刘仪, Iran Horizontal Escalation, Iran Nuclear-Missile Bargaining, Resistance Axis Backfire, and Regime Basic-Base Stabilization; updated overview, index, Talk三联, 三联生活周刊, 程静, Iran, Israel, Donald Trump, Benjamin Netanyahu, Ali Khamenei, Ruhollah Khomeini, IRGC, Hezbollah, Strait of Hormuz, GCC, U.S.-Iran Nuclear Diplomacy, Gulf Stability Risk, Iran Postwar Economic Relief, Iran Sanctions, Chokepoint Shipping Confidence, Proxy Conflict Spoiler Risk, and Low-Cost Drone Warfare. No direct contradiction found; this source is earlier than the later Khamenei funeral and renewed-strikes pages and supplies the pre-memorandum bargaining logic behind those later updates.
@@ -6473,3 +6477,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran health before lint; health scanned 9,134 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 9,134 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken wikilinks, no missing entity pages, and no sparse pages. The saved `graph/graph.json` snapshot is stale (built 2026-07-24 with 6,453 nodes while the wiki has 9,134 pages), so a read-only current wikilink-graph recompute was used as the stronger graph signal: 96,959 extracted edges, no zero-degree nodes, no hub stubs, three fragile bridges, and no isolated communities. Semantic LiteLLM lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No `wiki/lint-report.md` file was saved.

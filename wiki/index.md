@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP252 《太平年》之外的五代十国，什么样？](sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh.md) — Talk三联 episode with 王洪杰 on 《太平年》, 五代十国概念形成, 唐宋转型, 十国关系类型, southern stability, social mobility, military/literati coexistence, succession, adoptive-son ties, and women.
 - [EP251 伊朗困局：四十年战略选择的代价与现实](sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd.md) — Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, Hormuz, Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization.
 - [EP250 走进山野，顺流而上：寻找户外运动中的心流时刻](sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo.md) — Talk三联 episode with 张时 and 阿蒙 on outdoor flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor participants, and nature as body-mind reintegration.
 - [EP249 闽南古城游神记：传统仪式背后的乡土网络](sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww.md) — Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城 ritual networks, deity processions, ancestor worship, 鸡童/乩童, lineage politics, ritual tourism, gendered participation, and succession pressure.
@@ -809,6 +810,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王洪杰 / Wang Hongjie](entities/WangHongjie.md) — Historian explaining 五代十国 through 唐宋转型, regime classification, people-centered narrative, and social history.
+- [《太平年》](entities/Taipingnian.md) — Historical TV drama used as Talk三联's entry point into 五代十国 and the 吴越 perspective.
+- [五代十国 / Five Dynasties and Ten Kingdoms](entities/FiveDynastiesTenKingdoms.md) — Transitional period between late Tang collapse and Northern Song consolidation, read as institutional, regional, and social recomposition.
+- [《新五代史》 / New History of the Five Dynasties](entities/NewFiveDynastiesHistory.md) — Ouyang Xiu history text central to the canonical "十国" category and later loyalty judgments.
+- [后梁 / Later Liang](entities/LaterLiang.md) — First Five Dynasties regime, used as part of the late Tang to Later Tang military-turnover sequence.
+- [后唐 / Later Tang](entities/LaterTang.md) — Five Dynasties regime tied to reunification attempts, Shatuo military networks, and adoptive-son politics.
+- [后晋 / Later Jin](entities/LaterJin.md) — Five Dynasties regime marking the Khitan factor and the route toward later Song unification.
+- [后汉 / Later Han](entities/LaterHan.md) — Brief Five Dynasties regime illustrating rapid northern succession and command instability.
+- [前蜀 / Former Shu](entities/FormerShu.md) — Sichuan regime used for southern parallel-power classification and Wang Jian's social-mobility case.
+- [后蜀 / Later Shu](entities/LaterShu.md) — Sichuan regime that links Ten Kingdoms politics to later Song southern-first unification.
+- [吴越 / Wuyue](entities/Wuyue.md) — Southern kingdom foregrounded by 《太平年》 and classified as investiture-accommodating yet locally controlled.
+- [南唐 / Southern Tang](entities/SouthernTang.md) — Major southern regime used as a parallel-power and cultural/material-remains case.
+- [南汉 / Southern Han](entities/SouthernHan.md) — Lingnan regime used as the distant/flexible type in 十国关系类型.
+- [荆南 / Jingnan](entities/Jingnan.md) — Small participatory regime used to show diplomacy and position as survival strategy.
+- [冯道 / Feng Dao](entities/FengDao.md) — Five Dynasties literati official whose multi-regime service becomes a test case for later Song loyalty judgment.
+- [黄巢 / Huang Chao](entities/HuangChao.md) — Late Tang rebel used to push the Five Dynasties story before 907 and frame disorder, trauma, and social disruption.
+- [王建 / Wang Jian (Former Shu)](entities/WangJianFormerShu.md) — Former Shu founder used to show low-status military rise and founder-to-heir anxiety.
+- [李克用 / Li Keyong](entities/LiKeyong.md) — Shatuo military leader used to explain adoptive-son networks and commander-centered power.
+- [李存勖 / Li Cunxu](entities/LiCunxu.md) — Later Tang figure tied to adoptive-son and military-kinship politics.
+- [李嗣源 / Li Siyuan](entities/LiSiyuan.md) — Later Tang figure used to show how adoptive names and loyalty ties became political tools.
+- [石敬瑭 / Shi Jingtang](entities/ShiJingtang.md) — Later Jin founder marking the Khitan factor and the source's route toward Song founding.
 - [刘仪 / Liu Yi](entities/LiuYiSanlian.md) — Talk三联 EP251 guest explaining Iran's nuclear/missile bargaining, horizontal escalation, resistance-axis backfire, and regime-base stabilization.
 - [张时 / Zhang Shi](entities/ZhangShi.md) — Talk三联 EP250 speaker using trail running, breath, wrong turns, equipment, and self-paced challenge to frame outdoor flow and safety judgment.
 - [阿蒙 / Amon](entities/Amon.md) — Outdoor-sports speaker in EP250 grounding climbing, skiing, breath control, fear, failure, women climbers, and controlled-risk practice.
@@ -5455,6 +5477,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [唐宋转型 / Tang-Song Transition](concepts/TangSongTransition.md) — Frame that treats 五代十国 as the transformation layer between Tang collapse and Song consolidation.
+- [五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation](concepts/FiveDynastiesTenKingdomsConceptFormation.md) — How later Song historiography and political vision stabilized "十国" as a canonical category.
+- [十国关系类型 / Ten Kingdoms Relationship Types](concepts/TenKingdomsRelationshipTypes.md) — Wang Hongjie's classification of local regimes as parallel, investiture-accommodating, participatory, or distant/flexible.
+- [经济文化中心南移 / Economic-Cultural Center Southward Shift](concepts/EconomicCulturalCenterSouthwardShift.md) — Southern-regime stability and accumulation as a condition for later Song prosperity.
+- [五代南方政权相对稳定 / Southern Regime Stability in the Five Dynasties](concepts/WudaiSouthernRegimeStability.md) — Lower southern war intensity as a source of preserved administration, wealth, and culture.
+- [五代阶层流动 / Five Dynasties Social Mobility](concepts/WudaiSocialMobility.md) — War-damaged hierarchy that opened military and local-strongman mobility while destroying older security.
+- [五代文武共生 / Five Dynasties Military-Literati Coexistence](concepts/WudaiMilitaryLiteratiCoexistence.md) — "武夫当国" paired with continued dependence on literati administration, ritual, and documents.
+- [五代继承危机 / Five Dynasties Succession Crisis](concepts/WudaiSuccessionCrisis.md) — Recurring "王二代" problem of founder-to-heir fragility in military-founded regimes.
+- [五代义子假子制度 / Five Dynasties Adoptive-Son System](concepts/WudaiAdoptiveSonSystem.md) — Military pseudo-kinship, naming, and loyalty-binding under weak formal institutions.
+- [五代女性活跃 / Five Dynasties Women Agency](concepts/WudaiWomenAgency.md) — Women's public and household agency under Tang inheritance, frontier cultural influence, and wartime responsibility.
 - [Iran Horizontal Escalation / 伊朗横向升级](concepts/IranHorizontalEscalation.md) — EP251 frame for how Iran can widen war pressure from the battlefield into Hormuz, energy infrastructure, insurance, markets, and Gulf business confidence.
 - [Iran Nuclear-Missile Bargaining / 伊朗核导谈判分叉](concepts/IranNuclearMissileBargaining.md) — EP251 distinction between Iran's politically valuable nuclear file and harder-to-verify missile deterrent as bargaining assets.
 - [Resistance Axis Backfire / 抵抗之弧反噬](concepts/ResistanceAxisBackfire.md) — EP251 diagnosis that Iran's proxy and allied network became a costly, semi-autonomous, transactional strategic liability.
