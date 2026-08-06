@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？](sources/ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw.md) — Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, Fadior, Wote shoes, Malawangzi, personal IP, business-school training, and succession as continuous entrepreneurship.
 - [EP254 游晓颖x文淇x杜素娟：女性这一生，都在反复学习许可自己](sources/ep254-you-xiaoying-x-wenqi-x-du-sujuan-nvxing-zhe-yisheng-dou-zai-fanfu-xuexi-xuke-ziji-lm-w7ryj4zay6vldsrkadohj997d.md) — Talk三联 episode with 文淇, 游晓颖, and 杜素娟 on 《我许可》, menstrual shame, gynecological dignity, saying no, female friendship, body confidence, and mother-daughter self-permission.
 - [EP253 爆火的AI好物，到底是“真香”还是智商税？](sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4.md) — Talk三联 episode on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, vertical sports and cleaning robots, AI appliances, and privacy tradeoffs.
 - [EP252 《太平年》之外的五代十国，什么样？](sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh.md) — Talk三联 episode with 王洪杰 on 《太平年》, 五代十国概念形成, 唐宋转型, 十国关系类型, southern stability, social mobility, military/literati coexistence, succession, adoptive-son ties, and women.
@@ -812,6 +813,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [法迪奥 / Fadior](entities/Fadior.md) — Shunde stainless-steel home-furnishing company used in EP255 to show staged factory-second-generation succession through after-sales, marketing, dealers, category education, and sibling division of labor.
+- [沃特鞋企 / Wote Shoes](entities/WoteShoes.md) — Putian shoe company in EP255 illustrating a harder succession path through failed brand scaling, inventory complexity, e-commerce, live-streaming, IP, and overseas sales.
+- [麻辣王子 / Malawangzi](entities/Malawangzi.md) — Consumer food brand referenced in EP255 as a factory-second-generation personal-IP and self-media operation case.
+- [沈真文 / Shen Zhenwen](entities/ShenZhenwen.md) — Fadior second-generation successor in EP255 whose path from after-sales to marketing grounds the episode's succession-apprenticeship frame.
+- [范鑫宇 / Fan Xinyu](entities/FanXinyu.md) — Changjiang Business School observer cited in EP255 for second-generation entry routes, tacit management knowledge, and founder-successor differences.
+- [长江商学院 / Cheung Kong Graduate School of Business](entities/ChangjiangBusinessSchool.md) — Business-school context in EP255 for family-business successor training and the 接力长江 program.
+- [接力长江 / Jieli Changjiang](entities/JieliChangjiang.md) — Changjiang Business School family-business successor program named in EP255 as institutional infrastructure for factory-second-generation succession.
+- [厂二代GoGoGo](entities/ChangerdaiGoGoGo.md) — Peer community in EP255 where factory second-generation successors compare return-to-family-business pain, public visibility, and learning needs.
+- [Putian / 莆田](entities/Putian.md) — Fujian footwear-manufacturing setting for EP255's Wote succession case.
+- [Foshan / 佛山](entities/Foshan.md) — Guangdong manufacturing-city setting for EP255's Fadior and Shunde family-business succession case.
 - [文淇 / Wen Qi](entities/WenQi.md) — Actor and EP254 host whose stories connect 《我许可》 to menarche, body confidence, people-pleasing, online women-to-women recognition, and self-permission.
 - [游晓颖 / You Xiaoying](entities/YouXiaoying.md) — Screenwriter of 《我许可》 in EP254, linking self-permission to body acceptance, gynecological dignity, driving, accounting, and authorship-credit boundaries.
 - [杜素娟 / Du Sujuan](entities/DuSujuan.md) — Literature teacher in EP254 reading 《我许可》 through three generations of women, menstrual shame, medical dignity, appearance anxiety, and mother-daughter mirroring.
@@ -5488,6 +5499,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Factory Second Generation / 厂二代](concepts/FactorySecondGeneration.md) — EP255 concept for children of Chinese family-business founders who inherit factories, brands, operating systems, and unfinished market transitions rather than only wealth.
+- [Chinese Family Business Succession / 中国家族企业接班](concepts/ChineseFamilyBusinessSuccession.md) — EP255 frame for reform-era private firms entering a concentrated founder-to-child handoff with limited domestic multigenerational precedent.
+- [Second-Generation Business Entry Routes / 二代接班切入路径](concepts/SecondGenerationBusinessEntryRoutes.md) — EP255 framework for successors entering through new business, digital/intelligent transformation, and foreign trade or overseas expansion.
+- [Manufacturing Sales Shift / 制造业销售重心转移](concepts/ManufacturingSalesShift.md) — EP255 diagnosis that many manufacturers now compete around sales, channel, brand, attention, inventory, and consumer trust as much as production.
+- [Tacit Management Knowledge / 默会知识](concepts/TacitManagementKnowledge.md) — EP255 concept for practice-based management judgment that successors cannot learn only from formal education.
+- [Succession as Continuous Entrepreneurship / 接班即持续创业](concepts/SuccessionAsContinuousEntrepreneurship.md) — EP255 reframing of inheritance as rebuilding a company for changed markets rather than passively receiving finished assets.
+- [Gendered Family-Business Roles / 性别化家族企业分工](concepts/GenderedFamilyBusinessRoles.md) — EP255 pattern where women successors are more often placed in finance, sales, brand, and influence while men more often hold production, technology, or central heir roles.
+- [Factory-Second-Generation Personal IP / 厂二代个人IP](concepts/FactorySecondGenerationPersonalIP.md) — EP255 concept for successors using public accounts, short video, and factory stories to make traditional manufacturers visible.
+- [Family-Business Work-Life Boundary / 家族企业工作生活边界](concepts/FamilyBusinessWorkLifeBoundary.md) — EP255 generational boundary between founder identity fusion and successors' desire for governable firms, personal choice, and less permanent physical presence.
 - [Self-Permission / 自我许可](concepts/SelfPermission.md) — EP254 frame for treating one's body, feeling, need, ambition, and refusal as legitimate before external permission fully arrives.
 - [Gynecological Exam Dignity / 妇科检查尊严](concepts/GynecologicalExamDignity.md) — EP254 concept for intimate medical care that preserves explanation, consent, privacy, and patient dignity.
 - [Female Friendship Recognition / 女性友谊的看见](concepts/FemaleFriendshipRecognition.md) — EP254 frame for women friends, film figures, and online commenters helping women name shared experience.

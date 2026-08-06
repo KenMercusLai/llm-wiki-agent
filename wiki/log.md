@@ -6497,3 +6497,11 @@ Added source page for a Talk三联 episode with 文淇, 游晓颖, and 杜素娟
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？
+
+Added source page for a Talk三联 episode with 高一丁, 李小杰, and 魏茜 on factory second-generation succession, Chinese private manufacturing, family-business handoff, Fadior, Wote shoes, Malawangzi, personal IP, Changjiang Business School training, tacit management knowledge, and succession as continuous entrepreneurship. Created pages for 法迪奥, 沃特鞋企, 麻辣王子, 沈真文, 范鑫宇, 长江商学院, 接力长江, 厂二代GoGoGo, Putian, Foshan, Factory Second Generation, Chinese Family Business Succession, Second-Generation Business Entry Routes, Manufacturing Sales Shift, Tacit Management Knowledge, Succession as Continuous Entrepreneurship, Gendered Family-Business Roles, Factory-Second-Generation Personal IP, and Family-Business Work-Life Boundary; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 李小杰, 魏茜, Shunde, Fujian, Anta Sports, Family Business Scaling, Family Business Succession Opacity, Founder Succession, Process Knowledge, Story Led Consumer Branding, Digital Commerce Literacy, Consumer Brand Moat, Founder Work Boundaries, and Global Product Localization. No direct contradiction found; the source extends the wiki's family-business and manufacturing branches by treating inheritance as an operating, market, and identity transition rather than passive asset transfer.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

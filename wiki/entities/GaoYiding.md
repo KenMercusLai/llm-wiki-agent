@@ -2,11 +2,13 @@
 title: "高一丁 / Gao Yiding"
 type: entity
 tags: [person, host, podcast, technology, games, science, physics]
-sources: [ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+sources: [ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw, ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo, ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
 last_updated: 2026-08-07
 ---
 
 # 高一丁 / Gao Yiding
+
+[[ep255-chang-erdai-de-jicheng-zhi-zhan-nianqingren-jieban-hui-chongsu-qiye-ma-likvzmpgwxnetpaezxclsx4s-hkw]] adds Gao's host/editor role in a [[FactorySecondGeneration|厂二代]] succession episode. He frames the conversation around why family-business handoff is more than a "富二代" story, then helps connect [[Fadior|法迪奥]], [[WoteShoes|沃特鞋企]], [[Malawangzi|麻辣王子]], and peer communities to [[ChineseFamilyBusinessSuccession|Chinese family business succession]] and [[SuccessionAsContinuousEntrepreneurship|continuous entrepreneurship]].
 
 Gao Yiding hosts [[ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo]], where he talks with [[MiaoQian|苗千]] about Chinese [[BigScienceInfrastructure|大科学基础设施]]. His role is to ask why ordinary listeners should care about high-altitude, underground, and radio-quiet scientific sites, then keep the conversation grounded in [[WeakSignalDetection|weak-signal detection]], [[ExtremeEnvironmentPhysics|extreme environments]], and public spending arguments.
 
@@ -20,6 +22,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 
 ## Connections
 - [[TalkSanlian]] — show context.
+- [[LiXiaojie]], [[WeiQianSanlian]], [[FactorySecondGeneration]], [[ChineseFamilyBusinessSuccession]], and [[SuccessionAsContinuousEntrepreneurship]] — EP255 factory-succession discussion.
 - [[MiaoQian]], [[AliPrimordialGravitationalWaveObservatory]], [[JiangmenUndergroundNeutrinoObservatory]], [[ChinaSpallationNeutronSource]], [[FAST]], and [[BigScienceInfrastructure]] — EP248 big-science branch.
 - [[WuJunIndieGameCreator]], [[WangYiranSanlian]], [[IndieGameCommercialization]], and [[SkillBasedSideIncome]] — EP242 independent-game and side-income branch.
 - [[ZhangCongzhi]] — guest and reporter.
