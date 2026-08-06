@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP253 爆火的AI好物，到底是“真香”还是智商税？](sources/ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4.md) — Talk三联 episode on consumer AI hardware, covering AI glasses, AI toys, Huaqiangbei solution providers, vertical sports and cleaning robots, AI appliances, and privacy tradeoffs.
 - [EP252 《太平年》之外的五代十国，什么样？](sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh.md) — Talk三联 episode with 王洪杰 on 《太平年》, 五代十国概念形成, 唐宋转型, 十国关系类型, southern stability, social mobility, military/literati coexistence, succession, adoptive-son ties, and women.
 - [EP251 伊朗困局：四十年战略选择的代价与现实](sources/ep251-yilang-kunju-sishinian-zhanlue-xuanze-de-daijia-yu-xianshi-lp8vyonyugtd2ozymgof-mim9zkd.md) — Talk三联 episode with 程静 and 刘仪 on the renewed U.S.-Israel-Iran war, Iran nuclear/missile bargaining, horizontal escalation through energy, insurance, Hormuz, Gulf confidence, resistance-axis backfire, and regime-base fiscal stabilization.
 - [EP250 走进山野，顺流而上：寻找户外运动中的心流时刻](sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo.md) — Talk三联 episode with 张时 and 阿蒙 on outdoor flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor participants, and nature as body-mind reintegration.
@@ -810,6 +811,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ropet](entities/Ropet.md) — AI companion toy in EP253 illustrating the nonverbal pet-like route for emotional hardware.
+- [福仔 / Fuzai AI Toy](entities/FuzaiAIToy.md) — Speech-centered AI toy in EP253 used to contrast talking and non-talking companion design.
+- [小智AI / Xiaozhi AI](entities/XiaozhiAI.md) — Open-source AI hardware project named as one trigger for Huaqiangbei AI-hardware experimentation.
+- [千问眼镜 / Qwen Smart Glasses](entities/QwenSmartGlasses.md) — AI glasses example in EP253 where location plus image context improves place recognition.
+- [AWE China / 中国家电及消费电子博览会](entities/AWEChina.md) — Appliance and consumer-electronics expo used in EP253 to discuss uneven AI home-appliance labeling.
 - [王洪杰 / Wang Hongjie](entities/WangHongjie.md) — Historian explaining 五代十国 through 唐宋转型, regime classification, people-centered narrative, and social history.
 - [《太平年》](entities/Taipingnian.md) — Historical TV drama used as Talk三联's entry point into 五代十国 and the 吴越 perspective.
 - [五代十国 / Five Dynasties and Ten Kingdoms](entities/FiveDynastiesTenKingdoms.md) — Transitional period between late Tang collapse and Northern Song consolidation, read as institutional, regional, and social recomposition.
@@ -5477,6 +5483,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Consumer AI Hardware Product Fit / 消费级AI硬件产品适配](concepts/ConsumerAIHardwareProductFit.md) — EP253 frame for separating useful consumer AI devices from gimmicks by task, feedback, form factor, and user value.
+- [AI Glasses Product Fit / AI眼镜产品适配](concepts/AIGlassesProductFit.md) — EP253 concept for judging AI glasses as translation, meeting, recording, prompting, and recognition wearables rather than full AR platforms.
+- [AI Toy Companionship / AI玩具陪伴](concepts/AIToyCompanionship.md) — EP253 branch of AI friend products focused on toys, memory, speech restraint, child companionship, and dependence risk.
+- [Huaqiangbei AI Solution Providers / 华强北AI方案商](concepts/HuaqiangbeiAISolutionProviders.md) — EP253 concept for Shenzhen solution providers that connect model software, boards, shells, founders, and market judgment.
+- [AI Hardware Privacy Exchange / AI硬件隐私交换](concepts/AIHardwarePrivacyExchange.md) — EP253 frame for privacy tradeoffs around AI glasses, smart beds, sports devices, cameras, microphones, edge processing, and cloud uploads.
 - [唐宋转型 / Tang-Song Transition](concepts/TangSongTransition.md) — Frame that treats 五代十国 as the transformation layer between Tang collapse and Song consolidation.
 - [五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation](concepts/FiveDynastiesTenKingdomsConceptFormation.md) — How later Song historiography and political vision stabilized "十国" as a canonical category.
 - [十国关系类型 / Ten Kingdoms Relationship Types](concepts/TenKingdomsRelationshipTypes.md) — Wang Hongjie's classification of local regimes as parallel, investiture-accommodating, participatory, or distant/flexible.
