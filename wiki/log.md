@@ -6457,3 +6457,11 @@ Added source page for a Talk三联 episode with 吴淑冰, 张从志, and 蔡小
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | EP250 走进山野，顺流而上：寻找户外运动中的心流时刻
+
+Added source page for a Talk三联 episode with 张时 and 阿蒙 on outdoor sport, flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor visibility, and body-mind reintegration through nature. Created pages for 张时, 阿蒙, 《顺流而上》, 杨小华, 始祖鸟山地课堂, Outdoor Flow State, Trail Running Entry Risk, Outdoor Safety Preparation, Rock Climbing Failure Practice, Women Outdoor Visibility, and Outdoor Body-Mind Reintegration; updated overview, index, Talk三联, 三联生活周刊, Flow Environment Design, Embodied Judgment, Trained Intuition, Extreme Environment Risk Management, Sports Lifestyle Consumption, Urban Niche Sports, Nature Contact And Self-Perception, and Female Self-Possession. No direct contradiction found; the source extends the wiki's sports branch from city-access niche sports into mountain and wilderness practice while qualifying outdoor-flow enthusiasm with safety preparation, ability judgment, and non-forced immersion.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

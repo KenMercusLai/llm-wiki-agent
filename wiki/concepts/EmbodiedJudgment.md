@@ -2,8 +2,8 @@
 title: "Embodied Judgment"
 type: concept
 tags: [decision-making, body, psychology]
-sources: [e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]
-last_updated: 2026-07-08
+sources: [ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo, e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]
+last_updated: 2026-08-07
 ---
 
 # Embodied Judgment
@@ -14,6 +14,8 @@ The concept does not make the body infallible. The source repeatedly shows that 
 
 [[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]] adds a quieter field-observation version through [[RenNing]]. [[BirdwatchingAsAttention]] depends on hearing, sight, patience, cold, wind, light, photos, memory, and repeated comparison; the episode's point is that field knowledge is partly bodily and cannot be fully replaced by images or summaries.
 
+[[ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo]] adds an outdoor-sports version through [[ZhangShi|张时]] and [[Amon|阿蒙]]. Trail running and climbing make breath, fear, cold, altitude, clothing, falling, and fatigue into practical information: the body helps produce [[OutdoorFlowState|flow]], but also warns when [[OutdoorSafetyPreparation|safety preparation]] and retreat matter more than completion.
+
 ## Key Claims
 - Emotion and body signal can be information, not merely irrational interference.
 - Physical environment changes perception: desert, mountain, sea, city, and algorithmic media produce different attentional patterns.
@@ -22,6 +24,7 @@ The concept does not make the body infallible. The source repeatedly shows that 
 - Extreme cases reveal ordinary truths: all thinking rests on physiological conditions.
 - A person who listens only to verbal self-explanation may miss important evidence from action, sensation, and repeated behavior.
 - Natural observation can train embodied judgment by making hearing, movement, discomfort, distance, weather, and waiting part of knowing.
+- Outdoor sport adds that the same body signals can support performance, enjoyment, and risk control when interpreted through training and equipment knowledge.
 
 ## Connections
 - [[TrainedIntuition]] — embodied judgment becomes useful through training and feedback.
@@ -31,3 +34,4 @@ The concept does not make the body infallible. The source repeatedly shows that 
 - [[FinancialFreedomVsLifestyleFreedom]] — the episode's safety discussion treats adaptive bodily capacity as part of freedom.
 - [[ActionDefinesIdentity]] — body-involved choices reveal identity more than abstract claims.
 - [[BirdwatchingAsAttention]] and [[NatureWriting]] — quiet observational cases added by the Ren Ning episode.
+- [[OutdoorFlowState]], [[OutdoorSafetyPreparation]], [[TrailRunningEntryRisk]], and [[RockClimbingFailurePractice]] - EP250 outdoor-sports extension.

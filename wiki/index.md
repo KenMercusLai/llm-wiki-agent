@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP250 走进山野，顺流而上：寻找户外运动中的心流时刻](sources/ep250-zoujin-shanye-shunliu-ershang-xunzhao-huwai-yundong-zhong-de-xinliu-shike-lpv4egumbxcjrxk3jypehyxcqfuo.md) — Talk三联 episode with 张时 and 阿蒙 on outdoor flow, trail running, rock climbing, hiking, skiing, mountain safety, women outdoor participants, and nature as body-mind reintegration.
 - [EP249 闽南古城游神记：传统仪式背后的乡土网络](sources/ep249-minnan-gucheng-youshenji-chuantong-yishi-beihou-de-xiangtu-wangluo-lpk1vb9-zmgmuous1nyzefgapgww.md) — Talk三联 episode with 吴淑冰, 张从志, and 蔡小川 on 永宁古城 ritual networks, deity processions, ancestor worship, 鸡童/乩童, lineage politics, ritual tourism, gendered participation, and succession pressure.
 - [EP248 在高原与地下，探寻中国“大科学项目”](sources/ep248-zai-gaoyuan-yu-dixia-tanxun-zhongguo-da-kexue-xiangmu-lidn7xxkcw4-66fw-y50fqqacwo.md) — Talk三联 episode with 高一丁 and 苗千 on Chinese big-science projects, covering Ali CMB/primordial gravitational waves, Jiangmen neutrinos, Dongguan spallation neutrons, FAST, weak-signal detection, extreme environments, international collaboration, and technology spillovers.
 - [EP247 重启人生：当农村中年女性开始“做主播”](sources/ep247-chongqi-rensheng-dang-nongcun-zhongnian-nvxing-kaishi-zuo-zhubo-loz8q4e-2azwdzuqzxaj9b4i5dwj.md) — Talk三联 episode with 魏茜 and 曾欣 on rural middle-aged women becoming livestreamers, covering visibility, family resistance, persona labor, platform feedback, compressed modernity, and county platform work.
@@ -807,6 +808,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张时 / Zhang Shi](entities/ZhangShi.md) — Talk三联 EP250 speaker using trail running, breath, wrong turns, equipment, and self-paced challenge to frame outdoor flow and safety judgment.
+- [阿蒙 / Amon](entities/Amon.md) — Outdoor-sports speaker in EP250 grounding climbing, skiing, breath control, fear, failure, women climbers, and controlled-risk practice.
+- [《顺流而上》 / Upstream Documentary](entities/ShunliuErshangDocumentary.md) — Outdoor-sports documentary referenced in EP250 to frame long-term inner direction, skiing practice, and women athlete visibility.
+- [杨小华 / Yang Xiaohua (Skier)](entities/YangXiaohuaSkier.md) — Skier discussed through 《顺流而上》 in EP250 as a case for long-term outdoor practice without forcing daily peak experience.
+- [始祖鸟山地课堂 / Arcteryx Mountain Classroom](entities/ArcteryxMountainClassroom.md) — Outdoor training context in EP250 for flow theory, mountain goals, women runners, layered clothing, and safety equipment details.
 - [蔡小川 / Cai Xiaochuan](entities/CaiXiaochuan.md) — Sanlian photographer and Talk三联 guest in EP249 whose field observations ground Yongning ritual scenes, sensory immersion, gendered ritual participation, and lineage belonging.
 - [永宁古城 / Yongning Ancient City](entities/YongningAncientCity.md) — Minnan ancient-city case in EP249, used to connect Ming guard-settlement history, multi-surname lineage density, temples, ancestral halls, 城隍 worship, and ritual succession.
 - [苗千 / Miao Qian](entities/MiaoQian.md) — Sanlian reporter and Talk三联 guest translating Chinese big-science facilities into field-reporting scenes across Ali, Jiangmen, Dongguan, Guizhou, and Wuhan.
@@ -5447,6 +5453,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Outdoor Flow State / 户外心流](concepts/OutdoorFlowState.md) — EP250 concept for flow as contingent immersion where breath, terrain, weather, skill, fear, and surprise make outdoor sport more than performance success.
+- [Trail Running Entry Risk / 越野跑低入口高风险](concepts/TrailRunningEntryRisk.md) — EP250 warning that running seems easy to enter while mountain routes require navigation, light, warmth, water, signal, and conservative goals.
+- [Outdoor Safety Preparation / 户外安全准备](concepts/OutdoorSafetyPreparation.md) — EP250 safety frame for layered clothing, tested equipment, headlamps, GPS, helmet details, route judgment, and stopping before conditions deteriorate.
+- [Rock Climbing Failure Practice / 攀岩失败练习](concepts/RockClimbingFailurePractice.md) — EP250 concept for climbing as repeated controlled failure where breath, fear, falling, frustration, and route attempts train embodied judgment.
+- [Women Outdoor Visibility / 女性户外可见度](concepts/WomenOutdoorVisibility.md) — EP250 frame for women trail runners, climbers, and skiers as ordinary capable outdoor participants whose visibility and voice have often lagged presence.
+- [Outdoor Body-Mind Reintegration / 户外身心重新合场](concepts/OutdoorBodyMindReintegration.md) — EP250 account of mountains, breath, phone absence, sleep rhythm, fatigue, and natural limits repairing urban body-mind separation.
 - [Minnan Ritual Network / 闽南仪式网络](concepts/MinnanRitualNetwork.md) — EP249 model for deity processions, ancestor worship, lineage halls, temple committees, donations, routes, and local belonging as one working social system.
 - [Jitong Spirit Medium / 鸡童（乩童）](concepts/JitongSpiritMedium.md) — EP249 concept for the spirit-medium role that makes deity-human communication bodily, contested, and difficult to officialize as cultural tourism.
 - [Ritual Tourism Authenticity Tension / 仪式文旅真实性张力](concepts/RitualTourismAuthenticityTension.md) — EP249 tension between displaying folk ritual as heritage for outsiders and performing it as effective local deity/lineage practice.
