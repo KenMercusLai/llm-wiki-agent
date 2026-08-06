@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-07] ingest | EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？
+
+Added source page for a Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on "请3休13", vacation shame, work-rest boundaries, long-holiday recovery, Canada as a long-vacation case, nature-city proximity, travel sensory recovery, local-life travel, and the Walden/Odyssey rest metaphor. Created pages for 李菁, 颜飞 (sociologist), 雷涛/无二旅人, British Columbia, Vancouver, Banff National Park, Whistler, Quebec City, Halifax, Maud Lewis, Leonard Cohen, Vacation Shame, Work-Rest Boundary, Long Vacation Recovery, Travel Sensory Recovery, Local-Life Density Travel, Nature-City Proximity, and Walden Moment Against Odyssey Moment; updated overview, index, Talk三联, 三联生活周刊, Canada, Paid Vacation As Labor Right, Labor Moral Ambivalence, Good Work New Standard, Normal Work Baseline, Work Role Decentering, Not Working Ambivalence, Work Self-Worth Boundary, Workplace Pacing, Attention Fragmentation, Autonomy Under Information Flow, Screen Time Friction, Nature Contact And Self-Perception, Outdoor Body-Mind Reintegration, Travel Reading As Place Inquiry, Henry David Thoreau, and The Odyssey. No direct contradiction found; the source complements EP244 and EP257 by showing that workers need not only a tolerable job or possible exit, but also real temporary disconnection when they are officially on leave.
+
 ## [2026-08-07] ingest | EP252 《太平年》之外的五代十国，什么样？
 
 Added source page for a Talk三联 episode with 王洪杰 on 《太平年》 as an entry point to 五代十国, covering 唐宋转型, "十国" category formation, southern-regime relationship types, economic-cultural southward shift, social mobility, military/literati coexistence, succession crises, adoptive-son ties, women, everyday life, and historical memory. Created pages for 王洪杰, 《太平年》, 五代十国, 《新五代史》, 后梁, 后唐, 后晋, 后汉, 前蜀, 后蜀, 吴越, 南唐, 南汉, 荆南, 冯道, 黄巢, 王建, 李克用, 李存勖, 李嗣源, 石敬瑭, Tang-Song Transition, Five Dynasties Ten Kingdoms Concept Formation, Ten Kingdoms Relationship Types, Economic-Cultural Center Southward Shift, Southern Regime Stability in the Five Dynasties, Five Dynasties Social Mobility, Five Dynasties Military-Literati Coexistence, Five Dynasties Succession Crisis, Five Dynasties Adoptive-Son System, and Five Dynasties Women Agency; updated overview, index, Talk三联, 三联生活周刊, 欧阳修, 柴荣, 后周, 北宋, 先南后北, and Historical Memory Contest. No direct contradiction found; the source complements the existing Song founding cluster by pushing the explanatory frame backward into late Tang fragmentation, Five Dynasties politics, and southern-regime accumulation.
@@ -6348,7 +6352,7 @@ Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode 
 
 ## [2026-08-07] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-08-07] ingest | EP260 一口肥美脂肪，藏着中国养殖的新故事
 
@@ -6573,3 +6577,7 @@ Added source page for a Talk三联 episode with 高一丁, 艾江涛, 薄静, an
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

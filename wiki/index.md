@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？](sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb.md) — Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on vacation shame, work-rest boundaries, long-holiday recovery, Canada travel, sensory restoration, and local-life travel.
 - [EP264 踏访“唐诗之路”：盛唐气象少年心](sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi.md) — Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 唐诗之路, reading Wang Wei/Chang'an, Meng Haoran/Zhejiang, and Cen Shen/frontier poetry through cultural geography, field reporting, archaeology, and AI hallucination risk.
 - [EP263 线香崛起：发现中式香气的魅力](sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv.md) — Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory.
 - [EP262 高考过后，知识“归零”：我们需要怎样的科学教育？](sources/ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r.md) — Talk三联 episode with 高一丁, 魏茜, and 王依然 on science education after gaokao, scientific literacy for everyday judgment, big-concept teaching, project-based science learning, HPS, exam pressure, AI projects, and regional reform gaps.
@@ -822,6 +823,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李菁 / Li Jing (Sanlian)](entities/LiJingSanlian.md) — Talk三联 host framing EP265 from the "请3休13" holiday prompt toward rest, travel, and work-life questions.
+- [颜飞 / Yan Fei (sociologist)](entities/YanFeiSociologist.md) — Tsinghua sociologist in EP265 explaining vacation shame, long-holiday recovery, sensory restoration, and the Walden/Odyssey metaphor.
+- [雷涛 / 无二旅人 / Lei Tao](entities/LeiTao.md) — Travel columnist and long-term traveler grounding EP265's Canada routes, local-life travel, and sensory vacation examples.
+- [British Columbia / 加拿大BC省](entities/BritishColumbia.md) — Canada travel region in EP265 connecting Vancouver, Whistler, ferries, parks, food routes, and mountain access.
+- [Vancouver / 温哥华](entities/Vancouver.md) — EP265 city case for nature-city proximity through parks, sea, food tours, ferry routes, and access to British Columbia travel.
+- [Banff National Park / 班夫](entities/BanffNationalPark.md) — EP265 mountain and forest destination used to show travel sensory recovery in Canada's Rockies.
+- [Whistler / 惠斯勒](entities/Whistler.md) — EP265 mountain-town route extension from Vancouver along the Sea to Sky corridor.
+- [Quebec City / 魁北克城](entities/QuebecCity.md) — EP265 Canada destination linking old-city texture, maple-syrup experience, nearby nature, and wartime historical traces.
+- [Halifax / 哈利法克斯](entities/Halifax.md) — EP265 Canada destination connecting Maud Lewis, maritime history, Titanic rescue memory, and place inquiry.
+- [Maud Lewis / 莫娣](entities/MaudLewis.md) — Canadian artist used in EP265 as a cultural entry point into Halifax and Canada travel.
+- [Leonard Cohen / 莱昂纳德·科恩](entities/LeonardCohen.md) — Canadian poet-musician used in EP265 as a cultural and emotional entry point into Canada.
 - [艾江涛 / Ai Jiangtao](entities/AiJiangtao.md) — Sanlian reporter explaining the Chang'an and Wang Wei branch of the Tang Poetry Road episode.
 - [薄静 / Bo Jing](entities/BoJingSanlianCulture.md) — Sanlian reporter explaining the eastern Zhejiang and Meng Haoran branch; kept separate from 博靖 / Bo Jing because the source uses different Chinese characters.
 - [王维 / Wang Wei](entities/WangWei.md) — Tang poet read through Chang'an social poetry, Buddhist public spaces, and Wangchuan landscape practice.
@@ -5558,6 +5570,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vacation Shame / 休假羞耻感](concepts/VacationShame.md) — EP265 frame for guilt or unease around taking leave despite wanting rest.
+- [Work-Rest Boundary / 工作休假边界](concepts/WorkRestBoundary.md) — EP265 concept that vacation becomes rest only when workplace communication, handoff, and availability boundaries hold.
+- [Long Vacation Recovery / 长假恢复](concepts/LongVacationRecovery.md) — EP265 recovery-curve idea that longer holidays may be needed before the body and attention loosen from work mode.
+- [Travel Sensory Recovery / 旅行中的感受力恢复](concepts/TravelSensoryRecovery.md) — EP265 account of travel restoring direct perception through nature, food, art, walking, and local place contact.
+- [Local-Life Density Travel / 生活密度旅行](concepts/LocalLifeDensityTravel.md) — EP265 alternative to packed sightseeing, emphasizing markets, libraries, neighborhoods, food, conversation, and local rhythms.
+- [Nature-City Proximity / 城市自然邻近](concepts/NatureCityProximity.md) — EP265 travel-design pattern where city life and natural immersion are close enough to share one vacation rhythm.
+- [Walden Moment Against Odyssey Moment / 用瓦尔登湖时刻消解奥德赛时刻](concepts/WaldenMomentAgainstOdysseyMoment.md) — EP265 life-design metaphor for using protected pause and perception to interrupt accelerated searching.
 - [唐诗之路 / Tang Poetry Road](concepts/TangPoetryRoad.md) — Route frame for reading Tang poetry through Chang'an, eastern Zhejiang, and western-frontier spaces rather than only through isolated famous lines.
 - [唐诗文化地理 / Tang Poetry Cultural Geography](concepts/TangPoetryCulturalGeography.md) — Method for connecting Tang poems to sites, institutions, routes, ruins, documents, and uncertainty labels.
 - [京城诗社交性 / Capital Poetry Sociality](concepts/CapitalPoetrySociality.md) — Frame for poems produced through capital courts, princely mansions, banquets, send-offs, exams, and reputation exchange.
