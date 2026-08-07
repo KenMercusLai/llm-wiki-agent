@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Our BOOK vs. the global supply chain](sources/our-book-vs-the-global-supply-chain.md) — Planet Money episode following its own book through physical design, production tradeoffs, printer selection, EU forest-compliance rules, domestic printing, quality control, and reprint flexibility.
 - [EP267 踏访湄公河：雨季、婚飞蚁与水利帝国](sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk.md) — Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, Angkor, Tonle Sap, monsoon seasonality, hydraulic empire, and Mekong Delta climate vulnerability.
 - [EP266 当AI重构大学，我们该如何定义“好专业”？](sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd.md) — Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice, hollowed foundational training, new engineering education, medical AI education, AI for Science talent, T-shaped capability, and university resource inequality.
 - [EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？](sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb.md) — Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on vacation shame, work-rest boundaries, long-holiday recovery, Canada travel, sensory restoration, and local-life travel.
@@ -2055,10 +2056,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Maiassi](entities/AlexMaiassi.md) — Writer who helped convert the Planet Money book idea into sample writing, chapter structure, and a sellable proposal.
 - [Tom Mayer](entities/TomMayer.md) — W. W. Norton editor modeling sales, advance risk, and publisher fit for the Planet Money book auction.
 - [W. W. Norton & Company](entities/WWNorton.md) — Employee-owned publisher that won the Planet Money book through editorial fit, full-color plans, and educational distribution.
+- [Julia Druskin](entities/JuliaDruskin.md) — W. W. Norton trade production director whose decisions ground scratch-and-sniff feasibility, printer selection, EU paper compliance, and press quality control.
+- [Mito Habe Evans](entities/MitoHabeEvans.md) — NPR creative director helping the Planet Money book convert playful design ambition into manufacturable four-color illustration.
+- [Lakeside Book Company](entities/LakesideBookCompany.md) — Domestic printer used by the Planet Money book source to show plates, CMYK printing, signatures, binding, quality checks, and fast reprints.
 - [Fisher Nash](entities/FisherNash.md) — Carmichael's book buyer whose ordering workflow grounds bookstore buying, shelf visibility, returnability, and comparable-sales judgment.
 - [Carmichael's Bookstore](entities/CarmichaelsBookstore.md) — Louisville independent bookstore used by Planet Money to show how shelf space, display tables, and local readers shape book orders.
 - [Stephen Pace](entities/StephenPace.md) — W. W. Norton trade sales director modeling demand, first print runs, returns, remaindering, and broad channel distribution for the Planet Money book.
-- [Planet Money Book](entities/PlanetMoneyBook.md) — Planet Money's own book project, followed from auction and Norton acquisition into bookstore ordering, print-run strategy, and launch-day placement.
+- [Planet Money Book](entities/PlanetMoneyBook.md) — Planet Money's own book project, followed from auction and Norton acquisition into physical manufacturing, bookstore ordering, print-run strategy, and launch-day placement.
 - [McNally Jackson](entities/McNallyJackson.md) — New York independent bookstore used as the launch-day contrast for how category placement and window display shape book visibility.
 - [Barcelos](entities/Barcelos.md) — Remote Brazilian Rio Negro town whose ornamental-fish economy and Cardinal Tetra civic identity are giving way to sport-fishing tourism.
 - [Rio Negro](entities/RioNegro.md) — Amazon river setting whose dark acidic water created the Cardinal Tetra niche around Barcelos.
@@ -6657,7 +6661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Average](concepts/GeneralAverage.md) — Maritime-law risk-sharing principle that can make cargo owners liable for ship or voyage-saving costs.
 - [Freedom of Navigation Trade Order](concepts/FreedomOfNavigationTradeOrder.md) — Trade-order assumption that commercial vessels can use key sea lanes without coercive ad hoc permission.
 - [Sanctions Evasion Crypto Payments](concepts/SanctionsEvasionCryptoPayments.md) — Use of crypto rails for payments that may be difficult inside ordinary bank and dollar-sanctions channels.
-- [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired financial bet through agents, proposals, rights, advances, risk models, and distribution.
+- [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired, manufactured, distributed, and ranked financial bet.
 - [Literary Agent Market Making](concepts/LiteraryAgentMarketMaking.md) — Agent work that packages a book project, creates publisher access, seeds demand, and runs a competitive sale.
 - [Book Proposal As Sales Document](concepts/BookProposalAsSalesDocument.md) — Nonfiction proposal as both creative blueprint and business case before a book exists.
 - [Publishing Auction Design](concepts/PublishingAuctionDesign.md) — Choice of bidding format, information flow, rounds, and qualitative fit criteria in a multi-publisher book sale.
@@ -6666,9 +6670,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Author Platform Risk Reduction](concepts/AuthorPlatformRiskReduction.md) — Publishing logic where a known audience and prior purchase behavior reduce acquisition uncertainty.
 - [Winner's Curse](concepts/WinnerCurse.md) — Auction risk that the winning bidder overpaid because valuation was uncertain and competitive pressure was high.
 - [Educational Distribution Strategy](concepts/EducationalDistributionStrategy.md) — Publisher plan to route a book through courseware, syllabi, and classroom use as part of its commercial fit.
+- [Book Manufacturing Supply Chain](concepts/BookManufacturingSupplyChain.md) — Physical and logistical system turning a manuscript and design file into printed, checked, bound, boxed, and replenishable books.
+- [Physical Book Design Tradeoff](concepts/PhysicalBookDesignTradeoff.md) — Constraint pattern where book format, retail price, reader experience, printer capability, and schedule shape one another.
+- [Printing Signature Constraint](concepts/PrintingSignatureConstraint.md) — Production rule where books are printed in multi-page sections, making special pages, inserts, and page counts less flexible than they appear.
+- [Book Printer Selection Risk](concepts/BookPrinterSelectionRisk.md) — Publisher decision problem balancing printer cost, schedule, quality, censorship risk, tariffs, compliance, shipping, and reprint speed.
+- [European Deforestation Regulation Supply Chain](concepts/EuropeanDeforestationRegulationSupplyChain.md) — Publishing compliance issue where paper origin and forest-linked commodity data can reshape book printer selection.
+- [Domestic Book Printing Flexibility](concepts/DomesticBookPrintingFlexibility.md) — Advantage of printing close to market through easier inspection, lower transit uncertainty, faster replenishment, and reduced overseas policy exposure.
 - [Bookstore Buying](concepts/BookstoreBuying.md) — Retail gatekeeping process that decides whether a new book enters a store, how many copies it gets, and where customers encounter it.
 - [Book Returnability](concepts/BookReturnability.md) — Publishing inventory model that lets bookstores return unsold books while pushing major downstream risk back to publishers.
-- [Book Print-Run Strategy](concepts/BookPrintRunStrategy.md) — Publisher decision about how many copies to manufacture before demand is known, balancing stockouts against returns, remainders, and waste.
+- [Book Print-Run Strategy](concepts/BookPrintRunStrategy.md) — Publisher decision about how many copies to manufacture and how fast to replenish before demand is known, balancing stockouts against returns, remainders, and waste.
 - [Piabero Economy](concepts/PiaberoEconomy.md) — Barcelos wild ornamental-fish livelihood system linking local fishers, brokers, exporters, civic identity, and global aquarium demand.
 - [Sustainable Wild Harvesting](concepts/SustainableWildHarvesting.md) — Conservation-economics frame where bounded wild harvest can protect habitat when local livelihood depends on intact ecosystems.
 - [Local Product Advantage Erosion](concepts/LocalProductAdvantageErosion.md) — Pattern where a place loses market control once outsiders reproduce a formerly local product elsewhere.

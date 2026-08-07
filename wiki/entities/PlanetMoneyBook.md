@@ -2,11 +2,13 @@
 title: "Planet Money Book"
 type: entity
 tags: [book, publishing, media, economics]
-sources: [how-to-make-a-book-into-a-bestseller, live-anthropic-co-founder-on-ai-and-jobs, inside-a-book-auction, bookstore-economics]
-last_updated: 2026-07-24
+sources: [our-book-vs-the-global-supply-chain, how-to-make-a-book-into-a-bestseller, live-anthropic-co-founder-on-ai-and-jobs, inside-a-book-auction, bookstore-economics]
+last_updated: 2026-08-07
 ---
 
 # Planet Money Book
+
+[[our-book-vs-the-global-supply-chain]] adds the manufacturing layer between acquisition and launch. The source follows the book through physical design, a $30 retail-price target, 16-page printing signatures, scratch-and-sniff rejection, four-color illustration, printer-country selection, [[EuropeanDeforestationRegulationSupplyChain|EU deforestation compliance]], and final domestic production at [[LakesideBookCompany]].
 
 [[how-to-make-a-book-into-a-bestseller]] extends the book from retail launch into bestseller-list economics. The source follows the [[PlanetMoneyBook]] through [[PreOrderLaunchConcentration]], live-event book bundles, publicity, early poster-related review damage, and eventual placement at number three on the [[NewYorkTimesBestsellerList|New York Times bestseller list]] for both hardcover nonfiction and combined print/e-book nonfiction.
 
@@ -20,12 +22,14 @@ The book's wiki value is that it turns [[PlanetMoney]] itself into the market ob
 - [[AuthorPlatformRiskReduction]] helped the book at acquisition because Planet Money already had listeners and a history of sold participatory products.
 - At [[CarmichaelsBookstore|Carmichael's Bookstore]], the same platform logic helped justify display-level and later larger orders.
 - [[StephenPace]] treats the book as one of Norton's major 2026 advances and models distribution broadly across retail, institutional, international, and translation channels.
+- [[PhysicalBookDesignTradeoff]] shaped the object before launch: playful extras had to be cut or redesigned when they threatened price, production, or schedule.
+- [[BookPrinterSelectionRisk]] made the book a supply-chain decision involving China, Malaysia, Turkey, U.S. printing, tariffs, forest-compliance documentation, shipping time, and fast reprint capacity.
 - Launch-day observation at [[McNallyJackson]] shows that even after a successful acquisition and distribution push, actual discovery still varies by store placement.
 - Bestseller placement shows how launch-week sales can become a [[BestsellerStatusFeedbackLoop]] if the label creates more shelf placement, advertising value, and account attention.
 - The poster issue makes the launch a small [[ProductLaunchUnderConstraint]] case: a promotional incentive meant to increase pre-orders briefly damaged early reader perception.
 
 ## Connections
-- [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexiHorowitzGhazi]], [[TomMayer]], [[StephenPace]], and [[RachelSalzman]] - people and institutions around the book.
+- [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexiHorowitzGhazi]], [[AlexMaiassi]], [[TomMayer]], [[JuliaDruskin]], [[MitoHabeEvans]], [[StephenPace]], and [[RachelSalzman]] - people and institutions around the book.
 - [[JackClark]], [[DarylFairweather]], and [[RajChetty]] - live-tour interview branch added by Planet Money.
-- [[WWNorton|W. W. Norton]], [[NewYorkTimes]], [[CarmichaelsBookstore|Carmichael's Bookstore]], and [[McNallyJackson]] - publisher, ranking, and bookstore contexts.
-- [[BookPublishingEconomics]], [[AuthorPlatformRiskReduction]], [[BookstoreBuying]], [[BookReturnability]], [[BookPrintRunStrategy]], [[RetailShelfPlacement]], [[PreOrderLaunchConcentration]], and [[BestsellerStatusFeedbackLoop]] - concepts demonstrated by the book.
+- [[WWNorton|W. W. Norton]], [[LakesideBookCompany]], [[NewYorkTimes]], [[CarmichaelsBookstore|Carmichael's Bookstore]], and [[McNallyJackson]] - publisher, printer, ranking, and bookstore contexts.
+- [[BookPublishingEconomics]], [[BookManufacturingSupplyChain]], [[PhysicalBookDesignTradeoff]], [[PrintingSignatureConstraint]], [[BookPrinterSelectionRisk]], [[EuropeanDeforestationRegulationSupplyChain]], [[DomesticBookPrintingFlexibility]], [[AuthorPlatformRiskReduction]], [[BookstoreBuying]], [[BookReturnability]], [[BookPrintRunStrategy]], [[RetailShelfPlacement]], [[PreOrderLaunchConcentration]], and [[BestsellerStatusFeedbackLoop]] - concepts demonstrated by the book.

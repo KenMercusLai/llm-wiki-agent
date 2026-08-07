@@ -6597,3 +6597,11 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | Our BOOK vs. the global supply chain
+
+Added source page for a Planet Money episode on how the Planet Money book became a physical manufactured object: manuscript scheduling, $30 price discipline, format choices, 16-page printing signatures, scratch-and-sniff rejection, four-color illustration, China/Malaysia/Turkey/U.S. printer selection, EU deforestation-regulation paper data, tariff uncertainty, domestic printing at Lakeside Book Company, quality control, and fast reprint capacity. Created pages for Julia Druskin, Mito Habe Evans, Lakeside Book Company, Book Manufacturing Supply Chain, Physical Book Design Tradeoff, Printing Signature Constraint, Book Printer Selection Risk, European Deforestation Regulation Supply Chain, and Domestic Book Printing Flexibility; updated overview, index, NPR, Planet Money, Planet Money Book, Alexi Horowitz-Ghazi, Alex Goldmark, Alex Maiassi, Tom Mayer, W. W. Norton, Book Publishing Economics, Book Print-Run Strategy, and Parkinson's Law. No direct contradiction found; the source qualifies simple overseas-cheaper and print-run narratives by showing that price, compliance, logistics, quality checks, and replenishment speed are part of the same publishing economics.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
