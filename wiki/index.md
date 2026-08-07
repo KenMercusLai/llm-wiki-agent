@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP266 当AI重构大学，我们该如何定义“好专业”？](sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd.md) — Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice, hollowed foundational training, new engineering education, medical AI education, AI for Science talent, T-shaped capability, and university resource inequality.
 - [EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？](sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb.md) — Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on vacation shame, work-rest boundaries, long-holiday recovery, Canada travel, sensory restoration, and local-life travel.
 - [EP264 踏访“唐诗之路”：盛唐气象少年心](sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi.md) — Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 唐诗之路, reading Wang Wei/Chang'an, Meng Haoran/Zhejiang, and Cen Shen/frontier poetry through cultural geography, field reporting, archaeology, and AI hallucination risk.
 - [EP263 线香崛起：发现中式香气的魅力](sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv.md) — Talk三联 episode with 邱连, 薛鹏, and 吴立伟 on line incense becoming daily life, Chinese fragrance, ancient formula reconstruction, agarwood/qinan supply, scent storytelling, and fragrance as brand memory.
@@ -964,6 +965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Project One论坛](entities/ProjectOneForum.md) — Later form of the 66RPG community in EP242, representing the forum-to-commercialization maker path.
 - [米画师 / Mihuashi](entities/Mihuashi.md) — Art-commission platform named in EP242's discussion of original-character and game-art service markets.
 - [李小杰 / Li Xiaojie](entities/LiXiaojie.md) — Sanlian reporter in EP241 grounding elder-care vocational training; EP244 adds her reflections on journalist authority erosion, social reporting, and staying in media.
+- [黄子翊 / Huang Ziyi](entities/HuangZiyiEducationReporter.md) — Sanlian reporter in EP266 explaining AI-era software, engineering education, foundational training risk, new engineering, and T-shaped talent.
 - [Bosch / 博世](entities/Bosch.md) — Manufacturing company in EP241 representing the heavy-investment dual-system vocational-education model.
 - [Li Auto / 理想汽车](entities/LiAuto.md) — New-energy-vehicle company in EP241 tied to the Changzhou industrial-college case and maintenance career ladder.
 - [常州工业职业技术学院 / Changzhou Industrial Vocational Technical College](entities/ChangzhouIndustrialVocationalTechnicalCollege.md) — Vocational school in EP241 hosting Li Auto's industrial college inside Changzhou's new-energy cluster.
@@ -1282,6 +1284,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhang Qi / 张奇](entities/ZhangQi.md) — Fudan professor and MOSS lead interpreting DeepSeek, LLM limits, post-training, scenario-specific AI, and 2025 agents.
 - [Fudan University / 复旦大学](entities/FudanUniversity.md) — Academic institution behind Zhang Qi and MOSS in the vol.114 AI annual-review episode.
 - [MOSS](entities/MOSS.md) — Fudan-associated large-model project named through Zhang Qi's role in the vol.114 DeepSeek discussion.
+- [Zhejiang University / 浙江大学](entities/ZhejiangUniversity.md) — EP266 university example for medical AI education, engineering resources, AI-chemistry transfer, and AI-era opportunity density.
+- [Tianjin University / 天津大学](entities/TianjinUniversity.md) — EP266 university example for chemistry-AI teaching, AI for Science talent, and AI-era resource concentration.
 - [NAURA / 北方华创](entities/NAURA.md) — Chinese semiconductor-equipment company used as a concrete example of equipment localization and divergent technology routes.
 - [赵匡胤 / Song Taizu](entities/ZhaoKuangyin.md) — Northern Song founder read through Later Zhou military networks, Chenqiao coup packaging, disarmament, and institutional redesign.
 - [赵光义 / Song Taizong](entities/ZhaoGuangyi.md) — Zhao Kuangyin's brother and later emperor whose Chenqiao role becomes a source-criticism and succession-legitimacy issue.
@@ -5570,6 +5574,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 frame for choosing majors by durable foundations, real problem contact, AI collaboration, and transferable judgment rather than current heat.
+- [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
+- [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.
+- [Medical AI Education / 医学AI教育](concepts/MedicalAIEducation.md) — EP266 medical-teaching branch where AI supports case reasoning, simulation, process assessment, and error correction while doctors retain responsibility.
+- [AI For Science Talent / AI for Science人才](concepts/AIForScienceTalent.md) — EP266 basic-science talent pattern combining mathematics, chemistry, physics, computation, experiment, and AI-enabled discovery.
+- [T-Shaped AI Talent / AI时代T型人才](concepts/TShapedAITalent.md) — EP266 talent model combining deep domain grounding with cross-disciplinary AI and industry transfer.
 - [Vacation Shame / 休假羞耻感](concepts/VacationShame.md) — EP265 frame for guilt or unease around taking leave despite wanting rest.
 - [Work-Rest Boundary / 工作休假边界](concepts/WorkRestBoundary.md) — EP265 concept that vacation becomes rest only when workplace communication, handoff, and availability boundaries hold.
 - [Long Vacation Recovery / 长假恢复](concepts/LongVacationRecovery.md) — EP265 recovery-curve idea that longer holidays may be needed before the body and attention loosen from work mode.

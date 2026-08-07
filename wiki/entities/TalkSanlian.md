@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Talk三联
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the show's AI-era higher-education branch. With [[HuangZiyiEducationReporter|黄子翊]], [[WuShubin|吴淑彬]], and [[LiXiaojie|李小杰]], Talk三联 uses gaokao major choice to connect [[AIEraMajorChoice|AI时代专业选择]], [[AIHollowingFoundationalTraining|AI导致基础训练空心化]], [[NewEngineeringEducation|新工科教育]], [[MedicalAIEducation|医学AI教育]], [[AIForScienceTalent|AI for Science人才]], and [[TShapedAITalent|AI时代T型人才]].
+
 [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the show's vacation and Canada travel branch. With [[LiJingSanlian|李菁]], [[YanFeiSociologist|颜飞]], and [[LeiTao|雷涛 / 无二旅人]], Talk三联 connects viral "请3休13" holiday planning to [[VacationShame|休假羞耻感]], [[WorkRestBoundary|工作休假边界]], [[LongVacationRecovery|长假恢复]], [[TravelSensoryRecovery|旅行中的感受力恢复]], [[LocalLifeDensityTravel|生活密度旅行]], [[NatureCityProximity|城市自然邻近]], and [[Canada]] as a concrete long-holiday case.
 
 [[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds the show's Tang-poetry cultural-geography branch. With [[GaoYiding|高一丁]], [[AiJiangtao|艾江涛]], [[BoJingSanlianCulture|薄静]], and [[ZhangXingyun|张星云]], Talk三联 connects [[TangPoetryRoad|唐诗之路]], [[ChangAnTang|唐代长安]], [[WangWei|王维]], [[ZhedongTangPoetryRoad|浙东唐诗之路]], [[MengHaoran|孟浩然]], [[CenShen|岑参]], [[TangFrontierPoetryFieldExperience|边塞诗实地经验]], and [[HistoricalReportingAIHallucination|历史报道中的AI幻觉]].

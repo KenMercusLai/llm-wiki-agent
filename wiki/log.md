@@ -6354,6 +6354,10 @@ Added source page for a 起朱楼宴宾客 gaokao-season finance-career episode 
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-08-07] ingest | EP266 当AI重构大学，我们该如何定义“好专业”？
+
+Added source page for a Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice after gaokao. Created pages for 黄子翊, Zhejiang University, Tianjin University, AI-Era Major Choice, AI Hollowing Foundational Training, New Engineering Education, Medical AI Education, AI For Science Talent, and T-Shaped AI Talent; updated overview, index, Talk三联, 三联生活周刊, 吴淑彬, 李小杰, Fudan University, College Major Choice, College Career Preparation, AI Default Learning Environment, AI University Assessment Reform, AI As Tutor, AI Shortcut Risk, Entry-Level AI Career-Ladder Risk, AI For Science, University Opportunity Density, Learning How To Learn, AI Engineering Thinking, Human Judgment Under AI, and Domain Expert Alignment. No direct contradiction found; the source qualifies hot-major advice and AI-learning optimism by showing that AI both expands learning tools and threatens foundation-building when students skip the practice that later judgment depends on.
+
 ## [2026-08-07] ingest | EP260 一口肥美脂肪，藏着中国养殖的新故事
 
 Added source page for a Talk三联 "新特产" episode with 高一丁, 邱连, 黑麦, and 博靖 on rainbow trout, eel, and foie gras as high-value foods rebuilt through Chinese aquaculture, processing, labeling, welfare tradeoffs, and prepared product formats. Created pages for Rainbow Trout, Eel, Foie Gras, Guangdong, Longyangxia, Anhui, Chinese New Specialty Aquaculture, Salmon-Trout Label Transparency, Eel Seed Price Volatility, Foie Gras Welfare Tradeoff, and Prepared High-Value Food Formats; updated overview, index, Talk三联, 三联生活周刊, 高一丁, 邱连, 黑麦, 博靖, Shunde, Guangxi, Fujian, Aquaculture Feed Dependency, Food Animal Welfare, Livestock Care Economics, Animal Welfare Product Labeling, Restaurant Supply Chain Localization, Culinary Grammar, Material History Narrative, and Restaurant Cultural Legibility. No direct contradiction found; the source qualifies simple imported-versus-domestic and luxury-versus-substitute frames by making water, seedlings, feed, species labels, animal welfare, processing labor, and consumption format central to the food story.
@@ -6581,3 +6585,7 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against `graph/graph.json` built on 2026-07-24. Semantic lint API failed because `LLM_MODEL` is providerless for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities against the existing graph. Semantic lint API failed because `LLM_MODEL` is unset/providerless and no provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

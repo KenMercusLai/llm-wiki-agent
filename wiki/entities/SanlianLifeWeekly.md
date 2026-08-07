@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # 三联生活周刊 / Sanlian Life Weekly
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the magazine/show's AI-era university and major-choice reporting branch. Through [[HuangZiyiEducationReporter|黄子翊]], [[WuShubin|吴淑彬]], and [[LiXiaojie|李小杰]], the [[TalkSanlian|Talk三联]] discussion turns "AI时代的好专业" into a map of [[AIEraMajorChoice|AI-era major choice]], software foundation risk, [[NewEngineeringEducation|new engineering education]], [[MedicalAIEducation|medical AI education]], [[AIForScienceTalent|AI for Science talent]], and school resource inequality.
+
 [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the magazine/show's vacation, travel, and work-rest branch. Through [[LiJingSanlian|李菁]], [[YanFeiSociologist|颜飞]], and [[LeiTao|雷涛 / 无二旅人]], the [[TalkSanlian|Talk三联]] discussion turns "请3休13" from a holiday hack into a map of [[VacationShame|休假羞耻感]], [[WorkRestBoundary|工作休假边界]], [[LongVacationRecovery|长假恢复]], [[TravelSensoryRecovery|旅行中的感受力恢复]], [[LocalLifeDensityTravel|生活密度旅行]], and [[Canada]] as a long-holiday case.
 
 [[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds the magazine/show's Tang-poetry cultural-geography reporting branch. Through [[AiJiangtao|艾江涛]], [[BoJingSanlianCulture|薄静]], and [[ZhangXingyun|张星云]], the [[TalkSanlian|Talk三联]] discussion turns a cover report on [[TangPoetryRoad|唐诗之路]] into a map of [[ChangAnTang|唐代长安]], [[WangWei|王维]], [[ZhedongTangPoetryRoad|浙东唐诗之路]], [[MengHaoran|孟浩然]], [[CenShen|岑参]], frontier-site evidence, and [[HistoricalReportingAIHallucination|AI hallucination risk in historical reporting]].

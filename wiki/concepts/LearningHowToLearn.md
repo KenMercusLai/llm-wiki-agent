@@ -14,6 +14,8 @@ last_updated: 2026-08-07
 
 Learning how to learn is the source's core durable skill across majors, professions, and AI tools. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts argue that communication, self-study, expression, curiosity, and method improvement were already important before AI, and AI now makes differences in learning method more visible.
 
+[[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the resource-unequal university version. When strong schools can provide AI learning centers, hospitals, cases, compute, and elite peers, students elsewhere need stronger self-directed learning, AI literacy, and learning-community building. The episode also turns learning how to learn into a foundation-preserving discipline: AI can accelerate exploration, but students still need enough basic practice to judge and transfer what it gives them.
+
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a reading-method version. Monthly thematic reading, weekly book reading, [[AIAssistedReading]], and blind-spot chapter recommendation are not presented as a universal schedule; they are examples of improving the learning loop by asking what frame a book or person can teach.
 
 [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]] adds the [[FifthDimension]] version. Jiang Xun frames the book as a map of AI-era concepts that readers should continue expanding with GPT-like tools, making self-directed exploration part of the book's method rather than a supplement.
@@ -66,3 +68,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[YinJie|殷姐]], [[FemaleSelfPossession]], and [[LifeRestartThoughtExperiment]] - adult-life and relocation case.
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[EconomicWayOfThinking]], and [[OpportunityCost]] - ordinary-reader economics extension.
 - [[ForgettingAsCognitiveFunction]], [[MemoryConsolidationWindows]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, review-timing, and rest-balance extension.
+- [[AIEraMajorChoice]], [[AIHollowingFoundationalTraining]], [[UniversityOpportunityDensity]], and [[TShapedAITalent]] - EP266's university resource and foundation-preserving learning branch.
