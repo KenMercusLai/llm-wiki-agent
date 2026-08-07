@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The real horror of 'Alien' and how it explains why we're not paid enough](sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough.md) — Planet Money episode using Alien and Alien: Romulus to explain labor monopsony, hidden job risks, search frictions, non-competes, company-town control, and labor-market counterforces.
 - [The skyscrapers that NIMBYs and zoning couldn't stop](sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop.md) — Planet Money episode on the Squamish Nation's Vancouver high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, local veto politics, and Indigenous development visibility.
 - [Our BOOK vs. the global supply chain](sources/our-book-vs-the-global-supply-chain.md) — Planet Money episode following its own book through physical design, production tradeoffs, printer selection, EU forest-compliance rules, domestic printing, quality control, and reprint flexibility.
 - [EP267 踏访湄公河：雨季、婚飞蚁与水利帝国](sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk.md) — Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, Angkor, Tonle Sap, monsoon seasonality, hydraulic empire, and Mekong Delta climate vulnerability.
@@ -827,6 +828,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Arin Dube / Arindrajit Dube](entities/ArinDube.md) — Labor economist in the Alien labor-economics episode explaining monopsony, hidden job risks, and wage-setting power.
+- [The Wage Standard](entities/TheWageStandard.md) — Arin Dube labor-economics book used by Planet Money to frame monopsony and wage-power problems.
+- [University of Massachusetts Amherst](entities/UniversityOfMassachusettsAmherst.md) — UMass Amherst affiliation for Arin Dube in the Planet Money Alien labor-economics episode.
+- [Alien Franchise](entities/AlienFranchise.md) — Science-fiction film franchise read by Planet Money as corporate dystopia and labor-monopsony horror.
+- [Alien (film)](entities/AlienFilm.md) — Original Alien film used to explain negative job amenities, hidden contract clauses, and weak worker power.
+- [Weyland-Yutani](entities/WeylandYutani.md) — Fictional Alien corporation used as an extreme example of labor monopsony and company control.
+- [Fede Alvarez / Fede Álvarez](entities/FedeAlvarez.md) — Alien: Romulus co-writer/director linking the franchise's horror to powerlessness and labor institutions.
+- [Alien: Romulus](entities/AlienRomulus.md) — Alien film whose company-town colony setup makes leaving Weyland-Yutani administratively impossible.
+- [Rodo Sayagues](entities/RodoSayagues.md) — Alien: Romulus co-writer named in the source as part of the franchise's labor-themed creative branch.
 - [Squamish Nation](entities/SquamishNation.md) — Indigenous nation using returned Vancouver-area land for a large rental-housing project that links sovereignty, housing supply, revenue, and cultural return.
 - [Sinak Village Site and High-Rise Development](entities/SinakVillageSite.md) — Returned Squamish village site near Vancouver becoming an 11-tower, roughly 6,000-unit rental-housing development.
 - [Chief Gibby](entities/ChiefGibby.md) — Former Squamish leader in the Planet Money source connecting forced removal, recurring development revenue, and the claim that the Squamish footprint is back on the land.
@@ -5599,6 +5609,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Negative Job Amenities](concepts/NegativeJobAmenities.md) — Undesirable job attributes such as danger, isolation, and harsh conditions that should affect job quality and pay.
+- [Compensating Differentials](concepts/CompensatingDifferentials.md) — Wage premiums that should compensate workers for dangerous or unpleasant work when labor markets are competitive.
+- [Shrouded Job Attributes](concepts/ShroudedJobAttributes.md) — Hidden job risks or contract obligations that workers do not fully price before accepting work.
+- [Labor Search Frictions](concepts/LaborSearchFrictions.md) — Practical costs of finding, applying for, quitting, and taking jobs that make workers less mobile.
+- [Non-Compete Agreements](concepts/NonCompeteAgreements.md) — Employment restrictions that limit worker mobility and can strengthen employer labor-market power.
+- [Monopsony By Artifice](concepts/MonopsonyByArtifice.md) — Employer power created by contractual or institutional restrictions rather than natural scarcity.
+- [Company Town Labor Control](concepts/CompanyTownLaborControl.md) — Place-based employer control over work, housing, stores, debt, paperwork, and exit.
+- [Labor Market Counterforces](concepts/LaborMarketCounterforces.md) — Institutions such as minimum wages, antitrust enforcement, and unions that constrain employer power.
 - [Sovereign Housing Development](concepts/SovereignHousingDevelopment.md) — Housing-development pattern where sovereign land-use authority changes zoning constraints, project scale, revenue capture, and supply.
 - [Local Veto Housing Politics](concepts/LocalVetoHousingPolitics.md) — Housing political-economy pattern where nearby opposition can outweigh diffuse regional and future-resident benefits.
 - [Permitting Delay Cost](concepts/PermittingDelayCost.md) — Cost mechanism where slow or uncertain approval processes raise land values, financing risk, and project costs before construction begins.

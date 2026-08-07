@@ -2,7 +2,7 @@
 title: "Alex Goldmark"
 type: entity
 tags: [media, podcasting, publishing]
-sources: [how-we-got-free-agents-in-baseball, our-book-vs-the-global-supply-chain, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics]
+sources: [how-we-got-free-agents-in-baseball, our-book-vs-the-global-supply-chain, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
 last_updated: 2026-08-07
 ---
 
@@ -20,6 +20,8 @@ Goldmark's decision changes as the project becomes a broad field guide to the ec
 
 [[how-we-got-free-agents-in-baseball]] adds Goldmark in the production context as [[PlanetMoney]] executive producer. The episode itself centers on [[CurtFlood]], [[MajorLeagueBaseball|MLB]], and [[BaseballFreeAgency|baseball free agency]], but the credit keeps Goldmark tied to the show's economics-history editorial branch.
 
+[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds Goldmark in the same executive-producer context for a labor-economics episode connecting [[AlienFilm|Alien]], [[ArinDube|Arin Dube]], and [[LaborMonopsony]].
+
 ## Key Claims
 - Goldmark connected the book to Planet Money's history of participatory projects, including a T-shirt, oil barrel, comic book, record, and board game.
 - He worked with [[AlexMaiassi]], [[LauraNolan]], and [[JaneVonMehren|Jane von Mehren]] to turn a vague book possibility into a proposal.
@@ -29,6 +31,7 @@ Goldmark's decision changes as the project becomes a broad field guide to the ec
 - Slow ticket sales and the missing-poster issue show that even a strong [[AuthorPlatformRiskReduction|platform]] needs operational follow-through during launch week.
 - Bestseller placement confirms the launch strategy worked in the first-week ranking window, while leaving long-term profitability unresolved.
 - The Curt Flood episode extends Goldmark's page only through production context, not as a reported source voice.
+- The Alien labor-economics episode likewise extends Goldmark through production credit rather than as an interviewed source voice.
 
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
@@ -38,3 +41,4 @@ Goldmark's decision changes as the project becomes a broad field guide to the ec
 - [[RachelSalzman]] - Norton publicity lead coordinating launch sequencing.
 - [[BookPublishingEconomics]], [[AuthorPlatformRiskReduction]], [[EducationalDistributionStrategy]], [[PhysicalBookDesignTradeoff]], [[PrintingSignatureConstraint]], [[BookPrinterSelectionRisk]], [[PreOrderLaunchConcentration]], and [[ProductLaunchUnderConstraint]] - concepts grounded through his decision, design, and launch work.
 - [[CurtFlood]], [[MajorLeagueBaseball]], [[BaseballReserveClause]], and [[BaseballFreeAgency]] - episode subject added through production credit.
+- [[AlienFilm|Alien]], [[WeylandYutani]], [[ArinDube]], and [[LaborMonopsony]] - labor-economics episode subject added through production credit.
