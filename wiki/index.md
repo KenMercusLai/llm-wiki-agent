@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The skyscrapers that NIMBYs and zoning couldn't stop](sources/the-skyscrapers-that-nimbys-and-zoning-couldnt-stop.md) — Planet Money episode on the Squamish Nation's Vancouver high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, local veto politics, and Indigenous development visibility.
 - [Our BOOK vs. the global supply chain](sources/our-book-vs-the-global-supply-chain.md) — Planet Money episode following its own book through physical design, production tradeoffs, printer selection, EU forest-compliance rules, domestic printing, quality control, and reprint flexibility.
 - [EP267 踏访湄公河：雨季、婚飞蚁与水利帝国](sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk.md) — Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, Angkor, Tonle Sap, monsoon seasonality, hydraulic empire, and Mekong Delta climate vulnerability.
 - [EP266 当AI重构大学，我们该如何定义“好专业”？](sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd.md) — Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice, hollowed foundational training, new engineering education, medical AI education, AI for Science talent, T-shaped capability, and university resource inequality.
@@ -826,6 +827,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Squamish Nation](entities/SquamishNation.md) — Indigenous nation using returned Vancouver-area land for a large rental-housing project that links sovereignty, housing supply, revenue, and cultural return.
+- [Sinak Village Site and High-Rise Development](entities/SinakVillageSite.md) — Returned Squamish village site near Vancouver becoming an 11-tower, roughly 6,000-unit rental-housing development.
+- [Chief Gibby](entities/ChiefGibby.md) — Former Squamish leader in the Planet Money source connecting forced removal, recurring development revenue, and the claim that the Squamish footprint is back on the land.
+- [Wilson Williams](entities/WilsonWilliams.md) — Squamish council figure using a seven-generations standard to argue for a larger, more culturally visible development plan.
+- [Jacob Lewis III](entities/JacobLewisIII.md) — Squamish project overseer explaining the towers' design, construction status, cultural visibility, and response to neighborhood opposition.
+- [Princeton University](entities/PrincetonUniversity.md) — Research institution cited with MIT through a working paper on permitting delays and housing development costs.
 - [邢海洋 / Xing Haiyang](entities/XingHaiyang.md) — Sanlian senior writer using the Mekong journey to connect travel scenes, maps, monsoon climate, ritual life, Angkor, and water infrastructure.
 - [Mekong River / 湄公河](entities/MekongRiver.md) — EP267 river route linking China, Laos, Cambodia, Tonle Sap, Vietnam's delta, monsoon seasonality, and water-managed history.
 - [Mainland Southeast Asia / 中南半岛](entities/MainlandSoutheastAsia.md) — EP267 regional frame where north-south mountains and river valleys shape ethnic, state, and cultural variation.
@@ -5592,6 +5599,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sovereign Housing Development](concepts/SovereignHousingDevelopment.md) — Housing-development pattern where sovereign land-use authority changes zoning constraints, project scale, revenue capture, and supply.
+- [Local Veto Housing Politics](concepts/LocalVetoHousingPolitics.md) — Housing political-economy pattern where nearby opposition can outweigh diffuse regional and future-resident benefits.
+- [Permitting Delay Cost](concepts/PermittingDelayCost.md) — Cost mechanism where slow or uncertain approval processes raise land values, financing risk, and project costs before construction begins.
+- [Indigenous Development Visibility](concepts/IndigenousDevelopmentVisibility.md) — Claim that contemporary, dense, revenue-generating development can express Indigenous presence rather than contradict it.
 - [Mekong River Geographic Writing / 湄公河地理写作](concepts/MekongRiverGeographicWriting.md) — EP267 method of using the Mekong as a narrative spine connecting travel friction, monsoon climate, ritual, Angkor, infrastructure, and delta vulnerability.
 - [Monsoon Seasonal Social Order / 季风季节性社会秩序](concepts/MonsoonSeasonalSocialOrder.md) — EP267 frame for dry and rainy seasons shaping agriculture, burning, Buddhist retreat, flood pulses, and water storage.
 - [Seasonal Burning Agriculture / 季节性烧山农业](concepts/SeasonalBurningAgriculture.md) — EP267 dry-season burning practice read through farm preparation, ash fertility, haze, PM2.5, and environmental tradeoffs.

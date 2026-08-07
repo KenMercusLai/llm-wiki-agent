@@ -6605,3 +6605,11 @@ Added source page for a Planet Money episode on how the Planet Money book became
 ## [2026-08-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-07] ingest | The skyscrapers that NIMBYs and zoning couldn't stop
+
+Added source page for a Planet Money episode on the Squamish Nation's Vancouver-area high-rise housing project, sovereign land-use authority, zoning constraints, permitting delay costs, neighborhood opposition, federal financing, and Indigenous development visibility. Created pages for Squamish Nation, Sinak Village Site and High-Rise Development, Chief Gibby, Wilson Williams, Jacob Lewis III, Princeton University, Sovereign Housing Development, Local Veto Housing Politics, Permitting Delay Cost, and Indigenous Development Visibility; updated overview, index, NPR, Planet Money, Planet Money Book, Vancouver, British Columbia, Canada, MIT, Housing Affordability Supply Mechanics, Housing Restriction Backfire, and Future Resident Housing Voice. No direct contradiction found; the source qualifies housing-supply and zoning claims by showing how sovereignty, infrastructure coordination, local veto politics, and long-term Indigenous wealth creation interact in one development.
+
+## [2026-08-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
