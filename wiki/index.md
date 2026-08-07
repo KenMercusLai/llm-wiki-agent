@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP267 踏访湄公河：雨季、婚飞蚁与水利帝国](sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk.md) — Talk三联 episode with 高一丁 and 邢海洋 on the Mekong as a geographic route through Laos, Angkor, Tonle Sap, monsoon seasonality, hydraulic empire, and Mekong Delta climate vulnerability.
 - [EP266 当AI重构大学，我们该如何定义“好专业”？](sources/ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd.md) — Talk三联 episode with 黄子翊, 吴淑彬, and 李小杰 on AI-era major choice, hollowed foundational training, new engineering education, medical AI education, AI for Science talent, T-shaped capability, and university resource inequality.
 - [EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？](sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb.md) — Talk三联 episode with 李菁, 颜飞, and 雷涛/无二旅人 on vacation shame, work-rest boundaries, long-holiday recovery, Canada travel, sensory restoration, and local-life travel.
 - [EP264 踏访“唐诗之路”：盛唐气象少年心](sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi.md) — Talk三联 episode with 高一丁, 艾江涛, 薄静, and 张星云 on 唐诗之路, reading Wang Wei/Chang'an, Meng Haoran/Zhejiang, and Cen Shen/frontier poetry through cultural geography, field reporting, archaeology, and AI hallucination risk.
@@ -824,6 +825,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [邢海洋 / Xing Haiyang](entities/XingHaiyang.md) — Sanlian senior writer using the Mekong journey to connect travel scenes, maps, monsoon climate, ritual life, Angkor, and water infrastructure.
+- [Mekong River / 湄公河](entities/MekongRiver.md) — EP267 river route linking China, Laos, Cambodia, Tonle Sap, Vietnam's delta, monsoon seasonality, and water-managed history.
+- [Mainland Southeast Asia / 中南半岛](entities/MainlandSoutheastAsia.md) — EP267 regional frame where north-south mountains and river valleys shape ethnic, state, and cultural variation.
+- [Laos / 老挝](entities/Laos.md) — EP267 travel setting for Luang Prabang, Vientiane, temples, almsgiving, engagement ritual, China-Laos Railway, and riverine culture.
+- [Cambodia / 柬埔寨](entities/Cambodia.md) — EP267 Angkor and Tonle Sap setting for hydraulic empire, wetland abundance, and later water-management fragility.
+- [Khmer Empire / 吴哥王朝](entities/KhmerEmpire.md) — Angkor-era polity in EP267 interpreted through temples, sacred kingship, water storage, rice agriculture, and Tonle Sap hydrology.
+- [Angkor / 吴哥](entities/Angkor.md) — EP267 monumental site where temples, inscriptions, water systems, and field presence make mainland Southeast Asian civilization legible.
+- [Tonle Sap Lake / 洞里萨湖](entities/TonleSapLake.md) — Cambodian flood-pulse lake in EP267 linking Mekong hydrology, fishery abundance, Angkor irrigation, and wetland adaptation.
+- [Mekong Delta / 湄公河三角洲](entities/MekongDelta.md) — Downstream Vietnam region in EP267 shaped by French colonial canals, rice production, saltwater intrusion, and climate vulnerability.
+- [China-Laos Railway / 中老铁路](entities/ChinaLaosRailway.md) — EP267 infrastructure case where faster rail travel still depends on local ticketing, transfers, agents, and service coordination.
+- [Lan Xang Kingdom / 澜沧王国](entities/LanXangKingdom.md) — Lao historical reference in EP267 linking place names, river memory, and mainland Southeast Asian state formation.
+- [Sukhothai Kingdom / 苏可泰王朝](entities/SukhothaiKingdom.md) — Thai historical polity in EP267 used to discuss southward pressure and river-valley state formation.
+- [周达观 / Zhou Daguan](entities/ZhouDaguan.md) — Yuan-era envoy whose Zhenla account helps EP267 interpret Angkor abundance and evidence limits.
 - [李菁 / Li Jing (Sanlian)](entities/LiJingSanlian.md) — Talk三联 host framing EP265 from the "请3休13" holiday prompt toward rest, travel, and work-life questions.
 - [颜飞 / Yan Fei (sociologist)](entities/YanFeiSociologist.md) — Tsinghua sociologist in EP265 explaining vacation shame, long-holiday recovery, sensory restoration, and the Walden/Odyssey metaphor.
 - [雷涛 / 无二旅人 / Lei Tao](entities/LeiTao.md) — Travel columnist and long-term traveler grounding EP265's Canada routes, local-life travel, and sensory vacation examples.
@@ -5574,6 +5588,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mekong River Geographic Writing / 湄公河地理写作](concepts/MekongRiverGeographicWriting.md) — EP267 method of using the Mekong as a narrative spine connecting travel friction, monsoon climate, ritual, Angkor, infrastructure, and delta vulnerability.
+- [Monsoon Seasonal Social Order / 季风季节性社会秩序](concepts/MonsoonSeasonalSocialOrder.md) — EP267 frame for dry and rainy seasons shaping agriculture, burning, Buddhist retreat, flood pulses, and water storage.
+- [Seasonal Burning Agriculture / 季节性烧山农业](concepts/SeasonalBurningAgriculture.md) — EP267 dry-season burning practice read through farm preparation, ash fertility, haze, PM2.5, and environmental tradeoffs.
+- [Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成](concepts/MainlandSoutheastAsiaRiverValleyStateFormation.md) — EP267 concept for mountains and north-south river valleys shaping ethnic, linguistic, and political zones.
+- [Angkor Hydraulic Empire / 吴哥水利帝国](concepts/AngkorHydraulicEmpire.md) — EP267 synthesis of Tonle Sap flood pulses, reservoirs, dry-season irrigation, rice surplus, labor, temples, and sacred kingship.
+- [Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业](concepts/MekongDeltaColonialCanalAgriculture.md) — EP267 downstream water-engineering case where French colonial canals made rice abundance while increasing climate and saltwater-intrusion exposure.
 - [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 frame for choosing majors by durable foundations, real problem contact, AI collaboration, and transferable judgment rather than current heat.
 - [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
 - [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.

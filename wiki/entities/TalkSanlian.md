@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # Talk三联
 
+[[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds the show's Mekong geography branch. With [[GaoYiding|高一丁]] and [[XingHaiyang|邢海洋]], Talk三联 uses [[MekongRiver|湄公河]] travel to connect [[Laos|老挝]], [[Cambodia|柬埔寨]], [[Angkor|吴哥]], [[TonleSapLake|洞里萨湖]], [[MekongDelta|湄公河三角洲]], [[MonsoonSeasonalSocialOrder|季风季节性社会秩序]], [[AngkorHydraulicEmpire|吴哥水利帝国]], and [[MekongDeltaColonialCanalAgriculture|殖民沟渠农业]].
+
 [[ep266-dang-ai-zhonggou-daxue-women-gai-ruhe-dingyi-hao-zhuanye-llbzcgsefktcvkq-f37hoan79dd]] adds the show's AI-era higher-education branch. With [[HuangZiyiEducationReporter|黄子翊]], [[WuShubin|吴淑彬]], and [[LiXiaojie|李小杰]], Talk三联 uses gaokao major choice to connect [[AIEraMajorChoice|AI时代专业选择]], [[AIHollowingFoundationalTraining|AI导致基础训练空心化]], [[NewEngineeringEducation|新工科教育]], [[MedicalAIEducation|医学AI教育]], [[AIForScienceTalent|AI for Science人才]], and [[TShapedAITalent|AI时代T型人才]].
 
 [[ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb]] adds the show's vacation and Canada travel branch. With [[LiJingSanlian|李菁]], [[YanFeiSociologist|颜飞]], and [[LeiTao|雷涛 / 无二旅人]], Talk三联 connects viral "请3休13" holiday planning to [[VacationShame|休假羞耻感]], [[WorkRestBoundary|工作休假边界]], [[LongVacationRecovery|长假恢复]], [[TravelSensoryRecovery|旅行中的感受力恢复]], [[LocalLifeDensityTravel|生活密度旅行]], [[NatureCityProximity|城市自然邻近]], and [[Canada]] as a concrete long-holiday case.
@@ -79,6 +81,7 @@ Talk三联 is the podcast/show context for [[ep270-yi-mei-xinpian-de-manchang-zh
 The episode positions industrial reporting as a translation layer. Instead of treating chips only as investment symbols or geopolitical slogans, it asks what has to happen across [[SemiconductorSupplyChain|design, manufacturing, packaging, testing]], software ecosystems, and user-facing token prices before [[ComputeFreedom|算力自由]] becomes practical.
 
 ## Connections
+- [[XingHaiyang]], [[MekongRiver]], [[MainlandSoutheastAsia]], [[Laos]], [[Cambodia]], [[Angkor]], [[TonleSapLake]], [[MekongDelta]], [[MekongRiverGeographicWriting]], [[MonsoonSeasonalSocialOrder]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] — Mekong geography branch added by EP267.
 - [[LiJingSanlian]], [[YanFeiSociologist]], [[LeiTao]], [[Canada]], [[VacationShame]], [[WorkRestBoundary]], [[LongVacationRecovery]], [[TravelSensoryRecovery]], [[LocalLifeDensityTravel]], [[NatureCityProximity]], and [[WaldenMomentAgainstOdysseyMoment]] — vacation, rest, and Canada travel branch added by EP265.
 - [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], [[CapitalPoetrySociality]], [[ZhedongTangPoetryRoad]], [[TangFrontierPoetryFieldExperience]], and [[HistoricalReportingAIHallucination]] — Tang-poetry cultural-geography branch added by EP264.
 - [[QiuLian]], [[XuePeng]], [[WuLiwei]], [[LineIncenseDailyLife]], [[ChineseFragrance]], [[Agarwood]], [[Qinan]], [[AgarwoodIndustrialization]], [[FragranceProductStorytelling]], and [[ScentAsBrandMemory]] — fragrance, line-incense, and agarwood branch added by EP263.

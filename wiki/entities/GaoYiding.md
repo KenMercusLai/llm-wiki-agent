@@ -8,6 +8,8 @@ last_updated: 2026-08-07
 
 # 高一丁 / Gao Yiding
 
+[[ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk]] adds Gao's host role in a [[TalkSanlian|Talk三联]] geography episode with [[XingHaiyang|邢海洋]] on the [[MekongRiver|湄公河]]. He frames the conversation around why [[MainlandSoutheastAsia|中南半岛]] can feel both familiar and unfamiliar to Chinese listeners, then draws out the links among travel friction, [[MonsoonSeasonalSocialOrder|monsoon seasonality]], [[AngkorHydraulicEmpire|Angkor's hydraulic empire]], and the [[MekongDelta|Mekong Delta]].
+
 [[ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi]] adds Gao's host role in a [[TalkSanlian|Talk三联]] cultural-geography episode on [[TangPoetryRoad|唐诗之路]]. He frames the conversation as a move from single-author geography toward three poetic spaces - [[ChangAnTang|唐代长安]], [[ZhedongTangPoetryRoad|浙东唐诗之路]], and western frontier routes - while also drawing out the source's warning about [[HistoricalReportingAIHallucination|AI hallucination]] in historical reporting.
 
 [[ep262-gaokao-guohou-zhishi-guiling-women-xuyao-zenyang-de-kexue-jiaoyu-ls8ecqcdpe9d5ioytyca3jqdf-3r]] adds Gao's host role in a [[TalkSanlian|Talk三联]] science-education episode. He frames the gaokao-season question as a test of whether school science becomes [[ScienceEducationAsCivicLiteracy|usable public literacy]] or disappears after exams, and he presses the tension between engaging project classes and unavoidable assessment pressure.
@@ -33,6 +35,7 @@ His role in the source is to keep a broad technical subject anchored in ordinary
 [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds Gao's summer-reading host role. He frames the discussion around why heroic epics remain active in present-day media, from [[TheOdyssey|《奥德赛》]] and "奥德赛时间" to the [[MarvelCinematicUniverse|漫威宇宙]], games, fantasy, and the reading difficulty of ancient oral texts.
 
 ## Connections
+- [[XingHaiyang]], [[MekongRiver]], [[MainlandSoutheastAsia]], [[MekongRiverGeographicWriting]], [[AngkorHydraulicEmpire]], and [[MekongDeltaColonialCanalAgriculture]] — EP267 Mekong geography branch.
 - [[AiJiangtao]], [[BoJingSanlianCulture]], [[ZhangXingyun]], [[TangPoetryRoad]], [[TangPoetryCulturalGeography]], and [[HistoricalReportingAIHallucination]] — EP264 Tang-poetry cultural-geography branch.
 - [[WeiQianSanlian]], [[WangYiranSanlian]], [[ScienceEducationAsCivicLiteracy]], [[ProjectBasedScienceLearning]], and [[ExamDrivenScienceEducation]] — EP262 science-education branch.
 - [[MiaoQian]], [[DuanNongyu]], [[LiuChang]], [[WildPollinatorCrisis]], [[MigratoryBeekeeperLivelihood]], and [[PollinationServiceMarket]] — EP261 bee-crisis branch.
