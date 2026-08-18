@@ -7845,3 +7845,11 @@ Added source page for a Data Science With Sam episode with Joseph Strader of GoC
 ## [2026-08-18] lint | Wiki health check
 
 Ran health before lint. Health found no empty/stub files, index drift, or source-log coverage gaps across 11,159 wiki pages. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, twelve fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to providerless `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-18] ingest | EP 12: Insightful Conversation with a Football Analytics Professional
+
+Added source page for a Data Science With Sam episode with Anna D'Souza on soccer analytics, stakeholder communication, data-driven scouting, athlete data privacy, football event/tracking data, AI/ML, and sports predictive modeling. Created pages for Anna D'Souza, the Jamaican Women's National Team, Electronic Arts, StatsBomb, Sports Analytics, Sports Analytics Stakeholder Communication, Data-Driven Football Scouting, Athlete Data Privacy Governance, Football Event and Tracking Data, and Sports Predictive Modeling; updated overview, index, Data Science With Sam, Sam, Football Analytics Modernization, NWSL, MLS, FIFA, Sports Officiating Automation, Open Football Talent Markets, and Sports Collective Bargaining. No direct contradiction found; the source extends the wiki's football analytics branch by emphasizing that models and data only become useful when they fit game models, stakeholder language, privacy rules, and human football judgment.
+
+## [2026-08-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
