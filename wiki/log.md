@@ -8855,3 +8855,11 @@ Added source page for a 芮淇讲透资治通鉴 episode continuing Fan Ju's 远
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》90丨揭秘先秦最完美的复仇
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Fan Ju's Qin authority-recovery branch and turning his revenge against Xu Jia and Wei Qi into a case of personal revenge through state power. Created Zhao Dan / Zhao Xiaocheng Wang and Personal Revenge Through State Power; updated overview, index, Fan Ju, Xu Jia, Wei Qi, Wei Ran, Qin Zhaoxiang Wang, Xuan Taihou, Pingyuanjun, Zhao He, Qin/Wei/Zhao state pages, Daliang, Yuanjiao Jingong Strategy, Qin Four Nobles Court Power, Private Punishment Without Procedure, Aristocratic Political Asylum, and Sima Qian. No direct contradiction found; Xuan Taihou's formal deposition status and Fan Ju's Yinghou title timing were kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
