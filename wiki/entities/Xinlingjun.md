@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ Xinlingjun then goes out to receive Yu Qing and Wei Qi, but the hesitation has a
 
 The episode therefore makes Xinlingjun part of the same debate as [[YuQing|虞卿]]: later admiration can see a noble commitment to being worthy of trust, while [[XunYue|荀悦]] can read such commitment as [[DeathPartyLoyalty|死党之义与守职奉上]] that competes with office and state responsibility.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] makes Xinlingjun the center of the next Handan-rescue setup. With [[WeiAnxiWang|魏安釐王]] afraid of Qin, the episode turns to Xinlingjun as the Wei figure whose personal reputation and retainer network may matter. It emphasizes his kin position as Wei Anxi Wang's younger brother and [[Pingyuanjun|平原君]]'s brother-in-law, then contrasts [[SimaQian|司马迁]]'s praise of Xinlingjun with his sharper judgments of the other [[WarringStatesFourLords|战国四公子]].
+
+The same source backfills why Xinlingjun's relationship with [[HouYing|侯嬴]] matters. Xinlingjun repeatedly invites Hou Ying with gifts, then finally drives in person, leaves the honored left carriage seat empty, waits without irritation while Hou Ying visits [[ZhuHai|朱亥]], and introduces the elderly gatekeeper to the gathered guests. The episode turns this into [[PublicHumilityReputationTest|公开受辱式礼贤测试]]: Xinlingjun's reputation for [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] becomes credible because it survives public inconvenience and low-status association.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -28,3 +32,4 @@ The episode therefore makes Xinlingjun part of the same debate as [[YuQing|虞�
 - [[WeiAnxiWang|魏安釐王]], [[WeiZhaowang|魏昭王]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - Zhouji 82 succession and Qin-pressure context for his enfeoffment.
 - [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 dangerous reception and recognition-delay problem.
 - [[XunYue|荀悦]], [[LiBai|李白]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception and critique of dangerous guest-recognition.
+- [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Daliang|大梁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[ConfucianLowOfficeReclusion|儒家低职隐居]] - Zhouji 96 part 5 backfilled patronage-reputation scene.

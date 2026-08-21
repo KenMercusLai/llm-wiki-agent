@@ -2,7 +2,7 @@
 title: "侯嬴 / Hou Ying"
 type: entity
 tags: [person, retainer, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
 last_updated: 2026-08-21
 ---
 
@@ -14,8 +14,15 @@ His role is brief but structurally important. When Xinlingjun hesitates because 
 
 The episode uses Hou Ying as a gatekeeper of aristocratic reputation. His argument turns hospitality from a private courtesy into a public test of character: if Xinlingjun refuses a person who has already sacrificed office for friendship, the refusal would damage his own standing as one of the [[WarringStatesFourLords|战国四公子]].
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] gives Hou Ying's earlier entry story. He is described as a poor, elderly, low-status Yi Gate keeper in [[Daliang|大梁]], but the episode reads that position through [[ConfucianLowOfficeReclusion|儒家低职隐居]] rather than as proof of uselessness. He can work a humble post for subsistence while refusing the normal ambition of rank, wealth, and court service.
+
+The same source shows Hou Ying testing Xinlingjun before accepting him as patron. After Xinlingjun personally drives to receive him and leaves the honored left carriage seat empty, Hou Ying does not politely defer. He boards, asks to detour to the market, spends a long time talking with [[ZhuHai|朱亥]], and watches Xinlingjun's face. When Xinlingjun remains calm, Hou Ying later explains that the public delay was meant to spread Xinlingjun's reputation for honoring worthy people below him.
+
+Hou Ying therefore now has two connected wiki functions. In Zhouji 95 he judges whether Xinlingjun should receive dangerous guests; in Zhouji 96 part 5 he is the person who first made Xinlingjun's [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] publicly credible through [[PublicHumilityReputationTest|公开受辱式礼贤测试]].
+
 ## Connections
 - [[Xinlingjun|信陵君]] - patron whose hesitation Hou Ying challenges.
 - [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]] - fugitive guests whose reception he argues for.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[QinState|秦国]], and [[Daliang|大梁]] - political pressure and Wei setting around the decision.
 - [[WarringStatesRetainerPatronage|战国养士]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts clarified by his reputation-based argument.
+- [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 origin scene and patronage test.
