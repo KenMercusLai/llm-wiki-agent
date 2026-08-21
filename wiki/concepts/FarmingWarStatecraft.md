@@ -2,7 +2,7 @@
 title: "Farming-War Statecraft / 耕战逻辑"
 type: concept
 tags: [statecraft, warfare, legalism, incentives, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The concept therefore links domestic reform to external expansion. Qin does not 
 
 [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] uses the same logic to limit the strategic value of [[JingKe|荆轲]]'s assassination. The episode argues that even killing [[QinShiHuang|嬴政 / 秦始皇]] would not easily reverse unification because Qin's expansion was already supported by institutions and incentives created after [[ShangYang|商鞅]]. Farming-war statecraft thus becomes a reason a weak state's ruler-killing shortcut may buy time without stopping the underlying war machine.
 
+[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] carries that machine past unification. The episode argues that once the six states become Qin commanderies, the old enemy field disappears but the social expectation of war rewards remains. Qin's southern and northern campaigns therefore become [[PostUnificationWarInertia|统一后战争惯性]]: the farming side is still slow and low-ceiling for ambitious subjects, while frontier war can absorb risk-seeking soldiers and marginalized groups under [[MarginalStatusConscription|边缘身份征发]].
+
 ## Key Claims
 - Agriculture and war are treated as the privileged contributions to state capacity.
 - Farming feeds and stabilizes the state, but war has the higher personal reward ceiling.
@@ -32,6 +34,7 @@ The concept therefore links domestic reform to external expansion. Qin does not 
 - Qin's agricultural and military incentive base can appear inside another state's risk calculation even when the immediate issue is a diplomatic gift.
 - A farming-war state can create continuing political demand for campaigns, making "Qin will stop after this victory" a weak assumption for neighboring states.
 - Qinji 115-1 extends that point to assassination counterfactuals: replacing or killing one ruler does not automatically erase the incentive system that keeps a conquest state moving.
+- Qinji 123-2 extends the logic after unification: once former enemies become internal subjects, frontier campaigns can function as outlets for a war-reward society.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], and [[QinState|秦国]] - reformer, ruler, and state setting.
@@ -41,3 +44,4 @@ The concept therefore links domestic reform to external expansion. Qin does not 
 - [[ZhaoBao|赵豹 / 平阳君]], [[Shangdang|上党]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 part 2 enemy-side capacity warning.
 - [[KongBin|孔斌]], [[WeiAnxiWang|魏安釐王]], [[ChangpingBattle|长平之战]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 warning that Qin's war machine will not stop at Zhao.
 - [[JingKe|荆轲]], [[QinShiHuang|嬴政 / 秦始皇]], [[WeakStateAssassinationStrategy|弱国刺杀式破局]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 115-1 assassination-success counterfactual.
+- [[PostUnificationWarInertia|统一后战争惯性]], [[MarginalStatusConscription|边缘身份征发]], [[Baiyue|百越]], and [[Xiongnu|匈奴]] - Qinji 123-2 post-unification southern and northern campaign outlet.

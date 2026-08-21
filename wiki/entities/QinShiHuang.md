@@ -102,6 +102,8 @@ The episode also adds the [[YinYangFivePhasesPoliticalTheory|阴阳五行]] and 
 
 [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds the immediate sequel. In 218 BCE Qin Shi Huang survives [[ZhangLiang|张良]]'s [[Bolangsha|博浪沙]] attack after the assassin hits an accompanying carriage. Rather than stop touring, he continues eastward to Zhifu and Langya, and by 215 BCE he travels to [[Jieshi|碣石]], sends [[LuSheng|卢生]] to seek immortals, removes large local defensive works under [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]], and then reads "亡秦者胡" as a northern threat requiring [[MengTian|蒙恬]]'s campaign against [[Xiongnu|匈奴]].
 
+[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] reframes Qin Shi Huang's thirty-third year, 214 BCE, through institutions rather than only imperial temperament. The episode says Qin's southern attack on [[Baiyue|百越]] drafts捕亡人,赘婿, and merchants, then creates [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]], while [[MengTian|蒙恬]] defeats [[Xiongnu|匈奴]] in the north, recovers Hetao, links older walls, and sits at [[Shangjun|上郡]]. The page records this as [[PostUnificationWarInertia|统一后战争惯性]]: Qin Shi Huang is acting inside a [[FarmingWarStatecraft|耕战逻辑]] and [[MilitaryMeritRankSystem|军功爵制]] order that still needs military outlets after unification.
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
@@ -146,6 +148,7 @@ The episode also adds the [[YinYangFivePhasesPoliticalTheory|阴阳五行]] and 
 - Qinji 122-2 adds the Langya and Xu Fu branch: Qin Shi Huang turns former Qi coastal space into inscription, settlement, local-god sacrifice, and a resource-consuming search for immortal medicine.
 - Qinji 122-3 adds the Xiangshan branch: failed Jiuding recovery, anger at Xiangjun, and the cutting of Xiangshan trees show Qin Shi Huang's sacred-political touring can move from reverent incorporation into coercive humiliation of a local Chu deity space.
 - Qinji 123-1 adds Bolangsha survival, continued eastern touring, the Jieshi-Lu Sheng immortal search, local fortification removal, and the "亡秦者胡" reading that points him toward a northern campaign.
+- Qinji 123-2 adds the 214 BCE southern/northern campaign frame: Baiyue commandery setup, marginal-status conscription, Meng Tian's Xiongnu victory and wall integration, and the institutional claim that Qin's war engine could not easily switch to peace.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -193,3 +196,4 @@ The episode also adds the [[YinYangFivePhasesPoliticalTheory|阴阳五行]] and 
 - [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh|Qinji 122-2]], [[LangyaMountain|琅琊山]], [[QiEightSpirits|齐地八神]], [[LangyaInscriptionPoliticalProgram|琅琊刻石政治纲领]], [[XuFu|徐福]], [[Penglai|蓬莱]], and [[XuFuJapanDescentLegend|徐福日本后裔传说]] - coastal tour, inscription, fangshi patronage, and legend-boundary branch.
 - [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu|Qinji 122-3]], [[Jiuding|九鼎]], [[Xuzhou|彭城 / 徐州]], [[XiangshanShrine|湘山祠]], [[XiangJun|湘君]], [[ImperialLocalGodConflict|皇权与地方神冲突]], and [[ZhangLiang|张良]] - failed legitimacy-object recovery, local-god punishment, and anti-Qin assassination setup.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[Bolangsha|博浪沙]], [[LuSheng|卢生]], [[ProphecyTriggeredPolicy|预言触发政策]], [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]], [[MengTian|蒙恬]], and [[Xiongnu|匈奴]] - failed assassination, continued tours, prophecy interpretation, and northern-war trigger.
+- [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Baiyue|百越]], [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], [[XiangCommandery|象郡]], [[MarginalStatusConscription|边缘身份征发]], and [[PostUnificationWarInertia|统一后战争惯性]] - post-unification war-machine explanation and southern commandery incorporation.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险](sources/zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy.md) — 芮淇讲透资治通鉴 episode on Qin's 214 BCE southern Baiyue campaign, status-based conscription of fugitives/赘婿/merchants, post-unification war inertia from Qin's military-merit order, Lingnan commandery setup, Meng Tian's Xiongnu campaign, and Zhang Liang's Huangshi Gong encounter.
 - [《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？](sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's Bolangsha assassination attempt, Qin Shi Huang's continued eastern tours and Jieshi immortal search, wall/levee removal as centralization, Lu Sheng's "亡秦者胡," and Meng Tian's northern campaign trigger.
 - [《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！](sources/zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction, Xiangjun, possible Huangdi route imitation, and Zhang Liang's anti-Qin revenge setup.
 - [《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？](sources/zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's Langya stop, the Langya inscription, Yan-Qi fangshi, Xu Fu's sea-search story, and why Japanese Xu Fu legends do not prove broad descent from Xu Fu.
@@ -1192,6 +1193,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [桂林郡 / Guilin Commandery](entities/GuilinCommandery.md) — Qin southern commandery created after the 214 BCE Baiyue campaign, located source-scopingly around today's Guangxi.
+- [南海郡 / Nanhai Commandery](entities/NanhaiCommandery.md) — Qin southern commandery located source-scopingly around today's Guangdong after the Baiyue campaign.
+- [象郡 / Xiang Commandery](entities/XiangCommandery.md) — Qin southern commandery tied to the deeper Lingnan frontier after Baiyue conquest and convict migration.
+- [黄石公 / Huangshi Gong](entities/HuangshiGong.md) — Legendary old man who tests Zhang Liang and gives him 《太公兵法》 after the failed Bolangsha attack.
+- [《太公兵法》 / Taigong Bingfa](entities/TaigongBingfa.md) — Military text Huangshi Gong gives to Zhang Liang, marking his shift from avenger to strategist.
 - [卢生 / Lu Sheng](entities/LuSheng.md) — Qin fangshi whose failed immortal search returns as the "亡秦者胡" warning that Qin Shi Huang reads into northern policy.
 - [博浪沙 / Bolangsha](entities/Bolangsha.md) — Site of Zhang Liang's failed 218 BCE attack on Qin Shi Huang's travel column and the "误中副车" memory.
 - [碣石 / Jieshi](entities/Jieshi.md) — Northern coastal tour and inscription site where Qin Shi Huang sends Lu Sheng to seek immortals before the "亡秦者胡" branch.
@@ -7627,6 +7633,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Unification War Inertia / 统一后战争惯性](concepts/PostUnificationWarInertia.md) — Qinji 123-2 frame for why Qin kept launching campaigns after unification because war rewards, status, and social expectations had become institutionalized.
+- [Marginal-Status Conscription / 边缘身份征发](concepts/MarginalStatusConscription.md) — Qinji 123-2 pattern where fugitives, 赘婿, and merchants are prioritized for dangerous campaign labor because of low or unstable social status.
 - [Prophecy-Triggered Policy / 预言触发政策](concepts/ProphecyTriggeredPolicy.md) — Pattern where "亡秦者胡" becomes a decision frame for Qin frontier policy and later a hindsight reinterpretation through Hu Hai.
 - [Strong-Trunk Weak-Branch Centralization / 强干弱枝式集权](concepts/StrongTrunkWeakBranchCentralization.md) — Qinji 123-1 logic for weakening local walls, levees, and defensive capacity so command remains concentrated at the imperial center.
 - [Imperial Local-God Conflict / 皇权与地方神冲突](concepts/ImperialLocalGodConflict.md) — Pattern where imperial travel meets local sacred authority and may choose incorporation or punitive domination.

@@ -2,8 +2,8 @@
 title: "姜太公 / 姜子牙 / Jiang Taigong"
 type: entity
 tags: [person, founder, strategist, zhou-dynasty, qi-state, spring-and-autumn]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
+last_updated: 2026-08-22
 ---
 
 # 姜太公 / 姜子牙 / Jiang Taigong
@@ -20,6 +20,8 @@ The same source extends his later Zhou role beyond the conquest. After Zhou Wuwa
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Jiang Taigong as one of [[YaoJia|姚贾]]'s courtroom precedents. Yao Jia invokes him to argue that a ruler who rejects talent because of humble or difficult origins would also reject the old examples later celebrated as founding ministers.
 
+[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] adds a later reception branch through [[TaigongBingfa|《太公兵法》]]. In the source's Zhang Liang story, [[HuangshiGong|黄石公]] gives the book to [[ZhangLiang|张良]], making Jiang Taigong's strategic authority part of Zhang Liang's transformation from anti-Qin avenger to future counselor.
+
 ## Connections
 - [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episode.
 - [[QiState|齐国]] - state founded by Jiang Taigong in the source's setup.
@@ -28,3 +30,4 @@ The same source extends his later Zhou role beyond the conquest. After Zhou Wuwa
 - [[SpringAndAutumnPeriod|春秋时期]] - later historical setting in which the founding memory is invoked.
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[LuBuwei|吕不韦]], [[ZhouWenwang|周文王]], [[ZhouWuwang|周武王]], [[ZhouGong|周公]], and [[LateBloomingTalent|大器晚成式人才显现]] - genealogy claim, recognition story, Zhou founding role, and life-course concept.
 - [[YaoJia|姚贾]] and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent used to defend low-origin talent against Han Fei's attack.
+- [[TaigongBingfa|《太公兵法》]], [[HuangshiGong|黄石公]], [[ZhangLiang|张良]], and [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]] - strategic-text reception in the Zhang Liang bridge encounter.

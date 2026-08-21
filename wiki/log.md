@@ -9383,6 +9383,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险
+
+Added source page for Qinji 123-2: Qin's 214 BCE southern campaign against Baiyue, conscription of 捕亡人/赘婿/merchants, the host's institutional explanation of post-unification war inertia, Guilin/Nanhai/Xiang commandery setup and convict migration, Meng Tian's northern campaign against Xiongnu and wall integration, and Zhang Liang's Huangshi Gong/《太公兵法》 transition from assassin to strategist. Created Guilin Commandery, Nanhai Commandery, Xiang Commandery, Huangshi Gong, Taigong Bingfa, Post-Unification War Inertia, and Marginal-Status Conscription. Updated overview and index; entity/concept page updates were made for the Qin, Baiyue, Xiongnu, Meng Tian, Zhang Liang, Shangjun, Jiang Taigong, farming-war, military-merit, conquest-commandery, and northern-wall branches. No settled contradiction found; recorded the ruler-decision versus institutional-war-machine tension as a source-scoped synthesis.
+
 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！
 
@@ -9527,6 +9531,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？
 
 Added source page for Qinji 123-1: Zhang Liang's Bolangsha attack and "误中副车," Qin Shi Huang's continued eastern tours and Jieshi/Lu Sheng immortal-search branch, wall/levee removal as strong-trunk weak-branch centralization, "亡秦者胡" as prophecy-triggered policy, and Meng Tian's northern campaign trigger against Xiongnu. Created Lu Sheng, Bolangsha, Jieshi, Canghai Jun, Prophecy-Triggered Policy, and Strong-Trunk Weak-Branch Centralization. Updated overview, index, Qin Shi Huang, Qin State, Zhang Liang, Qin Er Shi, Meng Tian, Xiongnu, Weak-State Assassination Strategy, Imperial Tour Political Theater, Immortality Quest Politics, Fangshi Fraud And Authority, Chenwei Politics, Imperial Homogenization, and Warring States Northern Great Walls. No settled contradiction found; preserved the contemporaneous Xiongnu reading versus later Hu Hai hindsight.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 
