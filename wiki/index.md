@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”](sources/zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e.md) — 芮淇讲透资治通鉴 episode on Ye Gong's warning about Bai Gong Sheng, the 479 BCE Chu rebellion, speech as moral diagnosis, Ye Gong's retreat, and Ye Gong Hao Long's reputation damage.
 - [《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密](sources/zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p.md) — 芮淇讲透资治通鉴 episode on Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke through renyi-grounded virtue.
 - [《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！](sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco.md) — 芮淇讲透资治通鉴 episode on Changping Jun/Xiong Qi's Chu royal identity, the Mi Wan childless-source dispute, Shiji literary caution, final Chu resistance, Qin's Chu commandery setup, and remnant elites gathering toward Qi.
 - [《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！](sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu.md) — 芮淇讲透资治通鉴 episode on Wang Jian's 600,000-person second Chu campaign, fortified attrition against Xiang Yan, Xiang Yan's Qinan defeat, "楚虽三户" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction.
@@ -1180,9 +1181,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [白公胜 / Bai Gong Sheng](entities/BaiGongSheng.md) — Chu figure used by Qinji 119-1 as Sima Guang's negative comparison for trust and courage without renyi.
-- [叶公 / Ye Gong](entities/YeGong.md) — Chu judgment figure whose standard makes 信 and 勇 genuine only when grounded in 仁义.
-- [太子建 / Crown Prince Jian of Chu](entities/TaiziJianChu.md) — Chu crown prince whose exile and death form the Bai Gong Sheng grievance background in Qinji 119-1.
+- [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
+- [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.
+- [子西 / Zi Xi (Chu)](entities/ZiXiChu.md) — Chu lingyin who recalls Bai Gong Sheng despite Ye Gong's warning and is killed in the resulting rebellion.
+- [管修 / Guan Xiu (Chu)](entities/GuanXiuChu.md) — Respected Chu figure whose killing helps Ye Gong infer Bai Gong Sheng lacks popular support.
+- [刘向 / Liu Xiang](entities/LiuXiang.md) — Western Han compiler tied by Qinji 119-2 to Xinxu and the reputation-shaping Ye Gong Hao Long story.
+- [《新序》 / Xin Xu](entities/XinXu.md) — Liu Xiang's story collection cited as the source layer for Ye Gong Hao Long.
+- [白公胜 / Bai Gong Sheng](entities/BaiGongSheng.md) — Chu figure whose apparent trust and courage collapse into revenge, armed court violence, and failed rebellion without renyi.
+- [叶公 / Ye Gong](entities/YeGong.md) — Chu judgment figure who warns against ungrounded 信/勇, suppresses Bai Gong Sheng's rebellion, and later retires from high office.
+- [太子建 / Crown Prince Jian of Chu](entities/TaiziJianChu.md) — Chu crown prince whose exile and death form Bai Gong Sheng's grievance and revenge demand in the Qinji 119 comparison branch.
 - [要离 / Yao Li](entities/YaoLi.md) — Assassin cited by Yang Xiong in Qinji 119-1 as part of a typology that denies assassin deaths automatic义 status.
 - [李开元 / Li Kaiyuan](entities/LiKaiyuan.md) — Historian cited by Qinji 118-1 for the Qin Mi reconstruction of Changping Jun's Chu royal background and rebellion.
 - [《秦谜》 / Qin Mi](entities/QinMi.md) — Li Kaiyuan work used source-scopingly in Qinji 118-1 to reconstruct Changping Jun as Xiong Qi and explain Li Xin's Chu failure.
@@ -7590,7 +7597,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119-1 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.
+- [Speech As Moral Diagnostic / 言语作为德行信号](concepts/SpeechAsMoralDiagnostic.md) — Qinji 119-2 frame that harmful or violent speech can reveal intention and should matter in moral and personnel judgment.
+- [叶公好龙 / Ye Gong Hao Long](concepts/YeGongHaolong.md) — Idiom whose hypocrite image is reassessed by Qinji 119-2 as a reputation-distorting moral anecdote about Ye Gong.
+- [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.
 - [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
 - [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
 - [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Wang Jian's Qinji 118-1 strategy of refusing Xiang Yan's challenges, preserving Qin logistics and morale, and attacking only after Chu withdraws.
@@ -7800,7 +7809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [受任地方长官割据风险 / Appointed Governor Secession Risk](concepts/AppointedGovernorSecessionRisk.md) — Post-conquest governance risk where a centrally appointed local official uses terrain, resources, and delegated authority to attempt independent rule.
 - [Anger-Driven War Decision / 因怒兴师](concepts/AngerDrivenWarDecision.md) — Governance failure where humiliation turns into war aim, replacing strategic recovery with emotionally driven escalation.
 - [Correctable Leadership Error / 犯错能改的领导力](concepts/CorrectableLeadershipError.md) — Mencian leadership lesson that the decisive test after a mistake is visible correction rather than regret, excuses, or face-saving.
-- [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom-origin stories against period economy, incentives, and evidence, added through the rejected "二百五" derivation.
+- [Idiom Origin Skepticism / 典故来源辨伪](concepts/IdiomOriginSkepticism.md) — Source-critical method for testing memorable idiom stories against period fit, evidence, and reputation effects, from "二百五" to Ye Gong Hao Long.
 - [Non-Killing Unification / 不爱杀人者能一之](concepts/NonKillingUnification.md) — Mencian claim that durable unification comes from a ruler who does not love killing and can attract people exhausted by violence.
 - [Coalition Self-Preservation Failure / 联盟自保失灵](concepts/CoalitionSelfPreservationFailure.md) — Alliance failure mode where states share an enemy but each preserves its own forces and waits for another ally to pay the first cost.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
@@ -7844,7 +7853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
 - [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Zhao Liang's warning that popular regard and elite acceptance can become practical safety infrastructure for powerful ministers.
-- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying, leaving, or appearing fully capable dangerous.
+- [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, or exposed ruler humiliations make staying, leaving, or appearing fully capable dangerous; Ye Gong adds a clean-exit contrast.
 - [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.

@@ -9363,6 +9363,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”
+
+Added source page for Qinji 119-2: Ye Gong/Shen Zhuliang's warning against Zi Xi recalling Bai Gong Sheng, the 479 BCE Bai Gong Sheng rebellion against Chu Hui Wang, Ye Gong's suppression of the rebellion and later retirement from high office, the speech-and-intention critique of "刀子嘴豆腐心," and the Ye Gong Hao Long reputation problem through Liu Xiang's Xin Xu. Created Bai Gong Sheng Rebellion, Chu Hui Wang, Zi Xi (Chu), Guan Xiu (Chu), Liu Xiang, Xin Xu, Ye Gong Hao Long, and Speech As Moral Diagnostic; updated overview, index, Ye Gong, Bai Gong Sheng, Chu State, Renyi-Grounded Virtue, Power Exit Trap, Virtue Practice Internalization, Idiom Origin Skepticism, Confucius, and Analects. No settled contradiction found; kept the tension between the idiom's moral use and Ye Gong's historical reputation source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密
 
 Added source page for Qinji 119-1: Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign and capture of Yan Wang Xi, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke as failed assassin politics rather than义. Created Bai Gong Sheng, Ye Gong, Crown Prince Jian of Chu, Yao Li, and Renyi-Grounded Virtue; updated overview, index, Jing Ke, Yan Taizi Dan, Yan Wang Xi, Wang Ben, Yan State, Qin State, Sima Guang, Yang Xiong, Nie Zheng, Wu Zixu, Political Assassination Ethics, Weak-State Assassination Strategy, and Heir Sacrifice Appeasement. No settled contradiction recorded; kept the tension between Jing Ke's later literary侠士 memory and Sima Guang/Yang Xiong's harsher renyi-grounded judgment source-scoped.
@@ -9426,6 +9430,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！
 
 Added source page for Qinji 118-2: Changping Jun/Xiong Qi's Chu royal identity, pre-Qin 姓/氏 interpretation, the source dispute over whether Mi Wan was childless, Shiji and Zhanguoce scandal caution, Changping Jun's Chenying rebellion and brief Chu kingship, Xiang Yan's final resistance, Qin's temporary Chu commandery and later commandery subdivision, and the risk that remnant elites concentrate in Qi. Created Pre-Qin Surname-Clan Identity and Conquest Commandery Transition; updated overview, index, Changping Jun, Mi Wan, Chu Fuchu, Xiang Yan, Wang Jian, Meng Wu, Qin Shi Huang, Qin State, Chu State, Shiji, Sima Qian, Sima Guang, Zizhi Tongjian, Textual Variant Political Stakes, Historical Detective Reasoning, Evidence-Bound Historical Revision, Pregnancy Succession Substitution, Remnant Resistance Base, and Qin Administrative Standardization. Recorded contradictions/tensions: Qinji 118-2 disputes the earlier childless-Mi-Wan premise and gives a more extended Xiang Yan final sequence than Qinji 118-1.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

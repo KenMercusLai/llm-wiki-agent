@@ -2,8 +2,8 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+last_updated: 2026-08-22
 ---
 
 # 孔子 / Confucius
@@ -32,6 +32,8 @@ The source's point is not to replace Confucius's intellectual image with a sport
 
 [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] adds Confucius through [[LuState|鲁国]]'s archive and record-keeping environment. The episode says Confucius could edit or compile 《春秋》 and related historical material because Lu preserved rich records through its close relation to the [[ZhouRoyalHouse|周王室]]. The source does not develop a detailed family-biography mystery despite the title; its Confucius branch is mainly about [[HistoricalRecordAuthority|史官记录话语权]].
 
+[[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e]] adds Confucius through the [[YeGong|叶公]] branch. The episode says the [[Analects|《论语》]] also records Ye Gong and uses "言必信，行必果" to distinguish rigid outward reliability from higher virtue. It also notes a political-philosophy contrast: Ye Gong is presented as emphasizing state law, while Confucius is presented as emphasizing kinship ethics.
+
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
 - [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
@@ -49,3 +51,4 @@ The source's point is not to replace Confucius's intellectual image with a sport
 - [[VirtuePracticeInternalization|修养内化]], [[ZiShun|子顺]], [[LuZhonglian|鲁仲连]], and [[FixedHumanNaturePolitics]] - Qinji 101-1 human-nature caution and habit-formation branch.
 - [[XingShanTheory|性善论]], [[XingETheory|性恶论]], and [[HumanNaturePlasticity|人性可变性]] - Qinji 101-2 bridge between Mencian and Xunzian human-nature claims.
 - [[LuState|鲁国]], [[ZhouRoyalHouse|周王室]], and [[HistoricalRecordAuthority|史官记录话语权]] - Qinji 102-2 archive environment behind the source's Confucius title.
+- [[YeGong|叶公]], [[Analects|《论语》]], [[RenyiGroundedVirtue|仁义为本的信勇]], and [[SpeechAsMoralDiagnostic|言语作为德行信号]] - Qinji 119-2 speech, law, kinship, and virtue-evaluation branch.
