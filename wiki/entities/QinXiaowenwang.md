@@ -2,7 +2,7 @@
 title: "安国君柱 / 秦孝文王 / King Xiaowen of Qin"
 type: entity
 tags: [person, ruler, crown-prince, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]
+sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The source uses him mainly to make the prior hostage death legible. His appointm
 
 [[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]] makes that hint operational. Anguo Jun's many sons create a crowded heir field, while his favored wife [[HuayangFuren|华阳夫人]] has no son. The episode uses this family structure to explain why [[LuBuwei|吕不韦]] can see [[QinZhuangxiangwang|异人 / 子楚]] as a political investment: if Yiren can be connected to Huayang Furen, his rank can change through [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]].
 
+[[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] records the formal step. After Huayang Furen accepts the adoption plan, Anguo Jun establishes Yiren as嫡子, has a jade tally carved, grants him wealth, and reportedly makes [[LuBuwei|吕不韦]] his师傅. The episode doubts the tutor detail because a merchant tutor would have hurt Yiren's elite image, but it treats the jade tally as crucial evidence for [[WrittenSuccessionCredential|written succession credential]] politics.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - father and appointing ruler.
 - [[QinDaotaizi|秦悼太子]] - earlier crown prince whose death precedes his appointment.
@@ -23,3 +25,4 @@ The source uses him mainly to make the prior hostage death legible. His appointm
 - [[FanJu|范雎]], [[WeiRan|魏冉]], and [[QinFourNoblesCourtPower|秦国四贵权力结构]] - political environment around the succession reset.
 - [[LuBuwei|吕不韦]] - future Qin actor foreshadowed once Anguo Jun enters the narrative.
 - [[HuayangFuren|华阳夫人]], [[QinZhuangxiangwang|异人 / 子楚]], and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - Zhouji 97 part 3 favored wife, neglected son, and succession lever.
+- [[WrittenSuccessionCredential|书面继承凭证]] - Zhouji 97 part 4 jade-tally formalization of Yiren's adopted status.

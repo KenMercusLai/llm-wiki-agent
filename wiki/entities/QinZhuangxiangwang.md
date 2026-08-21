@@ -2,7 +2,7 @@
 title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
 type: entity
 tags: [person, ruler, hostage, qin-state, warring-states]
-sources: [zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,10 @@ The first agreement between Yiren and Lu Buwei is therefore not a rescue gift. L
 
 The episode's ending adds the next dynastic consequence: Lu Buwei gives his beloved woman to Yiren, and she later gives birth to [[QinShiHuang|嬴政 / 秦始皇]]. That detail is recorded here as part of the source's setup for the Qin succession chain, while the later reign of Qin Zhuangxiang Wang remains outside this episode's narrated scope.
 
+[[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] turns that setup into court recognition. After Lu Buwei reaches [[HuayangFuren|华阳夫人]] through [[YangquanJun|阳泉君]], [[QinXiaowenwang|安国君柱 / 秦孝文王]] establishes Yiren as嫡子 and has a jade tally carved. The episode reads this as a [[WrittenSuccessionCredential|written succession credential]]: Yiren's route to succession now depends on the adopted maternal line he receives from Huayang Furen.
+
+The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei for [[ZhaoJi|赵姬]], later makes her夫人 after she gives birth to Ying Zheng, and eventually escapes [[Handan|邯郸]] with Lu Buwei by bribing guards during the Qin-Zhao crisis. Once in Qin, he wears Chu clothing before Huayang Furen, and she gives him the name 子楚, making his adopted identity emotionally and politically legible.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - merchant-investor who identifies and backs him.
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - father and succession gate through whom Yiren's claim matters.
@@ -24,3 +28,4 @@ The episode's ending adds the next dynastic consequence: Lu Buwei gives his belo
 - [[ZhaoState|赵国]] and [[Handan|邯郸]] - hostage setting where Lu Buwei encounters him.
 - [[PoliticalVentureInvestment|政治风险投资]] and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - concepts that explain his source role.
 - [[QinShiHuang|嬴政 / 秦始皇]] - child born from the relationship introduced at the episode's end.
+- [[YangquanJun|阳泉君]], [[ZhaoJi|赵姬]], and [[WrittenSuccessionCredential|书面继承凭证]] - Zhouji 97 part 4 persuasion route, marriage/birth branch, and formal adoption proof.

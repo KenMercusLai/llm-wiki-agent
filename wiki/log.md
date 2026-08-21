@@ -9039,3 +9039,11 @@ Added source page for the third Zhouji 97 installment: Xinlingjun's answer to Pi
 ## [2026-08-21] lint | Wiki health check
 
 Ran health before lint; health scanned 12,283 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,283 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,283 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-4丨史上为事业送老婆第一人
+
+Added source page for the fourth Zhouji 97 installment: Lu Buwei's concentrated backing of Yiren, the Yangquan Jun to Huayang Furen persuasion route, Anguo Jun's establishment of Yiren as嫡子, the jade tally as written succession proof, Lu Buwei's doubtful师傅 role, Zhao Ji's transfer to Yiren, Qin Shi Huang's paternity rumor, and Yiren's escape from Handan and renaming as 子楚. Created Zhao Ji, Yangquan Jun, and Written Succession Credential; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang/Yiren, Huayang Furen, Qin Xiaowen Wang, Qin Shi Huang, Political Venture Investment, Maternal Status Succession Leverage, Mandate of Heaven Legitimacy, Textual Variant Political Stakes, Historical Detective Reasoning, and Guo Moruo. No direct contradiction found; the paternity rumor and Lu Buwei's tutor role are kept source-scoped and treated as disputed.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-21
 ---
 
@@ -16,12 +16,15 @@ This is not a license to treat every textual difference as propaganda. It is a r
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds a non-policy version of the same caution through [[LiTan|李谈 / 李同]]. The episode explains the Tan / Tong variation as [[SimaQian|司马迁]] avoiding the personal name of his father, Sima Tan, when writing [[Shiji|《史记》]]. That means a variant can arise from ritual and familial naming practice rather than a new historical actor or an intentional political judgment; the wiki should still record the mechanism because the identity consequence is real.
 
+[[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] adds a scandal-narrative version through [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], and [[QinShiHuang|嬴政 / 秦始皇]]. The episode compares whether Lu Buwei's anger at giving Zhao Ji to Yiren is staged or genuine, and whether the pregnancy detail should imply hidden paternity. Here, a small narrative difference changes Lu Buwei from calculating performer into injured investor, and changes Ying Zheng's birth story from dynastic succession into a possible anti-Qin scandal.
+
 ## Key Claims
 - Source variants can alter who appears harmed, angry, guilty, or legitimate.
 - A chronicle's wording can carry later political pressure even when it is narrating ancient events.
 - The right wiki treatment is to preserve both the wording difference and the interpretive uncertainty.
 - Political context can explain why a compiler's phrasing feels consequential, but context alone does not prove bad faith.
 - Some variants come from name avoidance or scribal convention rather than direct political framing, but they can still affect entity identification.
+- Variants around anger, concealment, and pregnancy can change whether a succession story reads as strategy, scandal, or later hostile memory.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[Shiji|《史记》]], and [[SimaGuang|司马光]] - source, variant, and compiler frame.
@@ -29,3 +32,4 @@ This is not a license to treat every textual difference as propaganda. It is a r
 - [[WangAnshi|王安石]], [[WangAnshiReforms|王安石变法]], and [[SongFactionalPolitics|宋代党争]] - Song-era political resonance.
 - [[HistoricalDetectiveReasoning]], [[ChronicleChronologyDrift]], and [[BanditAssassinationAttribution]] - adjacent source-reading guardrails.
 - [[LiTan|李谈 / 李同]], [[SimaQian|司马迁]], and [[Shiji|《史记》]] - Zhouji 96 part 4 name-avoidance variant case.
+- [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], and [[HistoricalDetectiveReasoning]] - Zhouji 97 part 4 paternity-rumor and narrative-variant case.
