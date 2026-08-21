@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手](sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc.md) — 芮淇讲透资治通鉴 episode on 236 BCE Zhao attacking Yan, Qin's Wang Jian/Huan Yi/Yang Duanhe strike on Zhao, and Zhao Qian's disputed succession after Zhao Jia is displaced.
 - [《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国](sources/zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9.md) — 芮淇讲透资治通鉴 episode completing Li Si's Qin entry and Jian Zhu Ke Shu argument, from Zheng Guo's spy-case backlash to Ying Zheng's revocation of the guest-expulsion order.
 - [《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？](sources/zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb.md) — 芮淇讲透资治通鉴 episode on Qin's 237 BCE guest-expulsion order, post-Lu Buwei security panic, Zheng Guo as anti-guest evidence, and Li Si's early mouse-philosophy path from minor Chu clerk to Xunzi student.
 - [Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back](sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605.md) — All-In interview with Dan Loeb on Third Point, short selling, event-driven investing, modern stock picking, management quality, Nvidia, private winners after IPO, education reform, and criminal-justice clemency.
@@ -1163,6 +1164,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [赵迁 / 赵幽缪王 / Zhao Youmiu Wang](entities/ZhaoYoumiuWang.md) — Zhao ruler whose accession after Zhao Jia's displacement is framed as a succession weakness during Qin's 236 BCE attack.
+- [赵嘉 / Zhao Jia](entities/ZhaoJia.md) — Displaced original Zhao crown prince in the Qinji 111-1 favorite-driven heir replacement branch.
+- [桓齮 / Huan Yi (Qin)](entities/HuanYiQin.md) — Qin commander who attacks Zhao with Wang Jian and Yang Duanhe in 236 BCE and takes Ye and Anyang in the source account.
 - [Dan Loeb](entities/DanLoeb.md) — Third Point founder whose All-In account links early internet short selling, event-driven investing, modern stock picking, management quality, philanthropy, and clemency advocacy.
 - [Third Point](entities/ThirdPoint.md) — Investment firm Loeb describes as evolving from event-driven hedge-fund trades into a broader platform across equity, credit, venture, insurance, and private credit.
 - [Actrade](entities/Actrade.md) — Loeb's source-scoped example of a 1990s short-selling target where factoring, securities packaging, and technology storytelling created a forensic research case.
@@ -1209,7 +1213,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
-- [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general introduced here as Li Mu's future opponent in the Qin-Zhao final phase.
+- [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose first developed wiki appearance is the 236 BCE campaign against Zhao after earlier appearing as Li Mu's future opponent.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
@@ -7525,6 +7529,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao, Yan, and Qin in 236 BCE.
+- [Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶](concepts/FavoriteDrivenHeirDisplacement.md) — Succession-risk mechanism where an established heir is displaced for the child of a favored partner, developed through Zhao Daoxiang Wang, Zhao Jia, and Zhao Qian.
 - [Short Selling](concepts/ShortSelling.md) — Downside investing discipline that Loeb frames as fraud hunting and structural research rather than valuation-only negativity.
 - [Stock Picking](concepts/StockPicking.md) — Active individual-company selection that the Loeb source says now requires technology literacy, macro context, management judgment, and thematic understanding.
 - [Event-Driven Investing](concepts/EventDrivenInvesting.md) — Investment style around takeovers, spin-offs, bankruptcies, privatizations, demutualizations, and risk arbitrage, presented as early Third Point's original edge.

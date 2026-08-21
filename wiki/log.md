@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手
+
+Added source page for Qinji 111-1: Zhao's 236 BCE attack on Yan, Qin's opportunistic Wang Jian/Huan Yi/Yang Duanhe campaign against Zhao, Wei's earlier Ye transfer as pressure redirection, Yan's warning to Ying Zheng, Wang Jian's first developed appearance, and Zhao Daoxiang Wang's succession damage through Zhao Qian replacing Zhao Jia. Created Zhao Youmiu Wang, Zhao Jia, Huan Yi, Weak-State Mutual Predation, and Favorite-Driven Heir Displacement; updated overview, index, Qin/Zhao/Yan/Wei state pages, Qin Shi Huang, Wang Jian, Yang Duanhe, Zhao Daoxiang Wang, Qin Eastward Pressure, and Affection-Driven Succession Risk. No direct contradiction found; the title's causal claim is kept source-scoped rather than treated as a literal sole-cause explanation for Zhao's fall.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》47丨燕王哙的理想主义
 
 Added source page for a 芮淇讲透资治通鉴 episode contrasting Qin's practical Ba-Shu decision with Yan Wang Kuai's idealistic transfer of authority to Zi Zhi. Created Lu Maoshou and Rule-Breaking Abdication; updated overview, index, Yan Wang Kuai, Zi Zhi, Sima Cuo, Zhang Yi, Ying Si, Su Dai, Su Li, Chen Liao, Yan/Ba/Shu state pages, Qin Frontier Buffer Management, Chuaimo Technique, and Talent-Virtue Distinction. No direct contradiction found; Ba-Shu chronology is complementary with Zhouji 52, and the Chen Liao comparison is kept source-scoped.
@@ -9291,6 +9295,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？
 
 Added source page for Qinji 110-1: Lu Buwei's post-removal political aftershock, Qin royal-clan ministers' guest-expulsion argument, Zheng Guo as foreign-agent evidence, Li Si's low-status Chu clerk background, the toilet-mouse versus granary-mouse analogy, and Li Si's turn toward Xunzi study before the full Jian Zhu Ke Shu argument. Created Guest Expulsion Order and Mouse Philosophy; updated overview, index, Li Si, Jian Zhu Ke Shu, Qin Shi Huang, Lu Buwei, Xunzi, Qin State, Zheng Guo, Zhengguo Canal, Self-Defeating Resource-Drain Strategy, Human Nature Plasticity, and Warring States Careerist Mobility. No direct contradiction found; the episode's cliffhanger and Li Si motive reading are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
