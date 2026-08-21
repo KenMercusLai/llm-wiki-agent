@@ -9383,6 +9383,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫
+
+Added source page for Qinji 125-1: Qin Shi Huang's thirty-fifth-year construction and secrecy branch, including Meng Tian's Qin Straight Road assignment, Xianyang overcrowding after elite relocation, Afang Palace's celestialized design and unfinished status, Lishan mausoleum labor priority, palace and material mobilization, Qin Er Shi's interrupted restart, Lu Sheng's hidden-residence advice, execution for leaked imperial whereabouts, and the setup for investigating allegedly slanderous儒生. Created Afang Palace, Qin Shi Huang Mausoleum, Qin Straight Road, Imperial Construction Overload, Imperial Itinerary Secrecy, and Fangshi Accountability Trap; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Lishan, Lu Sheng, Meng Tian, Qin Er Shi, Immortality Quest Politics, Fangshi Fraud And Authority, Qin Cosmic Capital Planning, and Elite Relocation Control. No settled contradiction found; the source preserves the boundary that this transcript is a坑儒 prelude and does not narrate the completed event.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险
 
 Added source page for Qinji 123-2: Qin's 214 BCE southern campaign against Baiyue, conscription of 捕亡人/赘婿/merchants, the host's institutional explanation of post-unification war inertia, Guilin/Nanhai/Xiang commandery setup and convict migration, Meng Tian's northern campaign against Xiongnu and wall integration, and Zhang Liang's Huangshi Gong/《太公兵法》 transition from assassin to strategist. Created Guilin Commandery, Nanhai Commandery, Xiang Commandery, Huangshi Gong, Taigong Bingfa, Post-Unification War Inertia, and Marginal-Status Conscription. Updated overview and index; entity/concept page updates were made for the Qin, Baiyue, Xiongnu, Meng Tian, Zhang Liang, Shangjun, Jiang Taigong, farming-war, military-merit, conquest-commandery, and northern-wall branches. No settled contradiction found; recorded the ruler-decision versus institutional-war-machine tension as a source-scoped synthesis.
@@ -9543,6 +9547,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！
 
 Added source page for Qinji 124: the 213 BCE book-burning order after Chunyu Yue's revived enfeoffment argument, Li Si's Legalist response, the targeted scope and exceptions of the order, penalties for private classical discussion and hidden books, official legal learning, cultural loss around six-state histories, and Kong Fu's hidden-book counterexample before the Chen Sheng/Wu Guang turn. Created Chunyu Yue, Kong Fu, Chen Yu, Chen Sheng, Wu Guang, Shangshu, Qin Book-Burning Policy, and Official Learning Monopoly; updated overview, index, Qin Shi Huang, Qin State, Li Si, Commandery-County Anti-Enfeoffment Settlement, Imperial Homogenization, Legalist Ruler Technique, Knowledge Monopoly, and Shijing. No settled contradiction found; the source explicitly separates "焚书" from the later "坑儒" branch and keeps the title's "平反" stance as source-scoped interpretation.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

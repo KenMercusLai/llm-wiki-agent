@@ -2,7 +2,7 @@
 title: "蒙恬 / Meng Tian"
 type: entity
 tags: [person, general, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
+sources: [zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ In this episode, Meng Tian therefore belongs to the command-selection branch rat
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] supplies that strategic sequel. Meng Tian defeats Xiongnu, recovers the Hetao region, helps Qin create forty-four counties there, links older defensive works into a long-wall system, and sits at [[Shangjun|上郡]] for more than a decade of northern pressure. The episode reads his campaign through [[PostUnificationWarInertia|统一后战争惯性]]: after unification, Qin still needs wars that can absorb military ambition and extend border control.
 
+[[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] adds Meng Tian as construction official for [[QinZhidao|秦直道]]. The source says Qin Shi Huang orders him in 212 BCE to build the road from Yunyang to Jiuyuan, a very long and difficult project that remains incomplete for years. This extends Meng Tian from frontier commander into late Qin's [[ImperialConstructionOverload|帝国工程过载]] branch.
+
 ## Connections
 - [[QinState|秦国]] - state he serves.
 - [[LiXinQin|李信]] - paired commander in the Chu campaign.
@@ -26,3 +28,4 @@ In this episode, Meng Tian therefore belongs to the command-selection branch rat
 - [[AnchoringEffect|锚定效应]] - interpretive frame for the source's command-selection warning.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[LuSheng|卢生]], [[ProphecyTriggeredPolicy|预言触发政策]], and [[Xiongnu|匈奴]] - northern campaign assignment after the "亡秦者胡" warning.
 - [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Shangjun|上郡]], [[WarringStatesNorthernGreatWalls|战国北境长城]], and [[PostUnificationWarInertia|统一后战争惯性]] - completed northern campaign frame, wall integration, and extended frontier command.
+- [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[QinZhidao|秦直道]], and [[ImperialConstructionOverload|帝国工程过载]] - straight-road construction assignment and late-Qin project burden.

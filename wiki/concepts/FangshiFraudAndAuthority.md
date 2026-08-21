@@ -2,7 +2,7 @@
 title: "Fangshi Fraud And Authority / 方士骗术与权威"
 type: concept
 tags: [fraud, religion, politics, china, social-engineering]
-sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 
 [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds a nearby but distinct [[LuSheng|卢生]] case. Lu Sheng also fails to bring back immortals, but the source emphasizes the returned 图书 and "亡秦者胡" rather than a new supply demand. The authority pattern therefore shifts from extraction to interpretation: the specialist's access to the unseen gives the court a warning that can be read into policy.
 
+[[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]] adds the risk after authority succeeds. [[LuSheng|卢生]]'s advice about hidden residence and moving unpredictably is persuasive enough that [[QinShiHuang|秦始皇]] reorganizes palace movement and punishes leaks. That turns specialist authority into [[FangshiAccountabilityTrap|方士问责陷阱]]: once the emperor obeys and no immortality appears, the same unverifiable claims that produced influence can expose the specialist to lethal blame.
+
 ## Key Claims
 - Scam authority often begins by meeting a real emotional need.
 - Props, distance, darkness, special vocabulary, staged verification, and failure reinterpretation can make ordinary technique feel supernatural.
@@ -23,6 +25,7 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 - Anti-fraud skepticism should protect believers and victims rather than merely mock them.
 - Qinji 122-2 adds failure reinterpretation at imperial scale: the failed specialist can blame inaccessible sacred conditions and turn disappointment into a larger budget.
 - Qinji 123-1 adds that a failed specialist can also convert disappointment into a warning text, making authority consequential even without a direct resource request.
+- Qinji 125-1 adds that successful persuasion creates later delivery risk: if hidden movement still produces no immortals, fangshi claims become politically dangerous to their makers.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -31,4 +34,5 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 - [[ImmortalityQuestPolitics]] - ruler-demand side of the bargain.
 - [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh|Qinji 122-2]], [[Penglai|蓬莱]], and [[XuFuJapanDescentLegend|徐福日本后裔传说]] - Xu Fu's failed mission, renewed resource request, and later legend boundary.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[LuSheng|卢生]], and [[ProphecyTriggeredPolicy|预言触发政策]] - failed search returning as warning and interpretive authority.
+- [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[ImperialItinerarySecrecy|帝王行踪保密]], and [[FangshiAccountabilityTrap|方士问责陷阱]] - hidden-residence advice and the danger of unmet miracle promises.
 - [[SocialEngineeringFraud]], [[ScientificSkepticism]], and [[OccamsRazor]] - modern anti-fraud frames.
