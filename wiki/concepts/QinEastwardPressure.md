@@ -80,6 +80,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] adds a 317 BCE pursuit version. After the failed anti-Qin attack at [[HanguPass|函谷关]], Qin follows [[HanState|韩国]] and [[WeiState|魏国]] east under [[Chulizi|樗里子]], wins at [[XiuyuBattle|修鱼之战]], and continues to [[ZhuozeBattle|浊泽]]. This makes eastward pressure visible as deep pursuit into the central plains, not only stepwise border seizure.
 
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] adds a 314 BCE pressure cluster. Qin's attack on [[YiquState|义渠]] and capture of twenty-five cities show rear-frontier instability still affecting expansion; its Quwo notice keeps [[QuwoWarringStates|曲沃]] in the pressure vocabulary with a source-scoped Wey wording ambiguity; and its victory over [[HanState|韩国]] at [[AnmenWarringStates|岸门]] forces Han to send crown prince [[HanXiangwang|韩仓 / 韩襄王]] as a hostage. The pattern is therefore not a single eastward front but a rolling mix of rear pacification, border seizure, battlefield victory, and hostage-peace extraction.
+
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] broadens the pressure into a coordinated 313 BCE military-diplomatic sequence. [[Chulizi|樗里子]] attacks [[ZhaoState|赵国]], while [[YingSi|秦惠文王]] sends [[ZhangYiStrategist|张仪]] to break [[ChuState|楚国]] from [[QiState|齐国]] before moving against Qi. Qin pressure therefore works through both field operations and alliance surgery.
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] shows the military result of that alliance surgery. Qin joins with Qi to defeat Chu at [[DanyangBattle|丹阳之战]], captures [[Hanzhong|汉中]], then faces Chu Huaiwang's advance through [[Wuguan|武关]] toward [[LantianBattle|蓝田之战]] while [[HanState|韩国]] and [[WeiState|魏国]] pressure Chu from behind. Qin pressure now reaches Chu as territorial seizure, alliance reversal, and multi-front coercion.
@@ -110,6 +112,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - Zhouji 38 shows pressure continuing through Zhang Yi's ambiguous Wei role: Qin can attack Wei directly while also treating Qi-Wei disorder as an opening.
 - Zhouji 39 shows pressure working through office and obligation: Qin's influence can persist inside Wei through Zhang Yi's debt to Qin Huiwen Wang.
 - Zhouji 46 shows pressure as post-coalition pursuit: once Hangu Pass defense succeeds, Qin can punish Han and Wei beyond the pass.
+- Zhouji 48 shows pressure as synchronized with rear-frontier management and hostage diplomacy, not only city-taking along the central-plains front.
 - Zhouji 50 shows pressure as theater management: Qin can strike Zhao directly while using Zhang Yi to isolate Chu from Qi before a separate campaign.
 - Zhouji 51 shows Qin pressure turning a successful alliance rupture into territorial seizure and multi-front coercion against Chu.
 - Zhouji 57 keeps Yiyang central but adds a trust-management layer: Qin pressure against Han can require prior ruler-commander commitment because distance, delay, and factional accusation threaten the campaign.
@@ -157,6 +160,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[PingzhouWarringStates|平州]], [[QinWuwang|秦武王]], [[QiMinWang|齐湣王]], [[YinmouYangmouConversion|阴谋阳谋转换]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 38 renewed territorial pressure and conflict-opening branch.
 - [[YingSi|秦惠文王]], [[HuiShi|惠施 / 惠师]], [[GraceDebtLoyaltyPressure|恩赏负债式忠诚压力]], and [[LianhengStrategy|连横]] - Zhouji 39 personnel-pressure extension.
 - [[Chulizi|樗里子]], [[XiuyuBattle|修鱼之战]], [[ZhuozeBattle|浊泽]], [[HanguPass|函谷关]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 46 post-Hangu pursuit extension.
+- [[YiquState|义渠]], [[QuwoWarringStates|曲沃]], [[AnmenWarringStates|岸门]], [[HanXiangwang|韩襄王]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - Zhouji 48 rear-frontier, Quwo, and hostage-peace pressure extension.
 - [[ZhangYiStrategist|张仪]], [[ChuHuaiwang|楚怀王]], [[QiState|齐国]], [[Shangyu|商於]], and [[UnverifiedTerritorialPromiseTrap|未验地先断交陷阱]] - Zhouji 50 direct-pressure plus alliance-rupture extension.
 - [[DanyangBattle|丹阳之战]], [[Hanzhong|汉中]], [[Wuguan|武关]], [[LantianBattle|蓝田之战]], [[HanState|韩国]], and [[WeiState|魏国]] - Zhouji 51 Chu-front military consequence.
 - [[GanMao|甘茂]], [[QinWuwang|秦武王]], [[WeiXiangwang|魏襄王]], [[QinZhaoxiangwang|秦昭襄王]], [[RumorErosionOfTrust|谣言侵蚀信任]], and [[OathBoundCommandTrust|盟誓约束下的统帅信任]] - Zhouji 57-58 Yiyang campaign commitment, capture, succession, and chronology-tension branch.

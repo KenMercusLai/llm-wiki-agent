@@ -9275,3 +9275,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》48丨君王为啥不能传位宰相
+
+Added source page for Zhouji 48: Zhou Shenliang Wang's death and Zhou Nan Wang's accession; Yan Wang Kuai and Zi Zhi's rule-breaking transfer collapsing into Yan civil disorder; Shi Bei and the crown prince's failed anti-Zi-Zhi move; Qi Xuan Wang's Zhang Zi-led occupation and killing of Yan Wang Kuai and Zi Zhi; Sima Guang's 礼-as-rule interpretation; and Qin's early Zhou Nan Wang pressure on Yiqu, Wey/Quwo, and Han at Anmen. Created Shi Bei, Zhang Zi (Qi general), Anmen (Warring States), and Li As Political Order. Updated overview, index, Yan Wang Kuai, Zi Zhi, Qi Xuan Wang, Yan State, Yan Zhaowang, Zhou Shenliang Wang, Zhou Nan Wang, Qin State, Yiqu, Quwo, Wey State, Han Xiang Wang, Sima Guang, Rule-Breaking Abdication, Qin Frontier Buffer Management, and Qin Eastward Pressure. No direct contradiction found in the Yan sequence; the Yiqu prior-destruction wording and Quwo/Wey wording are kept source-scoped against existing Yiqu and Quwo synthesis.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

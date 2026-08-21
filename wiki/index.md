@@ -105,6 +105,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！](sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac.md) — 芮淇讲透资治通鉴 episode on why Chu Huaiwang fell for Zhang Yi, the Danyang and Lantian defeats, Hanzhong's loss, and the danger of raising armies from anger.
 - [《资治通鉴·周纪》50丨张仪是怎样把楚怀王忽悠瘸的](sources/zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege.md) — 芮淇讲透资治通鉴 episode on Zhang Yi's promise of six hundred li of Shangyu to break the Qi-Chu alliance, Chen Zhen's ignored verification-first advice, and Chu Huaiwang's escalation from diplomatic isolation to war.
 - [《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶](sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8.md) — 芮淇讲透资治通鉴 episode on Qi Xuan Wang's conquest of Yan, Mencius's people-based test for legitimate conquest, the repair plan Qi rejects, and the leadership lesson that mistakes must be corrected rather than excused.
+- [《资治通鉴·周纪》48丨君王为啥不能传位宰相](sources/zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm.md) — 芮淇讲透资治通鉴 episode on Yan Wang Kuai and Zi Zhi's rule-breaking transfer collapsing into Yan civil disorder, Qi Xuan Wang's intervention, Sima Guang's 礼-as-rule reading, and Qin's early Zhou Nan Wang pressure on Yiqu, Quwo, and Han at Anmen.
 - [《资治通鉴·周纪》47丨燕王哙的理想主义](sources/zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr.md) — 芮淇讲透资治通鉴 episode contrasting Qin's practical Ba-Shu strategy choice with Yan Wang Kuai's idealistic transfer of authority to Zi Zhi through Su Dai and Lu Maoshou.
 - [《资治通鉴·周纪》46丨骂你是个“二百五”的历史来源](sources/zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff.md) — 芮淇讲透资治通鉴 episode on Qin's 317 BCE Xiuyu-Zhuoze pursuit after the failed anti-Qin coalition, Su Qin's assassination in Qi, and skepticism toward the folk "二百五" origin story.
 - [《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？](sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db.md) — 芮淇讲透资治通鉴 episode opening 周纪三 through Mencius's non-killing unification claim, the failed five-state attack on Qin at Hangu Pass, and Song Kang Wang's violent rise and destruction.
@@ -1434,6 +1435,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乐毅 / Le Yi](entities/LeYi.md) — Yan general whose anti-Qi conquest and pacification strategy collapse after Yan Huiwang replaces him, forcing exile to Zhao.
 - [剧辛 / Ju Xin](entities/JuXin.md) — Zhao-origin talent whose move to Yan helps prove Yan Zhaowang's recruitment signal.
 - [子之 / Zi Zhi](entities/ZiZhi.md) — Yan Wang Kuai's failed worthy-person judgment, contrasted with Yan Zhaowang's later use of Le Yi and Ju Xin.
+- [市被 / Shi Bei](entities/ShiBei.md) — Yan general whose failed attack on Zi Zhi and turn against the crown prince show Yan's broken command order after Yan Wang Kuai's transfer.
+- [张子 / Zhang Zi (Qi general)](entities/ZhangZiQiGeneral.md) — Qi commander sent by Qi Xuan Wang into internally broken Yan before the Mencius legitimacy debate.
 - [陈庄 / Chen Zhuang (Warring States)](entities/ChenZhuangWarringStates.md) — Qin-appointed Shu chancellor who kills Shu Hou Ning Tong and rebels before Gan Mao suppresses him.
 - [蜀侯宁通 / Shu Hou Ning Tong](entities/ShuHouNingTong.md) — reduced Shu ruler killed by Chen Zhuang in the Qin-Shu rebellion.
 - [司马错 / Sima Cuo](entities/SimaCuo.md) — Qin strategist whose advice to attack Shu creates Qin's Ba-Shu base and later governance problem.
@@ -1444,6 +1447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [都江堰 / Dujiangyan](entities/Dujiangyan.md) — irrigation project used by the episode to explain Ba-Shu's later grain value for Qin.
 - [李冰 / Li Bing](entities/LiBing.md) — Qin-associated engineer named with his son in the source as builders of Dujiangyan.
 - [韩襄王 / King Xiang of Han](entities/HanXiangwang.md) — Han Cang, successor to Han Xuanhui/Hui Wang in the Zhouji 52 succession notice.
+- [岸门 / Anmen (Warring States)](entities/AnmenWarringStates.md) — Han-Qin battle site where Qin's victory leads Han crown prince Han Cang to be sent as hostage.
 - [丹阳之战 / Battle of Danyang](entities/DanyangBattle.md) — 312 BCE Qin defeat of Chu after Chu Huaiwang attacks from anger, leading to Qu Gai's capture and the loss of Hanzhong.
 - [蓝田之战 / Battle of Lantian](entities/LantianBattle.md) — Chu Huaiwang's second angry attack, where Qin draws Chu deep through Wuguan and Shangyu before counterattacking near Lantian.
 - [汉中 / Hanzhong](entities/Hanzhong.md) — Chu territory lost to Qin after Danyang, used by the episode to contrast concrete recovery needs with fixation on promised Shangyu.
@@ -7680,6 +7684,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Responsibility-Avoidant Killing / 避责式杀害](concepts/ResponsibilityAvoidantKilling.md) — Pattern where actors avoid a direct killing act while deliberately arranging confinement, deprivation, or other conditions that make death predictable.
 - [Partial Abdication Power Split / 退位留权式权力分裂](concepts/PartialAbdicationPowerSplit.md) — Governance failure where an incumbent yields formal title but keeps enough authority to leave command, loyalty, and succession power divided.
 - [Rule-Breaking Abdication / 破坏规则式禅让](concepts/RuleBreakingAbdication.md) — Succession failure where a ruler treats the state as transferable moral capital and hands real authority to a non-dynastic minister.
+- [Li As Political Order / 礼制政治秩序](concepts/LiAsPoliticalOrder.md) — Sima Guang/Confucian role-order reading in which 礼 functions as the rule system keeping ruler, minister, father, son, command, and succession legible.
 - [名辩 / Mingjia Disputation](concepts/MingjiaDisputation.md) — Gongsun Long-style arguments around "白马非马", "兼白同异", and "臧三耳" as language/category play that can become sophistic victory.
 - [求明理的辩论规范 / Truth-Seeking Debate Norm](concepts/TruthSeekingDebateNorm.md) — Kong Chuan and Zou Yan's standard that argument should clarify categories, facts, and shared understanding rather than merely silence an opponent.
 - [鸡鸣狗盗式人才批评 / Jiming-Goudao Talent Critique](concepts/JimingGoudaoTalentCritique.md) — Wang Anshi-based critique that tactical retainer tricks can save a patron without proving statecraft-level talent or good talent selection.
@@ -7785,7 +7790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reform Without Popular Deliberation / 不与民虑始](concepts/ReformWithoutPopularDeliberation.md) — Shang Yang's claim that transformative reform can begin before ordinary people understand or consent to it.
 - [Military Merit Rank System / 军功爵制](concepts/MilitaryMeritRankSystem.md) — Status mechanism that converts battlefield achievement into rank, privilege, and social mobility while still leaving officials exposed to faction and succession risk.
 - [徙木立信 / Moving the Log to Build Trust](concepts/XimuLixin.md) — Shang Yang's public reward demonstration for making Qin's future legal rewards and punishments believable.
-- [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Pattern in which Qin's eastern expansion forces rival states to react, from battlefield pressure to Yiyang administration and coalition rebound.
+- [Qin Eastward Pressure / 秦国东进压力](concepts/QinEastwardPressure.md) — Pattern in which Qin's eastern expansion forces rival states to react, from battlefield pressure and hostage diplomacy to Yiyang administration and coalition rebound.
 - [Ritual Recognition of Military Power / 礼制承认军事权力](concepts/RitualRecognitionOfMilitaryPower.md) — Interpretation of Zhou Xian Wang's 黻服 gift as symbolic ratification of Qin Xian Gong's military status.
 - [十二华章政治象征 / Twelve Insignia Political Symbolism](concepts/TwelveInsigniaPoliticalSymbolism.md) — Pre-Qin garment-symbol vocabulary used in Zhouji 11 to explain why 黻服 could carry political meaning.
 - [Talent Attraction Through Respect / 礼贤下士式人才吸附](concepts/TalentAttractionThroughRespect.md) — Wei Wenhou's ruler-image mechanism where respect for scholars and recluses attracts capable people without coercion.

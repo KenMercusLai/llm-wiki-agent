@@ -2,7 +2,7 @@
 title: "Qin Frontier Buffer Management / 秦国后方边患管理"
 type: concept
 tags: [frontier, statecraft, diplomacy, pre-qin-history, warring-states, qin-state]
-sources: [zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+sources: [zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
 last_updated: 2026-08-21
 ---
 
@@ -13,6 +13,8 @@ Qin frontier buffer management / 秦国后方边患管理 is the pattern [[zizhi
 The policy is neither pure appeasement nor immediate annihilation. Qin tries to avoid unnecessary conflict while the eastern front matters more, but once Yiqu becomes too strong and too close, Qin attacks, takes part of its land, and incorporates the captured area into Qin's county system. Yiqu's ruler submits, yet the source stresses that Yiqu is not fully destroyed.
 
 This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward pressure]]. The stronger Qin becomes in the east, the more it also has to manage the rear frontier that could interrupt or exploit that expansion.
+
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] adds a source-scoped Yiqu recurrence in Zhou Nan Wang's first year. [[QinState|秦国]] attacks [[YiquState|义渠]], takes twenty-five cities, and the host explains the event as a rebellion after prior destruction and county incorporation. Because Zhouji 35 treats earlier Yiqu submission as incomplete and Zhouji 85 still preserves final destruction, the new source strengthens the "buffer remains unstable" claim while leaving the chronology tension visible.
 
 [[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] gives the original Ba-Shu choice in sharper strategic form. [[SimaCuo|司马错]] argues that [[ShuStateWarringStates|蜀国]] offers land, wealth, and population benefits without the diplomatic danger of [[ZhangYiStrategist|张仪]]'s proposed eastern move against [[HanState|韩国]] and the [[ZhouRoyalHouse|周王室]]. The source therefore makes Ba-Shu not just a later rear problem but a deliberate resource-base strategy.
 
@@ -26,6 +28,7 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 - Partial territorial incorporation can reduce immediate danger while stopping short of a full absorption campaign.
 - The concept shows Qin's rise as a multi-front management problem, not only a linear march east.
 - Zhouji 47 adds that Qin deliberately chooses a southwestern resource base over a higher-status but riskier move toward Han and the Zhou royal center.
+- Zhouji 48 adds that a supposedly absorbed frontier can reappear as rebellion, making source chronology itself part of the buffer-management problem.
 - Zhouji 52 adds that conquered rear regions can become dangerous through Qin's own appointees, especially where terrain and resources make local autonomy tempting.
 - Zhouji 85 adds that Qin can use palace-level intimacy as temporary frontier pacification, then replace the buffer with direct commandery administration when timing changes.
 

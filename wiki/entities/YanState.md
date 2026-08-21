@@ -36,6 +36,8 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 
 [[zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr]] supplies the internal collapse mechanism before the later Qi conquest. [[YanWangKuai|燕王哙]] lets [[ZiZhi|子之]] gain trust, public prestige, and finally appointment power after [[SuDai|苏代]] and [[LuMaoshou|鹿毛寿]] frame the move as rulerly trust and ancient-style abdication. Yan's vulnerability in the next branch is therefore not only external; it follows a broken succession and authority structure inside the state.
 
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] fills the civil-disorder bridge. After Zi Zhi's three years of practical power, [[ShiBei|市被]] and Yan Wang Kuai's crown prince attack Zi Zhi and fail, the crown prince flees, and [[QiXuanWang|齐宣王]] sends [[ZhangZiQiGeneral|张子]] into Yan. The episode makes Yan's defeat a [[LiAsPoliticalOrder|礼制政治秩序]] case: once ruler, minister, father, son, and command roles are broken, internal force cannot cleanly restore legitimacy and outside intervention can claim moral cover.
+
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] moves Yan from alliance participant to conquered population. [[QiXuanWang|齐宣王]] has already taken Yan, and [[Mengzi|孟子 / Mencius]] says the only justification would be that Yan's people welcome Qi as rescue from suffering. The episode then says Yan's people rebel after Qi fails that standard, making Yan a case for [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]] after conquest.
 
 [[zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac]] only touches Yan as a closing hook. After finishing the Chu Huaiwang war sequel, the episode notes that Yan prince Ji Ping had escaped after [[QiXuanWang|齐宣王]] killed his father, setting up the next Yan-politics branch without yet developing it.
@@ -87,6 +89,7 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 - [[YanYiwang|燕易王]], [[QiState|齐国]], [[QiXuanWang|齐宣王]], and [[StrategicLuxurySabotage|奢侈诱导式削弱]] - Zhouji 37 scandal, staged flight, and anti-Qi weakening branch.
 - [[YanWangKuai|燕王哙]] and [[ZhouXianwang|周显王]] - Zhouji 40 final-year succession notice.
 - [[QinState|秦国]], [[HanguPass|函谷关]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 five-state coalition branch.
+- [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[ShiBei|市被]], [[ZhangZiQiGeneral|张子]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Zhouji 47-48 broken succession, civil disorder, and Qi intervention branch.
 - [[QiXuanWang|齐宣王]], [[Mengzi|孟子 / Mencius]], [[ShangTang|商汤]], [[MencianBenevolentGovernment|孟子仁政]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest, failed occupation, and correction branch.
 - [[QiXuanWang|齐宣王]] - Zhouji 51 closing hook around Yan prince Ji Ping's survival after Qi's intervention in Yan.
 - [[YanZhaowang|燕昭王]], [[GuoWeiWarringStates|郭隗]], [[LeYi|乐毅]], [[JuXin|剧辛]], [[ZiZhi|子之]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 52 recovery and talent-recruitment branch.

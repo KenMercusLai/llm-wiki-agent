@@ -52,6 +52,8 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 
 [[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] adds a source-selection and Song-political resonance case. The host says a [[Zhanguoce|《战国策》]] story about [[HanXuanhuiwang|韩宣惠王]] appointing two chief ministers may have been included because it was useful for rule, then connects the lesson to Sima Guang's own era: emperors trying to act often had to choose between new-party and old-party personnel rather than keep both in durable balance.
 
+[[zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm]] adds a direct rule-order reading through [[YanWangKuai|燕王哙]] and [[ZiZhi|子之]]. The host reads Sima Guang's discussion of 礼 as more than ceremony: it is the layered rule system that keeps ruler, minister, father, son, succession, and command legible. That makes [[LiAsPoliticalOrder|礼制政治秩序]] another "资治" principle, adjacent to his earlier personnel and trust lessons.
+
 [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds another direct "资治" reading through [[Mengzi|孟子 / Mencius]], [[QiXuanWang|齐宣王]], and [[YanState|燕国]]. The episode says the chronicle preserves the exchange not only as a classical quotation but as ruler instruction: conquest must become benevolent governance, and known mistakes must be corrected rather than excused. It also flags the Qi Xuan Wang death notice as a source chronology problem.
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds a direct moral-political criticism through [[MiHeng|芈横 / 楚顷襄王]]. Sima Guang condemns Chu for renewing marriage with Qin after Qin had killed or destroyed [[ChuHuaiwang|楚怀王]], and the host reads this as another case where an ancient notice may also speak to Song rulers about whether expedient settlements erase political shame.
@@ -85,6 +87,7 @@ When Sima Guang and the old party returned to power, Su Shi objected to indiscri
 - [[SuQin|苏秦]], [[WuZhicai|吾之才]], [[ZhuFuYan|主父偃]], and [[InspirationalNarrativeCommercialization|励志叙事商业化]] - Zhouji 29 consolation poem and Su Qin reception branch.
 - [[Mengchangjun|孟尝君 / 田文]], [[WarringStatesRetainerPatronage|战国养士]], [[GongsunXu|公孙须]], and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 two-sided patronage and remonstrance judgment.
 - [[HanXuanhuiwang|韩宣惠王]], [[MiuLiu|谬刘]], [[DualExecutivePowerRisk|双首长权力风险]], and [[SongFactionalPolitics|宋代党争]] - Zhouji 44 source-selection and factional-choice resonance.
+- [[YanWangKuai|燕王哙]], [[ZiZhi|子之]], [[RuleBreakingAbdication|破坏规则式禅让]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Zhouji 48 rule-order lesson.
 - [[QiXuanWang|齐宣王]], [[YanState|燕国]], [[ChenJiaWarringStates|陈甲]], [[CorrectableLeadershipError|犯错能改的领导力]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 49 ruler-instruction and chronology-warning branch.
 - [[MiHeng|芈横 / 楚顷襄王]], [[ChuHuaiwang|楚怀王]], [[QinZhaoxiangwang|秦昭襄王]], [[WarringStatesMarriageDiplomacy|战国联姻外交]], and [[SongFactionalPolitics|宋代党争]] - Zhouji 67 criticism of Chu's Qin marriage settlement after coercion.
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[QiMinWang|齐湣王]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Wangba quotation and ruler-instruction branch.
