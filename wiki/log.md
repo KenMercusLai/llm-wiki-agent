@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？
+
+Added source page for Qinji 120-1: Wang Ben's 221 BCE northern attack on Qi, Qi Wang Jian's inducement surrender under Qin's unfulfilled five-hundred-li promise, his starvation at Gong, the host's casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense narrative for destroying the six states. Created Casualty-Sparing Surrender and Conquest Self-Defense Narrative; updated overview, index, Qi Wang Jian, Hou Sheng, Jun Wang Hou, Wang Ben, Qin Shi Huang, Qin/Qi/Han/Zhao/Wei/Chu/Yan state pages, fallen-ruler pages, and related appeasement, low-posture, moralized-pretext, and vanquished-ruler reputation concepts. No settled contradiction found; the main tension is evaluative rather than factual: Qi's appeasement is both strategically terminal and civilian-sparing in the final campaign.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后
 
 Added source page for Qinji 119-3: Wang Ben's capture of Dai and Zhao Jia after Yan's fall, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji Commandery setup, Qi's late peace under Jun Wang Hou, the jade linked-rings dignity story, Qi's possible misreading of Qin's far-state reassurance under yuanjiao jingong, and Yongmen Sima's remonstrance hook. Created Baiyue, Kuaiji Commandery, Yongmen Sima, and Distant-State Appeasement Trap; updated overview, index, Jun Wang Hou, Qi Wang Jian, Hou Sheng, Qi/Qin state pages, Qin Shi Huang, Wang Ben, Wang Jian, Zhao Jia, Dai State, Queen-Mother Regency, Yuanjiao Jingong Strategy, Appeasement Logic, Low-Posture Statecraft, and Conquest Commandery Transition. No settled contradiction found; the source-scoped "first true curtain-regency" title is preserved beside Xuan Taihou's earlier first queen-mother-power framing.
@@ -9434,6 +9438,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！
 
 Added source page for Qinji 118-2: Changping Jun/Xiong Qi's Chu royal identity, pre-Qin 姓/氏 interpretation, the source dispute over whether Mi Wan was childless, Shiji and Zhanguoce scandal caution, Changping Jun's Chenying rebellion and brief Chu kingship, Xiang Yan's final resistance, Qin's temporary Chu commandery and later commandery subdivision, and the risk that remnant elites concentrate in Qi. Created Pre-Qin Surname-Clan Identity and Conquest Commandery Transition; updated overview, index, Changping Jun, Mi Wan, Chu Fuchu, Xiang Yan, Wang Jian, Meng Wu, Qin Shi Huang, Qin State, Chu State, Shiji, Sima Qian, Sima Guang, Zizhi Tongjian, Textual Variant Political Stakes, Historical Detective Reasoning, Evidence-Bound Historical Revision, Pregnancy Succession Substitution, Remnant Resistance Base, and Qin Administrative Standardization. Recorded contradictions/tensions: Qinji 118-2 disputes the earlier childless-Mi-Wan premise and gives a more extended Xiang Yan final sequence than Qinji 118-1.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "赵嘉 / Zhao Jia"
 type: entity
 tags: [person, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
+sources: [zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The page is source-scoped and intentionally narrow. Zhao Jia matters here as the
 
 [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] closes the Dai branch. After [[WangBenQin|王贲]] captures Yan Wang Xi and controls Yan territory, he attacks [[DaiState|代国]], defeats Zhao Jia, and captures him. The source contrasts Zhao Jia's later settlement near [[Xianyang|咸阳]] and surviving descendants with [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]]'s harsher exile.
 
+[[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0]] uses the Zhao and Dai branch inside Qin's post-unification explanation. Qin's story presents Zhao as a state that broke agreements and then extended resistance through Dai, making Zhao Jia's remnant kingship part of the official justification for conquest. The page records this as source-scoped [[ConquestSelfDefenseNarrative|兼并自卫叙事]].
+
 ## Connections
 - [[ZhaoState|赵国]] - polity whose heir structure is altered.
 - [[ZhaoDaoxiangwang|赵道襄王]] - ruler who displaces Zhao Jia.
@@ -29,3 +31,4 @@ The page is source-scoped and intentionally narrow. Zhao Jia matters here as the
 - [[WangJianQin|王翦]], [[QinState|秦国]], and [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]] - defeat of the Yan-Dai joint force after the failed assassination.
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], [[YanTaiziDan|燕太子丹]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - advice to kill the crown prince and offer his head to Qin.
 - [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul|Qinji 119-3]], [[WangBenQin|王贲]], and [[Xianyang|咸阳]] - capture of Dai and later settlement contrast with Zhao Qian.
+- [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]] and [[ConquestSelfDefenseNarrative|兼并自卫叙事]] - Dai branch reused in Qin's post-unification justification.

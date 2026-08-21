@@ -2,7 +2,7 @@
 title: "燕王喜 / King Xi of Yan"
 type: entity
 tags: [person, ruler, yan-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
+sources: [zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The resulting [[HaodaiBattle|鄗代之战]] turns his calculation into a reversa
 
 [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] records the final result of that misread. In 222 BCE, [[WangBenQin|王贲]] attacks Liaodong, captures Yan Wang Xi, and ends [[YanState|燕国]]. The episode treats Dan's killing as buying only a few years, making Yan Wang Xi's appeasement another failed attempt to answer Qin's conquest logic as if it were only anger over one prince.
 
+[[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0]] gives Yan Wang Xi's state a later role in Qin's founding story. Qin's explanation makes [[YanTaiziDan|燕太子丹]]'s sending of [[JingKe|荆轲]] the clearest Yan crime, allowing the final Yan campaign to be narrated as punishment for assassination rather than as ordinary conquest. This is recorded as [[ConquestSelfDefenseNarrative|兼并自卫叙事]].
+
 ## Connections
 - [[YanState|燕国]] - state he rules.
 - [[LiFuWarringStates|栗腹]], [[LeJian|乐间]], and [[JiangQu|将渠]] - envoy, warning general, and remonstrant in the failed policy chain.
@@ -32,3 +34,4 @@ The resulting [[HaodaiBattle|鄗代之战]] turns his calculation into a reversa
 - [[JuXin|剧辛]], [[PangNuan|庞煖]], and [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el|Qinji 106]] - renewed Zhao attack and failed commander assessment.
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanTaiziDan|燕太子丹]], [[ZhaoJia|赵嘉]], [[WangJianQin|王翦]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - killing the crown prince as a failed Qin-facing appeasement.
 - [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]] and [[WangBenQin|王贲]] - Liaodong capture and Yan's final destruction in 222 BCE.
+- [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]], [[JingKe|荆轲]], and [[ConquestSelfDefenseNarrative|兼并自卫叙事]] - Qin's later framing of Yan's destruction as punishment for assassination.

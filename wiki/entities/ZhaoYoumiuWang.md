@@ -2,8 +2,8 @@
 title: "赵迁 / 赵幽缪王 / Zhao Youmiu Wang"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
+last_updated: 2026-08-22
 ---
 
 # 赵迁 / 赵幽缪王 / Zhao Youmiu Wang
@@ -18,6 +18,8 @@ This page is source-scoped. The episode does not narrate the full later fall of 
 
 [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] gives Zhao Qian's endpoint in the source sequence. After [[WangJianQin|王翦]] defeats the remaining Zhao force and captures [[Handan|邯郸]], Zhao Qian is taken alive and sent away to Fangling; the episode cites [[Huainanzi|《淮南子》]] for his homesick singing after exile. The host also treats his survival as politically useful to Qin because a living captured Zhao king weakens [[ZhaoJia|赵嘉]]'s ability to claim the Zhao royal title.
 
+[[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0]] places Zhao Qian's fall inside Qin's founding narrative. Qin's explanation says Zhao violated agreements and caused trouble around Taiyuan, while the later Dai branch becomes further evidence that Zhao resistance had to be punished. This page keeps that as part of [[ConquestSelfDefenseNarrative|兼并自卫叙事]], adjacent to but distinct from the earlier capture-and-exile account.
+
 ## Connections
 - [[ZhaoState|赵国]] - state Zhao Qian inherits under external pressure.
 - [[ZhaoDaoxiangwang|赵道襄王]] - father whose heir choice creates the succession branch.
@@ -27,3 +29,4 @@ This page is source-scoped. The episode does not narrate the full later fall of 
 - [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - succession-risk frames.
 - [[LiMu|李牧]], [[SimaShang|司马尚]], [[GuoKai|郭开]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], [[TreasonAccusationTrap|谋反指控陷阱]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Qinji 113 final Zhao-front command failure.
 - [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[Handan|邯郸]], [[Huainanzi|《淮南子》]], [[ZhaoJia|赵嘉]], and [[CapturedRulerLegitimacyContainment|生俘亡君的合法性钳制]] - capture, exile memory, and title-containment branch.
+- [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]], [[TaiyuanWarringStates|太原]], [[DaiState|代国]], and [[ConquestSelfDefenseNarrative|兼并自卫叙事]] - Qin's post-unification accusation against Zhao.

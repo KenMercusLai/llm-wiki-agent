@@ -2,7 +2,7 @@
 title: "Low-Posture Statecraft / 低姿态权宜"
 type: concept
 tags: [diplomacy, strategy, governance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
+sources: [zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The episode's warning is that low posture only works as a bounded expedient. In 
 
 [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] adds a late-Qi long-duration version through [[JunWangHou|君王后]]. Her policy toward [[QinState|秦国]] is low-posture but not abject: she avoids alliances and direct confrontation while the jade linked-rings story shows a retained dignity boundary. The risk is that a low posture meant to buy time can become [[DistantStateAppeasementTrap|远国安抚误读]] once the stronger state has finished nearby conquests.
 
+[[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0]] shows the late-Qi version after the boundary fails. [[QiWangJian|齐王建 / 田建]] continues a posture that once lowered pressure, but by 221 BCE [[WangBenQin|王贲]] can enter from the north and force surrender. The source still records a partial benefit: the low posture helps make the endpoint a [[CasualtySparingSurrender|保全生灵式投降]] rather than a destructive last stand.
+
 ## Key Claims
 - Deliberate deference can be useful when direct confrontation would be more dangerous.
 - A low posture can reduce external demands or invite external help.
@@ -29,6 +31,7 @@ The episode's warning is that low posture only works as a bounded expedient. In 
 - Low posture can redirect danger onto another state when status offense triggers third-party backlash.
 - Low posture can also appear as formal title demotion, where the state reduces the visible claim it makes on the interstate order.
 - Low posture can preserve peace across decades, but the same stability can dull recognition of a stronger state's conquest sequence.
+- A long-duration low posture may trade state survival for population survival when the stronger power finally arrives.
 
 ## Connections
 - [[HuiShi|惠施]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[WeiState|魏国]] - tactical low-posture branch after Maling.
@@ -40,3 +43,4 @@ The episode's warning is that low posture only works as a bounded expedient. In 
 - [[WarringStatesPeriod|战国时期]] - competitive environment limiting the strategy's safety.
 - [[ChuWeiwang|楚威王]], [[ZhangChou|张丑]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 consequence of Hui Shi's tactic.
 - [[JunWangHou|君王后]], [[QiWangJian|齐王建 / 田建]], [[QinState|秦国]], and [[DistantStateAppeasementTrap|远国安抚误读]] - Qinji 119-3 long-duration low posture under Qin pressure.
+- [[zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0|Qinji 120-1]], [[WangBenQin|王贲]], and [[CasualtySparingSurrender|保全生灵式投降]] - final outcome of late-Qi low posture.
