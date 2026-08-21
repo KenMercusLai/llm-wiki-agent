@@ -2,8 +2,8 @@
 title: "熊负刍 / 楚王负刍 / Xiong Fuchu"
 type: entity
 tags: [person, ruler, chu-state, succession, coup, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]
+last_updated: 2026-08-22
 ---
 
 # 熊负刍 / 楚王负刍 / Xiong Fuchu
@@ -14,6 +14,8 @@ The source does not yet develop Fuchu's reign. His wiki role here is the coup en
 
 [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] gives Fuchu's endpoint in the conquest sequence. After [[WangJianQin|王翦]] and [[MengWu|蒙武]] defeat [[XiangYan|项燕]]'s main force, the source says they capture Fuchu in 223 BCE while [[ChangpingJun|昌平君]] dies, making Fuchu the captured ruler at Chu's terminal defeat.
 
+[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] adds a genealogy role. The host cites traditions that make Fuchu another son of [[MiWan|楚考烈王]], using him alongside Xiong Qi / [[ChangpingJun|昌平君]] to challenge the claim that Mi Wan had no sons. The same episode narrates Wang Jian's sequence as Chenying first, then [[ShouchunWarringStates|寿春]] and Fuchu's capture, before the last Changping Jun and Xiang Yan resistance is crushed.
+
 ## Connections
 - [[ChuState|楚国]] - polity whose throne he takes.
 - [[ChuYouwang|楚幽王]] - predecessor whose death opens the succession.
@@ -21,3 +23,4 @@ The source does not yet develop Fuchu's reign. His wiki role here is the coup en
 - [[SuccessionNonDesignationRisk|未定继承人风险]] and [[PregnancySuccessionSubstitution|孕身继承替换]] - prior succession-risk frames extended by the coup.
 - [[QinState|秦国]] - external pressure environment around late Chu instability in the Qinji sequence.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu|Qinji 118-1]], [[WangJianQin|王翦]], [[MengWu|蒙武]], [[XiangYan|项燕]], and [[ChangpingJun|昌平君]] - final Chu campaign and captured-ruler endpoint.
+- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[MiWan|楚考烈王]], [[PreQinSurnameClanIdentity|先秦姓氏身份]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - genealogy challenge to Mi Wan childlessness and post-capture administrative transition.

@@ -2,7 +2,7 @@
 title: "Evidence-Bound Historical Revision"
 type: concept
 tags: [history, evidence, revision, public-memory]
-sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 
 [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds a Warring States version through [[LiKaiyuan|李开元]]'s [[QinMi|《秦谜》]] as relayed by the host. The reconstruction identifies [[ChangpingJun|昌平君]] with [[MiWan|芈完]]'s Qin-born son Xiong Qi and uses that background to explain why Changping Jun's revolt could disrupt [[LiXinQin|李信]]'s Chu campaign. The wiki keeps this as source-scoped reconstruction rather than settled baseline fact.
 
+[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]] strengthens the same case by adding [[PreQinSurnameClanIdentity|先秦姓氏身份]] and a direct challenge to the childless-[[MiWan|楚考烈王]] tradition. The source illustrates evidence-bound revision at two levels: it can make Changping Jun's Xiong Qi identity more plausible, and it can demote a famous succession scandal from assumed fact to contested source tradition.
+
 ## Key Claims
 - Revising historical memory is legitimate when it begins from evidence gaps, source timing, motive, material traces, and alternative explanations.
 - Revision becomes weak when it treats every inherited narrative as false by default.
@@ -27,6 +29,7 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 - Later official revision can add political credit to a successor without making every suspicious detail false.
 - A suspicious historical pattern still needs graded confidence: source gaps, motive, chronology, and alternative explanations must be weighed separately.
 - A reconstruction can clarify a compressed chronicle passage without becoming the only admissible reading of that passage.
+- Stronger reconstruction can revise both identity and contradiction maps, but the wiki should still mark the chain of evidence and confidence.
 
 ## Connections
 - [[HistoricalDetectiveReasoning]] - broader method.
@@ -38,3 +41,4 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 - [[ZhaoGuangyi|赵光义 / 宋太宗]], [[ZhaoPu|赵普]], [[ChenQiaoMutiny|陈桥兵变]], and [[SongFoundingLegitimacyPerformance|宋初建国合法性表演]] - Song founding revision case.
 - [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession revision case.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[LiKaiyuan|李开元]], [[QinMi|《秦谜》]], [[ChangpingJun|昌平君]], and [[ChronicleSourceGaps|编年史料空缺]] - Qinji 118-1 Changping Jun reconstruction case.
+- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[PreQinSurnameClanIdentity|先秦姓氏身份]], [[MiWan|楚考烈王]], and [[PregnancySuccessionSubstitution|孕身继承替换]] - strengthened Changping Jun reconstruction and childless-premise revision.

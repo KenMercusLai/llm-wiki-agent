@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！](sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco.md) — 芮淇讲透资治通鉴 episode on Changping Jun/Xiong Qi's Chu royal identity, the Mi Wan childless-source dispute, Shiji literary caution, final Chu resistance, Qin's Chu commandery setup, and remnant elites gathering toward Qi.
 - [《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！](sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu.md) — 芮淇讲透资治通鉴 episode on Wang Jian's 600,000-person second Chu campaign, fortified attrition against Xiang Yan, Xiang Yan's Qinan defeat, "楚虽三户" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction.
 - [《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？](sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy.md) — 芮淇讲透资治通鉴 episode on Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop plan, and Wang Jian's property-request self-protection.
 - [《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖](sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc.md) — 芮淇讲透资治通鉴 episode on Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's fall, Wei Bao/Bao Ji/Xu Fu's misread Han payoff, and Tang Ju's source-critical Anling "布衣之怒" story.
@@ -7584,6 +7585,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
+- [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
 - [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Wang Jian's Qinji 118-1 strategy of refusing Xiang Yan's challenges, preserving Qin logistics and morale, and attacking only after Chu withdraws.
 - [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
 - [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.

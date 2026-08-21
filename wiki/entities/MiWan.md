@@ -2,8 +2,8 @@
 title: "芈完 / 楚考烈王 / Mi Wan"
 type: entity
 tags: [person, crown-prince, ruler, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+last_updated: 2026-08-22
 ---
 
 # 芈完 / 楚考烈王 / Mi Wan
@@ -36,6 +36,8 @@ The same source makes Mi Wan the ruler under whom [[ChuState|楚国]] moves its 
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] gives the end of Mi Wan's reign. Seventeen days after [[ZhuYingWarringStates|朱英]] warns Chunshenjun, Mi Wan dies; the death triggers [[LiYuanWarringStates|李源 / 李元]]'s palace ambush, Chunshenjun's killing, and the enthronement of [[ChuYouwang|楚幽王]]. The episode also complicates the earlier childless frame by saying [[LiYuanSister|李源妹妹]] had two sons in the Chu court and that a younger royal son plus an older half-brother made succession politics less simple than one hidden heir.
 
+[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] directly challenges the childless premise. The host cites the Shiji Suoyin tradition that Mi Wan, while a Qin hostage, married into the Qin royal line and had Xiong Qi / [[ChangpingJun|昌平君]], then cites additional Chu-lineage material around [[ChuFuchu|熊负刍 / 楚王负刍]]. The episode's conclusion is that Mi Wan had multiple sons, so the earlier hidden-pregnancy story should be preserved as a source tradition under dispute rather than flattened into settled biography.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - father and current Chu king whose illness creates the succession emergency.
 - [[Chunshenjun|黄歇 / 春申君]] - attendant and strategist who protects his return path.
@@ -52,3 +54,4 @@ The same source makes Mi Wan the ruler under whom [[ChuState|楚国]] moves its 
 - [[TerminalHezongFailure|末次合纵失败]], [[ZhuYingWarringStates|朱英]], [[ShouchunWarringStates|寿春]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - late coalition leadership, failed campaign, and capital relocation under his reign.
 - [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], [[PregnancySuccessionSubstitution|孕身继承替换]], and [[zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy|Qinji 109-1]] - childless late-reign succession manipulation and hidden heir recognition.
 - [[LiYuanWarringStates|李源 / 李元]], [[ZhuYingWarringStates|朱英]], [[ChuYouwang|楚幽王]], and [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] - death-triggered palace ambush, succession, and Li-family court control.
+- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[ChangpingJun|昌平君]], [[ChuFuchu|熊负刍 / 楚王负刍]], [[PreQinSurnameClanIdentity|先秦姓氏身份]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - later source challenge to the childless-Mi-Wan premise.

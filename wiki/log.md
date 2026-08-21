@@ -9418,3 +9418,11 @@ Added source page for Qinji 118-1: Wang Jian's 600,000-person second Chu campaig
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！
+
+Added source page for Qinji 118-2: Changping Jun/Xiong Qi's Chu royal identity, pre-Qin 姓/氏 interpretation, the source dispute over whether Mi Wan was childless, Shiji and Zhanguoce scandal caution, Changping Jun's Chenying rebellion and brief Chu kingship, Xiang Yan's final resistance, Qin's temporary Chu commandery and later commandery subdivision, and the risk that remnant elites concentrate in Qi. Created Pre-Qin Surname-Clan Identity and Conquest Commandery Transition; updated overview, index, Changping Jun, Mi Wan, Chu Fuchu, Xiang Yan, Wang Jian, Meng Wu, Qin Shi Huang, Qin State, Chu State, Shiji, Sima Qian, Sima Guang, Zizhi Tongjian, Textual Variant Political Stakes, Historical Detective Reasoning, Evidence-Bound Historical Revision, Pregnancy Succession Substitution, Remnant Resistance Base, and Qin Administrative Standardization. Recorded contradictions/tensions: Qinji 118-2 disputes the earlier childless-Mi-Wan premise and gives a more extended Xiang Yan final sequence than Qinji 118-1.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

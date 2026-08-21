@@ -2,7 +2,7 @@
 title: "项燕 / Xiang Yan"
 type: entity
 tags: [person, general, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
+sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ Xiang Yan's role is therefore not only that of a battlefield opponent. He is the
 
 When Chu begins to withdraw, Wang Jian attacks and defeats Xiang Yan near [[QinanChuBattlefield|蕲南]]. The episode says Xiang Yan dies after leaving the line "楚虽三户，亡秦必楚," which it interprets through [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]]. It also connects Xiang Yan to [[XiangYu|项羽]] as his grandfather, making his death a prehistory to later Chu-Han anti-Qin memory.
 
+[[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] gives a more extended terminal sequence. After defeat, Xiang Yan retreats north of the Huai and enthrones [[ChangpingJun|昌平君]] as Chu king, but the resistance is framed as doomed. [[WangJianQin|王翦]] and [[MengWu|蒙武]] attack again; Changping Jun dies, and Xiang Yan commits suicide. The wiki treats this as a source-scoped refinement or variant beside Qinji 118-1's compressed death-memory account.
+
 ## Connections
 - [[ChuState|楚国]] - state he defends.
 - [[QinState|秦国]], [[LiXinQin|李信]], and [[MengTian|蒙恬]] - attacking state and defeated commanders.
@@ -27,3 +29,4 @@ When Chu begins to withdraw, Wang Jian attacks and defeats Xiang Yan near [[Qina
 - [[DeceptiveSurrenderLull|诈降麻痹]] and [[BattlefieldInformationControl|战场信息控制]] - tactics and information frames used to read the episode.
 - [[WangJianQin|王翦]] and [[MengWu|蒙武]] - Qin's corrected command response after Xiang Yan's victory.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu|Qinji 118-1]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[QinanChuBattlefield|蕲南]], [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]], and [[XiangYu|项羽]] - final campaign, defeat, death-memory line, and later Chu-Han resonance.
+- [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[ChangpingJun|昌平君]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - retreat, Changping Jun enthronement, final suicide, and Chu's administrative conversion after defeat.
