@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门](sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw.md) — 芮淇讲透资治通鉴 episode completing Chunshenjun's ignored warning, Li Yuan's palace ambush and household purge, Chu Youwang's accession, and the Sima Qian/Jia Yi/Yang Xiong/Sima Guang/Zhu Xi reception of the Warring States Four Lords.
 - [《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了](sources/zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy.md) — 芮淇讲透资治通鉴 episode on Chu Kaolie Wang's childless succession crisis, Chunshenjun's hidden-pregnancy betrayal, Li Yuan's ascent and murder plot, Zhu Ying's warning, and the Qin Shi Huang paternity-rumor comparison.
 - [《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示](sources/zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b.md) — 芮淇讲透资治通鉴 episode completing the Zhao Ji, Lu Buwei, and Lao Ai scandal arc through Yongcheng secrecy, Lao Ai's purge, Lu Buwei's removal, Ying Zheng's power consolidation, and a sympathetic gendered reading of Zhao Ji.
 - [《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史](sources/zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy.md) — 芮淇讲透资治通鉴 episode backfilling the Zhao Ji, Lu Buwei, and Lao Ai scandal before Qinji 108-1, linking Ying Zheng's hostage-childhood trauma, fake-eunuch palace access, Lao Ai's rise, and gendered historiographical desire framing.
@@ -1157,8 +1158,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [李源 / Li Yuan (Warring States)](entities/LiYuanWarringStates.md) — Zhao-origin retainer who uses his sister's pregnancy, Chu Kaolie Wang's childlessness, and Chunshenjun's fear to enter Chu's succession center.
-- [李源妹妹 / Li Yuan's Sister](entities/LiYuanSister.md) — Woman whose pregnancy by Chunshenjun is redirected into Chu Kaolie Wang's palace and becomes the vehicle for a hidden-heir succession plot.
+- [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
+- [贾谊 / Jia Yi](entities/JiaYi.md) — Early Western Han writer whose Guo Qin Lun praise of the Warring States Four Lords is contrasted with Yang Xiong and Sima Guang's criticism.
+- [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
+- [李斯 / Li Si](entities/LiSi.md) — Qin minister introduced as the next-episode hook through Qin's guest-expulsion order and Jian Zhu Ke Shu.
+- [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial previewed as the text that persuades Ying Zheng to stop expelling foreign guest scholars.
+- [李源 / 李元 / Li Yuan (Warring States)](entities/LiYuanWarringStates.md) — Zhao-origin retainer who uses his sister's pregnancy, Chu Kaolie Wang's childlessness, and Chunshenjun's fear to enter Chu's succession center, then kills Chunshenjun after Mi Wan dies.
+- [李源妹妹 / 李元妹妹 / Li Yuan's Sister](entities/LiYuanSister.md) — Woman whose pregnancy by Chunshenjun is redirected into Chu Kaolie Wang's palace and becomes the vehicle for a hidden-heir succession plot.
 - [嫪毐 / Lao Ai](entities/LaoAi.md) — Qin court favorite of Zhao Ji whose exposed false-eunuch status becomes rebellion in Qinji 108-1.
 - [茅焦 / Mao Jiao](entities/MaoJiao.md) — Qi guest whose death-defying remonstrance persuades Ying Zheng to bring Zhao Ji back from Yongcheng.
 - [杨端和 / Yang Duanhe](entities/YangDuanhe.md) — Qin commander who continues the Wei campaign line and helps push Qin's boundary to Qi in Qinji 108-1.
@@ -7504,6 +7510,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Historiographical Presentism / 史评当代性](concepts/HistoriographicalPresentism.md) — Source-reading pattern where Sima Qian, Jia Yi, Yang Xiong, Sima Guang, and Zhu Xi evaluate the same Warring States figures through their own political anxieties.
 - [Pregnancy Succession Substitution / 孕身继承替换](concepts/PregnancySuccessionSubstitution.md) — Court-succession mechanism where a woman already pregnant by one man is introduced to a childless ruler so the child can be recognized as the ruler's heir.
 - [Palace Scandal Power Consolidation / 宫廷丑闻式收权](concepts/PalaceScandalPowerConsolidation.md) — Qinji 108-3 pattern where Lao Ai's palace scandal becomes a legitimacy crisis that lets Ying Zheng purge a faction, discipline Zhao Ji, and remove Lu Buwei.
 - [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution from Qinji 108-2 and 108-3 about reading Zhao Ji through desire, scandal, and male embarrassment without erasing political consequences.

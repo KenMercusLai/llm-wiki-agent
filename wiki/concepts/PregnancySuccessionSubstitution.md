@@ -2,7 +2,7 @@
 title: "Pregnancy Succession Substitution / 孕身继承替换"
 type: concept
 tags: [succession, court-politics, legitimacy, family-politics, historiography, warring-states]
-sources: [zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy]
+sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy]
 last_updated: 2026-08-21
 ---
 
@@ -16,15 +16,19 @@ This is related to [[MaternalStatusSuccessionLeverage|子以母贵式继承杠�
 
 The concept also explains why the episode compares the Chu scandal with the [[QinShiHuang|嬴政 / 秦始皇]] paternity rumor. The host uses the Chu case not to prove the Qin rumor, but to show why similar scandal stories require [[HistoricalDetectiveReasoning|evidence testing]] before they are accepted as biography.
 
+[[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] adds the post-substitution danger. The mechanism may put a child onto the throne, but it does not make the secret politically safe. In this sequel, [[LiYuanWarringStates|李源 / 李元]] treats [[Chunshenjun|黄歇 / 春申君]] as a witness and rival who must be eliminated before [[ChuYouwang|楚幽王]]'s accession can become Li-family court control.
+
 ## Key Claims
 - A childless ruler's court can become vulnerable to paternity manipulation if no legible successor has been accepted.
 - Hidden pregnancy turns intimate access into succession politics.
 - Legal recognition and palace status can outrun biological uncertainty once a child is installed as heir.
 - The mechanism creates danger for every participant because the secret can later become blackmail, purge motive, or legitimacy crisis.
+- Successful installation can intensify the danger because the people who know the substitution become threats to the new court.
 - A structurally similar scandal motif should not be imported into another lineage story without independent evidence.
 
 ## Connections
 - [[Chunshenjun|黄歇 / 春申君]], [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[MiWan|楚考烈王]] - source case.
+- [[ChuYouwang|楚幽王]], [[ZhuYingWarringStates|朱英]], and [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] - sequel showing the secret's lethal succession aftermath.
 - [[ChuState|楚国]] - state whose succession is manipulated.
 - [[SuccessionNonDesignationRisk|未定继承人风险]], [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - adjacent succession and patronage frames.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], and [[QinZhuangxiangwang|异人 / 子楚]] - comparison branch where the wiki keeps the paternity rumor source-scoped and doubtful.

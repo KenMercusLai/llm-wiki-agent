@@ -9251,3 +9251,11 @@ Added source page for Qinji 109-1: Chu Kaolie Wang's childless succession crisis
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门
+
+Added source page for Qinji 109-2: Zhu Ying ignored warning, Li Yuan palace ambush and destruction of Chunshenjun household, Chu Youwang accession under Li-family control, the closing evaluation of the Warring States Four Lords, and the Li Si / Jian Zhu Ke Shu next-episode hook. Created Chu Youwang, Jia Yi, Guo Qin Lun, Li Si, Jian Zhu Ke Shu, and Historiographical Presentism. Updated overview, index, Chunshenjun, Li Yuan, Li Yuan Sister, Zhu Ying, Mi Wan, Chu State, Warring States Four Lords, Pregnancy Succession Substitution, Succession Non-Designation Risk, Patron Succession Exposure, Power Exit Trap, Yang Xiong, Fayan, Sima Qian, Shiji, Sima Guang, Zizhi Tongjian, Zhu Xi, and Zizhi Tongjian Gangmu. No direct contradiction found; Li Yuan name spelling, the "无望/无妄" warning wording, and the Chu heir genealogy complications are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
