@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-2｜起来！被压迫的人们！](sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's pleasure-seeking rule, harsher law and construction burdens, the Dazexiang deadline crisis, Chen Sheng and Wu Guang's uprising, and rebel legitimation through Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor.
 - [《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣](sources/zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's first-year tour, Zhao Gao's use of Hu Hai's succession insecurity, harsh-law purge of princes and old ministers, and the deaths of Ying Jianglu and Ying Gao.
 - [《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密](sources/zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's Lishan burial, mausoleum mechanisms and secrecy violence, Hu Hai and Zhao Gao's killing of the Meng brothers, Ziying's failed remonstrance, and Meng Tian's morally mixed loyal death.
 - [《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！](sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw.md) — 芮淇讲透资治通鉴 episode comparing the received forged-edict account of Hu Hai's accession with 《赵正书》's alternate deathbed-consultation version, adding Feng Quji and emergency nearby-heir legitimation.
@@ -1203,6 +1204,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt.
+- [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime opened by the Dazexiang uprising and previewed here through Ge Ying's death and Chen Sheng's mistrust problem.
+- [葛婴 / Ge Ying](entities/GeYing.md) — Zhang Chu general whose death is flagged as damaging the rebel regime and deepening suspicion between Chen Sheng and subordinates.
 - [嬴高 / Ying Gao](entities/YingGao.md) — Qin prince who petitions to be buried with Qin Shi Huang so his death does not endanger his family during Hu Hai's purge.
 - [嬴将闾 / Ying Jianglu](entities/YingJianglu.md) — Qin prince whose unanswered request for a real charge shows the procedural emptiness of Hu Hai's royal purge.
 - [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill Meng Tian and Meng Yi by citing Zhao's loss of Li Mu and Qi's old-minister killings.
@@ -1219,8 +1223,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
 - [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
 - [陈馀 / Chen Yu](entities/ChenYu.md) — Figure who checks on Kong Fu after the book-burning order and later helps connect him to Chen Sheng's regime.
-- [陈胜 / Chen Sheng](entities/ChenSheng.md) — Anti-Qin rebel figure whose uprising opens the political turn that lets Kong Fu emerge from hidden-book preservation.
-- [吴广 / Wu Guang](entities/WuGuang.md) — Paired Chen Sheng uprising figure named as part of the turn after Qin's book-burning policy.
+- [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who turns a fatal deadline crisis into rebellion and manufactures legitimacy through Fusu, Xiang Yan, and sacred-looking signs.
+- [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader paired with Chen Sheng in killing the commanders, mobilizing the soldiers, and creating rebel legitimacy.
 - [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
 - [桂林郡 / Guilin Commandery](entities/GuilinCommandery.md) — Qin southern commandery created after the 214 BCE Baiyue campaign, located source-scopingly around today's Guangxi.
 - [南海郡 / Nanhai Commandery](entities/NanhaiCommandery.md) — Qin southern commandery located source-scopingly around today's Guangdong after the Baiyue campaign.
@@ -7662,6 +7666,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fatal Deadline Rebellion Trigger / 误期死局式起义触发](concepts/FatalDeadlineRebellionTrigger.md) — Dazexiang mechanism where Qin's fatal lateness rule collapses compliance, flight, and delay into death, making revolt the active self-rescue path.
+- [Rebel Mandate Manufacture / 起义天命制造](concepts/RebelMandateManufacture.md) — Chen Sheng and Wu Guang's use of Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor to make rebellion look mandate-backed.
 - [Succession Legitimacy Purge / 继位合法性清洗](concepts/SuccessionLegitimacyPurge.md) — Post-accession purge pattern where an insecure ruler treats surviving relatives and old ministers as threats to be removed.
 - [Mausoleum Secrecy Killing / 陵墓保密杀戮](concepts/MausoleumSecrecyKilling.md) — Qinji 127-4 pattern where tomb mechanisms, buried wealth, and imperial funerary secrecy turn concubines and artisans into lethal information risks.
 - [Loyal Service Moral Liability / 忠臣事暴政的罪责](concepts/LoyalServiceMoralLiability.md) — Qinji 127-4 ethical frame where Meng Tian's final loyalty is praised without erasing responsibility for harsh Qin labor projects.

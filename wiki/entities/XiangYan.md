@@ -2,7 +2,7 @@
 title: "项燕 / Xiang Yan"
 type: entity
 tags: [person, general, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
+sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ When Chu begins to withdraw, Wang Jian attacks and defeats Xiang Yan near [[Qina
 
 [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]] gives a more extended terminal sequence. After defeat, Xiang Yan retreats north of the Huai and enthrones [[ChangpingJun|昌平君]] as Chu king, but the resistance is framed as doomed. [[WangJianQin|王翦]] and [[MengWu|蒙武]] attack again; Changping Jun dies, and Xiang Yan commits suicide. The wiki treats this as a source-scoped refinement or variant beside Qinji 118-1's compressed death-memory account.
 
+[[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] adds Xiang Yan's afterlife as a rebel banner. [[ChenSheng|陈胜]] and [[WuGuang|吴广]] claim that Xiang Yan and [[FuSu|扶苏]] are still alive when launching the [[DazexiangUprising|大泽乡起义]], using his Chu military memory as part of [[RebelMandateManufacture|起义天命制造]].
+
 ## Connections
 - [[ChuState|楚国]] - state he defends.
 - [[QinState|秦国]], [[LiXinQin|李信]], and [[MengTian|蒙恬]] - attacking state and defeated commanders.
@@ -30,3 +32,4 @@ When Chu begins to withdraw, Wang Jian attacks and defeats Xiang Yan near [[Qina
 - [[WangJianQin|王翦]] and [[MengWu|蒙武]] - Qin's corrected command response after Xiang Yan's victory.
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu|Qinji 118-1]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[QinanChuBattlefield|蕲南]], [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]], and [[XiangYu|项羽]] - final campaign, defeat, death-memory line, and later Chu-Han resonance.
 - [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[ChangpingJun|昌平君]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - retreat, Changping Jun enthronement, final suicide, and Chu's administrative conversion after defeat.
+- [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], [[WuGuang|吴广]], [[FuSu|扶苏]], and [[RebelMandateManufacture|起义天命制造]] - later rebel use of Xiang Yan's name as anti-Qin legitimacy.

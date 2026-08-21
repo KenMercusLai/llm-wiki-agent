@@ -2,7 +2,7 @@
 title: "秦二世 / 胡亥 / Qin Er Shi"
 type: entity
 tags: [person, ruler, qin-dynasty, chinese-history]
-sources: [zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu, zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses
 
 [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu]] extends that early destructive pattern into Hu Hai's first-year rule. After an eastern inspection tour that the episode treats as empty imitation of Qin Shi Huang's earlier tours, Hu Hai returns to [[Xianyang|咸阳]] and asks whether he can simply enjoy power. Zhao Gao flatters the wish but redirects Hu Hai's insecurity over royal brothers and old ministers into [[SuccessionLegitimacyPurge|继位合法性清洗]]: harsh law, mutual implication, replacement of old officials, and the killing of princes and princesses, including [[YingJianglu|嬴将闾]] and [[YingGao|嬴高]].
 
+[[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] turns that destructive pattern outward into social revolt. The episode emphasizes that Hu Hai was never trained as a governing heir, wanted imperial power as pleasure rather than responsibility, and then worsened the burden on common people through harsher law, revived [[AfangPalace|阿房宫]] construction, capital guards, animal-feed requisitions, and transport obligations. In this reading, Hu Hai's accession does not merely damage court order; it helps create the background for the [[DazexiangUprising|大泽乡起义]].
+
 ## Connections
 - [[SimaGuang|司马光]], [[Xunzi|荀子]], and [[XunziText|《荀子》]] - interpretive frame.
 - [[QiMinWang|齐湣王]] and [[SongJunYan|宋康王 / 宋君偃]] - comparison rulers in the source.
@@ -34,3 +36,4 @@ This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses
 - [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[FengQuji|冯去疾]], [[EmergencySuccessionLegitimation|临终就近立储]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - alternate nearby-heir accession account and source conflict.
 - [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]], [[ZiyingQin|子婴]], [[MengYiQin|蒙毅]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored remonstrance against killing the Meng brothers.
 - [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]], [[YingJianglu|嬴将闾]], [[YingGao|嬴高]], [[SuccessionLegitimacyPurge|继位合法性清洗]], and [[CollateralPunishmentAndGuiltByAssociation|连坐式牵连惩罚]] - first-year royal purge and pleasure-seeking insecurity.
+- [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[DazexiangUprising|大泽乡起义]], [[ChenSheng|陈胜]], [[WuGuang|吴广]], [[FatalDeadlineRebellionTrigger|误期死局式起义触发]], and [[ImperialConstructionOverload|帝国工程过载]] - burdens and harsh law turning accession pathology into rebellion background.

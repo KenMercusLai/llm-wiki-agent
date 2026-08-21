@@ -2,18 +2,24 @@
 title: "陈胜 / Chen Sheng"
 type: entity
 tags: [person, qin, anti-qin, rebellion]
-sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
 # 陈胜 / Chen Sheng
 
-陈胜 / Chen Sheng enters this wiki branch through [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] as half of the later 陈胜、吴广 uprising named at the end of the episode. The source does not yet narrate the rebellion itself; it uses the uprising as the political turn that lets [[KongFu|孔鲋]] emerge from book hiding and accept service as博士.
+陈胜 / Chen Sheng enters this wiki branch through [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] as half of the later 陈胜、吴广 uprising named at the end of the episode. That source does not yet narrate the rebellion itself; it uses the uprising as the political turn that lets [[KongFu|孔鲋]] emerge from book hiding and accept service as博士.
 
-For this page, Chen Sheng is therefore source-scoped as a marker of Qin collapse beginning to open space for suppressed classical learning. The fuller anti-Qin rebellion branch should be expanded when later sources cover it directly.
+[[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]] supplies the actual uprising branch. Chen Sheng is presented as a Yangcheng man from Chen County and as one of two 屯长, paired with [[WuGuang|吴广]], over a nine-hundred-person conscript group heading toward Yuyang. When rain at [[DazexiangUprising|大泽乡]] makes the deadline impossible and the source says late arrival means execution, Chen Sheng helps turn the unit's shared death risk into revolt.
+
+The episode makes Chen Sheng both practical and narrative. Practically, he and Wu Guang kill the commanders and convince the soldiers that death in a great undertaking is preferable to passive punishment. Narratively, he helps turn self-preservation into political cause by invoking [[FuSu|扶苏]] and [[XiangYan|项燕]] and using fish-belly writing plus fox-cry rumor under [[RebelMandateManufacture|起义天命制造]].
+
+The source's closing also previews Chen Sheng's later problem. [[GeYing|葛婴]]'s death is said to damage [[ZhangChuRegime|张楚政权]] not only because it removes a general, but because it worsens suspicion between Chen Sheng and his subordinates.
 
 ## Connections
-- [[WuGuang|吴广]] - paired uprising figure named by the source.
-- [[KongFu|孔鲋]] and [[ChenYu|陈馀]] - scholar and intermediary connected to Chen Sheng's new regime.
-- [[QinBookBurningPolicy|秦代焚书令]] - earlier coercive policy whose preservation counter-effect is visible in Kong Fu's hidden books.
-- [[QinState|秦国]] - regime whose collapse context is foreshadowed by the source.
+- [[WuGuang|吴广]] - paired uprising leader.
+- [[DazexiangUprising|大泽乡起义]] and [[FatalDeadlineRebellionTrigger|误期死局式起义触发]] - event and direct trigger.
+- [[FuSu|扶苏]], [[XiangYan|项燕]], and [[RebelMandateManufacture|起义天命制造]] - legitimacy names and sign-making tactics.
+- [[ZhangChuRegime|张楚政权]] and [[GeYing|葛婴]] - later regime and mistrust problem previewed by the source.
+- [[KongFu|孔鲋]] and [[ChenYu|陈馀]] - Qinji 124 hidden-book branch that later connects scholars to Chen Sheng's rebel regime.
+- [[QinState|秦国]] and [[QinBookBurningPolicy|秦代焚书令]] - regime and earlier coercive policy whose collapse context is foreshadowed in Qinji 124.

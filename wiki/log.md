@@ -9391,6 +9391,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-2｜起来！被压迫的人们！
+
+Added source page for Qinji 128-2: Hu Hai's pleasure-seeking and unprepared rule, harsher Qin law, revived Afang Palace and transport burdens, the Dazexiang rain-delay deadline crisis, Chen Sheng and Wu Guang's killing of officers and mobilization of nine hundred soldiers, Fusu/Xiang Yan legitimacy claims, fish-belly writing, fox-cry rumor, and the Zhang Chu/Ge Ying failure preview. Created Dazexiang Uprising, Zhang Chu Regime, Ge Ying, Fatal Deadline Rebellion Trigger, and Rebel Mandate Manufacture. Updated overview, index, Chen Sheng, Wu Guang, Qin Er Shi, Zhao Gao, Fu Su, Xiang Yan, Qin State, Afang Palace, Imperial Construction Overload, Chu Three-Households Anti-Qin Memory, and Chenwei Politics. No settled contradiction found; the "rain delay plus Qin law means death" account is preserved as source-scoped because this episode does not explore alternate legal debates.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣
 
 Added source page for Qinji 128-1: Qin Er Shi's first-year inspection tour as empty imitation of Qin Shi Huang, Hu Hai's pleasure-seeking after returning to Xianyang, Zhao Gao's use of succession insecurity to justify harsh-law purge, and the killings of princes, princesses, old ministers, Ying Jianglu, and Ying Gao. Created Ying Jianglu, Ying Gao, and Succession Legitimacy Purge; updated overview, index, Qin Er Shi, Zhao Gao, Qin State, Autocratic Succession, Legalist Ruler Technique, Collateral Punishment And Guilt By Association, and Court Feedback Collapse. No settled contradiction found; preserved the unresolved Qinji 127-3 Zhao Zheng Shu accession-source conflict as background rather than resolving it.
@@ -9607,6 +9611,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！
 
 Added source page for Qinji 127-3: the received hidden-death and forged-edict account of Hu Hai's accession set beside the alternate 《赵正书》 deathbed-consultation account, including Li Si's loyalty declaration, Feng Quji's contested presence, the nearby-heir argument for Hu Hai, Zhao Gao's reweighted role, Meng-family aftermath, and the unresolved contradiction between forged succession and emergency succession legitimation. Created Feng Quji and Emergency Succession Legitimation; updated overview, index, Zhao Zheng Shu, Qin Shi Huang, Qin State, Qin Er Shi, Zhao Gao, Li Si, Fusu, Meng Tian, Meng Yi (Qin), Shiji, Peking University, Qin Straight Road, Xianyang, Imperial Death Concealment, Forged Edict Succession Coup, Autocratic Succession, Succession Non-Designation Risk, Historical Detective Reasoning, and Textual Variant Political Stakes. Source-level contradiction flagged with Qinji 127-2; not resolved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 
