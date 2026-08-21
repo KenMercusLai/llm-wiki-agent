@@ -9223,3 +9223,15 @@ Added source page for Qinji 107: the failed final anti-Qin hezong campaign in 24
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史
+
+Added source page for Qinji 108-2: Zhao Ji, Lu Buwei, and Lao Ai's scandal prehistory before the Qinji 108-1 rebellion account; Ying Zheng's hostage-childhood and minority-rule context; Lu Buwei's indirect exposure-management through Lao Ai's false eunuch entry; Lao Ai's rise through Zhao Ji to Changxin Hou and "假父" rhetoric; and the host's critique of gendered desire framing in Shiji-style historical writing. Created Gendered Historiographical Desire Framing; updated overview, index, Lao Ai, Zhao Ji, Lu Buwei, Qin Shi Huang, Shiji, Sima Qian, Zhang Ailing, Jin Ping Mei, Dream of the Red Chamber, and Female Subjectivity In Classic Reading. No direct contradiction found; the source is kept as a prequel and interpretive supplement to Qinji 108-1 and does not settle the older Ying Zheng paternity rumor.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 12,430 pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,430 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint failed because LiteLLM received the unqualified model `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not saved.

@@ -2,7 +2,7 @@
 title: "赵姬 / Zhao Ji"
 type: entity
 tags: [person, qin-state, warring-states, court-politics, historiography]
-sources: [zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
+sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,10 @@ The episode is careful about the famous paternity rumor. It says the story that 
 
 [[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]] returns Zhao Ji as the center of Qin's internal crisis when Ying Zheng nears personal rule. The episode says [[LuBuwei|吕不韦]] introduces [[LaoAi|嫪毐]] to her, she bears two sons with Lao Ai, and Lao Ai's power grows into rebellion. After the rebellion is suppressed, [[QinShiHuang|嬴政 / 秦始皇]] kills the two sons and confines Zhao Ji at [[YongchengQin|雍城]], until [[MaoJiao|茅焦]] persuades him to bring her back to [[Xianyang|咸阳]].
 
+[[zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy]] rewinds that crisis to Zhao Ji's position before the rebellion. The episode emphasizes that she was still a relatively young widow and queen mother when Ying Zheng approached personal rule, and that her earlier bond with Lu Buwei, later attachment to Lao Ai, and political dependence around the palace should not be collapsed into a single label of lust.
+
+The same source adds an explicit historiographical caution. It cites [[Shiji|《史记》]]'s "太后淫不止" type of wording as a powerful but flattening frame, then uses [[ZhangAiling|张爱玲 / Eileen Chang]], [[JinPingMei|《金瓶梅》]], and [[HongLouMeng|《红楼梦》]] to ask what is lost when Zhao Ji is written only as appetite. This page records that as [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]]: a reading warning, not a denial that the Lao Ai relationship became a severe Qin court crisis.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - original household connection and the actor who gives her to Yiren.
 - [[QinZhuangxiangwang|异人 / 子楚]] - receives Zhao Ji and later recognizes her as夫人.
@@ -29,3 +33,4 @@ The episode is careful about the famous paternity rumor. It says the story that 
 - [[Handan|邯郸]] and [[ZhouNanwang|周赧王]] - Zhouji 98 early danger context while the chronicle frame closes.
 - [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinXiaowenwang|秦孝文王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - return-to-Qin branch after Zichu becomes crown prince.
 - [[LaoAi|嫪毐]], [[MaoJiao|茅焦]], [[YongchengQin|雍城]], [[Xianyang|咸阳]], and [[DeathDefyingRemonstrance|赴死式直谏]] - Qinji 108-1 rebellion, confinement, and remonstrance-led return branch.
+- [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], [[FemaleSubjectivityInClassicReading|经典阅读中的女性主体性]], [[ZhangAiling|张爱玲 / Eileen Chang]], [[JinPingMei|《金瓶梅》]], and [[HongLouMeng|《红楼梦》]] - Qinji 108-2's reading branch around Zhao Ji's narrative reduction and possible re-reading.
