@@ -2,7 +2,7 @@
 title: "廉颇 / Lian Po"
 type: entity
 tags: [person, general, zhao-state, warring-states, diplomacy]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]
+sources: [zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ Lian Po then becomes the target of [[FanJu|范雎]]'s [[CounterintelligenceRumor
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] makes that retrospective judgment explicit. The host says Lian Po understood that Zhao at Changping was "攻则不足，守则有余": the confrontation was a patience contest where the side that moved first or made the first mistake would create the opening. Zhao Kuo's failed breakout, death, and the army's surrender make Lian Po's defensive endurance look like a strategic necessity rather than cowardice.
 
+[[zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]] gives Lian Po a major post-Changping victory. When [[YanWangXi|燕王喜]] and [[LiFuWarringStates|栗腹]] assume [[ZhaoState|赵国]] is too depleted to resist, [[ZhaoDan|赵丹 / 赵孝成王]] appoints Lian Po. Lian Po defeats Yan at Hao and Dai, pursues five hundred li, and surrounds Yan's capital region, making the [[HaodaiBattle|鄗代之战]] a corrective to [[PostDisasterPredationMisread|post-disaster predation misread]].
+
 ## Connections
 - [[LinXiangru|蔺相如]] - diplomatic counterpart and later reconciled partner.
 - [[ZhaoHe|赵惠文王赵何]] and [[ZhaoState|赵国]] - ruler and state he protects.
@@ -37,3 +39,4 @@ Lian Po then becomes the target of [[FanJu|范雎]]'s [[CounterintelligenceRumor
 - [[CounterintelligenceRumorWedge|反间流言楔入]] and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - concepts extended by his removal.
 - [[BaiQi|白起]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Zhouji 94 part 2 consequence of abandoning his defensive line.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] and [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - Zhouji 94 part 3 retrospective validation of defensive patience against theory-driven attack.
+- [[YanWangXi|燕王喜]], [[LiFuWarringStates|栗腹]], [[HaodaiBattle|鄗代之战]], and [[PostDisasterPredationMisread|灾后趁虚误判]] - Qinji 100-2 victory over Yan's opportunistic attack.

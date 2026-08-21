@@ -9115,3 +9115,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki lint result
 
 Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,327 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,327 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified and no provider API key variables are available in this shell; a bounded in-session review of the orphan page, fragile-bridge endpoints, and explicit contradiction markers found no new direct contradiction. Supplemental manual review noted that `wiki/entities/LiXiaojie.md` mentions the EP266 AI-for-science source but does not include that source slug in frontmatter. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧
+
+Added source page for the second Qinji 100 installment: Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive mourning dress, the post-Zhou terminology shift around "薨," Qin Zhaoxiang Wang's long-reign continuity, Yan Wang Xi and Li Fu's attempt to exploit Zhao's post-Changping losses, Le Jian and Jiang Qu's ignored warnings, Lian Po's victory in the Hao-Dai battle, and Pingyuanjun's death and inherited-title note. Created Yan Wang Xi, Li Fu, Le Jian, Jiang Qu, Hao-Dai Battle, and Post-Disaster Predation Misread; updated Qin Zhaoxiang Wang, Zhao Dan, Yan State, Zhao State, Lian Po, Pingyuanjun, Changping Battle, Quasi-Royal Qin Hegemony, Weak-Over-Weak Predation, Power Etiquette Reading, and Political Funeral. No direct contradiction found; troop counts and the Zhu Xi terminology interpretation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

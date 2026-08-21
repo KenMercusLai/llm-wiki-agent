@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧](sources/zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive funeral etiquette, Yan Wang Xi and Li Fu's failed attempt to exploit post-Changping Zhao, and Lian Po's victory in the Hao-Dai battle.
 - [《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了](sources/zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's final years, Qin's quasi-royal hegemonic status, Han's survival deference, Wei's killing and replacement of Wey's ruler, and the succession path through Qin Xiaowen Wang, Zichu, Zhao Ji, and Ying Zheng.
 - [《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？](sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd.md) — 芮淇讲透资治通鉴 episode completing Xunzi's military discussion through command discipline, renyi-war rules, a Clausewitz-backed critique of bloodless-war idealism, Xunzi's return to Lanling, Lu's collapse, and Qin Zhaoxiang Wang's death hook.
 - [《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密](sources/zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43.md) — 芮淇讲透资治通鉴 episode developing the Xunzi-Linwu Jun military debate before Zhao Xiaocheng Wang, contrasting tactical deception and incentive armies with renyi-based cohesion, and closing with Xunzi's five weights and three command refusals.
@@ -1140,6 +1141,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [燕王喜 / King Xi of Yan](entities/YanWangXi.md) — Yan ruler whose attack on wounded Zhao after Changping becomes a failed post-disaster predation case.
+- [栗腹 / Li Fu (Warring States)](entities/LiFuWarringStates.md) — Yan envoy whose report that Zhao was depleted after Changping drives Yan's failed attack.
+- [乐间 / Le Jian](entities/LeJian.md) — Yan general who warns that Zhao's warlike structure makes it too dangerous to attack despite Changping losses.
+- [将渠 / Jiang Qu](entities/JiangQu.md) — Yan minister who tries to stop Yan Wang Xi's attack and later negotiates peace after the defeat.
+- [鄗代之战 / Battle of Hao-Dai](entities/HaodaiBattle.md) — Yan-Zhao battle where Lian Po defeats Yan's attempted exploitation of Zhao's post-Changping weakness.
 - [燕太子丹 / Crown Prince Dan of Yan](entities/YanTaiziDan.md) — Yan crown prince introduced as a young hostage in Handan alongside Ying Zheng.
 - [卫怀君 / Lord Huai of Wey](entities/WeyHuaijun.md) — Wey ruler killed by Wei Anxi Wang in Qinji 100-1's downward-coercion example.
 - [卫元君 / Lord Yuan of Wey](entities/WeyYuanjun.md) — Brother of Wey Huaijun installed by Wei Anxi Wang after Huaijun's killing.
@@ -7428,6 +7434,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Disaster Predation Misread / 灾后趁虚误判](concepts/PostDisasterPredationMisread.md) — Strategic error where a state treats another state's recent catastrophe as proof it can no longer resist.
 - [Quasi-Royal Qin Hegemony / 准天子式秦霸权](concepts/QuasiRoyalQinHegemony.md) — Late Qin Zhaoxiang-era pattern where Qin's military dominance is visible through attendance, mourning, sacrifice, and punitive protocol enforcement before formal empire.
 - [Weak-Over-Weak Predation / 弱者向更弱者转嫁压迫](concepts/WeakOverWeakPredation.md) — Pattern where a state pressured by a stronger power still exercises coercive, succession-shaping violence against a weaker polity.
 - [Confucian Military Idealism Limits / 儒家军事理想的限度](concepts/ConfucianMilitaryIdealismLimits.md) — Critique that renyi can restrain war but should not be mistaken for bloodless coercion-free conflict.

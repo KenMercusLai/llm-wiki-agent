@@ -2,7 +2,7 @@
 title: "Power Etiquette Reading / 权力礼仪细读"
 type: concept
 tags: [power, rhetoric, history, reading]
-sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+sources: [zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 
 [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] adds an interstate version of the same method. The host reads "天下来宾," Wei's late attendance and punishment, [[QinZhaoxiangwang|秦昭襄王]]'s tianzi-like sacrifice, and [[HanHuanhuiwang|韩桓惠王]]'s personal mourning as evidence that [[QinState|秦国]] has reached [[QuasiRoyalQinHegemony|准天子式秦霸权]]. Here etiquette is not one room's seating order; it is a multi-state hierarchy visible through attendance, lateness, ritual privilege, and funeral posture.
 
+[[zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]] adds finer funeral evidence. The episode reads "衰绖入吊" as more than mourning clothing: it implies [[HanState|韩国]] placing itself below Qin in a near-subject posture. The discussion of whether Qin Zhaoxiang Wang's death is written as "薨" also makes terminology itself part of post-[[ZhouRoyalHouse|周王室]] status reading.
+
 ## Key Claims
 - Etiquette can be political data when direct statements are too dangerous or too staged.
 - Status recognition can move a powerful person more effectively than correct strategic warning.
@@ -33,6 +35,7 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 - Repeated ruler-minister etiquette can humiliate without naming a concrete offense, making status performance itself the punishment.
 - Refusing excessive honor can be as politically meaningful as receiving honor, especially when a guest's achievement risks turning gratitude into parity.
 - Attendance, lateness, funeral posture, and ritual privilege can function as interstate evidence of hierarchy.
+- Mourning clothing and death terminology can signal changed hierarchy after the old ritual center has collapsed.
 
 ## Connections
 - [[HongmenYan|《鸿门宴》]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - source field.
@@ -41,5 +44,6 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 - [[TianDan|田单]], [[QiXiangWang|齐襄王]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 self-abasement ritual and repeated hierarchy enforcement.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[Xinlingjun|信陵君]], [[TangmuYi|汤沐邑]], and [[FuChen|负臣]] - Zhouji 97 part 2 guest-stair ritual and reward restraint after rescue.
 - [[QinZhaoxiangwang|秦昭襄王]], [[HanHuanhuiwang|韩桓惠王]], [[WeiAnxiWang|魏安釐王]], and [[QuasiRoyalQinHegemony|准天子式秦霸权]] - Qinji 100-1 interstate attendance, sacrifice, and mourning posture.
+- [[PoliticalFuneral|political funeral]], [[HanState|韩国]], and [[ZhouRoyalHouse|周王室]] - Qinji 100-2 mourning clothing and post-Zhou death terminology.
 - [[MoralFaceUnderPowerCompetition]] and [[MachiavellianRealism]] - adjacent power-judgment frames.
 - [[ClassicalProseReading]] and [[HistoricalDetectiveReasoning]] - reading methods it extends.
