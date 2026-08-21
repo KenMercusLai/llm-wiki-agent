@@ -2,7 +2,7 @@
 title: "Imperial Symbolic Standardization / 帝国符号标准化"
 type: concept
 tags: [imperial, symbolism, legitimacy, standardization, chinese-history]
-sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]
+sources: [zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The key move is sequence: political philosophy comes first, and visual or admini
 
 [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds a public-ritual sequel. Qin Shi Huang's [[Taishan|泰山]] fengshan ceremony makes symbolic order portable: the emperor carries title, inscription, route, sacrifice, and secrecy into former six-state territory and presents the result as [[FengshanRitualLegitimacy|封禅礼制合法性]]. The episode also shows that standardization is not always clean adoption of existing ritual learning; Qin selects and reshapes available traditions through its own procedures.
 
+[[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh]] adds the [[LangyaInscriptionPoliticalProgram|琅琊刻石政治纲领]] as a public-text sequel to that portable order. The inscription makes Qin's standardized world legible in former [[QiState|齐国]] space: agriculture is honored, commerce is restrained, writing and measures are unified, legal obedience is praised, and imperial authority is described as reaching extremely distant lands and living beings.
+
 ## Key Claims
 - A new imperial order needs symbolic infrastructure as well as armies, taxes, and offices.
 - Title design can change the perceived category of sovereignty, not just the ruler's vanity label.
@@ -30,6 +32,7 @@ The key move is sequence: political philosophy comes first, and visual or admini
 - Qinji 120-4 adds that symbolic standardization can also be material: confiscated weapons and copied palaces become center-facing signs of conquest and possession.
 - Qinji 121 adds that symbolic standardization can be spatial and cosmological: capital architecture and roads can imitate celestial order.
 - Qinji 122-1 adds that symbolic standardization can be performed on conquered sacred geography through inscription, ceremony, and claims of heavenly approval.
+- Qinji 122-2 adds that symbolic standardization can be carved as public doctrine: Langya translates conquest, peace, standards, law, and universal authority into inscription.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], [[LiSi|李斯]], and [[QinWangWan|王绾]] - ruler, regime, and ministers tied to the imperial-language package.
@@ -41,3 +44,4 @@ The key move is sequence: political philosophy comes first, and visual or admini
 - [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]], [[PostConquestDisarmament|统一后收兵器]], [[ImperialHomogenization|帝国整齐划一]], and [[Xianyang|咸阳]] - material display layer after symbolic and administrative standardization.
 - [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]], [[QinJimiao|极庙]], [[Taiyi|太一]], [[Lishan|骊山]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - cosmic capital-space sequel.
 - [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]], [[Taishan|泰山]], [[LiangfuMountain|梁父山]], [[FengshanRitualLegitimacy|封禅礼制合法性]], and [[MandateOfHeavenLegitimacy|天命合法性]] - public ritual performance of post-conquest legitimacy.
+- [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh|Qinji 122-2]], [[LangyaMountain|琅琊山]], [[LangyaInscriptionPoliticalProgram|琅琊刻石政治纲领]], and [[QiEightSpirits|齐地八神]] - public inscription and local-sacred incorporation after Taishan.

@@ -9506,3 +9506,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 12,597 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？
+
+Added source page for Qinji 122-2: Qin Shi Huang's post-fengshan eastern tour through Qi sacred geography, worship of the Eight Spirits, the Langya stay, household relocation and tax remission, the Langya inscription's agricultural/legal/standardization program, Yan-Qi fangshi petitions, Xu Fu's Penglai sea-search story, and the source-critical boundary around Japanese Xu Fu shrines and descent claims. Created Langya Mountain, Qi Eight Spirits, Penglai, Langya Inscription Political Program, and Xu Fu Japan Descent Legend; updated overview, index, Qin Shi Huang, Qin State, Xu Fu, Japan, Shiji, Zizhi Tongjian, Immortality Quest Politics, Fangshi Fraud And Authority, and Imperial Tour/Symbolic Standardization. No settled contradiction found; preserved the source-internal tension between accepting Shiji's return version and the later rhetorical "one-way" phrasing.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
