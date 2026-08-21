@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段](sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6.md) — 芮淇讲透资治通鉴 episode on the 228 BCE fall of Handan, Zhao Qian's capture and exile, Ying Zheng's revenge, Wang Jian's Zhongshan deployment, Zhao Jia's Dai remnant, and the Chu Youwang-to-Fuchu succession coup.
 - [《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一](sources/zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob.md) — 芮淇讲透资治通鉴 episode on Qin's 232-229 BCE Zhao front, Yan Taizi Dan's flight, Han/Wei land concessions, Han's fall, Zhao's disaster weakness, and Li Mu's removal through Guo Kai, Sima Shang, and battlefield commander replacement.
 - [《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判](sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9.md) — 芮淇讲透资治通鉴 episode completing the Han Fei, Yao Jia, Li Si, and Ying Zheng court conflict through Yao Jia's defense, Li Si's loyalty accusation, Han Fei's prison death, and the Sima Qian/Yang Xiong/Sima Guang reception dispute.
 - [《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？](sources/zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz.md) — 芮淇讲透资治通鉴 episode on Han Fei's ignored Legalist reform advice in weak Han, Ying Zheng's admiration for 《孤愤》 and 《五蠹》, 郑人买履, and Han Fei's mission to Qin before Li Si's opposition.
@@ -1169,6 +1170,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [熊昊 / 熊犹 / 楚哀王 / King Ai of Chu](entities/ChuAiwang.md) — Brief Chu successor after Chu Youwang, recorded with a 熊昊/熊犹 name variant before Xiong Fuchu's coup.
+- [熊负刍 / 楚王负刍 / Xiong Fuchu](entities/ChuFuchu.md) — Chu royal half-brother whose faction kills Chu Ai Wang and installs him during the Qinji 114-1 succession coup.
 - [司马尚 / Sima Shang](entities/SimaShang.md) — Zhao commander removed with Li Mu after Guo Kai's bribed rebellion accusation in Qinji 113.
 - [顿弱 / Dun Ruo](entities/DunRuo.md) — Qin intelligence actor who spreads panic and ominous signs in disaster-weakened Zhao in Qinji 113.
 - [赵葱 / Zhao Cong](entities/ZhaoCong.md) — Zhao replacement commander appointed after Li Mu and Sima Shang are removed during Qin's 229 BCE attack.
@@ -1178,8 +1181,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《五蠹》 / Wu Du](entities/Wudu.md) — Han Fei text paired with 《孤愤》 in Ying Zheng's admirer response before Han Fei enters Qin.
 - [姚贾 / Yao Jia](entities/YaoJia.md) — Low-origin Warring States persuader who moves from Zhao envoy to Qin-backed diplomat and breaks a four-state anti-Qin hezong plan.
 - [《存韩》 / Cun Han](entities/CunHan.md) — Han Fei memorial that tries to protect Han by redirecting Qin's first attack toward Zhao, before Li Si exposes Han's rear-risk uncertainty.
-- [赵迁 / 赵幽缪王 / Zhao Youmiu Wang](entities/ZhaoYoumiuWang.md) — Zhao ruler whose accession after Zhao Jia's displacement is framed as a succession weakness during Qin's 236 BCE attack.
-- [赵嘉 / Zhao Jia](entities/ZhaoJia.md) — Displaced original Zhao crown prince in the Qinji 111-1 favorite-driven heir replacement branch.
+- [赵迁 / 赵幽缪王 / Zhao Youmiu Wang](entities/ZhaoYoumiuWang.md) — Zhao ruler whose accession after Zhao Jia's displacement is framed as succession weakness, then captured at Handan and kept alive in exile.
+- [赵嘉 / Zhao Jia](entities/ZhaoJia.md) — Displaced original Zhao crown prince who becomes a Dai-based remnant claimant after Handan falls.
 - [桓齮 / Huan Yi (Qin)](entities/HuanYiQin.md) — Qin commander who attacks Zhao with Wang Jian and Yang Duanhe in 236 BCE and takes Ye and Anyang in the source account.
 - [Dan Loeb](entities/DanLoeb.md) — Third Point founder whose All-In account links early internet short selling, event-driven investing, modern stock picking, management quality, philanthropy, and clemency advocacy.
 - [Third Point](entities/ThirdPoint.md) — Investment firm Loeb describes as evolving from event-driven hedge-fund trades into a broader platform across equity, credit, venture, insurance, and private credit.
@@ -1592,7 +1595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《孙膑兵法》 / Sun Bin's Art of War](entities/SunBinBingfa.md) — Military text whose 1972 Yinqueshan excavation supports distinguishing Sun Bin from Sunzi.
 - [桂陵之战 / Battle of Guiling](entities/GuilingBattle.md) — Qi victory produced by threatening Daliang, forcing Wei to leave Handan, and ambushing the returning army.
 - [大梁 / Daliang](entities/Daliang.md) — Wei capital-space reference point in encircling-Wei strategy, capital relocation, and later Qin pressure.
-- [邯郸 / Handan](entities/Handan.md) — Zhao capital anchoring Wei's earlier siege, Qin's difficult post-Changping campaign, Lu Zhonglian's anti-submission argument, and Li Tan's siege-morale rebuke.
+- [邯郸 / Handan](entities/Handan.md) — Zhao capital anchoring Wei's earlier siege, Qin's post-Changping pressure, Li Tan's defense branch, final Qin capture, and Ying Zheng's revenge.
 - [东周国 / Eastern Zhou Polity](entities/EasternZhouPolity.md) — Small eastern Zhou polity attacked by Han in the 353 BCE notice.
 - [西周国 / Western Zhou Polity](entities/WesternZhouPolity.md) — Counterpart polity used to explain the royal domain's East-West split.
 - [昭奚恤 / Zhao Xixu](entities/ZhaoXixu.md) — Chu chancellor whose appointment and exposure to Jiang Yi's parables anchor the episode's court-politics branch.
@@ -1628,7 +1631,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [代成君 / Dai Chengjun](entities/DaiChengjun.md) — Zhao Bolu's son, placed at Dai as a relay in Zhao Xiangzi's succession plan.
 - [赵桓子 / Zhao Huanzi](entities/ZhaoHuanzi.md) — Zhao Xiangzi's younger brother who briefly expels Zhao Xianzi before the clan restores the designated line.
 - [赵献子 / Zhao Xianzi](entities/ZhaoXianzi.md) — Zhao Bolu's grandson, designated by Zhao Xiangzi, briefly expelled, restored, and followed by Zhao Liehou.
-- [代国 / Dai State](entities/DaiState.md) — Polity conquered by Zhao Xiangzi through kinship deception in the Zhouji 04 account.
+- [代国 / Dai State](entities/DaiState.md) — Older polity conquered by Zhao Xiangzi through kinship deception and later northern base for Zhao Jia's remnant after Handan falls.
 - [韩廆 / Han Gui](entities/HanGui.md) — Han chancellor targeted by Yan Sui's hired assassin in the Zhouji 10 part 2 Han court-killing variant.
 - [韩懿侯 / Marquis Yi of Han](entities/HanYihou.md) — Han Aihou's son and successor after the Han Gui/Yan Sui assassination crisis.
 - [公中缓 / Gongzhong Huan](entities/GongzhongHuan.md) — Rival claimant against Wei Ying after Wei Wuhou dies without a clear successor.
@@ -1671,7 +1674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [晋烈公 / Duke Lie of Jin](entities/JinLiegong.md) — Jin ruler whose 393 BCE death introduces the hollow Jin succession notice in Zhouji 07 part 3.
 - [晋孝公 / Duke Xiao of Jin](entities/JinXiaogong.md) — Jin ruler whose accession in Zhouji 07 part 3 and death in Zhouji 09 frame old Jin's hollow final stage.
 - [晋静公 / Duke Jing of Jin](entities/JinJinggong.md) — Final Jin ruler deposed by Han, Zhao, and Wei in Zhouji 09.
-- [中山国 / Zhongshan State](entities/ZhongshanState.md) — Revived state after Di forces drive out Wei Zhi from Wei's detached holding.
+- [中山国 / Zhongshan State](entities/ZhongshanState.md) — Former frontier polity that shifts from Zhao reform target to Wang Jian's Yan-facing post after Zhao's fall.
 - [魏挚 / Wei Zhi](entities/WeiZhi.md) — Wei Wuhou's brother stationed in Zhongshan before its revival.
 - [鲁穆公 / Duke Mu of Lu](entities/LuMugong.md) — Lu ruler whose death precedes Lu Gong Gong's accession in Zhouji 09.
 - [鲁共公 / Duke Gong of Lu](entities/LuGonggong.md) — Ji Fen, Lu Mu Gong's son and successor in the 377 BCE notice.
@@ -3159,7 +3162,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [真斗拳馆](entities/ZhendouBoxingGym.md) — Boxing gym that accepts 惠子, combining disability access with serious training, examination, and professional standards.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
-- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, Lu Buwei's final removal, conquest politics, and later imperial fangshu anxieties.
+- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, Lu Buwei's removal, Handan revenge, conquest politics, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
@@ -7544,6 +7547,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制](concepts/CapturedRulerLegitimacyContainment.md) — Strategy pattern where keeping a defeated ruler alive constrains rival claimants and shapes remnant-state title choices.
+- [Remnant Resistance Base / 残余政权根据地](concepts/RemnantResistanceBase.md) — Pattern where a fallen state's surviving royal line gathers officials, territory, and alliance cover in a frontier base.
 - [Disaster-Exploiting Conquest Timing / 趁灾进攻时机](concepts/DisasterExploitingConquestTiming.md) — Strategy pattern where Qin compounds Zhao's earthquake, famine, and drought with rumor, bribery, and attack timing.
 - [Author Admiration Power Risk](concepts/AuthorAdmirationPowerRisk.md) — Pattern where a powerful reader's admiration for a text draws the author into unsafe court politics.
 - [郑人买履 / Zheng Ren Mai Lv](concepts/ZhengRenMaiLv.md) — Han Fei parable warning that measurements and rules become absurd when they replace contact with concrete reality.

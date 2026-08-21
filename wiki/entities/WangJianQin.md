@@ -2,7 +2,7 @@
 title: "王翦 / Wang Jian (Qin)"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+sources: [zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The episode also compares Wang Jian with [[BaiQi|白起]]. Bai Qi is treated as 
 
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] makes Wang Jian the main Qin commander in the 229 BCE attack on disaster-weakened Zhao. The source stresses that even with Qin's advantage, Wang Jian still faces [[LiMu|李牧]] as the key obstacle until Qin's bribery of [[GuoKai|郭开]] removes Li Mu and [[SimaShang|司马尚]] from command.
 
+[[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6]] gives Wang Jian the payoff from that command-removal sequence. He defeats the Zhao army, with [[ZhaoCong|赵葱]] killed and [[YanJuZhao|颜聚]] fleeing, then takes [[Handan|邯郸]] and captures [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]]. The source then keeps him stationed at [[ZhongshanState|中山国]] as a forward pressure point aimed at [[YanState|燕国]] rather than bringing him back to Xianyang with Ying Zheng.
+
 ## Connections
 - [[QinState|秦国]] - state Wang Jian serves in the preview.
 - [[ZhaoState|赵国]] and [[LiMu|李牧]] - later opponent state and commander named in the source's closing hook.
@@ -24,3 +26,4 @@ The episode also compares Wang Jian with [[BaiQi|白起]]. Bai Qi is treated as 
 - [[BaiQi|白起]] - source comparison for military ability and political survival.
 - [[QinEastwardPressure|秦国东进压力]] - broader conquest pressure context.
 - [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]], [[SimaShang|司马尚]], [[GuoKai|郭开]], and [[DisasterExploitingConquestTiming|趁灾进攻时机]] - final Zhao-front attack and indirect removal of the main opponent.
+- [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[Handan|邯郸]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[ZhongshanState|中山国]] - final Zhao defeat, capital capture, and Yan-facing forward deployment.
