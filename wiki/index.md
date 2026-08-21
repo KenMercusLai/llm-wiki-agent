@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！](sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu.md) — 芮淇讲透资治通鉴 episode on Wang Jian's 600,000-person second Chu campaign, fortified attrition against Xiang Yan, Xiang Yan's Qinan defeat, "楚虽三户" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction.
 - [《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？](sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy.md) — 芮淇讲透资治通鉴 episode on Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop plan, and Wang Jian's property-request self-protection.
 - [《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖](sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc.md) — 芮淇讲透资治通鉴 episode on Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's fall, Wei Bao/Bao Ji/Xu Fu's misread Han payoff, and Tang Ju's source-critical Anling "布衣之怒" story.
 - [《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！](sources/zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk.md) — 芮淇讲透资治通鉴 episode on Qin's post-Jing Ke attack on Yan, Yan Wang Xi killing Taizi Dan under Zhao Jia's advice, and the Li Xin/Wang Jian troop-estimate debate before the Chu campaign.
@@ -1177,6 +1178,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李开元 / Li Kaiyuan](entities/LiKaiyuan.md) — Historian cited by Qinji 118-1 for the Qin Mi reconstruction of Changping Jun's Chu royal background and rebellion.
+- [《秦谜》 / Qin Mi](entities/QinMi.md) — Li Kaiyuan work used source-scopingly in Qinji 118-1 to reconstruct Changping Jun as Xiong Qi and explain Li Xin's Chu failure.
+- [蕲南 / Qinan (Chu battlefield)](entities/QinanChuBattlefield.md) — Chu battlefield near which Wang Jian defeats Xiang Yan in Qinji 118-1, distinct from the incense-material page Qinan.
 - [唐雎 / Tang Ju (Anling envoy)](entities/TangJuEnvoy.md) — Anling envoy whose "布衣之怒" reply to Ying Zheng anchors the episode's source-critical face-slapping reversal story.
 - [魏豹 / Wei Bao](entities/WeiBao.md) — Wei royal survivor who misreads Xu Fu's prediction about Bao Ji as his own coming rise.
 - [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
@@ -1185,8 +1189,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, used here as the later fulfillment of Xu Fu's prediction.
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
-- [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign.
-- [项燕 / Xiang Yan](entities/XiangYan.md) — Chu general who uses peace signals and a Nan Commandery diversion to defeat Li Xin and Meng Tian's first Qin campaign.
+- [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign and later co-captor of Chu Fuchu.
+- [项燕 / Xiang Yan](entities/XiangYan.md) — Chu general who defeats Li Xin's first Qin campaign, then loses near Qinan to Wang Jian's fortified attrition strategy.
 - [王贲 / Wang Ben (Qin)](entities/WangBenQin.md) — Wang Jian's son and Qin commander whose southern-front attack on Chu sets up the Chu campaign debate.
 - [陶渊明 / Tao Yuanming](entities/TaoYuanming.md) — Poet cited for preserving Jing Ke's failed assassination as a morally charged侠义 memory.
 - [龚自珍 / Gong Zizhen](entities/GongZizhen.md) — Qing poet cited through 《舟中读陶诗三首》 as a later reader of Tao Yuanming's Jing Ke memory.
@@ -1204,7 +1208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高渐离 / Gao Jianli](entities/GaoJianli.md) — Jing Ke's zhu-playing Yan companion in the market-level侠客 circle.
 - [魏王假 / King Jia of Wei](entities/WeiWangJia.md) — Wei Jingmin Wang's successor, introduced as Wei is already unable to reverse Qin pressure.
 - [熊昊 / 熊犹 / 楚哀王 / King Ai of Chu](entities/ChuAiwang.md) — Brief Chu successor after Chu Youwang, recorded with a 熊昊/熊犹 name variant before Xiong Fuchu's coup.
-- [熊负刍 / 楚王负刍 / Xiong Fuchu](entities/ChuFuchu.md) — Chu royal half-brother whose faction kills Chu Ai Wang and installs him during the Qinji 114-1 succession coup.
+- [熊负刍 / 楚王负刍 / Xiong Fuchu](entities/ChuFuchu.md) — Chu royal half-brother installed by coup in Qinji 114-1 and captured by Wang Jian and Meng Wu after Xiang Yan's defeat.
 - [司马尚 / Sima Shang](entities/SimaShang.md) — Zhao commander removed with Li Mu after Guo Kai's bribed rebellion accusation in Qinji 113.
 - [顿弱 / Dun Ruo](entities/DunRuo.md) — Qin intelligence actor who spreads panic and ominous signs in disaster-weakened Zhao in Qinji 113.
 - [赵葱 / Zhao Cong](entities/ZhaoCong.md) — Zhao replacement commander appointed after Li Mu and Sima Shang are removed during Qin's 229 BCE attack.
@@ -1233,7 +1237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [嫪毐 / Lao Ai](entities/LaoAi.md) — Qin court favorite of Zhao Ji whose exposed false-eunuch status becomes rebellion in Qinji 108-1.
 - [茅焦 / Mao Jiao](entities/MaoJiao.md) — Qi guest whose death-defying remonstrance persuades Ying Zheng to bring Zhao Ji back from Yongcheng.
 - [杨端和 / Yang Duanhe](entities/YangDuanhe.md) — Qin commander who continues the Wei campaign line and helps push Qin's boundary to Qi in Qinji 108-1.
-- [昌平君 / Changping Jun](entities/ChangpingJun.md) — Qin figure named in Qinji 108-1 as part of the force suppressing Lao Ai's rebellion.
+- [昌平君 / Changping Jun](entities/ChangpingJun.md) — Qin- and Chu-linked figure whose sparse chronicle appearances now include Lao Ai suppression, death in the Chu endgame, and Li Kaiyuan's Xiong Qi reconstruction.
 - [雍城 / Yongcheng (Qin)](entities/YongchengQin.md) — Qin ancestral and palace setting for Ying Zheng's crown ceremony, Lao Ai's rebellion, and Zhao Ji's confinement.
 - [朱英 / Zhu Ying (Warring States)](entities/ZhuYingWarringStates.md) — Chu adviser who turns Qin's post-hezong pressure and Wei's weakening into the argument for moving the Chu capital to Shouchun.
 - [寿春 / Shouchun (Warring States)](entities/ShouchunWarringStates.md) — Chu capital destination after the failed final hezong campaign, framed as a defensive relocation away from Qin pressure.
@@ -1263,7 +1267,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
-- [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose first developed wiki appearance is the 236 BCE campaign against Zhao after earlier appearing as Li Mu's future opponent.
+- [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose arc now runs from Zhao campaigns and Yan retaliation to property-request self-protection and fortified attrition against Chu.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
@@ -1750,7 +1754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [燕国 / Yan State](entities/YanState.md) — Pre-Qin state whose Yan Huan Gong-to-Yan Wen Gong succession later becomes Su Qin's first successful patronage base.
 - [燕闵公 / Duke Min of Yan](entities/YanMinGong.md) — Yan ruler whose death leads to Yan Xi Gong's succession in the source.
 - [燕僖公 / Duke Xi of Yan](entities/YanXiGong.md) — Yan ruler succeeding Yan Min Gong in the source's chronology.
-- [楚国 / Chu State](entities/ChuState.md) — State whose branch runs from Chu Sheng Wang's opaque death notice to Wu Qi's strengthening reforms under Chu Dao Wang.
+- [楚国 / Chu State](entities/ChuState.md) — State whose branch now runs from early reforms and succession scandals to Xiang Yan's final resistance, Fuchu's capture, and Changping Jun source questions.
 - [楚声王 / King Sheng of Chu](entities/ChuShengWang.md) — Chu ruler recorded as killed by "bandits," used as the source's main attribution-ambiguity case.
 - [楚悼王 / King Dao of Chu](entities/ChuDaoWang.md) — Chu ruler who succeeds Chu Sheng Wang and later backs Wu Qi's centralizing reform program.
 - [周王室 / Zhou Royal House](entities/ZhouRoyalHouse.md) — Zhou dynastic frame for the King Weilie to King An transition in the episode.
@@ -1758,7 +1762,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from Shang Yang reform and Fan Ju strategy into Bai Qi's wars, Zheng Guo Canal capacity, and Li Si's foreign-talent defense.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from Shang Yang reform and Bai Qi's wars into Zheng Guo Canal capacity, Li Si's foreign-talent defense, and the final Chu campaign.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
@@ -3195,7 +3199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [真斗拳馆](entities/ZhendouBoxingGym.md) — Boxing gym that accepts 惠子, combining disability access with serious training, examination, and professional standards.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
-- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, Lu Buwei's removal, Handan revenge, conquest politics, and later imperial fangshu anxieties.
+- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
@@ -7580,6 +7584,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Wang Jian's Qinji 118-1 strategy of refusing Xiang Yan's challenges, preserving Qin logistics and morale, and attacking only after Chu withdraws.
+- [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
 - [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.
 - [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".
 - [Face-Slapping Reversal Narrative / 打脸反杀叙事](concepts/FaceSlappingReversalNarrative.md) — Narrative pattern connecting Tang Ju's direct confrontation with earlier Su Qin "爽文" status reversals.
@@ -7681,7 +7687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Battle Terror Signaling / 战后恐怖震慑](concepts/PostBattleTerrorSignaling.md) — Pattern where post-victory violence, monuments, and released survivors are used to damage the defeated state's will to resist.
 - [Status Anxiety Persuasion / 位阶焦虑式说服](concepts/StatusAnxietyPersuasion.md) — Su Dai pattern of redirecting policy by turning Bai Qi's possible victory into Fan Ju's personal rank threat.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
-- [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Sunzi-derived frame that treats fast or nonmilitary victory as resource discipline under manpower, food, and campaign-endurance limits.
+- [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where feigned retreat, barriers, flank cuts, cavalry insertion, and fieldworks turn an attack into starvation.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
@@ -7778,7 +7784,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
 - [Motive-Based Talent Evaluation / 动机导向的才干评价](concepts/MotiveBasedTalentEvaluation.md) — Moral test distinguishing similar political talents by purpose, beneficiary, and relation to public rescue or private gain, expanded through Zigong's rescue of Lu.
 - [Self-Preservation as State Strategy / 以自保包装国策](concepts/SelfPreservationAsStateStrategy.md) — Maneuver where a threatened court actor frames a personal exit as useful state strategy.
-- [Greed Persona Self-Protection / 贪财人设式自保](concepts/GreedPersonaSelfProtection.md) — Wang Jian pattern where apparent property greed signals bounded ambition and reduces ruler suspicion during high-scale command.
+- [Greed Persona Self-Protection / 贪财人设式自保](concepts/GreedPersonaSelfProtection.md) — Wang Jian pattern where apparent property greed signals bounded ambition and makes high-scale battlefield discretion politically survivable.
 - [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
 - [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.
@@ -7896,7 +7902,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
-- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, soldiers' willingness to fight, and the political risk of commander-centered loyalty.
+- [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, care, discipline, soldiers' willingness to fight, and readiness under delayed battle.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
 - [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
 - [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.
@@ -7905,7 +7911,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Spring-Autumn to Warring States Political Violence / 春秋战国政治暴力转型](concepts/SpringAutumnToWarringStatesPoliticalViolence.md) — Transition from constrained aristocratic conflict toward factional killing and assassination as state-capture technique.
 - [Celestial Omen Political Responsibility / 天象政治责任](concepts/CelestialOmenPoliticalResponsibility.md) — Frame for reading solar eclipses and other sky signs as warnings about political failure.
 - [Aristocratic Honor Over Life / 贵族名誉高于生命](concepts/AristocraticHonorOverLife.md) — Honor logic where public name, family reputation, and noble-style obligation can outweigh survival.
-- [Chronicle Source Gaps / 编年史料空缺](concepts/ChronicleSourceGaps.md) — Source-reading caution for blank annalistic years and thin early Warring States records.
+- [Chronicle Source Gaps / 编年史料空缺](concepts/ChronicleSourceGaps.md) — Source-reading caution for blank annalistic years, thin records, and compact notices that leave identity or causation unresolved.
 - [Territorial Control Churn / 城池反复易手](concepts/TerritorialControlChurn.md) — Pattern where cities are seized, defect back, or quickly change hands under accelerating interstate conflict.
 - [Shang-Remnant State Legitimacy / 商裔封国合法性](concepts/ShangRemnantStateLegitimacy.md) — Legitimacy mechanism where a conquered dynasty's lineage survives as a ritually honored state.
 - [Low-Margin Retail Execution](concepts/LowMarginRetailExecution.md) — Retail operating discipline where supplier terms, fulfillment, labor, shipping, inventory, and retention pennies decide whether scale becomes profit.
@@ -10549,7 +10555,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Travel Reading As Place Inquiry](concepts/TravelReadingAsPlaceInquiry.md) — Holiday-reading frame where travel books become tools for historical, geographic, anthropological, and local-cultural inquiry.
 - [Festival Food Material History](concepts/FestivalFoodMaterialHistory.md) — Pattern where seasonal foods reveal festival time, place names, literature, folklore, fear, and everyday material culture.
 - [Historical Detective Reasoning](concepts/HistoricalDetectiveReasoning.md) — Method linking history, archaeology, and detective fiction through fragmentary traces, source criticism, rival explanations, and rational humility.
-- [Evidence-Bound Historical Revision](concepts/EvidenceBoundHistoricalRevision.md) — Discipline for revising inherited history through evidence, source timing, motive, material traces, and public-memory caution.
+- [Evidence-Bound Historical Revision](concepts/EvidenceBoundHistoricalRevision.md) — Discipline for revising inherited history through evidence, source timing, motive, material traces, reconstruction labels, and public-memory caution.
 - [Personal Archive As History](concepts/PersonalArchiveAsHistory.md) — Idea that family objects, names, documents, work traces, and ordinary records can become future historical evidence.
 - [公案小说 / Gong'an Fiction](concepts/GongAnFiction.md) — Older Chinese case-solving tradition contrasted with Holmes-style procedure, evidence, science, and modern policing.
 - [Chinese Detective Modernity](concepts/ChineseDetectiveModernity.md) — Late-Qing and modern detective-fiction frame where translation imports procedure, scientific evidence, and police-institution imagination.

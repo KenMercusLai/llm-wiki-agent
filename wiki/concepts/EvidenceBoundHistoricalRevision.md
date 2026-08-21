@@ -2,8 +2,8 @@
 title: "Evidence-Bound Historical Revision"
 type: concept
 tags: [history, evidence, revision, public-memory]
-sources: [170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+last_updated: 2026-08-22
 ---
 
 # Evidence-Bound Historical Revision
@@ -16,6 +16,8 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 
 [[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] adds the succession version of the same method. [[CandleShadowAxeSound|烛影斧声]] is handled as a weak clue on its own but stronger inside a pattern that includes missing [[GoldenCabinetPledge|金匮之盟]] text, abrupt palace procedure, later修史, and the deaths or removal of alternative heirs.
 
+[[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] adds a Warring States version through [[LiKaiyuan|李开元]]'s [[QinMi|《秦谜》]] as relayed by the host. The reconstruction identifies [[ChangpingJun|昌平君]] with [[MiWan|芈完]]'s Qin-born son Xiong Qi and uses that background to explain why Changping Jun's revolt could disrupt [[LiXinQin|李信]]'s Chu campaign. The wiki keeps this as source-scoped reconstruction rather than settled baseline fact.
+
 ## Key Claims
 - Revising historical memory is legitimate when it begins from evidence gaps, source timing, motive, material traces, and alternative explanations.
 - Revision becomes weak when it treats every inherited narrative as false by default.
@@ -24,6 +26,7 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 - Public acceptance is a separate problem from evidentiary plausibility.
 - Later official revision can add political credit to a successor without making every suspicious detail false.
 - A suspicious historical pattern still needs graded confidence: source gaps, motive, chronology, and alternative explanations must be weighed separately.
+- A reconstruction can clarify a compressed chronicle passage without becoming the only admissible reading of that passage.
 
 ## Connections
 - [[HistoricalDetectiveReasoning]] - broader method.
@@ -34,3 +37,4 @@ The episode pairs this with [[CaoCaoTomb|曹操墓]]. There, the issue is not on
 - [[MythAsHistoricalEvidence]] and [[EvidenceBoundFolkloreInquiry]] - adjacent methods for treating stories as evidence without overclaiming.
 - [[ZhaoGuangyi|赵光义 / 宋太宗]], [[ZhaoPu|赵普]], [[ChenQiaoMutiny|陈桥兵变]], and [[SongFoundingLegitimacyPerformance|宋初建国合法性表演]] - Song founding revision case.
 - [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession revision case.
+- [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[LiKaiyuan|李开元]], [[QinMi|《秦谜》]], [[ChangpingJun|昌平君]], and [[ChronicleSourceGaps|编年史料空缺]] - Qinji 118-1 Changping Jun reconstruction case.

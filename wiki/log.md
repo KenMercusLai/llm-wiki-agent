@@ -9410,3 +9410,11 @@ Added source page for Qinji 117-2: Li Xin and Meng Tian's failed first Chu campa
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！
+
+Added source page for Qinji 118-1: Wang Jian's 600,000-person second Chu campaign, fortified waiting against Xiang Yan, Qin logistics and morale management, Chu withdrawal and Qinan defeat, "楚虽三户，亡秦必楚" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction. Created Li Kaiyuan, Qin Mi, Qinan (Chu battlefield), Fortified Attrition Patience, and Chu Three-Households Anti-Qin Memory. Updated Wang Jian, Xiang Yan, Meng Wu, Changping Jun, Chu Fuchu, Qin Shi Huang, Qin State, Chu State, Greed Persona Self-Protection, Military Morale Through Shared Hardship, War Cost Tempo Discipline, Chronicle Source Gaps, and Evidence-Bound Historical Revision. No settled contradiction found; Changping Jun's Xiong Qi identity and Li Xin-defeat explanation are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

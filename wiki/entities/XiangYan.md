@@ -2,7 +2,7 @@
 title: "项燕 / Xiang Yan"
 type: entity
 tags: [person, general, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
+sources: [zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,14 @@ The trap succeeds after Li Xin repels the smaller attack. As the Qin army comes 
 
 Xiang Yan's role is therefore not only that of a battlefield opponent. He is the source's example of strategic rhythm control: he lets Qin's young commander believe he is choosing the timing, then makes the Qin army respond to Chu's staged signals.
 
+[[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]] gives Xiang Yan the next and fatal campaign. [[ChuState|楚国]] mobilizes nationally after [[WangJianQin|王翦]] returns with 600,000 Qin troops, and Xiang Yan repeatedly tries to force a battle. Wang Jian's refusal leaves Xiang Yan facing a worsening supply and morale problem, so the source presents him as capable but structurally disadvantaged against Qin's larger logistical base.
+
+When Chu begins to withdraw, Wang Jian attacks and defeats Xiang Yan near [[QinanChuBattlefield|蕲南]]. The episode says Xiang Yan dies after leaving the line "楚虽三户，亡秦必楚," which it interprets through [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]]. It also connects Xiang Yan to [[XiangYu|项羽]] as his grandfather, making his death a prehistory to later Chu-Han anti-Qin memory.
+
 ## Connections
 - [[ChuState|楚国]] - state he defends.
 - [[QinState|秦国]], [[LiXinQin|李信]], and [[MengTian|蒙恬]] - attacking state and defeated commanders.
 - [[NanCommandery|南郡]] - diversion and trap location in the source.
 - [[DeceptiveSurrenderLull|诈降麻痹]] and [[BattlefieldInformationControl|战场信息控制]] - tactics and information frames used to read the episode.
 - [[WangJianQin|王翦]] and [[MengWu|蒙武]] - Qin's corrected command response after Xiang Yan's victory.
+- [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu|Qinji 118-1]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[QinanChuBattlefield|蕲南]], [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]], and [[XiangYu|项羽]] - final campaign, defeat, death-memory line, and later Chu-Han resonance.
