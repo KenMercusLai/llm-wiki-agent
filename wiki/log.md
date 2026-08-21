@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?
+
+Added source page for an All-In interview with Mark Cuban on AI bubble concentration in venture funds, private equity, private credit, and data-center finance; early AI IPOs and public stock as acquisition currency; employee collars for concentrated private-company equity; enterprise implementation difficulty; agent drift and maintenance burden; Lovable-enabled entrepreneurship; OpenEvidence and doctor-augmented health AI; political algorithms, legal immigration, Texas operating culture, and sports streaming valuations. Created Agent Maintenance Burden; updated overview, index, Mark Cuban, All-In, Lovable, OpenEvidence, Private-Market Bubble Opacity, Data Center Debt Risk, AI Bubble Hedging, Protective Collar Strategy, Enterprise AI ROI Audit, Forward Deployed Engineer, AI Health Management, World Models, Sports Media Rights, Texas, National Basketball Association, AI Job Security Anxiety, and Immigration Backlash Cycle. No settled contradiction found; the source qualifies earlier AI-infrastructure bullishness with a concentrated private-market and credit-loss path rather than rejecting AI's long-term usefulness.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（2）
 
 Added source page for Qinji 126 part 2: "祖龙死" as a direct death warning, Qin Shi Huang's "游徙吉" divination, the thirty-thousand-household northern relocation, the fifth/final tour as source-scoped fate-change attempt, 《赵正书》 as excavated-text support, and the 北河/河北 textual-variant issue. Created Zhao Zheng Shu and Omen Countermeasure Mobility; updated overview, index, Qin Shi Huang, Qin State, Qin Late Omen Crisis, Shiji, Zizhi Tongjian, Xiongnu, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Auspicious Omen Politics, Qin Frontier Buffer Management, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; preserved the final-tour motive as source-scoped reconstruction and the 北河/河北 correction as a textual issue.
@@ -9571,6 +9575,10 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（1）
 
 Added source page for Qinji 126: Qin Shi Huang's 211 BCE omen cluster, including 荧惑守心, Dong Commandery's "始皇死而地分" meteor inscription, collective punishment and stone destruction, the cultural response through 仙真人诗, the returned jade bi, "今年祖龙死," and source-critical doubt about whether the "始皇" wording is a direct contemporary record. Created Qin Late Omen Crisis; updated overview, index, Qin Shi Huang, Qin State, Dong Commandery, Shiji, Zizhi Tongjian, Auspicious Omen Politics, Celestial Omen Political Responsibility, Chinese Astrological Politics, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; the source functions as a death-omen and final-tour prelude rather than a completed death-cause analysis.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

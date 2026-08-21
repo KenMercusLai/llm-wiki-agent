@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?](sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640.md) — All-In interview with Mark Cuban on AI bubble concentration in private capital and data-center finance, early AI IPOs, employee collars, enterprise AI implementation difficulty, Lovable, OpenEvidence, world models, politics, Texas, and sports streaming valuations.
 - [《资治通鉴·秦纪》126｜秦始皇死因之谜（2）](sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca.md) — 芮淇讲透资治通鉴 episode on "祖龙死," "游徙吉," Qin Shi Huang's final tour as omen-countermeasure mobility, the thirty-thousand-household northern relocation, 《赵正书》, and the 北河/河北 textual issue.
 - [《资治通鉴·秦纪》126｜秦始皇死因之谜（1）](sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 211 BCE omen cluster: 荧惑守心, the Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the source-critical setup for his final tour.
 - [《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒](sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw.md) — 芮淇讲透资治通鉴 episode completing the 212 BCE坑儒 branch: fangshi flight, Qin Shi Huang's anger, Xianyang interrogations, 460-plus executions, Fusu's remonstrance, and the boundary separating坑儒 from焚书.
@@ -8043,6 +8044,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trump Accounts](concepts/TrumpAccounts.md) — Child investment-account program described by Brad Gerstner as a privately owned, S&P 500-based ownership account seeded at birth.
 - [Universal Equity Ownership](concepts/UniversalEquityOwnership.md) — Policy frame that broadens capitalism by giving ordinary households default exposure to diversified equity ownership.
 - [Enterprise AI ROI Audit](concepts/EnterpriseAIROIAudit.md) — CFO-facing test for whether token spend, agent workflows, FDE work, and model routing produce measurable business value.
+- [Agent Maintenance Burden](concepts/AgentMaintenanceBurden.md) — Ongoing work of monitoring, repairing, and revalidating AI agents when model behavior, prompts, tools, or business workflows drift after deployment.
 - [Dark Tokens](concepts/DarkTokens.md) — Open or self-hosted model usage that appears as infrastructure demand rather than direct closed-lab API revenue.
 - [Model Fungibility](concepts/ModelFungibility.md) — Boundary between models as interchangeable commodities and models embedded in memory, harnesses, workflow fit, and evaluation loops.
 - [China Model Access Restriction Risk](concepts/ChinaModelAccessRestrictionRisk.md) — Risk that Chinese models or hosted access could become restricted for foreign users if model capability becomes strategically sensitive.
