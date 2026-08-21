@@ -2,7 +2,7 @@
 title: "Self-Defeating Resource-Drain Strategy / 疲敌反强敌"
 type: concept
 tags: [strategy, state-capacity, infrastructure, warring-states, unintended-consequences]
-sources: [zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
+sources: [zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]
 last_updated: 2026-08-21
 ---
 
@@ -13,6 +13,8 @@ Self-defeating resource-drain strategy / 疲敌反强敌 is the pattern [[zizhi-
 The backfire comes from the project's real usefulness. Because [[LuBuwei|吕不韦]] already wants Guanzhong irrigation and because [[ZhengGuoHydraulicEngineer|郑国]]'s engineering plan can actually increase Qin's grain base, the cost is not pure waste. Once the sunk cost is near completion, abandoning the project would hurt Qin more than finishing it, so the attempted delay becomes long-term Qin state capacity.
 
 [[zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb]] adds that a strategic backfire can still leave political residue. Zheng Guo's mission benefits Qin materially, but its exposed foreign origin helps fuel the [[GuestExpulsionOrder|逐客令]] against other guest officials such as [[LiSi|李斯]].
+
+[[zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9]] extends that residue into the next policy turn: the spy case becomes a sweeping anti-guest order, and Li Si's answer reframes outside resources and outside talent as the very inputs that have made Qin stronger.
 
 ## Key Claims
 - A drain strategy can fail when the imposed burden is also durable infrastructure.

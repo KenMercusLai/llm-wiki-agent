@@ -8728,6 +8728,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国
+
+Added source page for Qinji 110-2: Li Si and Han Fei as Xunzi's standout students, Li Si's choice of Qin over Chu, his entry through Lu Buwei and rise with Ying Zheng, Zheng Guo's spy-case trigger for the guest-expulsion order, the full Jian Zhu Ke Shu argument, Ying Zheng's recall and restoration of Li Si, and the closing turn toward Qin's bribery/alienation/assassination tactics and Lu Buwei's death. Updated overview, index, Li Si, Jian Zhu Ke Shu, Guest Expulsion Order, Zheng Guo, Han Fei, Qin State, Qin Shi Huang, Lu Buwei, Xunzi, Warring States Careerist Mobility, Self-Defeating Resource-Drain Strategy, and Interest-Based Coalition Sabotage. No direct contradiction found; the transcript's "建筑课书" wording is normalized to 《谏逐客书》 and the title's "CP" phrasing is treated as a podcast hook for the Ying Zheng-Li Si working relationship.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》108-1｜历史敢当面顶撞秦始皇第一人
 
 Added source page for Qinji 108-1: Ying Zheng's 238 BCE personal-rule threshold, Yang Duanhe's continued pressure on Wei to the Qi border, the fourth-month cold disaster as omen framing, Lao Ai's rise and rebellion, Zhao Ji's confinement, and Mao Jiao's death-defying remonstrance. Created Lao Ai, Mao Jiao, Yang Duanhe, Changping Jun, Yongcheng, and Death-Defying Remonstrance. Updated overview, index, Qin Shi Huang, Lu Buwei, Zhao Ji, Qin State, Natural Disaster Political Omen, Qin Eastward Pressure, Terminal Hezong Failure, Hezong Alliance, and Court Feedback Collapse. No direct contradiction found; the episode's Qin-Qi border claim is recorded as a source-scoped interpretation of hezong's geographic closure, and the Lao Ai/Zhao Ji branch is not used to settle the older Ying Zheng paternity rumor.
@@ -9287,6 +9291,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？
 
 Added source page for Qinji 110-1: Lu Buwei's post-removal political aftershock, Qin royal-clan ministers' guest-expulsion argument, Zheng Guo as foreign-agent evidence, Li Si's low-status Chu clerk background, the toilet-mouse versus granary-mouse analogy, and Li Si's turn toward Xunzi study before the full Jian Zhu Ke Shu argument. Created Guest Expulsion Order and Mouse Philosophy; updated overview, index, Li Si, Jian Zhu Ke Shu, Qin Shi Huang, Lu Buwei, Xunzi, Qin State, Zheng Guo, Zhengguo Canal, Self-Defeating Resource-Drain Strategy, Human Nature Plasticity, and Warring States Careerist Mobility. No direct contradiction found; the episode's cliffhanger and Li Si motive reading are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

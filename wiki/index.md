@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国](sources/zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9.md) — 芮淇讲透资治通鉴 episode completing Li Si's Qin entry and Jian Zhu Ke Shu argument, from Zheng Guo's spy-case backlash to Ying Zheng's revocation of the guest-expulsion order.
 - [《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？](sources/zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb.md) — 芮淇讲透资治通鉴 episode on Qin's 237 BCE guest-expulsion order, post-Lu Buwei security panic, Zheng Guo as anti-guest evidence, and Li Si's early mouse-philosophy path from minor Chu clerk to Xunzi student.
 - [Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back](sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605.md) — All-In interview with Dan Loeb on Third Point, short selling, event-driven investing, modern stock picking, management quality, Nvidia, private winners after IPO, education reform, and criminal-justice clemency.
 - [《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门](sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw.md) — 芮淇讲透资治通鉴 episode completing Chunshenjun's ignored warning, Li Yuan's palace ambush and household purge, Chu Youwang's accession, and the Sima Qian/Jia Yi/Yang Xiong/Sima Guang/Zhu Xi reception of the Warring States Four Lords.
@@ -1171,8 +1172,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
 - [贾谊 / Jia Yi](entities/JiaYi.md) — Early Western Han writer whose Guo Qin Lun praise of the Warring States Four Lords is contrasted with Yang Xiong and Sima Guang's criticism.
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
-- [李斯 / Li Si](entities/LiSi.md) — Qin minister whose early mouse philosophy, Xunzi study, and guest status set up his response to the 237 BCE guest-expulsion order.
-- [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial whose political occasion is Qin's post-Lu Buwei expulsion of foreign guest officials.
+- [李斯 / Li Si](entities/LiSi.md) — Qin minister whose early mouse philosophy, Xunzi study, Qin entry, and Jian Zhu Ke Shu response turn guest expulsion into a state-strategy argument.
+- [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial arguing that Qin's historical success depended on foreign guest talent and that expulsion would strengthen enemy states.
 - [李源 / 李元 / Li Yuan (Warring States)](entities/LiYuanWarringStates.md) — Zhao-origin retainer who uses his sister's pregnancy, Chu Kaolie Wang's childlessness, and Chunshenjun's fear to enter Chu's succession center, then kills Chunshenjun after Mi Wan dies.
 - [李源妹妹 / 李元妹妹 / Li Yuan's Sister](entities/LiYuanSister.md) — Woman whose pregnancy by Chunshenjun is redirected into Chu Kaolie Wang's palace and becomes the vehicle for a hidden-heir succession plot.
 - [嫪毐 / Lao Ai](entities/LaoAi.md) — Qin court favorite of Zhao Ji whose exposed false-eunuch status becomes rebellion in Qinji 108-1.
@@ -1209,7 +1210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general introduced here as Li Mu's future opponent in the Qin-Zhao final phase.
-- [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose Zhengguo Canal mission tries to drain Qin but becomes a Qin state-capacity gain.
+- [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
 - [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
@@ -1293,7 +1294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [触龙 / Chu Long](entities/ChuLong.md) — Zhao left master whose slow, family-centered approach to Zhao Weihou anchors the emotional de-escalation persuasion case.
 - [赵威后 / Zhao Weihou](entities/ZhaoWeihou.md) — Zhao regent and mother of Chang'an Jun whose refusal of Qi's hostage demand creates the Chu Long persuasion crisis.
 - [长安君 / Lord Chang'an of Zhao](entities/ChangAnJunZhao.md) — Zhao Weihou's youngest son whom Qi demands as hostage before aiding Zhao against Qin.
-- [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Future Qin succession actor foreshadowed when Anguo Jun is made crown prince.
+- [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Qin power broker whose branch runs from succession investment and regency to Li Si's Qin entry channel before the narrative turns toward his death.
 - [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler whose Shangdang acceptance, failed diplomacy, and replacement of Lian Po with Zhao Kuo culminate in Changping disaster.
 - [秦悼太子 / Qin Daotaizi](entities/QinDaotaizi.md) — Qin crown prince whose death as a hostage in Wei makes Qin's near-attack strategy a succession puzzle.
 - [安国君柱 / 秦孝文王 / King Xiaowen of Qin](entities/QinXiaowenwang.md) — Qin Zhaoxiang Wang's later crown-prince choice after Qin Daotaizi's death.
@@ -1361,7 +1362,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王蠋 / Wang Zhu](entities/WangZhu.md) — Qi worthy man and former official who refuses Yan service after conquest and dies rather than serve two rulers or endanger his city.
 - [田法章 / Tian Fazhang](entities/TianFazhang.md) — Qi Min Wang's son, introduced as a hidden fugitive after Qi's collapse and his father's violent death.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
-- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Wangba political theory, Jixia biography, Lanling administration, and 性恶论 contrast with Mencius.
+- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Wangba theory, Jixia and Lanling biography, 性恶论, and the Li Si/Han Fei student branch.
 - [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
 - [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler used as a comparison for failed rulers who cannot safely return to ordinary life once political support collapses.
 - [周武王 / King Wu of Zhou](entities/ZhouWuwang.md) — Classical kingly-rule exemplar paired with Shang Tang in the episode's Xunzian Wangba framework.
@@ -1703,7 +1704,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周安王 / King An of Zhou](entities/ZhouAnWang.md) — Zhou ruler succeeding King Weilie in the source's chronology.
 - [晋国 / Jin State](entities/JinState.md) — Pre-Qin state node for the Jin You Gong, Qin Ying, and Qin-Jin marriage-alliance comparison.
 - [晋幽公 / Duke You of Jin](entities/JinYouGong.md) — Jin ruler whose Bamboo Annals death account is used to illustrate political direction behind "bandits."
-- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from kinship diplomacy and Shang Yang reform into Fan Ju strategy, Bai Qi's Changping victory, and post-victory exhaustion.
+- [秦国 / Qin State](entities/QinState.md) — Qin polity moving from Shang Yang reform and Fan Ju strategy into Bai Qi's wars, Zheng Guo Canal capacity, and Li Si's foreign-talent defense.
 - [秦简公 / Duke Jian of Qin](entities/QinJianGong.md) — Qin ruler whose death leads to Qin Hui Gong's accession in the Zhouji 07 chronology.
 - [秦惠公 / Duke Hui of Qin](entities/QinHuiGong.md) — Qin Jian Gong's son and successor in the Zhouji 07 succession sequence.
 - [秦嬴 / Qin Ying](entities/QinYing.md) — Qin princess named in the Bamboo Annals account of Jin You Gong's assassination.
@@ -3139,7 +3140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [真斗拳馆](entities/ZhendouBoxingGym.md) — Boxing gym that accepts 惠子, combining disability access with serious training, examination, and professional standards.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
-- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin emperor used by episode 87 to connect immortality seeking, water-phase symbolism, fangshi patronage, omen anxiety, and coercive imperial power.
+- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, conquest politics, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
@@ -5399,7 +5400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [House of Medici / 美第奇家族](entities/HouseOfMedici.md) — Renaissance Florentine family whose patronage, violence, return, and rule frame Machiavelli's exile and The Prince.
 - [Girolamo Savonarola / 萨沃纳罗拉](entities/GirolamoSavonarola.md) — Religious-political ruler of Florence used by episode 72 to show moral zeal, popular belief, and unstable political authority.
 - [Cesare Borgia / 凯撒·波吉亚](entities/CesareBorgia.md) — Renaissance power-seeker used by episode 72 as Machiavelli's vivid case for political capacity and controlled cruelty.
-- [Han Fei / 韩非](entities/HanFei.md) — Legalist comparison figure used by episode 72 to test but limit the "Western Han Fei" reading of Machiavelli.
+- [Han Fei / 韩非](entities/HanFei.md) — Legalist thinker and Xunzi student whose branch spans Machiavelli comparison, ruler-technique stories, and the Qinji 110-2 contrast with Li Si.
 - [Shang Yang / 商鞅](entities/ShangYang.md) — Qin reformer whose 公孙鞅 branch links popular-deliberation bypass, 什伍连坐, military merit, and legalist state-building risk.
 - [陈迭仙](entities/ChenDiexian.md) — Republican-era writer, publisher, amateur chemist, advertiser, and entrepreneur behind 蝴蝶牌 and 家庭工业社.
 - [林玉沁](entities/LinYuqin.md) — Scholar whose research links Chen Diexian, cosmetics formulas, mass media, emotion history, and Chinese light-industrial modernity.
@@ -7550,12 +7551,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public-Safety-First Urban Governance](concepts/PublicSafetyFirstUrbanGovernance.md) — Pratt's claim that streets, transit, families, business, rebuilding, and production require visible enforcement and order first.
 - [Municipal Transparency Dashboard](concepts/MunicipalTransparencyDashboard.md) — Proposal to make city, school, contractor, and nonprofit spending legible through public dashboards paired with audits.
 - [Permit Automation For Zoned Projects](concepts/PermitAutomationForZonedProjects.md) — Proposal to use AI or automatic approval when projects already satisfy zoning criteria, reducing avoidable permitting delay.
-- [Guest Expulsion Order / 逐客令](concepts/GuestExpulsionOrder.md) — Qin policy crisis where security fear and royal-clan office politics recast foreign guest officials as expulsion targets.
+- [Guest Expulsion Order / 逐客令](concepts/GuestExpulsionOrder.md) — Qin policy crisis where security fear and royal-clan office politics recast foreign guest officials as expulsion targets before Li Si's memorial forces reversal.
 - [Mouse Philosophy / 老鼠哲学](concepts/MousePhilosophy.md) — Li Si's source-scoped environment-and-opportunity lesson drawn from toilet mice and granary mice.
 - [Frontier Defensive Patience / 边境防御耐心](concepts/FrontierDefensivePatience.md) — Li Mu's pattern of refusing repeated raids, preserving frontier capacity, and waiting to turn enemy overconfidence into decisive battle.
 - [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact while agrarian defenders must protect fixed people, herds, and stores.
 - [Warring States Northern Great Walls / 战国北境长城](concepts/WarringStatesNorthernGreatWalls.md) — Qin, Zhao, and Yan northern defensive wall frame linked to mobile frontier raiding and later Qin Shi Huang wall integration.
-- [Self-Defeating Resource-Drain Strategy / 疲敌反强敌](concepts/SelfDefeatingResourceDrainStrategy.md) — Strategy where an attempted burden on an enemy becomes durable infrastructure or capacity for that enemy.
+- [Self-Defeating Resource-Drain Strategy / 疲敌反强敌](concepts/SelfDefeatingResourceDrainStrategy.md) — Strategy where an attempted burden on an enemy becomes durable infrastructure or capacity, while its exposed motive can still create political backlash.
 - [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
@@ -7615,7 +7616,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Windfall Decision Trap / 无故之利](concepts/WindfallDecisionTrap.md) — Decision pattern where an apparent free gain transfers hidden obligation, enemy pressure, or future retaliation to the recipient.
 - [襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin](concepts/XiangwangYouyiShennvWuxin.md) — Classical one-sided desire motif from Song Yu's Wushan goddess tradition, used here to link Chu Qingxiang Wang's literary memory to the episode title.
 - [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where Qin cuts routes and passes so a neighboring state's territory becomes fragmented before conquest.
-- [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Fan Ju pattern of using money, banquets, and organizer self-interest to fracture renewed anti-Qin hezong before it matures.
+- [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Pattern spanning Fan Ju's anti-hezong inducements and Qin's later gold, bribery, assassination, and alienation tactics before conquest.
 - [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
 - [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
 - [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.

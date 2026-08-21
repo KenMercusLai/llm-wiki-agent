@@ -2,7 +2,7 @@
 title: "荀子 / Xunzi"
 type: entity
 tags: [person, philosopher, confucianism, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
+sources: [zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The same source gives Xunzi's Lanling ending a fuller arc. After [[Pingyuanjun|�
 
 [[zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb]] adds Xunzi as [[LiSi|李斯]]'s chosen teacher. The episode does not develop Xunzi's doctrine directly; it uses his school as Li Si's route out of minor Chu clerical life after [[MousePhilosophy|老鼠哲学]] convinces him that environment and arena determine opportunity. This makes Xunzi part of Li Si's self-investment path rather than a new philosophical argument in the source.
 
+[[zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9]] extends that school branch by pairing Li Si with [[HanFei|韩非]] as Xunzi's two standout students. The episode again uses Xunzi mainly as teacher and intellectual environment, not as the object of a new doctrine: his school becomes the shared origin for Li Si's practical Qin career and Han Fei's sharp Legalist writing.
+
 ## Connections
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and text using Xunzi as political instruction.
 - [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[XingETheory|性恶论]] - text and concepts added by Zhouji 71.
@@ -52,4 +54,4 @@ The same source gives Xunzi's Lanling ending a fuller arc. After [[Pingyuanjun|�
 - [[CarlVonClausewitz|克劳塞维茨]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[LanlingWarringStates|兰陵 / Lanling]], and [[Chunshenjun|黄歇 / 春申君]] - Qinji 99 part 4 war-realism critique and late Lanling return branch.
 - [[VirtuePracticeInternalization|修养内化]], [[Confucius|孔子]], and [[FixedHumanNaturePolitics]] - Qinji 101-1 human-nature slogan caution.
 - [[XingETheory|性恶论]], [[XingShanTheory|性善论]], [[HumanNaturePlasticity|人性可变性]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - Qinji 101-2 human-nature comparison and crisis-pressure extension.
-- [[LiSi|李斯]], [[MousePhilosophy|老鼠哲学]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Qinji 110-1 source-scoped teacher/student and upward-mobility branch.
+- [[LiSi|李斯]], [[HanFei|韩非]], [[MousePhilosophy|老鼠哲学]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Qinji 110-1 and 110-2 source-scoped teacher/student, classmate, and upward-mobility branch.
