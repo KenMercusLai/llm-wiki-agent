@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？](sources/zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's Qin chancellorship, source-scoped Jiang Taigong lineage claim, Jiang Taigong's late recognition by Zhou Wenwang, Qin's destruction of Eastern Zhou, Sanchuan commandery creation, and Lu's final collapse under Chu.
 - [《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？](sources/zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt.md) — 芮淇讲透资治通鉴 episode on Mencius's 性善论, Xunzi's 性恶论, human-nature plasticity, disaster as civilization retreat, Wei Anxi Wang's fear-driven strategy failure, and Lu Zhonglian's Li Bai reception.
 - [《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死](sources/zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w.md) — 芮淇讲透资治通鉴 episode on Qin Xiaowen Wang's three-day formal reign and uncertain death, Zichu's accession and maternal honors, Lu Zhonglian's arrow-letter recovery of Liaocheng for Qi, and Zi Shun's argument that practiced gentlemanly conduct can become character.
 - [《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧](sources/zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive funeral etiquette, Yan Wang Xi and Li Fu's failed attempt to exploit post-Changping Zhao, and Lian Po's victory in the Hao-Dai battle.
@@ -1143,6 +1144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周文王 / King Wen of Zhou](entities/ZhouWenwang.md) — Zhou ruler who recognizes Jiang Taigong, links the episode to Zhouyi systematization, and grounds the late-blooming talent branch.
 - [夏姬 / 夏太后 / Lady Xia](entities/XiaTaihou.md) — Qin Zhuangxiang Wang's biological mother, honored as Xia Taihou after his accession.
 - [辽城 / Liao City (Warring States)](entities/LiaochengWarringStates.md) — Qi city captured by Yan and recovered by Tian Dan after Lu Zhonglian's arrow-letter breaks the trapped commander stalemate.
 - [子顺 / Zi Shun](entities/ZiShun.md) — Figure who answers Wei Anxi Wang's complaint that Lu Zhonglian is performative by arguing repeated practice can become gentlemanly character.
@@ -1262,7 +1264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [公孙无知 / Gongsun Wuzhi](entities/GongsunWuzhi.md) — Qi usurper whose killing creates the power vacuum between Jiang Xiaobai and Gongzi Jiu.
 - [公子纠 / Gongzi Jiu](entities/GongziJiu.md) — Defeated Qi succession claimant served by Guan Zhong before Guan Zhong enters Qi Huan Gong's government.
 - [召忽 / Shao Hu](entities/ShaoHu.md) — Gongzi Jiu loyalist whose death contrasts with Guan Zhong's survival and later reform role.
-- [姜太公 / Jiang Taigong](entities/JiangTaigong.md) — Founding ruler of Qi invoked as the state's old Zhou enfeoffment origin.
+- [姜太公 / 姜子牙 / Jiang Taigong](entities/JiangTaigong.md) — Founding ruler of Qi, Zhou Wenwang's late-recognized adviser, and source-scoped ancestor figure in Lu Buwei's lineage claim.
 - [管仲 / Guan Zhong](entities/GuanZhong.md) — Qi minister whose economic and administrative statecraft is praised while remaining limited by person-dependent, non-ritual durability.
 - [子产 / Zi Chan](entities/ZiChan.md) — Zheng statesman used by Zhouji 75-1 to contrast personal kindness with bridge-building, institutions, and small-state strategic judgment.
 - [《管子》 / Guanzi](entities/GuanziText.md) — Pre-Qin statecraft text cited for Guan Zhong's luxury-consumption economic circulation branch.
@@ -7439,6 +7441,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.
 - [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
 - [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.
 - [Disaster Civilization Retreat / 灾变中的文明退场](concepts/DisasterCivilizationRetreat.md) — Crisis ethics frame where disaster thins civilized restraint and safety design must account for panic, scarcity, and survival impulses.

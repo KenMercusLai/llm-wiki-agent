@@ -92,6 +92,8 @@ The source then immediately limits Chu's rescue capacity. Chu does not border Zh
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] continues that Chu-Lu-Xunzi branch. The source says Chu occupies Lu more fully, exiles Lu's ruler to Ju, and leaves Lu only nominally present. It also dates Xunzi's return to Lanling to 251 BCE under [[MiWan|楚考烈王]]'s reign, then says [[Chunshenjun|黄歇 / 春申君]] is killed during Chu turmoil in 238 BCE, ending Xunzi's ability to hold the office.
 
+[[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod]] gives the terminal Lu notice in sharper political language. Chu destroys [[LuState|鲁国]], moves Lu Qing Gong from Ju to Biancheng, and makes him a commoner. The episode uses the notice to stress Lu's surprisingly late survival rather than to develop new Chu strategy, so Chu's role here remains the final absorber of an old Zhou enfeoffed state.
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -133,3 +135,4 @@ The source then immediately limits Chu's rescue capacity. Chu does not border Zh
 - [[Xinlingjun|信陵君]], [[Handan|邯郸]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[HezongAlliance|合纵]] - Zhouji 97 part 1 Chu aid becoming operational after Wei's army moves.
 - [[Chunshenjun|黄歇 / 春申君]], [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], [[LuState|鲁国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 post-conquest cultural administration.
 - [[MiWan|楚考烈王]], [[ZhouRoyalHouse|周王室]], and [[WarringStatesPeriod|战国时期]] - Qinji 99 part 4 Lu absorption and Xunzi's final Chu-service endpoint.
+- [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]] and [[LuState|鲁国]] - final destruction of Lu and demotion of Lu Qing Gong.

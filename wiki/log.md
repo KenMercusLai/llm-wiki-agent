@@ -9139,3 +9139,11 @@ Added source page for the second Qinji 101 installment: Mencius's 性善论, Xun
 ## [2026-08-21] lint | Wiki lint result
 
 Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,345 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki scan found 12,345 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？
+
+Added source page for the first Qinji 102 installment: Lu Buwei's appointment as Qin chancellor, the source-scoped claim that he descends from Jiang Taigong through a Jiang-surname/Lu-clan line, Jiang Taigong's late recognition by Zhou Wenwang, Zhou Wuwang's conquest and Qi enfeoffment branch, Eastern Zhou's destruction by Lu Buwei, Qin's Sanchuan commandery creation through Meng Ao, and Lu's final demotion under Chu. Created Zhou Wenwang and Late-Blooming Talent; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang, Jiang Taigong, Zhou Wuwang, Eastern Zhou Polity, Zhou Royal House, Sanchuan, Meng Ao, Qin State, Qi State, Chu State, Lu State, and Zhouyi Divination. No direct contradiction found; the Lu Buwei genealogy, Jiang Taigong age details, and Sanchuan river-name uncertainty are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
