@@ -19,4 +19,4 @@ Ru Ji therefore marks the palace-access side of [[StealingTigerTalliesToRescueZh
 - [[WeiAnxiWang|魏安釐王]] - ruler whose bedroom contains the needed tally half.
 - [[HouYing|侯嬴]] - strategist who identifies her as the only workable access point.
 - [[TigerTallyCommandSystem|虎符调兵制度]] and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - credential mechanism and rescue action her theft enables.
-- [[JinBi|晋鄙]], [[ZhuHai|朱亥]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - downstream command seizure and ethical cost.
+- [[JinBi|晋鄙]], [[ZhuHaiWeiRetainer|朱亥]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - downstream command seizure and ethical cost.

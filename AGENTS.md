@@ -166,6 +166,7 @@ Steps:
 Triggered by: *"lint"*
 
 Check for:
+- **Identity collisions** — run `python3 tools/validate_identities.py` first and stop if any case-insensitive key or public route is duplicated
 - **Orphan pages** — wiki pages with no inbound `[[links]]` from other pages
 - **Broken links** — `[[WikiLinks]]` pointing to pages that don't exist
 - **Contradictions** — claims that conflict across pages
@@ -232,6 +233,8 @@ If Python/deps unavailable, build manually:
 - Source slugs: `kebab-case` matching source filename
 - Entity pages: `TitleCase.md` (e.g. `OpenAI.md`, `SamAltman.md`)
 - Concept pages: `TitleCase.md` (e.g. `ReinforcementLearning.md`, `RAG.md`)
+- Before creating or renaming a canonical page, compare its key case-insensitively within the same section and compare its lowercased public route.
+- Distinct subjects that share a normalized key must use a stable semantic suffix (for example, `ZhuHaiWeiRetainer.md` versus the city `Zhuhai.md`); update every `[[wikilink]]` to the disambiguated key.
 
 ## Index Format
 

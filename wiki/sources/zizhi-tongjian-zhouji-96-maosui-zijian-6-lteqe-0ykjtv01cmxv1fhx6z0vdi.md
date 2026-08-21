@@ -13,7 +13,7 @@ last_updated: 2026-08-21
 # 《资治通鉴·周纪》96丨毛遂自荐（6）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[Xinlingjun|信陵君]] setup from [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof|Zhouji 96 part 5]] by turning [[HouYing|侯嬴]]'s reputation test into an operational rescue plan. With [[WeiAnxiWang|魏安釐王]] unwilling to truly confront [[QinState|秦国]], Hou Ying directs Xinlingjun toward [[RuJi|如姬]], the hidden [[TigerTallyCommandSystem|虎符]] in the king's bedroom, and [[ZhuHai|朱亥]] as the violent backup if [[JinBi|晋鄙]] refuses to yield command.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[Xinlingjun|信陵君]] setup from [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof|Zhouji 96 part 5]] by turning [[HouYing|侯嬴]]'s reputation test into an operational rescue plan. With [[WeiAnxiWang|魏安釐王]] unwilling to truly confront [[QinState|秦国]], Hou Ying directs Xinlingjun toward [[RuJi|如姬]], the hidden [[TigerTallyCommandSystem|虎符]] in the king's bedroom, and [[ZhuHaiWeiRetainer|朱亥]] as the violent backup if [[JinBi|晋鄙]] refuses to yield command.
 
 The episode's distinctive contribution is the double reading of [[StealingTigerTalliesToRescueZhao|窃符救赵]]. Xinlingjun's seizure of the Wei army enables [[WeiState|魏国]], [[ChuState|楚国]], and [[ZhaoState|赵国]] to break the siege of [[Handan|邯郸]], but the killing of Jin Bi is treated as the action's clearest [[MoralCostOfEffectiveRescue|moral cost]]: a successful anti-Qin rescue still carries an ethical scar when an officer loyal to his duty is killed for standing in the way.
 
@@ -40,7 +40,7 @@ The episode's distinctive contribution is the double reading of [[StealingTigerT
 > "大事者不拘小节" - the dangerous logic the host rejects when judging Jin Bi's killing.
 
 ## Connections
-- [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof|Zhouji 96 part 5]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - patronage-reputation setup becomes operational capacity.
+- [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof|Zhouji 96 part 5]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - patronage-reputation setup becomes operational capacity.
 - [[WeiAnxiWang|魏安釐王]], [[RuJi|如姬]], [[TigerTallyCommandSystem|虎符调兵制度]], [[JinBi|晋鄙]], and [[YeWarringStates|邺城]] - Wei-side command seizure chain.
 - [[Pingyuanjun|平原君]], [[ZhaoDan|赵丹 / 赵孝成王]], [[Handan|邯郸]], and [[ZhaoState|赵国]] - siege target and pressure source.
 - [[ChuState|楚国]], [[JingYang|景阳]], [[HezongAlliance|合纵]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - alliance-rescue mechanics after Wei's army finally moves.

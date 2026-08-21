@@ -15,7 +15,7 @@ last_updated: 2026-08-21
 ## Summary
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[Handan|邯郸]] crisis from [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk|Zhouji 96 part 4]] by turning from Zhao's internal burden sharing to the question of how [[WeiState|魏国]] might break [[QinState|秦国]]'s pressure. [[WeiAnxiWang|魏安釐王]] remains afraid of Qin, so the narrative shifts to his brother [[Xinlingjun|信陵君]] and to the earlier story of how Xinlingjun earned [[HouYing|侯嬴]]'s trust.
 
-The episode's distinctive contribution is a layered reading of [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]. It treats Hou Ying, a poor elderly gatekeeper at [[Daliang|大梁]]'s Yi Gate, as a [[ConfucianLowOfficeReclusion|Confucian low-office recluse]], then shows how his public delay with [[ZhuHai|朱亥]] becomes a [[PublicHumilityReputationTest|public humility reputation test]]: Xinlingjun's willingness to drive, reserve the honored left seat, wait without irritation, and introduce Hou Ying as an honored guest makes respectful patronage visible before the later rescue-of-Zhao action.
+The episode's distinctive contribution is a layered reading of [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]. It treats Hou Ying, a poor elderly gatekeeper at [[Daliang|大梁]]'s Yi Gate, as a [[ConfucianLowOfficeReclusion|Confucian low-office recluse]], then shows how his public delay with [[ZhuHaiWeiRetainer|朱亥]] becomes a [[PublicHumilityReputationTest|public humility reputation test]]: Xinlingjun's willingness to drive, reserve the honored left seat, wait without irritation, and introduce Hou Ying as an honored guest makes respectful patronage visible before the later rescue-of-Zhao action.
 
 ## Key Claims
 - Wei Anxi Wang is too intimidated by Qin to act decisively, so the source shifts from state policy to Xinlingjun's personal network as a possible route out of the Handan crisis.
@@ -40,7 +40,7 @@ The episode's distinctive contribution is a layered reading of [[TalentAttractio
 
 ## Connections
 - [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk|Zhouji 96 part 4]], [[Handan|邯郸]], [[WeiAnxiWang|魏安釐王]], [[WeiState|魏国]], and [[QinState|秦国]] - crisis setting and blocked rescue context.
-- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Daliang|大梁]], and [[WeiState|魏国]] - central Wei-side patronage scene.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[Daliang|大梁]], and [[WeiState|魏国]] - central Wei-side patronage scene.
 - [[WarringStatesFourLords|战国四公子]], [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - comparative patronage-reputation frame.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[WarringStatesRetainerPatronage|战国养士]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[ConfucianLowOfficeReclusion|儒家低职隐居]] - main conceptual contribution.
 - [[Shiji|《史记》]], [[SimaQian|司马迁]], and [[ZizhiTongjian|《资治通鉴》]] - source-layer comparison, Shiji biography material, and annalistic exaggeration check.
