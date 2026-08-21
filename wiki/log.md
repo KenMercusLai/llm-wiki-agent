@@ -9203,3 +9203,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 12,398 pages with no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,398 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified; supplemental in-session checks found 184 entity/concept pages with source links missing from frontmatter and five pages whose body references a newer source than `last_updated`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | Charles & Chase Koch on How They Quietly Built a $150B Empire
+
+Added source page for the All-In interview with Charles Koch and Chase Koch on Koch Industries, capability-bounded growth, operating principles, private ownership, Stand Together, education reform, barrier-removal social change, and permissionless AI innovation. Created Charles Koch, Chase Koch, Koch Industries, Koch Fertilizer, Koch Disruptive Technologies, Georgia-Pacific, Molex, Stand Together, Alpha School, Khan Academy, Vela Fund, The Phoenix, Capability-Bounded Growth, Koch Operating Principles, Values-First Talent, Long-Term Private Ownership, and Barrier-Removal Social Change. Updated overview, index, All-In, Comparative Advantage, Values As Operational Asset, Permissionless AI Innovation, and Useful Work Career Compounding. No direct contradiction found; the business-history, labor, education, philanthropy, and policy claims are kept as source-scoped Koch-family participant accounts.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

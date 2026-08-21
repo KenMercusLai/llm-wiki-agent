@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Charles & Chase Koch on How They Quietly Built a $150B Empire](sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895.md) — All-In interview with Charles and Chase Koch on Koch Industries, capability-bounded growth, operating principles, private ownership, Stand Together, education reform, barrier removal, and permissionless AI innovation.
 - [《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡](sources/zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin.
 - [Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back](sources/all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810.md) — All-In interview with Spencer Pratt on his Los Angeles mayoral campaign after the Pacific Palisades fire, covering emergency warnings, homelessness treatment, nonprofit audits, public safety, school spending, transit, permitting, and independent production.
 - [《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍](sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh.md) — 芮淇讲透资治通鉴 episode on Qin's famine-year attack on Han, Li Mu's rise after Lian Po, and Li Mu's frontier strategy of defensive patience, bait, and encirclement against Xiongnu cavalry.
@@ -1151,6 +1152,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Charles Koch](entities/CharlesKoch.md) — Koch Industries leader whose All-In account links capability-bounded growth, values-first hiring, operating principles, private ownership, and barrier-removal social change.
+- [Chase Koch](entities/ChaseKoch.md) — Koch Industries executive whose All-In account turns comparative advantage into personal role choice, KDT investing, Stand Together, education reform, and permissionless AI access.
+- [Koch Industries](entities/KochIndustries.md) — Private family-owned industrial company framed in the source as a capability-bounded growth and long-term private ownership case.
+- [Koch Fertilizer](entities/KochFertilizer.md) — Koch business Chase Koch says he stepped back from after deciding another leader had stronger comparative advantage.
+- [Koch Disruptive Technologies](entities/KochDisruptiveTechnologies.md) — Koch investment arm used in the source to show early learning and capability testing in disruptive markets.
+- [Georgia-Pacific](entities/GeorgiaPacific.md) — Koch acquisition used by Charles Koch as a bureaucracy-to-principles culture-integration example.
+- [Molex](entities/Molex.md) — Koch company example where Charles Koch says principles vocabulary initially failed to change behavior.
+- [Stand Together](entities/StandTogether.md) — Koch-linked social-change network framed around collaboration, education efforts, recovery models, and barrier removal.
+- [Alpha School](entities/AlphaSchool.md) — Education effort named as part of Stand Together's school-experiment portfolio.
+- [Khan Academy](entities/KhanAcademy.md) — Online-learning nonprofit named in the source as an education effort supported by Stand Together.
+- [Vela Fund](entities/VelaFund.md) — Education philanthropy named in the source as part of Stand Together's alternative-school support.
+- [The Phoenix](entities/ThePhoenixRecovery.md) — Addiction-recovery community example Chase Koch uses to illustrate backing people close to problems.
 - [魏景湣王 / 魏增 / King Jingmin of Wei](entities/WeiJingminWang.md) — Wei Anxi Wang's successor whose accession is the political motive inside the source-scoped Xinlingjun death suspicion.
 - [庞煖 / Pang Nuan](entities/PangNuan.md) — Zhao commander who defeats Yan's Ju Xin after Yan Wang Xi underestimates Zhao's remaining military capacity.
 - [东郡 / Dong Commandery](entities/DongCommandery.md) — Qin commandery created after Meng Ao captures twenty Wei cities in 242 BCE, turning conquest into administrative consolidation.
@@ -7476,6 +7489,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.
+- [Koch Operating Principles](concepts/KochOperatingPrinciples.md) — Source-specific management framework around vision, capabilities, virtue and talents, knowledge, motivation, incentives, and behavior change.
+- [Values-First Talent](concepts/ValuesFirstTalent.md) — Hiring frame that puts values before skills and credentials to avoid destructive but capable leaders.
+- [Long-Term Private Ownership](concepts/LongTermPrivateOwnership.md) — Governance frame where private control protects reinvestment, experimentation, and operating principles from public-market pressure.
+- [Barrier-Removal Social Change](concepts/BarrierRemovalSocialChange.md) — Koch/Stand Together frame that social change should remove institutional barriers to agency, capability, contribution, and human flourishing.
 - [信陵君非正常死亡疑云 / Xinlingjun Death Suspicion](concepts/XinlingjunDeathSuspicion.md) — Source-scoped hypothesis that Xinlingjun's death before Wei Anxi Wang may reflect succession-security removal rather than only frustrated withdrawal.
 - [鬻爵赈灾融资 / Rank Sale Disaster Finance](concepts/RankSaleDisasterFinance.md) — Qin mechanism of exchanging grain for low rank during locust and epidemic pressure, using status as emergency finance.
 - [Emergency Warning Infrastructure](concepts/EmergencyWarningInfrastructure.md) — Sirens, alerts, dispatch, water readiness, fire assets, and resident communication layer Pratt says failed during the Palisades fire.
