@@ -2,7 +2,7 @@
 title: "鲁仲连 / Lu Zhonglian"
 type: entity
 tags: [person, qi-state, strategist, thinker, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
+sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The source also makes Lu Zhonglian's famous freedom less abstract. The host argu
 
 The same source also makes Lu Zhonglian the object of later moral evaluation. [[WeiAnxiWang|魏安釐王]] thinks his high-mindedness looks too self-conscious, while [[ZiShun|子顺]] replies that repeated performance of worthy conduct can become character. Lu Zhonglian therefore now connects not only to persuasion and reward refusal, but also to [[VirtuePracticeInternalization|修养内化]].
 
+[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] adds a reception and contrast layer. The episode says [[LiBai|李白]] admired Lu Zhonglian's independent personality, free will, chivalric spirit, and wisdom, making him a counterexample to [[WeiAnxiWang|魏安釐王]]'s fear and private suspicion. This reinforces Lu Zhonglian's role as a later moral-aesthetic model as well as a Warring States persuader.
+
 ## Connections
 - [[TianDan|田单]] - commander whose failed Di campaign Lu Zhonglian diagnoses.
 - [[QiState|齐国]] and [[JixiaAcademy|稷下学宫]] - state and intellectual setting.
@@ -44,3 +46,4 @@ The same source also makes Lu Zhonglian the object of later moral evaluation. [[
 - [[MoralizedShiIdentity|士的道德化身份]], [[MerchantAristocraticValueConflict|贵族-商人义利冲突]], and [[LuBuwei|吕不韦]] - Zhouji 97 part 3 reward refusal as contrast before the merchant-investor enters.
 - [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 arrow-letter persuasion and city recovery.
 - [[WeiAnxiWang|魏安釐王]], [[ZiShun|子顺]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-1 debate over performative virtue becoming character.
+- [[LiBai|李白]], [[MoralizedShiIdentity|士的道德化身份]], and [[HumanNaturePlasticity|人性可变性]] - Qinji 101-2 reception of Lu Zhonglian as an independence and character model.

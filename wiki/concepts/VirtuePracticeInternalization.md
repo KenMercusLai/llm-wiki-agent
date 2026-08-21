@@ -2,7 +2,7 @@
 title: "Virtue Practice Internalization / 修养内化"
 type: concept
 tags: [ethics, moral-cultivation, confucianism, human-nature, warring-states]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
+sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]
 last_updated: 2026-08-21
 ---
 
@@ -14,14 +14,18 @@ The concept does not equate all performance with virtue. Its point is developmen
 
 This frame sits between two wiki cautions. It supports [[MoralizedShiIdentity|士的道德化身份]] by showing how conduct can matter more than inherited status, but it also resists [[FixedHumanNaturePolitics]] by refusing to define people as permanently good or bad at the start.
 
+[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] broadens the same idea through [[HumanNaturePlasticity|人性可变性]]. The episode asks whether someone who once did wrong but then continually does good should be judged as good or bad. That question extends internalization from gentlemanly performance into long-run moral evaluation: repeated conduct may be stronger evidence than an original stain, but the source leaves motive and judgment open.
+
 ## Key Claims
 - Self-conscious ethical action is not automatically hypocrisy; it can be early-stage cultivation.
 - Repetition can turn externally maintained conduct into internal disposition.
 - Confucius's "性相近，习相远" is used as a human-plasticity claim rather than as a direct good-or-evil verdict.
 - The episode separates classical source claims from later formulas such as "人之初，性本善" and the simplified idea that Xunzi literally said "人之初，性本恶."
+- Qinji 101-2 extends the claim from performed virtue to the harder case of past wrongdoing followed by sustained good action.
 
 ## Connections
 - [[ZiShun|子顺]], [[WeiAnxiWang|魏安釐王]], and [[LuZhonglian|鲁仲连]] - source scene and evaluated figure.
 - [[Confucius|孔子]] and [[Xunzi|荀子]] - human-nature clarification.
 - [[MoralizedShiIdentity|士的道德化身份]] - conduct-based status context.
 - [[FixedHumanNaturePolitics]], [[ActionDefinesIdentity]], and [[LearningHowToLearn]] - adjacent wiki frames about change through action, practice, and formation.
+- [[HumanNaturePlasticity|人性可变性]], [[XingShanTheory|性善论]], [[XingETheory|性恶论]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - Qinji 101-2 broader human-nature and crisis context.

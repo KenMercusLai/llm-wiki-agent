@@ -2,7 +2,7 @@
 title: "魏安釐王 / King Anxi of Wei"
 type: entity
 tags: [person, ruler, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 
 [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] gives him a different, reflective role. After [[LuZhonglian|鲁仲连]] refuses reward for the [[LiaochengWarringStates|辽城]] episode, Wei Anxi Wang asks [[ZiShun|子顺]] whether the world has true high-minded士 and complains that Lu Zhonglian seems too performative. Zi Shun's reply turns the question into [[VirtuePracticeInternalization|修养内化]]: repeated gentlemanly performance can become character.
 
+[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] returns to Wei Anxi Wang as a negative strategic case. The episode argues that if he had kept a durable national strategy and used [[Xinlingjun|信陵君]] consistently, [[WeiState|魏国]] could have grown stronger; instead, his fear and private suspicion made him oscillate between anti-Qin alignment and cooperation with [[QinState|秦国]], then call on Xinlingjun only in emergency.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiZhaowang|魏昭王]] - polity and predecessor.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - pressure actors against his new reign.
@@ -52,3 +54,4 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 - [[FuChen|负臣]], [[Xinlingjun|信陵君]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 97 part 2 post-rescue non-punishment and uneasy distance.
 - [[WeyState|卫国]], [[WeyHuaijun|卫怀君]], [[WeyYuanjun|卫元君]], and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - Qinji 100-1 killing and replacement of Wey's ruler.
 - [[ZiShun|子顺]], [[LuZhonglian|鲁仲连]], [[LiaochengWarringStates|辽城]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-1 high士 and performative-cultivation discussion.
+- [[Xinlingjun|信陵君]], [[WeiState|魏国]], [[QinState|秦国]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Qinji 101-2 strategic inconsistency and fear-driven mistrust.

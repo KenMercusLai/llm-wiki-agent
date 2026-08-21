@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？](sources/zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt.md) — 芮淇讲透资治通鉴 episode on Mencius's 性善论, Xunzi's 性恶论, human-nature plasticity, disaster as civilization retreat, Wei Anxi Wang's fear-driven strategy failure, and Lu Zhonglian's Li Bai reception.
 - [《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死](sources/zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w.md) — 芮淇讲透资治通鉴 episode on Qin Xiaowen Wang's three-day formal reign and uncertain death, Zichu's accession and maternal honors, Lu Zhonglian's arrow-letter recovery of Liaocheng for Qi, and Zi Shun's argument that practiced gentlemanly conduct can become character.
 - [《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧](sources/zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive funeral etiquette, Yan Wang Xi and Li Fu's failed attempt to exploit post-Changping Zhao, and Lian Po's victory in the Hao-Dai battle.
 - [《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了](sources/zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's final years, Qin's quasi-royal hegemonic status, Han's survival deference, Wei's killing and replacement of Wey's ruler, and the succession path through Qin Xiaowen Wang, Zichu, Zhao Ji, and Ying Zheng.
@@ -7438,6 +7439,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
+- [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.
+- [Disaster Civilization Retreat / 灾变中的文明退场](concepts/DisasterCivilizationRetreat.md) — Crisis ethics frame where disaster thins civilized restraint and safety design must account for panic, scarcity, and survival impulses.
 - [Qin Xiaowen Wang Death Uncertainty / 秦孝文王三日而亡疑案](concepts/QinXiaowenwangDeathUncertainty.md) — Source-scoped death mystery around Xiaowen Wang's three-day formal reign, balancing Lu Buwei murder suspicion against illness, exhaustion, and court pressure.
 - [Liao City Commander Dilemma / 辽城守将进退困局](concepts/LiaochengCommanderDilemma.md) — Political-military trap where an occupying commander cannot advance, return, or surrender safely after ruler suspicion and enemy siege.
 - [Virtue Practice Internalization / 修养内化](concepts/VirtuePracticeInternalization.md) — Moral-cultivation frame where repeated outward performance can become stable character, tied to Lu Zhonglian and Confucius's "性相近，习相远."
