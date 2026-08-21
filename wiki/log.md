@@ -8704,6 +8704,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相
+
+Added source page for the first Qinji 99 installment: the transition from 周纪 to 秦纪 as chronicle periodization, the distinction between Qin state and formal Qin dynasty, Qin Zhaoxiang Wang's post-Handan/Fan Ju personnel crisis, Cai Ze's access-by-provocation, Tang Ju's physiognomic confidence frame, Wen Wang Guanren Fa as a talent-assessment bridge, and Cai Ze's opening 功成身退 warning to Fan Ju. Created Cai Ze, Tang Ju, Chronicle Periodization, and Wen Wang Guanren Fa; updated overview and index, with existing Fan Ju/Qin pages receiving source-scoped follow-up. No direct contradiction found; the title's chancellor payoff, physiognomy, and Qin纪 boundary are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）
 
 Added source page for the fourth post-Changping installment: why Wei Qi's helpers were admired, how Pingyuanjun and Yu Qing fit aristocratic friendship and士人 recognition ethics, how Xun Yue criticizes the same conduct as dead-party loyalty, and how Li Bai, Wang Anshi, and Wang Shizhen read the story differently. Created Xun Yue, Li Bai, Wang Shizhen, and Death-Party Loyalty vs Official Duty; updated overview, index, Fan Ju, Wei Qi, Yu Qing, Pingyuanjun, Xinlingjun, Yu Rang, Sima Qian, Wang Anshi, Aristocratic Friendship vs State Order, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Personal Revenge Through State Power, Warring States Careerist Mobility, and Imperial Examination Opportunity Equality. No direct contradiction found; the source is preserved as an interpretive/reception layer rather than a detailed Handan-campaign chronology.
@@ -9051,6 +9055,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
 
 Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

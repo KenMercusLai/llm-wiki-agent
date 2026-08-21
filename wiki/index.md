@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相](sources/zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk.md) — 芮淇讲透资治通鉴 episode opening 秦纪, explaining Qin-centered chronicle periodization before 221 BCE, and introducing Cai Ze's provocation of an exposed Fan Ju through Tang Ju's physiognomy and a 功成身退 warning.
 - [《资治通鉴·周纪》98丨历史上首个老赖登场了！](sources/zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu.md) — 芮淇讲透资治通鉴 episode closing 周纪 with Zhou Nan Wang's failed anti-Qin coalition, war borrowing, the "债台高筑" idiom story, Qin's extinction of Western Zhou, and the transition toward 秦纪.
 - [《资治通鉴·周纪》97-4丨史上为事业送老婆第一人](sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's persuasion of Yangquan Jun and Huayang Furen, Yiren's jade-tally adoption as succession proof, Zhao Ji's transfer to Yiren, and the source-critical doubts around Qin Shi Huang's Lu Buwei paternity rumor.
 - [《资治通鉴·周纪》97-3丨吕不韦：历史上风投第一人](sources/zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's moralized definition of士, Lu Zhonglian's refusal of reward, noble disdain for merchant profit, and Lu Buwei's political investment in the Qin hostage Yiren through Huayang Furen's succession leverage.
@@ -1133,6 +1134,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蔡泽 / Cai Ze](entities/CaiZe.md) — Yan persuader who enters Qin by provoking Fan Ju at a moment of personnel-liability crisis and opens a 功成身退 warning.
+- [唐举 / Tang Ju](entities/TangJu.md) — Warring States physiognomist whose forecast for Cai Ze lets the episode move from appearance to talent assessment.
 - [赵姬 / Zhao Ji](entities/ZhaoJi.md) — Woman transferred from Lu Buwei to Yiren, mother of Ying Zheng in the source, and center of the disputed Lu Buwei paternity rumor.
 - [阳泉君 / Lord Yangquan](entities/YangquanJun.md) — Huayang Furen's brother and Lu Buwei's access route for turning Yiren's adoption into a Qin succession plan.
 - [异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin](entities/QinZhuangxiangwang.md) — Neglected Qin hostage in Zhao whom Lu Buwei treats as a high-upside succession investment.
@@ -7405,6 +7408,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chronicle Periodization / 编年分期](concepts/ChroniclePeriodization.md) — Historiographical frame distinguishing a chronicle's dating section label from a modern dynasty boundary.
+- [Wen Wang Guanren Fa / 文王官人法](concepts/WenWangGuanrenFa.md) — Source-scoped classical talent-assessment frame raised from the episode's Cai Ze and Tang Ju physiognomy discussion.
 - [债台高筑 / Zhaitai Gaozhu](concepts/ZhaitaiGaozhu.md) — Idiom story attached to Zhou Nan Wang's failed war borrowing and creditor avoidance after the anti-Qin coalition collapses.
 - [Nominal Authority Mobilization Trap / 虚名权威动员陷阱](concepts/NominalAuthorityMobilizationTrap.md) — Pattern where residual symbolic authority is mistaken for real coalition, military, and fiscal capacity.
 - [Written Succession Credential / 书面继承凭证](concepts/WrittenSuccessionCredential.md) — Frame for Huayang Furen's jade tally as material proof binding Yiren's legitimacy to his adopted maternal route.

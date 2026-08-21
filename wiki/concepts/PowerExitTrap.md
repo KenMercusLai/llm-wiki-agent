@@ -2,7 +2,7 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,10 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 
 [[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] supplies the end state of that trap. Once Zhao Zhang's coup fails and Zhao Cheng plus Li Dui have killed him inside Zhao Wuling Wang's quarters, the former ruler can no longer safely be restored, released, or openly executed. The winning faction chooses a fourth path: keeping him confined and unfed until he dies, which turns the exit trap into [[ResponsibilityAvoidantKilling|避责式杀害]].
 
+[[zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk]] adds [[CaiZe|蔡泽]]'s direct use of the trap as persuasion against [[FanJu|范雎]]. After [[BaiQi|白起]]'s death, [[ZhengAnping|郑安平]]'s surrender, and [[WangJiQin|王稽 / 王继]]'s execution make Fan Ju politically exposed, Cai Ze argues from seasonal completion and retreat: when a role is finished, remaining visible can turn merit into danger.
+
+The source makes this a live warning rather than only retrospective diagnosis. Cai Ze names [[ShangYang|商鞅]], [[WuQi|吴起]], and [[WenZhongYue|文种]] as examples of high-achieving ministers destroyed after success or reform, turning "功成身退" into an access strategy: he can challenge Fan Ju because he interprets Fan Ju's anxiety as proof that the exit moment has arrived.
+
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
 - A reformer or strong minister may become less able to leave precisely because the reform has succeeded.
@@ -50,6 +54,7 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - Partial abdication can turn foreign-policy emergencies into decision paralysis when officials cannot tell which center of power will bear responsibility.
 - A partial exit can decay into a re-entry attempt when the old ruler sees the successor's court becoming the real center of loyalty.
 - A failed re-entry attempt can leave the old ruler alive but politically unusable, encouraging indirect elimination by the faction that fears revenge.
+- A rival persuader can weaponize the exit trap by telling an exposed minister that continued office is no longer strength but delayed disaster.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -64,3 +69,4 @@ The same source also prevents an easy "he should simply have resigned" answer. [
 - [[ZhaoWulingwang|赵武灵王]], [[ZhaoHe|赵何]], [[FeiYi|肥义]], and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - Zhouji 61 ruler-level partial-exit and succession branch.
 - [[ChuHuaiwang|楚怀王]], [[ZhaoState|赵国]], and [[Loufan|楼烦]] - Zhouji 65 emergency refusal during Zhao Wuling Wang's absence and continuing frontier program.
 - [[LiDui|李兑]], [[TianBuli|田不李]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 internal hardening and lethal conclusion of the Zhao partial-exit trap.
+- [[CaiZe|蔡泽]], [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[WangJiQin|王稽 / 王继]], and [[WenWangGuanrenFa|文王官人法]] - Qinji 99 part 1 功成身退 warning applied as live court persuasion.
