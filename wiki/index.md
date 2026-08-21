@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密](sources/zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43.md) — 芮淇讲透资治通鉴 episode developing the Xunzi-Linwu Jun military debate before Zhao Xiaocheng Wang, contrasting tactical deception and incentive armies with renyi-based cohesion, and closing with Xunzi's five weights and three command refusals.
 - [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420.md) — All-In episode on Anthropic's coding-led enterprise run, OpenAI's consumer-versus-enterprise fork, AI moats and valuation risk, private-equity AI deployment, Meta/YouTube youth-safety lawsuits, age verification, and PCAST's science-policy remit.
 - [Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like](sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165.md) — All-In interview with Bryan Johnson on 5-MeO-DMT, psychedelic longevity claims, default-mode-network reset, neuroplasticity, measurement limits, identity disruption risk, and frontier longevity therapies.
 - [《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相](sources/zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe.md) — 芮淇讲透资治通鉴 episode completing Cai Ze's persuasion of Fan Ju into resignation, Cai Ze's brief Qin chancellorship, Fan Ju's linked personnel fallout, and Xunzi's Lanling appointment under Chunshenjun.
@@ -1143,6 +1144,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Venmo](entities/Venmo.md) — Payments company named with Braintree in the Bryan Johnson All-In source as biographical context.
 - [Kernel](entities/KernelCompany.md) — Brain-measurement company connected to Johnson's quantified psychedelic and ketamine experiments, distinct from kernel-development AI agents.
 - [NewLimit](entities/NewLimit.md) — Cellular-reprogramming longevity company named in the Bryan Johnson source as an investment and safety-control example.
+- [造父 / Zaofu](entities/ZaoFu.md) — Zhao ancestor-marker used in Qinji 99-3 to connect Zhao lineage memory with Qin Feizi's horse-service origin branch.
 - [兰陵 / Lanling (Warring States)](entities/LanlingWarringStates.md) — Culturally important former Lu territory under Chu where Xunzi serves as magistrate in the Qinji 99-2 source.
 - [临武君 / Linwu Jun](entities/LinwuJun.md) — Source-scoped military-debate counterpart for Xunzi before Zhao Xiaocheng Wang.
 - [蔡泽 / Cai Ze](entities/CaiZe.md) — Yan persuader who provokes Fan Ju, completes a 功成身退 warning, and briefly becomes Qin chancellor.
@@ -7428,6 +7430,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cellular Reprogramming Control Problem](concepts/CellularReprogrammingControlProblem.md) — Safety problem around Yamanaka-factor-style rejuvenation, where dose, tissue targeting, reversibility, and cancer risk dominate.
 - [Chronicle Periodization / 编年分期](concepts/ChroniclePeriodization.md) — Historiographical frame distinguishing a chronicle's dating section label from a modern dynasty boundary.
 - [Wen Wang Guanren Fa / 文王官人法](concepts/WenWangGuanrenFa.md) — Source-scoped classical talent-assessment frame raised from the episode's Cai Ze and Tang Ju physiognomy discussion.
+- [Xunzian Military Legitimacy / 荀子仁义之师](concepts/XunzianMilitaryLegitimacy.md) — Xunzi's claim that the highest military power comes from people-support, ruler-subject alignment, and renyi-based cohesion rather than timing, terrain, speed, or deception alone.
+- [Profit-Driven Army Limits / 功利型军队局限](concepts/ProfitDrivenArmyLimits.md) — Xunzian critique of armies held mainly by recruitment, selection, rewards, punishments, and personal gain, including the source's "盗兵" frame.
+- [Xunzian Command Restraint / 五权三制](concepts/XunzianCommandRestraint.md) — Command-ethics frame where generals must weigh position, victory, prestige, benefit, and resources, then refuse orders that endanger the army or abuse the people.
 - [债台高筑 / Zhaitai Gaozhu](concepts/ZhaitaiGaozhu.md) — Idiom story attached to Zhou Nan Wang's failed war borrowing and creditor avoidance after the anti-Qin coalition collapses.
 - [Nominal Authority Mobilization Trap / 虚名权威动员陷阱](concepts/NominalAuthorityMobilizationTrap.md) — Pattern where residual symbolic authority is mistaken for real coalition, military, and fiscal capacity.
 - [Written Succession Credential / 书面继承凭证](concepts/WrittenSuccessionCredential.md) — Frame for Huayang Furen's jade tally as material proof binding Yiren's legitimacy to his adopted maternal route.

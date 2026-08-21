@@ -2,7 +2,7 @@
 title: "People-Based Political Security / 民心型政治安全"
 type: concept
 tags: [statecraft, legitimacy, power, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
+sources: [zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] adds an economic-migration version of the same security logic. The episode says [[LuState|鲁国]], [[LiangState|梁国]], and [[ChuState|楚国]] lose people after market distortion and food scarcity make survival easier in [[QiState|齐国]]. The point is not only that people like benevolent rulers; grain prices and trade access can make population loyalty operationally mobile.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] adds Xunzi's military-intelligence version. In the source, a renyi ruler's people become extended ears and eyes: they reveal a tyrant's plots, leak hidden information, and make deceptive tactics fail. People-support is therefore not only post-conquest stability or ruler safety; it directly affects battlefield secrecy, reconnaissance, and the reliability of command.
+
 ## Key Claims
 - Social support can be a security asset, not only a legitimacy ornament.
 - Heavy personal security can reveal political weakness by showing how much resentment surrounds the officeholder.
@@ -53,6 +55,7 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - The same people-support that restores a state can threaten a minister if the ruler experiences it as competing legitimacy.
 - Xunzi's Zhouji 74 criterion states the concept positively: gaining people-support is what makes a state secure, even though it is not the highest ritual-righteous standard.
 - Economic conditions can produce people-based security or insecurity directly: if food prices and livelihood collapse, people may leave even before a formal military defeat.
+- Qinji 99 part 3 adds that people-support can become an information advantage in war by depriving hostile rulers of secrecy and giving legitimate rulers broader eyes and ears.
 
 ## Connections
 - [[ZhaoLiang|赵良]] and [[ShangYang|公孙鞅 / 商鞅]] - source warning and target.
@@ -71,3 +74,4 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[TianDan|田单]], [[QiXiangWang|齐襄王]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[PoliticalCreditAppropriation|善行君恩化]] - Zhouji 81 popular care converted into ruler suspicion and then temporarily absorbed as royal virtue.
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[SurveillanceBasedRulerControl|窥察制衡式君术]] - Zhouji 74 ruler-evaluation hierarchy.
 - [[PeopleFirstEconomicStatecraft|富民优先的经济治国]], [[InterstateEconomicWarfare|跨国经济战]], and [[GrainBorderCoercion|粮食与封边胁迫]] - Zhouji 75-3 economic migration and food-security branch.
+- [[Xunzi|荀子]], [[LinwuJun|临武君]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[BattlefieldInformationControl|战场信息控制]] - Qinji 99 part 3 people-support as military intelligence advantage.

@@ -8708,6 +8708,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密
+
+Added source page for the third Qinji 99 installment: Xunzi and Linwu Jun's military debate before Zhao Xiaocheng Wang, Linwu Jun's technique-centered emphasis on timing, terrain, speed, and deception, Xunzi's people-unifying renyi army hierarchy, Qin's reward-and-punishment military strength as powerful but sub-kingly, the "盗兵" critique of profit-driven armies, and the five weights / three command refusals. Created Zaofu, Xunzian Military Legitimacy, Profit-Driven Army Limits, and Xunzian Command Restraint; updated overview, index, Xunzi, Linwu Jun, Zhao Dan, Xunzi Text, Qin Feizi, Qin State, Sunzi Bingfa, Xunzian Wangba Three Paths, Confucian Ideal Governance, People-Based Political Security, Warring States Military Transformation, Military Merit Rank System, Renhe Political Power, and Wangdao vs Badao. No direct contradiction found; the modern team-culture analogy, Linwu Jun's limited biography, and the Qi/Wei/Qin army hierarchy are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相
 
 Added source page for the second Qinji 99 installment: Cai Ze's completed 功成身退 persuasion of Fan Ju, Fan Ju's resignation and recommendation of Cai Ze, Cai Ze's brief Qin chancellorship, Fan Ju/Zheng Anping/Wang Ji linked fallout, and Xunzi's appointment as Lanling magistrate under Chunshenjun. Created Lanling Warring States and Linwu Jun; updated overview, index, Cai Ze, Fan Ju, Qin Zhaoxiang Wang, Qin/Chu/Lu state pages, Mi Wan, Chunshenjun, Xunzi, Zheng Anping, Wang Ji, Power Exit Trap, Warring States Careerist Mobility, Occupation Pacification Strategy, Confucian Ideal Governance, Xunzian Wangba Three Paths, and Talent Referral Quality. No direct contradiction found; Lanling wording, Fan Ju death, and Xunzi/Linwu Jun chronology remain source-scoped.
@@ -9067,6 +9071,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
 
 Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

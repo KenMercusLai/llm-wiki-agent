@@ -2,7 +2,7 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe]] adds a governing-office test through [[Xunzi|荀子]]. The episode says he advises [[QinZhaoxiangwang|秦昭襄王]] and [[FanJu|范雎]] that Qin should unify through virtue, people protection, and kingly rule rather than conquest-first霸道. It then makes [[LanlingWarringStates|兰陵 / Lanling]] the practical scene: Xunzi governs a newly acquired former Lu cultural area with ritual restraint and policy, making Confucian governance a tool of post-conquest order rather than only a textual doctrine.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] adds the military version. In Xunzi's debate with [[LinwuJun|临武君]], Confucian governance is not separated from war; it becomes the highest condition for war. A state with shared ritual-righteous purpose can coordinate people, soldiers, and information better than a state held only by technique, coercion, or profit incentives. The closing [[XunzianCommandRestraint|五权三制]] also makes people-protection a limit on command.
+
 ## Key Claims
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
@@ -47,6 +49,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Zhouji 74 adds that Xunzian evaluation can rank rulers by whether they pursue ritual-righteousness, administration, people-support, or merely extraction.
 - Zhouji 75-1 adds that Confucian ideal governance is not anti-administration or anti-economics; it judges whether administration and economics become durable public order.
 - Qinji 99 part 2 adds that Confucian governance can be deployed as local administration in newly occupied territory, especially where cultural legitimacy matters.
+- Qinji 99 part 3 adds that Confucian governance can be framed as a military advantage when people-support and command restraint make deception and coercive incentives insufficient.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
@@ -62,3 +65,4 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 74 ruler-technique and evaluative hierarchy.
 - [[ZiChan|子产]], [[GuanZhong|管仲]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - Zhouji 75-1 public-governance and Guan Zhong limit branch.
 - [[Xunzi|荀子]], [[QinZhaoxiangwang|秦昭襄王]], [[FanJu|范雎]], [[LanlingWarringStates|兰陵 / Lanling]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 Wangdao advice and Lanling administration.
+- [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], [[XunzianCommandRestraint|五权三制]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Qinji 99 part 3 military-governance extension.

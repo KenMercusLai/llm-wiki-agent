@@ -2,7 +2,7 @@
 title: "Military Merit Rank System / 军功爵制"
 type: concept
 tags: [warfare, statecraft, legalism, hierarchy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
+sources: [zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The system matters because it converts war performance into social hierarchy. Ol
 
 [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] adds the system as an enemy's warning rather than Qin's own reform story. [[ZhaoBao|赵豹 / 平阳君]]'s fuller [[Shiji|《史记》]] argument says Qin's reward mechanism keeps soldiers highly motivated, so [[ZhaoState|赵国]] should not treat [[Shangdang|上党]] as an ordinary free gain. In this use, the military-merit order helps explain why Qin retaliation is strategically credible.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] adds the Xunzian evaluation of the same incentive logic. The episode treats Qin's reward-and-punishment army as stronger than Qi技击 and Wei武卒, but still below hegemonic and kingly armies because [[ProfitDrivenArmyLimits|profit-driven soldiers]] do not supply the highest level of shared loyalty or [[XunzianMilitaryLegitimacy|renyi legitimacy]].
+
 ## Key Claims
 - Military achievement becomes a measurable basis for rank and privilege.
 - Enemy-head counting is presented as one concrete measurement device for converting violence into rank.
@@ -35,6 +37,7 @@ The system matters because it converts war performance into social hierarchy. Ol
 - Military-merit rewards create mobility and incentive alignment, but they do not eliminate faction, identity, or succession risk.
 - Bai Qi shows the upward version of the same mechanism: battlefield success can convert an initially obscure man into a top Qin commander.
 - From an enemy court's perspective, the system makes Qin a higher-risk opponent because retaliation is backed by soldier incentives as well as ruler intention.
+- Qinji 99 part 3 adds that military-merit incentives can be powerful and still lower than Xunzi's renyi-based standard of military cohesion.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] and [[QinXiaogong|秦孝公]] - reformer and ruler.
@@ -47,3 +50,4 @@ The system matters because it converts war performance into social hierarchy. Ol
 - [[LegalistRulerTechnique]] - adjacent logic of rule through incentive design and enforceable standards.
 - [[BaiQi|白起]], [[YiqueBattle|伊阙之战]], and [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhouji 67 merit-rise and campaign-performance branch.
 - [[ZhaoBao|赵豹 / 平阳君]], [[Shangdang|上党]], and [[WindfallDecisionTrap|无故之利 / 利令智昏]] - Zhouji 93 part 2 enemy-side warning about Qin reward incentives.
+- [[Xunzi|荀子]], [[QinState|秦国]], [[ProfitDrivenArmyLimits|功利型军队局限]], and [[XunzianMilitaryLegitimacy|荀子仁义之师]] - Qinji 99 part 3 incentive army ranking.

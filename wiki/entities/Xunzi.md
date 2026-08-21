@@ -2,7 +2,7 @@
 title: "荀子 / Xunzi"
 type: entity
 tags: [person, philosopher, confucianism, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
+sources: [zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The main political frame is [[XunzianWangbaThreePaths|荀子王霸三分法]]. I
 
 The same source links theory to office. It says Xunzi had earlier discussed Qin's path to strength with [[QinZhaoxiangwang|秦昭襄王]] and [[FanJu|范雎]], favoring virtue, people protection, and kingly rule over conquest-first霸道. In Lanling, he is said to govern through restraint, ritual, and policy, producing local order and friendly Qi relations before slander makes those same abilities look dangerous.
 
+[[zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43]] develops the military-debate notice that the previous source left open. Before [[ZhaoDan|赵丹 / 赵孝成王]], Xunzi rejects [[LinwuJun|临武君]]'s emphasis on timing, terrain, speed, and deception as too shallow. The episode presents Xunzi's military thought as [[XunzianMilitaryLegitimacy|荀子仁义之师]]: armies become strongest when people, ministers, and soldiers are aligned by renyi rather than only by [[ProfitDrivenArmyLimits|rewards and punishments]]. Its closing [[XunzianCommandRestraint|五权三制]] section also makes Xunzi a theorist of command limits, including refusal of orders that would put troops in impossible danger or abuse civilians.
+
 ## Connections
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and text using Xunzi as political instruction.
 - [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[XingETheory|性恶论]] - text and concepts added by Zhouji 71.
@@ -36,3 +38,4 @@ The same source links theory to office. It says Xunzi had earlier discussed Qin'
 - [[FuChen|负臣]], [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 2 corrective disobedient minister frame.
 - [[Chunshenjun|黄歇 / 春申君]], [[LanlingWarringStates|兰陵 / Lanling]], [[LuState|鲁国]], [[QiState|齐国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 first office and post-conquest cultural governance.
 - [[QinZhaoxiangwang|秦昭襄王]], [[FanJu|范雎]], [[LinwuJun|临武君]], and [[ZhaoDan|赵丹 / 赵孝成王]] - Qinji 99 part 2 strong-state advice and source-raised military-debate question.
+- [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], [[XunzianCommandRestraint|五权三制]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Qinji 99 part 3 military-legitimacy and command-restraint branch.
