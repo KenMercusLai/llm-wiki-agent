@@ -2,7 +2,7 @@
 title: "Qin Shi Huang / 秦始皇"
 type: entity
 tags: [person, emperor, china, qin, fangshu, warring-states]
-sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-21
 ---
 
@@ -20,12 +20,15 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 
 [[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] adds a narrow early-life context. While [[ZhouNanwang|周赧王]]'s final year closes 周纪 and the narrative prepares to enter Qin-centered chronology, Ying Zheng is still a small child in [[Handan|邯郸]] with [[ZhaoJi|赵姬]] after Yiren's escape. The source uses that contrast to show that Qin's future unifier is present but not yet the political subject of the chronicle.
 
+[[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] moves that childhood context forward. The episode says young Ying Zheng is in [[Handan|邯郸]] alongside [[YanTaiziDan|燕太子丹]] in 252 BCE, then returns to Qin with [[ZhaoJi|赵姬]] after [[QinZhuangxiangwang|子楚]] becomes crown prince. The host reads his later treatment of Handan enemies after Zhao's fall as a memory-and-revenge branch rooted in this early danger.
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
 - Fangshi could gain access and resources from his fear of death, but they also risked punishment when promises failed.
 - Omen language around his late reign shows how prophecy could intensify court anxiety.
 - Zhouji 98 keeps Ying Zheng as a young child under danger in Handan while the historical narrative shifts from Zhou to Qin.
+- Qinji 100-1 records Ying Zheng's return from Handan to Qin after Zichu becomes crown prince and treats later Handan revenge as source-scoped memory politics.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -37,3 +40,4 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - [[LuBuwei|吕不韦]], [[QinZhuangxiangwang|异人 / 子楚]], and [[PoliticalVentureInvestment|政治风险投资]] - Zhouji 97 part 3 birth and succession-investment setup.
 - [[ZhaoJi|赵姬]], [[GuoMoruo|郭沫若]], [[HistoricalDetectiveReasoning]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 97 part 4 named mother and paternity-rumor caution.
 - [[Handan|邯郸]], [[ZhouNanwang|周赧王]], and [[QinState|秦国]] - Zhouji 98 childhood setting and chronicle transition context.
+- [[YanTaiziDan|燕太子丹]], [[QinZhuangxiangwang|异人 / 子楚]], [[ZhaoJi|赵姬]], and [[ZhaoState|赵国]] - Qinji 100-1 hostage-city co-presence and return-to-Qin branch.

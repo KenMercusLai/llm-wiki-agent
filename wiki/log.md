@@ -8708,6 +8708,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了
+
+Added source page for Qinji 100-1: Qin Zhaoxiang Wang's final years, "天下来宾" and Qin's quasi-royal hegemonic posture, Han Huanhui Wang's unusually deferential mourning, Wei Anxi Wang's killing and replacement of Wey's ruler, Qin Xiaowen Wang's accession, Zichu's crown-prince appointment, and Zhao Ji / Ying Zheng's return from Handan. Created Yan Taizi Dan, Wey Huaijun, Wey Yuanjun, Quasi-Royal Qin Hegemony, and Weak-Over-Weak Predation; updated Qin State, Qin Zhaoxiang Wang, Qin Xiaowen Wang, Qin Zhuangxiang Wang, Qin Shi Huang, Zhao Ji, Han State, Han Huanhui Wang, Wei State, Wei Anxi Wang, Wey State, Yan State, Power Etiquette Reading, and Weak-State Status Demotion. No direct contradiction found; the Wei lateness punishment and Ying Zheng memory-revenge readings are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密
 
 Added source page for the third Qinji 99 installment: Xunzi and Linwu Jun's military debate before Zhao Xiaocheng Wang, Linwu Jun's technique-centered emphasis on timing, terrain, speed, and deception, Xunzi's people-unifying renyi army hierarchy, Qin's reward-and-punishment military strength as powerful but sub-kingly, the "盗兵" critique of profit-driven armies, and the five weights / three command refusals. Created Zaofu, Xunzian Military Legitimacy, Profit-Driven Army Limits, and Xunzian Command Restraint; updated overview, index, Xunzi, Linwu Jun, Zhao Dan, Xunzi Text, Qin Feizi, Qin State, Sunzi Bingfa, Xunzian Wangba Three Paths, Confucian Ideal Governance, People-Based Political Security, Warring States Military Transformation, Military Merit Rank System, Renhe Political Power, and Wangdao vs Badao. No direct contradiction found; the modern team-culture analogy, Linwu Jun's limited biography, and the Qi/Wei/Qin army hierarchy are kept source-scoped.
@@ -9103,3 +9107,11 @@ Added source page for the fourth Qinji 99 installment: Xunzi's standards for gen
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki lint result
+
+Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,327 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,327 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified and no provider API key variables are available in this shell; a bounded in-session review of the orphan page, fragile-bridge endpoints, and explicit contradiction markers found no new direct contradiction. Supplemental manual review noted that `wiki/entities/LiXiaojie.md` mentions the EP266 AI-for-science source but does not include that source slug in frontmatter. Report returned in-session; `wiki/lint-report.md` was not saved.

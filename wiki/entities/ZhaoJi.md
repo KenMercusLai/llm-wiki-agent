@@ -2,7 +2,7 @@
 title: "赵姬 / Zhao Ji"
 type: entity
 tags: [person, qin-state, warring-states, court-politics, historiography]
-sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
+sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The episode is careful about the famous paternity rumor. It says the story that 
 
 [[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] adds the immediate danger after [[QinZhuangxiangwang|异人 / 子楚]] escapes [[Handan|邯郸]]. Zhao Ji and young [[QinShiHuang|嬴政 / 秦始皇]] remain in the hostile Zhao capital during the Qin-Zhao crisis, making Ying Zheng's early life part of the same post-Handan instability that closes 周纪.
 
+[[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] records the resolution of that danger. Once [[QinZhuangxiangwang|子楚]] becomes crown prince under [[QinXiaowenwang|秦孝文王]], [[ZhaoState|赵国]] sends Zhao Ji and young [[QinShiHuang|嬴政]] back to Qin, because keeping them exposed in [[Handan|邯郸]] would risk future retaliation from the new Qin heir's household.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - original household connection and the actor who gives her to Yiren.
 - [[QinZhuangxiangwang|异人 / 子楚]] - receives Zhao Ji and later recognizes her as夫人.
@@ -23,3 +25,4 @@ The episode is careful about the famous paternity rumor. It says the story that 
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], [[SimaQian|司马迁]], and [[SimaGuang|司马光]] - source-comparison context.
 - [[HistoricalDetectiveReasoning]] and [[TextualVariantPoliticalStakes|史书异文政治重量]] - method frames for treating the paternity story cautiously.
 - [[Handan|邯郸]] and [[ZhouNanwang|周赧王]] - Zhouji 98 early danger context while the chronicle frame closes.
+- [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinXiaowenwang|秦孝文王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - return-to-Qin branch after Zichu becomes crown prince.

@@ -2,7 +2,7 @@
 title: "魏安釐王 / King Anxi of Wei"
 type: entity
 tags: [person, ruler, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 
 [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] records the post-rescue compromise from Wei's side. Xinlingjun does not return to Wei because he has become a [[FuChen|负臣]] who corrected the king by taking unauthorized power. Yet Wei Anxi Wang also does not formally destroy him: the episode says he preserves Xinlingjun's title and leaves the relationship open enough for a possible future repair.
 
+[[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] adds a darker downward-power case. In the same late-Warring-States environment where Wei has to lower itself before [[QinState|秦国]], Wei Anxi Wang kills [[WeyHuaijun|卫怀君]] when the [[WeyState|卫国]] ruler comes to see him, then installs [[WeyYuanjun|卫元君]]. The episode reads this as [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]]: a ruler humiliated by a stronger power can still be violently dominant toward a weaker neighbor.
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiZhaowang|魏昭王]] - polity and predecessor.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - pressure actors against his new reign.
@@ -46,3 +48,4 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 shift from royal paralysis to private-patronage possibility.
 - [[RuJi|如姬]], [[TigerTallyCommandSystem|虎符调兵制度]], [[JinBi|晋鄙]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 96 part 6 bypassing the king's frozen command decision.
 - [[FuChen|负臣]], [[Xinlingjun|信陵君]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 97 part 2 post-rescue non-punishment and uneasy distance.
+- [[WeyState|卫国]], [[WeyHuaijun|卫怀君]], [[WeyYuanjun|卫元君]], and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - Qinji 100-1 killing and replacement of Wey's ruler.
