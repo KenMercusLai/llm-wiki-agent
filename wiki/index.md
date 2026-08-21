@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了](sources/zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6.md) — 芮淇讲透资治通鉴 episode on Han's Zhengguo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural capacity, Qin pressure on Wei, Zhao opportunism, and Lian Po's removal, slandered non-return, and death abroad.
 - [《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色](sources/zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's slander-driven removal, final withdrawal, Liu Bang's youthful admiration and Zhang Er connection, and Qin's transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei.
 - [《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？](sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck.md) — 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, a five-state defeat of Meng Ao, and the Guancheng conflict among Su Gao, Anling Jun, and Xinlingjun.
 - [《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜](sources/zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r.md) — 芮淇讲透资治通鉴 episode explaining Lu's historical-record authority, late survival through great-power distraction, Qi's non-intervention under Hou Sheng, Chu's destruction of Lu, and Chunshenjun's Jiangdong fief move.
@@ -1147,6 +1148,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose Zhengguo Canal mission tries to drain Qin but becomes a Qin state-capacity gain.
+- [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
+- [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
+- [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
+- [乐乘 / Le Cheng](entities/LeCheng.md) — Former Yan general in Zhao service whose appointment to replace Lian Po triggers Lian Po's break with Zhao.
 - [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer whom young Liu Bang turns to after arriving in Daliang too late to join Xinlingjun.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
@@ -7453,6 +7459,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Self-Defeating Resource-Drain Strategy / 疲敌反强敌](concepts/SelfDefeatingResourceDrainStrategy.md) — Strategy where an attempted burden on an enemy becomes durable infrastructure or capacity for that enemy.
 - [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
