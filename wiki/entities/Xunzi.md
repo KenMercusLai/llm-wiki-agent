@@ -2,7 +2,7 @@
 title: "荀子 / Xunzi"
 type: entity
 tags: [person, philosopher, confucianism, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,8 @@ The same source links theory to office. It says Xunzi had earlier discussed Qin'
 
 The same source gives Xunzi's Lanling ending a fuller arc. After [[Pingyuanjun|平原君]] dies and Zhao does not use him, [[Chunshenjun|黄歇 / 春申君]] regrets dismissing him and presses him to return to [[LanlingWarringStates|兰陵 / Lanling]] in 251 BCE. The episode credits Xunzi with prosperous local rule, then says Chunshenjun's 238 BCE death ends his office and Xunzi remains in Lanling to teach, write, die, and be buried there.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] mentions Xunzi in a source-precision role rather than through a new political action. In the closing human-nature discussion, the host says Xunzi did not literally say "人之初，性本恶," just as "人之初，性本善" is not a saying from [[Confucius|孔子]]. The page therefore links this source to [[VirtuePracticeInternalization|修养内化]] and to caution against flattening classical arguments into later slogans.
+
 ## Connections
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and text using Xunzi as political instruction.
 - [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[XingETheory|性恶论]] - text and concepts added by Zhouji 71.
@@ -44,3 +46,4 @@ The same source gives Xunzi's Lanling ending a fuller arc. After [[Pingyuanjun|�
 - [[QinZhaoxiangwang|秦昭襄王]], [[FanJu|范雎]], [[LinwuJun|临武君]], and [[ZhaoDan|赵丹 / 赵孝成王]] - Qinji 99 part 2 strong-state advice and source-raised military-debate question.
 - [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], [[XunzianCommandRestraint|五权三制]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - Qinji 99 part 3 military-legitimacy and command-restraint branch.
 - [[CarlVonClausewitz|克劳塞维茨]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[LanlingWarringStates|兰陵 / Lanling]], and [[Chunshenjun|黄歇 / 春申君]] - Qinji 99 part 4 war-realism critique and late Lanling return branch.
+- [[VirtuePracticeInternalization|修养内化]], [[Confucius|孔子]], and [[FixedHumanNaturePolitics]] - Qinji 101-1 human-nature slogan caution.

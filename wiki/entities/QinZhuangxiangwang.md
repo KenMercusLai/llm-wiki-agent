@@ -2,7 +2,7 @@
 title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
 type: entity
 tags: [person, ruler, hostage, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 
 [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] records the payoff after [[QinZhaoxiangwang|秦昭襄王]] dies. [[QinXiaowenwang|安国君柱 / 秦孝文王]] makes Zichu crown prince, and [[ZhaoState|赵国]] reacts by sending [[ZhaoJi|赵姬]] and young [[QinShiHuang|嬴政]] back to Qin. The source frames Zhao's decision as damage control: once Zichu is heir, harming or withholding his family would create a dangerous future enemy.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] makes that payoff immediate. After Qin Xiaowen Wang's formal reign lasts only three days, Zichu succeeds as Qin Zhuangxiang Wang. The episode records his first legitimacy gestures: honoring his adoptive mother [[HuayangFuren|华阳夫人]] as 华阳太后 and his biological mother [[XiaTaihou|夏姬 / 夏太后]] as 夏太后.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - merchant-investor who identifies and backs him.
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - father and succession gate through whom Yiren's claim matters.
@@ -32,3 +34,4 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 - [[QinShiHuang|嬴政 / 秦始皇]] - child born from the relationship introduced at the episode's end.
 - [[YangquanJun|阳泉君]], [[ZhaoJi|赵姬]], and [[WrittenSuccessionCredential|书面继承凭证]] - Zhouji 97 part 4 persuasion route, marriage/birth branch, and formal adoption proof.
 - [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinXiaowenwang|安国君柱 / 秦孝文王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - crown-prince appointment and return of his family from Zhao.
+- [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w|Qinji 101-1]], [[XiaTaihou|夏姬 / 夏太后]], and [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]] - accession after Qin Xiaowen Wang's sudden death and maternal honors.

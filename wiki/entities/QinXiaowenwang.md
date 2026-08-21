@@ -2,7 +2,7 @@
 title: "安国君柱 / 秦孝文王 / King Xiaowen of Qin"
 type: entity
 tags: [person, ruler, crown-prince, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The source uses him mainly to make the prior hostage death legible. His appointm
 
 [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] moves him from crown-prince setup into accession. After [[QinZhaoxiangwang|秦昭襄王]] dies in 251 BCE, Anguo Jun succeeds at age fifty-three as Qin Xiaowen Wang, honors Tang Bazi as queen dowager, and makes [[QinZhuangxiangwang|子楚]] crown prince. The source therefore closes the long waiting period that made the Lu Buwei-Huayang Furen adoption strategy valuable.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] distinguishes that succession transition from formal accession. In the episode's 250 BCE frame, Qin Xiaowen Wang officially takes the throne in winter tenth month and dies three days later. The host records both a [[LuBuwei|吕不韦]] murder suspicion and a non-conspiratorial explanation based on illness, age, long crown-prince pressure, and mourning exhaustion, but keeps the cause as [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]] rather than settled fact.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] - father and appointing ruler.
 - [[QinDaotaizi|秦悼太子]] - earlier crown prince whose death precedes his appointment.
@@ -29,3 +31,4 @@ The source uses him mainly to make the prior hostage death legible. His appointm
 - [[HuayangFuren|华阳夫人]], [[QinZhuangxiangwang|异人 / 子楚]], and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - Zhouji 97 part 3 favored wife, neglected son, and succession lever.
 - [[WrittenSuccessionCredential|书面继承凭证]] - Zhouji 97 part 4 jade-tally formalization of Yiren's adopted status.
 - [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinZhaoxiangwang|秦昭襄王]], and [[QinZhuangxiangwang|异人 / 子楚]] - accession after the long Zhaoxiang reign and appointment of Zichu as crown prince.
+- [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w|Qinji 101-1]], [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]], [[LuBuwei|吕不韦]], [[HuayangFuren|华阳夫人]], [[XiaTaihou|夏姬 / 夏太后]], and [[QinZhuangxiangwang|异人 / 子楚]] - formal accession, death uncertainty, and immediate succession.

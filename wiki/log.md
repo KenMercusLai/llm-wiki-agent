@@ -9123,3 +9123,11 @@ Added source page for the second Qinji 100 installment: Qin Zhaoxiang Wang's pol
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死
+
+Added source page for the first Qinji 101 installment: Qin Xiaowen Wang's formal three-day reign and uncertain death, Zichu's accession as Qin Zhuangxiang Wang, honors for Huayang Furen and Xia Taihou, Yan's Liaocheng command trap, Lu Zhonglian's arrow-letter persuasion, Tian Dan's recovery of the city, and Zi Shun's practice-into-character answer. Created Xia Taihou, Liaocheng, Zi Shun, Qin Xiaowen Wang Death Uncertainty, Liaocheng Commander Dilemma, and Virtue Practice Internalization; updated Qin Xiaowen Wang, Qin Zhuangxiang Wang, Huayang Furen, Lu Buwei, Lu Zhonglian, Tian Dan, Yan Wang Xi, Yan State, Qi State, Qin State, Wei Anxi Wang, Confucius, Xunzi, Interest Reframing Persuasion, and Historical Detective Reasoning. No direct contradiction found; the 251/250 BCE accession distinction and Lu Buwei murder suspicion are kept source-scoped.
+
+## [2026-08-21] lint | Wiki lint result
+
+Health passed first with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,341 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki scan found 12,341 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified; a bounded in-session review of the orphan page and fragile-bridge endpoints found no new direct contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.

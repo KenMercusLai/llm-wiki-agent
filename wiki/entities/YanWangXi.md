@@ -2,7 +2,7 @@
 title: "燕王喜 / King Xi of Yan"
 type: entity
 tags: [person, ruler, yan-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ He sends [[LiFuWarringStates|栗腹]] to Zhao under alliance language, accepts L
 
 The resulting [[HaodaiBattle|鄗代之战]] turns his calculation into a reversal. [[LianPo|廉颇]] defeats Li Fu near Hao, defeats the Yan forces around Dai, pursues Yan five hundred li, and surrounds Yan's capital region. Yan Wang Xi must ask for peace and appoint Jiang Qu as chancellor and negotiator, making the ignored remonstrant the person needed for recovery.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] extends the same pattern onto the Qi front. Yan troops have captured [[LiaochengWarringStates|辽城]], but Yan Wang Xi listens to slander that the occupying commander may rebel. That suspicion helps create the [[LiaochengCommanderDilemma|辽城守将进退困局]]: the commander cannot safely return, cannot confidently surrender to [[QiState|齐国]], and eventually kills himself after [[LuZhonglian|鲁仲连]]'s letter forces the choice into view.
+
 ## Connections
 - [[YanState|燕国]] - state he rules.
 - [[LiFuWarringStates|栗腹]], [[LeJian|乐间]], and [[JiangQu|将渠]] - envoy, warning general, and remonstrant in the failed policy chain.
 - [[ZhaoState|赵国]], [[ZhaoDan|赵丹 / 赵孝成王]], [[LianPo|廉颇]], and [[HaodaiBattle|鄗代之战]] - target state, ruler, opposing commander, and battle outcome.
 - [[ChangpingBattle|长平之战]] and [[PostDisasterPredationMisread|灾后趁虚误判]] - disaster background and concept extracted from his decision.
 - [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - adjacent pattern where pressure from Qin does not stop weaker states from preying on each other.
+- [[LiaochengWarringStates|辽城]], [[TianDan|田单]], [[LuZhonglian|鲁仲连]], and [[LiaochengCommanderDilemma|辽城守将进退困局]] - Qinji 101-1 Qi-front command-suspicion branch.

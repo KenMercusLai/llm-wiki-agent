@@ -2,7 +2,7 @@
 title: "吕不韦 / Lu Buwei"
 type: entity
 tags: [person, strategist, merchant, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The episode frames Lu Buwei as a boundary-crossing figure. After [[LuZhonglian|�
 
 The same source also sharpens the cost and source-critical branches. It names [[ZhaoJi|赵姬]] as the woman Lu Buwei gives to Yiren, but treats the claim that [[QinShiHuang|嬴政 / 秦始皇]] was Lu Buwei's biological son as doubtful rather than settled. Lu Buwei therefore remains a political investor whose personal sacrifice is central to the story, but not automatically the father of Qin Shi Huang in the wiki's source-scoped reading.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds Lu Buwei only through an unresolved suspicion around [[QinXiaowenwang|秦孝文王]]'s sudden death. The episode notes that a long-lived Xiaowen Wang would have delayed or blocked Lu Buwei's route to power through [[QinZhuangxiangwang|子楚]], which makes a murder theory narratively attractive. It also refuses to settle the matter, leaving the page's claim at [[QinXiaowenwangDeathUncertainty|historical uncertainty]] rather than accusation.
+
 ## Connections
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - succession figure whose appearance foreshadows Lu Buwei.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - Qin court context.
@@ -30,3 +32,4 @@ The same source also sharpens the cost and source-critical branches. It names [[
 - [[PoliticalVentureInvestment|政治风险投资]], [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]], and [[MerchantAristocraticValueConflict|贵族-商人义利冲突]] - concepts created from his first developed episode.
 - [[QinShiHuang|嬴政 / 秦始皇]] - child whose birth closes this episode's setup.
 - [[YangquanJun|阳泉君]], [[ZhaoJi|赵姬]], [[WrittenSuccessionCredential|书面继承凭证]], and [[HistoricalDetectiveReasoning]] - Zhouji 97 part 4 lobbying route, personal-cost branch, formal adoption proof, and paternity-rumor caution.
+- [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]] - Qinji 101-1 suspicion branch kept source-scoped.

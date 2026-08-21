@@ -2,7 +2,7 @@
 title: "华阳夫人 / Lady Huayang"
 type: entity
 tags: [person, qin-state, succession, court-politics, warring-states]
-sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ In that source, Huayang Furen is not yet narrated as an active persuader. Her im
 
 The episode therefore reads Huayang Furen as politically intelligent. She accepts Lu Buwei's design because it solves her own succession problem, but she also locks in proof that can bind [[QinZhuangxiangwang|异人 / 子楚]] if he later tries to detach his authority from her.
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] records the payoff after [[QinXiaowenwang|秦孝文王]] dies. When Zichu succeeds as [[QinZhuangxiangwang|秦庄襄王]], he honors Huayang Furen as 华阳太后 while also honoring his biological mother [[XiaTaihou|夏姬 / 夏太后]]. The episode therefore turns the adoption strategy from future leverage into court rank.
+
 ## Connections
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - husband whose favor gives her succession weight.
 - [[QinZhuangxiangwang|异人 / 子楚]] - son candidate Lu Buwei wants routed through her.
@@ -26,3 +28,4 @@ The episode therefore reads Huayang Furen as politically intelligent. She accept
 - [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - concept built from her source role.
 - [[YangquanJun|阳泉君]] - brother and access route for Lu Buwei's persuasion.
 - [[WrittenSuccessionCredential|书面继承凭证]] and [[MandateOfHeavenLegitimacy|天命合法性]] - jade-tally proof and legitimacy binding emphasized in Zhouji 97 part 4.
+- [[XiaTaihou|夏姬 / 夏太后]] and [[QinZhuangxiangwang|异人 / 子楚]] - Qinji 101-1 parallel maternal honors after Zichu's accession.

@@ -2,7 +2,7 @@
 title: "鲁仲连 / Lu Zhonglian"
 type: entity
 tags: [person, qi-state, strategist, thinker, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
+sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,10 @@ The source also makes Lu Zhonglian's famous freedom less abstract. The host argu
 
 [[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]] adds the reward-refusal ending of the same Handan intervention. [[Pingyuanjun|平原君]] tries to reward Lu Zhonglian with a fief and then with large amounts of gold, but Lu Zhonglian refuses and leaves. The episode uses this as a pure example of [[MoralizedShiIdentity|士的道德化身份]]: the worthy person helps resolve danger without turning the act into a commercial exchange, which then sets up the contrast with [[LuBuwei|吕不韦]] and [[MerchantAristocraticValueConflict|贵族-商人义利冲突]].
 
+[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds his "射书克辽城" branch. When [[TianDan|田单]] cannot take [[LiaochengWarringStates|辽城]] from a trapped [[YanState|燕国]] commander, Lu Zhonglian writes a letter and shoots it into the city. The letter recasts continued defense as neither loyal, brave, nor wise, forcing the commander to weigh return to [[YanWangXi|燕王喜]] against surrender to [[QiState|齐国]].
+
+The same source also makes Lu Zhonglian the object of later moral evaluation. [[WeiAnxiWang|魏安釐王]] thinks his high-mindedness looks too self-conscious, while [[ZiShun|子顺]] replies that repeated performance of worthy conduct can become character. Lu Zhonglian therefore now connects not only to persuasion and reward refusal, but also to [[VirtuePracticeInternalization|修养内化]].
+
 ## Connections
 - [[TianDan|田单]] - commander whose failed Di campaign Lu Zhonglian diagnoses.
 - [[QiState|齐国]] and [[JixiaAcademy|稷下学宫]] - state and intellectual setting.
@@ -38,3 +42,5 @@ The source also makes Lu Zhonglian's famous freedom less abstract. The host argu
 - [[InterestReframingPersuasion|利益重构式说服]] and [[DignityBasedPersuasion|尊严激将式说服]] - speech techniques used in the Handan scene.
 - [[LiBai|李白]], [[WarringStatesRetainerPatronage|战国养士]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 part 4 resource-backed aristocratic freedom and later admiration.
 - [[MoralizedShiIdentity|士的道德化身份]], [[MerchantAristocraticValueConflict|贵族-商人义利冲突]], and [[LuBuwei|吕不韦]] - Zhouji 97 part 3 reward refusal as contrast before the merchant-investor enters.
+- [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 arrow-letter persuasion and city recovery.
+- [[WeiAnxiWang|魏安釐王]], [[ZiShun|子顺]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-1 debate over performative virtue becoming character.

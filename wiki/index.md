@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死](sources/zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w.md) — 芮淇讲透资治通鉴 episode on Qin Xiaowen Wang's three-day formal reign and uncertain death, Zichu's accession and maternal honors, Lu Zhonglian's arrow-letter recovery of Liaocheng for Qi, and Zi Shun's argument that practiced gentlemanly conduct can become character.
 - [《资治通鉴·秦纪》100-2｜六国竟然同时为他吊丧](sources/zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's political funeral, six-state mourning, Han's submissive funeral etiquette, Yan Wang Xi and Li Fu's failed attempt to exploit post-Changping Zhao, and Lian Po's victory in the Hao-Dai battle.
 - [《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了](sources/zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf.md) — 芮淇讲透资治通鉴 episode on Qin Zhaoxiang Wang's final years, Qin's quasi-royal hegemonic status, Han's survival deference, Wei's killing and replacement of Wey's ruler, and the succession path through Qin Xiaowen Wang, Zichu, Zhao Ji, and Ying Zheng.
 - [《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？](sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd.md) — 芮淇讲透资治通鉴 episode completing Xunzi's military discussion through command discipline, renyi-war rules, a Clausewitz-backed critique of bloodless-war idealism, Xunzi's return to Lanling, Lu's collapse, and Qin Zhaoxiang Wang's death hook.
@@ -1141,6 +1142,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [夏姬 / 夏太后 / Lady Xia](entities/XiaTaihou.md) — Qin Zhuangxiang Wang's biological mother, honored as Xia Taihou after his accession.
+- [辽城 / Liao City (Warring States)](entities/LiaochengWarringStates.md) — Qi city captured by Yan and recovered by Tian Dan after Lu Zhonglian's arrow-letter breaks the trapped commander stalemate.
+- [子顺 / Zi Shun](entities/ZiShun.md) — Figure who answers Wei Anxi Wang's complaint that Lu Zhonglian is performative by arguing repeated practice can become gentlemanly character.
 - [燕王喜 / King Xi of Yan](entities/YanWangXi.md) — Yan ruler whose attack on wounded Zhao after Changping becomes a failed post-disaster predation case.
 - [栗腹 / Li Fu (Warring States)](entities/LiFuWarringStates.md) — Yan envoy whose report that Zhao was depleted after Changping drives Yan's failed attack.
 - [乐间 / Le Jian](entities/LeJian.md) — Yan general who warns that Zhao's warlike structure makes it too dangerous to attack despite Changping losses.
@@ -7434,6 +7438,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qin Xiaowen Wang Death Uncertainty / 秦孝文王三日而亡疑案](concepts/QinXiaowenwangDeathUncertainty.md) — Source-scoped death mystery around Xiaowen Wang's three-day formal reign, balancing Lu Buwei murder suspicion against illness, exhaustion, and court pressure.
+- [Liao City Commander Dilemma / 辽城守将进退困局](concepts/LiaochengCommanderDilemma.md) — Political-military trap where an occupying commander cannot advance, return, or surrender safely after ruler suspicion and enemy siege.
+- [Virtue Practice Internalization / 修养内化](concepts/VirtuePracticeInternalization.md) — Moral-cultivation frame where repeated outward performance can become stable character, tied to Lu Zhonglian and Confucius's "性相近，习相远."
 - [Post-Disaster Predation Misread / 灾后趁虚误判](concepts/PostDisasterPredationMisread.md) — Strategic error where a state treats another state's recent catastrophe as proof it can no longer resist.
 - [Quasi-Royal Qin Hegemony / 准天子式秦霸权](concepts/QuasiRoyalQinHegemony.md) — Late Qin Zhaoxiang-era pattern where Qin's military dominance is visible through attendance, mourning, sacrifice, and punitive protocol enforcement before formal empire.
 - [Weak-Over-Weak Predation / 弱者向更弱者转嫁压迫](concepts/WeakOverWeakPredation.md) — Pattern where a state pressured by a stronger power still exercises coercive, succession-shaping violence against a weaker polity.
