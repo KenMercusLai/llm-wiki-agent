@@ -2,7 +2,7 @@
 title: "Weak-State Assassination Strategy / 弱国刺杀式破局"
 type: concept
 tags: [strategy, political-violence, assassination, diplomacy, warring-states]
-sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
+sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 
 [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] adds the strategy's macro and micro limits. On the macro side, the episode argues that even killing Ying Zheng might only have caused short-term Qin court disorder because [[QinState|秦国]]'s [[FarmingWarStatecraft|farming-war statecraft]], [[MilitaryMeritRankSystem|military-merit rank]], and [[QinEastwardPressure|eastward pressure]] already outlived any one ruler. On the micro side, the plan deteriorates inside [[Xianyang|咸阳]] when [[QinWuyang|秦武阳]] panics and [[JingKe|荆轲]] has to approach alone.
 
+[[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]] completes the failure case. The access devices succeed, but solo execution fails after the [[DuKangMap|督亢地图]] reveals the dagger: Jing Ke misses, Ying Zheng escapes long enough to draw his sword, and the mission ends with Jing Ke's death. The state-level consequence is worse for Yan than inaction would have been in the short term, because the failed strike immediately triggers a Qin campaign under [[WangJianQin|王翦]].
+
 ## Key Claims
 - Assassination can appear attractive when direct war and slow alliance repair both seem unavailable.
 - The strategy depends on converting a state problem into a person problem: reach the ruler, induce succession disorder, and buy time.
@@ -29,6 +31,8 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - Qinji 114-3 adds that access materials, assistant fit, weapon choice, and sponsor trust are not secondary details; they are the practical conditions that decide whether the shortcut can even be attempted.
 - Qinji 115-1 adds that a successful strike against one ruler may still fail strategically when the target state's institutions, incentives, and military momentum survive the ruler.
 - Qinji 115-1 also shows the execution risk becoming visible before the strike: a mission built as two-person coordination can degrade into solo action under court pressure.
+- Qinji 115-2 shows the end-state risk: even a plan that wins palace proximity can fail in seconds and accelerate military retaliation against the weak state.
+- The episode's Qin Wuyang counterfactual remains source-scoped: it identifies assistant failure as important without proving that a braver assistant would certainly have changed the outcome.
 
 ## Connections
 - [[YanTaiziDan|燕太子丹]], [[JingKe|荆轲]], [[TianGuang|田光]], [[FanWuji|樊无忌]], [[QinWuyang|秦武阳]], and [[GaoJianli|高渐离]] - source actors.
@@ -37,3 +41,4 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]], [[RetainerReciprocityEthic|士为知己者死]], and [[MoralizedShiIdentity|士的道德化身份]] - honor and identity mechanisms that make the selected operative usable.
 - [[AssassinationAccessCredential|刺杀接近凭证]], [[MistrustTriggeredMissionLaunch|疑忌触发式出发]], and [[YiShuiFarewell|易水送别]] - 114-3 execution, failure-mode, and memory layers.
 - [[MengJia|蒙嘉]], [[Xianyang|咸阳]], [[FarmingWarStatecraft|耕战逻辑]], and [[QinAdministrativeStandardization|秦国行政标准化]] - Qinji 115-1 palace access and structural-limit layer.
+- [[TuqiongBijian|图穷匕见]], [[WangJianQin|王翦]], [[ZhaoJia|赵嘉]], and [[DaiState|代国]] - Qinji 115-2 reveal, failed strike, and retaliation layer.

@@ -9378,3 +9378,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？
+
+Added source page for Qinji 115-2: Jing Ke's map-and-dagger reveal, failed strike, Ying Zheng's escape and counterattack, Jing Ke's death and punitive dismemberment, Qin's retaliatory order sending Wang Jian against Yan, the defeat of Yan and Dai/Zhao Jia west of the Yi River, and the later Tao Yuanming/Gong Zizhen poetic memory of Jing Ke. Created Tao Yuanming, Gong Zizhen, Tuqiong Bijian, and Youxia Suppression Under Unification; updated overview, index, Jing Ke, Qin Wuyang, Yan Taizi Dan, Wang Jian, Qin Shi Huang, Qin State, Yan State, Zhao Jia, Dai State, Weak-State Assassination Strategy, Assassination Access Credential, Mistrust-Triggered Mission Launch, Yi Shui Farewell, Political Assassination Ethics, Moralized Shi Identity, and Retainer Reciprocity Ethic. No settled contradiction found; Qin Wuyang counterfactual, Jing Ke's dying explanation, and pre-imperial title wording are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

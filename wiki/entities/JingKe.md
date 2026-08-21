@@ -2,7 +2,7 @@
 title: "荆轲 / Jing Ke"
 type: entity
 tags: [person, youxia, assassin, yan-state, wei-state, warring-states]
-sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
+sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,10 @@ The same episode gives Jing Ke's departure a failure signal. Taizi Dan's suspici
 
 The same source makes Jing Ke's solo burden concrete. When Qin Wuyang panics at the palace steps, Jing Ke explains the failure as rustic overawe, takes the map himself, and proceeds alone. The earlier doubts about assistant fit therefore become an immediate execution problem before the actual attack begins.
 
+[[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]] completes the attempt. As the [[DuKangMap|督亢地图]] opens into [[TuqiongBijian|图穷匕见]], Jing Ke grabs Ying Zheng's sleeve and strikes with the dagger, but the first attack misses and the sleeve tears. Ying Zheng cannot immediately draw his long sword, runs around a pillar, then draws after the court reminder "王负剑" and wounds Jing Ke; Jing Ke's thrown dagger also misses.
+
+The same source gives Jing Ke's death and afterlife. Badly wounded and disarmed, he sits in a "箕踞" posture, curses Ying Zheng, and says the mission failed because he wanted to take the Qin king alive and force a pact for [[YanTaiziDan|燕太子丹]]. The episode records the [[Shiji|《史记》]] / [[ZizhiTongjian|《资治通鉴》]] punitive wording that he was dismembered, then turns to [[TaoYuanming|陶渊明]] and [[GongZizhen|龚自珍]] as later readers who preserve him as a tragic youxia figure under [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]].
+
 ## Connections
 - [[TianGuang|田光]] - recommender and friend whose suicide morally binds the mission.
 - [[YanTaiziDan|燕太子丹]] - patron who appoints him as上卿 and materially supports the assassination plan.
@@ -32,3 +36,4 @@ The same source makes Jing Ke's solo burden concrete. When Qin Wuyang panics at 
 - [[GaoJianli|高渐离]] and [[YiShuiFarewell|易水送别]] - market companion and farewell musician in Jing Ke's memory scene.
 - [[WeakStateAssassinationStrategy|弱国刺杀式破局]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts explaining why a non-obvious candidate can become narratively fit for a death mission.
 - [[AssassinationAccessCredential|刺杀接近凭证]] and [[MistrustTriggeredMissionLaunch|疑忌触发式出发]] - 114-3 operational and trust-breakdown concepts.
+- [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]], [[TuqiongBijian|图穷匕见]], [[TaoYuanming|陶渊明]], [[GongZizhen|龚自珍]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - completed assassination attempt, death scene, and later literary memory.

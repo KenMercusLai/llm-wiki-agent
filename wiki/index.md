@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？](sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu.md) — 芮淇讲透资治通鉴 episode completing Jing Ke's failed assassination attempt, Ying Zheng's escape and counterattack, Wang Jian's retaliatory strike on Yan and Dai, and Tao/Gong poetic memory of Jing Ke.
 - [《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了](sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn.md) — 芮淇讲透资治通鉴 episode opening Qinji 2 with Jing Ke and Qin Wuyang entering Xianyang, Meng Jia's access-broker role, Yan's surrender script, Qin's institutional momentum, and Qin Wuyang's palace panic.
 - [《资治通鉴·秦纪》114-3｜荆轲刺秦为何久久不行动？在等谁？](sources/zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged.md) — 芮淇讲透资治通鉴 episode on Jing Ke's delayed departure, Fan Wuji's self-sacrifice, the Du Kang map and poisoned dagger access plan, Qin Wuyang as assistant, Taizi Dan's mistrust, and the Yi Shui farewell.
 - [《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲](sources/zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx.md) — 芮淇讲透资治通鉴 episode on Yan Taizi Dan's failed search for a response to Qin pressure, Ju Wu's slow hezong/Xiongnu proposal, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, and Jing Ke's selection as a non-obvious侠士 assassin.
@@ -1173,6 +1174,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陶渊明 / Tao Yuanming](entities/TaoYuanming.md) — Poet cited for preserving Jing Ke's failed assassination as a morally charged侠义 memory.
+- [龚自珍 / Gong Zizhen](entities/GongZizhen.md) — Qing poet cited through 《舟中读陶诗三首》 as a later reader of Tao Yuanming's Jing Ke memory.
 - [蒙嘉 / Meng Jia](entities/MengJia.md) — Qin court favorite and access broker whom Jing Ke and Qin Wuyang bribe to present Yan's surrender script to Ying Zheng.
 - [秦武阳 / Qin Wuyang](entities/QinWuyang.md) — Yan warrior selected as Jing Ke's assistant, with fearsome reputation and Qin Kai lineage but uncertain mission fit.
 - [徐夫人 / Xu Furen](entities/XuFuren.md) — Zhao figure associated with the poisoned dagger prepared for Jing Ke's close-range assassination attempt.
@@ -7563,6 +7566,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [图穷匕见 / Tuqiong Bijian](concepts/TuqiongBijian.md) — Moment when Jing Ke reaches the end of the Du Kang map and the hidden dagger appears.
+- [Youxia Suppression Under Unification / 大一统下的游侠压制](concepts/YouxiaSuppressionUnderUnification.md) — Pattern where Qin's unified imperial order turns independent armed侠士 from celebrated actors into political threats.
 - [Assassination Access Credential / 刺杀接近凭证](concepts/AssassinationAccessCredential.md) — Operational pattern where gifts, trophies, or documents create the proximity required for a close-range political killing.
 - [Mistrust-Triggered Mission Launch / 疑忌触发式出发](concepts/MistrustTriggeredMissionLaunch.md) — Failure mode where sponsor suspicion accelerates a dangerous mission before the operative's preferred readiness point.
 - [Yi Shui Farewell / 易水送别](concepts/YiShuiFarewell.md) — Ritualized farewell scene that turns Jing Ke's departure into enduring political and literary memory.

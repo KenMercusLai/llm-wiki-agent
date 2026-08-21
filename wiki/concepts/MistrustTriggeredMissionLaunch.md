@@ -2,7 +2,7 @@
 title: "Mistrust-Triggered Mission Launch / 疑忌触发式出发"
 type: concept
 tags: [decision-making, trust, assassination, warring-states, crisis]
-sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
+sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
 last_updated: 2026-08-22
 ---
 
@@ -14,14 +14,18 @@ The episode reads that delay as a personnel-trust problem. [[YanTaiziDan|燕太�
 
 The concept therefore captures a brittle patron-operative relationship. A patron under strategic pressure may force action by implying mistrust, but the resulting launch can be less prepared because pride, anger, and reputation defense replace the operative's original timing judgment.
 
+[[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]] supplies the consequence. After [[QinWuyang|秦武阳]] freezes outside the decisive action, Jing Ke must execute the mission alone; the host argues that the missing second competent partner may have been the difference between a near miss and a trapped target. The concept therefore tracks not only why the mission launched early, but also why the earlier personnel judgment mattered.
+
 ## Key Claims
 - Urgency can make a patron mistake preparation delay for wavering.
 - An honored operative may be harder to command directly, so pressure arrives through insinuation rather than orders.
 - Suspicion can accelerate action while reducing readiness.
 - In high-risk missions, trust between sponsor and operative is itself part of operational capacity.
+- Qinji 115-2 shows the delayed cost of mistrust: the absent trusted partner leaves Jing Ke without the coordinated pressure that might have contained Ying Zheng.
 
 ## Connections
 - [[YanTaiziDan|燕太子丹]] and [[JingKe|荆轲]] - source patron-operative relationship.
 - [[QinWuyang|秦武阳]] - assistant whose possible early dispatch becomes Taizi Dan's pressure tool.
 - [[WeakStateAssassinationStrategy|弱国刺杀式破局]] and [[WarringStatesRetainerPatronage|战国养士]] - strategic and patronage frames.
 - [[YiShuiFarewell|易水送别]] - departure scene produced after the mistrust break.
+- [[TuqiongBijian|图穷匕见]] and [[AssassinationAccessCredential|刺杀接近凭证]] - reveal and access layers where the early launch's personnel cost becomes visible.
