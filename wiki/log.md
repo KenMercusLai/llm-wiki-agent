@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生
+
+Added source page for Qinji 121: Qin Shi Huang's first post-unification westward journey through Longxi and Beidi, source-scoped as high-temple ritual in Qin old lands; the Xianyang/Wei River/Ji Miao/Taiyi cosmic capital arrangement; and Qin chidao as road infrastructure with imperial lane hierarchy and controlled crossings. Created Qin Chidao Road System, Qin Ji Miao, Taiyi, Lishan, High-Temple Rite, and Qin Cosmic Capital Planning; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Yongcheng, Longxi Commandery, Beidi Commandery, Ganquan Palace, Warring States Period, Zhou Wu Wang, Confucius, Analects, Zizhi Tongjian, and related standardization/symbolic pages. No settled contradiction found; the westward-trip purpose, Taiyi target, and chidao dimensions are kept source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·周纪》68丨惊叹宋康王荒淫无度的狗血历史（1）
 
 Added source page for Zhouji 68 part 1: Qin's continued pressure on Wei after land cessions, Bai Qi and Sima Cuo taking dozens of cities, Qin Zhaoxiang Wang's East/West emperor title probe with Qi Min Wang, Su Dai's advice to reject empty status and focus on Song, renewed hezong pressure against Qin, the Qin-Qi-Zhao three-power setting, Song's wealth, Wei Ran and Li Dui's Dingtao/fief interests, and the Qin-Qi room-sharing around Anyi and Song. Created East-West Emperor Diplomatic Probe; updated overview, index, Qin/Qi/Zhao/Wei/Han state pages, Su Dai, Qi Min Wang, Qin Zhaoxiang Wang, Song State, Song Jun Yan, Wei Ran, Li Dui, Sima Cuo, Bai Qi, Dingtao, Anyi, Private Fief Expansion Through State War, Submission Through Status Elevation, Hezong Alliance, Qin Eastward Pressure, Land-For-Peace Exhaustion Trap, Lianheng Strategy, and Zonghengjia Diplomacy. No settled contradiction found; the Duyang/Gengyang location correction and the part-1 cliffhanger before the full Song Kang Wang cruelty narrative are kept source-scoped.
@@ -9490,3 +9494,7 @@ Added source page for Qinji 120-4: Qin Shi Huang's post-unification control pack
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities, but the graph is behind the 12,592-page wiki scan. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider API key variables are present; bounded in-session semantic review of the lint sample plus orphan/bridge endpoints found no direct contradictions and flagged source-breadth risk for broad AI, market, and governance synthesis. Report returned in-session; `wiki/lint-report.md` was not saved.

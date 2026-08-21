@@ -2,7 +2,7 @@
 title: "Qin Administrative Standardization / 秦国行政标准化"
 type: concept
 tags: [statecraft, reform, administration, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 
 [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] adds the enforcement side of standardization after the commandery-county decision. The source says Qin unifies weights and measures according to Qin standards, distributes official standard instruments, requires yearly checks, and punishes noncompliance by law. It also broadens the concept into [[ImperialHomogenization|帝国整齐划一]]: measurement is one part of a wider program that includes disarmament, elite relocation, local administration, and command execution.
 
+[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds road administration and movement rules through [[QinChidao|驰道]]. The episode's chidao description extends standardization from measures and offices into transport: route width, lane allocation, crossing points, and imperial-use restrictions become administrative facts built into the road surface.
+
 ## Key Claims
 - County organization gives Qin a more direct administrative grid.
 - Land-boundary reform changes the relationship between fields, households, and state allocation.
@@ -33,6 +35,7 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 - Qinji 120-3 adds the explicit territorial settlement: Qin rejects renewed hereditary states and governs the unified empire through commanderies and counties.
 - Qinji 120-4 adds inspection and enforcement: unified measures rely on standard instruments, annual checks, and legal penalties rather than proclamation alone.
 - Qinji 120-4 also widens standardization into a social-control program through disarmament, elite relocation, and command-execution uniformity.
+- Qinji 121 adds roads as a standardization object: movement across the empire can be ruled by route design, lane hierarchy, and crossing control.
 
 ## Connections
 - [[QinState|秦国]], [[ShangYang|公孙鞅 / 商鞅]], and [[ShangYangReforms]] - source state, reformer, and reform package.
@@ -45,3 +48,4 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 - [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[ImperialSymbolicStandardization|帝国符号标准化]], [[PosthumousNamePolitics|谥号政治]], and [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]] - symbolic standardization after conquest.
 - [[zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv|Qinji 120-3]], [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]], [[LiSi|李斯]], and [[QinWangWan|王绾]] - final court debate over direct administration versus princely fiefs.
 - [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]], [[ImperialHomogenization|帝国整齐划一]], [[PostConquestDisarmament|统一后收兵器]], and [[EliteRelocationControl|豪杰迁徙控制]] - enforced standard measures and broader post-unification control package.
+- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]], [[QinChidao|驰道]], [[Xianyang|咸阳]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - road standards and capital circulation rules.

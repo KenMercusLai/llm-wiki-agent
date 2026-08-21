@@ -2,7 +2,7 @@
 title: "咸阳 / Xianyang"
 type: entity
 tags: [place, capital, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ The source explains the name through location: south of the Jiuzong mountains an
 
 [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] makes Xianyang the post-unification concentration point for people, metal, and display. Confiscated weapons from the conquered realm are brought there and cast into palace figures, while 120,000 powerful households are forced to move to the capital so [[QinShiHuang|嬴政 / 秦始皇]] can enrich the center, monitor potential opposition, and detach local elites from their old networks. The same source describes Qin copying conquered states' palaces around the Wei River area, turning Xianyang into a visible archive of empire.
 
+[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] makes Xianyang both the center the emperor leaves and the center rebuilt as cosmic hub. Qin Shi Huang departs from the capital toward [[LongxiCommandery|陇西郡]], [[BeidiCommandery|北地郡]], and Qin old lands, then returns to a construction program in which [[QinJimiao|极庙]] south of the Wei River, roads toward [[Lishan|骊山]], covered passages, and [[QinChidao|驰道]] fold the capital into [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]].
+
 ## Connections
 - [[QinState|秦国]] - polity whose capital moves there.
 - [[ShangYang|公孙鞅 / 商鞅]] and [[ShangYangReforms]] - reformer and reform package linked to the move.
@@ -42,3 +44,4 @@ The source explains the name through location: south of the Jiuzong mountains an
 - [[JingKe|荆轲]], [[QinWuyang|秦武阳]], [[MengJia|蒙嘉]], [[FanWuji|樊无忌]], and [[DuKangMap|督亢地图]] - Qinji 115-1 assassination access and palace-pressure branch.
 - [[WangJianQin|王翦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[GreedPersonaSelfProtection|贪财人设式自保]] - Qinji 117-2 estate requests around the capital.
 - [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]], [[PostConquestDisarmament|统一后收兵器]], [[EliteRelocationControl|豪杰迁徙控制]], and [[ImperialHomogenization|帝国整齐划一]] - capital-centered disarmament display, elite surveillance, and post-unification palace construction.
+- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]], [[QinJimiao|极庙]], [[Taiyi|太一]], [[Lishan|骊山]], [[QinChidao|驰道]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - capital as departure point, ritual-cosmic hub, and road-network center.

@@ -2,7 +2,7 @@
 title: "Imperial Symbolic Standardization / 帝国符号标准化"
 type: concept
 tags: [imperial, symbolism, legitimacy, standardization, chinese-history]
-sources: [zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]
+sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The key move is sequence: political philosophy comes first, and visual or admini
 
 [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] adds a material-symbolic sequel. Confiscated weapons are melted and cast into twelve palace figures, while copied palaces from destroyed states are built around the Wei River area near [[Xianyang|咸阳]]. These acts belong to [[ImperialHomogenization|帝国整齐划一]] because they make conquest visible at the center, even though their immediate function is control rather than legitimacy theory.
 
+[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds a cosmic-architectural sequel. [[QinJimiao|极庙]], inferred [[Taiyi|太一]] sacrifice, roads toward [[Lishan|骊山]], covered passages, and the Wei River as an earthly counterpart of the Milky Way extend symbolic standardization into [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] around Xianyang.
+
 ## Key Claims
 - A new imperial order needs symbolic infrastructure as well as armies, taxes, and offices.
 - Title design can change the perceived category of sovereignty, not just the ruler's vanity label.
@@ -24,6 +26,7 @@ The key move is sequence: political philosophy comes first, and visual or admini
 - Cosmological legitimacy becomes stronger when it enters visible and repeatable practices.
 - Qin's law-equality language is structurally limited because the emperor remains outside the law.
 - Qinji 120-4 adds that symbolic standardization can also be material: confiscated weapons and copied palaces become center-facing signs of conquest and possession.
+- Qinji 121 adds that symbolic standardization can be spatial and cosmological: capital architecture and roads can imitate celestial order.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], [[LiSi|李斯]], and [[QinWangWan|王绾]] - ruler, regime, and ministers tied to the imperial-language package.
@@ -33,3 +36,4 @@ The key move is sequence: political philosophy comes first, and visual or admini
 - [[LegalistRulerTechnique|法家君术]] - law-and-punishment style the source connects to water-phase rule.
 - [[MandateOfHeavenLegitimacy]] and [[DynasticLegitimacyBackfire]] - adjacent legitimacy concepts for comparing cosmic approval and its political risks.
 - [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]], [[PostConquestDisarmament|统一后收兵器]], [[ImperialHomogenization|帝国整齐划一]], and [[Xianyang|咸阳]] - material display layer after symbolic and administrative standardization.
+- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]], [[QinJimiao|极庙]], [[Taiyi|太一]], [[Lishan|骊山]], and [[QinCosmicCapitalPlanning|秦代宇宙化都城规划]] - cosmic capital-space sequel.
