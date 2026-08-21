@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like](sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165.md) — All-In interview with Bryan Johnson on 5-MeO-DMT, psychedelic longevity claims, default-mode-network reset, neuroplasticity, measurement limits, identity disruption risk, and frontier longevity therapies.
 - [《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相](sources/zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk.md) — 芮淇讲透资治通鉴 episode opening 秦纪, explaining Qin-centered chronicle periodization before 221 BCE, and introducing Cai Ze's provocation of an exposed Fan Ju through Tang Ju's physiognomy and a 功成身退 warning.
 - [《资治通鉴·周纪》98丨历史上首个老赖登场了！](sources/zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu.md) — 芮淇讲透资治通鉴 episode closing 周纪 with Zhou Nan Wang's failed anti-Qin coalition, war borrowing, the "债台高筑" idiom story, Qin's extinction of Western Zhou, and the transition toward 秦纪.
 - [《资治通鉴·周纪》97-4丨史上为事业送老婆第一人](sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's persuasion of Yangquan Jun and Huayang Furen, Yiren's jade-tally adoption as succession proof, Zhao Ji's transfer to Yiren, and the source-critical doubts around Qin Shi Huang's Lu Buwei paternity rumor.
@@ -1134,6 +1135,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bryan Johnson](entities/BryanJohnson.md) — Founder and longevity self-experimenter whose All-In interview links 5-MeO-DMT, measured psychedelics, organoids, mitochondrial therapy, and cellular reprogramming risk.
+- [5-MeO-DMT](entities/5MeODMT.md) — Psychedelic substance in the Bryan Johnson All-In source, tied to default-mode-network disruption, subjective ego dissolution, and high-risk self-experimentation.
+- [Braintree](entities/Braintree.md) — Payments company named as part of Bryan Johnson's founder background before his longevity and psychedelic self-experimentation arc.
+- [Venmo](entities/Venmo.md) — Payments company named with Braintree in the Bryan Johnson All-In source as biographical context.
+- [Kernel](entities/KernelCompany.md) — Brain-measurement company connected to Johnson's quantified psychedelic and ketamine experiments, distinct from kernel-development AI agents.
+- [NewLimit](entities/NewLimit.md) — Cellular-reprogramming longevity company named in the Bryan Johnson source as an investment and safety-control example.
 - [蔡泽 / Cai Ze](entities/CaiZe.md) — Yan persuader who enters Qin by provoking Fan Ju at a moment of personnel-liability crisis and opens a 功成身退 warning.
 - [唐举 / Tang Ju](entities/TangJu.md) — Warring States physiognomist whose forecast for Cai Ze lets the episode move from appearance to talent assessment.
 - [赵姬 / Zhao Ji](entities/ZhaoJi.md) — Woman transferred from Lu Buwei to Yiren, mother of Ying Zheng in the source, and center of the disputed Lu Buwei paternity rumor.
@@ -7408,6 +7415,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Default Mode Network](concepts/DefaultModeNetwork.md) — Brain-network frame used in the Bryan Johnson source to connect psychedelics with ego, rumination, neuroplasticity, and possible psychological reset.
+- [Psychedelic Longevity Hypothesis](concepts/PsychedelicLongevityHypothesis.md) — Source-scoped claim that psychedelics may matter for longevity through brain flexibility, inflammation, metabolism, and subjective rejuvenation.
+- [Psychedelic Identity Disruption](concepts/PsychedelicIdentityDisruption.md) — Risk frame where intense psychedelic change can alter values, obligations, founder behavior, and personal continuity.
+- [Mitochondrial Therapy](concepts/MitochondrialTherapy.md) — Frontier longevity intervention discussed by Bryan Johnson as a planned self-experiment around cellular energy and delivery risk.
+- [Patient-Derived Organoids](concepts/PatientDerivedOrganoids.md) — Personalized pretesting layer where organoids grown from a subject's cells are used to test molecules, dose, side effects, and combinations.
+- [Cellular Reprogramming Control Problem](concepts/CellularReprogrammingControlProblem.md) — Safety problem around Yamanaka-factor-style rejuvenation, where dose, tissue targeting, reversibility, and cancer risk dominate.
 - [Chronicle Periodization / 编年分期](concepts/ChroniclePeriodization.md) — Historiographical frame distinguishing a chronicle's dating section label from a modern dynasty boundary.
 - [Wen Wang Guanren Fa / 文王官人法](concepts/WenWangGuanrenFa.md) — Source-scoped classical talent-assessment frame raised from the episode's Cai Ze and Tang Ju physiognomy discussion.
 - [债台高筑 / Zhaitai Gaozhu](concepts/ZhaitaiGaozhu.md) — Idiom story attached to Zhou Nan Wang's failed war borrowing and creditor avoidance after the anti-Qin coalition collapses.

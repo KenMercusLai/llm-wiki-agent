@@ -8704,6 +8704,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like
+
+Added All-In source page for Bryan Johnson's 5-MeO-DMT and longevity self-experiment discussion: psychedelic longevity claims, default-mode-network reset, psilocybin measurement, medical supervision, psychosis and bad-trip risk, founder and family identity disruption, mitochondrial therapy, patient-derived organoids, NewLimit, and cellular reprogramming control risk. Created Bryan Johnson, 5-MeO-DMT, Braintree, Venmo, Kernel, NewLimit, Default Mode Network, Psychedelic Longevity Hypothesis, Psychedelic Identity Disruption, Mitochondrial Therapy, Patient-Derived Organoids, and Cellular Reprogramming Control Problem; updated overview, index, All-In, DMT, Psilocybin Mushrooms, Neuroplasticity, Self-Experimentation, Tech-Culture Biohacking, Medical Risk Management, GLP-1 Agonists, and Life Reprogramming Vision. No direct contradiction found; the source-scoped boundary is that Johnson's 5-MeO objective data had not yet been analyzed, so the episode's strongest claims remain subjective and provisional.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相
 
 Added source page for the first Qinji 99 installment: the transition from 周纪 to 秦纪 as chronicle periodization, the distinction between Qin state and formal Qin dynasty, Qin Zhaoxiang Wang's post-Handan/Fan Ju personnel crisis, Cai Ze's access-by-provocation, Tang Ju's physiognomic confidence frame, Wen Wang Guanren Fa as a talent-assessment bridge, and Cai Ze's opening 功成身退 warning to Fan Ju. Created Cai Ze, Tang Ju, Chronicle Periodization, and Wen Wang Guanren Fa; updated overview and index, with existing Fan Ju/Qin pages receiving source-scoped follow-up. No direct contradiction found; the title's chancellor payoff, physiognomy, and Qin纪 boundary are kept source-scoped.
@@ -9055,6 +9059,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
 
 Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
