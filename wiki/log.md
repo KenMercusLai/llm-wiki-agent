@@ -9474,3 +9474,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制
+
+Added source page for Qinji 120-3: Wang Wan's proposal to enfeoff imperial sons in distant former Yan, Qi, and Chu territory, Li Si's anti-enfeoffment rebuttal from the Zhou precedent, Qin Shi Huang's acceptance of empire-wide commandery-county rule, the contrast between Zhou expansion-by-enfeoffment and Qin division-after-conquest, later Xiang Yu/Liu Bang/Han Wudi comparison cases, and the thirty-six-commandery setup with governors, commandants, and inspectors. Created Commandery-County Anti-Enfeoffment Settlement; updated overview, index, Qin Shi Huang, Qin State, Li Si, Wang Wan, Qin Administrative Standardization, and Conquest Commandery Transition. No settled contradiction found; this source supplies the full郡县制 argument that Qinji 120-2 had only reached as a cutoff.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

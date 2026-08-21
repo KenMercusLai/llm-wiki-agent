@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制](sources/zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv.md) — 芮淇讲透资治通鉴 episode on Wang Wan and Li Si's post-unification debate over princely enfeoffment versus empire-wide commandery-county rule, with later Xiang Yu, Liu Bang, and Han Wudi comparisons.
 - [《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念](sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq.md) — 芮淇讲透资治通鉴 episode on Qin's post-unification imperial title, 制/诏/朕 language monopoly, abolished谥法, numbered emperors, water-virtue legitimacy, black color, October year-start, number six, and law-punishment symbolism.
 - [《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？](sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0.md) — 芮淇讲透资治通鉴 episode on Qin's 221 BCE conquest of Qi, Qi Wang Jian's surrender and starvation, the casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense legitimacy narrative.
 - [《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后](sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul.md) — 芮淇讲透资治通鉴 episode on Wang Ben's capture of Dai and Zhao Jia, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji setup, Jun Wang Hou's pro-Qin neutrality, Qi's forty-plus years of peace, and the Qin-Qi appeasement trap before Yongmen Sima's remonstrance.
@@ -7604,6 +7605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局](concepts/CommanderyCountyAntiEnfeoffment.md) — Qinji 120-3 frame for Qin's post-unification choice to reject renewed hereditary kingdoms and govern conquered territory through commanderies and counties.
 - [Imperial Symbolic Standardization / 帝国符号标准化](concepts/ImperialSymbolicStandardization.md) — Qinji 120-2 frame for Qin's post-unification package of imperial title, document language, exclusive pronoun, numbered dynasty sequence, color, calendar, number, and water-virtue legitimacy.
 - [Casualty-Sparing Surrender / 保全生灵式投降](concepts/CasualtySparingSurrender.md) — Qinji 120-1 tradeoff where Qi Wang Jian's surrender destroys the state but avoids a destructive final war.
 - [Conquest Self-Defense Narrative / 兼并自卫叙事](concepts/ConquestSelfDefenseNarrative.md) — Qinji 120-1 legitimacy pattern where Qin recasts conquest of the six states as reluctant punishment and self-defense.
