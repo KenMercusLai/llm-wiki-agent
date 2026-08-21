@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·周纪》47丨燕王哙的理想主义
+
+Added source page for a 芮淇讲透资治通鉴 episode contrasting Qin's practical Ba-Shu decision with Yan Wang Kuai's idealistic transfer of authority to Zi Zhi. Created Lu Maoshou and Rule-Breaking Abdication; updated overview, index, Yan Wang Kuai, Zi Zhi, Sima Cuo, Zhang Yi, Ying Si, Su Dai, Su Li, Chen Liao, Yan/Ba/Shu state pages, Qin Frontier Buffer Management, Chuaimo Technique, and Talent-Virtue Distinction. No direct contradiction found; Ba-Shu chronology is complementary with Zhouji 52, and the Chen Liao comparison is kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了
 
 Added source page for a 芮淇讲透资治通鉴 episode on Ying Zheng's early reign under Lu Buwei, Han's Zheng Guo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural and war capacity, Qin's attack on Wei while Xinlingjun remains unusable, Zhao's opportunistic attack on Wei, and Lian Po's removal, blocked recall, and death in Chu. Created Zheng Guo, Zhengguo Canal, Zhao Daoxiang Wang, Guo Kai, Le Cheng, and Self-Defeating Resource-Drain Strategy; updated overview, index, Qin Shi Huang, Lu Buwei, Lian Po, Meng Ao, Xinlingjun, Daliang, Qin/Han/Zhao/Wei state pages, and related rumor, command-replacement, yinmou-yangmou, and Qin-pressure concept pages. No direct contradiction found; the canal chronology and "廉颇老矣" envoy report are kept source-scoped.
@@ -9263,6 +9267,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back
 
 Added source page for the All-In interview with Dan Loeb on Third Point, short selling, event-driven investing, modern stock picking, management quality, Nvidia, venture-to-public exit discipline, education reform, and criminal-justice clemency. Created Dan Loeb, Third Point, Actrade, Ross Ulbricht, Silk Road, Success Academies, Short Selling, Stock Picking, Event-Driven Investing, Management Quality as Investment Edge, Homebuilder Short Thesis, Private Winner Hold Discipline, and Criminal Justice Clemency Framework. Updated overview, index, All-In, Nvidia, Palantir, Investment Edge, Passive Investing, Accounting Red Flags, Business Moat, Private-Company Secondaries, Venture DPI Liquidity Pressure, and AI Equity Valuation Risk. No direct contradiction found; investment calls, homebuilder claims, Nvidia valuation, Palantir sale regret, and clemency narratives are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
