@@ -9243,3 +9243,11 @@ Added source page for Qinji 108-3: Zhao Ji's Yongcheng move and secret sons with
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了
+
+Added source page for Qinji 109-1: Chu Kaolie Wang's childless succession crisis, Chunshenjun's hidden-pregnancy betrayal, Li Yuan and his sister's ascent, Li Yuan's murder plot, Zhu Ying's "无妄之祸" warning, and the Qin Shi Huang paternity-rumor comparison. Created Li Yuan, Li Yuan's Sister, and Pregnancy Succession Substitution. Updated overview, index, Chunshenjun, Mi Wan, Zhu Ying, Chu State, Qin Shi Huang, Historical Detective Reasoning, Succession Non-Designation Risk, Power Exit Trap, and Warring States Four Lords. No direct contradiction found; Li Yuan's source spelling, Li Yuan's murder motive, and the paternity-rumor comparison are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

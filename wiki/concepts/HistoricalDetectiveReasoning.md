@@ -2,7 +2,7 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources: [zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]] adds a lineage-rumor test through [[QinShiHuang|嬴政 / 秦始皇]]. The episode treats the claim that [[LuBuwei|吕不韦]] was Ying Zheng's biological father as a story to test against evidence rather than a scandal to inherit. It cites [[GuoMoruo|郭沫若]]'s skeptical line: a single late-looking story, internal tension in the pregnancy timing, and resemblance to the [[Chunshenjun|春申君]] branch all weaken the claim, even though the rumor's long popularity remains historically meaningful.
 
+[[zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy]] supplies the Chunshenjun branch itself. The source presents [[PregnancySuccessionSubstitution|孕身继承替换]] in Chu as a concrete scandal around [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[MiWan|楚考烈王]], while the host explicitly refuses to transfer that motif back onto Ying Zheng without stronger evidence. The method point is that similarity between scandals can explain rumor appeal, but similarity does not establish paternity.
+
 [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]]. [[QinXiaowenwang|秦孝文王]]'s three-day formal reign makes a [[LuBuwei|吕不韦]] murder theory tempting because Lu Buwei benefits from [[QinZhuangxiangwang|子楚]]'s quick accession. The episode still keeps alternative explanations alive: illness, age, long pressure as crown prince, and mourning exhaustion. The case extends the concept's rule that motive plus narrative neatness is not enough to settle causation.
 
 ## Key Claims
@@ -55,6 +57,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - Attractive idiom origins should be tested against period economy, social incentives, and source proximity before being treated as historical explanations.
 - Political precedents should be tested the same way: a story can persuade a historical actor without becoming reliable evidence for the modern reader.
 - Lineage rumors should be tested for source independence, internal chronology, and motif borrowing before being turned into biographical fact.
+- Motif similarity between two scandals can be evidence for narrative borrowing or rumor appeal without proving that both scandals happened in the same way.
 - Sudden royal deaths should keep murder, illness, exhaustion, and later narrative interest separate unless evidence narrows the field.
 
 ## Connections
@@ -76,4 +79,5 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[IdiomOriginSkepticism|典故来源辨伪]], [[SuQin|苏秦]], [[QiState|齐国]], and [[EvidenceBoundFolkloreInquiry]] - Zhouji 46 idiom-origin and folklore-evidence extension.
 - [[LuZhonglian|鲁仲连]], [[XinyuanYan|新垣衍]], [[HistoricalPrecedentWeaponization|历史先例武器化]], and [[CivilizationBarbarismFrame|文明-野蛮框架]] - Zhouji 96 part 3 persuasive precedent and source reliability split.
 - [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], [[GuoMoruo|郭沫若]], and [[Chunshenjun|春申君]] - Zhouji 97 part 4 paternity-rumor evidence test.
+- [[PregnancySuccessionSubstitution|孕身继承替换]], [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[MiWan|楚考烈王]] - Qinji 109-1 concrete Chu motif used to caution against overreading the Qin paternity rumor.
 - [[QinXiaowenwang|秦孝文王]], [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]], [[LuBuwei|吕不韦]], and [[QinZhuangxiangwang|异人 / 子楚]] - Qinji 101-1 sudden-death uncertainty.

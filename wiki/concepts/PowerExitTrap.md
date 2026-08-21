@@ -2,7 +2,7 @@
 title: "Power Exit Trap / 权力退场困境"
 type: concept
 tags: [politics, statecraft, reform, power, risk]
-sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-21
 ---
 
@@ -44,6 +44,8 @@ The source makes this a live warning rather than only retrospective diagnosis. C
 
 [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] adds a sharper possible end state for the same failed exit. The episode notes that Xinlingjun dies before Wei Anxi Wang in the same year and infers that the king may have removed him to secure [[WeiJingminWang|魏景湣王 / 魏增]]'s succession. In this reading, the trap is not only that a great actor cannot live well after losing power; it is that remaining famous while out of office can still make him dangerous enough to eliminate.
 
+[[zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy]] adds [[Chunshenjun|黄歇 / 春申君]] as a late-office corruption variant. After earlier merit, failed coalition leadership, and loss of standing, he does not find a clean retreat from dependence on [[MiWan|楚考烈王]]'s favor. The episode reads his participation in [[PregnancySuccessionSubstitution|孕身继承替换]] as fear-driven self-preservation: instead of exiting power, he tries to make his own bloodline inherit the court and thereby becomes vulnerable to [[LiYuanWarringStates|李源]]'s later murder plan.
+
 ## Key Claims
 - Power can become protective infrastructure, not only a prize.
 - A reformer or strong minister may become less able to leave precisely because the reform has succeeded.
@@ -64,6 +66,7 @@ The source makes this a live warning rather than only retrospective diagnosis. C
 - A successful exit can require an explicit successor or replacement path, not only a private decision to step away.
 - Removal can create its own exit trap: an actor may be out of office but still unable to convert loss of command into a stable life, clean withdrawal, or preserved self-respect.
 - Even after withdrawal, reputation and residual networks can keep an actor politically dangerous during a succession transition.
+- A late-career minister can respond to exit insecurity by manipulating succession itself, which may deepen rather than solve the trap.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]], [[QinXiaogong|秦孝公]], [[QinState|秦国]], and [[WarringStatesReformBacklash]] - central source case.
@@ -81,3 +84,4 @@ The source makes this a live warning rather than only retrospective diagnosis. C
 - [[CaiZe|蔡泽]], [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[WangJiQin|王稽 / 王继]], [[WenWangGuanrenFa|文王官人法]], and [[FanLi|范蠡]] - Qinji 99 parts 1-2 功成身退 warning, accepted exit, and successor handoff.
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[LuZhonglian|鲁仲连]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - Qinji 103-2 failed withdrawal after slander-driven removal.
 - [[WeiJingminWang|魏景湣王 / 魏增]] and [[XinlingjunDeathSuspicion|信陵君非正常死亡疑云]] - Qinji 106 possible elimination of an already-withdrawn but still threatening figure.
+- [[Chunshenjun|黄歇 / 春申君]], [[MiWan|楚考烈王]], [[LiYuanWarringStates|李源]], and [[PregnancySuccessionSubstitution|孕身继承替换]] - Qinji 109-1 late-office self-preservation through succession manipulation.

@@ -2,7 +2,7 @@
 title: "朱英 / Zhu Ying (Warring States)"
 type: entity
 tags: [person, adviser, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
+sources: [zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
 last_updated: 2026-08-21
 ---
 
@@ -14,8 +14,11 @@ His warning is route-based. Earlier, Qin found it hard to attack [[ChuState|楚�
 
 The episode says Chunshenjun accepts the reasoning and moves Chu's capital to [[ShouchunWarringStates|寿春]]. Zhu Ying's wiki role is therefore not as a broad biography but as the adviser who translates [[QinEastwardPressure|秦国东进压力]] into Chu's relocation decision.
 
+[[zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy]] brings Zhu Ying back as the adviser who sees an internal danger after [[Chunshenjun|黄歇 / 春申君]] joins the [[LiYuanWarringStates|李源]] and [[LiYuanSister|李源妹妹]] succession plot. When [[MiWan|楚考烈王]] is gravely ill, Zhu Ying warns Chunshenjun about "无妄之祸" and says he needs an "无妄之人," meaning someone positioned to meet an unexpected disaster. The episode stops with the warning, but it makes Zhu Ying's role consistent: he detects threats earlier than the powerful listener does.
+
 ## Connections
 - [[Chunshenjun|黄歇 / 春申君]] - political listener who acts on the warning.
 - [[ChuState|楚国]], [[MiWan|楚考烈王]], and [[ShouchunWarringStates|寿春]] - state, ruler frame, and relocation result.
 - [[QinState|秦国]], [[WeiState|魏国]], and [[QinEastwardPressure|秦国东进压力]] - threat geography behind the advice.
 - [[TerminalHezongFailure|末次合纵失败]] - failed coalition setting that makes relocation urgent.
+- [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[PregnancySuccessionSubstitution|孕身继承替换]] - internal-court danger he warns about in Qinji 109-1.
