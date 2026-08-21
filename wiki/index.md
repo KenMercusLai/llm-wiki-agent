@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-3｜陈胜吴广组队成功](sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams.md) — 芮淇讲透资治通鉴 episode on Chen Sheng and Wu Guang's expansion from Dazexiang/Qixian to Chen County, Zhang Er and Chen Yu's six-state restoration strategy, Chen Sheng's rejection and self-kingship as Zhang Chu, and Wu Guang's westward attack on Yingyang.
 - [《资治通鉴·秦纪》128-2｜起来！被压迫的人们！](sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's pleasure-seeking rule, harsher law and construction burdens, the Dazexiang deadline crisis, Chen Sheng and Wu Guang's uprising, and rebel legitimation through Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor.
 - [《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣](sources/zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's first-year tour, Zhao Gao's use of Hu Hai's succession insecurity, harsh-law purge of princes and old ministers, and the deaths of Ying Jianglu and Ying Gao.
 - [《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密](sources/zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's Lishan burial, mausoleum mechanisms and secrecy violence, Hu Hai and Zhao Gao's killing of the Meng brothers, Ziying's failed remonstrance, and Meng Tian's morally mixed loyal death.
@@ -1204,9 +1205,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt.
-- [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime opened by the Dazexiang uprising and previewed here through Ge Ying's death and Chen Sheng's mistrust problem.
-- [葛婴 / Ge Ying](entities/GeYing.md) — Zhang Chu general whose death is flagged as damaging the rebel regime and deepening suspicion between Chen Sheng and subordinates.
+- [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt, expand to Chen County, and open the Zhang Chu choice.
+- [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime Chen Sheng declares after rejecting Zhang Er and Chen Yu's advice to restore six-state royal descendants first.
+- [葛婴 / Ge Ying](entities/GeYing.md) — Zhang Chu-aligned commander sent east after Qixian, with later death flagged as damaging the rebel regime and deepening suspicion.
 - [嬴高 / Ying Gao](entities/YingGao.md) — Qin prince who petitions to be buried with Qin Shi Huang so his death does not endanger his family during Hu Hai's purge.
 - [嬴将闾 / Ying Jianglu](entities/YingJianglu.md) — Qin prince whose unanswered request for a real charge shows the procedural emptiness of Hu Hai's royal purge.
 - [子婴 / Ziying (Qin)](entities/ZiyingQin.md) — Qin prince who warns Hu Hai not to kill Meng Tian and Meng Yi by citing Zhao's loss of Li Mu and Qi's old-minister killings.
@@ -1215,16 +1216,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
 - [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
-- [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son in Qinji 125-2, punished with a Shangjun assignment after remonstrating against the坑儒 executions.
+- [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son whose unjust death and softer succession image become rebel legitimacy material for Chen Sheng and Wu Guang.
 - [侯生 / Hou Sheng (Fangshi)](entities/HouShengFangshi.md) — Qin fangshi in Qinji 125-2 whose flight and criticism with Lu Sheng help trigger the坑儒 incident; distinct from Qi chancellor 后胜.
 - [阿房宫 / Afang Palace](entities/AfangPalace.md) — Late Qin palace project south of the Wei River, framed as both capital expansion and unfinished symbolic mega-project.
 - [秦始皇陵 / Qin Shi Huang Mausoleum](entities/QinShiHuangMausoleum.md) — Lishan burial project whose priority after Qin Shi Huang's death redirects labor away from Afang Palace.
 - [秦直道 / Qin Straight Road](entities/QinZhidao.md) — Meng Tian-led road project from Yunyang to Jiuyuan, treated as part of late Qin construction overload.
 - [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
 - [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
-- [陈馀 / Chen Yu](entities/ChenYu.md) — Figure who checks on Kong Fu after the book-burning order and later helps connect him to Chen Sheng's regime.
-- [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who turns a fatal deadline crisis into rebellion and manufactures legitimacy through Fusu, Xiang Yan, and sacred-looking signs.
-- [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader paired with Chen Sheng in killing the commanders, mobilizing the soldiers, and creating rebel legitimacy.
+- [陈馀 / Chen Yu](entities/ChenYu.md) — Chen Sheng adviser paired with Zhang Er in warning against premature kingship and proposing six-state restoration; also tied to Kong Fu after book burning.
+- [陈胜 / Chen Sheng](entities/ChenSheng.md) — Dazexiang uprising co-leader who expands to Chen County, rejects six-state restoration counsel, and declares Zhang Chu.
+- [吴广 / Wu Guang](entities/WuGuang.md) — Dazexiang uprising co-leader later appointed acting Zhang Chu king to supervise the westward attack on Yingyang.
 - [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
 - [桂林郡 / Guilin Commandery](entities/GuilinCommandery.md) — Qin southern commandery created after the 214 BCE Baiyue campaign, located source-scopingly around today's Guangxi.
 - [南海郡 / Nanhai Commandery](entities/NanhaiCommandery.md) — Qin southern commandery located source-scopingly around today's Guangdong after the Baiyue campaign.
@@ -1355,12 +1356,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
 - [郭开 / Guo Kai](entities/GuoKai.md) — Zhao court enemy of Lian Po who bribes the recall envoy and blocks Lian Po's return.
 - [乐乘 / Le Cheng](entities/LeCheng.md) — Former Yan general in Zhao service whose appointment to replace Lian Po triggers Lian Po's break with Zhao.
-- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer whom young Liu Bang turns to after arriving in Daliang too late to join Xinlingjun.
+- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer and Chen Sheng adviser who urges restoring six-state royal descendants before Chen Sheng claims kingship.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
 - [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
-- [荥阳 / Yingyang (Warring States)](entities/YingyangWarringStates.md) — Qin-held Sanchuan point near Xingze in the Guancheng/Daliang pressure map.
+- [荥阳 / Yingyang (Warring States)](entities/YingyangWarringStates.md) — Qin-held Sanchuan point later named as Wu Guang's westward Zhang Chu target after Chen Sheng's kingship.
 - [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose Guancheng annotation criticizes Su Gao, Anling Jun, and Xinlingjun from a state-responsibility angle.
 - [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
@@ -7666,8 +7667,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略](concepts/SixStateRestorationAntiQinStrategy.md) — Zhang Er and Chen Yu's advice that Chen Sheng should restore six-state royal descendants to multiply Qin's enemies before exposing his own kingship.
 - [Fatal Deadline Rebellion Trigger / 误期死局式起义触发](concepts/FatalDeadlineRebellionTrigger.md) — Dazexiang mechanism where Qin's fatal lateness rule collapses compliance, flight, and delay into death, making revolt the active self-rescue path.
-- [Rebel Mandate Manufacture / 起义天命制造](concepts/RebelMandateManufacture.md) — Chen Sheng and Wu Guang's use of Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor to make rebellion look mandate-backed.
+- [Rebel Mandate Manufacture / 起义天命制造](concepts/RebelMandateManufacture.md) — Chen Sheng and Wu Guang's use of Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor to make rebellion look mandate-backed, later tied to Chen Sheng's succession argument.
 - [Succession Legitimacy Purge / 继位合法性清洗](concepts/SuccessionLegitimacyPurge.md) — Post-accession purge pattern where an insecure ruler treats surviving relatives and old ministers as threats to be removed.
 - [Mausoleum Secrecy Killing / 陵墓保密杀戮](concepts/MausoleumSecrecyKilling.md) — Qinji 127-4 pattern where tomb mechanisms, buried wealth, and imperial funerary secrecy turn concubines and artisans into lethal information risks.
 - [Loyal Service Moral Liability / 忠臣事暴政的罪责](concepts/LoyalServiceMoralLiability.md) — Qinji 127-4 ethical frame where Meng Tian's final loyalty is praised without erasing responsibility for harsh Qin labor projects.

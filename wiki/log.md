@@ -9627,3 +9627,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-3｜陈胜吴广组队成功
+
+Added source page for Qinji 128-3: Chen Sheng and Wu Guang's expansion from Dazexiang and Qixian to Chen County, Ge Ying's eastward assignment, Zhang Er and Chen Yu's hiding in Chen County and advice against premature kingship, the six-state restoration strategy, Chen Sheng's rejection of that route, his declaration as Chu king under Zhang Chu, the host's reading of Chen Sheng as seeking a Chu-centered inheritance of unification, and Wu Guang's westward assignment against Yingyang. Created Six-State Restoration Anti-Qin Strategy; updated overview, index, Chen Sheng, Wu Guang, Dazexiang Uprising, Zhang Chu Regime, Ge Ying, Zhang Er, Chen Yu, Fu Su, Rebel Mandate Manufacture, and Yingyang. No settled contradiction found; normalized the transcript forms "陈渝" and "葛英" to the existing Chen Yu and Ge Ying pages while preserving the wording note in the source page.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

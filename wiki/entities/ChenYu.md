@@ -2,7 +2,7 @@
 title: "陈馀 / Chen Yu"
 type: entity
 tags: [person, qin, anti-qin, pre-qin]
-sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -12,8 +12,13 @@ last_updated: 2026-08-22
 
 His role in this episode is connective. First, he makes the danger to private holders of classical books concrete; second, he later helps Kong Fu accept [[ChenSheng|陈胜]]'s invitation to serve as博士 in the rebel regime. The page keeps both points source-scoped because the episode does not yet develop Chen Yu's later political career.
 
+[[zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams|Qinji 128-3]] places Chen Yu beside [[ZhangEr|张耳]] before Chen Sheng's kingship. The transcript renders him as "陈渝," but the role matches the existing Chen Yu branch: he and Zhang Er flee Qin pursuit as former Wei worthies, live under changed names in Chen County, and serve as gatekeepers. His near-conflict with a petty official lets Zhang Er teach the "small impatience ruins the great plan" lesson.
+
+When Chen Sheng asks whether he should become Chu king, Chen Yu joins Zhang Er in warning that immediate kingship exposes private ambition. Their alternative is [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], a wider anti-Qin restoration route that Chen Sheng rejects.
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
 - [[ChenSheng|陈胜]] and [[WuGuang|吴广]] - rebel turn that creates the new political opening.
 - [[Shiji|《史记》]] - source layer cited for Kong Fu's later death notice.
+- [[ZhangEr|张耳]], [[ZhangChuRegime|张楚政权]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-3 hiding, counsel, and rejected strategy.

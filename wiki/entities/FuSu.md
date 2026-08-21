@@ -2,7 +2,7 @@
 title: "扶苏 / Fu Su"
 type: entity
 tags: [person, qin-dynasty, prince, remonstrance]
-sources: [zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]
+sources: [zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The source's interest in Fusu is narrow but important. He appears as a remonstra
 
 [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25]] adds Fusu's posthumous use as a rebel legitimacy name. [[ChenSheng|陈胜]] and [[WuGuang|吴广]] claim Fusu is still alive when they launch the [[DazexiangUprising|大泽乡起义]], because the source says his unjust death, political reputation, and Qin-Chu identity make him attractive to Chu-region followers. This is a later mobilization use of Fusu's image, not a new account of his death.
 
+[[zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams|Qinji 128-3]] adds the host's strategic interpretation of that use. Fusu matters not only because he is a plausible grievance symbol, but because Chen Sheng's later kingship shows he is arguing about who should inherit unification and how it should be governed. In that reading, Fusu represents a more acceptable Qin successor than [[QinErshi|胡亥 / 秦二世]], while Chen Sheng's own [[ZhangChuRegime|张楚]] turn shows the same question being answered through Chu.
+
 ## Key Claims
 - Fusu's remonstrance frames the victims through scholarship and Confucius rather than through fangshi fraud alone.
 - His warning is about public stability: harsh punishment of scholars risks making the empire uneasy.
@@ -25,6 +27,7 @@ The source's interest in Fusu is narrow but important. He appears as a remonstra
 - Qinji 127-2 makes Fusu the displaced heir whose refusal to verify the forged order lets the coup remove its most important rival quickly.
 - Qinji 127-3 makes Fusu's distance from the deathbed a practical argument for [[EmergencySuccessionLegitimation|临终就近立储]], while still leaving his later killing as part of Hu Hai's destructive accession.
 - Qinji 128-2 makes Fusu a posthumous rebel banner whose remembered injustice can be used against Qin.
+- Qinji 128-3 interprets that banner as part of Chen Sheng's argument over the rightful and humane successor to Qin's unified order.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]] - father and ruler whose decision Fusu challenges.
@@ -35,3 +38,4 @@ The source's interest in Fusu is narrow but important. He appears as a remonstra
 - [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]], [[ZhaoGao|赵高]], [[QinErshi|胡亥 / 秦二世]], [[LiSi|李斯]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - false command, suicide, and succession displacement.
 - [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[FengQuji|冯去疾]], and [[EmergencySuccessionLegitimation|临终就近立储]] - alternate account where Fusu's distance supports a nearby-heir argument.
 - [[zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25|Qinji 128-2]], [[ChenSheng|陈胜]], [[WuGuang|吴广]], [[XiangYan|项燕]], [[DazexiangUprising|大泽乡起义]], and [[RebelMandateManufacture|起义天命制造]] - Fusu as a claimed living symbol for anti-Qin mobilization.
+- [[zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams|Qinji 128-3]], [[ZhangChuRegime|张楚政权]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - later interpretation of Fusu's banner beside Chen Sheng's own kingship choice.
