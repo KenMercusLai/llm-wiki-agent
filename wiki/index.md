@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密](sources/zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p.md) — 芮淇讲透资治通鉴 episode on Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke through renyi-grounded virtue.
 - [《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！](sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco.md) — 芮淇讲透资治通鉴 episode on Changping Jun/Xiong Qi's Chu royal identity, the Mi Wan childless-source dispute, Shiji literary caution, final Chu resistance, Qin's Chu commandery setup, and remnant elites gathering toward Qi.
 - [《资治通鉴·秦纪》118-1｜王翦率六十万大军 对战项燕！好戏开场了！](sources/zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu.md) — 芮淇讲透资治通鉴 episode on Wang Jian's 600,000-person second Chu campaign, fortified attrition against Xiang Yan, Xiang Yan's Qinan defeat, "楚虽三户" memory, Fuchu's capture, and Li Kaiyuan/Qin Mi's Changping Jun reconstruction.
 - [《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？](sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy.md) — 芮淇讲透资治通鉴 episode on Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop plan, and Wang Jian's property-request self-protection.
@@ -1179,6 +1180,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [白公胜 / Bai Gong Sheng](entities/BaiGongSheng.md) — Chu figure used by Qinji 119-1 as Sima Guang's negative comparison for trust and courage without renyi.
+- [叶公 / Ye Gong](entities/YeGong.md) — Chu judgment figure whose standard makes 信 and 勇 genuine only when grounded in 仁义.
+- [太子建 / Crown Prince Jian of Chu](entities/TaiziJianChu.md) — Chu crown prince whose exile and death form the Bai Gong Sheng grievance background in Qinji 119-1.
+- [要离 / Yao Li](entities/YaoLi.md) — Assassin cited by Yang Xiong in Qinji 119-1 as part of a typology that denies assassin deaths automatic义 status.
 - [李开元 / Li Kaiyuan](entities/LiKaiyuan.md) — Historian cited by Qinji 118-1 for the Qin Mi reconstruction of Changping Jun's Chu royal background and rebellion.
 - [《秦谜》 / Qin Mi](entities/QinMi.md) — Li Kaiyuan work used source-scopingly in Qinji 118-1 to reconstruct Changping Jun as Xiong Qi and explain Li Xin's Chu failure.
 - [蕲南 / Qinan (Chu battlefield)](entities/QinanChuBattlefield.md) — Chu battlefield near which Wang Jian defeats Xiang Yan in Qinji 118-1, distinct from the incense-material page Qinan.
@@ -7585,6 +7590,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119-1 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.
 - [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
 - [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
 - [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Wang Jian's Qinji 118-1 strategy of refusing Xiang Yan's challenges, preserving Qin logistics and morale, and attacking only after Chu withdraws.

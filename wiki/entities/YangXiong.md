@@ -2,8 +2,8 @@
 title: "扬雄 / Yang Xiong"
 type: entity
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+last_updated: 2026-08-22
 ---
 
 # 扬雄 / Yang Xiong
@@ -20,6 +20,8 @@ The episode uses him to distinguish similar-looking political activity by motive
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Yang Xiong to the reception of [[HanFei|韩非]]. The episode cites [[Fayan|《法言》]] for the warning that what matters in speech is whether it accords with righteousness, not whether it suits the audience. The host accepts the moral pressure of the point but argues that Han Fei's case is harder because, as a [[HanState|韩国]] royal, he had a duty to try to preserve Han rather than speak as a detached career persuader.
 
+[[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] adds Yang Xiong's assassin typology. The episode cites him distinguishing [[YaoLi|要离]], [[NieZheng|聂政]], and [[JingKe|荆轲]] by kinds of death while denying that these deaths count as义. [[SimaGuang|司马光]] is presented as accepting that judgment, making Yang Xiong a recurring authority for the wiki's rule that talent, courage, or striking conduct must be tested by moral direction.
+
 ## Connections
 - [[Fayan|《法言》]] - text cited by the episode.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.
@@ -29,3 +31,4 @@ The episode uses him to distinguish similar-looking political activity by motive
 - [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 contrast between praise of talent patrons and suspicion of overmighty private power.
 - [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Fayan judgement on clever political investment ending in destruction.
 - [[HanFei|韩非]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Fayan warning applied to Han Fei's persuasion and home-state duty.
+- [[YaoLi|要离]], [[NieZheng|聂政]], [[JingKe|荆轲]], [[SimaGuang|司马光]], and [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]] - assassin-death typology and denial of automatic义 status.

@@ -9363,6 +9363,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密
+
+Added source page for Qinji 119-1: Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign and capture of Yan Wang Xi, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke as failed assassin politics rather than义. Created Bai Gong Sheng, Ye Gong, Crown Prince Jian of Chu, Yao Li, and Renyi-Grounded Virtue; updated overview, index, Jing Ke, Yan Taizi Dan, Yan Wang Xi, Wang Ben, Yan State, Qin State, Sima Guang, Yang Xiong, Nie Zheng, Wu Zixu, Political Assassination Ethics, Weak-State Assassination Strategy, and Heir Sacrifice Appeasement. No settled contradiction recorded; kept the tension between Jing Ke's later literary侠士 memory and Sima Guang/Yang Xiong's harsher renyi-grounded judgment source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！
 
 Added source page for Qinji 116: Qin's attack on Yan after Jing Ke's failed assassination, Wang Jian's defeat of the Yan-Dai force and capture of Ji, Yan Wang Xi's killing of Yan Taizi Dan under Zhao Jia's advice, and the transition to the Chu campaign through Wang Ben, Li Xin, Meng Tian, Wang Jian, and anchoring-effect framing. Created Li Xin (Qin), Meng Tian, Wang Ben (Qin), and Heir Sacrifice Appeasement; updated overview, index, Yan Taizi Dan, Yan Wang Xi, Zhao Jia, Wang Jian, Qin Shi Huang, Qin State, Yan State, Chu State, Weak-State Assassination Strategy, Anchoring Effect, and Qin Eastward Pressure. No settled contradiction found; pre-imperial Qin Shi Huang wording and the anchoring interpretation are kept source-scoped.
@@ -9422,6 +9426,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！
 
 Added source page for Qinji 118-2: Changping Jun/Xiong Qi's Chu royal identity, pre-Qin 姓/氏 interpretation, the source dispute over whether Mi Wan was childless, Shiji and Zhanguoce scandal caution, Changping Jun's Chenying rebellion and brief Chu kingship, Xiang Yan's final resistance, Qin's temporary Chu commandery and later commandery subdivision, and the risk that remnant elites concentrate in Qi. Created Pre-Qin Surname-Clan Identity and Conquest Commandery Transition; updated overview, index, Changping Jun, Mi Wan, Chu Fuchu, Xiang Yan, Wang Jian, Meng Wu, Qin Shi Huang, Qin State, Chu State, Shiji, Sima Qian, Sima Guang, Zizhi Tongjian, Textual Variant Political Stakes, Historical Detective Reasoning, Evidence-Bound Historical Revision, Pregnancy Succession Substitution, Remnant Resistance Base, and Qin Administrative Standardization. Recorded contradictions/tensions: Qinji 118-2 disputes the earlier childless-Mi-Wan premise and gives a more extended Xiang Yan final sequence than Qinji 118-1.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

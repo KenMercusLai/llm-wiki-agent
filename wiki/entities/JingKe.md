@@ -2,7 +2,7 @@
 title: "荆轲 / Jing Ke"
 type: entity
 tags: [person, youxia, assassin, yan-state, wei-state, warring-states]
-sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
+sources: [zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ The same source makes Jing Ke's solo burden concrete. When Qin Wuyang panics at 
 
 The same source gives Jing Ke's death and afterlife. Badly wounded and disarmed, he sits in a "箕踞" posture, curses Ying Zheng, and says the mission failed because he wanted to take the Qin king alive and force a pact for [[YanTaiziDan|燕太子丹]]. The episode records the [[Shiji|《史记》]] / [[ZizhiTongjian|《资治通鉴》]] punitive wording that he was dismembered, then turns to [[TaoYuanming|陶渊明]] and [[GongZizhen|龚自珍]] as later readers who preserve him as a tragic youxia figure under [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]].
 
+[[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] adds the harsh evaluation after Yan's final destruction. [[SimaGuang|司马光]] and [[YangXiong|扬雄]] deny that Jing Ke's death should be called义: the episode says private repayment to Taizi Dan and courage with a dagger do not answer the political problem of saving [[YanState|燕国]]. This creates a reception tension with the later poetic memory, because Jing Ke can remain a tragic侠士 in literature while still failing the source's [[RenyiGroundedVirtue|renyi-grounded virtue]] test.
+
 ## Connections
 - [[TianGuang|田光]] - recommender and friend whose suicide morally binds the mission.
 - [[YanTaiziDan|燕太子丹]] - patron who appoints him as上卿 and materially supports the assassination plan.
@@ -37,3 +39,4 @@ The same source gives Jing Ke's death and afterlife. Badly wounded and disarmed,
 - [[WeakStateAssassinationStrategy|弱国刺杀式破局]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts explaining why a non-obvious candidate can become narratively fit for a death mission.
 - [[AssassinationAccessCredential|刺杀接近凭证]] and [[MistrustTriggeredMissionLaunch|疑忌触发式出发]] - 114-3 operational and trust-breakdown concepts.
 - [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]], [[TuqiongBijian|图穷匕见]], [[TaoYuanming|陶渊明]], [[GongZizhen|龚自珍]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - completed assassination attempt, death scene, and later literary memory.
+- [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]], [[YangXiong|扬雄]], [[YaoLi|要离]], [[NieZheng|聂政]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - later moral evaluation that denies assassin death automatic义 status.

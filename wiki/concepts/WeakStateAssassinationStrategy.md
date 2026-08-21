@@ -2,7 +2,7 @@
 title: "Weak-State Assassination Strategy / 弱国刺杀式破局"
 type: concept
 tags: [strategy, political-violence, assassination, diplomacy, warring-states]
-sources: [zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
+sources: [zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 
 [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]] adds the political afterlife of that failed shortcut. Qin's retaliation drives [[YanWangXi|燕王喜]] and [[YanTaiziDan|燕太子丹]] toward Liaodong, and [[ZhaoJia|赵嘉]] proposes killing Dan to appease Qin. The assassination strategy therefore fails twice: it fails tactically in the palace, and it fails strategically because sacrificing the sponsor through [[HeirSacrificeAppeasement|heir-sacrifice appeasement]] still cannot redirect Qin's conquest objective.
 
+[[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] gives the final verdict. [[WangBenQin|王贲]] captures [[YanWangXi|燕王喜]] in Liaodong in 222 BCE, so the assassination shortcut and later killing of Taizi Dan only postpone Yan's end. [[SimaGuang|司马光]] then reframes the failure as moral and strategic: a weak ruler should repair governance, people-support, and diplomacy rather than turn private grievance into assassin politics.
+
 ## Key Claims
 - Assassination can appear attractive when direct war and slow alliance repair both seem unavailable.
 - The strategy depends on converting a state problem into a person problem: reach the ruler, induce succession disorder, and buy time.
@@ -36,6 +38,7 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - Qinji 115-2 shows the end-state risk: even a plan that wins palace proximity can fail in seconds and accelerate military retaliation against the weak state.
 - The episode's Qin Wuyang counterfactual remains source-scoped: it identifies assistant failure as important without proving that a braver assistant would certainly have changed the outcome.
 - Qinji 116 adds the failed-appeasement aftermath: killing the sponsor does not end the stronger state's campaign when the stronger state seeks conquest rather than discrete revenge.
+- Qinji 119-1 adds the retrospective judgment: assassination is not just unreliable but morally defective when courage and loyalty are detached from [[RenyiGroundedVirtue|仁义为本的信勇]] and public statecraft.
 
 ## Connections
 - [[YanTaiziDan|燕太子丹]], [[JingKe|荆轲]], [[TianGuang|田光]], [[FanWuji|樊无忌]], [[QinWuyang|秦武阳]], and [[GaoJianli|高渐离]] - source actors.
@@ -46,3 +49,4 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - [[MengJia|蒙嘉]], [[Xianyang|咸阳]], [[FarmingWarStatecraft|耕战逻辑]], and [[QinAdministrativeStandardization|秦国行政标准化]] - Qinji 115-1 palace access and structural-limit layer.
 - [[TuqiongBijian|图穷匕见]], [[WangJianQin|王翦]], [[ZhaoJia|赵嘉]], and [[DaiState|代国]] - Qinji 115-2 reveal, failed strike, and retaliation layer.
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - sponsor killing and failed survival bargain after the assassination fails.
+- [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]], [[WangBenQin|王贲]], [[SimaGuang|司马光]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - final Yan endpoint and hostile moral-political judgment.

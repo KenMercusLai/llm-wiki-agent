@@ -2,7 +2,7 @@
 title: "燕太子丹 / Crown Prince Dan of Yan"
 type: entity
 tags: [person, crown-prince, yan-state, warring-states, hostage]
-sources: [zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
+sources: [zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ The episode therefore makes Dan a patron whose urgency turns into mistrust. His 
 
 [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]] answers that cliffhanger through Dan's death. After Qin defeats the Yan-Dai force and captures Ji, Dan flees with [[YanWangXi|燕王喜]] toward Liaodong while [[LiXinQin|李信]] pursues. [[ZhaoJia|赵嘉]] then advises Yan Wang Xi to kill Dan and offer his head to Qin, so Dan's final role becomes a [[HeirSacrificeAppeasement|heir-sacrifice appeasement]] payment that fails to stop Qin's larger conquest.
 
+[[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p]] adds [[SimaGuang|司马光]]'s explicit judgment on Dan. Sima Guang refuses to call him贤 because he cannot endure personal humiliation, answers state crisis with shallow planning, and causes Yan's ancestral sacrifices to end. The source therefore turns Dan from a tragic sponsor into a ruler-instruction warning: private grievance and urgent courage do not meet the [[RenyiGroundedVirtue|仁义为本的信勇]] standard for public action.
+
 ## Connections
 - [[YanState|燕国]] - polity and royal house.
 - [[ZhaoState|赵国]] and [[Handan|邯郸]] - hostage setting.
@@ -37,3 +39,4 @@ The episode therefore makes Dan a patron whose urgency turns into mistrust. His 
 - [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn|Qinji 115-1]], [[MengJia|蒙嘉]], [[QinEastwardPressure|秦国东进压力]], and [[FarmingWarStatecraft|耕战逻辑]] - counterfactual limit on Dan's assassination strategy.
 - [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]], [[TuqiongBijian|图穷匕见]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - failed attack, source-scoped causation, and the cliffhanger around Dan's fate.
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], [[ZhaoJia|赵嘉]], [[LiXinQin|李信]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - flight to Liaodong, paternal execution, and failed appeasement.
+- [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]], [[SimaGuang|司马光]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - final moral-political critique of Dan's grievance-driven assassination policy.
