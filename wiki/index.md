@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！](sources/zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction, Xiangjun, possible Huangdi route imitation, and Zhang Liang's anti-Qin revenge setup.
 - [《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？](sources/zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's Langya stop, the Langya inscription, Yan-Qi fangshi, Xu Fu's sea-search story, and why Japanese Xu Fu legends do not prove broad descent from Xu Fu.
 - [《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山](sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 219 BCE eastern tour, Taishan fengshan, Qi-Lu scholars' ritual disagreement, Qin native sacrificial procedure, and the transition toward fangshi-led immortality-seeking.
 - [《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生](sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 220 BCE first westward journey through Longxi and Beidi, high-temple ritual in Qin old lands, Ji Miao/Taiyi cosmic capital planning, and chidao road rules as imperial transport infrastructure.
@@ -1190,6 +1191,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [湘君 / Xiangjun](entities/XiangJun.md) — Chu-linked local deity whose perceived obstruction of Qin Shi Huang at Xiangshan turns weather into sacred-political conflict.
+- [湘山祠 / Xiangshan Shrine](entities/XiangshanShrine.md) — Sacred site where Qin Shi Huang's blocked crossing leads to punitive felling of trees on Xiangshan.
+- [黄帝 / Huangdi](entities/Huangdi.md) — Mythic ruler invoked source-scopingly as a possible route model for Qin Shi Huang's repeated post-unification tours.
 - [琅琊山 / Langya Mountain](entities/LangyaMountain.md) — Sea-facing eastern-tour site where Qin Shi Huang stays, relocates households, and erects the Langya inscription.
 - [齐地八神 / Qi Eight Spirits](entities/QiEightSpirits.md) — Former Qi local deities whose worship lets Qin Shi Huang claim the conquered eastern sacred landscape.
 - [蓬莱 / Penglai](entities/Penglai.md) — Immortal island invoked in Xu Fu's sea-search explanation, functioning as unverifiable sacred geography in Qin immortality politics.
@@ -7618,6 +7622,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Local-God Conflict / 皇权与地方神冲突](concepts/ImperialLocalGodConflict.md) — Pattern where imperial travel meets local sacred authority and may choose incorporation or punitive domination.
 - [琅琊刻石政治纲领 / Langya Inscription Political Program](concepts/LangyaInscriptionPoliticalProgram.md) — Qinji 122-2 frame for public inscription as Qin doctrine about agriculture, standards, law, peace, and universal imperial authority.
 - [徐福日本后裔传说 / Xu Fu Japan Descent Legend](concepts/XuFuJapanDescentLegend.md) — Source-critical boundary separating Japanese Xu Fu shrines and legends from proven descent claims.
 - [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Qinji 122-1 frame for turning conquest into heavenly authorization through the Taishan/Liangfu ceremony.

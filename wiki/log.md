@@ -9383,6 +9383,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！
+
+Added source page for Qinji 122-3: Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction and Xiangjun explanation, punitive felling of Xiangshan trees, contrast between former-Qi ritual incorporation and Chu sacred-landscape humiliation, possible Huangdi route imitation, and Zhang Liang's Han-family revenge setup. Created Xiangjun, Xiangshan Shrine, Huangdi, and Imperial Local-God Conflict; updated overview, index, Qin Shi Huang, Qin State, Chu State, Jiuding, Xuzhou, Zhang Liang, Zizhi Tongjian, Imperial Tour Political Theater, and Weak-State Assassination Strategy. No settled contradiction found; Huangdi imitation is kept source-scoped and Zhang Liang's assassination details remain for the next source.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念
 
 Added source page for Qinji 120-2: Qin's post-unification imperial-title redesign, 制/诏/朕 language monopoly, 太上皇 genealogy, abolished谥法, numbered emperor sequence, five-virtue/water-virtue legitimacy, black color, October year-start, number six, 黔首 naming, law-fairness language, and harsh-punishment symbolism. Created Imperial Symbolic Standardization; updated overview, index, Qin Shi Huang, Qin State, Li Si, Qin Wang Wan, Qin Zhuangxiang Wang, Qin Wen Gong, Zou Yan, Xu Shen, Shuowen Jiezi, Yin-Yang Five-Phases Political Theory, Auspicious Omen Politics, Posthumous Name Politics, Legalist Ruler Technique, and Qin Administrative Standardization. No settled contradiction found; the anti-enfeoffment ending remains source-scoped because the transcript cuts off before a full郡县制 argument.
@@ -9510,6 +9514,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》122-2｜日本人到底是不是徐福的后代？
 
 Added source page for Qinji 122-2: Qin Shi Huang's post-fengshan eastern tour through Qi sacred geography, worship of the Eight Spirits, the Langya stay, household relocation and tax remission, the Langya inscription's agricultural/legal/standardization program, Yan-Qi fangshi petitions, Xu Fu's Penglai sea-search story, and the source-critical boundary around Japanese Xu Fu shrines and descent claims. Created Langya Mountain, Qi Eight Spirits, Penglai, Langya Inscription Political Program, and Xu Fu Japan Descent Legend; updated overview, index, Qin Shi Huang, Qin State, Xu Fu, Japan, Shiji, Zizhi Tongjian, Immortality Quest Politics, Fangshi Fraud And Authority, and Imperial Tour/Symbolic Standardization. No settled contradiction found; preserved the source-internal tension between accepting Shiji's return version and the later rhetorical "one-way" phrasing.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 
