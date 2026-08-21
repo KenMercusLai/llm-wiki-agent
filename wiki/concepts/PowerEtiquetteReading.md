@@ -2,7 +2,7 @@
 title: "Power Etiquette Reading / 权力礼仪细读"
 type: concept
 tags: [power, rhetoric, history, reading]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] adds the punitive side of etiquette through [[TianDan|田单]] and [[QiXiangWang|齐襄王]]. Tian Dan's removed cap, bare feet, exposed upper body, bowing, and self-requested death sentence are read as a deliberate lowering of noble status. Qi Xiang Wang's reply that Tian Dan is not guilty but must observe ministerial ritual turns etiquette into [[RitualizedMinisterHumiliation|ritualized minister humiliation]].
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds the host-guest stair case after the relief of [[Handan|邯郸]]. [[ZhaoDan|赵丹 / 赵孝成王]] tries to honor [[Xinlingjun|信陵君]] as a guest and asks him toward the west stair, but Xinlingjun instead keeps to the east-stair sequence behind the ruler. The episode reads the detail as rank management: Zhao can express gratitude, but Xinlingjun must not accept a form that makes him look equal to the king.
+
 ## Key Claims
 - Etiquette can be political data when direct statements are too dangerous or too staged.
 - Status recognition can move a powerful person more effectively than correct strategic warning.
@@ -27,11 +29,13 @@ The episode's point is that rebuke has a protocol. The host reads this as elite 
 - The permission to criticize can itself be part of a political scene, especially when the listener has lethal power.
 - Ritual address and rank boundaries can establish a claimant's political identity before any substantive argument is made.
 - Repeated ruler-minister etiquette can humiliate without naming a concrete offense, making status performance itself the punishment.
+- Refusing excessive honor can be as politically meaningful as receiving honor, especially when a guest's achievement risks turning gratitude into parity.
 
 ## Connections
 - [[HongmenYan|《鸿门宴》]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - source field.
 - [[ZhaoLiang|赵良]], [[ShangYang|公孙鞅 / 商鞅]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 25 remonstrance and warning branch.
 - [[ZhaoCangtang|赵苍唐]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[ZhongshanState|中山国]], and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 status-and-poetry branch.
 - [[TianDan|田单]], [[QiXiangWang|齐襄王]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[RitualizedMinisterHumiliation|礼节化臣属羞辱]] - Zhouji 81 self-abasement ritual and repeated hierarchy enforcement.
+- [[ZhaoDan|赵丹 / 赵孝成王]], [[Xinlingjun|信陵君]], [[TangmuYi|汤沐邑]], and [[FuChen|负臣]] - Zhouji 97 part 2 guest-stair ritual and reward restraint after rescue.
 - [[MoralFaceUnderPowerCompetition]] and [[MachiavellianRealism]] - adjacent power-judgment frames.
 - [[ClassicalProseReading]] and [[HistoricalDetectiveReasoning]] - reading methods it extends.

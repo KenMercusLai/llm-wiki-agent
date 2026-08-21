@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,10 @@ The rescue makes Xinlingjun the central Wei actor in breaking Qin's pressure on 
 
 [[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the immediate retrospective weight of Xinlingjun's success. [[HouYing|侯嬴]] completes his own promise by killing himself when Xinlingjun reaches the army, while the episode evaluates the rescue as preserving [[ZhaoState|赵国]] as the key barrier against Qin. The host's larger claim is that Xinlingjun's successful relief of Handan delayed Qin's swallowing of the six states by roughly forty years; this page preserves that as the episode's strategic reading, adjacent to the already recorded [[MoralCostOfEffectiveRescue|moral cost]] of Jin Bi's death.
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] turns from the rescue result to Xinlingjun's post-victory position. In Wei he remains the man who stole command authority; in Zhao he is the benefactor who saved the state. The episode names this as the [[FuChen|负臣]] problem: an extraordinary subject can correct a ruler's mistake and save the polity, but that same success makes stable coexistence with the overridden ruler difficult.
+
+The same source gives Xinlingjun's answer through ritual and continued patronage. When [[ZhaoDan|赵丹 / 赵孝成王]] wants to reward him with five cities and treat him as an honored guest, Xinlingjun refuses the status elevation, uses the east-stair action to avoid parity with the ruler, and lets the reward shrink toward a [[TangmuYi|汤沐邑]]. He then keeps practicing [[TalentAttractionThroughRespect|礼贤下士]] by seeking [[MaoGong|毛公]] among gamblers and [[XueGong|薛公]] among wine sellers, which extends his reputation but may put him into delicate comparison with [[Pingyuanjun|平原君]] inside Handan.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -41,3 +45,4 @@ The rescue makes Xinlingjun the central Wei actor in breaking Qin's pressure on 
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Daliang|大梁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[ConfucianLowOfficeReclusion|儒家低职隐居]] - Zhouji 96 part 5 backfilled patronage-reputation scene.
 - [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 rescue success and ethical cost.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Handan|邯郸]], [[ZhaoState|赵国]], and [[QinState|秦国]] - Zhouji 97 part 1 rescue aftermath and strategic significance.
+- [[FuChen|负臣]], [[TangmuYi|汤沐邑]], [[MaoGong|毛公]], [[XueGong|薛公]], [[PowerEtiquetteReading|权力礼仪细读]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 post-rescue status restraint and Zhao-side low-status worthy branch.

@@ -2,7 +2,7 @@
 title: "Moral Cost of Effective Rescue / 成事的道德代价"
 type: concept
 tags: [ethics, statecraft, warfare, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]
 last_updated: 2026-08-21
 ---
 
@@ -16,12 +16,15 @@ The concept therefore marks a difference between "effective" and "morally clean.
 
 [[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the successful-outcome side of the frame. The relief of [[Handan|邯郸]] is now described as strategically enormous because it preserves [[ZhaoState|赵国]] as a barrier against [[QinState|秦国]], yet the previous moral cost does not disappear. [[HouYing|侯嬴]] and [[ZhuHai|朱亥]] receive侠义 styling, but the page preserves the distinction between admiring the rescue network's effectiveness and erasing [[JinBi|晋鄙]]'s death as a duty-bound obstacle.
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds the political afterlife of the same cost. Xinlingjun's rescue is now treated as a [[FuChen|负臣]] act: effective enough to save Zhao, but unauthorized enough that he cannot safely return to Wei as though nothing happened. The moral cost therefore has a ruler-minister dimension as well as a Jin Bi dimension.
+
 ## Key Claims
 - A state-saving result can still carry a serious ethical stain.
 - The moral difficulty is sharper when the sacrificed person is loyal to duty rather than an enemy in battle.
 - "Necessary for success" and "justified without remainder" should not be treated as the same claim.
 - The episode uses the Jin Bi killing to keep heroic history from becoming a license for unlimited means.
 - Later strategic success can increase admiration for an action without removing the original moral residue.
+- A successful irregular rescue can also leave the rescuer politically displaced because the ruler whose authority was bypassed cannot easily absorb the correction.
 
 ## Connections
 - [[StealingTigerTalliesToRescueZhao|窃符救赵]], [[Xinlingjun|信陵君]], [[ZhuHai|朱亥]], and [[JinBi|晋鄙]] - source event and actors.
@@ -29,3 +32,4 @@ The concept therefore marks a difference between "effective" and "morally clean.
 - [[AristocraticHonorOverLife|贵族名誉高于生命]], [[DeathPartyLoyalty|死党之义与守职奉上]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - adjacent honor, loyalty, and state-order concepts.
 - [[QinState|秦国]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - crisis context that makes the action urgent.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[RetainerReciprocityEthic|士为知己者死]], and [[WarringStatesRetainerPatronage|战国养士]] - Zhouji 97 part 1 rescue afterlife and侠义 framing.
+- [[FuChen|负臣]], [[WeiAnxiWang|魏安釐王]], and [[TangmuYi|汤沐邑]] - Zhouji 97 part 2 post-rescue displacement, ruler-minister risk, and restrained reward.

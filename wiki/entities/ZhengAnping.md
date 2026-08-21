@@ -2,7 +2,7 @@
 title: "郑安平 / Zheng Anping"
 type: entity
 tags: [person, wei-state, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ His wiki role is intermediary rather than independent strategist. Zheng Anping m
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] gives Zheng Anping a later Qin-side outcome. After [[Xinlingjun|信陵君]] seizes the Wei army and the Wei-Chu-Zhao side breaks the Qin pressure around [[Handan|邯郸]], Zheng Anping is described as surrendering with 20,000 Qin troops. The episode uses this as one marker that [[StealingTigerTalliesToRescueZhao|窃符救赵]] produces a real battlefield reversal rather than only a dramatic command seizure.
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds the personnel backstory and legal fallout of that surrender. Because Zheng Anping had helped Fan Ju in Wei, [[FanJu|范雎]] later recommended him into Qin office; once Zheng surrenders, the episode treats that recommendation as a public-risk consequence of private repayment. Qin law would implicate the recommender, but [[QinZhaoxiangwang|秦昭襄王]] protects Fan Ju and suppresses discussion of the case.
+
 ## Connections
 - [[FanJu|范雎]] - rescued figure.
 - [[WeiQiWarringStates|魏齐]] and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - violent setting that makes rescue necessary.
 - [[WangJiQin|王稽 / 王继]] and [[QinState|秦国]] - downstream discovery and destination.
 - [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - broader movement from danger in one court to opportunity in another.
 - [[Xinlingjun|信陵君]], [[Handan|邯郸]], [[WangHe|王龁]], and [[HezongAlliance|合纵]] - Zhouji 96 part 6 Qin defeat and surrender context.
+- [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], and [[TalentReferralQuality]] - Zhouji 97 part 2 recommendation liability and royal exception.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》97-2丨揭秘信陵君凭什么是四公子之首](sources/zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f.md) — 芮淇讲透资治通鉴 episode on Zheng Anping's surrender and Fan Ju's recommendation risk, Xinlingjun's post-rescue identity as a 负臣, Zhao Xiaocheng Wang's reward and stair-ritual handling, and Xinlingjun's continued low-status recruitment of Mao Gong and Xue Gong in Zhao.
 - [《资治通鉴·周纪》97-1丨白起之死](sources/zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6.md) — 芮淇讲透资治通鉴 episode on Hou Ying's death, Zhu Hai's侠义 image, the Wei-Chu-Zhao relief of Handan, Bai Qi's demotion and forced suicide at 杜邮, and the double moral-political memory of Changping.
 - [《资治通鉴·周纪》96丨毛遂自荐（6）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi.md) — 芮淇讲透资治通鉴 episode completing Xinlingjun's 窃符救赵: Hou Ying's tiger-tally plan, Ru Ji's palace access, Zhu Hai's killing of Jin Bi, the Wei-Chu-Zhao relief of Handan, and the moral cost of effective rescue.
 - [《资治通鉴·周纪》96丨毛遂自荐（5）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's reputation, Hou Ying's gatekeeper/recluse identity, the "虚左" reception scene, Zhu Hai's market detour, and public humility as a test of礼贤下士.
@@ -1129,6 +1130,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [毛公 / Mao Gong](entities/MaoGong.md) — Zhao low-status worthy associated with gamblers whom Xinlingjun seeks on foot after settling in Zhao.
+- [薛公 / Xue Gong](entities/XueGong.md) — Zhao low-status worthy selling wine slurry, paired with Mao Gong as evidence of Xinlingjun's continued礼贤下士.
 - [景阳 / Jing Yang](entities/JingYang.md) — Chu general whose rescue force can cooperate against Qin only after Xinlingjun forces Wei's army into motion.
 - [如姬 / Ru Ji](entities/RuJi.md) — Wei palace insider whose gratitude to Xinlingjun and access to the king's bedroom enable the theft of the tiger tally.
 - [朱亥 / Zhu Hai](entities/ZhuHai.md) — Daliang butcher and游侠 figure whose market conversation tests Xinlingjun and whose later violence makes 窃符救赵 work at moral cost.
@@ -7395,6 +7398,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [负臣 / Corrective Disobedient Minister](concepts/FuChen.md) — Ruler-minister pattern where a subject overrides command to correct a ruler's mistake, saving the state while becoming hard for the ruler to tolerate.
+- [汤沐邑 / Tangmu Yi](concepts/TangmuYi.md) — Polite reward form whose tax-revenue grant lets gratitude be expressed without over-elevating a guest's political rank.
 - [Duyou Sword / 杜邮剑](concepts/DuyouSword.md) — Cultural allusion from Bai Qi's forced suicide at 杜邮, linking功臣 exit failure, ruler suspicion, command refusal, and the moral memory of Changping.
 - [Moral Cost of Effective Rescue / 成事的道德代价](concepts/MoralCostOfEffectiveRescue.md) — Ethical frame for successful emergency action that saves a state while killing a duty-bound or innocent obstacle.
 - [Stealing Tiger Tallies to Rescue Zhao / 窃符救赵](concepts/StealingTigerTalliesToRescueZhao.md) — Xinlingjun's irregular rescue sequence using stolen command credentials, palace access, retainer violence, and allied coordination to break Qin's pressure on Handan.

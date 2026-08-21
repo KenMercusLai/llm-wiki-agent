@@ -2,7 +2,7 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
 last_updated: 2026-08-21
 ---
 
@@ -40,6 +40,8 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 
 [[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the after-action moral styling of that same network. [[HouYing|侯嬴]]'s timed suicide turns patronage recognition into [[RetainerReciprocityEthic|士为知己者死]], while [[ZhuHai|朱亥]] is described as a典型游侠 whose low-status market identity did not prevent death-level commitment. The concept therefore now includes not only how retainer networks execute state action, but how their participants are remembered through侠义 after the action succeeds.
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds the post-rescue competition layer. Xinlingjun arrives in Zhao as a celebrated rescuer and keeps seeking low-status worthies, specifically [[MaoGong|毛公]] among gamblers and [[XueGong|薛公]] among wine sellers. Because [[Pingyuanjun|平原君]] already has a major Handan household, patronage now becomes a shared urban talent field where reputation, humility, and retainer movement can alter relations among the [[WarringStatesFourLords|战国四公子]].
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -56,6 +58,7 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - Zhouji 96 part 5 adds a reputation-production mode: public humility toward a low-status worthy can make a patronage network more credible than gifts alone.
 - Zhouji 96 part 6 adds an execution mode: a patronage network can convert private obligation and low-status retainers into emergency state action, while also bypassing public command order.
 - Zhouji 97 part 1 adds an afterlife mode: patronage actors can become侠义 exemplars once their loyalty and violence are interpreted after the political result.
+- Zhouji 97 part 2 adds a host-state competition mode: a displaced patron can keep attracting worthies inside another lord's city, turning humility and association into a live political comparison.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -74,3 +77,4 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 public respect and recluse recruitment branch.
 - [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 network execution and ethical risk.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[RetainerReciprocityEthic|士为知己者死]], and [[Xinlingjun|信陵君]] - Zhouji 97 part 1侠义 afterlife of the rescue network.
+- [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 continued low-status recruitment after Xinlingjun settles in Zhao.

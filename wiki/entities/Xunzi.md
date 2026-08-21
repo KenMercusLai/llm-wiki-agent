@@ -2,7 +2,7 @@
 title: "荀子 / Xunzi"
 type: entity
 tags: [person, philosopher, confucianism, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
+sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The main political frame is [[XunzianWangbaThreePaths|荀子王霸三分法]]. I
 
 [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] returns to that evaluative scale through [[ZiChan|子产]] and [[GuanZhong|管仲]]. Zi Chan's kindness is valuable but must become public governance, while Guan Zhong's administration and economic imagination are treated as real "能为政" achievement that still falls short of "修礼." The episode therefore makes Xunzi's hierarchy concrete: political competence can strengthen a state without creating durable ritual order.
 
+[[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] adds Xunzi through the cited idea that a [[FuChen|负臣]] can be a ruler's treasure. The episode applies the phrase to [[Xinlingjun|信陵君]] after he overrides [[WeiAnxiWang|魏安釐王]] through [[StealingTigerTalliesToRescueZhao|窃符救赵]], preserving the Xunzian ideal while stressing the political difficulty of any ruler tolerating such a corrective subject in practice.
+
 ## Connections
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - compiler and text using Xunzi as political instruction.
 - [[XunziText|《荀子》]], [[XunzianWangbaThreePaths|荀子王霸三分法]], and [[XingETheory|性恶论]] - text and concepts added by Zhouji 71.
@@ -27,3 +29,4 @@ The main political frame is [[XunzianWangbaThreePaths|荀子王霸三分法]]. I
 - [[WarringStatesPeriod|战国时期]] - historical setting.
 - [[WeySijun|卫嗣君 / Wey Sijun]], [[SurveillanceBasedRulerControl|窥察制衡式君术]], [[ConfucianIdealGovernance|儒家理想治理]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 74 ruler-technique and Xunzi evaluation branch.
 - [[ZiChan|子产]], [[GuanZhong|管仲]], [[LuxuryConsumptionEconomicCirculation|奢侈消费的经济循环]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - Zhouji 75-1 applied evaluation branch.
+- [[FuChen|负臣]], [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 2 corrective disobedient minister frame.
