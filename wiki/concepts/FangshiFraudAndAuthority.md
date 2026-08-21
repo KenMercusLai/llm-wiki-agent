@@ -2,7 +2,7 @@
 title: "Fangshi Fraud And Authority / 方士骗术与权威"
 type: concept
 tags: [fraud, religion, politics, china, social-engineering]
-sources: [zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 
 [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]] adds the risk after authority succeeds. [[LuSheng|卢生]]'s advice about hidden residence and moving unpredictably is persuasive enough that [[QinShiHuang|秦始皇]] reorganizes palace movement and punishes leaks. That turns specialist authority into [[FangshiAccountabilityTrap|方士问责陷阱]]: once the emperor obeys and no immortality appears, the same unverifiable claims that produced influence can expose the specialist to lethal blame.
 
+[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]] adds the escape-and-backlash phase. [[HouShengFangshi|侯生]] and [[LuSheng|卢生]] do not solve the failed promise; they flee and criticize Qin Shi Huang's political style. Their criticism makes fangshi authority part of a broader [[CourtFeedbackCollapse|court information failure]] and helps trigger the [[QinKengruIncident|秦代坑儒事件]].
+
 ## Key Claims
 - Scam authority often begins by meeting a real emotional need.
 - Props, distance, darkness, special vocabulary, staged verification, and failure reinterpretation can make ordinary technique feel supernatural.
@@ -26,6 +28,7 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 - Qinji 122-2 adds failure reinterpretation at imperial scale: the failed specialist can blame inaccessible sacred conditions and turn disappointment into a larger budget.
 - Qinji 123-1 adds that a failed specialist can also convert disappointment into a warning text, making authority consequential even without a direct resource request.
 - Qinji 125-1 adds that successful persuasion creates later delivery risk: if hidden movement still produces no immortals, fangshi claims become politically dangerous to their makers.
+- Qinji 125-2 adds that practitioners may try to exit when delivery risk becomes lethal, but exit can itself trigger punitive backlash.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -35,4 +38,5 @@ The concept does not claim every believer or practitioner is a fraud. Its bounda
 - [[zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh|Qinji 122-2]], [[Penglai|蓬莱]], and [[XuFuJapanDescentLegend|徐福日本后裔传说]] - Xu Fu's failed mission, renewed resource request, and later legend boundary.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[LuSheng|卢生]], and [[ProphecyTriggeredPolicy|预言触发政策]] - failed search returning as warning and interpretive authority.
 - [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[ImperialItinerarySecrecy|帝王行踪保密]], and [[FangshiAccountabilityTrap|方士问责陷阱]] - hidden-residence advice and the danger of unmet miracle promises.
+- [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]], [[HouShengFangshi|侯生]], [[QinKengruIncident|秦代坑儒事件]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - flight, criticism, and punitive backlash.
 - [[SocialEngineeringFraud]], [[ScientificSkepticism]], and [[OccamsRazor]] - modern anti-fraud frames.

@@ -9555,3 +9555,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒
+
+Added source page for Qinji 125-2: the completed 212 BCE坑儒 branch after the Qinji 125-1 prelude, including Hou Sheng and Lu Sheng's flight and criticism, Qin Shi Huang's fear-driven court ecology, Xianyang scholar interrogations, 460-plus executions, Fusu's remonstrance, and Fusu's dispatch to Shangjun under Meng Tian. Created Fu Su, Hou Sheng (Fangshi), and Qin Kengru Incident; updated overview, index, Qin Shi Huang, Qin State, Lu Sheng, Meng Tian, Qin Book-Burning Policy, Fangshi Fraud And Authority, Fangshi Accountability Trap, Immortality Quest Politics, Imperial Itinerary Secrecy, and Court Feedback Collapse. No settled contradiction found; preserved the source's boundary between焚书 and坑儒 and its uncertainty over whether the punished people were mainly fangshi,儒生, or a mixed group.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

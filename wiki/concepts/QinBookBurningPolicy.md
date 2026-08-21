@@ -2,7 +2,7 @@
 title: "秦代焚书令 / Qin Book-Burning Policy"
 type: concept
 tags: [qin-history, knowledge-control, legalism, censorship, statecraft]
-sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The source treats the policy as political statecraft. It is meant to protect the
 
 The same source also marks the policy's limits. Destroying six-state histories creates cultural loss, and harsh bans can produce concealment rather than compliance. [[KongFu|孔鲋]] hiding books becomes the example that coercive erasure can unintentionally strengthen preservation behavior among committed readers.
 
+[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]] reinforces the boundary by narrating the separate [[QinKengruIncident|秦代坑儒事件]]. The later punishment case arises from fangshi flight, criticism, and court interrogation rather than from Li Si's book policy, even though later memory often compresses both into "焚书坑儒."
+
 ## Key Claims
 - The policy belongs to "焚书," not automatically to the separate坑儒 incident.
 - It is triggered by an administrative-political dispute over enfeoffment versus direct rule.
@@ -24,6 +26,7 @@ The same source also marks the policy's limits. Destroying six-state histories c
 - Legal learning is not abolished; it is redirected to officials.
 - The source frames the policy as rational from Qin's political-control perspective while still culturally destructive.
 - Book burning can be self-defeating when it motivates careful hiding and later recovery.
+- Qinji 125-2 confirms that this policy should not be used as direct evidence for the separate坑儒 punishment sequence.
 
 ## Connections
 - [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l|Qinji 124]] - source episode.
@@ -31,3 +34,4 @@ The same source also marks the policy's limits. Destroying six-state histories c
 - [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]] - direct-rule settlement being defended against复古 argument.
 - [[OfficialLearningMonopoly|学在王官式知识垄断]], [[KnowledgeMonopoly]], and [[ImperialHomogenization|帝国整齐划一]] - broader control frames.
 - [[Shijing|《诗经》]], [[Shangshu|《尚书》]], [[KongFu|孔鲋]], and [[ChenYu|陈馀]] - banned classics and preservation counterexample.
+- [[QinKengruIncident|秦代坑儒事件]], [[HouShengFangshi|侯生]], [[LuSheng|卢生]], and [[FuSu|扶苏]] - separate punishment branch narrated in Qinji 125-2.

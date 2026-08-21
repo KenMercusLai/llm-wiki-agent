@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒](sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw.md) — 芮淇讲透资治通鉴 episode completing the 212 BCE坑儒 branch: fangshi flight, Qin Shi Huang's anger, Xianyang interrogations, 460-plus executions, Fusu's remonstrance, and the boundary separating坑儒 from焚书.
 - [《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫](sources/zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 212 BCE Afang Palace plan, Qin Straight Road, Lishan mausoleum labor, Xianyang expansion, hidden itinerary regime, Lu Sheng's advice, and the prelude to the later坑儒 branch.
 - [《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！](sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l.md) — 芮淇讲透资治通鉴 episode on the 213 BCE Qin book-burning order, Chunyu Yue's revived enfeoffment argument, Li Si's official-learning logic, exceptions and penalties, cultural loss, and Kong Fu's hidden-book counterexample.
 - [《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险](sources/zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy.md) — 芮淇讲透资治通鉴 episode on Qin's 214 BCE southern Baiyue campaign, status-based conscription of fugitives/赘婿/merchants, post-unification war inertia from Qin's military-merit order, Lingnan commandery setup, Meng Tian's Xiongnu campaign, and Zhang Liang's Huangshi Gong encounter.
@@ -1195,6 +1196,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son in Qinji 125-2, punished with a Shangjun assignment after remonstrating against the坑儒 executions.
+- [侯生 / Hou Sheng (Fangshi)](entities/HouShengFangshi.md) — Qin fangshi in Qinji 125-2 whose flight and criticism with Lu Sheng help trigger the坑儒 incident; distinct from Qi chancellor 后胜.
 - [阿房宫 / Afang Palace](entities/AfangPalace.md) — Late Qin palace project south of the Wei River, framed as both capital expansion and unfinished symbolic mega-project.
 - [秦始皇陵 / Qin Shi Huang Mausoleum](entities/QinShiHuangMausoleum.md) — Lishan burial project whose priority after Qin Shi Huang's death redirects labor away from Afang Palace.
 - [秦直道 / Qin Straight Road](entities/QinZhidao.md) — Meng Tian-led road project from Yunyang to Jiuyuan, treated as part of late Qin construction overload.
@@ -7644,6 +7647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [秦代坑儒事件 / Qin Kengru Incident](concepts/QinKengruIncident.md) — Qinji 125-2 frame for the 212 BCE punishment case following fangshi flight and criticism, kept separate from Qin's book-burning policy.
 - [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — Qinji 125-1 pattern where overlapping imperial mega-projects show state capacity while straining labor, succession timing, and social stability.
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.
 - [Fangshi Accountability Trap / 方士问责陷阱](concepts/FangshiAccountabilityTrap.md) — Late-stage risk where fangshi promises gain influence but become dangerous when immortal results never arrive.

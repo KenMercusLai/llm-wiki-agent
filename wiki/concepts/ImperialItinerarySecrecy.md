@@ -2,7 +2,7 @@
 title: "Imperial Itinerary Secrecy / 帝王行踪保密"
 type: concept
 tags: [empire, secrecy, qin, court-politics, coercion]
-sources: [zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
+sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
 last_updated: 2026-08-22
 ---
 
@@ -14,15 +14,19 @@ The episode shows that this advice does not remain private religious practice. Q
 
 The concept sits between [[ImmortalityQuestPolitics|求仙政治]] and coercive court management. The immediate aim is sacred and defensive: avoid ghosts, wait for immortals, and become a "真人." The governing result is terror around information flow, with high officials forced to wait for reports at Xianyang Palace because the emperor's whereabouts become opaque.
 
+[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]] shows the downstream political cost of that opaque court environment. The same fear of punishment that surrounds movement and leaks also appears in [[HouShengFangshi|侯生]] and [[LuSheng|卢生]]'s criticism: officials, scholars, and prediction specialists avoid plain speech because errors or unwelcome words can become capital danger.
+
 ## Key Claims
 - Secrecy becomes more dangerous when sacred hope and personal security fuse with imperial power.
 - Concealing the ruler's location can turn ordinary palace knowledge into a capital offense.
 - The source's leak episode shows a collective-punishment logic: when the leaker cannot be identified, everyone present can become expendable.
 - Itinerary secrecy is the inverse of [[ImperialTourPoliticalTheater|帝国巡游政治剧场]]: the ruler still moves through the empire, but the political signal shifts from visible display to controlled invisibility.
+- Qinji 125-2 connects hidden movement to wider [[CourtFeedbackCollapse|court feedback collapse]]: fear around information does not stay confined to palace location.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[LiSi|李斯]], and [[Xianyang|咸阳]] - ruler, adviser, leak-related minister, and palace-capital setting.
 - [[ImmortalityQuestPolitics|求仙政治]] and [[FangshiFraudAndAuthority|方士骗术与权威]] - specialist advice and immortal-seeking context.
 - [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - contrasting public-travel pattern.
 - [[FangshiAccountabilityTrap|方士问责陷阱]] - downstream risk when hidden travel still does not produce immortals.
+- [[QinKengruIncident|秦代坑儒事件]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - wider punishment and information-failure consequences in Qinji 125-2.
 - [[ImperialConstructionOverload|帝国工程过载]] - palace connection network as part of the same late-Qin mobilization field.

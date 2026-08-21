@@ -2,8 +2,8 @@
 title: "Court Feedback Collapse / 君臣反馈失灵"
 type: concept
 tags: [governance, leadership, court-politics, pre-qin-history]
-sources: [zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-53-qinhuiwang-yong-zhangyi-huan-dipi-lvmo2cwbafcg2gnxliuo18fewimk, zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac, zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-22
 ---
 
 # Court Feedback Collapse / 君臣反馈失灵
@@ -40,6 +40,8 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 
 [[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]] adds a Qin personal-rule crisis version. After the [[LaoAi|嫪毐]] rebellion, [[QinShiHuang|嬴政 / 秦始皇]] reportedly kills twenty-seven people for speaking on [[ZhaoJi|赵姬]]'s behalf, making correction itself a capital offense. [[MaoJiao|茅焦]]'s [[DeathDefyingRemonstrance|赴死式直谏]] briefly breaks the collapse by accepting death risk and redirecting the ruler toward the public consequence of killing kin and remonstrants.
 
+[[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]] adds the late-imperial Qin version. [[HouShengFangshi|侯生]] and [[LuSheng|卢生]] describe a court where doctoral officials are decorative, ministers cannot decide, prediction specialists risk death for failed forecasts, and everyone says only what [[QinShiHuang|秦始皇]] wants to hear. The feedback failure then becomes part of the road to the [[QinKengruIncident|秦代坑儒事件]].
+
 ## Key Claims
 - A ruler's self-certainty can silence capable advisers before policy is tested.
 - Ministerial flattery is dangerous because it disguises information failure as harmony.
@@ -58,6 +60,7 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - A partial correction can fail if favorites later supply a more emotionally satisfying suspicion frame.
 - Direct remonstrance can repair a captured information environment for a moment, but the target of earlier suspicion may continue acting as though the old danger remains.
 - When a ruler kills remonstrants, later feedback may require extraordinary death-facing courage, which is a sign of institutional failure rather than a sustainable advice system.
+- In Qinji 125-2, feedback collapse is tied to administrative overload and prediction risk: the ruler handles everything personally, while others survive by withholding unwelcome information.
 
 ## Connections
 - [[Zisi|子思]] - speaker and critic of the pattern.
@@ -79,3 +82,4 @@ Zisi sharpens the point by extending it down the hierarchy: if the ruler believe
 - [[QiXiangWang|齐襄王]], [[TianDan|田单]], [[DiaoBo|刁伯]], [[PoliticalCreditAppropriation|善行君恩化]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 partial correction, favored-minister slander, and renewed suspicion.
 - [[LuZhonglian|鲁仲连]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[PowerExitTrap|权力退场困境]] - Zhouji 81 part 2 aftereffect of suspicion on Tian Dan's field conduct.
 - [[MaoJiao|茅焦]], [[QinShiHuang|嬴政 / 秦始皇]], [[ZhaoJi|赵姬]], [[LaoAi|嫪毐]], and [[DeathDefyingRemonstrance|赴死式直谏]] - Qinji 108-1 killed-remonstrant and feedback-breakthrough branch.
+- [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]], [[HouShengFangshi|侯生]], [[LuSheng|卢生]], [[FuSu|扶苏]], and [[QinKengruIncident|秦代坑儒事件]] - late-Qin fear, flattery, and punishment branch.
