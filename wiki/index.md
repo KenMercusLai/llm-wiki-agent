@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420.md) — All-In episode on Anthropic's coding-led enterprise run, OpenAI's consumer-versus-enterprise fork, AI moats and valuation risk, private-equity AI deployment, Meta/YouTube youth-safety lawsuits, age verification, and PCAST's science-policy remit.
 - [Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like](sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165.md) — All-In interview with Bryan Johnson on 5-MeO-DMT, psychedelic longevity claims, default-mode-network reset, neuroplasticity, measurement limits, identity disruption risk, and frontier longevity therapies.
+- [《资治通鉴·秦纪》99-2｜明明一脸“败相”的蔡泽 凭什么拜相](sources/zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe.md) — 芮淇讲透资治通鉴 episode completing Cai Ze's persuasion of Fan Ju into resignation, Cai Ze's brief Qin chancellorship, Fan Ju's linked personnel fallout, and Xunzi's Lanling appointment under Chunshenjun.
 - [《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相](sources/zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk.md) — 芮淇讲透资治通鉴 episode opening 秦纪, explaining Qin-centered chronicle periodization before 221 BCE, and introducing Cai Ze's provocation of an exposed Fan Ju through Tang Ju's physiognomy and a 功成身退 warning.
 - [《资治通鉴·周纪》98丨历史上首个老赖登场了！](sources/zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu.md) — 芮淇讲透资治通鉴 episode closing 周纪 with Zhou Nan Wang's failed anti-Qin coalition, war borrowing, the "债台高筑" idiom story, Qin's extinction of Western Zhou, and the transition toward 秦纪.
 - [《资治通鉴·周纪》97-4丨史上为事业送老婆第一人](sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's persuasion of Yangquan Jun and Huayang Furen, Yiren's jade-tally adoption as succession proof, Zhao Ji's transfer to Yiren, and the source-critical doubts around Qin Shi Huang's Lu Buwei paternity rumor.
@@ -1142,7 +1143,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Venmo](entities/Venmo.md) — Payments company named with Braintree in the Bryan Johnson All-In source as biographical context.
 - [Kernel](entities/KernelCompany.md) — Brain-measurement company connected to Johnson's quantified psychedelic and ketamine experiments, distinct from kernel-development AI agents.
 - [NewLimit](entities/NewLimit.md) — Cellular-reprogramming longevity company named in the Bryan Johnson source as an investment and safety-control example.
-- [蔡泽 / Cai Ze](entities/CaiZe.md) — Yan persuader who enters Qin by provoking Fan Ju at a moment of personnel-liability crisis and opens a 功成身退 warning.
+- [兰陵 / Lanling (Warring States)](entities/LanlingWarringStates.md) — Culturally important former Lu territory under Chu where Xunzi serves as magistrate in the Qinji 99-2 source.
+- [临武君 / Linwu Jun](entities/LinwuJun.md) — Source-scoped military-debate counterpart for Xunzi before Zhao Xiaocheng Wang.
+- [蔡泽 / Cai Ze](entities/CaiZe.md) — Yan persuader who provokes Fan Ju, completes a 功成身退 warning, and briefly becomes Qin chancellor.
 - [唐举 / Tang Ju](entities/TangJu.md) — Warring States physiognomist whose forecast for Cai Ze lets the episode move from appearance to talent assessment.
 - [赵姬 / Zhao Ji](entities/ZhaoJi.md) — Woman transferred from Lu Buwei to Yiren, mother of Ying Zheng in the source, and center of the disputed Lu Buwei paternity rumor.
 - [阳泉君 / Lord Yangquan](entities/YangquanJun.md) — Huayang Furen's brother and Lu Buwei's access route for turning Yiren's adoption into a Qin succession plan.
@@ -1258,7 +1261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王蠋 / Wang Zhu](entities/WangZhu.md) — Qi worthy man and former official who refuses Yan service after conquest and dies rather than serve two rulers or endanger his city.
 - [田法章 / Tian Fazhang](entities/TianFazhang.md) — Qi Min Wang's son, introduced as a hidden fugitive after Qi's collapse and his father's violent death.
 - [卓齿 / Zhuo Chi](entities/ZhuoChi.md) — Chu commander who turns from rescuing Qi Min Wang to arresting and executing him after the anti-Qi coalition breaks Qi.
-- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Sima Guang's Wangba quotation, Jixia biography, ritual-law politics, and 性恶论 contrast with Mencius.
+- [荀子 / Xunzi](entities/Xunzi.md) — Warring States Confucian thinker developed through Wangba political theory, Jixia biography, Lanling administration, and 性恶论 contrast with Mencius.
 - [《荀子》 / Xunzi](entities/XunziText.md) — Pre-Qin text whose Wangba chapter supplies the episode's three-path ruler framework and whose Chengxiang chapter appears as a transcript-noisy side note.
 - [秦二世 / 胡亥 / Qin Er Shi](entities/QinErshi.md) — Qin ruler used as a comparison for failed rulers who cannot safely return to ordinary life once political support collapses.
 - [周武王 / King Wu of Zhou](entities/ZhouWuwang.md) — Classical kingly-rule exemplar paired with Shang Tang in the episode's Xunzian Wangba framework.
