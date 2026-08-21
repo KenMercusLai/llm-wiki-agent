@@ -2,7 +2,7 @@
 title: "赵姬 / Zhao Ji"
 type: entity
 tags: [person, qin-state, warring-states, court-politics, historiography]
-sources: [zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
+sources: [zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b, zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy, zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,10 @@ The episode is careful about the famous paternity rumor. It says the story that 
 
 The same source adds an explicit historiographical caution. It cites [[Shiji|《史记》]]'s "太后淫不止" type of wording as a powerful but flattening frame, then uses [[ZhangAiling|张爱玲 / Eileen Chang]], [[JinPingMei|《金瓶梅》]], and [[HongLouMeng|《红楼梦》]] to ask what is lost when Zhao Ji is written only as appetite. This page records that as [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]]: a reading warning, not a denial that the Lao Ai relationship became a severe Qin court crisis.
 
+[[zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b]] completes the Zhao Ji branch by following her from hidden pregnancy into [[YongchengQin|雍城]] residence, secret motherhood with Lao Ai's two sons, scandal exposure, confinement, and later return to [[Xianyang|咸阳]] after [[MaoJiao|茅焦]]'s advice. It contrasts her with [[XuanTaihou|芈八子 / 宣太后]]: both are Qin queen-mother figures tied to politically consequential relationships, but the host argues Zhao Ji lacks Xuan Taihou's power base and therefore cannot turn intimacy into accepted policy.
+
+The same episode gives Zhao Ji its most sympathetic wiki reading so far. The host describes her as a woman repeatedly instrumentalized: [[LuBuwei|吕不韦]] gives her away, [[QinZhuangxiangwang|异人 / 子楚]] and [[QinShiHuang|嬴政 / 秦始皇]] need her for dynastic and filial order, and [[LaoAi|嫪毐]] turns her favor into political ascent. The episode also credits her with protecting and raising young Ying Zheng through war and danger, keeping her from being remembered only through the later scandal.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - original household connection and the actor who gives her to Yiren.
 - [[QinZhuangxiangwang|异人 / 子楚]] - receives Zhao Ji and later recognizes her as夫人.
@@ -34,3 +38,4 @@ The same source adds an explicit historiographical caution. It cites [[Shiji|《
 - [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinXiaowenwang|秦孝文王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - return-to-Qin branch after Zichu becomes crown prince.
 - [[LaoAi|嫪毐]], [[MaoJiao|茅焦]], [[YongchengQin|雍城]], [[Xianyang|咸阳]], and [[DeathDefyingRemonstrance|赴死式直谏]] - Qinji 108-1 rebellion, confinement, and remonstrance-led return branch.
 - [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]], [[FemaleSubjectivityInClassicReading|经典阅读中的女性主体性]], [[ZhangAiling|张爱玲 / Eileen Chang]], [[JinPingMei|《金瓶梅》]], and [[HongLouMeng|《红楼梦》]] - Qinji 108-2's reading branch around Zhao Ji's narrative reduction and possible re-reading.
+- [[zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b|Qinji 108-3]], [[XuanTaihou|芈八子 / 宣太后]], and [[PalaceScandalPowerConsolidation|宫廷丑闻式收权]] - completion of the scandal, comparison with an earlier Qin queen mother, and power-consolidation interpretation.

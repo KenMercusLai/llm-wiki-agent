@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示](sources/zizhi-tongjian-qinji-108-3-huangtaihou-he-qingfu-laoai-qingse-beihou-de-qishi-lthiqkpc0nbnlkxhcmivufvgl25b.md) — 芮淇讲透资治通鉴 episode completing the Zhao Ji, Lu Buwei, and Lao Ai scandal arc through Yongcheng secrecy, Lao Ai's purge, Lu Buwei's removal, Ying Zheng's power consolidation, and a sympathetic gendered reading of Zhao Ji.
 - [《资治通鉴·秦纪》108-2｜嫪毐的后宫秘史](sources/zizhi-tongjian-qinji-108-2-laoai-de-hougong-mishi-lof4xuuxfkehm9igpdvihv7exqdy.md) — 芮淇讲透资治通鉴 episode backfilling the Zhao Ji, Lu Buwei, and Lao Ai scandal before Qinji 108-1, linking Ying Zheng's hostage-childhood trauma, fake-eunuch palace access, Lao Ai's rise, and gendered historiographical desire framing.
 - [《资治通鉴·秦纪》108-1｜历史敢当面顶撞秦始皇第一人](sources/zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij.md) — 芮淇讲透资治通鉴 episode on Ying Zheng's 238 BCE personal-rule threshold, Yang Duanhe's Qin advance to the Qi border, the Lao Ai rebellion, Zhao Ji's confinement, and Mao Jiao's death-defying remonstrance.
 - [《资治通鉴·秦纪》107｜最后一次合纵伐秦 伐了个寂寞](sources/zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw.md) — 芮淇讲透资治通鉴 episode on the failed final anti-Qin hezong campaign, competing Chunshenjun/Pang Nuan source traditions, Chu's move to Shouchun, and Qin's continued Dong Commandery pressure.
@@ -7500,7 +7501,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution from Qinji 108-2 about reading Zhao Ji through desire, scandal, and male embarrassment without erasing political consequences.
+- [Palace Scandal Power Consolidation / 宫廷丑闻式收权](concepts/PalaceScandalPowerConsolidation.md) — Qinji 108-3 pattern where Lao Ai's palace scandal becomes a legitimacy crisis that lets Ying Zheng purge a faction, discipline Zhao Ji, and remove Lu Buwei.
+- [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution from Qinji 108-2 and 108-3 about reading Zhao Ji through desire, scandal, and male embarrassment without erasing political consequences.
 - [赴死式直谏 / Death-Defying Remonstrance](concepts/DeathDefyingRemonstrance.md) — High-risk court feedback pattern where willingness to die makes direct criticism speakable under lethal ruler anger.
 - [末次合纵失败 / Terminal Hezong Failure](concepts/TerminalHezongFailure.md) — Pattern where the final anti-Qin hezong campaign still assembles states but cannot reverse Qin and is preserved through conflicting source traditions.
 - [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.

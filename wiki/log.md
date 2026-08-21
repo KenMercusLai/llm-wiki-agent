@@ -9235,3 +9235,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 12,430 pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,430 pages; they found no hub stubs, three fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint failed because LiteLLM received the unqualified model `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-3｜皇太后和情夫嫪毐情色背后的启示
+
+Added source page for Qinji 108-3: Zhao Ji's Yongcheng move and secret sons with Lao Ai, Lao Ai's rise from favorite into succession threat, Ying Zheng's purge and power consolidation, Lu Buwei's removal rather than immediate execution, Mao Jiao's restoration of the mother-son relationship, and the host's sympathetic gendered reading of Zhao Ji. Created Palace Scandal Power Consolidation; updated overview, index, Lao Ai, Zhao Ji, Lu Buwei, Qin Shi Huang, Mao Jiao, Xuan Taihou, Gendered Historiographical Desire Framing, Female Subjectivity In Classic Reading, and Queen-Mother Regency. No direct contradiction found; Zhao Ji's psychology, the Xuan Taihou comparison, and the Buddhist attachment frame are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
