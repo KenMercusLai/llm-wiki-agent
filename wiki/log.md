@@ -9391,6 +9391,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-4｜秦始皇陵的惊天秘密
+
+Added source page for Qinji 127-4: Qin Shi Huang's Lishan burial and mausoleum tradition, including bronze sealing, tomb treasures, mechanisms, mercury waterways, celestial ceiling, lamps, concubine burial, and artisan secrecy killing; Hu Hai and Zhao Gao's killing of Meng Tian and Meng Yi despite Ziying's warning; and the Yang Xiong/Sima Guang/Sima Qian judgment that Meng Tian's final loyalty does not erase responsibility for harsh Qin labor projects. Created Ziying (Qin), Mausoleum Secrecy Killing, and Loyal Service Moral Liability; updated overview, index, Qin Shi Huang, Qin Shi Huang Mausoleum, Lishan, Qin Straight Road, Imperial Construction Overload, Qin Er Shi, Zhao Gao, Meng Tian, Meng Yi (Qin), Yang Xiong, Sima Guang, Sima Qian, and Bai Qi. No settled contradiction found; preserved the Qinji 127-3 succession-source conflict as unresolved and kept the tomb-detail evidence boundary source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫
 
 Added source page for Qinji 125-1: Qin Shi Huang's thirty-fifth-year construction and secrecy branch, including Meng Tian's Qin Straight Road assignment, Xianyang overcrowding after elite relocation, Afang Palace's celestialized design and unfinished status, Lishan mausoleum labor priority, palace and material mobilization, Qin Er Shi's interrupted restart, Lu Sheng's hidden-residence advice, execution for leaked imperial whereabouts, and the setup for investigating allegedly slanderous儒生. Created Afang Palace, Qin Shi Huang Mausoleum, Qin Straight Road, Imperial Construction Overload, Imperial Itinerary Secrecy, and Fangshi Accountability Trap; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Lishan, Lu Sheng, Meng Tian, Qin Er Shi, Immortality Quest Politics, Fangshi Fraud And Authority, Qin Cosmic Capital Planning, and Elite Relocation Control. No settled contradiction found; the source preserves the boundary that this transcript is a坑儒 prelude and does not narrate the completed event.
@@ -9599,6 +9603,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！
 
 Added source page for Qinji 127-3: the received hidden-death and forged-edict account of Hu Hai's accession set beside the alternate 《赵正书》 deathbed-consultation account, including Li Si's loyalty declaration, Feng Quji's contested presence, the nearby-heir argument for Hu Hai, Zhao Gao's reweighted role, Meng-family aftermath, and the unresolved contradiction between forged succession and emergency succession legitimation. Created Feng Quji and Emergency Succession Legitimation; updated overview, index, Zhao Zheng Shu, Qin Shi Huang, Qin State, Qin Er Shi, Zhao Gao, Li Si, Fusu, Meng Tian, Meng Yi (Qin), Shiji, Peking University, Qin Straight Road, Xianyang, Imperial Death Concealment, Forged Edict Succession Coup, Autocratic Succession, Succession Non-Designation Risk, Historical Detective Reasoning, and Textual Variant Political Stakes. Source-level contradiction flagged with Qinji 127-2; not resolved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

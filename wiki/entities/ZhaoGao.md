@@ -2,7 +2,7 @@
 title: "赵高 / Zhao Gao"
 type: entity
 tags: [person, qin-dynasty, court-politics, eunuch, legalism]
-sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
+sources: [zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ After Qin Shi Huang dies, Zhao Gao first persuades Hu Hai to use the imperial le
 
 [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] narrows that role under the [[ZhaoZhengShu|《赵正书》]] variant. In the alternate account, Zhao Gao is not the first proposer of Hu Hai's establishment; he returns as a beneficiary after Hu Hai succeeds and becomes 郎中令. The same episode still keeps the traditional Zhao Gao-Meng family revenge branch visible when it describes Zhao Gao slandering Meng Tian and [[MengYiQin|蒙毅]] to prevent their rehabilitation.
 
+[[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]] carries that revenge branch into the deaths themselves. After Hu Hai's accession, Zhao Gao's influence remains strong enough that [[ZiyingQin|子婴]]'s warning cannot save [[MengTian|蒙恬]] and Meng Yi. The source therefore extends Zhao Gao from succession operator into purge enforcer.
+
 ## Key Claims
 - Zhao Gao's legal skill and access to the imperial carriage office make him more than a palace attendant in the source's transition narrative.
 - His past death sentence under Meng Yi makes the Meng family a survival threat, not just a factional rival.
@@ -23,6 +25,7 @@ After Qin Shi Huang dies, Zhao Gao first persuades Hu Hai to use the imperial le
 - Zhao Gao cannot complete the coup without Li Si, so he reframes Fusu's succession as Li Si's future loss to Meng Tian.
 - The source presents Zhao Gao as a political operator who understands both credential control and personal insecurity.
 - Qinji 127-3 makes Zhao Gao's initiative source-dependent: decisive in the forged-edict account, but downstream in the Zhao Zheng Shu version.
+- Qinji 127-4 keeps Zhao Gao central after accession by tying his influence to the killing of the Meng brothers despite Ziying's warning.
 
 ## Connections
 - [[QinShiHuang|秦始皇]] - ruler who promoted and pardoned him.
@@ -31,3 +34,4 @@ After Qin Shi Huang dies, Zhao Gao first persuades Hu Hai to use the imperial le
 - [[FuSu|扶苏]], [[MengTian|蒙恬]], and [[MengYiQin|蒙毅]] - opposing succession and Meng-family threat structure.
 - [[StatusAnxietyPersuasion|位阶焦虑式说服]], [[WrittenSuccessionCredential|书面继承凭证]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - mechanisms attached to his role.
 - [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - alternate account where Zhao Gao is reweighted from originator to later beneficiary.
+- [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]] and [[ZiyingQin|子婴]] - purge aftermath and ignored remonstrance against killing the Meng brothers.

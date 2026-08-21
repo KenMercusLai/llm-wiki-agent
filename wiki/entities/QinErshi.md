@@ -2,7 +2,7 @@
 title: "秦二世 / 胡亥 / Qin Er Shi"
 type: entity
 tags: [person, ruler, qin-dynasty, chinese-history]
-sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi, zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses
 
 [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] complicates that accession path through [[ZhaoZhengShu|《赵正书》]]. In the alternate account, Hu Hai may have been chosen before Qin Shi Huang's death because he was near the dying emperor while Fusu was far away at the northern frontier. The episode still treats Hu Hai's rule as destructive after accession: he kills Fusu and Meng Tian, restores Zhao Gao to high office, kills siblings, damages law and book collections, and harms the Qin state.
 
+[[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi]] gives one concrete early destructive choice: Hu Hai follows [[ZhaoGao|赵高]] in killing [[MengTian|蒙恬]] and [[MengYiQin|蒙毅]] despite [[ZiyingQin|子婴]]'s warning. The source makes the warning explicitly historical: Qin risks repeating [[ZhaoState|赵国]] after [[LiMu|李牧]] and [[QiState|齐国]] after old-minister killings if it destroys its own pillars.
+
 ## Connections
 - [[SimaGuang|司马光]], [[Xunzi|荀子]], and [[XunziText|《荀子》]] - interpretive frame.
 - [[QiMinWang|齐湣王]] and [[SongJunYan|宋康王 / 宋君偃]] - comparison rulers in the source.
@@ -28,3 +30,4 @@ This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses
 - [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[AfangPalace|阿房宫]], [[QinShiHuangMausoleum|秦始皇陵]], and [[ImperialConstructionOverload|帝国工程过载]] - restarted palace work and rebellion-interrupted construction.
 - [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]], [[ZhaoGao|赵高]], [[LiSi|李斯]], [[FuSu|扶苏]], [[MengTian|蒙恬]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - hidden death, forged accession, and rival removal.
 - [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[FengQuji|冯去疾]], [[EmergencySuccessionLegitimation|临终就近立储]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - alternate nearby-heir accession account and source conflict.
+- [[zizhi-tongjian-qinji-127-4-qinshihuangling-de-jingtian-mimi-lhgwr2of7zcmg2ggbcdzragwstyi|Qinji 127-4]], [[ZiyingQin|子婴]], [[MengYiQin|蒙毅]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored remonstrance against killing the Meng brothers.
