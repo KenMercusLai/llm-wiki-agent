@@ -2,7 +2,7 @@
 title: "蒙恬 / Meng Tian"
 type: entity
 tags: [person, general, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
+sources: [zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
 last_updated: 2026-08-22
 ---
 
@@ -22,6 +22,8 @@ In this episode, Meng Tian therefore belongs to the command-selection branch rat
 
 [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]] adds Meng Tian indirectly through [[FuSu|扶苏]]'s punishment. After Fusu remonstrates against the [[QinKengruIncident|秦代坑儒事件]], Qin Shi Huang sends him to [[Shangjun|上郡]] to supervise Meng Tian, tying Meng Tian's frontier command to the court's failed tolerance for correction.
 
+[[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] makes Meng Tian central to the succession crisis after Qin Shi Huang's death. [[ZhaoGao|赵高]] uses Meng Tian's talent, merit, popularity, and trusted relationship with Fusu to persuade [[LiSi|李斯]] that a Fusu succession would leave Li Si below Meng Tian. The forged order then commands Fusu and Meng Tian to die; Fusu obeys, while Meng Tian questions the order, refuses suicide, is imprisoned at Yangzhou, and sees his army transferred to a Li Si confidant.
+
 ## Connections
 - [[QinState|秦国]] - state he serves.
 - [[LiXinQin|李信]] - paired commander in the Chu campaign.
@@ -32,3 +34,4 @@ In this episode, Meng Tian therefore belongs to the command-selection branch rat
 - [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]], [[Shangjun|上郡]], [[WarringStatesNorthernGreatWalls|战国北境长城]], and [[PostUnificationWarInertia|统一后战争惯性]] - completed northern campaign frame, wall integration, and extended frontier command.
 - [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[QinZhidao|秦直道]], and [[ImperialConstructionOverload|帝国工程过载]] - straight-road construction assignment and late-Qin project burden.
 - [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]], [[FuSu|扶苏]], [[QinKengruIncident|秦代坑儒事件]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - frontier command setting for Fusu's post-remonstrance assignment.
+- [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]], [[ZhaoGao|赵高]], [[LiSi|李斯]], [[QinErshi|胡亥 / 秦二世]], [[MengYiQin|蒙毅]], [[StatusAnxietyPersuasion|位阶焦虑式说服]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - succession threat framing, forged suicide order, refusal to die, and imprisonment.

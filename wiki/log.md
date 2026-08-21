@@ -9587,3 +9587,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏
+
+Added source page for Qinji 127-2: Qin Shi Huang's hidden death on tour, Li Si's initial decision to conceal the death, Zhao Gao's persuasion of Hu Hai and Li Si, the use of imperial letters and seals to forge the succession, the false order against Fusu and Meng Tian, Fusu's suicide, Meng Tian's refusal and imprisonment, the return through Qin Straight Road, and Hu Hai's accession at Xianyang. Created Zhao Gao, Meng Yi (Qin), Imperial Death Concealment, and Forged Edict Succession Coup; updated overview, index, Li Si, Fusu, Qin Er Shi, Meng Tian, Qin Shi Huang, Qin State, Imperial Itinerary Secrecy, Qin Straight Road, Shangjun, Xianyang, Status Anxiety Persuasion, Written Succession Credential, Autocratic Succession, and Patron Succession Exposure. No settled contradiction found; preserved the body-placement uncertainty, Li Si's source-scoped initial motive, and the tension between Fusu's praised heir image and his fatal obedience to the forged order.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

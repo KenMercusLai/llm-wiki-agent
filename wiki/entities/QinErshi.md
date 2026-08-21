@@ -2,7 +2,7 @@
 title: "秦二世 / 胡亥 / Qin Er Shi"
 type: entity
 tags: [person, ruler, qin-dynasty, chinese-history]
-sources: [zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+sources: [zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,12 @@ This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses
 
 [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]] adds a narrow reign detail: after [[QinShiHuang|秦始皇]] dies and labor is redirected toward [[QinShiHuangMausoleum|秦始皇陵]], Qin Er Shi later restarts [[AfangPalace|阿房宫]]. The episode says rebellion news reaches [[Xianyang|咸阳]] less than three months later, stopping the revived project and turning Afang into an unfinished political warning.
 
+[[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] narrates the accession path behind that later ruler identity. Hu Hai is with Qin Shi Huang on the final tour and, through [[ZhaoGao|赵高]], controls the imperial letter and seals after the emperor dies. Zhao Gao persuades him to seek the throne, then recruits [[LiSi|李斯]] so the [[ForgedEdictSuccessionCoup|forged-edict succession coup]] can name Hu Hai as heir, force [[FuSu|扶苏]] to die, imprison [[MengTian|蒙恬]], and announce Hu Hai's accession only after the convoy returns to Xianyang.
+
 ## Connections
 - [[SimaGuang|司马光]], [[Xunzi|荀子]], and [[XunziText|《荀子》]] - interpretive frame.
 - [[QiMinWang|齐湣王]] and [[SongJunYan|宋康王 / 宋君偃]] - comparison rulers in the source.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[XunzianWangbaThreePaths|荀子王霸三分法]] - concepts this example supports.
 - [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[Xiongnu|匈奴]], and [[ProphecyTriggeredPolicy|预言触发政策]] - later reinterpretation of "亡秦者胡" through Hu Hai's name.
 - [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[AfangPalace|阿房宫]], [[QinShiHuangMausoleum|秦始皇陵]], and [[ImperialConstructionOverload|帝国工程过载]] - restarted palace work and rebellion-interrupted construction.
+- [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]], [[ZhaoGao|赵高]], [[LiSi|李斯]], [[FuSu|扶苏]], [[MengTian|蒙恬]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - hidden death, forged accession, and rival removal.
