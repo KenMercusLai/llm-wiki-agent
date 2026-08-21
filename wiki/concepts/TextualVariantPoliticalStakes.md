@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-22
 ---
 
@@ -30,6 +30,8 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 
 [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]] adds a genealogy-and-scandal version. The difference between "Mi Wan had no sons" and "Mi Wan had multiple sons, including Xiong Qi / [[ChangpingJun|昌平君]] and [[ChuFuchu|熊负刍 / 楚王负刍]]" changes how the Chunshenjun-Li Yuan story should be read: biological incapacity becomes a contested narrative premise rather than a settled political condition.
 
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds an omen-wording case. The host contrasts [[Shiji|《史记》]]'s fuller strange-sign atmosphere with the more selective [[ZizhiTongjian|《资治通鉴》]] handling, then questions whether the meteor inscription's "始皇" wording belongs to the event's own moment. Here the political weight is not only textual form: if the wording is later-shaped, it may reveal anti-Qin hindsight or propaganda anchoring as much as a live 211 BCE inscription.
+
 ## Key Claims
 - Source variants can alter who appears harmed, angry, guilty, or legitimate.
 - A chronicle's wording can carry later political pressure even when it is narrating ancient events.
@@ -44,6 +46,7 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - Execution-word variants can change the perceived severity of state violence even when the political event is otherwise stable.
 - Successor-name variants should be preserved when they affect entity identity but do not alter the succession sequence.
 - Genealogical variants can change whether a succession story reads as court fact, hostile scandal, literary pattern, or later reconstruction.
+- Omen wording can change whether a transmitted sign reads as contemporaneous protest, later anti-regime memory, or a source-shaped narrative bridge to collapse.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[Shiji|《史记》]], and [[SimaGuang|司马光]] - source, variant, and compiler frame.
@@ -57,3 +60,4 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - [[HanFei|韩非]], [[HanState|韩国]], [[SimaGuang|司马光]], [[SongFactionalPolitics|宋代党争]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Shiji/Tongjian framing contrast over Han Fei's death.
 - [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[Handan|邯郸]], [[ChuAiwang|熊昊 / 熊犹 / 楚哀王]], and [[ChuFuchu|熊负刍 / 楚王负刍]] - kill/bury wording and Chu successor-name variant.
 - [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[MiWan|楚考烈王]], [[ChangpingJun|昌平君]], [[PregnancySuccessionSubstitution|孕身继承替换]], and [[PreQinSurnameClanIdentity|先秦姓氏身份]] - childless-versus-multiple-sons genealogy variant.
+- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]], [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[HistoricalDetectiveReasoning]] - omen-sequence selection and "始皇" wording caution.

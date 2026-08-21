@@ -2,7 +2,7 @@
 title: "Prophecy-Triggered Policy / 预言触发政策"
 type: concept
 tags: [politics, prophecy, statecraft, qin-history, religion]
-sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]
 last_updated: 2026-08-22
 ---
 
@@ -14,10 +14,13 @@ The concept is narrower than [[ChenweiPolitics|谶纬政治]]. It does not requi
 
 The episode also shows why later hindsight must be separated from contemporaneous interpretation. Qin Shi Huang's reading points toward [[Xiongnu|匈奴]] and [[MengTian|蒙恬]]'s northern campaign; later readers, knowing Qin's fall under [[QinErshi|胡亥 / 秦二世]], can reinterpret the same "胡" as an ironic personal name.
 
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds a more personal version through "今年祖龙死." The prophecy does not name an external policy target like "亡秦者胡"; instead, it pressures Qin Shi Huang to interpret a death warning, explain it through "山鬼" and ancestry language, and move toward the final tour. The concept therefore includes warnings that trigger ruler movement and self-justification, not only military action.
+
 ## Key Claims
 - A prophecy can become politically consequential even when the source does not prove supernatural truth.
 - The governing effect comes from interpretation: the same phrase can name an external enemy in one moment and a dynastic successor in hindsight.
 - Prophecy can intensify or frame a policy that already has strategic reasons, rather than single-handedly causing it.
+- A prophecy can also trigger interpretive behavior and itinerary decisions when the danger is the ruler's own death rather than an external enemy.
 - The source treats "亡秦者胡" as an example of how omen language can blur [[ImmortalityQuestPolitics|求仙政治]], frontier security, and later historical irony.
 
 ## Connections
@@ -25,5 +28,6 @@ The episode also shows why later hindsight must be separated from contemporaneou
 - [[QinShiHuang|嬴政 / 秦始皇]] - ruler who interprets the warning and acts.
 - [[Xiongnu|匈奴]] and [[MengTian|蒙恬]] - immediate policy target and commander.
 - [[QinErshi|胡亥 / 秦二世]] - later reinterpretation of the word "胡."
+- [[QinLateOmenCrisis|秦始皇晚年异象危机]] and [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]] - "今年祖龙死" as a personal death prophecy and final-tour pressure.
 - [[ChenweiPolitics|谶纬政治]], [[AuspiciousOmenPolitics|祥瑞政治]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - broader sign-politics cluster.
 - [[FangshiFraudAndAuthority|方士骗术与权威]] and [[ImmortalityQuestPolitics|求仙政治]] - court-specialist environment that carries the sign into policy.

@@ -9563,3 +9563,11 @@ Added source page for Qinji 125-2: the completed 212 BCE坑儒 branch after the 
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（1）
+
+Added source page for Qinji 126: Qin Shi Huang's 211 BCE omen cluster, including 荧惑守心, Dong Commandery's "始皇死而地分" meteor inscription, collective punishment and stone destruction, the cultural response through 仙真人诗, the returned jade bi, "今年祖龙死," and source-critical doubt about whether the "始皇" wording is a direct contemporary record. Created Qin Late Omen Crisis; updated overview, index, Qin Shi Huang, Qin State, Dong Commandery, Shiji, Zizhi Tongjian, Auspicious Omen Politics, Celestial Omen Political Responsibility, Chinese Astrological Politics, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; the source functions as a death-omen and final-tour prelude rather than a completed death-cause analysis.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
