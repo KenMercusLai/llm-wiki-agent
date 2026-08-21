@@ -2,8 +2,8 @@
 title: "卫国 / Wey State"
 type: entity
 tags: [state, pre-qin, warring-states, china]
-sources: [zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-2-llzzalowv5vmbvgd6l-jujltkbyf, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+last_updated: 2026-08-21
 ---
 
 # 卫国 / Wey State
@@ -22,6 +22,10 @@ This page uses "Wey" to avoid colliding with [[WeiState|魏国 / Wei State]], a 
 
 [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]] adds a harsher late-stage dependence case. [[WeyHuaijun|卫怀君]] goes to see [[WeiAnxiWang|魏安釐王]], is killed, and is replaced by his brother [[WeyYuanjun|卫元君]]. The episode uses the event to show that Wey's weak-state status is no longer only title demotion or envoy difficulty; stronger [[WeiState|魏国]] power can decide life, death, and succession.
 
+[[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] adds a late survival branch with source-scoped caution. In the Chunshenjun-version coalition list, Wey appears as one of the participating states, while the later transcript segment around Chaoge, Puyang, Yewang, [[WeyYuanjun|卫元君]], and [[WeyJunJiao|卫君角]] overlaps with the wiki's Wey line but is phrased in a way that can be confused with [[WeiState|魏国]].
+
+The interpretive point is still useful: the source treats Wey's remnant survival as the product of low posture, limited strategic value, and residual kinship-sacrifice custom. This extends the earlier weak-state pattern from title demotion and externally imposed succession into near-erasure under [[QinState|秦国]]'s expanding commandery order.
+
 ## Connections
 - [[QiState|齐国]], [[YanState|燕国]], and [[LuState|鲁国]] - states in the same 373 BCE conflict cluster.
 - [[WeyShenggong|卫声公]] and [[WeyChenggong|卫成公]] - succession pair.
@@ -32,3 +36,4 @@ This page uses "Wey" to avoid colliding with [[WeiState|魏国 / Wei State]], a 
 - [[ThreeJinVassalRecognition]], [[HanState|韩国]], [[ZhaoState|赵国]], and [[WeiState|魏国]] - wider Three Jin context for the later demotion/submission notice.
 - [[WeakStateStatusDemotion|弱国名分降格]], [[NoSmallMattersInGovernance|治无小乱无大]], and [[WuxiaWarringStates|武夏]] - status, law, and envoy-access extensions.
 - [[WeyHuaijun|卫怀君]], [[WeyYuanjun|卫元君]], [[WeiAnxiWang|魏安釐王]], and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - Qinji 100-1 externally imposed killing and replacement.
+- [[WeyJunJiao|卫君角]], [[DongCommandery|东郡]], [[TextualVariantPoliticalStakes|史书异文政治重量]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - remnant survival branch and source-scoped Wei/Wey ambiguity.

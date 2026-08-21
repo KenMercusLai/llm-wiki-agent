@@ -9211,3 +9211,11 @@ Added source page for the All-In interview with Charles Koch and Chase Koch on K
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》107｜最后一次合纵伐秦 伐了个寂寞
+
+Added source page for Qinji 107: the failed final anti-Qin hezong campaign in 241 BCE, the conflicting Chunshenjun and Pang Nuan source traditions, Chu's move to Shouchun after Zhu Ying's warning, Qin's continued Dong Commandery pressure, and the source-scoped Wei/Wey ambiguity around Yuanjun and Jun Jiao. Created Zhu Ying, Shouchun, Wey Jun Jiao, and Terminal Hezong Failure. Updated overview, index, Chunshenjun, Mi Wan, Qin Shi Huang, Pang Nuan, Wei Jingmin Wang, Dong Commandery, Wey State, Wey Yuanjun, Qin State, Wei State, Hezong Alliance, Qin Eastward Pressure, Textual Variant Political Stakes, and Chu State. No direct contradiction found; variant campaign accounts and Wei/Wey identity wording are preserved as source-scoped cautions.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

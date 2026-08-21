@@ -2,7 +2,7 @@
 title: "芈完 / 楚考烈王 / Mi Wan"
 type: entity
 tags: [person, crown-prince, ruler, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,10 @@ Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based p
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] dates Xunzi's return to Lanling to Mi Wan's twelfth year, 251 BCE. The source also records the darker endpoint under his reign: in 238 BCE Chu turmoil leads to Chunshenjun's death, after which Xunzi can no longer remain Lanling magistrate. Mi Wan's page therefore gains both the high point of scholar-administration and the political violence that ends it.
 
+[[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] adds Mi Wan's late anti-Qin coalition role in 241 BCE. In the Chunshenjun-version account, he serves as nominal leader while [[Chunshenjun|黄歇 / 春申君]] commands the army. The failure does not give Chu new leverage over [[QinState|秦国]] and instead appears to weaken Mi Wan's confidence in Chunshenjun.
+
+The same source makes Mi Wan the ruler under whom [[ChuState|楚国]] moves its capital to [[ShouchunWarringStates|寿春]]. [[ZhuYingWarringStates|朱英]]'s argument is that Qin's pressure through weakened [[WeiState|魏国]] makes the old capital position unsafe; Mi Wan's reign therefore adds a defensive relocation branch beside the earlier hostage-return and Lu-absorption branches.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - father and current Chu king whose illness creates the succession emergency.
 - [[Chunshenjun|黄歇 / 春申君]] - attendant and strategist who protects his return path.
@@ -41,3 +45,4 @@ Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based p
 - [[ZhouNanwang|周赧王]], [[ZhouRoyalHouse|周王室]], [[NominalAuthorityMobilizationTrap|虚名权威动员陷阱]], and [[ZhaitaiGaozhu|债台高筑]] - Zhouji 98 failed Son-of-Heaven coalition effort.
 - [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], [[LuState|鲁国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 Lanling appointment under Chunshenjun's Chu administration.
 - [[ChuState|楚国]] and [[ConfucianIdealGovernance|儒家理想治理]] - Qinji 99 part 4 Xunzi's final Lanling tenure and Chunshenjun's death.
+- [[TerminalHezongFailure|末次合纵失败]], [[ZhuYingWarringStates|朱英]], [[ShouchunWarringStates|寿春]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - late coalition leadership, failed campaign, and capital relocation under his reign.
