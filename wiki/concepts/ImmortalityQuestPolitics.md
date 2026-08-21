@@ -2,7 +2,7 @@
 title: "Immortality Quest Politics / 求仙政治"
 type: concept
 tags: [politics, religion, china, empire, immortality]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The concept differs from private religious hope. When an emperor wants immortali
 
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds the death-omen phase. After failed immortal search, secrecy, and punishment, the returned jade bi and "今年祖龙死" prophecy make Qin Shi Huang's death anxiety explicit. The source ties the jade bi to the earlier river sacrifice during the [[XiangshanShrine|Xiangshan]] storm branch, so immortality politics now receives back a ritual object as an omen rather than medicine.
 
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds the countermeasure phase. The death warning now produces divination and movement: "游徙吉" sends the narrative from immortal-seeking and omen interpretation into [[OmenCountermeasureMobility|游徙避命]]. Instead of receiving medicine or meeting immortals, Qin Shi Huang tries to alter the conditions around death through relocation and his final tour.
+
 ## Key Claims
 - Ruler death anxiety creates a market for specialists who promise privileged access to immortality.
 - Failure can be reinterpreted as hidden success, obstruction, distance, or insufficient ritual conditions.
@@ -35,7 +37,8 @@ The concept differs from private religious hope. When an emperor wants immortali
 - Qinji 123-1 adds the warning-conversion phase: failed search can return as prophecy rather than medicine, turning sacred uncertainty into a policy frame.
 - Qinji 125-1 adds the secrecy-conversion phase: immortal-seeking advice turns the emperor's residence and movements into lethal information-control problems.
 - Qinji 125-2 adds the backlash-conversion phase: failed immortality promises become flight, anger, interrogation, and mass punishment.
-- Qinji 126 adds the omen-return phase: a prior sacred offering returns as a death sign, pushing immortal-seeking anxiety toward the final tour.
+- Qinji 126 part 1 adds the omen-return phase: a prior sacred offering returns as a death sign, pushing immortal-seeking anxiety toward the final tour.
+- Qinji 126 part 2 adds the countermeasure phase: failed immortality seeking gives way to divination, migration, and tour movement as attempts to alter death's timing.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -50,3 +53,4 @@ The concept differs from private religious hope. When an emperor wants immortali
 - [[zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4|Qinji 125-1]], [[ImperialItinerarySecrecy|帝王行踪保密]], [[FangshiAccountabilityTrap|方士问责陷阱]], and [[QinShiHuang|秦始皇]] - hidden movement, leak punishment, and accountability pressure after undelivered immortality.
 - [[zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw|Qinji 125-2]], [[HouShengFangshi|侯生]], [[FuSu|扶苏]], and [[QinKengruIncident|秦代坑儒事件]] - failed promises, fangshi flight, and the punishment case.
 - [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]], [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[XiangshanShrine|湘山祠]], and [[ProphecyTriggeredPolicy|预言触发政策]] - returned jade bi, "祖龙" prophecy, and final-tour death anxiety.
+- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[ZhaoZhengShu|《赵正书》]] - divination and mobility after the death omen.

@@ -2,8 +2,8 @@
 title: "Qin Frontier Buffer Management / 秦国后方边患管理"
 type: concept
 tags: [frontier, statecraft, diplomacy, pre-qin-history, warring-states, qin-state]
-sources: [zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-zhouji-48-junwang-weisha-buneng-chuanwei-zaixiang-lnwhljnn888mzlj7let2ptn1pcdm, zizhi-tongjian-zhouji-47-yanwangkuai-de-lixiangzhuyi-lhgl6rqkv9nonzxc9xqquzzlz5pr, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-35-lishishang-diyi-qibing-jiaofu-shi-ta-lnxgnu1czkl-ftfb3gq9kzxwnxdk]
+last_updated: 2026-08-22
 ---
 
 # Qin Frontier Buffer Management / 秦国后方边患管理
@@ -22,6 +22,8 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 
 [[zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5]] returns to Yiqu and turns buffer management into final absorption. The episode says [[XuanTaihou|芈八子 / 宣太后]]'s long relationship with the Yiqu king helped keep the rear frontier quiet while Qin fought elsewhere, but once the moment was ripe she killed him at [[GanquanPalace|甘泉宫]]. Qin then destroyed [[YiquState|义渠]] and created [[BeidiCommandery|北地郡]], joining [[LongxiCommandery|陇西郡]] and [[Shangjun|上郡]] into a more coherent northern frontier.
 
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds a post-unification relocation version. After the "祖龙死" prophecy and "游徙吉" divination, Qin Shi Huang moves thirty thousand households toward the northern frontier around 北河 and 榆中, near the [[Xiongnu|匈奴]] border, and grants each household a one-rank promotion. The episode reads the motive through [[OmenCountermeasureMobility|游徙避命]], but the policy effect still belongs to frontier management: population placement, incentives, and border consolidation remain state tools.
+
 ## Key Claims
 - Rear-frontier policy is shaped by the main strategic front; Qin's Yiqu stance follows from its eastern focus.
 - Submission is not the same as final conquest, especially when the frontier polity remains capable of later conflict.
@@ -31,6 +33,7 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 - Zhouji 48 adds that a supposedly absorbed frontier can reappear as rebellion, making source chronology itself part of the buffer-management problem.
 - Zhouji 52 adds that conquered rear regions can become dangerous through Qin's own appointees, especially where terrain and resources make local autonomy tempting.
 - Zhouji 85 adds that Qin can use palace-level intimacy as temporary frontier pacification, then replace the buffer with direct commandery administration when timing changes.
+- Qinji 126 part 2 adds that omen-driven migration can still have frontier-management effects when households are moved toward a border zone and compensated through rank.
 
 ## Connections
 - [[QinState|秦国]] and [[YiquState|义渠]] - state and frontier counterpart.
@@ -39,3 +42,4 @@ This makes the concept a useful supplement to [[QinEastwardPressure|Qin eastward
 - [[ZizhiTongjian|《资治通鉴》]] and [[ZhouXianwang|周显王]] - source and annalistic frame.
 - [[BaStateWarringStates|巴国]], [[ShuStateWarringStates|蜀国]], [[BaShu|巴蜀]], [[SimaCuo|司马错]], [[ZhangYiStrategist|张仪]], [[ChenZhuangWarringStates|陈庄]], [[ShuHouNingTong|蜀侯宁通]], and [[AppointedGovernorSecessionRisk|受任地方长官割据风险]] - Zhouji 47-52 conquest, appointment, and rebellion branch.
 - [[XuanTaihou|芈八子 / 宣太后]], [[GanquanPalace|甘泉宫]], [[BeidiCommandery|北地郡]], [[LongxiCommandery|陇西郡]], [[Shangjun|上郡]], and [[IntimateFrontierPacification|亲密关系式边患安抚]] - Zhouji 85 intimate pacification and final commandery line.
+- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[QinShiHuang|秦始皇]], [[OmenCountermeasureMobility|游徙避命]], [[Xiongnu|匈奴]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - northern household relocation and 北河/河北 migration-direction issue.

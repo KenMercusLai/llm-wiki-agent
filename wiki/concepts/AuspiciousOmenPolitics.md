@@ -2,7 +2,7 @@
 title: "Auspicious Omen Politics / 祥瑞政治"
 type: concept
 tags: [history, politics, china, legitimacy]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-22
 ---
 
@@ -18,6 +18,8 @@ The source treats auspicious signs as institutional work, not just superstition.
 
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] makes that Qin-side threat layer concrete through [[QinLateOmenCrisis|秦始皇晚年异象危机]]. The episode treats [[ChineseAstrologicalPolitics|荧惑守心]], the [[DongCommandery|东郡]] meteor inscription, and the returned jade bi prophecy as signs that can undercut rather than authorize rule. In this case, the political effect is anxiety, punishment, narrative spread, and a final-tour prelude, not smooth legitimation.
 
+[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds the action layer after the negative sign. Qin Shi Huang's divination does not reverse the omen into favorable legitimacy; instead, "游徙吉" produces [[OmenCountermeasureMobility|游徙避命]]. The case shows that omen politics can generate practical moves like migration and touring even when the sign itself remains threatening.
+
 [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] makes the favorable Qin side more concrete through [[QinWengong|秦文公]]'s black-dragon story. The episode treats the earlier omen as useful retrospective evidence for Qin's claim to water virtue after unification, linking omen memory to [[ImperialSymbolicStandardization|帝国符号标准化]].
 
 [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] adds a Warring States small-state example. A sparrow nest in [[SongState|宋国]] is interpreted as a weak bird producing a strong bird, encouraging [[SongJunYan|宋康王 / 宋君偃]] to read his expansion as a reversal of Song's weakness. The episode then shows the danger of that confidence: omen-backed ambition can intensify war-making without solving legitimacy or [[PeopleBasedPoliticalSecurity|people-based security]].
@@ -30,6 +32,7 @@ The source treats auspicious signs as institutional work, not just superstition.
 - Episode 87 adds that auspicious signs share infrastructure with astrology, ritual technique, and Confucianized disaster interpretation.
 - The first part adds that threatening omens and prophecies can drive movement, secrecy, and violence even when they are not "auspicious" in content.
 - Qinji 126 adds that a negative omen cluster can create political effects even when the source questions its literal wording or later narrative shaping.
+- Qinji 126 part 2 adds that negative omen politics can produce countermeasure mobility rather than only punishment, reassurance, or narrative spread.
 - Episode 68 adds that even a favorable omen can become politically dangerous when it licenses expansion without checking ruler conduct.
 - Qinji 120-2 adds that older omen stories can be reactivated after victory to make a new dynastic virtue claim look historically prepared.
 
@@ -39,6 +42,7 @@ The source treats auspicious signs as institutional work, not just superstition.
 - [[QinShiHuang|秦始皇]], [[YinYangFivePhasesPoliticalTheory]], and [[ImmortalityQuestPolitics]] - Qin-Han sign and legitimacy extension.
 - [[FangshuSystematization]], [[ChineseAstrologicalPolitics]], and [[DaoistRitualTechnology]] - broader sign and practice environment added by episode 87.
 - [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[DongCommandery|东郡]], and [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]] - late Qin negative-omen cluster and source-critical death narrative.
+- [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]] and [[OmenCountermeasureMobility|游徙避命]] - "游徙吉" as action after a negative omen.
 - [[SongState|宋国]], [[SongJunYan|宋康王 / 宋君偃]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 68 small-state omen and overconfidence branch.
 - [[HistoricalMemoryContest]] - later dispute over whether signs reveal truth, manipulation, or belief.
 - [[QinWengong|秦文公]], [[QinShiHuang|嬴政 / 秦始皇]], [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]], and [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]] - black-dragon omen reused for Qin water-virtue legitimacy.

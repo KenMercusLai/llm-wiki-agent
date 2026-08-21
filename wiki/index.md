@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》126｜秦始皇死因之谜（2）](sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca.md) — 芮淇讲透资治通鉴 episode on "祖龙死," "游徙吉," Qin Shi Huang's final tour as omen-countermeasure mobility, the thirty-thousand-household northern relocation, 《赵正书》, and the 北河/河北 textual issue.
 - [《资治通鉴·秦纪》126｜秦始皇死因之谜（1）](sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 211 BCE omen cluster: 荧惑守心, the Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the source-critical setup for his final tour.
 - [《资治通鉴·秦纪》125-2｜历史上秦始皇为何要焚书坑儒](sources/zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw.md) — 芮淇讲透资治通鉴 episode completing the 212 BCE坑儒 branch: fangshi flight, Qin Shi Huang's anger, Xianyang interrogations, 460-plus executions, Fusu's remonstrance, and the boundary separating坑儒 from焚书.
 - [《资治通鉴·秦纪》125-1｜秦始皇修建史上最大烂尾楼阿房宫](sources/zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 212 BCE Afang Palace plan, Qin Straight Road, Lishan mausoleum labor, Xianyang expansion, hidden itinerary regime, Lu Sheng's advice, and the prelude to the later坑儒 branch.
@@ -1197,7 +1198,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, and "今年祖龙死."
+- [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
+- [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
 - [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son in Qinji 125-2, punished with a Shangjun assignment after remonstrating against the坑儒 executions.
 - [侯生 / Hou Sheng (Fangshi)](entities/HouShengFangshi.md) — Qin fangshi in Qinji 125-2 whose flight and criticism with Lu Sheng help trigger the坑儒 incident; distinct from Qi chancellor 后胜.
 - [阿房宫 / Afang Palace](entities/AfangPalace.md) — Late Qin palace project south of the Wei River, framed as both capital expansion and unfinished symbolic mega-project.
@@ -7649,6 +7651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Omen Countermeasure Mobility / 游徙避命](concepts/OmenCountermeasureMobility.md) — Qinji 126 part 2 pattern where a death omen and divination turn movement, migration, and the final tour into fate-avoidance responses.
 - [秦代坑儒事件 / Qin Kengru Incident](concepts/QinKengruIncident.md) — Qinji 125-2 frame for the 212 BCE punishment case following fangshi flight and criticism, kept separate from Qin's book-burning policy.
 - [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — Qinji 125-1 pattern where overlapping imperial mega-projects show state capacity while straining labor, succession timing, and social stability.
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.

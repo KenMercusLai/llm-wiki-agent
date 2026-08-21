@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（2）
+
+Added source page for Qinji 126 part 2: "祖龙死" as a direct death warning, Qin Shi Huang's "游徙吉" divination, the thirty-thousand-household northern relocation, the fifth/final tour as source-scoped fate-change attempt, 《赵正书》 as excavated-text support, and the 北河/河北 textual-variant issue. Created Zhao Zheng Shu and Omen Countermeasure Mobility; updated overview, index, Qin Shi Huang, Qin State, Qin Late Omen Crisis, Shiji, Zizhi Tongjian, Xiongnu, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Auspicious Omen Politics, Qin Frontier Buffer Management, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; preserved the final-tour motive as source-scoped reconstruction and the 北河/河北 correction as a textual issue.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山
 
 Added source page for Qinji 122-1: Qin Shi Huang's 219 BCE eastern tour through former six-state territory, Taishan-Liangfu fengshan as heavenly-legitimacy claim, Qi-Lu scholars' disagreement over ritual procedure, Qin's use of native heaven-sacrifice practice, and the closing turn toward Yan-Qi fangshi and immortality search proposals. Created Taishan, Liangfu Mountain, Fengshan Ritual Legitimacy, and Imperial Tour Political Theater; updated overview, index, Qin Shi Huang, Qin State, Shiji, Sima Qian, Zizhi Tongjian, Mandate of Heaven Legitimacy, Confucian Ideal Governance, Qin Cosmic Capital Planning, Imperial Symbolic Standardization, Imperial Homogenization, Southern Tour Political Theater, and Immortality Quest Politics. No settled contradiction found; exact fengshan ritual steps and motive balance remain source-scoped.
@@ -9567,6 +9571,10 @@ Ran lint after health passed. Deterministic checks found one orphan page (`wiki/
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》126｜秦始皇死因之谜（1）
 
 Added source page for Qinji 126: Qin Shi Huang's 211 BCE omen cluster, including 荧惑守心, Dong Commandery's "始皇死而地分" meteor inscription, collective punishment and stone destruction, the cultural response through 仙真人诗, the returned jade bi, "今年祖龙死," and source-critical doubt about whether the "始皇" wording is a direct contemporary record. Created Qin Late Omen Crisis; updated overview, index, Qin Shi Huang, Qin State, Dong Commandery, Shiji, Zizhi Tongjian, Auspicious Omen Politics, Celestial Omen Political Responsibility, Chinese Astrological Politics, Prophecy-Triggered Policy, Immortality Quest Politics, Imperial Tour Political Theater, Historical Detective Reasoning, and Textual Variant Political Stakes. No settled contradiction found; the source functions as a death-omen and final-tour prelude rather than a completed death-cause analysis.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 
