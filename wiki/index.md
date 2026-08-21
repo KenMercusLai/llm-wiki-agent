@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420.md) — All-In episode on Anthropic's coding-led enterprise run, OpenAI's consumer-versus-enterprise fork, AI moats and valuation risk, private-equity AI deployment, Meta/YouTube youth-safety lawsuits, age verification, and PCAST's science-policy remit.
 - [Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like](sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165.md) — All-In interview with Bryan Johnson on 5-MeO-DMT, psychedelic longevity claims, default-mode-network reset, neuroplasticity, measurement limits, identity disruption risk, and frontier longevity therapies.
 - [《资治通鉴·秦纪》99-1｜历史第一丑男逆袭做秦相](sources/zizhi-tongjian-qinji-99-1-lishishang-diyi-chounan-nixi-zuo-qinxiang-lvmdrgbhvpbiyngm-nviunour0sk.md) — 芮淇讲透资治通鉴 episode opening 秦纪, explaining Qin-centered chronicle periodization before 221 BCE, and introducing Cai Ze's provocation of an exposed Fan Ju through Tang Ju's physiognomy and a 功成身退 warning.
 - [《资治通鉴·周纪》98丨历史上首个老赖登场了！](sources/zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu.md) — 芮淇讲透资治通鉴 episode closing 周纪 with Zhou Nan Wang's failed anti-Qin coalition, war borrowing, the "债台高筑" idiom story, Qin's extinction of Western Zhou, and the transition toward 秦纪.
@@ -1652,6 +1653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Project Nix](entities/ProjectNix.md) — Archer-Anduril autonomous collaborative attack helicopter drone project discussed as a lower-cost, no-pilot-risk defense aviation concept.
 - [Crusoe](entities/Crusoe.md) — AI cloud and data-center company presented as an energy-first neocloud built around power access, construction, batteries, leases, and financing.
 - [Michael Kratsios](entities/MichaelKratsios.md) — Policy voice in the All-In AI strategy episode explaining innovation, infrastructure, export strategy, and Genesis Mission scientific-data work.
+- [PCAST](entities/PCAST.md) — U.S. science and technology advisory council discussed by All-In through David Sacks and Michael Kratsios as AI, nuclear, quantum, semiconductor, biotech, and China-competition policy context.
 - [Maria Bartiromo](entities/MariaBartiromo.md) — Moderator of the All-In AI strategy episode with David Sacks and Michael Kratsios.
 - [U.S. Department of Energy](entities/USDepartmentOfEnergy.md) — Department whose national-lab scientific data is framed through the Genesis Mission as an AI-for-science asset.
 - [Genesis Mission](entities/GenesisMission.md) — Government AI-for-science initiative described as using scientific data and national-lab research to accelerate discovery.

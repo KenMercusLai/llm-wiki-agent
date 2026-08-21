@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits
+
+Added source page for an All-In episode on Anthropic's coding-led enterprise momentum, OpenAI's consumer-versus-enterprise strategy fork, Perplexity and Google as model/application distribution examples, private-equity AI rollups, superintelligence-driven valuation risk, agentic interfaces, Meta/YouTube youth-safety verdicts, age verification, and PCAST. Created PCAST; updated overview, index, All-In, Anthropic, OpenAI, Meta, YouTube, Perplexity, Google, David Sacks, David Friedberg, Michael Kratsios, and related AI strategy, SaaS, valuation, platform-liability, age-verification, and science-policy concept pages. No direct contradiction found; source-scoped business and litigation claims remain attributed to the episode and dated March 27, 2026.
+
 ## [2026-08-21] ingest | 《资治通鉴·周纪》93丨在梦里藏着偷天改命？（2）
 
 Added source page for a 芮淇讲透资治通鉴 episode completing Zhao's acceptance of Shangdang, Zhao Bao's fuller Qin-capacity warning, Zhao Xiaocheng Wang's ominous Shiji dream, Feng Ting's reward-and-weeping branch, and Sima Qian's four-dream Zhao-lineage structure. Created Historical Dream Foreshadowing, Zhao Dun, Changping Battle, and Zhao Kuo; updated overview, index, Feng Ting, Zhao Bao, Pingyuanjun, Zhao Dan, Shangdang, Han/Zhao/Qin state pages, Shiji, Zizhi Tongjian, Sima Qian, Zhanguo Ce, Windfall Decision Trap, Transport Corridor Severance, Qin Eastward Pressure, Farming-War Statecraft, Military Merit Rank System, Zhao Jianzi, and Zhao Wuling Wang. No direct contradiction found; Feng Ting's post-Shangdang fate is kept source-scoped because the episode preserves conflicting traditions.
@@ -9059,6 +9063,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
 
 Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
