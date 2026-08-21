@@ -2,8 +2,8 @@
 title: "Appeasement Logic / 绥靖逻辑"
 type: concept
 tags: [politics, war, ethics, authoritarianism]
-sources: [139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]
-last_updated: 2026-08-06
+sources: [zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, 139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]
+last_updated: 2026-08-22
 ---
 
 # Appeasement Logic / 绥靖逻辑
@@ -14,12 +14,15 @@ Appeasement logic / 绥靖逻辑 is the episode's warning against describing sur
 
 The source's argument is not that every compromise is immoral. It targets compromises that reward a power already breaking shared rules while pretending the costs will remain local to weaker victims. That makes the concept an extension of [[MachiavellianRealism]] and [[GoodIntentionsPoliticalLimits]]: realism has to notice power, but it becomes evasion when it calls abandonment of the weak an unavoidable law of history.
 
+[[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] adds a pre-Qin case through [[JunWangHou|君王后]]'s [[QiState|齐国]] policy. The host explicitly uses the modern appeasement frame while also making the case harder than a simple moral condemnation: Qi's cautious, pro-Qin neutrality buys more than forty years of peace and does not require humiliation in the jade linked-rings story. The danger is strategic misrecognition, because Qin's friendliness can be part of [[YuanjiaoJingongStrategy|远交近攻]] rather than a stable settlement.
+
 ## Key Claims
 - Peace language can become cover for giving an aggressor more time, legitimacy, markets, or victims.
 - Sacrificing weak third parties may look pragmatic to outsiders while destroying the rules that protect ordinary people.
 - The source distinguishes realistic caution from admiration for force.
 - Appeasement can be personal, corporate, or geopolitical when the actor preserves safety by helping power normalize itself.
 - The practical danger is recurrence: a successful aggressor learns that threats produce concessions.
+- A policy can be locally successful as peace preservation while still letting an expansionist power remove every surrounding buffer.
 
 ## Connections
 - [[EuropeanUnion]], [[NATO]], [[EuropeanDefenseAutonomy]], and [[NATOAllianceCredibility]] - tariff-and-security analogy added by episode 139.
@@ -28,3 +31,4 @@ The source's argument is not that every compromise is immoral. It targets compro
 - [[MachiavellianRealism]] and [[GoodIntentionsPoliticalLimits]] - existing political-realism concepts the source qualifies.
 - [[CleverOpportunismAsMoralRisk]] and [[SacrificingOthersEthics]] - adjacent moral-risk frames.
 - [[OrdinaryPeopleResistance]] and [[PoliticalTruthTelling]] - counterresponses grounded in action and reality.
+- [[JunWangHou|君王后]], [[QiState|齐国]], [[DistantStateAppeasementTrap|远国安抚误读]], and [[YuanjiaoJingongStrategy|远交近攻]] - Qinji 119-3 pre-Qin case where appeasement buys peace while narrowing future options.

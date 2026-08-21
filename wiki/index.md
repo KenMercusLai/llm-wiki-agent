@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后](sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul.md) — 芮淇讲透资治通鉴 episode on Wang Ben's capture of Dai and Zhao Jia, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji setup, Jun Wang Hou's pro-Qin neutrality, Qi's forty-plus years of peace, and the Qin-Qi appeasement trap before Yongmen Sima's remonstrance.
 - [《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”](sources/zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e.md) — 芮淇讲透资治通鉴 episode on Ye Gong's warning about Bai Gong Sheng, the 479 BCE Chu rebellion, speech as moral diagnosis, Ye Gong's retreat, and Ye Gong Hao Long's reputation damage.
 - [《资治通鉴·秦纪》119-1｜拆解荆轲刺秦必败的秘密](sources/zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p.md) — 芮淇讲透资治通鉴 episode on Yan's final destruction in 222 BCE, Wang Ben's Liaodong campaign, and Sima Guang/Yang Xiong's critique of Taizi Dan and Jing Ke through renyi-grounded virtue.
 - [《资治通鉴·秦纪》118-2｜吃瓜了！王室的瓜 包甜！](sources/zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco.md) — 芮淇讲透资治通鉴 episode on Changping Jun/Xiong Qi's Chu royal identity, the Mi Wan childless-source dispute, Shiji literary caution, final Chu resistance, Qin's Chu commandery setup, and remnant elites gathering toward Qi.
@@ -1181,6 +1182,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [百越 / Baiyue](entities/Baiyue.md) — Broad label for Yue peoples and polities subdued in Qinji 119-3 as Wang Jian pushes Qin control into Jiangnan before the Kuaiji Commandery setup.
+- [会稽郡 / Kuaiji Commandery](entities/KuaijiCommandery.md) — Commandery Qinji 119-3 links to Wang Jian's post-Chu pacification of Jiangnan and Baiyue.
+- [雍门司马 / Yongmen Sima](entities/YongmenSima.md) — Qi remonstrance figure who challenges Qi Wang Jian's proposed trip to Qin by asking whether the king exists for the state.
 - [白公胜之乱 / Bai Gong Sheng Rebellion](entities/BaiGongShengRebellion.md) — 479 BCE Chu crisis where Bai Gong Sheng kills Zi Xi and seizes Chu Hui Wang before Ye Gong suppresses the rebellion.
 - [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.
 - [子西 / Zi Xi (Chu)](entities/ZiXiChu.md) — Chu lingyin who recalls Bai Gong Sheng despite Ye Gong's warning and is killed in the resulting rebellion.
@@ -7597,6 +7601,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Distant-State Appeasement Trap / 远国安抚误读](concepts/DistantStateAppeasementTrap.md) — Qinji 119-3 pattern where Qi mistakes Qin's far-state reassurance under 远交近攻 for durable diplomatic success.
 - [Speech As Moral Diagnostic / 言语作为德行信号](concepts/SpeechAsMoralDiagnostic.md) — Qinji 119-2 frame that harmful or violent speech can reveal intention and should matter in moral and personnel judgment.
 - [叶公好龙 / Ye Gong Hao Long](concepts/YeGongHaolong.md) — Idiom whose hypocrite image is reassessed by Qinji 119-2 as a reputation-distorting moral anecdote about Ye Gong.
 - [Renyi-Grounded Virtue / 仁义为本的信勇](concepts/RenyiGroundedVirtue.md) — Qinji 119 standard that visible trust, courage, beneficence, and self-sacrifice count as virtue only when grounded in 仁义 and sound public judgment.

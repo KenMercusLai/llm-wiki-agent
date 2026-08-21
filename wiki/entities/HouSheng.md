@@ -2,8 +2,8 @@
 title: "后胜 / Hou Sheng"
 type: entity
 tags: [person, minister, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]
+last_updated: 2026-08-22
 ---
 
 # 后胜 / Hou Sheng
@@ -14,6 +14,8 @@ His source role is less a full biography than a mechanism for late Qi isolation.
 
 The page is source-scoped. Later sources may need to distinguish Hou Sheng's personal agency from broader [[CoalitionSelfPreservationFailure|联盟自保失灵]], [[ShieldStateRescueFailure|屏障国救援失灵]], and Qi's long post-restoration decline.
 
+[[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] moves Hou Sheng from background isolation mechanism to immediate adviser. After [[QiWangJian|齐王建 / 田建]] continues [[JunWangHou|君王后]]'s pro-Qin line, Hou Sheng advises him to go personally to Qin, setting up [[YongmenSima|雍门司马]]'s remonstrance.
+
 ## Connections
 - [[QiState|齐国]] and [[QiWangJian|齐王建 / 田建]] - state and ruler he serves in the source.
 - [[QinState|秦国]] - bribing power in the source's explanation.
@@ -21,3 +23,4 @@ The page is source-scoped. Later sources may need to distinguish Hou Sheng's per
 - [[ChuState|楚国]] - state that ultimately destroys Lu in the episode's account.
 - [[LeYi|乐毅]] - earlier attacker whose five-state campaign left Qi weakened in the source's causal chain.
 - [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[ShieldStateRescueFailure|屏障国救援失灵]] - broader late-Warring-States non-intervention patterns.
+- [[YongmenSima|雍门司马]] and [[DistantStateAppeasementTrap|远国安抚误读]] - Qinji 119-3 advice and counter-remonstrance setting.
