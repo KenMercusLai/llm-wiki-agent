@@ -2,7 +2,7 @@
 title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
 type: entity
 tags: [person, ruler, hostage, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 
 [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod]] moves his reign into its first-year actions in 249 BCE. He appoints [[LuBuwei|吕不韦]] as Qin chancellor, sends him to destroy [[EasternZhouPolity|东周国]], and rewards him as Wenxin Hou with a large Luoyang-area fief. The same source places [[MengAo|蒙敖]]'s capture of Chenggao and Qin's creation of [[SanchuanWarringStates|三川]] commandery inside this early Zhuangxiang reign frame, while also noting [[ChuState|楚国]]'s final move against [[LuState|鲁国]] in the wider annalistic field.
 
+[[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] adds a second-year frame dated to 248 BCE. The source says [[LushiChunqiu|《吕氏春秋》]] begins compilation in this year and records [[MengAo|蒙敖]] attacking [[ZhaoState|赵国]] and taking thirty-seven cities. It also creates a chronology tension by associating Eastern Zhou's destruction and the [[Jiuding|九鼎]] transfer with the Qin Zhaoxiang Wang fifty-second-year frame rather than this page's Qinji 102-1 Zhuangxiang first-year frame.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - merchant-investor who identifies and backs him.
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - father and succession gate through whom Yiren's claim matters.
@@ -38,3 +40,4 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 - [[zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf|Qinji 100-1]], [[QinXiaowenwang|安国君柱 / 秦孝文王]], [[ZhaoState|赵国]], and [[Handan|邯郸]] - crown-prince appointment and return of his family from Zhao.
 - [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w|Qinji 101-1]], [[XiaTaihou|夏姬 / 夏太后]], and [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]] - accession after Qin Xiaowen Wang's sudden death and maternal honors.
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[EasternZhouPolity|东周国]], [[MengAo|蒙敖]], [[SanchuanWarringStates|三川]], and [[LuState|鲁国]] - first-year chancellorship, Eastern Zhou destruction, commandery creation, and parallel old-state collapse notices.
+- [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r|Qinji 102-2]], [[LushiChunqiu|《吕氏春秋》]], [[ZhaoState|赵国]], and [[Jiuding|九鼎]] - second-year compilation/campaign note and source-scoped chronology tension.

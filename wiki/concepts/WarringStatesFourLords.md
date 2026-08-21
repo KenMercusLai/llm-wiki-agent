@@ -2,7 +2,7 @@
 title: "战国四公子 / Warring States Four Lords"
 type: concept
 tags: [patronage, talent, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ This source adds a reputational production test. Xinlingjun's virtue is not asse
 
 [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] continues that answer after the rescue succeeds. Xinlingjun's superiority is shown not only by the spectacular achievement of saving Zhao, but by post-achievement restraint: he refuses reward rituals that would make him look equal to [[ZhaoDan|赵丹 / 赵孝成王]], accepts only a more indirect honor frame such as [[TangmuYi|汤沐邑]], and keeps seeking low-status worthies [[MaoGong|毛公]] and [[XueGong|薛公]] even when this may make [[Pingyuanjun|平原君]]'s Handan position more delicate.
 
+[[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] adds a negative Chunshenjun-focused comparison. The episode says [[SimaGuang|司马光]] ranks the four as [[Xinlingjun|信陵君]] first, [[Pingyuanjun|平原君]] second, [[Mengchangjun|孟尝君 / 田文]] third, and [[Chunshenjun|黄歇 / 春申君]] last. It ties that low ranking to Chunshenjun's later fall and to doubts about his strategic judgment when he relocates his fief to [[JiangdongWarringStates|江东]] while treating Qi as urgent and Qin as less immediate.
+
 ## Key Claims
 - The Four Lords are a reputation set organized around aristocratic retainer patronage.
 - The grouping should not automatically imply equal virtue, talent judgment, or political value across all four figures.
@@ -39,6 +41,7 @@ This source adds a reputational production test. Xinlingjun's virtue is not asse
 - Zhouji 95 part 3 adds a hospitality-under-pressure test: a lord's reputation depends on whether he can protect dangerous friends and guests when a stronger state weaponizes that protection.
 - Zhouji 96 part 5 adds a public humility test: Xinlingjun's superiority in the comparison depends on visible, costly respect for a low-status worthy, not only on the size of his household.
 - Zhouji 97 part 2 adds a post-victory restraint test: the best patron must manage reward, rank, and continued low-status recruitment after success, not only before crisis action.
+- Qinji 102-2 adds a strategic-judgment and exit-risk test: Chunshenjun's service can be real while Sima Guang still treats his later choices and end as the weakest Four Lords case.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[Xinlingjun|信陵君]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - the four named patrons.
@@ -51,3 +54,4 @@ This source adds a reputational production test. Xinlingjun's virtue is not asse
 - [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 Pingyuanjun/Xinlingjun hospitality test.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[SimaQian|司马迁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 Xinlingjun-centered comparison.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[TangmuYi|汤沐邑]], [[MaoGong|毛公]], [[XueGong|薛公]], and [[PowerEtiquetteReading|权力礼仪细读]] - Zhouji 97 part 2 Xinlingjun's post-rescue restraint and continued low-status association.
+- [[SimaGuang|司马光]], [[JiangdongWarringStates|江东]], and [[FiefSecurityIllusion|封地筑城安全幻觉]] - Qinji 102-2 Chunshenjun ranking and fief-safety critique.

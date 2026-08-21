@@ -8708,6 +8708,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜
+
+Added source page for the second Qinji 102 installment: Lu's special historical-record authority and Confucius connection, Lu's late survival through great-power distraction, Qi's non-intervention under Qi Wang Jian and Hou Sheng, Chu's final destruction of Lu, Chunshenjun's move from Huai north to Jiangdong, Meng Ao's Zhao campaign notice, and the start of 《吕氏春秋》 compilation. Created Hou Sheng, Jiangdong, Historical Record Authority, and Small-State Survival by Great-Power Distraction; updated Lu State, Chu State, Qi State, Qi Wang Jian, Chunshenjun, Confucius, Lushi Chunqiu, Meng Ao, Qin Zhuangxiang Wang, Eastern Zhou Polity, Jiuding, Warring States Four Lords, and Fief Security Illusion. Recorded a source-scoped chronology tension with Qinji 102-1 over Eastern Zhou's destruction and the Jiuding transfer.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》100-1｜皇帝中的超长待机王过世了
 
 Added source page for Qinji 100-1: Qin Zhaoxiang Wang's final years, "天下来宾" and Qin's quasi-royal hegemonic posture, Han Huanhui Wang's unusually deferential mourning, Wei Anxi Wang's killing and replacement of Wey's ruler, Qin Xiaowen Wang's accession, Zichu's crown-prince appointment, and Zhao Ji / Ying Zheng's return from Handan. Created Yan Taizi Dan, Wey Huaijun, Wey Yuanjun, Quasi-Royal Qin Hegemony, and Weak-Over-Weak Predation; updated Qin State, Qin Zhaoxiang Wang, Qin Xiaowen Wang, Qin Zhuangxiang Wang, Qin Shi Huang, Zhao Ji, Han State, Han Huanhui Wang, Wei State, Wei Anxi Wang, Wey State, Yan State, Power Etiquette Reading, and Weak-State Status Demotion. No direct contradiction found; the Wei lateness punishment and Ying Zheng memory-revenge readings are kept source-scoped.
@@ -9143,6 +9147,10 @@ Health passed first with no empty/stub files, index drift, or source-log coverag
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？
 
 Added source page for the first Qinji 102 installment: Lu Buwei's appointment as Qin chancellor, the source-scoped claim that he descends from Jiang Taigong through a Jiang-surname/Lu-clan line, Jiang Taigong's late recognition by Zhou Wenwang, Zhou Wuwang's conquest and Qi enfeoffment branch, Eastern Zhou's destruction by Lu Buwei, Qin's Sanchuan commandery creation through Meng Ao, and Lu's final demotion under Chu. Created Zhou Wenwang and Late-Blooming Talent; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang, Jiang Taigong, Zhou Wuwang, Eastern Zhou Polity, Zhou Royal House, Sanchuan, Meng Ao, Qin State, Qi State, Chu State, Lu State, and Zhouyi Divination. No direct contradiction found; the Lu Buwei genealogy, Jiang Taigong age details, and Sanchuan river-name uncertainty are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

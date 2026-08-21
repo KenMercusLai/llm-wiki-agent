@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜](sources/zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r.md) — 芮淇讲透资治通鉴 episode explaining Lu's historical-record authority, late survival through great-power distraction, Qi's non-intervention under Hou Sheng, Chu's destruction of Lu, and Chunshenjun's Jiangdong fief move.
 - [《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？](sources/zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's Qin chancellorship, source-scoped Jiang Taigong lineage claim, Jiang Taigong's late recognition by Zhou Wenwang, Qin's destruction of Eastern Zhou, Sanchuan commandery creation, and Lu's final collapse under Chu.
 - [《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？](sources/zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt.md) — 芮淇讲透资治通鉴 episode on Mencius's 性善论, Xunzi's 性恶论, human-nature plasticity, disaster as civilization retreat, Wei Anxi Wang's fear-driven strategy failure, and Lu Zhonglian's Li Bai reception.
 - [《资治通鉴·秦纪》101-1｜这位倒霉君王登基三天即猝死](sources/zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w.md) — 芮淇讲透资治通鉴 episode on Qin Xiaowen Wang's three-day formal reign and uncertain death, Zichu's accession and maternal honors, Lu Zhonglian's arrow-letter recovery of Liaocheng for Qi, and Zi Shun's argument that practiced gentlemanly conduct can become character.
@@ -1144,6 +1145,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
+- [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
 - [周文王 / King Wen of Zhou](entities/ZhouWenwang.md) — Zhou ruler who recognizes Jiang Taigong, links the episode to Zhouyi systematization, and grounds the late-blooming talent branch.
 - [夏姬 / 夏太后 / Lady Xia](entities/XiaTaihou.md) — Qin Zhuangxiang Wang's biological mother, honored as Xia Taihou after his accession.
 - [辽城 / Liao City (Warring States)](entities/LiaochengWarringStates.md) — Qi city captured by Yan and recovered by Tian Dan after Lu Zhonglian's arrow-letter breaks the trapped commander stalemate.
@@ -1273,7 +1276,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卞和 / Bian He](entities/BianHe.md) — Chu figure whose punished recognition of hidden jade gives He Shi Bi its origin story.
 - [缪贤 / Miu Xian](entities/MiuXian.md) — Zhao court insider who buys He Shi Bi before Zhao Huiwen Wang forces it into royal possession.
 - [齐襄王 / King Xiang of Qi](entities/QiXiangWang.md) — Tian Fazhang's restored ruler identity, returned from Ju to Linzi after Tian Dan's counterattack and later corrected by Diao Bo for dishonoring Tian Dan.
-- [齐王建 / 田建 / King Jian of Qi](entities/QiWangJian.md) — Young Qi successor under Jun Wang Hou's regency, introduced as the peace-oriented counterpart to Zhao Dan's queen-mother-regency crisis.
+- [齐王建 / 田建 / King Jian of Qi](entities/QiWangJian.md) — Late Qi ruler whose cautious court and Hou Sheng's Qin-funded advice make Qi unreliable as an anti-Qin partner or absorber of Lu.
 - [君王后 / Jun Wang Hou](entities/JunWangHou.md) — Taishi Jiao's daughter and Qi Xiang Wang's queen, whose crisis marriage later faces family-ritual objection.
 - [太史角 / 太史敫 / Taishi Jiao](entities/TaishiJiao.md) — Ju household head who shelters Tian Fazhang, then rejects his daughter's non-ritual marriage to the restored king.
 - [王孙古 / Wang Sun Gu](entities/WangSunGu.md) — Qi retainer who mobilizes revenge against Zhuo Chi after his mother's rebuke.
@@ -1593,7 +1596,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孔父嘉 / Kongfu Jia](entities/KongfuJia.md) — Song noble ancestor used to connect Confucius's genealogy to Weizi Qi.
 - [《战国策》 / Zhanguo Ce](entities/Zhanguoce.md) — Pre-Qin text cited for source variants, Su Qin's text/version branch, and the detailed family-humiliation setup behind 前倨后恭.
 - [《诗经》 / Shijing](entities/Shijing.md) — Classic cited for omen politics, court correction, and the Wei Wuhou restoration story's elite poetic communication.
-- [鲁国 / Lu State](entities/LuState.md) — State attacked by Qi in the source's 394 BCE notice.
+- [鲁国 / Lu State](entities/LuState.md) — Old Zhou enfeoffed state whose late survival, record authority, former cultural prestige, and final destruction by Chu anchor several Ruiqi pre-Qin episodes.
 - [负黍 / Fushu](entities/FushuCity.md) — City whose repeated transfer among Han, Zheng, and Chu illustrates territorial churn.
 - [扁鹊 / Bian Que](entities/BianQue.md) — Physician whose warning to Tian-family Qi Huan Gong is used by Zhouji 08 part 3 as a ruler-judgment caution about rejecting expertise.
 - [芮淇讲透资治通鉴 / Ruiqi Jiangtou Zizhi Tongjian](entities/RuiqiJiangtouZizhiTongjian.md) — Podcast series reading Zizhi Tongjian through explanatory, management, and historiographical frames.
@@ -7441,6 +7444,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
+- [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
 - [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.
 - [Xingshan Theory / 性善论](concepts/XingShanTheory.md) — Mencian human-nature optimism grounded in moral sprouts and linked to benevolent government, kept inside a broader human-plasticity frame.
 - [Human Nature Plasticity / 人性可变性](concepts/HumanNaturePlasticity.md) — Synthesis of the Mencius-Xunzi contrast that treats conduct as changeable through environment, motive, need, education, law, ritual, and crisis.
