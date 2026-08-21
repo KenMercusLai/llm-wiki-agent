@@ -9283,3 +9283,11 @@ Added source page for Zhouji 48: Zhou Shenliang Wang's death and Zhou Nan Wang's
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？
+
+Added source page for Qinji 110-1: Lu Buwei's post-removal political aftershock, Qin royal-clan ministers' guest-expulsion argument, Zheng Guo as foreign-agent evidence, Li Si's low-status Chu clerk background, the toilet-mouse versus granary-mouse analogy, and Li Si's turn toward Xunzi study before the full Jian Zhu Ke Shu argument. Created Guest Expulsion Order and Mouse Philosophy; updated overview, index, Li Si, Jian Zhu Ke Shu, Qin Shi Huang, Lu Buwei, Xunzi, Qin State, Zheng Guo, Zhengguo Canal, Self-Defeating Resource-Drain Strategy, Human Nature Plasticity, and Warring States Careerist Mobility. No direct contradiction found; the episode's cliffhanger and Li Si motive reading are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

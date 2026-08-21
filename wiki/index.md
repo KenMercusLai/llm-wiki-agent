@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？](sources/zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb.md) — 芮淇讲透资治通鉴 episode on Qin's 237 BCE guest-expulsion order, post-Lu Buwei security panic, Zheng Guo as anti-guest evidence, and Li Si's early mouse-philosophy path from minor Chu clerk to Xunzi student.
 - [Dan Loeb: The Lost Art of Short Selling, and Why Stock Picking is Back](sources/all-in-with-chamath-jason-sacks-friedberg-dan-loeb-the-lost-art-of-short-selling-and-why-stock-picking-is-back-41552605.md) — All-In interview with Dan Loeb on Third Point, short selling, event-driven investing, modern stock picking, management quality, Nvidia, private winners after IPO, education reform, and criminal-justice clemency.
 - [《资治通鉴·秦纪》109-2｜春申君被皇帝大舅哥全族灭门](sources/zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw.md) — 芮淇讲透资治通鉴 episode completing Chunshenjun's ignored warning, Li Yuan's palace ambush and household purge, Chu Youwang's accession, and the Sima Qian/Jia Yi/Yang Xiong/Sima Guang/Zhu Xi reception of the Warring States Four Lords.
 - [《资治通鉴·秦纪》109-1｜历史上最著名的皇帝被“绿”了](sources/zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy.md) — 芮淇讲透资治通鉴 episode on Chu Kaolie Wang's childless succession crisis, Chunshenjun's hidden-pregnancy betrayal, Li Yuan's ascent and murder plot, Zhu Ying's warning, and the Qin Shi Huang paternity-rumor comparison.
@@ -1170,8 +1171,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚幽王 / King You of Chu](entities/ChuYouwang.md) — Young Chu ruler who succeeds after Chu Kaolie Wang's death while Li Yuan and his sister control the court in Qinji 109-2.
 - [贾谊 / Jia Yi](entities/JiaYi.md) — Early Western Han writer whose Guo Qin Lun praise of the Warring States Four Lords is contrasted with Yang Xiong and Sima Guang's criticism.
 - [《过秦论》 / Guo Qin Lun](entities/GuoQinLun.md) — Jia Yi essay cited for praising the Four Lords as wise, loyal, generous, and respectful of worthy people in an anti-Qin explanatory frame.
-- [李斯 / Li Si](entities/LiSi.md) — Qin minister introduced as the next-episode hook through Qin's guest-expulsion order and Jian Zhu Ke Shu.
-- [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial previewed as the text that persuades Ying Zheng to stop expelling foreign guest scholars.
+- [李斯 / Li Si](entities/LiSi.md) — Qin minister whose early mouse philosophy, Xunzi study, and guest status set up his response to the 237 BCE guest-expulsion order.
+- [《谏逐客书》 / Jian Zhu Ke Shu](entities/JianZhuKeShu.md) — Li Si memorial whose political occasion is Qin's post-Lu Buwei expulsion of foreign guest officials.
 - [李源 / 李元 / Li Yuan (Warring States)](entities/LiYuanWarringStates.md) — Zhao-origin retainer who uses his sister's pregnancy, Chu Kaolie Wang's childlessness, and Chunshenjun's fear to enter Chu's succession center, then kills Chunshenjun after Mi Wan dies.
 - [李源妹妹 / 李元妹妹 / Li Yuan's Sister](entities/LiYuanSister.md) — Woman whose pregnancy by Chunshenjun is redirected into Chu Kaolie Wang's palace and becomes the vehicle for a hidden-heir succession plot.
 - [嫪毐 / Lao Ai](entities/LaoAi.md) — Qin court favorite of Zhao Ji whose exposed false-eunuch status becomes rebellion in Qinji 108-1.
@@ -7549,6 +7550,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public-Safety-First Urban Governance](concepts/PublicSafetyFirstUrbanGovernance.md) — Pratt's claim that streets, transit, families, business, rebuilding, and production require visible enforcement and order first.
 - [Municipal Transparency Dashboard](concepts/MunicipalTransparencyDashboard.md) — Proposal to make city, school, contractor, and nonprofit spending legible through public dashboards paired with audits.
 - [Permit Automation For Zoned Projects](concepts/PermitAutomationForZonedProjects.md) — Proposal to use AI or automatic approval when projects already satisfy zoning criteria, reducing avoidable permitting delay.
+- [Guest Expulsion Order / 逐客令](concepts/GuestExpulsionOrder.md) — Qin policy crisis where security fear and royal-clan office politics recast foreign guest officials as expulsion targets.
+- [Mouse Philosophy / 老鼠哲学](concepts/MousePhilosophy.md) — Li Si's source-scoped environment-and-opportunity lesson drawn from toilet mice and granary mice.
 - [Frontier Defensive Patience / 边境防御耐心](concepts/FrontierDefensivePatience.md) — Li Mu's pattern of refusing repeated raids, preserving frontier capacity, and waiting to turn enemy overconfidence into decisive battle.
 - [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact while agrarian defenders must protect fixed people, herds, and stores.
 - [Warring States Northern Great Walls / 战国北境长城](concepts/WarringStatesNorthernGreatWalls.md) — Qin, Zhao, and Yan northern defensive wall frame linked to mobile frontier raiding and later Qin Shi Huang wall integration.
