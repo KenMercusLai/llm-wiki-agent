@@ -2,7 +2,7 @@
 title: "Counterintelligence Rumor Wedge / 反间流言楔入"
 type: concept
 tags: [strategy, intelligence, rumor, court-politics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] adds a Qin version before [[ChangpingBattle|长平之战]]. [[FanJu|范雎]] sends agents with heavy money into [[ZhaoState|赵国]] to spread the claim that [[QinState|秦国]] does not fear [[LianPo|廉颇]], that Lian Po may surrender, and that Qin truly fears [[ZhaoKuo|赵括]]. The wedge works because [[ZhaoDan|赵丹 / 赵孝成王]] is already dissatisfied with Lian Po's defensive posture.
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] adds another Qin version after battlefield failure against [[Xinlingjun|信陵君]]. Qin uses money, spies, [[JinBi|晋鄙]]'s former retainers, and staged congratulatory messages to make [[WeiAnxiWang|魏安釐王]] believe that Xinlingjun's coalition prestige is turning into royal ambition. The wedge succeeds when Wei removes Xinlingjun from command, letting Qin damage the enemy's strongest military-political asset without winning a direct battle.
+
 ## Key Claims
 - Rumor is strongest when it amplifies a suspicion the target already finds emotionally or politically plausible.
 - A succession transition can make old military success look like new political threat.
@@ -25,6 +27,7 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - The tactic links information war to [[BattlefieldCommanderReplacementRisk|battlefield commander replacement risk]]: the rumor matters because it changes who commands the army.
 - The same operator can use rumor at multiple levels: first to change enemy command, then to provoke visible enemy acts that damage occupation legitimacy.
 - Qin's Changping use shows the tactic can praise an untested enemy candidate rather than only accuse the incumbent; the goal is still to make the target ruler damage his own command structure.
+- Qinji 103-2 shows the tactic after an enemy victory: the rumor reframes coalition prestige as usurpation risk so the target state destroys its own successful commander.
 
 ## Connections
 - [[TianDan|田单]] - user of the tactic.
@@ -35,3 +38,4 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - [[RumorErosionOfTrust|谣言侵蚀信任]], [[PatronSuccessionExposure|靠山更替暴露风险]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - adjacent mechanisms.
 - [[FanJu|范雎]], [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], and [[ChangpingBattle|长平之战]] - Zhouji 94 Qin rumor wedge against Zhao command.
 - [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - the praised replacement's underlying competence problem.
+- [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[QinState|秦国]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - Qinji 103-2 slander wedge that removes Wei's strongest commander.

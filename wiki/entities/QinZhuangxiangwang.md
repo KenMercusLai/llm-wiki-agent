@@ -2,7 +2,7 @@
 title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
 type: entity
 tags: [person, ruler, hostage, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,8 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 
 [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] adds the third-year frame in 247 BCE. The source presents Qin's continued attack on unsubmitted [[Shangdang|上党]] cities, the first establishment of [[TaiyuanWarringStates|太原]] commandery, and [[MengAo|蒙敖]]'s attack on [[WeiState|魏国]] as the setting in which [[QinShiHuang|嬴政 / 秦始皇]] becomes king at thirteen.
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] closes his reign with the same succession notice from the Qin side. The source says Qin Zhuangxiang Wang dies on the fifth-month bingwu day, glossed as the 26th, and crown prince Ying Zheng succeeds at thirteen. The episode immediately shifts real state authority to [[LuBuwei|吕不韦]], who decides affairs as Wenxin Hou and "仲父," while unrest at [[TaiyuanWarringStates|太原]] / Jinyang previews the next Qin internal-disorder branch.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - merchant-investor who identifies and backs him.
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - father and succession gate through whom Yiren's claim matters.
@@ -44,3 +46,4 @@ The source also adds Yiren's Zhao Ji and escape branches. Yiren asks Lu Buwei fo
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[EasternZhouPolity|东周国]], [[MengAo|蒙敖]], [[SanchuanWarringStates|三川]], and [[LuState|鲁国]] - first-year chancellorship, Eastern Zhou destruction, commandery creation, and parallel old-state collapse notices.
 - [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r|Qinji 102-2]], [[LushiChunqiu|《吕氏春秋》]], [[ZhaoState|赵国]], and [[Jiuding|九鼎]] - second-year compilation/campaign note and source-scoped chronology tension.
 - [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck|Qinji 103-1]], [[Shangdang|上党]], [[TaiyuanWarringStates|太原]], [[MengAo|蒙敖]], [[WeiState|魏国]], and [[QinShiHuang|嬴政 / 秦始皇]] - third-year expansion and succession horizon.
+- [[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx|Qinji 103-2]], [[LuBuwei|吕不韦]], and [[QinEastwardPressure|秦国东进压力]] - death, young Ying Zheng's accession, Lu Buwei regency-like authority, and Jinyang unrest.

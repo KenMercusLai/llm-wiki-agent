@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -42,6 +42,12 @@ The same source gives Xinlingjun's answer through ritual and continued patronage
 
 The same source complicates the new victory through [[GuanchengWarringStates|管城]]. Xinlingjun's attempt to take the Qin-held city creates a collision with [[SuGao|苏高]] and [[AnlingJun|安陵君]], and Su Gao's suicide leads Xinlingjun to call himself a "小人." The wiki keeps this as a further development of Xinlingjun's moral difficulty: his command can save states and organize resistance, but the same effective urgency can coerce duty-bound people into death.
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] completes the late-life arc. After Qin cannot easily defeat him militarily, it uses money, spies, [[JinBi|晋鄙]]'s former retainers, and congratulatory messages to make Xinlingjun look like a man about to become Wei king. [[WeiAnxiWang|魏安釐王]] accepts the suspicion, replaces him, and removes his command.
+
+The episode reads Xinlingjun's final "death by wine and women" as a surface description of political ruin. He recognizes that slander has made him unusable again, claims illness, withdraws from government, and spends four years in frustrated self-consumption. The source contrasts this with [[LuZhonglian|鲁仲连]]'s cleaner refusal-and-withdrawal model: Xinlingjun can save states and attract people, but he cannot turn defeat into a dignified exit.
+
+The same source expands Xinlingjun's afterlife through [[LiuBang|刘邦]]. Liu Bang is presented as a young admirer who went to Daliang to join Xinlingjun's retainer world, arrived after the Wei prince's death, and then turned to [[ZhangEr|张耳]], a former Xinlingjun retainer. This makes Xinlingjun's reputation not only remembered worship, but a style of generosity and recruitment that the episode sees flowing into Liu Bang's later political behavior.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -57,3 +63,4 @@ The same source complicates the new victory through [[GuanchengWarringStates|管
 - [[MoralizedShiIdentity|士的道德化身份]] - Zhouji 97 part 3 answer to Pingyuanjun's contempt for low-status friendships.
 - [[WeiAnxiWang|魏安釐王]], [[WeiState|魏国]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Qinji 101-2 missed strategic-use frame.
 - [[MengAo|蒙敖]], [[GuanchengWarringStates|管城]], [[SuGao|苏高]], [[AnlingJun|安陵君]], [[HuSanxing|胡三省]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 recall, five-state victory, and Guancheng ethical conflict.
+- [[CounterintelligenceRumorWedge|反间流言楔入]], [[RumorErosionOfTrust|谣言侵蚀信任]], [[PowerExitTrap|权力退场困境]], [[LiuBang|刘邦]], and [[ZhangEr|张耳]] - Qinji 103-2 slander-driven removal, failed exit, and later reception.

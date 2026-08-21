@@ -2,7 +2,7 @@
 title: "吕不韦 / Lu Buwei"
 type: entity
 tags: [person, strategist, merchant, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The same source also sharpens the cost and source-critical branches. It names [[
 
 The same source moves Lu Buwei from succession investor to state executor. When [[EasternZhouPolity|东周国]] plots with lords against [[QinState|秦国]], Qin Zhuangxiang Wang sends Lu Buwei to destroy it and move the ruler to Yangren. Lu Buwei is then enfeoffed as Wenxin Hou with ten myriads of households around [[Luoyi|洛邑]] / Luoyang, making his earlier political investment visibly convert into office, military assignment, title, and fief.
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] moves Lu Buwei into the post-Zhuangxiang power position. After [[QinZhuangxiangwang|秦庄襄王]] dies and thirteen-year-old [[QinShiHuang|嬴政 / 秦始皇]] succeeds, state affairs are decided by Wenxin Hou Lu Buwei, who is called "仲父." The source emphasizes how unusual that is: Qin's strongest figure is not royal kin or a queen-mother relative, but a former merchant with a very large household and guest network.
+
 ## Connections
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - succession figure whose appearance foreshadows Lu Buwei.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - Qin court context.
@@ -38,3 +40,4 @@ The same source moves Lu Buwei from succession investor to state executor. When 
 - [[YangquanJun|阳泉君]], [[ZhaoJi|赵姬]], [[WrittenSuccessionCredential|书面继承凭证]], and [[HistoricalDetectiveReasoning]] - Zhouji 97 part 4 lobbying route, personal-cost branch, formal adoption proof, and paternity-rumor caution.
 - [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]] - Qinji 101-1 suspicion branch kept source-scoped.
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[JiangTaigong|姜太公 / 姜子牙]], [[EasternZhouPolity|东周国]], [[Luoyi|洛邑]], and [[QinState|秦国]] - lineage claim, chancellorship, Eastern Zhou campaign, and Wenxin Hou reward.
+- [[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx|Qinji 103-2]], [[QinShiHuang|嬴政 / 秦始皇]], [[QinZhuangxiangwang|秦庄襄王]], and [[PoliticalVentureInvestment|政治风险投资]] - post-succession authority as the payoff of the earlier investment.

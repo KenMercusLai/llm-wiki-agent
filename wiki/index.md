@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色](sources/zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's slander-driven removal, final withdrawal, Liu Bang's youthful admiration and Zhang Er connection, and Qin's transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei.
 - [《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？](sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck.md) — 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, a five-state defeat of Meng Ao, and the Guancheng conflict among Su Gao, Anling Jun, and Xinlingjun.
 - [《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜](sources/zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r.md) — 芮淇讲透资治通鉴 episode explaining Lu's historical-record authority, late survival through great-power distraction, Qi's non-intervention under Hou Sheng, Chu's destruction of Lu, and Chunshenjun's Jiangdong fief move.
 - [《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？](sources/zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's Qin chancellorship, source-scoped Jiang Taigong lineage claim, Jiang Taigong's late recognition by Zhou Wenwang, Qin's destruction of Eastern Zhou, Sanchuan commandery creation, and Lu's final collapse under Chu.
@@ -1146,6 +1147,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张耳 / Zhang Er](entities/ZhangEr.md) — Former Xinlingjun retainer whom young Liu Bang turns to after arriving in Daliang too late to join Xinlingjun.
 - [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
 - [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
@@ -7542,7 +7544,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Atrocity Backfire Mobilization / 暴行反噬式动员](concepts/AtrocityBackfireMobilization.md) — Pattern where enemy cruelty meant to frighten defenders instead makes surrender intolerable and hardens resistance.
 - [Deceptive Surrender Lull / 诈降麻痹](concepts/DeceptiveSurrenderLull.md) — False-surrender setup that makes a besieging army relax before a prepared surprise attack.
 - [Marriage Ritual Orthodoxy / 婚姻礼法正当性](concepts/MarriageRitualOrthodoxy.md) — Family-ritual standard of parental command and matchmaker mediation used to judge Jun Wang Hou's crisis marriage.
-- [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tactic that exploits ruler suspicion or impatience to induce damaging enemy command changes, from Tian Dan to Fan Ju at Changping.
+- [Counterintelligence Rumor Wedge / 反间流言楔入](concepts/CounterintelligenceRumorWedge.md) — Tactic that exploits ruler suspicion or impatience to induce damaging enemy command changes, from Tian Dan and Fan Ju to Qin's slander against Xinlingjun.
 - [Battlefield Commander Replacement Risk / 阵前换将风险](concepts/BattlefieldCommanderReplacementRisk.md) — Failure mode where front-line replacement breaks strategy, morale, secrecy, or competence, now including Lian Po's replacement by Zhao Kuo.
 - [Occupation Pacification Strategy / 占领区怀柔治理](concepts/OccupationPacificationStrategy.md) — Le Yi's post-conquest approach of restraint, relief, and livelihood restoration to make captured Qi governable.
 - [Jiang-Xiang Harmony / 将相和式内部团结](concepts/JiangXiangHeInternalUnity.md) — State-security pattern where Lian Po and Lin Xiangru subordinate rank resentment to Zhao's need for combined military and diplomatic deterrence.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色
+
+Added source page for a 芮淇讲透资治通鉴 episode completing Xinlingjun's late arc: Qin's slander campaign after battlefield failure, Wei Anxi Wang's removal of Xinlingjun, Xinlingjun's frustrated withdrawal and death, Kong Bin's mourning-protocol advice, Liu Bang's youthful Xinlingjun admiration through Zhang Er, and the Qin transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei. Created Zhang Er; updated overview, index, Xinlingjun, Sima Qian, Wei Anxi Wang, Kong Bin, Han Huanhui Wang, Liu Bang, Qin Zhuangxiang Wang, Qin Shi Huang, Lu Buwei, Taiyuan, and related rumor, trust, patronage, reputation, power-exit, and Qin-pressure concept pages. No direct contradiction found; the title's Sima Qian "idol" frame and Liu Bang inheritance claim are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, five-state defeat of Meng Ao, and the Guancheng ethical conflict among Su Gao, Anling Jun, and Xinlingjun. Created Su Gao, Anling Jun, Guancheng, Xingze, Yingyang, Hu Sanxing, and State Survival vs Kinship and Ministerial Duty; updated overview, index, Xinlingjun, Mao Gong, Xue Gong, Meng Ao, Qin Zhuangxiang Wang, Qin Shi Huang, Wei Anxi Wang, Daliang, Taiyuan, Sanchuan, and related patronage, hezong, Qin-pressure, moral-cost, and historical-source pages. No direct contradiction found; Guancheng's speeches and title-level Sima Qian framing remain source-scoped.
@@ -9151,6 +9155,10 @@ Health passed first with no empty/stub files, index drift, or source-log coverag
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？
 
 Added source page for the first Qinji 102 installment: Lu Buwei's appointment as Qin chancellor, the source-scoped claim that he descends from Jiang Taigong through a Jiang-surname/Lu-clan line, Jiang Taigong's late recognition by Zhou Wenwang, Zhou Wuwang's conquest and Qi enfeoffment branch, Eastern Zhou's destruction by Lu Buwei, Qin's Sanchuan commandery creation through Meng Ao, and Lu's final demotion under Chu. Created Zhou Wenwang and Late-Blooming Talent; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang, Jiang Taigong, Zhou Wuwang, Eastern Zhou Polity, Zhou Royal House, Sanchuan, Meng Ao, Qin State, Qi State, Chu State, Lu State, and Zhouyi Divination. No direct contradiction found; the Lu Buwei genealogy, Jiang Taigong age details, and Sanchuan river-name uncertainty are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

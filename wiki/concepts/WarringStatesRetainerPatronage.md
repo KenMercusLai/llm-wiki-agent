@@ -2,7 +2,7 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
 last_updated: 2026-08-21
 ---
 
@@ -44,6 +44,8 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 
 [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] shows that low-status association can become corrective counsel, not only recruitment display. [[MaoGong|毛公]] and [[XueGong|薛公]] rebuke [[Xinlingjun|信陵君]] for remaining in [[ZhaoState|赵国]] while [[WeiState|魏国]] is under Qin attack, and their advice converts reputation into return, command, and a five-state [[HezongAlliance|合纵]] victory. The same episode then marks a limit: in the [[GuanchengWarringStates|管城]] crisis, state-saving command pressure can demand morally impossible service from [[SuGao|苏高]] and [[AnlingJun|安陵君]].
 
+[[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] adds a posthumous transmission mode. [[LiuBang|刘邦]] reportedly tries to join Xinlingjun's retainer world, misses him by death, and then turns to [[ZhangEr|张耳]], a former Xinlingjun retainer. The episode also reads Liu Bang's later open-handed recruitment style as modeled on Xinlingjun, so patronage now appears not only as a live household institution but as a portable political style.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -62,6 +64,7 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - Zhouji 97 part 1 adds an afterlife mode: patronage actors can become侠义 exemplars once their loyalty and violence are interpreted after the political result.
 - Zhouji 97 part 2 adds a host-state competition mode: a displaced patron can keep attracting worthies inside another lord's city, turning humility and association into a live political comparison.
 - Qinji 103-1 adds a corrective-counsel mode: trusted low-status worthies can tell a patron that his reputation now requires returning to state danger rather than preserving private comfort.
+- Qinji 103-2 adds a transmission mode: a patronage reputation can outlive the patron, route younger followers through former retainers, and become an imitated recruitment style.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -82,3 +85,4 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[RetainerReciprocityEthic|士为知己者死]], and [[Xinlingjun|信陵君]] - Zhouji 97 part 1侠义 afterlife of the rescue network.
 - [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 continued low-status recruitment after Xinlingjun settles in Zhao.
 - [[MengAo|蒙敖]], [[WeiAnxiWang|魏安釐王]], [[GuanchengWarringStates|管城]], [[SuGao|苏高]], [[AnlingJun|安陵君]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 retainer counsel, coalition command, and patronage ethics under state survival pressure.
+- [[LiuBang|刘邦]], [[ZhangEr|张耳]], [[Daliang|大梁]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Qinji 103-2 patronage afterlife and style transmission.
