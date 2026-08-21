@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖](sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc.md) — 芮淇讲透资治通鉴 episode on Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's fall, Wei Bao/Bao Ji/Xu Fu's misread Han payoff, and Tang Ju's source-critical Anling "布衣之怒" story.
 - [《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！](sources/zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk.md) — 芮淇讲透资治通鉴 episode on Qin's post-Jing Ke attack on Yan, Yan Wang Xi killing Taizi Dan under Zhao Jia's advice, and the Li Xin/Wang Jian troop-estimate debate before the Chu campaign.
 - [《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？](sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu.md) — 芮淇讲透资治通鉴 episode completing Jing Ke's failed assassination attempt, Ying Zheng's escape and counterattack, Wang Jian's retaliatory strike on Yan and Dai, and Tao/Gong poetic memory of Jing Ke.
 - [《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了](sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn.md) — 芮淇讲透资治通鉴 episode opening Qinji 2 with Jing Ke and Qin Wuyang entering Xianyang, Meng Jia's access-broker role, Yan's surrender script, Qin's institutional momentum, and Qin Wuyang's palace panic.
@@ -1175,6 +1176,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [唐雎 / Tang Ju (Anling envoy)](entities/TangJuEnvoy.md) — Anling envoy whose "布衣之怒" reply to Ying Zheng anchors the episode's source-critical face-slapping reversal story.
+- [魏豹 / Wei Bao](entities/WeiBao.md) — Wei royal survivor who misreads Xu Fu's prediction about Bao Ji as his own coming rise.
+- [魏咎 / Wei Jiu](entities/WeiJiu.md) — Wei royal survivor paired with Wei Bao after Wang Ben's flooding siege destroys Wei.
+- [薄姬 / Lady Bo](entities/BaoJi.md) — Woman whose predicted future child becomes Liu Heng through Liu Bang rather than Wei Bao.
+- [许负 / Xu Fu (physiognomist)](entities/XuFuPhysiognomist.md) — Physiognomist whose prediction about Bao Ji creates the Wei Bao-to-Han Wen Di irony, distinct from 徐福 the fangshi.
+- [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, used here as the later fulfillment of Xu Fu's prediction.
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
 - [王贲 / Wang Ben (Qin)](entities/WangBenQin.md) — Wang Jian's son and Qin commander whose southern-front attack on Chu sets up the Chu campaign debate.
@@ -7570,6 +7577,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame for Wang Ben turning Daliang's water environment into the mechanism of Wei's collapse.
+- [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".
+- [Face-Slapping Reversal Narrative / 打脸反杀叙事](concepts/FaceSlappingReversalNarrative.md) — Narrative pattern connecting Tang Ju's direct confrontation with earlier Su Qin "爽文" status reversals.
 - [Heir Sacrifice Appeasement / 杀储求和式保祀](concepts/HeirSacrificeAppeasement.md) — Pattern where a weak ruler kills the crown prince as appeasement to preserve ancestral sacrifice but misreads a conquest-minded enemy.
 - [图穷匕见 / Tuqiong Bijian](concepts/TuqiongBijian.md) — Moment when Jing Ke reaches the end of the Du Kang map and the hidden dagger appears.
 - [Youxia Suppression Under Unification / 大一统下的游侠压制](concepts/YouxiaSuppressionUnderUnification.md) — Pattern where Qin's unified imperial order turns independent armed侠士 from celebrated actors into political threats.

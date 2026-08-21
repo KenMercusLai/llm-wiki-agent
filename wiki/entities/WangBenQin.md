@@ -2,7 +2,7 @@
 title: "王贲 / Wang Ben (Qin)"
 type: entity
 tags: [person, general, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
+sources: [zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
 last_updated: 2026-08-22
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-22
 
 The episode uses Wang Ben briefly but strategically. His action shows Qin's conquest machine operating on multiple fronts: Yan is being pushed toward Liaodong, while Chu is already under pressure before Ying Zheng asks [[LiXinQin|李信]] and Wang Jian how many troops are needed for a full conquest.
 
+[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]] shifts Wang Ben to the Wei front in 225 BCE. While [[LiXinQin|李信]] and Meng Wu move against [[ChuState|楚国]], Wang Ben attacks [[WeiState|魏国]], diverts Yellow River water toward [[Daliang|大梁]], and forces [[WeiWangJia|魏王假]] to surrender after the city wall is damaged. The episode therefore adds [[HydraulicSiegeWarfare|水攻围城]] to Wang Ben's profile, making him not only Wang Jian's son and a southern-front commander but also the executor of Wei's final destruction.
+
 ## Connections
 - [[QinState|秦国]] - state he serves.
 - [[WangJianQin|王翦]] - father and adjacent Qin commander in the episode.
 - [[ChuState|楚国]] - target of Wang Ben's southern-front attack.
+- [[WeiState|魏国]], [[WeiWangJia|魏王假]], [[Daliang|大梁]], and [[HydraulicSiegeWarfare|水攻围城]] - Qinji 117-1 water attack and Wei endpoint.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LiXinQin|李信]], and [[AnchoringEffect|锚定效应]] - broader Chu-campaign decision context.

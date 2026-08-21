@@ -2,8 +2,8 @@
 title: "Historical Detective Reasoning"
 type: concept
 tags: [history, archaeology, reasoning, detective-fiction]
-sources: [zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 26-niudun-yu-weibi-zhizaozhe-keneng-shi-sineipu-de-yuanxing-580065317, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+last_updated: 2026-08-22
 ---
 
 # Historical Detective Reasoning
@@ -40,6 +40,8 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 
 [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]]. [[QinXiaowenwang|秦孝文王]]'s three-day formal reign makes a [[LuBuwei|吕不韦]] murder theory tempting because Lu Buwei benefits from [[QinZhuangxiangwang|子楚]]'s quick accession. The episode still keeps alternative explanations alive: illness, age, long pressure as crown prince, and mourning exhaustion. The case extends the concept's rule that motive plus narrative neatness is not enough to settle causation.
 
+[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]] adds the [[TangJuEnvoy|唐雎]] and [[AnlingJun|安陵君]] reliability test. The episode does not reject the story's value, but it asks whether the dramatic court scene fits surrounding constraints: Ying Zheng had recently survived [[JingKe|荆轲]], Qin court sword rules would make Tang Ju's threat hard to stage literally, the reported age tradition is extreme, and Anling's chronology is uncertain. The method point is that a story can be memorable and politically meaningful while still requiring evidence-bound caution.
+
 ## Key Claims
 - Historical evidence is usually fragmentary, mediated, and unevenly preserved.
 - A strong historical inference asks who produced the source, when it appeared, what it leaves out, and what rival explanation it must beat.
@@ -59,6 +61,7 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - Lineage rumors should be tested for source independence, internal chronology, and motif borrowing before being turned into biographical fact.
 - Motif similarity between two scandals can be evidence for narrative borrowing or rumor appeal without proving that both scandals happened in the same way.
 - Sudden royal deaths should keep murder, illness, exhaustion, and later narrative interest separate unless evidence narrows the field.
+- Dramatic persuasion scenes should be tested against practical access, security, chronology, and genre pressure before they are treated as literal transcripts.
 
 ## Connections
 - [[ZhangZhihao|张志浩]] and [[LishiBoke|《历史播客》]] - source context.
@@ -81,3 +84,4 @@ The episode grounds the concept through [[TheDaughterOfTime|《时间的女儿�
 - [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], [[GuoMoruo|郭沫若]], and [[Chunshenjun|春申君]] - Zhouji 97 part 4 paternity-rumor evidence test.
 - [[PregnancySuccessionSubstitution|孕身继承替换]], [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[MiWan|楚考烈王]] - Qinji 109-1 concrete Chu motif used to caution against overreading the Qin paternity rumor.
 - [[QinXiaowenwang|秦孝文王]], [[QinXiaowenwangDeathUncertainty|秦孝文王三日而亡疑案]], [[LuBuwei|吕不韦]], and [[QinZhuangxiangwang|异人 / 子楚]] - Qinji 101-1 sudden-death uncertainty.
+- [[TangJuEnvoy|唐雎]], [[AnlingJun|安陵君]], [[Zhanguoce|《战国策》]], [[JingKe|荆轲]], and [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc|Qinji 117-1]] - dramatic envoy scene tested against security and chronology constraints.

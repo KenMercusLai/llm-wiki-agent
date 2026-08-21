@@ -9394,3 +9394,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖
+
+Added source page for Qinji 117-1: Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's destruction, the Wei Bao/Bao Ji/Xu Fu prediction branch fulfilled by Liu Heng, and the Tang Ju-Anling "布衣之怒" story with explicit reliability cautions. Created Tang Ju (Anling envoy), Wei Bao, Wei Jiu, Bao Ji, Xu Fu (physiognomist), Liu Heng, Hydraulic Siege Warfare, Cloth-Clad Anger Persuasion, and Face-Slapping Reversal Narrative; updated overview, index, Wang Ben, Wei Wang Jia, Anling Jun, Daliang, Zhanguo Ce, Zizhi Tongjian, Talent Attraction Through Respect, Historical Detective Reasoning, Inspirational Narrative Commercialization, Qin Shi Huang, Qin State, Wei State, Chu State, and Liu Bang. No settled contradiction found; 唐雎/唐举 and 许负/徐福 homophones are kept separate, and the Tang Ju court scene is treated as source-scoped literary-historical material rather than settled transcript.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

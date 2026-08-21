@@ -2,8 +2,8 @@
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
 tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-22
 ---
 
 # Talent Attraction Through Respect / 礼贤下士式人才吸附
@@ -32,6 +32,8 @@ The concept differs from simple recruitment. The source's point is that public r
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds the mechanism as a defensive precedent rather than a recruitment scene. [[YaoJia|姚贾]] invokes [[JiangTaigong|姜太公 / 姜子牙]], [[GuanZhong|管仲]], [[BailiXi|百里奚]], and [[QinMugong|秦穆公]] to argue that effective rulers must not reject useful ministers because of low origin, captivity, earlier dishonor, or awkward biography.
 
+[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]] adds a state-decline contrast. The episode explains [[WeiState|魏国]]'s fall by looking back to its early talent ecology under Wei Wenhou and then to later ruler suspicion, lost ministers, and unused worthies. Qin's opposite habit of seeking and trusting talent becomes part of why [[WangBenQin|王贲]] can end Wei at [[Daliang|大梁]] while Wei has no comparable repair capacity left.
+
 ## Key Claims
 - Respect can be a state-building signal when talent is mobile.
 - A ruler's humility toward scholars can convert personal reputation into institutional attractiveness.
@@ -45,6 +47,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - Zhouji 97 part 2 adds that respect may require entering the worthy person's own low-status world, not merely bringing that person into the patron's hall.
 - Qinji 103-1 adds that respect can create trusted correction: the attracted worthy can preserve the patron's reputation by rebuking him back toward state duty.
 - Qinji 112-3 adds that historical respect-for-talent precedents can be used defensively against biographical purity tests.
+- Qinji 117-1 adds the negative endpoint: a state that loses the ability to attract, trust, and use talent can preserve a name for a while but lose the capacity to answer terminal pressure.
 
 ## Connections
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
@@ -60,3 +63,4 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], and [[PowerEtiquetteReading|权力礼仪细读]] - Zhouji 97 part 2 pedestrian visits and aristocratic-status discomfort.
 - [[WeiAnxiWang|魏安釐王]], [[MengAo|蒙敖]], [[HezongAlliance|合纵]], and [[WarringStatesRetainerPatronage|战国养士]] - Qinji 103-1 counsel-to-command payoff after Xinlingjun's low-status recruitment in Zhao.
 - [[YaoJia|姚贾]], [[HanFei|韩非]], [[JiangTaigong|姜太公 / 姜子牙]], [[GuanZhong|管仲]], [[BailiXi|百里奚]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent argument against rejecting low-origin or tainted talent.
+- [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc|Qinji 117-1]], [[WeiState|魏国]], [[QinState|秦国]], and [[WangBenQin|王贲]] - Wei's talent-governance decline contrasted with Qin's usable capacity.
