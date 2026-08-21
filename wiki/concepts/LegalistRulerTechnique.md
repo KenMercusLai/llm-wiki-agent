@@ -2,7 +2,7 @@
 title: "Legalist Ruler Technique / 法家君术"
 type: concept
 tags: [political-theory, legalism, governance, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The concept is deliberately cold. It separates political effectiveness from conv
 
 [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] adds a boundary case through [[FanJu|范雎]] in [[WeiState|魏国]]. The host explicitly warns that Warring States "法制" is not modern rule of law: harsh punishment and Legalist-adjacent statecraft can coexist with [[PrivatePunishmentWithoutProcedure|private punishment without procedure]], where suspicion is enough for a powerful minister such as [[WeiQiWarringStates|魏齐]] to stage violence without investigation.
 
+[[zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz]] adds Han Fei's failed-reception setting. [[HanFei|韩非]] knows the Legalist reform language and repeatedly advises [[HanAn|韩王安 / Han An]], but [[HanState|韩国]] does not adopt the program. The source therefore shows a limit of technique as text: a doctrine about employing people, reading reality, and strengthening the state remains politically inert if the ruler cannot or will not use it.
+
 ## Key Claims
 - Ruler competence is measured through control of people, information, and speech.
 - Personal vice does not automatically imply political collapse in this frame.
@@ -40,6 +42,7 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - Zhouji 74 adds that hidden information and engineered counterweights can serve ruler control even when the source does not present a full legal reform program.
 - Zhouji 86 adds fiscal enforcement against elite households as a Legalist-adjacent state-capacity test.
 - Zhouji 88 adds the procedural boundary: Legalist-style order can still fail as law if private suspicion and elite anger replace investigation.
+- Qinji 112-2 adds a failed-reception boundary: Han Fei's Legalist advice and writings can impress Ying Zheng, but they first fail to move Han's own ruler.
 
 ## Connections
 - [[HanFei|韩非]] - textual and philosophical source for the episode's frame.
@@ -53,5 +56,6 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - [[SurveillanceBasedRulerControl|窥察制衡式君术]], [[Xunzi|荀子]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 74 hidden-information extension and evaluative limit.
 - [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 tax-law enforcement and elite compliance branch.
 - [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[XuJia|须贾 / 徐谷]], and [[PrivatePunishmentWithoutProcedure|无程序私刑]] - Zhouji 88 boundary between harsh law and modern legal procedure.
+- [[HanFei|韩非]], [[HanAn|韩王安 / Han An]], [[Gufen|《孤愤》]], [[Wudu|《五蠹》]], and [[ZhengRenMaiLv|郑人买履]] - Qinji 112-2 failed Legalist advice, texts, and practical-judgment parable.
 - [[VirtueOverNaturalBarriers]] and [[WangdaoVsBadao]] - contrasting legitimacy and benevolent-rule frames.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where ruler technique becomes politically salient.

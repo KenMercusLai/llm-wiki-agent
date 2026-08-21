@@ -9322,3 +9322,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？
+
+Added source page for Qinji 112-2: Han Fei's ignored Legalist reform advice inside weak Han, his writings 《孤愤》 and 《五蠹》, the 郑人买履 practical-judgment parable, Ying Zheng's admirer response, Han Fei's mission to Qin, Li Si's opposition, and the 234-233 BCE Huan Yi / Li Mu Zhao-front setup. Created Han An, Gu Fen, Wu Du, Zheng Ren Mai Lv, and Author Admiration Power Risk. Updated overview, index, Han Fei, Li Si, Qin Shi Huang, Qin State, Han State, Zhao State, Li Mu, Huan Yi, Legalist Ruler Technique, and Rule Idolatry. No direct contradiction found; Han Fei's imprisonment and death remain unresolved by this source.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

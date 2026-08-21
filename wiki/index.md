@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？](sources/zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz.md) — 芮淇讲透资治通鉴 episode on Han Fei's ignored Legalist reform advice in weak Han, Ying Zheng's admiration for 《孤愤》 and 《五蠹》, 郑人买履, and Han Fei's mission to Qin before Li Si's opposition.
 - [《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？](sources/zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg.md) — 芮淇讲透资治通鉴 episode on Han Fei's Cun Han argument, Li Si's counter and rumor operation, and Yao Jia's Qin-backed three-year disruption of a Zhao-Han-Wei-Chu hezong plan.
 - [《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话](sources/zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch.md) — 芮淇讲透资治通鉴 episode completing Lu Buwei's final crisis: Ying Zheng's Shu relocation order, Lu Buwei's poisoned-wine suicide, mourners' punishment, Fayan evaluation, and drought-year six-state fragmentation.
 - [《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手](sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc.md) — 芮淇讲透资治通鉴 episode on 236 BCE Zhao attacking Yan, Qin's Wang Jian/Huan Yi/Yang Duanhe strike on Zhao, and Zhao Qian's disputed succession after Zhao Jia is displaced.
@@ -1166,6 +1167,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩王安 / Han An](entities/HanAn.md) — Late Han ruler who ignores Han Fei's Legalist reform advice and sends him as envoy to Qin when Han becomes Qin's first-target problem.
+- [《孤愤》 / Gu Fen](entities/Gufen.md) — Han Fei text whose political anger reaches Ying Zheng and helps make the author admired but unsafe in Qin.
+- [《五蠹》 / Wu Du](entities/Wudu.md) — Han Fei text paired with 《孤愤》 in Ying Zheng's admirer response before Han Fei enters Qin.
 - [姚贾 / Yao Jia](entities/YaoJia.md) — Low-origin Warring States persuader who moves from Zhao envoy to Qin-backed diplomat and breaks a four-state anti-Qin hezong plan.
 - [《存韩》 / Cun Han](entities/CunHan.md) — Han Fei memorial that tries to protect Han by redirecting Qin's first attack toward Zhao, before Li Si exposes Han's rear-risk uncertainty.
 - [赵迁 / 赵幽缪王 / Zhao Youmiu Wang](entities/ZhaoYoumiuWang.md) — Zhao ruler whose accession after Zhao Jia's displacement is framed as a succession weakness during Qin's 236 BCE attack.
@@ -7534,6 +7538,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Author Admiration Power Risk](concepts/AuthorAdmirationPowerRisk.md) — Pattern where a powerful reader's admiration for a text draws the author into unsafe court politics.
+- [郑人买履 / Zheng Ren Mai Lv](concepts/ZhengRenMaiLv.md) — Han Fei parable warning that measurements and rules become absurd when they replace contact with concrete reality.
 - [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao-Yan-Qin and reinforced by drought-year Wei-Chu fragmentation.
 - [Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶](concepts/FavoriteDrivenHeirDisplacement.md) — Succession-risk mechanism where an established heir is displaced for the child of a favored partner, developed through Zhao Daoxiang Wang, Zhao Jia, and Zhao Qian.
 - [Short Selling](concepts/ShortSelling.md) — Downside investing discipline that Loeb frames as fraud hunting and structural research rather than valuation-only negativity.
