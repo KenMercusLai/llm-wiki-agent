@@ -9363,6 +9363,10 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！
+
+Added source page for Qinji 116: Qin's attack on Yan after Jing Ke's failed assassination, Wang Jian's defeat of the Yan-Dai force and capture of Ji, Yan Wang Xi's killing of Yan Taizi Dan under Zhao Jia's advice, and the transition to the Chu campaign through Wang Ben, Li Xin, Meng Tian, Wang Jian, and anchoring-effect framing. Created Li Xin (Qin), Meng Tian, Wang Ben (Qin), and Heir Sacrifice Appeasement; updated overview, index, Yan Taizi Dan, Yan Wang Xi, Zhao Jia, Wang Jian, Qin Shi Huang, Qin State, Yan State, Chu State, Weak-State Assassination Strategy, Anchoring Effect, and Qin Eastward Pressure. No settled contradiction found; pre-imperial Qin Shi Huang wording and the anchoring interpretation are kept source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了
 
 Added source page for Qinji 115-1: Qinji 2 opening frame, the counterfactual that killing Ying Zheng would likely shake Qin without reversing its institutional unification momentum, Jing Ke and Qin Wuyang's 227 BCE arrival in Xianyang, Meng Jia's access-broker role, Yan's surrender script through Fan Wuji's head and the Du Kang map, Ying Zheng's high-ceremony reception, and Qin Wuyang's panic forcing Jing Ke to proceed alone. Created Meng Jia; updated Jing Ke, Qin Wuyang, Fan Wuji, Du Kang Map, Xianyang, Qin Wu Wang, Yan Taizi Dan, Yan State, Qin Shi Huang, Qin State, Weak-State Assassination Strategy, Assassination Access Credential, Private Access Talent Channel, Farming-War Statecraft, Qin Administrative Standardization, and Qin Eastward Pressure. No settled contradiction found; pre-imperial Qin Shi Huang wording, the episode's assassination-success counterfactual, and the transcript's stopping point before the strike are kept source-scoped.
@@ -9382,6 +9386,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？
 
 Added source page for Qinji 115-2: Jing Ke's map-and-dagger reveal, failed strike, Ying Zheng's escape and counterattack, Jing Ke's death and punitive dismemberment, Qin's retaliatory order sending Wang Jian against Yan, the defeat of Yan and Dai/Zhao Jia west of the Yi River, and the later Tao Yuanming/Gong Zizhen poetic memory of Jing Ke. Created Tao Yuanming, Gong Zizhen, Tuqiong Bijian, and Youxia Suppression Under Unification; updated overview, index, Jing Ke, Qin Wuyang, Yan Taizi Dan, Wang Jian, Qin Shi Huang, Qin State, Yan State, Zhao Jia, Dai State, Weak-State Assassination Strategy, Assassination Access Credential, Mistrust-Triggered Mission Launch, Yi Shui Farewell, Political Assassination Ethics, Moralized Shi Identity, and Retainer Reciprocity Ethic. No settled contradiction found; Qin Wuyang counterfactual, Jing Ke's dying explanation, and pre-imperial title wording are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] lint | Wiki health check
 

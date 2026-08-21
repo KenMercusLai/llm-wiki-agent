@@ -2,7 +2,7 @@
 title: "燕太子丹 / Crown Prince Dan of Yan"
 type: entity
 tags: [person, crown-prince, yan-state, warring-states, hostage]
-sources: [zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
+sources: [zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The episode therefore makes Dan a patron whose urgency turns into mistrust. His 
 
 [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu]] makes that judgment harsher after the attempt fails. Jing Ke's dying claim says he wanted to capture the Qin king alive and force a pact to repay Taizi Dan, but the host's practical explanation returns to Dan's earlier impatience: sending [[QinWuyang|秦武阳]] before Jing Ke's preferred partner arrived weakened the mission's execution. The episode closes by asking what will happen to Dan as the failed plot's sponsor.
 
+[[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]] answers that cliffhanger through Dan's death. After Qin defeats the Yan-Dai force and captures Ji, Dan flees with [[YanWangXi|燕王喜]] toward Liaodong while [[LiXinQin|李信]] pursues. [[ZhaoJia|赵嘉]] then advises Yan Wang Xi to kill Dan and offer his head to Qin, so Dan's final role becomes a [[HeirSacrificeAppeasement|heir-sacrifice appeasement]] payment that fails to stop Qin's larger conquest.
+
 ## Connections
 - [[YanState|燕国]] - polity and royal house.
 - [[ZhaoState|赵国]] and [[Handan|邯郸]] - hostage setting.
@@ -34,3 +36,4 @@ The episode therefore makes Dan a patron whose urgency turns into mistrust. His 
 - [[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged|Qinji 114-3]], [[DuKangMap|督亢地图]], [[QinWuyang|秦武阳]], [[AssassinationAccessCredential|刺杀接近凭证]], [[MistrustTriggeredMissionLaunch|疑忌触发式出发]], and [[YiShuiFarewell|易水送别]] - execution preparation, mistrust, and farewell.
 - [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn|Qinji 115-1]], [[MengJia|蒙嘉]], [[QinEastwardPressure|秦国东进压力]], and [[FarmingWarStatecraft|耕战逻辑]] - counterfactual limit on Dan's assassination strategy.
 - [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]], [[TuqiongBijian|图穷匕见]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - failed attack, source-scoped causation, and the cliffhanger around Dan's fate.
+- [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], [[ZhaoJia|赵嘉]], [[LiXinQin|李信]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - flight to Liaodong, paternal execution, and failed appeasement.

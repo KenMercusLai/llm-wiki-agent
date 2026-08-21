@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！](sources/zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk.md) — 芮淇讲透资治通鉴 episode on Qin's post-Jing Ke attack on Yan, Yan Wang Xi killing Taizi Dan under Zhao Jia's advice, and the Li Xin/Wang Jian troop-estimate debate before the Chu campaign.
 - [《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？](sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu.md) — 芮淇讲透资治通鉴 episode completing Jing Ke's failed assassination attempt, Ying Zheng's escape and counterattack, Wang Jian's retaliatory strike on Yan and Dai, and Tao/Gong poetic memory of Jing Ke.
 - [《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了](sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn.md) — 芮淇讲透资治通鉴 episode opening Qinji 2 with Jing Ke and Qin Wuyang entering Xianyang, Meng Jia's access-broker role, Yan's surrender script, Qin's institutional momentum, and Qin Wuyang's palace panic.
 - [《资治通鉴·秦纪》114-3｜荆轲刺秦为何久久不行动？在等谁？](sources/zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged.md) — 芮淇讲透资治通鉴 episode on Jing Ke's delayed departure, Fan Wuji's self-sacrifice, the Du Kang map and poisoned dagger access plan, Qin Wuyang as assistant, Taizi Dan's mistrust, and the Yi Shui farewell.
@@ -1174,6 +1175,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
+- [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
+- [王贲 / Wang Ben (Qin)](entities/WangBenQin.md) — Wang Jian's son and Qin commander whose southern-front attack on Chu sets up the Chu campaign debate.
 - [陶渊明 / Tao Yuanming](entities/TaoYuanming.md) — Poet cited for preserving Jing Ke's failed assassination as a morally charged侠义 memory.
 - [龚自珍 / Gong Zizhen](entities/GongZizhen.md) — Qing poet cited through 《舟中读陶诗三首》 as a later reader of Tao Yuanming's Jing Ke memory.
 - [蒙嘉 / Meng Jia](entities/MengJia.md) — Qin court favorite and access broker whom Jing Ke and Qin Wuyang bribe to present Yan's surrender script to Ying Zheng.
@@ -7566,6 +7570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Heir Sacrifice Appeasement / 杀储求和式保祀](concepts/HeirSacrificeAppeasement.md) — Pattern where a weak ruler kills the crown prince as appeasement to preserve ancestral sacrifice but misreads a conquest-minded enemy.
 - [图穷匕见 / Tuqiong Bijian](concepts/TuqiongBijian.md) — Moment when Jing Ke reaches the end of the Du Kang map and the hidden dagger appears.
 - [Youxia Suppression Under Unification / 大一统下的游侠压制](concepts/YouxiaSuppressionUnderUnification.md) — Pattern where Qin's unified imperial order turns independent armed侠士 from celebrated actors into political threats.
 - [Assassination Access Credential / 刺杀接近凭证](concepts/AssassinationAccessCredential.md) — Operational pattern where gifts, trophies, or documents create the proximity required for a close-range political killing.
