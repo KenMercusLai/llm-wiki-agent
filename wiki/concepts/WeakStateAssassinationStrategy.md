@@ -2,7 +2,7 @@
 title: "Weak-State Assassination Strategy / 弱国刺杀式破局"
 type: concept
 tags: [strategy, political-violence, assassination, diplomacy, warring-states]
-sources: [zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
+sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk, zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]
 last_updated: 2026-08-22
 ---
 
@@ -28,6 +28,8 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 
 [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu]] opens a second anti-Qin branch without yet narrating the attempt itself. [[ZhangLiang|张良]] is introduced as a destroyed-[[HanState|韩国]] noble whose family served Han for generations, and whose response to Han's fall is to spend family wealth seeking an assassin. The source therefore widens the concept from Yan's state-sponsored shortcut to a remnant-aristocratic revenge project after conquest.
 
+[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] supplies the attempt. Zhang Liang's [[Bolangsha|博浪沙]] strike is less court-organized than [[JingKe|荆轲]]'s mission, but it shares the same structural hope: turn an empire-scale problem into one exposed ruler's body. The failed hit shows another limitation of the shortcut. Even reaching the imperial convoy does not guarantee correct target identification, immediate killing, or wider strategic disruption.
+
 ## Key Claims
 - Assassination can appear attractive when direct war and slow alliance repair both seem unavailable.
 - The strategy depends on converting a state problem into a person problem: reach the ruler, induce succession disorder, and buy time.
@@ -42,6 +44,7 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - Qinji 116 adds the failed-appeasement aftermath: killing the sponsor does not end the stronger state's campaign when the stronger state seeks conquest rather than discrete revenge.
 - Qinji 119-1 adds the retrospective judgment: assassination is not just unreliable but morally defective when courage and loyalty are detached from [[RenyiGroundedVirtue|仁义为本的信勇]] and public statecraft.
 - Qinji 122-3 adds Zhang Liang's pre-attempt motivation as a remnant-Han version of anti-Qin assassination politics, before the source narrates operational details.
+- Qinji 123-1 adds the Bolangsha execution layer: a remnant noble can reach the imperial tour but still fail through target uncertainty, after which escape replaces strategic success.
 
 ## Connections
 - [[YanTaiziDan|燕太子丹]], [[JingKe|荆轲]], [[TianGuang|田光]], [[FanWuji|樊无忌]], [[QinWuyang|秦武阳]], and [[GaoJianli|高渐离]] - source actors.
@@ -54,3 +57,4 @@ That trust is where the strategy weakens. [[YanTaiziDan|燕太子丹]]'s suspici
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], and [[HeirSacrificeAppeasement|杀储求和式保祀]] - sponsor killing and failed survival bargain after the assassination fails.
 - [[zizhi-tongjian-qinji-119-1-chaijie-jingke-ciqin-bi-bai-de-mimi-lnonhw9tlsu5dudu8750zvgeaz1p|Qinji 119-1]], [[WangBenQin|王贲]], [[SimaGuang|司马光]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - final Yan endpoint and hostile moral-political judgment.
 - [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu|Qinji 122-3]], [[ZhangLiang|张良]], [[ZhangKaidi|张开地]], [[ZhangPingHan|张平]], and [[HanState|韩国]] - remnant-Han noble motive for seeking an assassin.
+- [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[Bolangsha|博浪沙]], [[ZhangLiang|张良]], and [[QinShiHuang|嬴政 / 秦始皇]] - remnant-Han attack reaches the imperial convoy but fails to kill the ruler.

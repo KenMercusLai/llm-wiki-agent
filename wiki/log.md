@@ -9383,6 +9383,7 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！
 
 Added source page for Qinji 122-3: Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction and Xiangjun explanation, punitive felling of Xiangshan trees, contrast between former-Qi ritual incorporation and Chu sacred-landscape humiliation, possible Huangdi route imitation, and Zhang Liang's Han-family revenge setup. Created Xiangjun, Xiangshan Shrine, Huangdi, and Imperial Local-God Conflict; updated overview, index, Qin Shi Huang, Qin State, Chu State, Jiuding, Xuzhou, Zhang Liang, Zizhi Tongjian, Imperial Tour Political Theater, and Weak-State Assassination Strategy. No settled contradiction found; Huangdi imitation is kept source-scoped and Zhang Liang's assassination details remain for the next source.
@@ -9518,6 +9519,14 @@ Added source page for Qinji 122-2: Qin Shi Huang's post-fengshan eastern tour th
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？
+
+Added source page for Qinji 123-1: Zhang Liang's Bolangsha attack and "误中副车," Qin Shi Huang's continued eastern tours and Jieshi/Lu Sheng immortal-search branch, wall/levee removal as strong-trunk weak-branch centralization, "亡秦者胡" as prophecy-triggered policy, and Meng Tian's northern campaign trigger against Xiongnu. Created Lu Sheng, Bolangsha, Jieshi, Canghai Jun, Prophecy-Triggered Policy, and Strong-Trunk Weak-Branch Centralization. Updated overview, index, Qin Shi Huang, Qin State, Zhang Liang, Qin Er Shi, Meng Tian, Xiongnu, Weak-State Assassination Strategy, Imperial Tour Political Theater, Immortality Quest Politics, Fangshi Fraud And Authority, Chenwei Politics, Imperial Homogenization, and Warring States Northern Great Walls. No settled contradiction found; preserved the contemporaneous Xiongnu reading versus later Hu Hai hindsight.
 
 ## [2026-08-22] lint | Wiki health check
 

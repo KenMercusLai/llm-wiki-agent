@@ -2,7 +2,7 @@
 title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
 type: concept
 tags: [empire, governance, political-theater, ritual]
-sources: [zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]
+sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu, zizhi-tongjian-qinji-122-2-ribenren-daodi-shi-bushi-xufu-de-houdai-lhgbbhg3zw8rlx1jjb7lpb5ihihh, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The Qin case has two audiences. Ordinary people may experience the tour as awe-p
 
 [[zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu]] adds the return-leg variant. The tour no longer only consecrates conquered space at Taishan or inscribes order at Langya; it tests how the emperor responds when inherited symbols and local sacred forces do not cooperate. Pengcheng yields no [[Jiuding|九鼎]], and [[XiangshanShrine|湘山祠]] produces a storm read as [[XiangJun|湘君]]'s obstruction, so imperial presence becomes search, frustration, punishment, route mythology, and anti-Qin backlash setup.
 
+[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds the persistence and exposure of the touring pattern. Qin Shi Huang survives the [[Bolangsha|博浪沙]] attack during an eastern route, yet continues to Zhifu and Langya and later travels to [[Jieshi|碣石]] in former Yan territory. The tour remains display and inscription, but it also becomes a stage where the ruler is physically attackable, where [[LuSheng|卢生]]'s immortal search begins, and where [[StrongTrunkWeakBranchCentralization|local-capacity removal]] is announced.
+
 ## Key Claims
 - A ruler's tour can be a governing technology when the territory is newly conquered or culturally distant.
 - Presence works differently for different audiences: commoners may be drawn into imperial spectacle, while local elites are disciplined by visible force.
@@ -23,12 +25,14 @@ The Qin case has two audiences. Ordinary people may experience the tour as awe-p
 - Qinji 122-1 extends [[ImperialHomogenization]] from standards and roads into performed presence across former rival territories.
 - Qinji 122-2 adds that tour performance can harden into public inscription and settlement policy, while also creating a stage for fangshi proposals.
 - Qinji 122-3 adds that tour performance can fail or turn punitive when inherited symbols remain unrecovered and local sacred geography is interpreted as defiance.
+- Qinji 123-1 adds that repeated touring can persist after assassination danger, while also exposing the ruler to attack and carrying policy announcements from inscriptions into wall/levee removal and frontier response.
 - The concept generalizes beside [[SouthernTourPoliticalTheater]], which records a later Qing version of royal travel as governance and staged legitimacy.
 
 ## Connections
 - [[QinShiHuang]], [[QinState]], and [[Taishan]] - source case.
 - [[LangyaMountain]], [[QiEightSpirits]], and [[LangyaInscriptionPoliticalProgram]] - Qinji 122-2 coastal sequel to the Taishan branch.
 - [[Jiuding]], [[Xuzhou|彭城 / 徐州]], [[XiangshanShrine|湘山祠]], [[XiangJun|湘君]], and [[ImperialLocalGodConflict|皇权与地方神冲突]] - Qinji 122-3 failed recovery and local-god conflict branch.
+- [[Bolangsha|博浪沙]], [[Jieshi|碣石]], [[LuSheng|卢生]], [[ProphecyTriggeredPolicy|预言触发政策]], and [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]] - Qinji 123-1 tour exposure, immortal search, and control-policy branch.
 - [[QinChidao]] - infrastructure that makes repeated imperial movement practical.
 - [[FengshanRitualLegitimacy]] - sacred climax of the eastern tour.
 - [[ImperialHomogenization]] - administrative and social integration goal intensified by travel.

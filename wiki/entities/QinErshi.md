@@ -2,8 +2,8 @@
 title: "秦二世 / 胡亥 / Qin Er Shi"
 type: entity
 tags: [person, ruler, qin-dynasty, chinese-history]
-sources: [zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]
+last_updated: 2026-08-22
 ---
 
 # 秦二世 / 胡亥 / Qin Er Shi
@@ -12,7 +12,10 @@ last_updated: 2026-08-20
 
 This page is source-scoped. The episode does not narrate Hu Hai's reign; it uses him as a later dynastic example for the same political-security principle behind [[XunzianWangbaThreePaths|荀子王霸三分法]]: occupying supreme power magnifies both success and ruin, so rule by coercion or deception can make retreat impossible once support collapses.
 
+[[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds Hu Hai as the retrospective reading of "亡秦者胡." In the source's account, [[QinShiHuang|嬴政 / 秦始皇]] and his contemporaries take "胡" to mean northern peoples such as [[Xiongnu|匈奴]], but later readers know Qin collapses under the second emperor, whose personal name is Hu Hai. This page records the irony as [[ProphecyTriggeredPolicy|预言触发政策]] and hindsight interpretation, not as proof that the prophecy was originally meant as a personal-name clue.
+
 ## Connections
 - [[SimaGuang|司马光]], [[Xunzi|荀子]], and [[XunziText|《荀子》]] - interpretive frame.
 - [[QiMinWang|齐湣王]] and [[SongJunYan|宋康王 / 宋君偃]] - comparison rulers in the source.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[XunzianWangbaThreePaths|荀子王霸三分法]] - concepts this example supports.
+- [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]], [[QinShiHuang|嬴政 / 秦始皇]], [[LuSheng|卢生]], [[Xiongnu|匈奴]], and [[ProphecyTriggeredPolicy|预言触发政策]] - later reinterpretation of "亡秦者胡" through Hu Hai's name.
