@@ -2,7 +2,7 @@
 title: "Han Fei / 韩非"
 type: entity
 tags: [person, philosophy, chinese-history, legalism, political-theory]
-sources: [zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 
 [[zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9]] adds a narrow biographical contrast from [[Xunzi|荀子]]'s school. The episode pairs Han Fei with [[LiSi|李斯]] as Xunzi's two standout students, contrasting Han Fei's [[HanState|韩国]] royal background, introversion, speech difficulty, and sharp writing with Li Si's low-origin ambition and practical eloquence. It also says Li Si understands Han Fei's thought unusually well, foreshadowing their later intellectual and political connection without developing it in this source.
 
+[[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] gives Han Fei an active Qin-court intervention. After Li Si proposes attacking [[HanState|韩国]] first, Han Fei writes [[CunHan|《存韩》]] to argue that Qin should target [[ZhaoState|赵国]] instead. The episode reads this as a protective redirection on behalf of Han, and it shows Li Si answering by stressing Han's unreliable rear position. Han Fei also attacks [[YaoJia|姚贾]]'s low origin and past record in the [[Zhanguoce|《战国策》]] story, while the transcript cuts off just as Li Si begins accusing Han Fei of remaining loyal to Han.
+
 ## Connections
 - [[ShangYang|Shang Yang / 商鞅]] - paired Legalist figure in the comparison.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - Western political-theory figure being compared.
@@ -32,3 +34,4 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 - [[WuQi|吴起]] and [[WarringStatesReformBacklash]] - Zhouji 08 part 3 death-variant branch.
 - [[MangMao|芒卯]], [[WeiState|魏国]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 67 Hanfeizi story of persuasive military de-escalation and reward bargaining.
 - [[Xunzi|荀子]], [[LiSi|李斯]], and [[HanState|韩国]] - Qinji 110-2 teacher-student and classmate contrast.
+- [[CunHan|《存韩》]], [[YaoJia|姚贾]], [[QinShiHuang|嬴政 / 秦始皇]], and [[HezongAlliance|合纵]] - Qinji 112-1 protective memorial, Yao Jia criticism, and Qin-court rivalry branch.

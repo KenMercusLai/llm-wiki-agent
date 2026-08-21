@@ -8732,6 +8732,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？
+
+Added source page for Qinji 112-1: Li Si's first-attack-Han proposal, Han Fei's Cun Han redirection toward Zhao, Li Si's answer about Han uncertainty, Yao Jia's low-origin and Zhao mission background, Li Si's rumor operation that gets Yao Jia expelled, Ying Zheng's lavish backing, and Yao Jia's three-year disruption of the Han-Wei-Chu-Zhao hezong plan through persuasion and bribery. Created Yao Jia and Cun Han. Updated overview, index, Li Si, Han Fei, Qin Shi Huang, Qin State, Han State, Zhao State, Wei State, Chu State, Zhanguo Ce, Hezong Alliance, Terminal Hezong Failure, Interest-Based Coalition Sabotage, Counterintelligence Rumor Wedge, and Warring States Careerist Mobility. No direct contradiction found; the transcript cuts off during Li Si's accusation against Han Fei, so that branch remains source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国
 
 Added source page for Qinji 110-2: Li Si and Han Fei as Xunzi's standout students, Li Si's choice of Qin over Chu, his entry through Lu Buwei and rise with Ying Zheng, Zheng Guo's spy-case trigger for the guest-expulsion order, the full Jian Zhu Ke Shu argument, Ying Zheng's recall and restoration of Li Si, and the closing turn toward Qin's bribery/alienation/assassination tactics and Lu Buwei's death. Updated overview, index, Li Si, Jian Zhu Ke Shu, Guest Expulsion Order, Zheng Guo, Han Fei, Qin State, Qin Shi Huang, Lu Buwei, Xunzi, Warring States Careerist Mobility, Self-Defeating Resource-Drain Strategy, and Interest-Based Coalition Sabotage. No direct contradiction found; the transcript's "建筑课书" wording is normalized to 《谏逐客书》 and the title's "CP" phrasing is treated as a podcast hook for the Ying Zheng-Li Si working relationship.
@@ -9310,6 +9314,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话
 
 Added source page for Qinji 111-2: Lu Buwei's unsafe Luoyang retreat, Ying Zheng's merit/kinship/仲父-denying letter and Shu relocation order, Lu Buwei's poisoned-wine suicide in 235 BCE, the Wang Yu forced-death comparison, posthumous punishment of mourners, Yang Xiong/Fayan evaluation through Sima Guang, and the drought-year Wei-Chu/Qin support notice. Created Wang Yu (Southern Dynasties). Updated overview, index, Lu Buwei, Qin Shi Huang, Qin State, Wei State, Chu State, Power Exit Trap, Weak-State Mutual Predation, Terminal Hezong Failure, Textual Variant Political Stakes, Sima Guang, Yang Xiong, Fayan, Shiji, and Zizhi Tongjian. No direct contradiction found; Lu Buwei's psychology, Ying Zheng's motive, and the imagined final scene are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 

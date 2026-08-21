@@ -2,7 +2,7 @@
 title: "Counterintelligence Rumor Wedge / 反间流言楔入"
 type: concept
 tags: [strategy, intelligence, rumor, court-politics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 
 [[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] is not a clean enemy-run counterintelligence case, but it adds an adjacent court-bribery echo. [[GuoKai|郭开]] does not need to persuade Qin or plant an enemy-wide rumor; he corrupts the envoy who reports on [[LianPo|廉颇]] to [[ZhaoDaoxiangwang|赵道襄王]]. The pattern is narrower, so it is tracked primarily under [[RumorErosionOfTrust|谣言侵蚀信任]], but it still shows how information intermediaries can make a state discard its own commander.
 
+[[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] adds a diplomatic-agent version through [[LiSi|李斯]] and [[YaoJia|姚贾]]. When Zhao sends Yao Jia to organize Han, Wei, and Chu against Qin, Li Si spreads claims about Yao Jia's theft record and self-enrichment. Zhao's resulting expulsion removes a useful envoy and sends him toward Qin. This is not battlefield commander replacement, but the mechanism is the same: the target state is induced to distrust and discard a useful actor.
+
 ## Key Claims
 - Rumor is strongest when it amplifies a suspicion the target already finds emotionally or politically plausible.
 - A succession transition can make old military success look like new political threat.
@@ -31,6 +33,7 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - Qin's Changping use shows the tactic can praise an untested enemy candidate rather than only accuse the incumbent; the goal is still to make the target ruler damage his own command structure.
 - Qinji 103-2 shows the tactic after an enemy victory: the rumor reframes coalition prestige as usurpation risk so the target state destroys its own successful commander.
 - Qinji 104 is adjacent rather than central: the corrupt report about Lian Po is internal court sabotage, but it shares the same command-damaging information pathway.
+- Qinji 112-1 widens the pattern from commanders to envoys: rumor can make a state export diplomatic talent to the enemy.
 
 ## Connections
 - [[TianDan|田单]] - user of the tactic.
@@ -43,3 +46,4 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] - the praised replacement's underlying competence problem.
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[QinState|秦国]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - Qinji 103-2 slander wedge that removes Wei's strongest commander.
 - [[GuoKai|郭开]], [[LianPo|廉颇]], and [[ZhaoDaoxiangwang|赵道襄王]] - Qinji 104 adjacent bribed-report case.
+- [[YaoJia|姚贾]], [[LiSi|李斯]], [[ZhaoState|赵国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ChuState|楚国]] - Qinji 112-1 rumor against a Zhao envoy before Qin recruitment.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？](sources/zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg.md) — 芮淇讲透资治通鉴 episode on Han Fei's Cun Han argument, Li Si's counter and rumor operation, and Yao Jia's Qin-backed three-year disruption of a Zhao-Han-Wei-Chu hezong plan.
 - [《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话](sources/zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch.md) — 芮淇讲透资治通鉴 episode completing Lu Buwei's final crisis: Ying Zheng's Shu relocation order, Lu Buwei's poisoned-wine suicide, mourners' punishment, Fayan evaluation, and drought-year six-state fragmentation.
 - [《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手](sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc.md) — 芮淇讲透资治通鉴 episode on 236 BCE Zhao attacking Yan, Qin's Wang Jian/Huan Yi/Yang Duanhe strike on Zhao, and Zhao Qian's disputed succession after Zhao Jia is displaced.
 - [《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国](sources/zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9.md) — 芮淇讲透资治通鉴 episode completing Li Si's Qin entry and Jian Zhu Ke Shu argument, from Zheng Guo's spy-case backlash to Ying Zheng's revocation of the guest-expulsion order.
@@ -1165,6 +1166,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [姚贾 / Yao Jia](entities/YaoJia.md) — Low-origin Warring States persuader who moves from Zhao envoy to Qin-backed diplomat and breaks a four-state anti-Qin hezong plan.
+- [《存韩》 / Cun Han](entities/CunHan.md) — Han Fei memorial that tries to protect Han by redirecting Qin's first attack toward Zhao, before Li Si exposes Han's rear-risk uncertainty.
 - [赵迁 / 赵幽缪王 / Zhao Youmiu Wang](entities/ZhaoYoumiuWang.md) — Zhao ruler whose accession after Zhao Jia's displacement is framed as a succession weakness during Qin's 236 BCE attack.
 - [赵嘉 / Zhao Jia](entities/ZhaoJia.md) — Displaced original Zhao crown prince in the Qinji 111-1 favorite-driven heir replacement branch.
 - [桓齮 / Huan Yi (Qin)](entities/HuanYiQin.md) — Qin commander who attacks Zhao with Wang Jian and Yang Duanhe in 236 BCE and takes Ye and Anyang in the source account.
