@@ -2,7 +2,7 @@
 title: "春申君 / 黄歇 / Lord Chunshen"
 type: entity
 tags: [person, chu-state, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -30,6 +30,8 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]] notes Chunshenjun's absence from the narrated [[Pingyuanjun|平原君]] mission to [[MiWan|楚考烈王]]. The episode says Zhao had previously worked through him and that he had anti-Qin inclination, but this scene has Pingyuanjun negotiate directly with the king until [[MaoSui|毛遂]] intervenes. For the wiki, his role here is source-scoped context: he would have been an obvious intermediary, but the episode does not give him action in the Chu court.
 
+[[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] makes Chunshenjun the planner behind a new anti-Qin move after the Handan relief. He advises [[MiWan|楚考烈王]] to call the lords under [[ZhouNanwang|周赧王]]'s Son of Heaven name, trying to turn residual [[ZhouRoyalHouse|Zhou]] prestige into coalition leverage. The source's outcome is negative for his plan: the lords do not bear enough cost, Chu withdraws, and Zhou Nan Wang is left with the [[ZhaitaiGaozhu|debt]] and Qin punishment.
+
 ## Connections
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
@@ -42,3 +44,4 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 - [[QinState|秦国]] - Zhouji 93 transition from Huang Xie's rise to Chu's renewed land concession.
 - [[ZhaoState|赵国]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 Lingqiu grant as coalition signal after Changping.
 - [[MiWan|楚考烈王]], [[Pingyuanjun|平原君]], and [[MaoSui|毛遂]] - Zhouji 96 part 2 absent-but-relevant intermediary around the Chu rescue mission.
+- [[ZhouNanwang|周赧王]], [[ZhouRoyalHouse|周王室]], [[HezongAlliance|合纵]], [[NominalAuthorityMobilizationTrap|虚名权威动员陷阱]], and [[ZhaitaiGaozhu|债台高筑]] - Zhouji 98 Son-of-Heaven coalition proposal and failure.

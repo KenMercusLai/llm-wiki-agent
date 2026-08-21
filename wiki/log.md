@@ -9047,3 +9047,11 @@ Added source page for the fourth Zhouji 97 installment: Lu Buwei's concentrated 
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》98丨历史上首个老赖登场了！
+
+Added source page for the Zhouji 98 finale: Zhou Nan Wang's failed Son-of-Heaven anti-Qin mobilization, war borrowing from wealthy households, the source-scoped "债台高筑" idiom story, Qin Zhaoxiang Wang's punishment of Western Zhou, Zhou Nan Wang's death at Luoyi, and the transition from 周纪 toward 秦纪. Created Zhaitai Gaozhu and Nominal Authority Mobilization Trap; updated overview, index, Zhou Nan Wang, Qin Zhaoxiang Wang, Hezong Alliance, Western Zhou Polity, Zhou Royal House, Eastern-Western Zhou Split, Mi Wan / Chu Kaolie Wang, Chunshenjun, Qin State, Zhao Ji, Qin Shi Huang, Fushu, Luoyi, and Handan. No direct contradiction found; the episode's 867-year Zhou arithmetic and idiom-origin explanation are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

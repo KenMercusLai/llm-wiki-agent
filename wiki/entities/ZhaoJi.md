@@ -2,7 +2,7 @@
 title: "赵姬 / Zhao Ji"
 type: entity
 tags: [person, qin-state, warring-states, court-politics, historiography]
-sources: [zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
+sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ The source keeps Zhao Ji inside [[PoliticalVentureInvestment|political venture i
 
 The episode is careful about the famous paternity rumor. It says the story that Ying Zheng was Lu Buwei's biological son has long attracted belief, but modern skepticism is strong because the evidence is thin, the timing can fit ordinary pregnancy, and the pattern resembles another succession scandal attached to [[Chunshenjun|春申君]]. This page therefore records Zhao Ji as the source's named mother of Qin Shi Huang and as a node in a disputed lineage story, not as proof that Lu Buwei was the father.
 
+[[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] adds the immediate danger after [[QinZhuangxiangwang|异人 / 子楚]] escapes [[Handan|邯郸]]. Zhao Ji and young [[QinShiHuang|嬴政 / 秦始皇]] remain in the hostile Zhao capital during the Qin-Zhao crisis, making Ying Zheng's early life part of the same post-Handan instability that closes 周纪.
+
 ## Connections
 - [[LuBuwei|吕不韦]] - original household connection and the actor who gives her to Yiren.
 - [[QinZhuangxiangwang|异人 / 子楚]] - receives Zhao Ji and later recognizes her as夫人.
 - [[QinShiHuang|嬴政 / 秦始皇]] - child whose paternity rumor the source discusses.
 - [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], [[SimaQian|司马迁]], and [[SimaGuang|司马光]] - source-comparison context.
 - [[HistoricalDetectiveReasoning]] and [[TextualVariantPoliticalStakes|史书异文政治重量]] - method frames for treating the paternity story cautiously.
+- [[Handan|邯郸]] and [[ZhouNanwang|周赧王]] - Zhouji 98 early danger context while the chronicle frame closes.

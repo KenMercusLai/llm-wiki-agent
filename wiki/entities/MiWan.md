@@ -2,7 +2,7 @@
 title: "芈完 / 楚考烈王 / Mi Wan"
 type: entity
 tags: [person, crown-prince, ruler, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The first Zhouji 92 part stops before the outcome. It records Qin's suspicion th
 
 Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based persuasion]]. He reminds Chu Kaolie Wang that [[BaiQi|白起]]'s earlier attacks took Ying, burned Yiling, and damaged royal tombs, making anti-Qin alliance a matter of Chu honor rather than merely Zhao rescue. The king accepts the alliance and participates in the blood oath, but the source then shows that his commitment still depends on [[CoalitionTransitDependency|transit through Wei]] to become battlefield relief.
 
+[[zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu]] gives Mi Wan another anti-Qin initiative after the [[Handan|邯郸]] relief. He wants to continue pressure while Qin looks checked, and [[Chunshenjun|黄歇 / 春申君]] proposes using the [[ZhouRoyalHouse|周王室]]'s Son of Heaven name to summon the lords. The effort fails, however, turning Mi Wan's coalition idea into Zhou Nan Wang's [[ZhaitaiGaozhu|debt humiliation]] rather than a decisive Chu-led victory.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - father and current Chu king whose illness creates the succession emergency.
 - [[Chunshenjun|黄歇 / 春申君]] - attendant and strategist who protects his return path.
@@ -32,3 +34,4 @@ Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based p
 - [[QinState|秦国]] - Zhouji 93 first-year land cession pressure after succession repair.
 - [[MaoSui|毛遂]], [[Pingyuanjun|平原君]], [[DignityBasedPersuasion|尊严激将式说服]], and [[HezongAlliance|合纵]] - Zhouji 96 part 2 Chu-court commitment.
 - [[CoalitionTransitDependency|联盟救援借道依赖]] and [[WeiState|魏国]] - route problem after Chu agrees to rescue Zhao.
+- [[ZhouNanwang|周赧王]], [[ZhouRoyalHouse|周王室]], [[NominalAuthorityMobilizationTrap|虚名权威动员陷阱]], and [[ZhaitaiGaozhu|债台高筑]] - Zhouji 98 failed Son-of-Heaven coalition effort.

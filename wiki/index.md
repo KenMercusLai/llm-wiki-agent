@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》98丨历史上首个老赖登场了！](sources/zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu.md) — 芮淇讲透资治通鉴 episode closing 周纪 with Zhou Nan Wang's failed anti-Qin coalition, war borrowing, the "债台高筑" idiom story, Qin's extinction of Western Zhou, and the transition toward 秦纪.
 - [《资治通鉴·周纪》97-4丨史上为事业送老婆第一人](sources/zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's persuasion of Yangquan Jun and Huayang Furen, Yiren's jade-tally adoption as succession proof, Zhao Ji's transfer to Yiren, and the source-critical doubts around Qin Shi Huang's Lu Buwei paternity rumor.
 - [《资治通鉴·周纪》97-3丨吕不韦：历史上风投第一人](sources/zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's moralized definition of士, Lu Zhonglian's refusal of reward, noble disdain for merchant profit, and Lu Buwei's political investment in the Qin hostage Yiren through Huayang Furen's succession leverage.
 - [《资治通鉴·周纪》97-2丨揭秘信陵君凭什么是四公子之首](sources/zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f.md) — 芮淇讲透资治通鉴 episode on Zheng Anping's surrender and Fan Ju's recommendation risk, Xinlingjun's post-rescue identity as a 负臣, Zhao Xiaocheng Wang's reward and stair-ritual handling, and Xinlingjun's continued low-status recruitment of Mao Gong and Xue Gong in Zhao.
@@ -7404,6 +7405,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [债台高筑 / Zhaitai Gaozhu](concepts/ZhaitaiGaozhu.md) — Idiom story attached to Zhou Nan Wang's failed war borrowing and creditor avoidance after the anti-Qin coalition collapses.
+- [Nominal Authority Mobilization Trap / 虚名权威动员陷阱](concepts/NominalAuthorityMobilizationTrap.md) — Pattern where residual symbolic authority is mistaken for real coalition, military, and fiscal capacity.
 - [Written Succession Credential / 书面继承凭证](concepts/WrittenSuccessionCredential.md) — Frame for Huayang Furen's jade tally as material proof binding Yiren's legitimacy to his adopted maternal route.
 - [Moralized Shi Identity / 士的道德化身份](concepts/MoralizedShiIdentity.md) — Warring States shift where士 is judged by conduct and worth rather than inherited rank or visible occupation.
 - [Merchant-Aristocratic Value Conflict / 贵族-商人义利冲突](concepts/MerchantAristocraticValueConflict.md) — Contrast between aristocratic义-based honor and merchant利-based calculation before Lu Buwei enters politics.
