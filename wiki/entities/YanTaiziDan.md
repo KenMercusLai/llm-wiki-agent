@@ -2,7 +2,7 @@
 title: "燕太子丹 / Crown Prince Dan of Yan"
 type: entity
 tags: [person, crown-prince, yan-state, warring-states, hostage]
-sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
+sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The page keeps him source-scoped. His role in this episode is not yet the later 
 
 The episode therefore makes Dan a patron whose urgency turns into mistrust. His cautious question about whether Jing Ke still intends to act pushes Jing Ke to leave before the distant friend arrives, creating [[MistrustTriggeredMissionLaunch|mistrust-triggered mission launch]] and leading into the [[YiShuiFarewell|易水送别]].
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] judges the plan from the other side. The episode says that even if Jing Ke had killed Ying Zheng, Dan's temperament made it unlikely that he could use Qin court disorder to rebuild [[HezongAlliance|合纵]] quickly enough to reverse the larger trend. Dan's strategy therefore reads less as a reliable state-saving design than as an attempt to buy time or vent revenge after ordinary options have collapsed.
+
 ## Connections
 - [[YanState|燕国]] - polity and royal house.
 - [[ZhaoState|赵国]] and [[Handan|邯郸]] - hostage setting.
@@ -28,3 +30,4 @@ The episode therefore makes Dan a patron whose urgency turns into mistrust. His 
 - [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] and [[HostageDiplomacyRupture|质子外交破裂]] - return from childhood co-presence to Qin mistreatment and flight.
 - [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx|Qinji 114-2]], [[JuWu|居武]], [[TianGuang|田光]], [[JingKe|荆轲]], [[FanWuji|樊无忌]], [[WeakStateAssassinationStrategy|弱国刺杀式破局]], and [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]] - rejected strategic alternatives and assassination recruitment.
 - [[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged|Qinji 114-3]], [[DuKangMap|督亢地图]], [[QinWuyang|秦武阳]], [[AssassinationAccessCredential|刺杀接近凭证]], [[MistrustTriggeredMissionLaunch|疑忌触发式出发]], and [[YiShuiFarewell|易水送别]] - execution preparation, mistrust, and farewell.
+- [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn|Qinji 115-1]], [[MengJia|蒙嘉]], [[QinEastwardPressure|秦国东进压力]], and [[FarmingWarStatecraft|耕战逻辑]] - counterfactual limit on Dan's assassination strategy.

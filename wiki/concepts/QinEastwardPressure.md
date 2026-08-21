@@ -100,6 +100,8 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 
 [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] shows the pressure pattern changing Yan's internal options after Zhao's fall. With [[WangJianQin|王翦]] positioned forward and Wei too weak to matter, [[JuWu|居武]] can still imagine coalition repair, but [[YanTaiziDan|燕太子丹]] behaves as though Qin pressure has already shortened the clock enough to justify [[WeakStateAssassinationStrategy|assassination]].
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] adds the counterfactual limit to that assassination turn. The episode argues that [[JingKe|荆轲]]'s success might have shaken the Qin court, using [[QinWuwang|秦武王]]'s sudden death as analogy, but would probably not have reversed the broader [[QinState|秦国]] trend. Eastward pressure has now become institutional momentum: [[YanTaiziDan|燕太子丹]] can target Ying Zheng's body, but not easily undo Qin's accumulated military, administrative, and coalition-breaking advantage.
+
 ## Key Claims
 - Qin's eastern expansion pushes Wei, Han, and Zhao to respond across older rivalries.
 - Qin pressure can coexist with Three Jin infighting; shared danger does not guarantee stable alignment.
@@ -148,6 +150,7 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - Qinji 108-1 shows pressure closing coalition geography: Qin's advance through Wei to the Qi border makes hezong less viable as a spatial arrangement, even before later conquest notices.
 - Qinji 111-1 shows pressure exploiting weak-state mutual predation: Zhao's attack on Yan gives Qin the timing and diplomatic rationale to strike Zhao.
 - Qinji 114-2 shows pressure changing enemy decision horizons: Qin does not need to attack immediately for Yan's court to abandon slow coalition repair and reach for assassination.
+- Qinji 115-1 shows pressure becoming hard to reverse through ruler-killing alone: the source treats Qin's conquest capacity as larger than Ying Zheng's personal survival.
 
 ## Connections
 - [[QinState|秦国]], [[QinXianGong|秦献公]], and [[QinXiaogong|秦孝公]] - rising western power and ruler transition.
@@ -195,3 +198,4 @@ The 363 BCE Shaoliang notice keeps the pressure continuous. Qin attacks [[WeiSta
 - [[YangDuanhe|杨端和]], [[QiState|齐国]], [[WeiState|魏国]], [[HezongAlliance|合纵]], and [[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij|Qinji 108-1]] - Wei-front continuation and Qin-Qi border interpretation.
 - [[WangJianQin|王翦]], [[HuanYiQin|桓齮]], [[YangDuanhe|杨端和]], [[ZhaoState|赵国]], [[YanState|燕国]], and [[WeakStateMutualPredation|弱国相争强国得利]] - Qinji 111-1 Zhao-front exploitation of Yan-Zhao conflict.
 - [[YanState|燕国]], [[YanTaiziDan|燕太子丹]], [[JuWu|居武]], [[JingKe|荆轲]], [[WangJianQin|王翦]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Qinji 114-2 Yan-facing pressure and assassination shortcut.
+- [[QinWuwang|秦武王]], [[FarmingWarStatecraft|耕战逻辑]], [[QinAdministrativeStandardization|秦国行政标准化]], [[MengJia|蒙嘉]], and [[AssassinationAccessCredential|刺杀接近凭证]] - Qinji 115-1 ruler-death analogy, institutional momentum, and access-through-surrender script.

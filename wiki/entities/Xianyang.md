@@ -2,8 +2,8 @@
 title: "咸阳 / Xianyang"
 type: entity
 tags: [place, capital, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
-last_updated: 2026-08-20
+sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+last_updated: 2026-08-22
 ---
 
 # 咸阳 / Xianyang
@@ -22,6 +22,8 @@ The source explains the name through location: south of the Jiuzong mountains an
 
 [[zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j]] makes Xianyang the start and end point of [[ChuHuaiwang|楚怀王]]'s final failed escape. Chu Huaiwang leaves the Qin capital, cannot return through [[Wuguan|武关]], is captured after being refused by Zhao, and dies back in Qin captivity in 296 BCE. The capital therefore carries both administrative centrality and the reputational burden of a detained foreign ruler's death.
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] adds Xianyang as the palace setting for [[JingKe|荆轲]]'s access attempt. [[MengJia|蒙嘉]] helps turn [[YanState|燕国]]'s surrender script, [[FanWuji|樊无忌]]'s head, and the [[DuKangMap|督亢地图]] into a grand court audience. The capital's ceremony then becomes active pressure: [[QinWuyang|秦武阳]] freezes before the assembled Qin kin and ministers, forcing Jing Ke to proceed alone.
+
 ## Connections
 - [[QinState|秦国]] - polity whose capital moves there.
 - [[ShangYang|公孙鞅 / 商鞅]] and [[ShangYangReforms]] - reformer and reform package linked to the move.
@@ -33,3 +35,4 @@ The source explains the name through location: south of the Jiuzong mountains an
 - [[ChuHuaiwang|楚怀王]], [[Wuguan|武关]], [[WuJunWarringStates|巫郡]], [[Qianzhong|黔中]], and [[Mengchangjun|孟尝君 / 田文]] - Zhouji 62 captive Chu king and Qin chancellor setup.
 - [[LouHuan|楼缓]], [[QiState|齐国]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 Mengchangjun imprisonment, replacement, and escape context.
 - [[ChuHuaiwang|楚怀王]], [[Wuguan|武关]], [[ZhaoState|赵国]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Zhouji 65 escape, return to captivity, death, and reputational backlash context.
+- [[JingKe|荆轲]], [[QinWuyang|秦武阳]], [[MengJia|蒙嘉]], [[FanWuji|樊无忌]], and [[DuKangMap|督亢地图]] - Qinji 115-1 assassination access and palace-pressure branch.

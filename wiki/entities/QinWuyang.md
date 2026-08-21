@@ -2,7 +2,7 @@
 title: "秦武阳 / Qin Wuyang"
 type: entity
 tags: [person, warrior, yan-state, warring-states, assassination]
-sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
+sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]
 last_updated: 2026-08-22
 ---
 
@@ -14,9 +14,14 @@ The source also gives him lineage prestige by calling him a descendant of [[QinK
 
 Qin Wuyang therefore marks the difference between reputation and mission fit. In a close-range assassination, visible courage and pedigree are useful but not enough if the lead operative needs steadiness, trust, and precise coordination.
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] turns that implication into a concrete failure. After the team reaches [[Xianyang|咸阳]] and wins access through [[MengJia|蒙嘉]], Qin Wuyang is overwhelmed by the Qin court's ceremony and freezes at the palace steps, trembling badly enough that ministers and royal kin notice. [[JingKe|荆轲]] has to explain him away as a rustic northerner, take the [[DuKangMap|督亢地图]] himself, and continue alone.
+
+The episode therefore makes Qin Wuyang a case where fearsome prior reputation collapses under ritual, political, and psychological pressure. His failure does not by itself explain the assassination's outcome, because the transcript stops before the attack, but it shows the mission already losing its intended two-person shape.
+
 ## Connections
 - [[JingKe|荆轲]] - mission lead he is chosen to accompany.
 - [[YanTaiziDan|燕太子丹]] - patron who supplies him as assistant.
 - [[QinKai|秦开]] - ancestor whose frontier reputation adds prestige.
+- [[MengJia|蒙嘉]] and [[Xianyang|咸阳]] - access broker and palace setting where the failure becomes visible.
 - [[YiShuiFarewell|易水送别]] - departure scene in which the mission team leaves Yan.
 - [[WeakStateAssassinationStrategy|弱国刺杀式破局]] and [[MistrustTriggeredMissionLaunch|mistrust-triggered mission launch]] - strategic and timing frames around his selection.

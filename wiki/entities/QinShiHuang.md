@@ -62,6 +62,10 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 
 [[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]] keeps Ying Zheng offstage but clarifies the access assumptions around him. Jing Ke believes the Qin king can be approached only if the envoy brings gifts that match Qin's immediate desires: [[FanWuji|樊无忌]]'s head and the [[DuKangMap|督亢地图]]. The episode therefore presents Ying Zheng less as a speaking actor than as a ruler whose appetite for fugitive punishment and territorial gain shapes the assassination design.
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] brings Ying Zheng into the reception scene. Through [[MengJia|蒙嘉]], [[JingKe|荆轲]] presents [[YanState|燕国]] as willing to submit, offer [[FanWuji|樊无忌]]'s head, and surrender the [[DuKangMap|督亢地图]]. Ying Zheng is pleased enough to stage a high-ceremony palace audience, which creates the pressure under which [[QinWuyang|秦武阳]] freezes.
+
+The same source adds a counterfactual limit to Ying Zheng's biographical importance. It says that if Jing Ke had killed him, Qin would likely have seen political shock, as after [[QinWuwang|秦武王]]'s sudden death, but that Qin's larger institutional momentum probably would not have reversed. Ying Zheng remains the mission's target, but the episode refuses to reduce Qin unification to one ruler's life.
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
@@ -89,6 +93,7 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - Qinji 114-1 adds the 228 BCE Handan endpoint: Ying Zheng captures Zhao's capital, conducts source-scoped revenge against old Handan enemies, leaves Zhao Qian alive in exile, and sends Wang Jian forward against Yan.
 - Qinji 114-2 adds the Yan-facing assassination setup: Ying Zheng is treated as the single-person target through whom Yan hopes to disrupt Qin's otherwise overwhelming state pressure.
 - Qinji 114-3 adds the access logic around that target: Fan Wuji's head and the Du Kang map are treated as the gifts that could bring Jing Ke physically close to the Qin king.
+- Qinji 115-1 adds the palace-reception phase and the strategic counterfactual: Ying Zheng's death might have created turmoil, but the source doubts it would have undone Qin's larger unification machinery.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -119,3 +124,4 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[Handan|邯郸]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[ZhaoJi|赵姬]], [[PersonalRevengeThroughStatePower|以国力行私仇]], and [[CapturedRulerLegitimacyContainment|生俘亡君的合法性钳制]] - Handan revenge, captured-ruler handling, and Zhao Ji's death.
 - [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx|Qinji 114-2]], [[YanTaiziDan|燕太子丹]], [[JingKe|荆轲]], [[FanWuji|樊无忌]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Yan's plan to attack the Qin king personally.
 - [[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged|Qinji 114-3]], [[DuKangMap|督亢地图]], [[XuFuren|徐夫人]], and [[AssassinationAccessCredential|刺杀接近凭证]] - gifts and weapon preparation shaped around approaching the Qin king.
+- [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn|Qinji 115-1]], [[MengJia|蒙嘉]], [[QinWuyang|秦武阳]], [[QinWuwang|秦武王]], [[FarmingWarStatecraft|耕战逻辑]], and [[QinEastwardPressure|秦国东进压力]] - palace access, assistant failure, and the limits of ruler-killing as strategy.

@@ -2,8 +2,8 @@
 title: "Qin Administrative Standardization / 秦国行政标准化"
 type: concept
 tags: [statecraft, reform, administration, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
-last_updated: 2026-08-19
+sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+last_updated: 2026-08-22
 ---
 
 # Qin Administrative Standardization / 秦国行政标准化
@@ -12,11 +12,14 @@ Qin administrative standardization / 秦国行政标准化 is the second-reform 
 
 The concept captures the administrative side of [[ShangYangReforms|商鞅变法]]. Instead of treating reform only as harsh law or military rank, this source shows Qin making territory, land, office, and measurement easier for the state to see and govern. It sits beside the move to [[Xianyang|咸阳]] and [[HouseholdSeparationLaw|分居令]] as part of a deeper conversion of social space into state capacity.
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] extends the concept toward the conquest endpoint. The episode opens Qinji 2 by saying the coming years will see Qin complete unification and fully push the commandery-county order, then has [[YanState|燕国]]'s surrender script offer real administrative subordination while asking to preserve ancestral sacrifice. That makes the standardization frame visible not only as reform inside Qin, but as the form conquered states expect Qin rule to take.
+
 ## Key Claims
 - County organization gives Qin a more direct administrative grid.
 - Land-boundary reform changes the relationship between fields, households, and state allocation.
 - Standard measures make taxation, storage, exchange, and command more legible.
 - The package links geographic centralization, household control, and administrative measurement into one reform logic.
+- Qinji 115-1 shows the conquest-facing version: surrender can be framed as accepting Qin's real administrative grid while bargaining for only symbolic lineage continuity.
 
 ## Connections
 - [[QinState|秦国]], [[ShangYang|公孙鞅 / 商鞅]], and [[ShangYangReforms]] - source state, reformer, and reform package.
@@ -24,3 +27,4 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 - [[HouseholdSeparationLaw]] - domestic-order branch of the same reform round.
 - [[LegalistRulerTechnique]] - broader governance-through-standards frame.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where administrative capacity becomes military capacity.
+- [[YanState|燕国]], [[MengJia|蒙嘉]], and [[AssassinationAccessCredential|刺杀接近凭证]] - Qinji 115-1 surrender script and palace-access use.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》115-1｜荆轲刺秦似乎有点儿草率了](sources/zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn.md) — 芮淇讲透资治通鉴 episode opening Qinji 2 with Jing Ke and Qin Wuyang entering Xianyang, Meng Jia's access-broker role, Yan's surrender script, Qin's institutional momentum, and Qin Wuyang's palace panic.
 - [《资治通鉴·秦纪》114-3｜荆轲刺秦为何久久不行动？在等谁？](sources/zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged.md) — 芮淇讲透资治通鉴 episode on Jing Ke's delayed departure, Fan Wuji's self-sacrifice, the Du Kang map and poisoned dagger access plan, Qin Wuyang as assistant, Taizi Dan's mistrust, and the Yi Shui farewell.
 - [《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲](sources/zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx.md) — 芮淇讲透资治通鉴 episode on Yan Taizi Dan's failed search for a response to Qin pressure, Ju Wu's slow hezong/Xiongnu proposal, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, and Jing Ke's selection as a non-obvious侠士 assassin.
 - [《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段](sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6.md) — 芮淇讲透资治通鉴 episode on the 228 BCE fall of Handan, Zhao Qian's capture and exile, Ying Zheng's revenge, Wang Jian's Zhongshan deployment, Zhao Jia's Dai remnant, and the Chu Youwang-to-Fuchu succession coup.
@@ -1172,6 +1173,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蒙嘉 / Meng Jia](entities/MengJia.md) — Qin court favorite and access broker whom Jing Ke and Qin Wuyang bribe to present Yan's surrender script to Ying Zheng.
 - [秦武阳 / Qin Wuyang](entities/QinWuyang.md) — Yan warrior selected as Jing Ke's assistant, with fearsome reputation and Qin Kai lineage but uncertain mission fit.
 - [徐夫人 / Xu Furen](entities/XuFuren.md) — Zhao figure associated with the poisoned dagger prepared for Jing Ke's close-range assassination attempt.
 - [督亢地图 / Du Kang Map](entities/DuKangMap.md) — Territorial map used with Fan Wuji's head as the access gift meant to bring Jing Ke before the Qin king.

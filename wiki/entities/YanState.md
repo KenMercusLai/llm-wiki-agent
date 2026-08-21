@@ -82,6 +82,8 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 
 [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] moves Yan from exposed frontier/remnant cooperation into desperate policy design. [[YanTaiziDan|燕太子丹]] rejects [[JuWu|居武]]'s hezong-and-[[Xiongnu|匈奴]] proposal as too slow, protects [[FanWuji|樊无忌]] despite the Qin risk, and then enters the [[TianGuang|田光]] / [[JingKe|荆轲]] assassination branch. Yan's role becomes a case of [[WeakStateAssassinationStrategy|weak-state assassination strategy]] after ordinary coalition logic no longer looks fast enough.
 
+[[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] shows how that weak-state strategy speaks in Yan's name at the Qin court. Through [[MengJia|蒙嘉]], [[JingKe|荆轲]] presents Yan as willing to submit to real Qin administrative control while asking only to preserve royal descent and ancestral sacrifice. Yan's formal voice in this episode is therefore a staged surrender script, built to turn [[FanWuji|樊无忌]]'s head and the [[DuKangMap|督亢地图]] into palace access.
+
 ## Connections
 - [[YanMinGong|燕闵公]] and [[YanXiGong|燕僖公]] - succession pair in the source.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame.
@@ -118,3 +120,4 @@ The page is currently source-scoped. Its role is to anchor the annalistic chrono
 - [[ZhaoState|赵国]], [[QinState|秦国]], [[QinShiHuang|嬴政 / 秦始皇]], and [[WeakStateMutualPredation|弱国相争强国得利]] - Qinji 111-1 Zhao attack on Yan and Yan's warning to Qin.
 - [[zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6|Qinji 114-1]], [[WangJianQin|王翦]], [[ZhongshanState|中山国]], [[ZhaoJia|赵嘉]], [[DaiState|代地 / 代国]], and [[RemnantResistanceBase|残余政权根据地]] - Qin forward pressure and Shanggu-linked Zhao remnant cooperation.
 - [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx|Qinji 114-2]], [[YanTaiziDan|燕太子丹]], [[JuWu|居武]], [[TianGuang|田光]], [[JingKe|荆轲]], [[FanWuji|樊无忌]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Yan's turn from slow coalition repair toward assassination planning.
+- [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn|Qinji 115-1]], [[MengJia|蒙嘉]], [[DuKangMap|督亢地图]], and [[QinAdministrativeStandardization|秦国行政标准化]] - staged surrender and nominal-continuity bargain.
