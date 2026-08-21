@@ -72,6 +72,8 @@ The same source adds a counterfactual limit to Ying Zheng's biographical importa
 
 [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]] adds two linked conquest-era roles. Offstage, Ying Zheng's Qin destroys [[WeiState|魏国]] through [[WangBenQin|王贲]]'s water attack on [[Daliang|大梁]]. Onstage in the [[Zhanguoce|《战国策》]] branch, he tries to exchange a large territory for [[AnlingJun|安陵君]]'s small domain and is answered by [[TangJuEnvoy|唐雎]]'s [[ClothCladAngerPersuasion|布衣之怒]]. The page keeps the title wording and the court scene source-scoped because these events are pre-221 BCE and the episode itself questions the Tang Ju story's literal reliability.
 
+[[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] shows Ying Zheng correcting the Chu command error. After [[LiXinQin|李信]] and [[MengTian|蒙恬]] are defeated by [[XiangYan|项燕]], he is angry but the host emphasizes that he accepts his own mistaken judgment, goes to [[WangJianQin|王翦]], and grants the 600,000 troops plus [[MengWu|蒙武]] deputy request. The same source also marks Ying Zheng as a suspicious ruler whose possible fear of a commander with the whole army forces Wang Jian into [[GreedPersonaSelfProtection|贪财人设式自保]].
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
@@ -103,6 +105,7 @@ The same source adds a counterfactual limit to Ying Zheng's biographical importa
 - Qinji 115-2 adds the survival sequence itself: Ying Zheng is nearly trapped by palace protocol and weapon constraints, survives through small tactical turns, and then converts the failed assassination into an attack on Yan and Dai.
 - Qinji 116 adds the post-assassination refusal of appeasement and the Chu troop-estimate decision: Ying Zheng accepts Li Xin's 200,000-person answer over Wang Jian's 600,000-person caution.
 - Qinji 117-1 adds Wei's destruction under his conquest project and the Tang Ju-Anling story as a source-critical case of Ying Zheng being rhetorically checked by a weak-side envoy.
+- Qinji 117-2 adds the correction after Li Xin's Chu defeat: Ying Zheng returns to Wang Jian's larger troop requirement while Wang Jian manages royal suspicion through performed property desire.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -137,3 +140,4 @@ The same source adds a counterfactual limit to Ying Zheng's biographical importa
 - [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]], [[TuqiongBijian|图穷匕见]], [[WangJianQin|王翦]], [[YanState|燕国]], [[ZhaoJia|赵嘉]], and [[DaiState|代国]] - attempted killing, survival, and retaliatory campaign.
 - [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[YanWangXi|燕王喜]], [[YanTaiziDan|燕太子丹]], [[HeirSacrificeAppeasement|杀储求和式保祀]], [[LiXinQin|李信]], [[MengTian|蒙恬]], [[WangBenQin|王贲]], and [[AnchoringEffect|锚定效应]] - failed appeasement, Yan endpoint, and Chu command decision.
 - [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc|Qinji 117-1]], [[AnlingJun|安陵君]], [[TangJuEnvoy|唐雎]], [[ClothCladAngerPersuasion|布衣之怒]], and [[HydraulicSiegeWarfare|水攻围城]] - Wei endpoint and Anling envoy confrontation.
+- [[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy|Qinji 117-2]], [[XiangYan|项燕]], [[MengWu|蒙武]], [[GreedPersonaSelfProtection|贪财人设式自保]], and [[Xianyang|咸阳]] - Chu defeat correction and Wang Jian's self-protective estate requests.

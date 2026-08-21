@@ -2,7 +2,7 @@
 title: "蒙恬 / Meng Tian"
 type: entity
 tags: [person, general, qin-state, warring-states]
-sources: [zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
+sources: [zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk]
 last_updated: 2026-08-22
 ---
 
@@ -12,8 +12,11 @@ last_updated: 2026-08-22
 
 In this episode, Meng Tian therefore belongs to the command-selection branch rather than to a finished battlefield outcome. The episode leaves the result of the Li Xin-Meng Tian campaign for later, using the appointment mainly to set up the risk created by [[AnchoringEffect|锚定效应]] and by overreading Li Xin's previous pursuit success against [[YanTaiziDan|燕太子丹]].
 
+[[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] supplies that outcome. The source says Meng Tian and [[LiXinQin|李信]] initially take many [[ChuState|楚国]] cities, but after [[XiangYan|项燕]] traps Li Xin near [[NanCommandery|南郡]], Meng Tian's attempted relief is also defeated. The episode presents this as Meng Tian's rare defeat and as evidence that the first Qin expedition's problem was not merely one general's battlefield moment, but the whole underestimated Chu campaign.
+
 ## Connections
 - [[QinState|秦国]] - state he serves.
 - [[LiXinQin|李信]] - paired commander in the Chu campaign.
-- [[QinShiHuang|嬴政 / 秦始皇]], [[WangJianQin|王翦]], and [[ChuState|楚国]] - decision context.
+- [[QinShiHuang|嬴政 / 秦始皇]], [[WangJianQin|王翦]], and [[ChuState|楚国]] - decision context and later correction.
+- [[XiangYan|项燕]] and [[NanCommandery|南郡]] - Qinji 117-2 defeat setting.
 - [[AnchoringEffect|锚定效应]] - interpretive frame for the source's command-selection warning.

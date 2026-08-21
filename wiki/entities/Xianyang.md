@@ -2,7 +2,7 @@
 title: "咸阳 / Xianyang"
 type: entity
 tags: [place, capital, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-65-wo-chuanyue-qu-gei-langman-de-chuwang-nian-shou-shi-lvyd7pve-tfu4ixsqrbdvhm6g64j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The source explains the name through location: south of the Jiuzong mountains an
 
 [[zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn]] adds Xianyang as the palace setting for [[JingKe|荆轲]]'s access attempt. [[MengJia|蒙嘉]] helps turn [[YanState|燕国]]'s surrender script, [[FanWuji|樊无忌]]'s head, and the [[DuKangMap|督亢地图]] into a grand court audience. The capital's ceremony then becomes active pressure: [[QinWuyang|秦武阳]] freezes before the assembled Qin kin and ministers, forcing Jing Ke to proceed alone.
 
+[[zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy]] adds Xianyang as the property target in [[WangJianQin|王翦]]'s self-protection performance. Before and during the Chu campaign departure, Wang Jian repeatedly asks [[QinShiHuang|嬴政 / 秦始皇]] for fields and houses near the capital, making [[GreedPersonaSelfProtection|贪财人设式自保]] legible as a capital-centered property signal rather than an ordinary reward request.
+
 ## Connections
 - [[QinState|秦国]] - polity whose capital moves there.
 - [[ShangYang|公孙鞅 / 商鞅]] and [[ShangYangReforms]] - reformer and reform package linked to the move.
@@ -36,3 +38,4 @@ The source explains the name through location: south of the Jiuzong mountains an
 - [[LouHuan|楼缓]], [[QiState|齐国]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 Mengchangjun imprisonment, replacement, and escape context.
 - [[ChuHuaiwang|楚怀王]], [[Wuguan|武关]], [[ZhaoState|赵国]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Zhouji 65 escape, return to captivity, death, and reputational backlash context.
 - [[JingKe|荆轲]], [[QinWuyang|秦武阳]], [[MengJia|蒙嘉]], [[FanWuji|樊无忌]], and [[DuKangMap|督亢地图]] - Qinji 115-1 assassination access and palace-pressure branch.
+- [[WangJianQin|王翦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[GreedPersonaSelfProtection|贪财人设式自保]] - Qinji 117-2 estate requests around the capital.

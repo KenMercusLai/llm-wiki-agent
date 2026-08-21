@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？](sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy.md) — 芮淇讲透资治通鉴 episode on Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop plan, and Wang Jian's property-request self-protection.
 - [《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖](sources/zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc.md) — 芮淇讲透资治通鉴 episode on Qin's 225 BCE two-front pressure, Wang Ben's flooding of Daliang and Wei's fall, Wei Bao/Bao Ji/Xu Fu's misread Han payoff, and Tang Ju's source-critical Anling "布衣之怒" story.
 - [《资治通鉴·秦纪》116｜史上最惨太子：被父王亲手斩杀？！](sources/zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk.md) — 芮淇讲透资治通鉴 episode on Qin's post-Jing Ke attack on Yan, Yan Wang Xi killing Taizi Dan under Zhao Jia's advice, and the Li Xin/Wang Jian troop-estimate debate before the Chu campaign.
 - [《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？](sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu.md) — 芮淇讲透资治通鉴 episode completing Jing Ke's failed assassination attempt, Ying Zheng's escape and counterattack, Wang Jian's retaliatory strike on Yan and Dai, and Tao/Gong poetic memory of Jing Ke.
@@ -1184,6 +1185,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘恒 / Emperor Wen of Han](entities/LiuHeng.md) — Liu Bang and Bao Ji's son, used here as the later fulfillment of Xu Fu's prediction.
 - [李信 / Li Xin (Qin)](entities/LiXinQin.md) — Qin general whose pursuit of Yan Taizi Dan and 200,000-troop Chu estimate frame the episode's command-selection risk.
 - [蒙恬 / Meng Tian](entities/MengTian.md) — Qin general paired with Li Xin for the first Chu campaign in Qinji 116.
+- [蒙武 / Meng Wu](entities/MengWu.md) — Qin general requested by Wang Jian as deputy for the corrected 600,000-person Chu campaign.
+- [项燕 / Xiang Yan](entities/XiangYan.md) — Chu general who uses peace signals and a Nan Commandery diversion to defeat Li Xin and Meng Tian's first Qin campaign.
 - [王贲 / Wang Ben (Qin)](entities/WangBenQin.md) — Wang Jian's son and Qin commander whose southern-front attack on Chu sets up the Chu campaign debate.
 - [陶渊明 / Tao Yuanming](entities/TaoYuanming.md) — Poet cited for preserving Jing Ke's failed assassination as a morally charged侠义 memory.
 - [龚自珍 / Gong Zizhen](entities/GongZizhen.md) — Qing poet cited through 《舟中读陶诗三首》 as a later reader of Tao Yuanming's Jing Ke memory.
@@ -7775,6 +7778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mencian Great-Man Criterion / 孟子大丈夫标准](concepts/MencianGreatManCriterion.md) — Mencius's test that greatness requires moral steadiness under wealth, poverty, and force rather than mere political impact.
 - [Motive-Based Talent Evaluation / 动机导向的才干评价](concepts/MotiveBasedTalentEvaluation.md) — Moral test distinguishing similar political talents by purpose, beneficiary, and relation to public rescue or private gain, expanded through Zigong's rescue of Lu.
 - [Self-Preservation as State Strategy / 以自保包装国策](concepts/SelfPreservationAsStateStrategy.md) — Maneuver where a threatened court actor frames a personal exit as useful state strategy.
+- [Greed Persona Self-Protection / 贪财人设式自保](concepts/GreedPersonaSelfProtection.md) — Wang Jian pattern where apparent property greed signals bounded ambition and reduces ruler suspicion during high-scale command.
 - [可交换功臣 / Minister as Exchangeable Asset](concepts/MinisterAsExchangeableAsset.md) — Ruler calculation where a valued minister's survival, transfer, or death can all be converted into state advantage.
 - [宫廷后门自救 / Court Backchannel Survival](concepts/CourtBackchannelSurvival.md) — Hostile-court survival pattern where preexisting palace relationships and private status fears change a ruler's decision.
 - [不斩来使 / Envoy Killing Taboo](concepts/EnvoyKillingTaboo.md) — Diplomatic norm that makes killing an envoy a costly violation and potential war pretext.

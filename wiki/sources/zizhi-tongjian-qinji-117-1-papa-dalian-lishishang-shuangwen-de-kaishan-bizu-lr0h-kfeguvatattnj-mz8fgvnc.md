@@ -13,14 +13,14 @@ last_updated: 2026-08-22
 # 《资治通鉴·秦纪》117-1｜啪啪打脸！历史上“爽文”的开山鼻祖
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode moves from the Chu-command decision opened in [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]] into Qin's 225 BCE two-front pressure. While [[LiXinQin|李信]] and Meng Wu move against [[ChuState|楚国]], [[WangBenQin|王贲]] attacks [[WeiState|魏国]], floods [[Daliang|大梁]] by diverting the Yellow River, and forces [[WeiWangJia|魏王假]] to surrender before Wei is destroyed.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode moves from the Chu-command decision opened in [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]] into Qin's 225 BCE two-front pressure. While [[LiXinQin|李信]] and [[MengWu|蒙武]] move against [[ChuState|楚国]], [[WangBenQin|王贲]] attacks [[WeiState|魏国]], floods [[Daliang|大梁]] by diverting the Yellow River, and forces [[WeiWangJia|魏王假]] to surrender before Wei is destroyed.
 
 The episode then follows displaced Wei figures into later Han memory. [[WeiBao|魏豹]] and [[WeiJiu|魏咎]] survive as commoners, while Wei Bao's misreading of [[XuFuPhysiognomist|许负]]'s physiognomic prediction about [[BaoJi|薄姬]] becomes ironic because the future emperor is not Wei Bao's heir but [[LiuHeng|刘恒]], son of [[LiuBang|刘邦]].
 
 The final branch retells the [[Zhanguoce|《战国策》]] story of [[TangJuEnvoy|唐雎]] and [[AnlingJun|安陵君]]. Tang Ju answers Ying Zheng's "天子之怒" with [[ClothCladAngerPersuasion|布衣之怒]], producing a classic [[FaceSlappingReversalNarrative|打脸反杀叙事]], while the host also warns that the scene's historical reliability is doubtful because of post-Jing Ke security, court sword rules, Tang Ju's extreme reported age, and uncertainty around Anling's chronology.
 
 ## Key Claims
-- In 225 BCE Qin pressures multiple fronts: Li Xin and Meng Wu move toward Chu, while Wang Ben attacks Wei.
+- In 225 BCE Qin pressures multiple fronts: [[LiXinQin|Li Xin]] and [[MengWu|Meng Wu]] move toward Chu, while [[WangBenQin|Wang Ben]] attacks Wei.
 - Wei's long decline is framed through lost talent and ruler mistrust, contrasted with Qin's repeated ability to attract and use capable outsiders.
 - Wang Ben floods Daliang by using the capital area's water network; after three months the city wall fails, Wei Wang Jia surrenders, and Wei is destroyed.
 - Wei Bao and Wei Jiu temporarily survive after Wei's fall and later enter the Chen Sheng/Chu-Han era.
@@ -37,7 +37,7 @@ The final branch retells the [[Zhanguoce|《战国策》]] story of [[TangJuEnvo
 > "反杀打脸流爽文" - the host's modern narrative label for the Tang Ju-Anling story.
 
 ## Connections
-- [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[LiXinQin|李信]], [[WangJianQin|王翦]], [[WangBenQin|王贲]], and [[ChuState|楚国]] - the previous Chu-campaign setup and the concurrent southern-front line.
+- [[zizhi-tongjian-qinji-116-shishang-zuican-taizi-bei-fuwang-qinshou-zhansha-lthruqxtd4iqofdxzvim58ph8rlk|Qinji 116]], [[LiXinQin|李信]], [[WangJianQin|王翦]], [[MengWu|蒙武]], [[WangBenQin|王贲]], and [[ChuState|楚国]] - the previous Chu-campaign setup and the concurrent southern-front line.
 - [[WangBenQin|王贲]], [[WeiState|魏国]], [[WeiWangJia|魏王假]], [[Daliang|大梁]], and [[HydraulicSiegeWarfare|水攻围城]] - Wei's final military collapse.
 - [[WeiBao|魏豹]], [[WeiJiu|魏咎]], [[BaoJi|薄姬]], [[XuFuPhysiognomist|许负]], [[LiuBang|刘邦]], and [[LiuHeng|刘恒]] - displaced Wei afterlife and misread fate prediction.
 - [[AnlingJun|安陵君]], [[TangJuEnvoy|唐雎]], [[QinShiHuang|嬴政 / 秦始皇]], [[Zhanguoce|《战国策》]], [[ClothCladAngerPersuasion|布衣之怒]], and [[FaceSlappingReversalNarrative|打脸反杀叙事]] - the episode's literary "爽文" center.

@@ -9402,3 +9402,11 @@ Added source page for Qinji 117-1: Qin's 225 BCE two-front pressure, Wang Ben's 
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？
+
+Added source page for Qinji 117-2: Li Xin and Meng Tian's failed first Chu campaign, Xiang Yan's peace-signal and Nan Commandery trap, Ying Zheng's return to Wang Jian's 600,000-troop requirement, Meng Wu's deputy role, and Wang Jian's property-request self-protection. Created Xiang Yan, Meng Wu, and Greed Persona Self-Protection; updated overview, index, Li Xin, Meng Tian, Wang Jian, Qin Shi Huang, Qin State, Chu State, Wang Ben, Nan Commandery, Xianyang, Anchoring Effect, Deceptive Surrender Lull, Battlefield Information Control, Military Personalization, and Power Exit Trap. No settled contradiction found; 王儉/王翦, 蒙田/蒙恬, and 向燕/项燕 are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
