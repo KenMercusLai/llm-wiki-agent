@@ -2,8 +2,8 @@
 title: "匈奴 / Xiongnu"
 type: entity
 tags: [people, frontier, nomadic, steppe, pre-qin, warring-states, military]
-sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+last_updated: 2026-08-22
 ---
 
 # 匈奴 / Xiongnu
@@ -16,9 +16,12 @@ In the episode, Li Mu first denies the Xiongnu profitable contact by withdrawing
 
 The episode also places Xiongnu rise in a longer frontier sequence. Earlier northern and western groups are fragmented under separate chiefs or rulers; the source says Xiongnu strength grows especially by the late Warring States and later becomes the target of larger imperial campaigns under [[HanWudi|汉武帝]].
 
+[[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds Xiongnu as a diplomatic option rather than a battlefield opponent. [[JuWu|居武]] advises [[YanTaiziDan|燕太子丹]] to rebuild an anti-Qin coalition and seek Xiongnu support, then later suggests sending [[FanWuji|樊无忌]] into Xiongnu territory to reduce Yan's direct exposure to Qin.
+
 ## Connections
 - [[LiMu|李牧]] and [[ZhaoState|赵国]] - commander and state in the source's main frontier case.
 - [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - concept extracted from the source's account of mobile raiding.
 - [[FrontierDefensivePatience|边境防御耐心]] and [[LureEnemyOutOfPosition|诱敌离位]] - Zhao's response to Xiongnu mobility.
 - [[WarringStatesNorthernGreatWalls|战国北境长城]] - defensive-infrastructure frame in the episode.
 - [[HanWudi|汉武帝]] - later imperial comparison point.
+- [[JuWu|居武]], [[YanTaiziDan|燕太子丹]], [[YanState|燕国]], and [[FanWuji|樊无忌]] - Qinji 114-2 coalition-support and fugitive-removal proposal.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲](sources/zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx.md) — 芮淇讲透资治通鉴 episode on Yan Taizi Dan's failed search for a response to Qin pressure, Ju Wu's slow hezong/Xiongnu proposal, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, and Jing Ke's selection as a non-obvious侠士 assassin.
 - [《资治通鉴·秦纪》114-1｜今天聊聊 嬴政都有哪些残忍手段](sources/zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6.md) — 芮淇讲透资治通鉴 episode on the 228 BCE fall of Handan, Zhao Qian's capture and exile, Ying Zheng's revenge, Wang Jian's Zhongshan deployment, Zhao Jia's Dai remnant, and the Chu Youwang-to-Fuchu succession coup.
 - [《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一](sources/zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob.md) — 芮淇讲透资治通鉴 episode on Qin's 232-229 BCE Zhao front, Yan Taizi Dan's flight, Han/Wei land concessions, Han's fall, Zhao's disaster weakness, and Li Mu's removal through Guo Kai, Sima Shang, and battlefield commander replacement.
 - [《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判](sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9.md) — 芮淇讲透资治通鉴 episode completing the Han Fei, Yao Jia, Li Si, and Ying Zheng court conflict through Yao Jia's defense, Li Si's loyalty accusation, Han Fei's prison death, and the Sima Qian/Yang Xiong/Sima Guang reception dispute.
@@ -1170,6 +1171,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [荆轲 / Jing Ke](entities/JingKe.md) — Wey-origin wandering shi and侠士 selected by Tian Guang and Yan Taizi Dan for the anti-Qin assassination plan.
+- [田光 / Tian Guang](entities/TianGuang.md) — Yan elder who recommends Jing Ke, then kills himself to guarantee secrecy and impose侠义 pressure.
+- [居武 / Ju Wu](entities/JuWu.md) — Yan Taizi Dan's adviser who proposes hezong plus Xiongnu support and warns against sheltering Fan Wuji.
+- [樊无忌 / Fan Wuji](entities/FanWuji.md) — Qin fugitive sheltered by Yan Taizi Dan whose head becomes Jing Ke's proposed access credential.
+- [高渐离 / Gao Jianli](entities/GaoJianli.md) — Jing Ke's zhu-playing Yan companion in the market-level侠客 circle.
+- [魏王假 / King Jia of Wei](entities/WeiWangJia.md) — Wei Jingmin Wang's successor, introduced as Wei is already unable to reverse Qin pressure.
 - [熊昊 / 熊犹 / 楚哀王 / King Ai of Chu](entities/ChuAiwang.md) — Brief Chu successor after Chu Youwang, recorded with a 熊昊/熊犹 name variant before Xiong Fuchu's coup.
 - [熊负刍 / 楚王负刍 / Xiong Fuchu](entities/ChuFuchu.md) — Chu royal half-brother whose faction kills Chu Ai Wang and installs him during the Qinji 114-1 succession coup.
 - [司马尚 / Sima Shang](entities/SimaShang.md) — Zhao commander removed with Li Mu after Guo Kai's bribed rebellion accusation in Qinji 113.
@@ -7547,6 +7554,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Weak-State Assassination Strategy / 弱国刺杀式破局](concepts/WeakStateAssassinationStrategy.md) — Pattern where a weak state unable to resist directly turns the enemy ruler into the strategic target.
+- [Honor Binding By Self-Sacrifice / 以死绑定的侠义压力](concepts/HonorBindingBySelfSacrifice.md) — Mechanism where Tian Guang's suicide guarantees secrecy and morally binds Jing Ke to the death mission.
 - [Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制](concepts/CapturedRulerLegitimacyContainment.md) — Strategy pattern where keeping a defeated ruler alive constrains rival claimants and shapes remnant-state title choices.
 - [Remnant Resistance Base / 残余政权根据地](concepts/RemnantResistanceBase.md) — Pattern where a fallen state's surviving royal line gathers officials, territory, and alliance cover in a frontier base.
 - [Disaster-Exploiting Conquest Timing / 趁灾进攻时机](concepts/DisasterExploitingConquestTiming.md) — Strategy pattern where Qin compounds Zhao's earthquake, famine, and drought with rumor, bribery, and attack timing.

@@ -9354,3 +9354,11 @@ Added source page for Qinji 114-1: Wang Jian's defeat of Zhao after the Li Mu/Si
 ## [2026-08-22] lint | Wiki lint check
 
 Health passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,498 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile graph bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,498 pages, so bridge findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM could not run because `LLM_MODEL` and provider API key variables are unset in this shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》114-2｜燕国刺杀秦始皇为何会选荆轲
+
+Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure after Zhao's fall, Ju Wu's rejected hezong/Xiongnu strategy, Fan Wuji's fugitive risk, Tian Guang's recommendation and suicide, Jing Ke's non-obvious侠士 profile, Taizi Dan's high-cost patronage, and the plan to use Fan Wuji's head as access to the Qin king. Created Jing Ke, Tian Guang, Ju Wu, Fan Wuji, Gao Jianli, Wei Wang Jia, Weak-State Assassination Strategy, and Honor Binding By Self-Sacrifice; updated overview, index, Yan Taizi Dan, Yan State, Qin Shi Huang, Qin State, Wang Jian, Wei Jingmin Wang, Wei State, Xiongnu, Political Assassination Ethics, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Moralized Shi Identity, Hezong Alliance, and Qin Eastward Pressure. No settled contradiction found; the source title's Qin Shi Huang wording, Fan Wuji transcript naming, and pre-assassination stopping point are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
