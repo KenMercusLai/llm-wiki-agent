@@ -2,7 +2,7 @@
 title: "《法言》 / Fayan"
 type: entity
 tags: [book, chinese-classics, western-han, confucianism, ethics]
-sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The text also supplies the episode's contrast between [[Zigong|子贡 / 端木�
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] adds a second Fayan use through the [[WarringStatesFourLords|战国四公子]]. The episode presents [[YangXiong|扬雄]] as rejecting figures who become powerful when rulers lose control of government, even if earlier writers such as [[JiaYi|贾谊]] praised their talent attraction and anti-Qin stance. Fayan therefore now supports both motive-based evaluation of persuaders and ruler-control criticism of aristocratic patrons.
 
+[[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds a third use of Fayan through [[LuBuwei|吕不韦]]'s death. After the episode narrates Ying Zheng's letter, Lu Buwei's suicide, and the punishment of mourners, Fayan is used as the closing moral register: political cleverness and high payoff are not enough if the actor's path leaves ruler authority, household safety, and public order unstable.
+
 ## Connections
 - [[YangXiong|扬雄]] - author cited by the source.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - zonghengjia figures judged by the cited passage.
@@ -23,3 +25,4 @@ The text also supplies the episode's contrast between [[Zigong|子贡 / 端木�
 - [[ZonghengjiaDiplomacy|纵横家外交]], [[MotiveBasedTalentEvaluation|动机导向的才干评价]], and [[TalentVirtueDistinction|才德之分]] - concepts supported by the episode's use of the text.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[RighteousnessOverProfit|义利之辨]] - adjacent moral-political frames.
 - [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 use of Fayan in the Four Lords judgment.
+- [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Lu Buwei death branch and cleverness judgement.

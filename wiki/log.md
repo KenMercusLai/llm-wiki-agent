@@ -9307,3 +9307,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-08-21] ingest | 《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话
+
+Added source page for Qinji 111-2: Lu Buwei's unsafe Luoyang retreat, Ying Zheng's merit/kinship/仲父-denying letter and Shu relocation order, Lu Buwei's poisoned-wine suicide in 235 BCE, the Wang Yu forced-death comparison, posthumous punishment of mourners, Yang Xiong/Fayan evaluation through Sima Guang, and the drought-year Wei-Chu/Qin support notice. Created Wang Yu (Southern Dynasties). Updated overview, index, Lu Buwei, Qin Shi Huang, Qin State, Wei State, Chu State, Power Exit Trap, Weak-State Mutual Predation, Terminal Hezong Failure, Textual Variant Political Stakes, Sima Guang, Yang Xiong, Fayan, Shiji, and Zizhi Tongjian. No direct contradiction found; Lu Buwei's psychology, Ying Zheng's motive, and the imagined final scene are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

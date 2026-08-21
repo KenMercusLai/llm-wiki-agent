@@ -2,7 +2,7 @@
 title: "扬雄 / Yang Xiong"
 type: entity
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The episode uses him to distinguish similar-looking political activity by motive
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] uses Yang Xiong again, this time through [[Fayan|《法言》]]'s criticism of the [[WarringStatesFourLords|战国四公子]]. The episode frames his negative judgment through late Western Han political anxiety: when ruler authority is hollowed out by powerful ministers, in-laws, and usurpation pressure, great aristocratic patrons look less like saviors and more like private powers that weaken the state.
 
+[[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds another Yang Xiong citation through [[LuBuwei|吕不韦]]. The episode says [[SimaGuang|司马光]] uses Fayan to judge Lu Buwei as someone whose cleverness destroys him: the former merchant's political investment wins office, fief, and historical influence, but the same mode of calculation leaves him exposed once [[QinShiHuang|嬴政 / 秦始皇]] reads his reputation as a rival power.
+
 ## Connections
 - [[Fayan|《法言》]] - text cited by the episode.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.
@@ -23,3 +25,4 @@ The episode uses him to distinguish similar-looking political activity by motive
 - [[MotiveBasedTalentEvaluation|动机导向的才干评价]], [[TalentVirtueDistinction|才德之分]], and [[RighteousnessOverProfit|义利之辨]] - concepts connected to the episode's moral reading.
 - [[ConfucianIdealGovernance|儒家理想治理]] - broader moral-political frame.
 - [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 contrast between praise of talent patrons and suspicion of overmighty private power.
+- [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Fayan judgement on clever political investment ending in destruction.

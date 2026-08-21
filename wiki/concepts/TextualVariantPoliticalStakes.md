@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-21
 ---
 
@@ -20,6 +20,8 @@ This is not a license to treat every textual difference as propaganda. It is a r
 
 [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] adds a campaign-narrative version. The Chunshenjun tradition makes [[MiWan|楚考烈王]] the nominal leader and [[Chunshenjun|黄歇 / 春申君]] the commander of a Chu-Zhao-Wei-Han-Wey coalition, while the Zhao-house tradition makes [[PangNuan|庞煖]] commander of a Zhao-Chu-Wei-Yan coalition that later attacks Qi. The source treats the variants as impossible to resolve securely from the episode alone, so the wiki preserves both while extracting only the shared result: no meaningful gain from [[QinState|秦国]].
 
+[[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds a scope-changing omission around drought. The host says [[Shiji|《史记》]] records "天下大旱," while [[SimaGuang|司马光]]'s [[ZizhiTongjian|《资治通鉴》]] notice drops "天下." The political weight is not only meteorological: a drought that covers "all under heaven" frames a shared interstate crisis, while a Qin-centered notice can read as a narrower Qin event inside the chronicle's Qin-facing sequence.
+
 The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState|卫国]]. Because the transcript's segment around Chaoge, Puyang, [[WeyYuanjun|卫元君]], and [[WeyJunJiao|卫君角]] can blur Wei/Wey in romanization and wording, related pages record the ambiguity instead of creating a false merger.
 
 ## Key Claims
@@ -30,6 +32,7 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - Some variants come from name avoidance or scribal convention rather than direct political framing, but they can still affect entity identification.
 - Variants around anger, concealment, and pregnancy can change whether a succession story reads as strategy, scandal, or later hostile memory.
 - Campaign variants can change coalition membership, command credit, and post-campaign direction even when the strategic outcome remains stable.
+- Scope words around disaster can change whether a notice reads as shared interstate crisis or narrower state-centered chronology.
 - Naming variants and romanization overlap can create entity-identity risk, especially around [[WeiState|魏国]] and [[WeyState|卫国]].
 
 ## Connections
@@ -40,3 +43,4 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - [[LiTan|李谈 / 李同]], [[SimaQian|司马迁]], and [[Shiji|《史记》]] - Zhouji 96 part 4 name-avoidance variant case.
 - [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], and [[HistoricalDetectiveReasoning]] - Zhouji 97 part 4 paternity-rumor and narrative-variant case.
 - [[Chunshenjun|黄歇 / 春申君]], [[PangNuan|庞煖]], [[HezongAlliance|合纵]], [[WeyState|卫国]], [[WeyJunJiao|卫君角]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - final-coalition command variants and Wei/Wey identity caution.
+- [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]], [[QinState|秦国]], and [[WeakStateMutualPredation|弱国相争强国得利]] - Shiji/Tongjian drought-scope wording and its political reading.

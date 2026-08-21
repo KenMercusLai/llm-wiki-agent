@@ -2,7 +2,7 @@
 title: "Weak-State Mutual Predation / 弱国相争强国得利"
 type: concept
 tags: [strategy, diplomacy, warfare, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
+sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
 last_updated: 2026-08-21
 ---
 
@@ -14,14 +14,18 @@ The concept is not just "opportunism." Its focus is the failure of endangered st
 
 The source expresses the pattern through the idiom "鹬蚌相争，渔人得利." In wiki terms, it sits near [[CoalitionSelfPreservationFailure|联盟自保失灵]], [[PostDisasterPredationMisread|灾后趁虚误判]], and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]], but its distinctive feature is mutual attrition among states that should have stronger anti-Qin reasons to avoid helping Qin indirectly.
 
+[[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds a wider late-236/235 BCE fragmentation note. Even under drought and Qin pressure, [[WeiState|魏国]] attacks [[ChuState|楚国]], and Qin can choose to support Wei with four armies. This is not the same bilateral Zhao-Yan trap as Qinji 111-1, but it reinforces the pattern: weaker states keep spending strength against each other while Qin preserves the option to intervene selectively.
+
 ## Key Claims
 - Weak states can damage each other even when a stronger predator is the largest strategic danger.
 - Local gains against a neighbor can create timing windows for a hegemon.
 - A state can be militarily active and strategically self-defeating at the same time.
 - The pattern helps explain why late hezong logic fails as behavior even when it remains available as rhetoric.
+- The pattern can appear as direct predation between two endangered states or as a war that lets Qin choose which side to strengthen for its own timing.
 
 ## Connections
 - [[ZhaoState|赵国]], [[YanState|燕国]], and [[QinState|秦国]] - source case.
+- [[WeiState|魏国]], [[ChuState|楚国]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - drought-year reinforcement of the same fragmentation logic.
 - [[WangJianQin|王翦]], [[HuanYiQin|桓齮]], and [[YangDuanhe|杨端和]] - Qin commanders exploiting the opening.
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - alliance concepts this pattern undermines.
 - [[PostDisasterPredationMisread|灾后趁虚误判]] and [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - adjacent weak-state predation concepts.

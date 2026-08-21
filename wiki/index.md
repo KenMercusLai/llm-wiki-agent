@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话](sources/zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch.md) — 芮淇讲透资治通鉴 episode completing Lu Buwei's final crisis: Ying Zheng's Shu relocation order, Lu Buwei's poisoned-wine suicide, mourners' punishment, Fayan evaluation, and drought-year six-state fragmentation.
 - [《资治通鉴·秦纪》111-1｜偌大的赵国竟亡于一个妓女之手](sources/zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc.md) — 芮淇讲透资治通鉴 episode on 236 BCE Zhao attacking Yan, Qin's Wang Jian/Huan Yi/Yang Duanhe strike on Zhao, and Zhao Qian's disputed succession after Zhao Jia is displaced.
 - [《资治通鉴·秦纪》110-2｜秦始皇的CP为何被驱逐出国](sources/zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9.md) — 芮淇讲透资治通鉴 episode completing Li Si's Qin entry and Jian Zhu Ke Shu argument, from Zheng Guo's spy-case backlash to Ying Zheng's revocation of the guest-expulsion order.
 - [《资治通鉴·秦纪》110-1｜李斯：米仓老鼠和下水道老鼠你怎么选？](sources/zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb.md) — 芮淇讲透资治通鉴 episode on Qin's 237 BCE guest-expulsion order, post-Lu Buwei security panic, Zheng Guo as anti-guest evidence, and Li Si's early mouse-philosophy path from minor Chu clerk to Xunzi student.
@@ -1298,7 +1299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [触龙 / Chu Long](entities/ChuLong.md) — Zhao left master whose slow, family-centered approach to Zhao Weihou anchors the emotional de-escalation persuasion case.
 - [赵威后 / Zhao Weihou](entities/ZhaoWeihou.md) — Zhao regent and mother of Chang'an Jun whose refusal of Qi's hostage demand creates the Chu Long persuasion crisis.
 - [长安君 / Lord Chang'an of Zhao](entities/ChangAnJunZhao.md) — Zhao Weihou's youngest son whom Qi demands as hostage before aiding Zhao against Qin.
-- [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Qin power broker whose branch runs from succession investment and regency to Li Si's Qin entry channel before the narrative turns toward his death.
+- [吕不韦 / Lu Buwei](entities/LuBuwei.md) — Qin power broker whose branch runs from succession investment and regency through Li Si's Qin entry channel to Ying Zheng's final Shu relocation order and poisoned-wine suicide.
 - [赵丹 / 赵孝成王 / King Xiaocheng of Zhao](entities/ZhaoDan.md) — Zhao ruler whose Shangdang acceptance, failed diplomacy, and replacement of Lian Po with Zhao Kuo culminate in Changping disaster.
 - [秦悼太子 / Qin Daotaizi](entities/QinDaotaizi.md) — Qin crown prince whose death as a hostage in Wei makes Qin's near-attack strategy a succession puzzle.
 - [安国君柱 / 秦孝文王 / King Xiaowen of Qin](entities/QinXiaowenwang.md) — Qin Zhaoxiang Wang's later crown-prince choice after Qin Daotaizi's death.
@@ -2614,6 +2615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gravity-1 Rocket / 引力一号](entities/Gravity1Rocket.md) — Orienspace rocket highlighted for its successful early-2024 sea launch and public livestream.
 - [Striding AI / 正行创新](entities/StridingAI.md) — Yao Song's physical-intelligence startup focused on full-stack robot systems and scenario-grounded deployment.
 - [Wang Yu / 汪玉](entities/WangYu.md) — Tsinghua professor and DeePhi technical-origin figure who later reconnects with Yao's Striding AI work.
+- [王玉 / Wang Yu (Southern Dynasties)](entities/WangYuSouthernDynasties.md) — Southern Dynasties official used in Qinji 111-2 as a poisoned-wine forced-death comparison for Lu Buwei.
 - [Han Song / 韩松](entities/HanSong.md) — Algorithm-compression researcher tied to DeePhi Tech's AI-chip acceleration origin.
 - [Xilinx / 赛灵思](entities/Xilinx.md) — Strategic acquirer of DeePhi Tech, framed as needing software, algorithm, and solution capability.
 - [Matrix Partners China / 经纬中国](entities/MatrixPartnersChina.md) — Venture firm where Yao Song worked part-time while searching for his post-DeePhi direction.
@@ -3144,7 +3146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [真斗拳馆](entities/ZhendouBoxingGym.md) — Boxing gym that accepts 惠子, combining disability access with serious training, examination, and professional standards.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
-- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, conquest politics, and later imperial fangshu anxieties.
+- [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, Li Si's guest-expulsion reversal, Lu Buwei's final removal, conquest politics, and later imperial fangshu anxieties.
 - [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose求仙 projects and wugu panic make fangshu a fiscal, political, and succession danger in episode 87.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
@@ -7529,7 +7531,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao, Yan, and Qin in 236 BCE.
+- [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao-Yan-Qin and reinforced by drought-year Wei-Chu fragmentation.
 - [Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶](concepts/FavoriteDrivenHeirDisplacement.md) — Succession-risk mechanism where an established heir is displaced for the child of a favored partner, developed through Zhao Daoxiang Wang, Zhao Jia, and Zhao Qian.
 - [Short Selling](concepts/ShortSelling.md) — Downside investing discipline that Loeb frames as fraud hunting and structural research rather than valuation-only negativity.
 - [Stock Picking](concepts/StockPicking.md) — Active individual-company selection that the Loeb source says now requires technology literacy, macro context, management judgment, and thematic understanding.
@@ -7543,7 +7545,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Palace Scandal Power Consolidation / 宫廷丑闻式收权](concepts/PalaceScandalPowerConsolidation.md) — Qinji 108-3 pattern where Lao Ai's palace scandal becomes a legitimacy crisis that lets Ying Zheng purge a faction, discipline Zhao Ji, and remove Lu Buwei.
 - [Gendered Historiographical Desire Framing / 性别化史书欲望叙事](concepts/GenderedHistoriographicalDesireFraming.md) — Interpretive caution from Qinji 108-2 and 108-3 about reading Zhao Ji through desire, scandal, and male embarrassment without erasing political consequences.
 - [赴死式直谏 / Death-Defying Remonstrance](concepts/DeathDefyingRemonstrance.md) — High-risk court feedback pattern where willingness to die makes direct criticism speakable under lethal ruler anger.
-- [末次合纵失败 / Terminal Hezong Failure](concepts/TerminalHezongFailure.md) — Pattern where the final anti-Qin hezong campaign still assembles states but cannot reverse Qin and is preserved through conflicting source traditions.
+- [末次合纵失败 / Terminal Hezong Failure](concepts/TerminalHezongFailure.md) — Pattern where the final anti-Qin hezong campaign still assembles states but cannot reverse Qin, with later drought-year fragmentation showing the failure's afterlife.
 - [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.
 - [Koch Operating Principles](concepts/KochOperatingPrinciples.md) — Source-specific management framework around vision, capabilities, virtue and talents, knowledge, motivation, incentives, and behavior change.
 - [Values-First Talent](concepts/ValuesFirstTalent.md) — Hiring frame that puts values before skills and credentials to avoid destructive but capable leaders.
