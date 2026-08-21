@@ -8724,6 +8724,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》108-1｜历史敢当面顶撞秦始皇第一人
+
+Added source page for Qinji 108-1: Ying Zheng's 238 BCE personal-rule threshold, Yang Duanhe's continued pressure on Wei to the Qi border, the fourth-month cold disaster as omen framing, Lao Ai's rise and rebellion, Zhao Ji's confinement, and Mao Jiao's death-defying remonstrance. Created Lao Ai, Mao Jiao, Yang Duanhe, Changping Jun, Yongcheng, and Death-Defying Remonstrance. Updated overview, index, Qin Shi Huang, Lu Buwei, Zhao Ji, Qin State, Natural Disaster Political Omen, Qin Eastward Pressure, Terminal Hezong Failure, Hezong Alliance, and Court Feedback Collapse. No direct contradiction found; the episode's Qin-Qi border claim is recorded as a source-scoped interpretation of hezong's geographic closure, and the Lao Ai/Zhao Ji branch is not used to settle the older Ying Zheng paternity rumor.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡
 
 Added source page for the 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin. Created Wei Jingmin Wang, Pang Nuan, Dong Commandery, Xinlingjun Death Suspicion, and Rank Sale Disaster Finance. Updated overview, index, Xinlingjun, Wei Anxi Wang, Liu Bang, Qin Shi Huang, Qin State, Meng Ao, Wei State, Zhao State, Yan State, Yan Wang Xi, Ju Xin, Chunshenjun, Power Exit Trap, Qin Eastward Pressure, Hezong Alliance, Post-Disaster Predation Misread, Disaster Response State Capacity, Military Merit Rank System, and Financial Power And State Capacity. No direct contradiction found; the non-natural-death and smallpox claims are kept source-scoped.

@@ -2,7 +2,7 @@
 title: "吕不韦 / Lu Buwei"
 type: entity
 tags: [person, strategist, merchant, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
+sources: [zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The same source moves Lu Buwei from succession investor to state executor. When 
 
 [[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] gives Lu Buwei a state-capacity role during Ying Zheng's minority. The episode says [[HanState|韩国]]'s attempt to use [[ZhengGuoHydraulicEngineer|郑国]] and the [[ZhengGuoCanal|郑国渠]] to exhaust Qin works because Lu Buwei already wants Guanzhong irrigation and grain security for future wars. The result extends his page beyond succession investment: he is also presented as a minister whose internal-strengthening agenda can absorb an enemy's plot and turn it into Qin advantage.
 
+[[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]] adds the crisis consequence of Lu Buwei's earlier intimate connection to [[ZhaoJi|赵姬]]. The episode says Lu Buwei fears exposure and introduces [[LaoAi|嫪毐]] to Zhao Ji as a supposed eunuch. In this source, that attempted risk transfer becomes a larger court-political danger: Lao Ai gains title, retainers, and influence before rebelling as [[QinShiHuang|嬴政 / 秦始皇]] reaches personal rule.
+
 ## Connections
 - [[QinXiaowenwang|安国君柱 / 秦孝文王]] - succession figure whose appearance foreshadows Lu Buwei.
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - Qin court context.
@@ -44,3 +46,4 @@ The same source moves Lu Buwei from succession investor to state executor. When 
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[JiangTaigong|姜太公 / 姜子牙]], [[EasternZhouPolity|东周国]], [[Luoyi|洛邑]], and [[QinState|秦国]] - lineage claim, chancellorship, Eastern Zhou campaign, and Wenxin Hou reward.
 - [[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx|Qinji 103-2]], [[QinShiHuang|嬴政 / 秦始皇]], [[QinZhuangxiangwang|秦庄襄王]], and [[PoliticalVentureInvestment|政治风险投资]] - post-succession authority as the payoff of the earlier investment.
 - [[ZhengGuoHydraulicEngineer|郑国]], [[ZhengGuoCanal|郑国渠]], [[HanState|韩国]], and [[SelfDefeatingResourceDrainStrategy|疲敌反强敌]] - Qinji 104 canal decision, Guanzhong grain-base logic, and backfired exhaustion plan.
+- [[LaoAi|嫪毐]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij|Qinji 108-1]] - attempted exposure management that becomes the Lao Ai rebellion branch.

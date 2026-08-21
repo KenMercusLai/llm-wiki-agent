@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》108-1｜历史敢当面顶撞秦始皇第一人](sources/zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij.md) — 芮淇讲透资治通鉴 episode on Ying Zheng's 238 BCE personal-rule threshold, Yang Duanhe's Qin advance to the Qi border, the Lao Ai rebellion, Zhao Ji's confinement, and Mao Jiao's death-defying remonstrance.
 - [《资治通鉴·秦纪》107｜最后一次合纵伐秦 伐了个寂寞](sources/zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw.md) — 芮淇讲透资治通鉴 episode on the failed final anti-Qin hezong campaign, competing Chunshenjun/Pang Nuan source traditions, Chu's move to Shouchun, and Qin's continued Dong Commandery pressure.
 - [Charles & Chase Koch on How They Quietly Built a $150B Empire](sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895.md) — All-In interview with Charles and Chase Koch on Koch Industries, capability-bounded growth, operating principles, private ownership, Stand Together, education reform, barrier removal, and permissionless AI innovation.
 - [《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡](sources/zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin.
@@ -1153,6 +1154,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [嫪毐 / Lao Ai](entities/LaoAi.md) — Qin court favorite of Zhao Ji whose exposed false-eunuch status becomes rebellion in Qinji 108-1.
+- [茅焦 / Mao Jiao](entities/MaoJiao.md) — Qi guest whose death-defying remonstrance persuades Ying Zheng to bring Zhao Ji back from Yongcheng.
+- [杨端和 / Yang Duanhe](entities/YangDuanhe.md) — Qin commander who continues the Wei campaign line and helps push Qin's boundary to Qi in Qinji 108-1.
+- [昌平君 / Changping Jun](entities/ChangpingJun.md) — Qin figure named in Qinji 108-1 as part of the force suppressing Lao Ai's rebellion.
+- [雍城 / Yongcheng (Qin)](entities/YongchengQin.md) — Qin ancestral and palace setting for Ying Zheng's crown ceremony, Lao Ai's rebellion, and Zhao Ji's confinement.
 - [朱英 / Zhu Ying (Warring States)](entities/ZhuYingWarringStates.md) — Chu adviser who turns Qin's post-hezong pressure and Wei's weakening into the argument for moving the Chu capital to Shouchun.
 - [寿春 / Shouchun (Warring States)](entities/ShouchunWarringStates.md) — Chu capital destination after the failed final hezong campaign, framed as a defensive relocation away from Qin pressure.
 - [卫君角 / Wey Jun Jiao](entities/WeyJunJiao.md) — Remnant Wey ruler figure in the source-scoped Wei/Wey ambiguity around Chaoge, Puyang, Yewang, and Dong Commandery.
@@ -7493,6 +7499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [赴死式直谏 / Death-Defying Remonstrance](concepts/DeathDefyingRemonstrance.md) — High-risk court feedback pattern where willingness to die makes direct criticism speakable under lethal ruler anger.
 - [末次合纵失败 / Terminal Hezong Failure](concepts/TerminalHezongFailure.md) — Pattern where the final anti-Qin hezong campaign still assembles states but cannot reverse Qin and is preserved through conflicting source traditions.
 - [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.
 - [Koch Operating Principles](concepts/KochOperatingPrinciples.md) — Source-specific management framework around vision, capabilities, virtue and talents, knowledge, motivation, incentives, and behavior change.

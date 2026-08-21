@@ -2,7 +2,7 @@
 title: "Qin Shi Huang / 秦始皇"
 type: entity
 tags: [person, emperor, china, qin, fangshu, warring-states]
-sources: [zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 
 [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] carries the young-ruler chronology into Ying Zheng's sixth to eighth years, 241-239 BCE. The sixth year brings the final anti-Qin [[HezongAlliance|合纵]] campaign and its failure; the seventh year records Qin attacking [[WeiState|魏国]] again and the deaths of [[XiaTaihou|夏太后]] and Meng Ao; the eighth year records Wei giving Ye to Zhao and [[HanHuanhuiwang|韩桓惠王]] dying before Han An succeeds.
 
+[[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij]] moves Ying Zheng into his ninth year and personal-rule threshold. At twenty-two, he goes to [[YongchengQin|雍城]] for the crown ceremony, while [[YangDuanhe|杨端和]] continues Qin's eastward attack on [[WeiState|魏国]]. The same episode makes his court crisis central: [[LaoAi|嫪毐]]'s rebellion and [[ZhaoJi|赵姬]]'s confinement expose Ying Zheng's rage, family humiliation, and legitimacy problem until [[MaoJiao|茅焦]]'s [[DeathDefyingRemonstrance|赴死式直谏]] persuades him to bring Zhao Ji back to [[Xianyang|咸阳]].
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
@@ -44,6 +46,7 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - Qinji 104 shows early Ying Zheng preserving the Zhengguo Canal despite its hostile origin, making infrastructure completion part of Qin's road from succession instability to conquest capacity.
 - Qinji 106 shows early Ying Zheng's state absorbing locust and epidemic pressure through rank-for-grain mobilization, then resuming expansion into Wei with Dong Commandery.
 - Qinji 107 shows the last anti-Qin coalition failing during Ying Zheng's sixth year, with Qin continuing pressure through later attacks and succession notices around Wei, Han, Xia Taihou, and Meng Ao.
+- Qinji 108-1 shows Ying Zheng's transition to personal rule colliding with the Lao Ai rebellion, Zhao Ji's punishment, and Mao Jiao's remonstrance, making court feedback and royal-family legitimacy part of his early-rule profile.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.
@@ -60,3 +63,4 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - [[LuBuwei|吕不韦]], [[QinState|秦国]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 103-2 young accession, delegated state affairs, and internal-unrest setup.
 - [[ZhengGuoHydraulicEngineer|郑国]], [[ZhengGuoCanal|郑国渠]], [[HanState|韩国]], and [[SelfDefeatingResourceDrainStrategy|疲敌反强敌]] - Qinji 104 canal decision and backfired anti-Qin plan.
 - [[HezongAlliance|合纵]], [[TerminalHezongFailure|末次合纵失败]], [[WeiState|魏国]], [[XiaTaihou|夏太后]], [[MengAo|蒙敖]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - sixth-to-eighth-year chronology around final coalition failure and continuing Qin pressure.
+- [[LaoAi|嫪毐]], [[MaoJiao|茅焦]], [[YangDuanhe|杨端和]], [[YongchengQin|雍城]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[zizhi-tongjian-qinji-108-1-lishi-gan-dangmian-dingzhuang-qinshihuang-diyi-ren-lg0dssyicp387foiraohkv1x5aij|Qinji 108-1]] - ninth-year personal-rule threshold, rebellion, punishment, and remonstrance repair.
