@@ -2,7 +2,7 @@
 title: "Treason Accusation Trap / 谋反指控陷阱"
 type: concept
 tags: [court-politics, governance, political-intrigue, pre-qin-history]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds an identity-based version through [[HanFei|韩非]]. [[LiSi|李斯]] does not need to stage a false event; he uses Han Fei's real [[HanState|韩国]] royal identity to argue that Han Fei will always favor Han if Qin employs him and will endanger Qin if released. The accusation trap is that home-state obligation becomes enough to make imprisonment and elimination appear prudent.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds a battlefield version against [[LiMu|李牧]] and [[SimaShang|司马尚]]. [[GuoKai|郭开]], bribed by Qin, tells [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] that the two commanders are plotting rebellion. The trap is operationally decisive because it converts Zhao's best remaining military asset into a ruler-security threat while Qin's armies are already in the field.
+
 ## Key Claims
 - Treason accusations do not have to be airtight to be politically powerful; they only have to make distrust operational.
 - A staged third-party act can be more useful than direct accusation because it gives the ruler something to investigate.
@@ -26,6 +28,7 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 - Ritual or divination language can be turned from uncertainty management into a frame for criminal intent.
 - Real events can work like planted events if court interpreters attach them to a ruler's existing fear.
 - A real identity marker can also become accusation material when rivals translate divided loyalty into an unavoidable security risk.
+- A treason accusation can remove a commander even when the external enemy is the obvious immediate threat; ruler fear can outrank battlefield necessity.
 
 ## Connections
 - [[ZouJi|成侯邹忌]] - actor who creates the accusation trap in the source.
@@ -36,3 +39,4 @@ This concept is adjacent to [[PoliticalParableWeaponization]], but it is harsher
 - [[PoliticalParableWeaponization]], [[CourtFeedbackCollapse]], and [[PortableDivinationSystems]] - adjacent speech, information, and divination concepts.
 - [[TianDan|田单]], [[DiaoBo|刁伯]], [[QiXiangWang|齐襄王]], [[MiHeng|楚顷襄王]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 diplomatic reception reframed as evidence of overmighty-minister ambition.
 - [[HanFei|韩非]], [[LiSi|李斯]], [[QinShiHuang|嬴政 / 秦始皇]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - identity-based loyalty accusation and imprisonment branch.
+- [[LiMu|李牧]], [[SimaShang|司马尚]], [[GuoKai|郭开]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - bribed rebellion accusation that triggers command removal.

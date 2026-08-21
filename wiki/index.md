@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一](sources/zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob.md) — 芮淇讲透资治通鉴 episode on Qin's 232-229 BCE Zhao front, Yan Taizi Dan's flight, Han/Wei land concessions, Han's fall, Zhao's disaster weakness, and Li Mu's removal through Guo Kai, Sima Shang, and battlefield commander replacement.
 - [《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判](sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9.md) — 芮淇讲透资治通鉴 episode completing the Han Fei, Yao Jia, Li Si, and Ying Zheng court conflict through Yao Jia's defense, Li Si's loyalty accusation, Han Fei's prison death, and the Sima Qian/Yang Xiong/Sima Guang reception dispute.
 - [《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？](sources/zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz.md) — 芮淇讲透资治通鉴 episode on Han Fei's ignored Legalist reform advice in weak Han, Ying Zheng's admiration for 《孤愤》 and 《五蠹》, 郑人买履, and Han Fei's mission to Qin before Li Si's opposition.
 - [《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？](sources/zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg.md) — 芮淇讲透资治通鉴 episode on Han Fei's Cun Han argument, Li Si's counter and rumor operation, and Yao Jia's Qin-backed three-year disruption of a Zhao-Han-Wei-Chu hezong plan.
@@ -1168,6 +1169,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [司马尚 / Sima Shang](entities/SimaShang.md) — Zhao commander removed with Li Mu after Guo Kai's bribed rebellion accusation in Qinji 113.
+- [顿弱 / Dun Ruo](entities/DunRuo.md) — Qin intelligence actor who spreads panic and ominous signs in disaster-weakened Zhao in Qinji 113.
+- [赵葱 / Zhao Cong](entities/ZhaoCong.md) — Zhao replacement commander appointed after Li Mu and Sima Shang are removed during Qin's 229 BCE attack.
+- [颜聚 / Yan Ju (Zhao)](entities/YanJuZhao.md) — Zhao replacement commander paired with Zhao Cong after the Li Mu/Sima Shang removal.
 - [韩王安 / Han An](entities/HanAn.md) — Late Han ruler who ignores Han Fei's Legalist reform advice and sends him as envoy to Qin when Han becomes Qin's first-target problem.
 - [《孤愤》 / Gu Fen](entities/Gufen.md) — Han Fei text whose political anger reaches Ying Zheng and helps make the author admired but unsafe in Qin.
 - [《五蠹》 / Wu Du](entities/Wudu.md) — Han Fei text paired with 《孤愤》 in Ying Zheng's admirer response before Han Fei enters Qin.
@@ -7539,6 +7544,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Disaster-Exploiting Conquest Timing / 趁灾进攻时机](concepts/DisasterExploitingConquestTiming.md) — Strategy pattern where Qin compounds Zhao's earthquake, famine, and drought with rumor, bribery, and attack timing.
 - [Author Admiration Power Risk](concepts/AuthorAdmirationPowerRisk.md) — Pattern where a powerful reader's admiration for a text draws the author into unsafe court politics.
 - [郑人买履 / Zheng Ren Mai Lv](concepts/ZhengRenMaiLv.md) — Han Fei parable warning that measurements and rules become absurd when they replace contact with concrete reality.
 - [Weak-State Mutual Predation / 弱国相争强国得利](concepts/WeakStateMutualPredation.md) — Pattern where endangered states fight each other and create openings for a stronger power, developed through Zhao-Yan-Qin and reinforced by drought-year Wei-Chu fragmentation.

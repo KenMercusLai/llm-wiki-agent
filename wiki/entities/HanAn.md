@@ -2,7 +2,7 @@
 title: "韩王安 / Han An"
 type: entity
 tags: [person, ruler, han-state, warring-states, pre-qin]
-sources: [zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]
 last_updated: 2026-08-21
 ---
 
@@ -14,9 +14,12 @@ last_updated: 2026-08-21
 
 The page is source-scoped. Han An's wiki role here is not a full reign biography; it is the ruler position that makes Han Fei's failure inside Han visible. Han Fei's writing can reach Ying Zheng, but it cannot first make his own ruler act.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] closes Han An's state branch. In the source's 230 BCE notice, [[QinState|秦国]] attacks [[HanState|韩国]], captures Han An, and turns old Han territory into Yingchuan commandery. Han An now anchors the first completed state-destruction step in Ying Zheng's unification sequence, after the earlier sources showed him ignoring Han Fei and sending him into Qin's court.
+
 ## Connections
 - [[HanState|韩国]] - state he rules in the late conquest sequence.
 - [[HanHuanhuiwang|韩桓惠王]] - predecessor named in Qinji 107.
 - [[HanFei|韩非]], [[Gufen|《孤愤》]], [[Wudu|《五蠹》]], and [[LegalistRulerTechnique|法家君术]] - ignored reform-advice and writing branch.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[LiSi|李斯]], and [[AuthorAdmirationPowerRisk]] - Qin court setting created when Han Fei is sent as envoy.
 - [[CunHan|《存韩》]] - later or overlapping protective-Han memorial branch developed by Qinji 112-1.
+- [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] and [[QinEastwardPressure|秦国东进压力]] - capture and Han extinction in 230 BCE.

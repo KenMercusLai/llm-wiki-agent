@@ -2,7 +2,7 @@
 title: "Rumor Erosion of Trust / 谣言侵蚀信任"
 type: concept
 tags: [governance, trust, court-politics, rhetoric, pre-qin-history]
-sources: [zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The concept matters because it treats trust as a political resource with a decay
 
 [[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] adds Lian Po's final blocked recall. [[LianPo|廉颇]] tries to demonstrate that he can still command, but [[GuoKai|郭开]] bribes the envoy sent by [[ZhaoDaoxiangwang|赵道襄王]]. The damaging report turns appetite and bodily detail into a trust-destroying signal, so Zhao loses the chance to recover a veteran general even after recognizing renewed Qin pressure.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] makes Guo Kai's trust-destroying role repeat at higher stakes. This time the rumor is not about [[LianPo|廉颇]]'s age but about [[LiMu|李牧]] and [[SimaShang|司马尚]] plotting rebellion during Qin's 229 BCE invasion. Zhao's damaged disaster environment and [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]]'s weak judgment make the accusation actionable.
+
 ## Key Claims
 - Repetition can make even implausible accusation politically effective.
 - Campaign duration increases the time available for court factions to reframe a commander's delay as betrayal or incompetence.
@@ -32,6 +34,7 @@ The concept matters because it treats trust as a political resource with a decay
 - Succession is not required: battlefield frustration and a defensive strategy that looks passive to the court can also prepare the ruler to accept slander.
 - Even battlefield success can erode trust when the success makes a subject look like an alternative center of authority.
 - Court reporting can convert a commander's physical display into damaging evidence when an intermediary is bribed.
+- Disaster and famine can accelerate rumor erosion because public fear, low morale, and military stress make loyalty stories easier to operationalize.
 
 ## Connections
 - [[GanMao|甘茂]] and [[QinWuwang|秦武王]] - speaker and ruler whose trust is at issue.
@@ -43,3 +46,4 @@ The concept matters because it treats trust as a political resource with a decay
 - [[LianPo|廉颇]], [[ZhaoDan|赵丹 / 赵孝成王]], [[FanJu|范雎]], [[ZhaoKuo|赵括]], and [[ChangpingBattle|长平之战]] - Zhouji 94 frustration-to-replacement branch.
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - Qinji 103-2 success-to-suspicion branch.
 - [[LianPo|廉颇]], [[ZhaoDaoxiangwang|赵道襄王]], [[GuoKai|郭开]], and [[LeCheng|乐乘]] - Qinji 104 late-career blocked recall and command-trust collapse.
+- [[LiMu|李牧]], [[SimaShang|司马尚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[DisasterExploitingConquestTiming|趁灾进攻时机]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - disaster-era accusation and Zhao's final command-trust collapse.

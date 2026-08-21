@@ -9338,3 +9338,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》113｜李牧如何用一己之力阻秦国统一
+
+Added source page for Qinji 113: Qin's 232 BCE Zhao-front pressure, Yan Taizi Dan's mistreatment and flight, Han/Wei land concessions, Han's 230 BCE destruction, Huayang Taihou's death, Zhao's earthquake-famine-drought crisis, Dun Ruo's rumor work, and the 229 BCE removal of Li Mu and Sima Shang through Guo Kai's bribed treason accusation. Created Sima Shang, Dun Ruo, Zhao Cong, Yan Ju (Zhao), and Disaster-Exploiting Conquest Timing. Updated overview, index, Li Mu, Guo Kai, Zhao Youmiu Wang, Wang Jian, Yang Duanhe, Yan Taizi Dan, Han An, Huayang Furen, Qin Shi Huang, Qin State, Zhao State, Han State, Wei State, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, Treason Accusation Trap, Battlefield Commander Replacement Risk, Qin Eastward Pressure, and Natural Disaster Political Omen. No settled contradiction found; Li Mu as the last variable in Qin unification is kept as a source-scoped strategic interpretation.
+
+## [2026-08-21] lint | Wiki lint check
+
+Health passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,493 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile graph bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the current wiki scan found 12,493 pages, so bridge findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM could not run because no provider API key variables are present in the environment; a bounded in-session sample review found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.

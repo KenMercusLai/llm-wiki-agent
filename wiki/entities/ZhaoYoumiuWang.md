@@ -2,7 +2,7 @@
 title: "赵迁 / 赵幽缪王 / Zhao Youmiu Wang"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-111-1-ruoda-de-zhaoguo-jing-wang-yu-yige-jinv-zhi-shou-lhrqb8-swlkuyoydgjyn8ldnlkzc]
 last_updated: 2026-08-21
 ---
 
@@ -14,6 +14,8 @@ The source presents his accession as an internal-disorder counterpart to the ext
 
 This page is source-scoped. The episode does not narrate the full later fall of Zhao; it marks Zhao Qian's succession as the moment when weak-state infighting, Qin opportunity, and a damaged heir structure begin to converge.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] carries that convergence into the 229 BCE Zhao-front disaster. After earthquake, famine, and Qin psychological operations weaken Zhao, Zhao Qian listens to [[GuoKai|郭开]]'s bribed accusation that [[LiMu|李牧]] and [[SimaShang|司马尚]] are plotting rebellion. His decision to replace them with [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]] turns the earlier succession warning into a direct command failure.
+
 ## Connections
 - [[ZhaoState|赵国]] - state Zhao Qian inherits under external pressure.
 - [[ZhaoDaoxiangwang|赵道襄王]] - father whose heir choice creates the succession branch.
@@ -21,3 +23,4 @@ This page is source-scoped. The episode does not narrate the full later fall of 
 - [[QinState|秦国]], [[WangJianQin|王翦]], [[HuanYiQin|桓齮]], and [[YangDuanhe|杨端和]] - attacking state and commanders in the accession year.
 - [[YanState|燕国]] and [[WeakStateMutualPredation|弱国相争强国得利]] - Zhao's Yan campaign and Qin's opportunity.
 - [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]] and [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - succession-risk frames.
+- [[LiMu|李牧]], [[SimaShang|司马尚]], [[GuoKai|郭开]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], [[TreasonAccusationTrap|谋反指控陷阱]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Qinji 113 final Zhao-front command failure.

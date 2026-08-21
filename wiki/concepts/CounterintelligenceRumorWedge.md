@@ -2,7 +2,7 @@
 title: "Counterintelligence Rumor Wedge / 反间流言楔入"
 type: concept
 tags: [strategy, intelligence, rumor, court-politics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 
 [[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] adds a diplomatic-agent version through [[LiSi|李斯]] and [[YaoJia|姚贾]]. When Zhao sends Yao Jia to organize Han, Wei, and Chu against Qin, Li Si spreads claims about Yao Jia's theft record and self-enrichment. Zhao's resulting expulsion removes a useful envoy and sends him toward Qin. This is not battlefield commander replacement, but the mechanism is the same: the target state is induced to distrust and discard a useful actor.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds the final Zhao-front version. Qin first exploits Zhao's disaster conditions through [[DunRuo|顿弱]]'s rumor and panic work, then bribes [[GuoKai|郭开]] to tell [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] that [[LiMu|李牧]] and [[SimaShang|司马尚]] are plotting rebellion. The wedge succeeds because it makes Zhao remove the command pair Qin most wants off the field.
+
 ## Key Claims
 - Rumor is strongest when it amplifies a suspicion the target already finds emotionally or politically plausible.
 - A succession transition can make old military success look like new political threat.
@@ -34,6 +36,7 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - Qinji 103-2 shows the tactic after an enemy victory: the rumor reframes coalition prestige as usurpation risk so the target state destroys its own successful commander.
 - Qinji 104 is adjacent rather than central: the corrupt report about Lian Po is internal court sabotage, but it shares the same command-damaging information pathway.
 - Qinji 112-1 widens the pattern from commanders to envoys: rumor can make a state export diplomatic talent to the enemy.
+- Qinji 113 returns the pattern to battlefield command under disaster conditions: rumor, omen-like panic, bribery, and treason accusation combine to remove Li Mu and Sima Shang.
 
 ## Connections
 - [[TianDan|田单]] - user of the tactic.
@@ -47,3 +50,4 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[QinState|秦国]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - Qinji 103-2 slander wedge that removes Wei's strongest commander.
 - [[GuoKai|郭开]], [[LianPo|廉颇]], and [[ZhaoDaoxiangwang|赵道襄王]] - Qinji 104 adjacent bribed-report case.
 - [[YaoJia|姚贾]], [[LiSi|李斯]], [[ZhaoState|赵国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ChuState|楚国]] - Qinji 112-1 rumor against a Zhao envoy before Qin recruitment.
+- [[DunRuo|顿弱]], [[GuoKai|郭开]], [[LiMu|李牧]], [[SimaShang|司马尚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - disaster-era rumor and bribed treason accusation against Zhao command.

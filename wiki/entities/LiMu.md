@@ -2,7 +2,7 @@
 title: "李牧 / Li Mu"
 type: entity
 tags: [person, general, zhao-state, pre-qin, warring-states, frontier-warfare]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+sources: [zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The page is source-scoped. Li Mu's wiki role is not only "famous general," but a
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] returns to Li Mu as the next unresolved obstacle after [[HanFei|韩非]]'s death. The source says Qin's conquest tempo continues and that, among the remaining six-state problems, Zhao's Li Mu remains the serious military opponent to watch.
 
+[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] completes that obstacle branch. In 232 BCE, the source says Qin withdraws after meeting Li Mu on the Zhao front, reinforcing the host's claim that Qin is not simply invincible in every field encounter. In 229 BCE, Qin avoids letting Li Mu define the campaign by bribing [[GuoKai|郭开]] into accusing Li Mu and [[SimaShang|司马尚]] of rebellion, after which [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] replaces them with [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]]. Li Mu refuses the order and is killed or arrested, turning his final wiki role into the starkest case of Zhao discarding the commander Qin most feared.
+
 ## Connections
 - [[ZhaoState|赵国]], [[ZhaoDaoxiangwang|赵道襄王]], and [[ZhaoDan|赵丹 / 赵孝成王]] - state, 244 BCE appointing ruler, and earlier ruler in the frontier-removal branch.
 - [[LianPo|廉颇]] - predecessor figure whose removal sets up Zhao's need for a new usable commander.
@@ -34,3 +36,4 @@ The page is source-scoped. Li Mu's wiki role is not only "famous general," but a
 - [[WangJianQin|王翦]] - later Qin opponent previewed by the episode.
 - [[HuanYiQin|桓齮]], [[QinState|秦国]], and [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] - Qinji 112-2 anti-Qin field victory and title branch.
 - [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - closing pointer from Han Fei's death back to Zhao's remaining military resistance.
+- [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]], [[SimaShang|司马尚]], [[GuoKai|郭开]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], [[CounterintelligenceRumorWedge|反间流言楔入]], [[TreasonAccusationTrap|谋反指控陷阱]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - final Zhao-front command-removal branch.
