@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,8 @@ The rescue makes Xinlingjun the central Wei actor in breaking Qin's pressure on 
 
 The same source gives Xinlingjun's answer through ritual and continued patronage. When [[ZhaoDan|赵丹 / 赵孝成王]] wants to reward him with five cities and treat him as an honored guest, Xinlingjun refuses the status elevation, uses the east-stair action to avoid parity with the ruler, and lets the reward shrink toward a [[TangmuYi|汤沐邑]]. He then keeps practicing [[TalentAttractionThroughRespect|礼贤下士]] by seeking [[MaoGong|毛公]] among gamblers and [[XueGong|薛公]] among wine sellers, which extends his reputation but may put him into delicate comparison with [[Pingyuanjun|平原君]] inside Handan.
 
+[[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]] completes that previewed tension. Pingyuanjun privately mocks Xinlingjun for associating with low-status people, but Xinlingjun answers that he sought Mao Gong and Xue Gong because he had heard of their worth before arriving in Zhao. The episode treats this as a durable redefinition of "士": if moral worth, not inherited status or visible occupation, is decisive, then Xinlingjun's friendships are proof of judgment rather than a stain on rank.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -46,3 +48,4 @@ The same source gives Xinlingjun's answer through ritual and continued patronage
 - [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 rescue success and ethical cost.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Handan|邯郸]], [[ZhaoState|赵国]], and [[QinState|秦国]] - Zhouji 97 part 1 rescue aftermath and strategic significance.
 - [[FuChen|负臣]], [[TangmuYi|汤沐邑]], [[MaoGong|毛公]], [[XueGong|薛公]], [[PowerEtiquetteReading|权力礼仪细读]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 post-rescue status restraint and Zhao-side low-status worthy branch.
+- [[MoralizedShiIdentity|士的道德化身份]] - Zhouji 97 part 3 answer to Pingyuanjun's contempt for low-status friendships.
