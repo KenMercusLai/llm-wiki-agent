@@ -2,7 +2,7 @@
 title: "秦直道 / Qin Straight Road"
 type: entity
 tags: [qin, infrastructure, road-network, frontier, construction]
-sources: [zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
+sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-1-qinshihuang-xiujian-shishang-zuida-lanweilou-afanggong-lhqc6jw4jzoyrg7jzc2mbxdebj4]
 last_updated: 2026-08-22
 ---
 
@@ -16,12 +16,15 @@ In the Qinji 125-1 synthesis, Qin Straight Road is one piece of [[ImperialConstr
 
 [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] gives the road a succession-crisis use. After the forged order kills [[FuSu|扶苏]] and fails to make [[MengTian|蒙恬]] die, the convoy reaches Jiuyuan and then returns rapidly toward [[Xianyang|咸阳]] through Qin Straight Road, allowing [[LiSi|李斯]], [[ZhaoGao|赵高]], and [[QinErshi|胡亥]] to delay public mourning until the accession result is ready.
 
+[[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] preserves that timing function in the traditional branch while complicating the accession mechanism through [[ZhaoZhengShu|《赵正书》]]. The road still helps the convoy turn a hidden death into a controlled public announcement, but the new source asks whether the heir decision itself was already made before the return.
+
 ## Key Claims
 - The source dates the road order to Qin Shi Huang's thirty-fifth year, 212 BCE.
 - Meng Tian is named as the official in charge.
 - The road is presented as very long and difficult enough to remain incomplete for years.
 - It belongs beside late Qin palace and mausoleum work as a case of heavy construction mobilization.
 - Qinji 127-2 uses the road as the rapid return route that helps convert hidden death into controlled succession announcement.
+- Qinji 127-3 keeps the road as a return-route timing device while separating it from the unresolved question of forged versus deathbed accession.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], and [[MengTian|蒙恬]] - ruler, regime, and construction commander.
@@ -30,3 +33,4 @@ In the Qinji 125-1 synthesis, Qin Straight Road is one piece of [[ImperialConstr
 - [[ImperialConstructionOverload|帝国工程过载]] - labor and project-load frame.
 - [[AfangPalace|阿房宫]] and [[QinShiHuangMausoleum|秦始皇陵]] - parallel late Qin mega-projects.
 - [[ImperialDeathConcealment|秘不发丧式过渡控制]], [[ForgedEdictSuccessionCoup|伪诏继位政变]], [[FuSu|扶苏]], [[ZhaoGao|赵高]], and [[QinErshi|胡亥 / 秦二世]] - Qinji 127-2 return route after the hidden-death coup.
+- [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], and [[EmergencySuccessionLegitimation|临终就近立储]] - source conflict over whether the route followed a forged or deathbed-selected accession.

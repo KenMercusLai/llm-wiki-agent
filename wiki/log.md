@@ -9595,3 +9595,11 @@ Added source page for Qinji 127-2: Qin Shi Huang's hidden death on tour, Li Si's
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！
+
+Added source page for Qinji 127-3: the received hidden-death and forged-edict account of Hu Hai's accession set beside the alternate 《赵正书》 deathbed-consultation account, including Li Si's loyalty declaration, Feng Quji's contested presence, the nearby-heir argument for Hu Hai, Zhao Gao's reweighted role, Meng-family aftermath, and the unresolved contradiction between forged succession and emergency succession legitimation. Created Feng Quji and Emergency Succession Legitimation; updated overview, index, Zhao Zheng Shu, Qin Shi Huang, Qin State, Qin Er Shi, Zhao Gao, Li Si, Fusu, Meng Tian, Meng Yi (Qin), Shiji, Peking University, Qin Straight Road, Xianyang, Imperial Death Concealment, Forged Edict Succession Coup, Autocratic Succession, Succession Non-Designation Risk, Historical Detective Reasoning, and Textual Variant Political Stakes. Source-level contradiction flagged with Qinji 127-2; not resolved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "扶苏 / Fu Su"
 type: entity
 tags: [person, qin-dynasty, prince, remonstrance]
-sources: [zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]
+sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg, zizhi-tongjian-qinji-125-2-lishishang-qinshihuang-weihe-yao-fenshu-kengru-lulaivzp1xqs71nbaltr-ygpjihw]
 last_updated: 2026-08-22
 ---
 
@@ -14,11 +14,14 @@ The source's interest in Fusu is narrow but important. He appears as a remonstra
 
 [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg]] resumes Fusu at Shangjun after Qin Shi Huang's death on tour. [[ZhaoGao|赵高]], [[QinErshi|胡亥]], and [[LiSi|李斯]] forge an order that accuses Fusu of failing the frontier mission and resenting exclusion from the capital, then commands him and Meng Tian to die. Meng Tian advises verification before obeying, but Fusu treats a father's order as binding and kills himself, making his obedience the decisive opening for the [[ForgedEdictSuccessionCoup|伪诏继位政变]].
 
+[[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] keeps Fusu's northern distance central but changes what that distance means in the [[ZhaoZhengShu|《赵正书》]] branch. Instead of only being the target of a post-death forged order, Fusu becomes the absent alternative whose remoteness lets [[LiSi|李斯]] and [[FengQuji|冯去疾]] argue for installing nearby Hu Hai during Qin Shi Huang's final illness.
+
 ## Key Claims
 - Fusu's remonstrance frames the victims through scholarship and Confucius rather than through fangshi fraud alone.
 - His warning is about public stability: harsh punishment of scholars risks making the empire uneasy.
 - Qin Shi Huang's punishment of Fusu shows that even high-status correction becomes dangerous in the late Qin court.
 - Qinji 127-2 makes Fusu the displaced heir whose refusal to verify the forged order lets the coup remove its most important rival quickly.
+- Qinji 127-3 makes Fusu's distance from the deathbed a practical argument for [[EmergencySuccessionLegitimation|临终就近立储]], while still leaving his later killing as part of Hu Hai's destructive accession.
 
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]] - father and ruler whose decision Fusu challenges.
@@ -27,3 +30,4 @@ The source's interest in Fusu is narrow but important. He appears as a remonstra
 - [[MengTian|蒙恬]] and [[Shangjun|上郡]] - frontier assignment after Qin Shi Huang's anger.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] and [[DeathDefyingRemonstrance|赴死式直谏]] - adjacent remonstrance and correction-risk patterns.
 - [[zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg|Qinji 127-2]], [[ZhaoGao|赵高]], [[QinErshi|胡亥 / 秦二世]], [[LiSi|李斯]], [[ImperialDeathConcealment|秘不发丧式过渡控制]], and [[ForgedEdictSuccessionCoup|伪诏继位政变]] - false command, suicide, and succession displacement.
+- [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[FengQuji|冯去疾]], and [[EmergencySuccessionLegitimation|临终就近立储]] - alternate account where Fusu's distance supports a nearby-heir argument.

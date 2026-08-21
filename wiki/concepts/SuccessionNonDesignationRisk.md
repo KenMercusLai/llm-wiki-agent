@@ -2,8 +2,8 @@
 title: "Succession Non-Designation Risk / 未定继承人风险"
 type: concept
 tags: [governance, succession, monarchy, family-business, warring-states]
-sources: [zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-qinji-109-1-lishishang-zui-zhuming-de-huangdi-bei-lv-le-liawtywj4c9n0zpii-rxl7cguzyy, zizhi-tongjian-zhouji-59-yichao-junwang-yichaochen-ljq-qkueix0rnzfekzuadicce1bh, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+last_updated: 2026-08-22
 ---
 
 # Succession Non-Designation Risk / 未定继承人风险
@@ -24,6 +24,8 @@ This concept bridges ancient and modern cases. It sits inside [[AutocraticSucces
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] adds the transition cost after the substitute heir has been installed. The episode says the court also contains a younger son and an older half-brother, so the "no heir" problem has shifted into a legitimacy and control problem: [[LiYuanWarringStates|李源 / 李元]] eliminates [[Chunshenjun|黄歇 / 春申君]] and his household before [[ChuYouwang|楚幽王]] can rule under Li-family dominance.
 
+[[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] adds a deathbed travel variant. If [[QinShiHuang|秦始皇]] has not already made a legible succession settlement before his final illness, distance itself becomes part of the non-designation risk: [[FuSu|扶苏]] is far away, [[QinErshi|胡亥 / 秦二世]] is nearby, and [[LiSi|李斯]] with [[FengQuji|冯去疾]] can argue that waiting for a broader decision may cause disorder. The source keeps this as the [[ZhaoZhengShu|《赵正书》]] account, not a settled resolution of the forged-edict tradition.
+
 ## Key Claims
 - Not naming a successor can preserve the incumbent's power in the short term while exporting conflict to the next transition.
 - A plausible alternative claimant is enough to turn silence into factional competition.
@@ -34,6 +36,7 @@ This concept bridges ancient and modern cases. It sits inside [[AutocraticSucces
 - A sonless royal death can create the same enforcement problem even when the candidate eventually chosen is known by lineage.
 - Delay after a ruler remains childless can create room for insiders to fabricate or manipulate a successor rather than wait for a legitimate adoption or branch succession.
 - Installing a contested or secret-backed heir can leave the transition vulnerable to preemptive murder and factional control.
+- Dying away from the capital can turn non-designation into a proximity problem: the nearest plausible heir may become the emergency solution.
 
 ## Connections
 - [[WeiWuhou|魏武侯]], [[LiangHuiWang|魏罃 / 梁惠王]], and [[GongzhongHuan|公中缓]] - source case.
@@ -42,6 +45,7 @@ This concept bridges ancient and modern cases. It sits inside [[AutocraticSucces
 - [[QinWuwang|秦武王]], [[QinZhaoxiangwang|秦昭襄王]], and [[WeiRan|魏冉]] - Zhouji 59 sonless death, brother struggle, and enforced accession.
 - [[MiWan|楚考烈王]], [[Chunshenjun|黄歇 / 春申君]], [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], and [[PregnancySuccessionSubstitution|孕身继承替换]] - Qinji 109-1 childless-ruler variant.
 - [[ChuYouwang|楚幽王]], [[ZhuYingWarringStates|朱英]], and [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw|Qinji 109-2]] - post-installation murder and Li-family control after Mi Wan's death.
+- [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[QinShiHuang|秦始皇]], [[QinErshi|胡亥 / 秦二世]], [[FuSu|扶苏]], and [[EmergencySuccessionLegitimation|临终就近立储]] - deathbed travel variant where distance makes the nearby heir politically attractive.
 - [[WeiState|魏国]] and [[WarringStatesPeriod|战国时期]] - political setting.
 - [[AutocraticSuccession]] - broader ruler-centered succession frame.
 - [[FounderSuccession]] and [[FamilyBusinessSuccessionOpacity]] - modern organizational analogues named by the episode's interpretation.

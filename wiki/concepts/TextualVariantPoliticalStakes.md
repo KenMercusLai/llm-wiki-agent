@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-114-1-jintian-liaoliao-yingzheng-dou-you-naxie-canren-shouduan-lmqky6g3qi9nklpdnye4lk5rrbz6, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-22
 ---
 
@@ -34,6 +34,8 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca]] adds a geography-changing variant through 北河/河北. The host treats [[ZizhiTongjian|《资治通鉴》]]'s "河北" as a likely copying or transmission error for [[Shiji|《史记》]]'s "北河." The political stake is practical: "河北" can make the passage sound like relocating people out of the North River and Yuzhong area, while "北河" supports the opposite reading, a state-directed movement of thirty thousand households toward the northern frontier.
 
+[[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw]] adds a narrative-level variant around [[QinErshi|胡亥 / 秦二世]]'s accession. The received [[Shiji|《史记》]]-style tradition makes [[ZhaoGao|赵高]], [[LiSi|李斯]], and Hu Hai exploit a concealed death through forged commands, while [[ZhaoZhengShu|《赵正书》]] makes [[QinShiHuang|秦始皇]], Li Si, and [[FengQuji|冯去疾]] discuss the succession before death and choose nearby Hu Hai. The political stake is large: the same accession can read as a criminalized [[ForgedEdictSuccessionCoup|伪诏继位政变]] or as [[EmergencySuccessionLegitimation|临终就近立储]], even though Hu Hai's later rule remains destructive in both frames.
+
 ## Key Claims
 - Source variants can alter who appears harmed, angry, guilty, or legitimate.
 - A chronicle's wording can carry later political pressure even when it is narrating ancient events.
@@ -50,6 +52,7 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - Genealogical variants can change whether a succession story reads as court fact, hostile scandal, literary pattern, or later reconstruction.
 - Omen wording can change whether a transmitted sign reads as contemporaneous protest, later anti-regime memory, or a source-shaped narrative bridge to collapse.
 - A one-character geographic variant can reverse policy direction, changing a migration notice from removal-from-frontier into settlement-toward-frontier.
+- A full narrative variant can change whether succession is interpreted as forgery, emergency consultation, or unresolved source conflict.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[Shiji|《史记》]], and [[SimaGuang|司马光]] - source, variant, and compiler frame.
@@ -65,3 +68,4 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[MiWan|楚考烈王]], [[ChangpingJun|昌平君]], [[PregnancySuccessionSubstitution|孕身继承替换]], and [[PreQinSurnameClanIdentity|先秦姓氏身份]] - childless-versus-multiple-sons genealogy variant.
 - [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]], [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[HistoricalDetectiveReasoning]] - omen-sequence selection and "始皇" wording caution.
 - [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca|Qinji 126 part 2]], [[OmenCountermeasureMobility|游徙避命]], and [[QinFrontierBufferManagement|秦国后方边患管理]] - 北河/河北 variant and migration-direction consequence.
+- [[zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw|Qinji 127-3]], [[ZhaoZhengShu|《赵正书》]], [[QinErshi|胡亥 / 秦二世]], [[FengQuji|冯去疾]], [[ForgedEdictSuccessionCoup|伪诏继位政变]], and [[EmergencySuccessionLegitimation|临终就近立储]] - accession narrative conflict and its political reading.

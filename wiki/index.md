@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》127-3｜海外回归一批竹简 揭开胡亥立帝之谜！](sources/zizhi-tongjian-qinji-127-3-haiwai-huigui-yipi-zhujian-jiekai-huhai-lidi-zhi-mi-lja0pankcx4ugtylbxxqkwuavdnw.md) — 芮淇讲透资治通鉴 episode comparing the received forged-edict account of Hu Hai's accession with 《赵正书》's alternate deathbed-consultation version, adding Feng Quji and emergency nearby-heir legitimation.
 - [《资治通鉴·秦纪》127-2｜李斯为啥不帮英明的扶苏](sources/zizhi-tongjian-qinji-127-2-lisi-weisha-bu-bang-yingming-de-fusu-lq-vny5duwwzfubpeijr21oazxbg.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's hidden death, Zhao Gao's persuasion of Hu Hai and Li Si, forged edicts against Fusu and Meng Tian, Fusu's suicide, Meng Tian's imprisonment, and Hu Hai's accession.
 - [Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?](sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640.md) — All-In interview with Mark Cuban on AI bubble concentration in private capital and data-center finance, early AI IPOs, employee collars, enterprise AI implementation difficulty, Lovable, OpenEvidence, world models, politics, Texas, and sports streaming valuations.
 - [《资治通鉴·秦纪》126｜秦始皇死因之谜（2）](sources/zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-2-ln15p5qb7lc20goni1ibcpmn3wca.md) — 芮淇讲透资治通鉴 episode on "祖龙死," "游徙吉," Qin Shi Huang's final tour as omen-countermeasure mobility, the thirty-thousand-household northern relocation, 《赵正书》, and the 北河/河北 textual issue.
@@ -1200,6 +1201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [冯去疾 / Feng Quji](entities/FengQuji.md) — Qin minister named by the 《赵正书》 variant in Qinji 127-3 as part of the deathbed argument for choosing nearby Hu Hai.
 - [赵高 / Zhao Gao](entities/ZhaoGao.md) — Qin court insider in Qinji 127-2 who uses death secrecy, credential control, and Li Si's status anxiety to engineer Hu Hai's forged succession.
 - [蒙毅 / Meng Yi (Qin)](entities/MengYiQin.md) — Qin official and Meng Tian's brother whose absence and prior death sentence against Zhao Gao shape the Qinji 127-2 succession crisis.
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
@@ -7655,6 +7657,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emergency Succession Legitimation / 临终就近立储](concepts/EmergencySuccessionLegitimation.md) — Qinji 127-3 mechanism where a dying ruler away from the capital and senior ministers treat a nearby heir as the least destabilizing option.
 - [Forged Edict Succession Coup / 伪诏继位政变](concepts/ForgedEdictSuccessionCoup.md) — Qinji 127-2 mechanism where control of imperial letters, seals, and death information lets insiders name Hu Hai heir and issue fatal orders against Fusu and Meng Tian.
 - [Imperial Death Concealment / 秘不发丧式过渡控制](concepts/ImperialDeathConcealment.md) — Qinji 127-2 pattern where the emperor's death on tour is hidden through continued routine until succession can be controlled at Xianyang.
 - [Omen Countermeasure Mobility / 游徙避命](concepts/OmenCountermeasureMobility.md) — Qinji 126 part 2 pattern where a death omen and divination turn movement, migration, and the final tour into fate-avoidance responses.
