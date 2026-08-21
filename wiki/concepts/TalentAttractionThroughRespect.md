@@ -2,7 +2,7 @@
 title: "Talent Attraction Through Respect / 礼贤下士式人才吸附"
 type: concept
 tags: [statecraft, talent, legitimacy, pre-qin-history]
-sources: [zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-52-chenzhuang-panqin-duanqi-wan-chifan-fangxia-wan-ma-niang-ls13ixmbhflepjgpelxgu6idjqa2, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The concept differs from simple recruitment. The source's point is that public r
 
 [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] extends Xinlingjun's version after he settles in Zhao. This time the low-status worthies are [[MaoGong|毛公]], who appears among gamblers, and [[XueGong|薛公]], who sells wine slurry. Xinlingjun's respect signal is no longer a carriage ceremony in Daliang but a willingness to walk into socially improper spaces, making the mechanism more visibly disruptive to aristocratic etiquette.
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] adds the payoff of that disruptive respect. Because Xinlingjun had treated [[MaoGong|毛公]] and [[XueGong|薛公]] as real worthies rather than decorative guests, they can shame him into leaving [[ZhaoState|赵国]] and returning to endangered [[WeiState|魏国]]. The mechanism now includes correction: respect attracts people who can tell a patron what he does not want to hear and be believed.
+
 ## Key Claims
 - Respect can be a state-building signal when talent is mobile.
 - A ruler's humility toward scholars can convert personal reputation into institutional attractiveness.
@@ -39,6 +41,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - Zhouji 72 adds that talent respect fails when the conquering state treats refusal as an offense punishable through third parties.
 - Zhouji 96 part 5 adds that respect can require status-risking performance: gifts are not enough when the worthy person is refusing ordinary patronage.
 - Zhouji 97 part 2 adds that respect may require entering the worthy person's own low-status world, not merely bringing that person into the patron's hall.
+- Qinji 103-1 adds that respect can create trusted correction: the attracted worthy can preserve the patron's reputation by rebuking him back toward state duty.
 
 ## Connections
 - [[WeiWenhou|魏文侯]], [[ZiXia|子夏]], [[TianZifang|田子方]], and [[DuanGanmu|段干木]] - source examples.
@@ -52,3 +55,4 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[WangZhu|王蠋]], [[LoyaltyCollateralDilemma|忠义牵连困境]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 72 respect-to-coercion boundary after conquest.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 low-status worthy and public humility branch.
 - [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], and [[PowerEtiquetteReading|权力礼仪细读]] - Zhouji 97 part 2 pedestrian visits and aristocratic-status discomfort.
+- [[WeiAnxiWang|魏安釐王]], [[MengAo|蒙敖]], [[HezongAlliance|合纵]], and [[WarringStatesRetainerPatronage|战国养士]] - Qinji 103-1 counsel-to-command payoff after Xinlingjun's low-status recruitment in Zhao.

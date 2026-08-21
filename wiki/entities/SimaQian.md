@@ -2,7 +2,7 @@
 title: "司马迁 / Sima Qian"
 type: entity
 tags: [historian, chinese-history, writing]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
 last_updated: 2026-08-21
 ---
 
@@ -32,6 +32,8 @@ The most important source claim is historiographical. QinZong notes that Sima Qi
 
 The same source also uses Sima Qian as travel-memory witness. It says he visited the old [[Daliang|大梁]] region and asked locals about Yi Gate, which lets the episode connect [[HouYing|侯嬴]]'s gatekeeping role to place memory. At the same time, the host checks Sima Qian's praise against the chronicle by treating the claim that Wei avoided attacks for more than ten years because of Xinlingjun as likely exaggerated.
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] continues the title-level question of why Sima Qian valued [[Xinlingjun|信陵君]]. The transcript excerpt mainly grounds that question through later events: [[MaoGong|毛公]] and [[XueGong|薛公]] bring Xinlingjun back to Wei, his reputation mobilizes a five-state victory, and the [[GuanchengWarringStates|管城]] episode forces him into self-condemnation as a 小人. The page therefore keeps the Sima Qian connection as a favorable-biography frame rather than treating this excerpt as a direct new Sima Qian argument.
+
 ## Connections
 - [[HongmenYan|《鸿门宴》]] - narrative scene discussed in the episode.
 - [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanZeng|范增]], and [[FanKuai|樊哙]] - figures in the source reading.
@@ -45,3 +47,4 @@ The same source also uses Sima Qian as travel-memory witness. It says he visited
 - [[HistoricalDreamForeshadowing|梦兆叙事伏笔]], [[Pingyuanjun|平原君]], [[Shangdang|上党]], and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 Zhao-line dream structure and responsibility judgment.
 - [[LiTan|李谈 / 李同]], [[Shiji|《史记》]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 96 part 4 name-avoidance variant branch.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[Daliang|大梁]], [[WarringStatesFourLords|战国四公子]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 favorable Wei Gongzi biography and place-memory branch.
+- [[MaoGong|毛公]], [[XueGong|薛公]], [[MengAo|蒙敖]], [[GuanchengWarringStates|管城]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 continuation of the Xinlingjun evaluation frame.

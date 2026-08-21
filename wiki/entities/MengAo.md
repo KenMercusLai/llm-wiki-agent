@@ -2,7 +2,7 @@
 title: "蒙敖 / Meng Ao"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
+sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The source uses him less as a full biography than as a source-critical hinge. Un
 
 [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] adds the next campaign notice. In [[QinZhuangxiangwang|秦庄襄王]]'s second year, Meng Ao attacks [[ZhaoState|赵国]] and takes thirty-seven cities, with Yuci and Langmeng named in the source. The episode uses the notice mainly as annalistic context after the Lu-destruction explanation and before the [[LushiChunqiu|《吕氏春秋》]] compilation note.
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] adds Meng Ao's next pressure point against [[WeiState|魏国]]. He takes Gaodu and Ji city, pushing [[WeiAnxiWang|魏安釐王]] to recall [[Xinlingjun|信陵君]] from [[ZhaoState|赵国]]. The episode then makes Meng Ao the Qin commander defeated by Xinlingjun's five-state coalition south of the Yellow River.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - ruler and state he serves in the source.
 - [[QiMinWang|齐湣王]] and [[QiState|齐国]] - target ruler and target state.
@@ -23,3 +25,4 @@ The source uses him less as a full biography than as a source-critical hinge. Un
 - [[QinEastwardPressure|秦国东进压力]] - broader Qin expansion frame.
 - [[QinZhuangxiangwang|秦庄襄王]], [[HanState|韩国]], [[SanchuanWarringStates|三川]], and [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]] - later Chenggao and Sanchuan commandery branch.
 - [[ZhaoState|赵国]], [[LushiChunqiu|《吕氏春秋》]], and [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r|Qinji 102-2]] - Qin Zhuangxiang Wang second-year Zhao campaign notice.
+- [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[HezongAlliance|合纵]], and [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck|Qinji 103-1]] - Wei campaign, recall crisis, and five-state defeat.

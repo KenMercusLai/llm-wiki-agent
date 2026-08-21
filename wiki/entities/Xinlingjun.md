@@ -2,7 +2,7 @@
 title: "信陵君 / Lord Xinling"
 type: entity
 tags: [person, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f, zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -38,6 +38,10 @@ The same source gives Xinlingjun's answer through ritual and continued patronage
 
 [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] mentions Xinlingjun as the strategic resource [[WeiAnxiWang|魏安釐王]] fails to use consistently. The episode does not add a new action by Xinlingjun; it sharpens the ruler-brother contrast already built in the Handan rescue arc, where Wei's survival options depend on the very man the king fears and mistrusts.
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] shows the emergency repair of that relationship. After [[MengAo|蒙敖]] attacks [[WeiState|魏国]] and threatens the capital field around [[Daliang|大梁]], [[MaoGong|毛公]] and [[XueGong|薛公]] persuade Xinlingjun that his reputation among the lords depends on Wei's survival. He returns, becomes supreme commander, calls in a five-state coalition, and defeats Meng Ao south of the Yellow River.
+
+The same source complicates the new victory through [[GuanchengWarringStates|管城]]. Xinlingjun's attempt to take the Qin-held city creates a collision with [[SuGao|苏高]] and [[AnlingJun|安陵君]], and Su Gao's suicide leads Xinlingjun to call himself a "小人." The wiki keeps this as a further development of Xinlingjun's moral difficulty: his command can save states and organize resistance, but the same effective urgency can coerce duty-bound people into death.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -52,3 +56,4 @@ The same source gives Xinlingjun's answer through ritual and continued patronage
 - [[FuChen|负臣]], [[TangmuYi|汤沐邑]], [[MaoGong|毛公]], [[XueGong|薛公]], [[PowerEtiquetteReading|权力礼仪细读]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 97 part 2 post-rescue status restraint and Zhao-side low-status worthy branch.
 - [[MoralizedShiIdentity|士的道德化身份]] - Zhouji 97 part 3 answer to Pingyuanjun's contempt for low-status friendships.
 - [[WeiAnxiWang|魏安釐王]], [[WeiState|魏国]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Qinji 101-2 missed strategic-use frame.
+- [[MengAo|蒙敖]], [[GuanchengWarringStates|管城]], [[SuGao|苏高]], [[AnlingJun|安陵君]], [[HuSanxing|胡三省]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 recall, five-state victory, and Guancheng ethical conflict.

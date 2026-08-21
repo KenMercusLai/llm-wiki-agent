@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？](sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck.md) — 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, a five-state defeat of Meng Ao, and the Guancheng conflict among Su Gao, Anling Jun, and Xinlingjun.
 - [《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜](sources/zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r.md) — 芮淇讲透资治通鉴 episode explaining Lu's historical-record authority, late survival through great-power distraction, Qi's non-intervention under Hou Sheng, Chu's destruction of Lu, and Chunshenjun's Jiangdong fief move.
 - [《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？](sources/zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod.md) — 芮淇讲透资治通鉴 episode on Lu Buwei's Qin chancellorship, source-scoped Jiang Taigong lineage claim, Jiang Taigong's late recognition by Zhou Wenwang, Qin's destruction of Eastern Zhou, Sanchuan commandery creation, and Lu's final collapse under Chu.
 - [《资治通鉴·秦纪》101-2｜如何看待性本善与性本恶？](sources/zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt.md) — 芮淇讲透资治通鉴 episode on Mencius's 性善论, Xunzi's 性恶论, human-nature plasticity, disaster as civilization retreat, Wei Anxi Wang's fear-driven strategy failure, and Lu Zhonglian's Li Bai reception.
@@ -1145,6 +1146,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [苏高 / Su Gao](entities/SuGao.md) — Anling subordinate whose refusal to attack Guancheng, defended by his son, creates the episode's father-son and ruler-subject duty conflict.
+- [安陵君 / Lord Anling](entities/AnlingJun.md) — Wei local lord who refuses Xinlingjun's demand to bind and surrender Su Gao during the Guancheng crisis.
+- [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
+- [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
+- [荥阳 / Yingyang (Warring States)](entities/YingyangWarringStates.md) — Qin-held Sanchuan point near Xingze in the Guancheng/Daliang pressure map.
+- [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose Guancheng annotation criticizes Su Gao, Anling Jun, and Xinlingjun from a state-responsibility angle.
 - [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
 - [周文王 / King Wen of Zhou](entities/ZhouWenwang.md) — Zhou ruler who recognizes Jiang Taigong, links the episode to Zhouyi systematization, and grounds the late-blooming talent branch.
@@ -7444,6 +7451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.
 - [Small-State Survival by Great-Power Distraction / 小国因大国无暇而存续](concepts/SmallStateSurvivalByDistraction.md) — Pattern where a weak state's continued existence depends on larger powers being too busy, weak, distant, or compromised to absorb it.
 - [Late-Blooming Talent / 大器晚成式人才显现](concepts/LateBloomingTalent.md) — Life-course pattern where long-hidden preparation becomes consequential only when timing, recognition, and political stage align.

@@ -2,7 +2,7 @@
 title: "大梁 / Daliang"
 type: entity
 tags: [city, pre-qin, wei-state, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
+sources: [zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The page is source-scoped. Daliang matters here because it makes [[EncirclingWei
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] adds a city-social scene inside Daliang. [[HouYing|侯嬴]] is introduced as a poor elderly keeper of Yi Gate, whose approximate location the episode places near today's Kaifeng Iron Pagoda area. Xinlingjun's carriage then moves from the gate to the market, where Hou Ying deliberately delays with the butcher [[ZhuHai|朱亥]], making Daliang the public stage for [[PublicHumilityReputationTest|Xinlingjun's humility test]].
 
+[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] returns Daliang to the threat map after [[Xinlingjun|信陵君]] defeats [[MengAo|蒙敖]]. The episode says Qin-held [[Xingze|荥泽]] and nearby [[YingyangWarringStates|荥阳]] make the capital vulnerable to water-control pressure, so taking [[GuanchengWarringStates|管城]] is not optional symbolism but part of reducing the capital's exposure.
+
 ## Connections
 - [[WeiState|魏国]] - state whose vital place is threatened in the source.
 - [[SunBin|孙膑]], [[TianJi|田忌]], and [[QiState|齐国]] - planners and attacker.
@@ -34,3 +36,4 @@ The page is source-scoped. Daliang matters here because it makes [[EncirclingWei
 - [[WeiAnxiWang|魏安釐王]], [[WeiRan|魏冉]], and [[QinEastwardPressure|秦国东进压力]] - Zhouji 82 geographic clarification around Wei's capital region during Qin attacks.
 - [[FanJu|范雎]], [[XuJia|须贾]], [[WeiQiWarringStates|魏齐]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] - Zhouji 90 threat object in the revenge demand.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[ConfucianLowOfficeReclusion|儒家低职隐居]] - Zhouji 96 part 5 gate, market, and public patronage scene.
+- [[GuanchengWarringStates|管城]], [[Xingze|荥泽]], [[YingyangWarringStates|荥阳]], [[MengAo|蒙敖]], and [[StateSurvivalKinshipDutyConflict|国存亡与父子君臣义冲突]] - Qinji 103-1 water-control threat and follow-on command dilemma.
