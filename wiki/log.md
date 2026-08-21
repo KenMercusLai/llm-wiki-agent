@@ -9187,3 +9187,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back
+
+Added source page for the All-In interview with Spencer Pratt on his Los Angeles mayoral campaign after losing his home in the Pacific Palisades fire. Created Spencer Pratt, Nithya Raman, Los Angeles Department of Water and Power, Los Angeles Fire Department, FireAid, Los Angeles Unified School District, Los Angeles Metro, Peter Chernin, Emergency Warning Infrastructure, Mandatory Treatment Homelessness Policy, Municipal Nonprofit Accountability, Public-Safety-First Urban Governance, Municipal Transparency Dashboard, and Permit Automation For Zoned Projects. Updated overview, index, All-In, Los Angeles, Pacific Palisades, Karen Bass, Rick Caruso, California Post-Fire Rebuilding Delay, Disaster Response State Capacity, Permitting Delay Cost, and SRO Loss And Homelessness. No direct contradiction found; Pratt's homelessness frame is recorded as a tension with the housing-supply-focused SRO loss concept, and claims about reservoirs, reports, nonprofit misuse, polling, investigations, and political motives are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back](sources/all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810.md) — All-In interview with Spencer Pratt on his Los Angeles mayoral campaign after the Pacific Palisades fire, covering emergency warnings, homelessness treatment, nonprofit audits, public safety, school spending, transit, permitting, and independent production.
 - [《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍](sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh.md) — 芮淇讲透资治通鉴 episode on Qin's famine-year attack on Han, Li Mu's rise after Lian Po, and Li Mu's frontier strategy of defensive patience, bait, and encirclement against Xiongnu cavalry.
 - [《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了](sources/zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6.md) — 芮淇讲透资治通鉴 episode on Han's Zhengguo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural capacity, Qin pressure on Wei, Zhao opportunism, and Lian Po's removal, slandered non-return, and death abroad.
 - [《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色](sources/zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's slander-driven removal, final withdrawal, Liu Bang's youthful admiration and Zhang Er connection, and Qin's transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei.
@@ -1149,6 +1150,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Spencer Pratt](entities/SpencerPratt.md) — Los Angeles mayoral candidate in the All-In source who turns personal loss in the Pacific Palisades fire into a platform around safety, treatment, audits, dashboards, and permitting.
+- [Nithya Raman](entities/NithyaRaman.md) — Los Angeles political figure Pratt names as a mayoral-race actor linked in his account to DSA politics and opposition-splitting concerns.
+- [Los Angeles Department of Water and Power](entities/LosAngelesDepartmentOfWaterAndPower.md) — Utility named in Pratt's source-scoped fire-accountability claims about water readiness and post-fire legal action.
+- [Los Angeles Fire Department](entities/LosAngelesFireDepartment.md) — Emergency-response agency in Pratt's claims about fire assets, warnings, whistleblowers, and Palisades response.
+- [FireAid](entities/FireAid.md) — Fire-aid fundraising example Pratt uses to argue for traceable emergency donations and nonprofit accountability.
+- [Los Angeles Unified School District](entities/LosAngelesUnifiedSchoolDistrict.md) — School system used in Pratt's spending-transparency critique around outcomes, parent fundraising, and public dashboards.
+- [Los Angeles Metro](entities/LosAngelesMetro.md) — Transit agency used in Pratt's argument that safety and fare enforcement must precede ridership and expansion ambitions.
+- [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general introduced here as Li Mu's future opponent in the Qin-Zhao final phase.
@@ -7463,6 +7472,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Emergency Warning Infrastructure](concepts/EmergencyWarningInfrastructure.md) — Sirens, alerts, dispatch, water readiness, fire assets, and resident communication layer Pratt says failed during the Palisades fire.
+- [Mandatory Treatment Homelessness Policy](concepts/MandatoryTreatmentHomelessnessPolicy.md) — Pratt's homelessness frame that emphasizes drugs, treatment compulsion, separated facilities, and public-order enforcement.
+- [Municipal Nonprofit Accountability](concepts/MunicipalNonprofitAccountability.md) — Demand that public money, emergency donations, and nonprofit contracts be auditable from funding source to recipient outcome.
+- [Public-Safety-First Urban Governance](concepts/PublicSafetyFirstUrbanGovernance.md) — Pratt's claim that streets, transit, families, business, rebuilding, and production require visible enforcement and order first.
+- [Municipal Transparency Dashboard](concepts/MunicipalTransparencyDashboard.md) — Proposal to make city, school, contractor, and nonprofit spending legible through public dashboards paired with audits.
+- [Permit Automation For Zoned Projects](concepts/PermitAutomationForZonedProjects.md) — Proposal to use AI or automatic approval when projects already satisfy zoning criteria, reducing avoidable permitting delay.
 - [Frontier Defensive Patience / 边境防御耐心](concepts/FrontierDefensivePatience.md) — Li Mu's pattern of refusing repeated raids, preserving frontier capacity, and waiting to turn enemy overconfidence into decisive battle.
 - [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact while agrarian defenders must protect fixed people, herds, and stores.
 - [Warring States Northern Great Walls / 战国北境长城](concepts/WarringStatesNorthernGreatWalls.md) — Qin, Zhao, and Yan northern defensive wall frame linked to mobile frontier raiding and later Qin Shi Huang wall integration.
