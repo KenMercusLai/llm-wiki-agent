@@ -2,7 +2,7 @@
 title: "芈完 / 楚考烈王 / Mi Wan"
 type: entity
 tags: [person, crown-prince, ruler, chu-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
+sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]
 last_updated: 2026-08-21
 ---
 
@@ -26,6 +26,8 @@ Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based p
 
 [[zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe]] adds a quieter governance branch under Mi Wan's reign. [[Chunshenjun|黄歇 / 春申君]] appoints [[Xunzi|荀子]] as [[LanlingWarringStates|兰陵 / Lanling]] magistrate after Chu takes former [[LuState|鲁国]] territory, showing the regime trying to govern a culturally weighty new zone through scholar-administration rather than only coalition warfare.
 
+[[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] dates Xunzi's return to Lanling to Mi Wan's twelfth year, 251 BCE. The source also records the darker endpoint under his reign: in 238 BCE Chu turmoil leads to Chunshenjun's death, after which Xunzi can no longer remain Lanling magistrate. Mi Wan's page therefore gains both the high point of scholar-administration and the political violence that ends it.
+
 ## Connections
 - [[MiHeng|楚顷襄王]] - father and current Chu king whose illness creates the succession emergency.
 - [[Chunshenjun|黄歇 / 春申君]] - attendant and strategist who protects his return path.
@@ -38,3 +40,4 @@ Mao Sui breaks that hesitation by using [[DignityBasedPersuasion|dignity-based p
 - [[CoalitionTransitDependency|联盟救援借道依赖]] and [[WeiState|魏国]] - route problem after Chu agrees to rescue Zhao.
 - [[ZhouNanwang|周赧王]], [[ZhouRoyalHouse|周王室]], [[NominalAuthorityMobilizationTrap|虚名权威动员陷阱]], and [[ZhaitaiGaozhu|债台高筑]] - Zhouji 98 failed Son-of-Heaven coalition effort.
 - [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], [[LuState|鲁国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 Lanling appointment under Chunshenjun's Chu administration.
+- [[ChuState|楚国]] and [[ConfucianIdealGovernance|儒家理想治理]] - Qinji 99 part 4 Xunzi's final Lanling tenure and Chunshenjun's death.

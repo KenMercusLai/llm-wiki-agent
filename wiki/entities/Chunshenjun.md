@@ -2,7 +2,7 @@
 title: "春申君 / 黄歇 / Lord Chunshen"
 type: entity
 tags: [person, chu-state, diplomat, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
+sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-1-ljshdryvf9qgabtn-siontthzsok, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-85-xuantaihou-weihe-sitong-30-nian-hou-ansha-le-laoqingren-lg7zy6vqtdjcufou4-mox5qkg2ct5, zizhi-tongjian-zhouji-84-fangzhi-qinguo-miechu-jing-yong-zhe-zhao-llgh12eistejijsl6yildzkixocm, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]
 last_updated: 2026-08-21
 ---
 
@@ -36,6 +36,8 @@ After [[MiWan|芈完 / 楚考烈王]] succeeds, the episode makes Huang Xie's re
 
 The same source also gives the limit of Chunshenjun's judgment environment. Xunzi governs successfully, but a retainer's warning that Xunzi controls a border county near [[QiState|齐国]] and has long Qi ties makes Chunshenjun dismiss him. The episode therefore adds a vulnerability beside Chunshenjun's diplomatic skill: he can use talent well and still be moved by suspicion inside his retainer circle.
 
+[[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] adds Chunshenjun's attempt to correct that mistake. He regrets dismissing [[Xunzi|荀子]], receives Xunzi's writings through an envoy, and then personally goes to [[Handan|邯郸]] to urge him back after [[Pingyuanjun|平原君]] dies. The source presents the 251 BCE return to [[LanlingWarringStates|兰陵 / Lanling]] as Chunshenjun recognizing that Xunzi's governing technique should not be wasted. It also records the endpoint: Chunshenjun is killed in 238 BCE during Chu turmoil, after which Xunzi can no longer remain Lanling magistrate.
+
 ## Connections
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
@@ -50,3 +52,4 @@ The same source also gives the limit of Chunshenjun's judgment environment. Xunz
 - [[MiWan|楚考烈王]], [[Pingyuanjun|平原君]], and [[MaoSui|毛遂]] - Zhouji 96 part 2 absent-but-relevant intermediary around the Chu rescue mission.
 - [[ZhouNanwang|周赧王]], [[ZhouRoyalHouse|周王室]], [[HezongAlliance|合纵]], [[NominalAuthorityMobilizationTrap|虚名权威动员陷阱]], and [[ZhaitaiGaozhu|债台高筑]] - Zhouji 98 Son-of-Heaven coalition proposal and failure.
 - [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], [[LuState|鲁国]], [[QiState|齐国]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 scholar appointment, cultural pacification, and slander-driven dismissal.
+- [[Pingyuanjun|平原君]], [[Handan|邯郸]], and [[ConfucianIdealGovernance|儒家理想治理]] - Qinji 99 part 4 regret, personal re-invitation, and Xunzi's final Lanling tenure.

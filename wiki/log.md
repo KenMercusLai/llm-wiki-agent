@@ -9095,3 +9095,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？
+
+Added source page for the fourth Qinji 99 installment: Xunzi's standards for generals, army signal discipline, renyi rules of engagement, the host's Clausewitz-backed critique of bloodless-war idealism, Chen Ao's question about renyi and warfare, Xunzi's 251 BCE return to Lanling, Lu's nominal collapse under Chu occupation, and Qin Zhaoxiang Wang's 251 BCE death as the next-series hook. Created Carl von Clausewitz and Confucian Military Idealism Limits; updated Xunzi, Lanling, Chunshenjun, Lu State, Zhou Royal House, Western Zhou Polity, Qin Zhaoxiang Wang, Qin State, Chu State, Yan State, Mi Wan, Xunzian Military Legitimacy, Xunzian Command Restraint, Confucian Ideal Governance, Warring States Military Transformation, Warring States War Brutalization, Mencian Idealism Limits, People-Based Political Security, Occupation Pacification Strategy, and Wangdao versus Badao. No direct contradiction found; the Clausewitz comparison and Xunzi's Lanling chronology are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

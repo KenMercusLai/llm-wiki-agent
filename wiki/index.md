@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》99-4｜谁是孔子后最伟大的思想家？](sources/zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd.md) — 芮淇讲透资治通鉴 episode completing Xunzi's military discussion through command discipline, renyi-war rules, a Clausewitz-backed critique of bloodless-war idealism, Xunzi's return to Lanling, Lu's collapse, and Qin Zhaoxiang Wang's death hook.
 - [《资治通鉴·秦纪》99-3｜荀子兵法里藏着人性的秘密](sources/zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43.md) — 芮淇讲透资治通鉴 episode developing the Xunzi-Linwu Jun military debate before Zhao Xiaocheng Wang, contrasting tactical deception and incentive armies with renyi-based cohesion, and closing with Xunzi's five weights and three command refusals.
 - [Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420.md) — All-In episode on Anthropic's coding-led enterprise run, OpenAI's consumer-versus-enterprise fork, AI moats and valuation risk, private-equity AI deployment, Meta/YouTube youth-safety lawsuits, age verification, and PCAST's science-policy remit.
 - [Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like](sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165.md) — All-In interview with Bryan Johnson on 5-MeO-DMT, psychedelic longevity claims, default-mode-network reset, neuroplasticity, measurement limits, identity disruption risk, and frontier longevity therapies.
@@ -1138,6 +1139,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carl von Clausewitz / 克劳塞维茨](entities/CarlVonClausewitz.md) — Military theorist used in Qinji 99-4 as a realist foil for Confucian righteous-war idealism.
 - [Bryan Johnson](entities/BryanJohnson.md) — Founder and longevity self-experimenter whose All-In interview links 5-MeO-DMT, measured psychedelics, organoids, mitochondrial therapy, and cellular reprogramming risk.
 - [5-MeO-DMT](entities/5MeODMT.md) — Psychedelic substance in the Bryan Johnson All-In source, tied to default-mode-network disruption, subjective ego dissolution, and high-risk self-experimentation.
 - [Braintree](entities/Braintree.md) — Payments company named as part of Bryan Johnson's founder background before his longevity and psychedelic self-experimentation arc.
@@ -7422,6 +7424,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Confucian Military Idealism Limits / 儒家军事理想的限度](concepts/ConfucianMilitaryIdealismLimits.md) — Critique that renyi can restrain war but should not be mistaken for bloodless coercion-free conflict.
 - [Default Mode Network](concepts/DefaultModeNetwork.md) — Brain-network frame used in the Bryan Johnson source to connect psychedelics with ego, rumination, neuroplasticity, and possible psychological reset.
 - [Psychedelic Longevity Hypothesis](concepts/PsychedelicLongevityHypothesis.md) — Source-scoped claim that psychedelics may matter for longevity through brain flexibility, inflammation, metabolism, and subjective rejuvenation.
 - [Psychedelic Identity Disruption](concepts/PsychedelicIdentityDisruption.md) — Risk frame where intense psychedelic change can alter values, obligations, founder behavior, and personal continuity.
