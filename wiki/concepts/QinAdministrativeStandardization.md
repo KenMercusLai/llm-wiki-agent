@@ -2,7 +2,7 @@
 title: "Qin Administrative Standardization / 秦国行政标准化"
 type: concept
 tags: [statecraft, reform, administration, legalism, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
+sources: [zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco, zizhi-tongjian-qinji-115-1-jingke-ciqin-sihu-you-dianer-caoshuai-le-lgz1adsn1t8jjiaobmtfedpr-ixn, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 
 [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco]] supplies the Chu version. After [[WangJianQin|王翦]] and [[MengWu|蒙武]] finish the Chu campaign, Qin first labels the conquered region as a temporary Chu commandery, then later divides it into Jiujiang, Zhang, and Kuaiji commanderies. The concept now includes [[ConquestCommanderyTransition|灭国后的郡县化过渡]] as the conquest-facing expression of the same standardizing logic.
 
+[[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] adds a symbolic counterpart after unification. The source does not yet fully narrate the郡县制 debate, but it shows Qin standardizing the imperial layer around title, document language, calendar, color, number, and commoner naming. That branch belongs beside administrative standardization as [[ImperialSymbolicStandardization|帝国符号标准化]] rather than as another county-measure reform.
+
 ## Key Claims
 - County organization gives Qin a more direct administrative grid.
 - Land-boundary reform changes the relationship between fields, households, and state allocation.
@@ -23,6 +25,7 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 - The package links geographic centralization, household control, and administrative measurement into one reform logic.
 - Qinji 115-1 shows the conquest-facing version: surrender can be framed as accepting Qin's real administrative grid while bargaining for only symbolic lineage continuity.
 - Qinji 118-2 shows post-conquest subdivision: a defeated state's old regional label can be used temporarily before Qin breaks it into standard commandery units.
+- Qinji 120-2 adds a post-unification symbolic layer: Qin standardizes sovereignty language, calendar, color, number, and people-naming alongside administrative order.
 
 ## Connections
 - [[QinState|秦国]], [[ShangYang|公孙鞅 / 商鞅]], and [[ShangYangReforms]] - source state, reformer, and reform package.
@@ -32,3 +35,4 @@ The concept captures the administrative side of [[ShangYangReforms|商鞅变法]
 - [[WarringStatesPeriod|战国时期]] - competitive setting where administrative capacity becomes military capacity.
 - [[YanState|燕国]], [[MengJia|蒙嘉]], and [[AssassinationAccessCredential|刺杀接近凭证]] - Qinji 115-1 surrender script and palace-access use.
 - [[zizhi-tongjian-qinji-118-2-chi-gua-le-wangshi-de-gua-bao-tian-lns7jt-kbv3qunm66hzltdgugbco|Qinji 118-2]], [[ChuState|楚国]], [[ConquestCommanderyTransition|灭国后的郡县化过渡]], [[WangJianQin|王翦]], and [[MengWu|蒙武]] - Chu commandery setup and later subdivision.
+- [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[ImperialSymbolicStandardization|帝国符号标准化]], [[PosthumousNamePolitics|谥号政治]], and [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]] - symbolic standardization after conquest.

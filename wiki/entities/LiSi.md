@@ -2,8 +2,8 @@
 title: "李斯 / Li Si"
 type: entity
 tags: [person, qin-state, minister, legalism, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]
+last_updated: 2026-08-22
 ---
 
 # 李斯 / Li Si
@@ -22,6 +22,8 @@ That source only previews the next branch: Qin orders foreign guest scholars exp
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] completes that accusation. After [[YaoJia|姚贾]] defeats Han Fei's attack on his origin and mission conduct, Li Si argues that Han Fei's royal membership in [[HanState|韩国]] makes him unusable and unreleasable: if Qin employs him, he will favor Han; if Qin releases him, he returns useful knowledge to an enemy. The source then says Li Si sends poison to the imprisoned Han Fei before Ying Zheng's later pardon arrives, making this a case of [[TreasonAccusationTrap|loyalty-suspicion framing]] and [[PrivatePunishmentWithoutProcedure|private punishment without procedure]].
 
+[[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] moves Li Si from conquest court politics into post-unification imperial design. The episode names Li Si and [[QinWangWan|王绾]] in the discussion that takes "朕" from older textual usage and turns it into the emperor's exclusive self-reference, making Li Si part of Qin's [[ImperialSymbolicStandardization|帝国符号标准化]] as well as its talent and conquest branches.
+
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]] - ruler whose favor Li Si wins and then persuades against guest expulsion.
 - [[QinState|秦国]], [[GuestExpulsionOrder|逐客令]], and [[ZhengGuoHydraulicEngineer|郑国]] - court, policy crisis, and spy-case trigger that turn Li Si's guest status into danger.
@@ -29,5 +31,6 @@ That source only previews the next branch: Qin orders foreign guest scholars exp
 - [[YaoJia|姚贾]], [[CunHan|《存韩》]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - Qinji 112-1 rumor, recommendation, anti-hezong, and Han Fei conflict branch.
 - [[Gufen|《孤愤》]], [[Wudu|《五蠹》]], [[HanAn|韩王安 / Han An]], and [[AuthorAdmirationPowerRisk]] - Qinji 112-2 admirer-to-rivalry setup around Han Fei.
 - [[TreasonAccusationTrap|谋反指控陷阱]], [[PrivatePunishmentWithoutProcedure|无程序私刑]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - final loyalty accusation and prison-poison branch.
+- [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[QinWangWan|王绾]], and [[ImperialSymbolicStandardization|帝国符号标准化]] - post-unification pronoun and imperial-language design branch.
 - [[ChuState|楚国]], [[Xunzi|荀子]], [[HanFei|韩非]], [[LuBuwei|吕不韦]], [[MousePhilosophy|老鼠哲学]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], and [[HumanNaturePlasticity|人性可变性]] - early-life, education, entry-channel, and environment frames.
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - podcast context.

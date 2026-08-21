@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念](sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq.md) — 芮淇讲透资治通鉴 episode on Qin's post-unification imperial title, 制/诏/朕 language monopoly, abolished谥法, numbered emperors, water-virtue legitimacy, black color, October year-start, number six, and law-punishment symbolism.
 - [《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？](sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0.md) — 芮淇讲透资治通鉴 episode on Qin's 221 BCE conquest of Qi, Qi Wang Jian's surrender and starvation, the casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense legitimacy narrative.
 - [《资治通鉴·秦纪》119-3｜历史上第一位真正意义上“垂帘听政”太后](sources/zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul.md) — 芮淇讲透资治通鉴 episode on Wang Ben's capture of Dai and Zhao Jia, Wang Jian's Jiangnan/Baiyue pacification and Kuaiji setup, Jun Wang Hou's pro-Qin neutrality, Qi's forty-plus years of peace, and the Qin-Qi appeasement trap before Yongmen Sima's remonstrance.
 - [《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”](sources/zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e.md) — 芮淇讲透资治通鉴 episode on Ye Gong's warning about Bai Gong Sheng, the 479 BCE Chu rebellion, speech as moral diagnosis, Ye Gong's retreat, and Ye Gong Hao Long's reputation damage.
@@ -7602,6 +7603,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Symbolic Standardization / 帝国符号标准化](concepts/ImperialSymbolicStandardization.md) — Qinji 120-2 frame for Qin's post-unification package of imperial title, document language, exclusive pronoun, numbered dynasty sequence, color, calendar, number, and water-virtue legitimacy.
 - [Casualty-Sparing Surrender / 保全生灵式投降](concepts/CasualtySparingSurrender.md) — Qinji 120-1 tradeoff where Qi Wang Jian's surrender destroys the state but avoids a destructive final war.
 - [Conquest Self-Defense Narrative / 兼并自卫叙事](concepts/ConquestSelfDefenseNarrative.md) — Qinji 120-1 legitimacy pattern where Qin recasts conquest of the six states as reluctant punishment and self-defense.
 - [Distant-State Appeasement Trap / 远国安抚误读](concepts/DistantStateAppeasementTrap.md) — Qinji 119-3 pattern where Qi mistakes Qin's far-state reassurance under 远交近攻 for durable diplomatic success.

@@ -2,8 +2,8 @@
 title: "Legalist Ruler Technique / 法家君术"
 type: concept
 tags: [political-theory, legalism, governance, pre-qin-history]
-sources: [zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+last_updated: 2026-08-22
 ---
 
 # Legalist Ruler Technique / 法家君术
@@ -30,6 +30,8 @@ The concept is deliberately cold. It separates political effectiveness from conv
 
 [[zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz]] adds Han Fei's failed-reception setting. [[HanFei|韩非]] knows the Legalist reform language and repeatedly advises [[HanAn|韩王安 / Han An]], but [[HanState|韩国]] does not adopt the program. The source therefore shows a limit of technique as text: a doctrine about employing people, reading reality, and strengthening the state remains politically inert if the ruler cannot or will not use it.
 
+[[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] adds the imperial-symbolic endpoint. The episode ties Qin's law language to water virtue: water is "level," so law can be described as fair and equal, but the host immediately marks the exception that [[QinShiHuang|嬴政 / 秦始皇]] stands above the law. The same water-phase frame then turns yin, punishment, and harsh law into part of Qin's [[ImperialSymbolicStandardization|帝国符号标准化]].
+
 ## Key Claims
 - Ruler competence is measured through control of people, information, and speech.
 - Personal vice does not automatically imply political collapse in this frame.
@@ -43,6 +45,7 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - Zhouji 86 adds fiscal enforcement against elite households as a Legalist-adjacent state-capacity test.
 - Zhouji 88 adds the procedural boundary: Legalist-style order can still fail as law if private suspicion and elite anger replace investigation.
 - Qinji 112-2 adds a failed-reception boundary: Han Fei's Legalist advice and writings can impress Ying Zheng, but they first fail to move Han's own ruler.
+- Qinji 120-2 adds the imperial exception boundary: law can be presented as level and fair while still placing the emperor outside the legal plane.
 
 ## Connections
 - [[HanFei|韩非]] - textual and philosophical source for the episode's frame.
@@ -59,3 +62,4 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - [[HanFei|韩非]], [[HanAn|韩王安 / Han An]], [[Gufen|《孤愤》]], [[Wudu|《五蠹》]], and [[ZhengRenMaiLv|郑人买履]] - Qinji 112-2 failed Legalist advice, texts, and practical-judgment parable.
 - [[VirtueOverNaturalBarriers]] and [[WangdaoVsBadao]] - contrasting legitimacy and benevolent-rule frames.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where ruler technique becomes politically salient.
+- [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]], [[PosthumousNamePolitics|谥号政治]], and [[ImperialSymbolicStandardization|帝国符号标准化]] - water-phase fairness, punishment, and imperial exception.
