@@ -2,7 +2,7 @@
 title: "Textual Variant Political Stakes / 史书异文政治重量"
 type: concept
 tags: [historiography, source-criticism, politics, chinese-history]
-sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ This is not a license to treat every textual difference as propaganda. It is a r
 
 The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState|卫国]]. Because the transcript's segment around Chaoge, Puyang, [[WeyYuanjun|卫元君]], and [[WeyJunJiao|卫君角]] can blur Wei/Wey in romanization and wording, related pages record the ambiguity instead of creating a false merger.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds a broader framing contrast rather than a single-word variant. The episode sets [[Shiji|《史记》]]'s Han Fei-as-preserver-of-[[HanState|韩国]] line against [[ZizhiTongjian|《资治通鉴》]]'s harsher moral judgment that [[HanFei|韩非]] deserved death for serving [[QinState|秦国]] against his homeland. The political stake lies in how the same death can read as tragic loyal service, disloyal service, or a Song-era anti-Legalist warning.
+
 ## Key Claims
 - Source variants can alter who appears harmed, angry, guilty, or legitimate.
 - A chronicle's wording can carry later political pressure even when it is narrating ancient events.
@@ -34,6 +36,7 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - Campaign variants can change coalition membership, command credit, and post-campaign direction even when the strategic outcome remains stable.
 - Scope words around disaster can change whether a notice reads as shared interstate crisis or narrower state-centered chronology.
 - Naming variants and romanization overlap can create entity-identity risk, especially around [[WeiState|魏国]] and [[WeyState|卫国]].
+- Framing contrasts between source traditions can carry the same political stakes as narrower textual variants when they change loyalty, guilt, or tragedy.
 
 ## Connections
 - [[ZizhiTongjian|《资治通鉴》]], [[Shiji|《史记》]], and [[SimaGuang|司马光]] - source, variant, and compiler frame.
@@ -44,3 +47,4 @@ The same episode adds a naming version around [[WeiState|魏国]] and [[WeyState
 - [[LuBuwei|吕不韦]], [[ZhaoJi|赵姬]], [[QinShiHuang|嬴政 / 秦始皇]], and [[HistoricalDetectiveReasoning]] - Zhouji 97 part 4 paternity-rumor and narrative-variant case.
 - [[Chunshenjun|黄歇 / 春申君]], [[PangNuan|庞煖]], [[HezongAlliance|合纵]], [[WeyState|卫国]], [[WeyJunJiao|卫君角]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - final-coalition command variants and Wei/Wey identity caution.
 - [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]], [[QinState|秦国]], and [[WeakStateMutualPredation|弱国相争强国得利]] - Shiji/Tongjian drought-scope wording and its political reading.
+- [[HanFei|韩非]], [[HanState|韩国]], [[SimaGuang|司马光]], [[SongFactionalPolitics|宋代党争]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Shiji/Tongjian framing contrast over Han Fei's death.

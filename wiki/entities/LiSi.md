@@ -2,7 +2,7 @@
 title: "李斯 / Li Si"
 type: entity
 tags: [person, qin-state, minister, legalism, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-110-2-qinshihuang-de-cp-weihe-bei-quzhu-chuguo-lj0222vw8ijbvj25iwfzh-qhvzr9, zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]
 last_updated: 2026-08-21
 ---
 
@@ -20,11 +20,14 @@ That source only previews the next branch: Qin orders foreign guest scholars exp
 
 [[zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz]] adds the immediate setup for that rivalry. After [[QinShiHuang|嬴政 / 秦始皇]] reads [[HanFei|韩非]]'s [[Gufen|《孤愤》]] and [[Wudu|《五蠹》]] and wants to keep Han Fei in Qin, Li Si stands against the Han-preservation line and pushes Ying Zheng toward a decision that would make Han Fei give up on [[HanState|韩国]]. The episode therefore makes Li Si not only a rival classmate, but the adviser who turns admiration for Han Fei's text back toward Qin's conquest priority.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] completes that accusation. After [[YaoJia|姚贾]] defeats Han Fei's attack on his origin and mission conduct, Li Si argues that Han Fei's royal membership in [[HanState|韩国]] makes him unusable and unreleasable: if Qin employs him, he will favor Han; if Qin releases him, he returns useful knowledge to an enemy. The source then says Li Si sends poison to the imprisoned Han Fei before Ying Zheng's later pardon arrives, making this a case of [[TreasonAccusationTrap|loyalty-suspicion framing]] and [[PrivatePunishmentWithoutProcedure|private punishment without procedure]].
+
 ## Connections
 - [[QinShiHuang|嬴政 / 秦始皇]] - ruler whose favor Li Si wins and then persuades against guest expulsion.
 - [[QinState|秦国]], [[GuestExpulsionOrder|逐客令]], and [[ZhengGuoHydraulicEngineer|郑国]] - court, policy crisis, and spy-case trigger that turn Li Si's guest status into danger.
 - [[JianZhuKeShu|《谏逐客书》]] - memorial that lets Li Si transform a personal expulsion into a Qin state-interest argument.
 - [[YaoJia|姚贾]], [[CunHan|《存韩》]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - Qinji 112-1 rumor, recommendation, anti-hezong, and Han Fei conflict branch.
 - [[Gufen|《孤愤》]], [[Wudu|《五蠹》]], [[HanAn|韩王安 / Han An]], and [[AuthorAdmirationPowerRisk]] - Qinji 112-2 admirer-to-rivalry setup around Han Fei.
+- [[TreasonAccusationTrap|谋反指控陷阱]], [[PrivatePunishmentWithoutProcedure|无程序私刑]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - final loyalty accusation and prison-poison branch.
 - [[ChuState|楚国]], [[Xunzi|荀子]], [[HanFei|韩非]], [[LuBuwei|吕不韦]], [[MousePhilosophy|老鼠哲学]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], and [[HumanNaturePlasticity|人性可变性]] - early-life, education, entry-channel, and environment frames.
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - podcast context.

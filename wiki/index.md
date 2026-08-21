@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判](sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9.md) — 芮淇讲透资治通鉴 episode completing the Han Fei, Yao Jia, Li Si, and Ying Zheng court conflict through Yao Jia's defense, Li Si's loyalty accusation, Han Fei's prison death, and the Sima Qian/Yang Xiong/Sima Guang reception dispute.
 - [《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？](sources/zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz.md) — 芮淇讲透资治通鉴 episode on Han Fei's ignored Legalist reform advice in weak Han, Ying Zheng's admiration for 《孤愤》 and 《五蠹》, 郑人买履, and Han Fei's mission to Qin before Li Si's opposition.
 - [《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？](sources/zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg.md) — 芮淇讲透资治通鉴 episode on Han Fei's Cun Han argument, Li Si's counter and rumor operation, and Yao Jia's Qin-backed three-year disruption of a Zhao-Han-Wei-Chu hezong plan.
 - [《资治通鉴·秦纪》111-2｜我与吕不韦的隔空对话](sources/zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch.md) — 芮淇讲透资治通鉴 episode completing Lu Buwei's final crisis: Ying Zheng's Shu relocation order, Lu Buwei's poisoned-wine suicide, mourners' punishment, Fayan evaluation, and drought-year six-state fragmentation.

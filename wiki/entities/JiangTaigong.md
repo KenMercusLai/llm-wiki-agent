@@ -2,7 +2,7 @@
 title: "姜太公 / 姜子牙 / Jiang Taigong"
 type: entity
 tags: [person, founder, strategist, zhou-dynasty, qi-state, spring-and-autumn]
-sources: [zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ Under [[ZhouWuwang|周武王]], Jiang Taigong becomes 师尚父 and helps defeat
 
 The same source extends his later Zhou role beyond the conquest. After Zhou Wuwang's death, Jiang Taigong assists [[ZhouGong|周公]] in suppressing rebellion and is later described as a four-generation elder who helps secure Zhou Kang Wang's succession. The episode records his later reputation as 兵家鼻祖, while the wiki keeps the age and genealogy details source-scoped.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Jiang Taigong as one of [[YaoJia|姚贾]]'s courtroom precedents. Yao Jia invokes him to argue that a ruler who rejects talent because of humble or difficult origins would also reject the old examples later celebrated as founding ministers.
+
 ## Connections
 - [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episode.
 - [[QiState|齐国]] - state founded by Jiang Taigong in the source's setup.
@@ -25,3 +27,4 @@ The same source extends his later Zhou role beyond the conquest. After Zhou Wuwa
 - [[QiHuanGong|齐桓公]] and [[GuanZhong|管仲]] - later Qi branch developed by the source.
 - [[SpringAndAutumnPeriod|春秋时期]] - later historical setting in which the founding memory is invoked.
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[LuBuwei|吕不韦]], [[ZhouWenwang|周文王]], [[ZhouWuwang|周武王]], [[ZhouGong|周公]], and [[LateBloomingTalent|大器晚成式人才显现]] - genealogy claim, recognition story, Zhou founding role, and life-course concept.
+- [[YaoJia|姚贾]] and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent used to defend low-origin talent against Han Fei's attack.

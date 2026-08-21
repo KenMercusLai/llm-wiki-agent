@@ -2,7 +2,7 @@
 title: "李牧 / Li Mu"
 type: entity
 tags: [person, general, zhao-state, pre-qin, warring-states, frontier-warfare]
-sources: [zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The page is source-scoped. Li Mu's wiki role is not only "famous general," but a
 
 [[zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz]] moves Li Mu from the frontier retrospective into the direct Qin-Zhao front. After [[HuanYiQin|桓齮]] kills Zhao general Hu Zhe and the episode reports a 100,000-person slaughter in 234 BCE, [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] appoints Li Mu. Li Mu defeats Huan Yi around Yi'an and Feixia, Huan Yi flees back to Qin, and Zhao grants Li Mu the title 武安君.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] returns to Li Mu as the next unresolved obstacle after [[HanFei|韩非]]'s death. The source says Qin's conquest tempo continues and that, among the remaining six-state problems, Zhao's Li Mu remains the serious military opponent to watch.
+
 ## Connections
 - [[ZhaoState|赵国]], [[ZhaoDaoxiangwang|赵道襄王]], and [[ZhaoDan|赵丹 / 赵孝成王]] - state, 244 BCE appointing ruler, and earlier ruler in the frontier-removal branch.
 - [[LianPo|廉颇]] - predecessor figure whose removal sets up Zhao's need for a new usable commander.
@@ -31,3 +33,4 @@ The page is source-scoped. Li Mu's wiki role is not only "famous general," but a
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]], [[WarCostTempoDiscipline|战争成本与速决纪律]], and [[SunziBingfa|《孙子兵法》]] - broader military and strategic frame.
 - [[WangJianQin|王翦]] - later Qin opponent previewed by the episode.
 - [[HuanYiQin|桓齮]], [[QinState|秦国]], and [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] - Qinji 112-2 anti-Qin field victory and title branch.
+- [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - closing pointer from Han Fei's death back to Zhao's remaining military resistance.

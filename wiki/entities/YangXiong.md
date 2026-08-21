@@ -2,7 +2,7 @@
 title: "扬雄 / Yang Xiong"
 type: entity
 tags: [person, writer, chinese-classics, western-han, confucianism]
-sources: [zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
+sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch, zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]
 last_updated: 2026-08-21
 ---
 
@@ -18,6 +18,8 @@ The episode uses him to distinguish similar-looking political activity by motive
 
 [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch]] adds another Yang Xiong citation through [[LuBuwei|吕不韦]]. The episode says [[SimaGuang|司马光]] uses Fayan to judge Lu Buwei as someone whose cleverness destroys him: the former merchant's political investment wins office, fief, and historical influence, but the same mode of calculation leaves him exposed once [[QinShiHuang|嬴政 / 秦始皇]] reads his reputation as a rival power.
 
+[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Yang Xiong to the reception of [[HanFei|韩非]]. The episode cites [[Fayan|《法言》]] for the warning that what matters in speech is whether it accords with righteousness, not whether it suits the audience. The host accepts the moral pressure of the point but argues that Han Fei's case is harder because, as a [[HanState|韩国]] royal, he had a duty to try to preserve Han rather than speak as a detached career persuader.
+
 ## Connections
 - [[Fayan|《法言》]] - text cited by the episode.
 - [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[Guiguzi|鬼谷子]] - figures whose strategic arts the passage criticizes.
@@ -26,3 +28,4 @@ The episode uses him to distinguish similar-looking political activity by motive
 - [[ConfucianIdealGovernance|儒家理想治理]] - broader moral-political frame.
 - [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 contrast between praise of talent patrons and suspicion of overmighty private power.
 - [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Fayan judgement on clever political investment ending in destruction.
+- [[HanFei|韩非]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Fayan warning applied to Han Fei's persuasion and home-state duty.

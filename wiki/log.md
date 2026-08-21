@@ -8732,6 +8732,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判
+
+Added source page for Qinji 112-3: Yao Jia's return and defense against Han Fei's attack, the precedent argument around low-origin talent, Li Si's loyalty accusation against Han Fei, Han Fei's imprisonment and poisoned death, Ying Zheng's too-late regret, Sima Qian and Yang Xiong's reception, and the host's source-scoped challenge to Sima Guang's Han Fei judgment. Updated overview, index, Han Fei, Yao Jia, Li Si, Qin Shi Huang, Qin/Han state pages, Li Mu, Sima Qian, Yang Xiong, Sima Guang, Shiji, Zizhi Tongjian, Fayan, Wang Anshi, precedent figures, and related court-politics, envoy, and historiography concept pages. No settled contradiction found; Sima Guang motive claims and late-Warring-States envoy-norm collapse are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》112-1｜姚贾是如何凭一张嘴破四国合纵？
 
 Added source page for Qinji 112-1: Li Si's first-attack-Han proposal, Han Fei's Cun Han redirection toward Zhao, Li Si's answer about Han uncertainty, Yao Jia's low-origin and Zhao mission background, Li Si's rumor operation that gets Yao Jia expelled, Ying Zheng's lavish backing, and Yao Jia's three-year disruption of the Han-Wei-Chu-Zhao hezong plan through persuasion and bribery. Created Yao Jia and Cun Han. Updated overview, index, Li Si, Han Fei, Qin Shi Huang, Qin State, Han State, Zhao State, Wei State, Chu State, Zhanguo Ce, Hezong Alliance, Terminal Hezong Failure, Interest-Based Coalition Sabotage, Counterintelligence Rumor Wedge, and Warring States Careerist Mobility. No direct contradiction found; the transcript cuts off during Li Si's accusation against Han Fei, so that branch remains source-scoped.
@@ -9326,6 +9330,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》112-2｜秦始皇也是他的书迷？
 
 Added source page for Qinji 112-2: Han Fei's ignored Legalist reform advice inside weak Han, his writings 《孤愤》 and 《五蠹》, the 郑人买履 practical-judgment parable, Ying Zheng's admirer response, Han Fei's mission to Qin, Li Si's opposition, and the 234-233 BCE Huan Yi / Li Mu Zhao-front setup. Created Han An, Gu Fen, Wu Du, Zheng Ren Mai Lv, and Author Admiration Power Risk. Updated overview, index, Han Fei, Li Si, Qin Shi Huang, Qin State, Han State, Zhao State, Li Mu, Huan Yi, Legalist Ruler Technique, and Rule Idolatry. No direct contradiction found; Han Fei's imprisonment and death remain unresolved by this source.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
