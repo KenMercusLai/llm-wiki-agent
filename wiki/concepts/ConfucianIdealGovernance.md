@@ -2,8 +2,8 @@
 title: "Confucian Ideal Governance / 儒家理想治理"
 type: concept
 tags: [history, politics, china, confucianism]
-sources: [zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-3-xunzi-bingfa-li-cangzhe-renxing-de-mimi-lgfcp4hkruyhhrjguqhjbhllvwp43, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]
+last_updated: 2026-08-22
 ---
 
 # Confucian Ideal Governance / 儒家理想治理
@@ -36,6 +36,8 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] adds both completion and critique to that military version. Xunzi's ideal army is disciplined, obedient to signals, restrained toward civilians, and justified as removing those who harm people. The host then uses [[CarlVonClausewitz|克劳塞维茨]] to warn that Confucian governance can over-idealize war when it imagines "有诛而无战"; renyi can constrain force, but it cannot erase coercion, resistance, and violence.
 
+[[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds a ritual-knowledge limit. [[QinShiHuang|嬴政 / 秦始皇]] consults more than seventy Qi-Lu scholars before the [[Taishan|泰山]] fengshan ceremony, but the episode says their conflicting procedures convince him that the inherited ritual tradition is impractical for his urgent imperial purpose. This is not a rejection of all Confucian governance; it is a source-scoped case where ritual authority loses control of the final design to Qin's own heaven-sacrifice practice.
+
 ## Key Claims
 - Moral ideals can constrain rulers only when institutions and reality checks hold.
 - Ancient models can become political authority even when social conditions have changed.
@@ -53,6 +55,7 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - Qinji 99 part 2 adds that Confucian governance can be deployed as local administration in newly occupied territory, especially where cultural legitimacy matters.
 - Qinji 99 part 3 adds that Confucian governance can be framed as a military advantage when people-support and command restraint make deception and coercive incentives insufficient.
 - Qinji 99 part 4 adds that the same Confucian military ideal needs a realism check: civilian protection and moral purpose are not the same as bloodless war.
+- Qinji 122-1 adds a ritual-authority limit: learned tradition can be politically attractive while still failing to provide a clear executable procedure.
 
 ## Connections
 - [[WangMang]], [[DongZhongshu]], and [[XiangruiBook|《祥瑞》]] - source context.
@@ -70,3 +73,4 @@ The episode's conclusion is pessimistic. [[XiangruiBook|《祥瑞》]] is summar
 - [[Xunzi|荀子]], [[QinZhaoxiangwang|秦昭襄王]], [[FanJu|范雎]], [[LanlingWarringStates|兰陵 / Lanling]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 Wangdao advice and Lanling administration.
 - [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], [[XunzianCommandRestraint|五权三制]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Qinji 99 part 3 military-governance extension.
 - [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[CarlVonClausewitz|克劳塞维茨]], and [[WarringStatesWarBrutalization|战国战争残酷化]] - Qinji 99 part 4 realism limit on righteous-war imagination.
+- [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]], [[Taishan|泰山]], [[FengshanRitualLegitimacy|封禅礼制合法性]], and [[QinState|秦国]] - Qi-Lu ritual scholars consulted but displaced by Qin ritual practice.

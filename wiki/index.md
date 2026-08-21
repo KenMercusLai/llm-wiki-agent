@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山](sources/zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 219 BCE eastern tour, Taishan fengshan, Qi-Lu scholars' ritual disagreement, Qin native sacrificial procedure, and the transition toward fangshi-led immortality-seeking.
 - [《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生](sources/zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's 220 BCE first westward journey through Longxi and Beidi, high-temple ritual in Qin old lands, Ji Miao/Taiyi cosmic capital planning, and chidao road rules as imperial transport infrastructure.
 - [《资治通鉴·秦纪》120-4｜并六国后 秦始皇教你如何守江山](sources/zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's post-unification control package: weapon confiscation and twelve metal figures, weights-and-measures verification, forced relocation of 120,000 elite households to Xianyang, commandery-county implementation, palace construction, and resentment among conquered populations.
 - [《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制](sources/zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv.md) — 芮淇讲透资治通鉴 episode on Wang Wan and Li Si's post-unification debate over princely enfeoffment versus empire-wide commandery-county rule, with later Xiang Yu, Liu Bang, and Han Wudi comparisons.
@@ -1188,6 +1189,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [泰山 / Taishan](entities/Taishan.md) — Sacred mountain chosen by Qin Shi Huang for the "封" stage of the 219 BCE fengshan ceremony, used to claim heavenly approval and eastern territory.
+- [梁父山 / Liangfu Mountain](entities/LiangfuMountain.md) — Mountain paired with Taishan for the "禅" stage of Qin Shi Huang's fengshan route.
 - [驰道 / Qin Chidao Road System](entities/QinChidao.md) — Qin imperial road network described by Qinji 121 as wide tamped routes with restricted central imperial lanes, side lanes, trees, and controlled crossings.
 - [极庙 / Qin Ji Miao](entities/QinJimiao.md) — Qin Shi Huang's renamed ritual building south of the Wei River, read in Qinji 121 as an earthly counterpart to the heavenly pole and Taiyi worship.
 - [太一 / Taiyi](entities/Taiyi.md) — Supreme deity inferred by Qinji 121 as the likely target of Qin Ji Miao's heaven-centered sacrifice.
@@ -7611,6 +7614,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fengshan Ritual Legitimacy / 封禅礼制合法性](concepts/FengshanRitualLegitimacy.md) — Qinji 122-1 frame for turning conquest into heavenly authorization through the Taishan/Liangfu ceremony.
+- [Imperial Tour Political Theater / 帝国巡游政治剧场](concepts/ImperialTourPoliticalTheater.md) — Pattern where ruler travel acts as inspection, display, coercion, and legitimacy work across newly ruled territory.
 - [High-Temple Rite / 高庙礼](concepts/HighTempleRite.md) — Achievement-reporting ancestral rite used by Qinji 121 to explain Qin Shi Huang's first post-unification westward journey as ritual rather than ordinary inspection.
 - [Qin Cosmic Capital Planning / 秦代宇宙化都城规划](concepts/QinCosmicCapitalPlanning.md) — Qinji 121 frame for Ji Miao, Taiyi, Lishan roads, covered passages, and the Wei River as an earthly copy of celestial order.
 - [Imperial Homogenization / 帝国整齐划一](concepts/ImperialHomogenization.md) — Qinji 120-4 frame for Qin's effort to make post-unification standards, local administration, population control, and command execution uniform across the empire.

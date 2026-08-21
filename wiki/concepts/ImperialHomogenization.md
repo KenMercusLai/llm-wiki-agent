@@ -2,7 +2,7 @@
 title: "Imperial Homogenization / 帝国整齐划一"
 type: concept
 tags: [statecraft, administration, qin-history, centralization, imperial-governance]
-sources: [zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]
+sources: [zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 
 [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds the movement layer through [[QinChidao|驰道]]. The road system makes "车同轨" more than a slogan: traffic surfaces, lane hierarchy, roadside planting, imperial permissions, and controlled crossings turn circulation itself into a standardized imperial order.
 
+[[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds the tour-performance layer. Qin's eastern route through former six-state territory uses [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] to make homogenization visible: the emperor's arrival, prepared roads, carved inscriptions, and [[Taishan|泰山]] ritual all tell local populations and old elites that the new order now reaches them directly.
+
 ## Key Claims
 - Uniformity is a command-execution strategy, not only a cultural slogan.
 - The episode links standard measures, local administration, population transfer, disarmament, and construction into one post-conquest control program.
@@ -23,6 +25,7 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 - Homogenization reduces local autonomy but can deepen resentment when applied to newly conquered populations.
 - The concept bridges [[ImperialSymbolicStandardization|帝国符号标准化]] and practical administrative control.
 - Qinji 121 adds road infrastructure as homogenized movement: a physically standardized route can also encode hierarchy and surveillance.
+- Qinji 122-1 adds emperor-led touring as homogenized presence in former rival territory, pairing spectacle with warning.
 
 ## Connections
 - [[QinAdministrativeStandardization|秦国行政标准化]] - administrative basis for uniform standards and local rule.
@@ -31,3 +34,4 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 - [[EliteRelocationControl|豪杰迁徙控制]] and [[PostConquestDisarmament|统一后收兵器]] - coercive instruments inside the same source.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], and [[Xianyang|咸阳]] - ruler, regime, and capital at the center of the program.
 - [[QinChidao|驰道]], [[QinAdministrativeStandardization|秦国行政标准化]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - movement-standardization sequel.
+- [[ImperialTourPoliticalTheater|帝国巡游政治剧场]], [[Taishan|泰山]], and [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] - tour and ritual presence as post-conquest integration.

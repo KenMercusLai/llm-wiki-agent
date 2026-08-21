@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-22] ingest | 《资治通鉴·秦纪》122-1｜揭秘秦始皇封禅为什么选泰山
+
+Added source page for Qinji 122-1: Qin Shi Huang's 219 BCE eastern tour through former six-state territory, Taishan-Liangfu fengshan as heavenly-legitimacy claim, Qi-Lu scholars' disagreement over ritual procedure, Qin's use of native heaven-sacrifice practice, and the closing turn toward Yan-Qi fangshi and immortality search proposals. Created Taishan, Liangfu Mountain, Fengshan Ritual Legitimacy, and Imperial Tour Political Theater; updated overview, index, Qin Shi Huang, Qin State, Shiji, Sima Qian, Zizhi Tongjian, Mandate of Heaven Legitimacy, Confucian Ideal Governance, Qin Cosmic Capital Planning, Imperial Symbolic Standardization, Imperial Homogenization, Southern Tour Political Theater, and Immortality Quest Politics. No settled contradiction found; exact fengshan ritual steps and motive balance remain source-scoped.
+
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》121｜嬴政造世界最早高速公路 2200年荒草不生
 
 Added source page for Qinji 121: Qin Shi Huang's first post-unification westward journey through Longxi and Beidi, source-scoped as high-temple ritual in Qin old lands; the Xianyang/Wei River/Ji Miao/Taiyi cosmic capital arrangement; and Qin chidao as road infrastructure with imperial lane hierarchy and controlled crossings. Created Qin Chidao Road System, Qin Ji Miao, Taiyi, Lishan, High-Temple Rite, and Qin Cosmic Capital Planning; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Yongcheng, Longxi Commandery, Beidi Commandery, Ganquan Palace, Warring States Period, Zhou Wu Wang, Confucius, Analects, Zizhi Tongjian, and related standardization/symbolic pages. No settled contradiction found; the westward-trip purpose, Taiyi target, and chidao dimensions are kept source-scoped.
@@ -9498,3 +9502,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities, but the graph is behind the 12,592-page wiki scan. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider API key variables are present; bounded in-session semantic review of the lint sample plus orphan/bridge endpoints found no direct contradictions and flagged source-breadth risk for broad AI, market, and governance synthesis. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 12,597 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
