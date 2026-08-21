@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》120-4｜并六国后 秦始皇教你如何守江山](sources/zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's post-unification control package: weapon confiscation and twelve metal figures, weights-and-measures verification, forced relocation of 120,000 elite households to Xianyang, commandery-county implementation, palace construction, and resentment among conquered populations.
 - [《资治通鉴·秦纪》120-3｜揭秘秦始皇为何发明郡县制](sources/zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv.md) — 芮淇讲透资治通鉴 episode on Wang Wan and Li Si's post-unification debate over princely enfeoffment versus empire-wide commandery-county rule, with later Xiang Yu, Liu Bang, and Han Wudi comparisons.
 - [《资治通鉴·秦纪》120-2｜秦朝第一套VI设计理念](sources/zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq.md) — 芮淇讲透资治通鉴 episode on Qin's post-unification imperial title, 制/诏/朕 language monopoly, abolished谥法, numbered emperors, water-virtue legitimacy, black color, October year-start, number six, and law-punishment symbolism.
 - [《资治通鉴·秦纪》120-1｜谁是皇帝中的妈宝男？](sources/zizhi-tongjian-qinji-120-1-shui-shi-huangdi-zhong-de-mabaonan-lhw8vsj6ta6rjdkugcvfohaqqxc0.md) — 芮淇讲透资治通鉴 episode on Qin's 221 BCE conquest of Qi, Qi Wang Jian's surrender and starvation, the casualty-sparing re-evaluation of Qi's fall, and Qin's post-unification self-defense legitimacy narrative.
@@ -7605,6 +7606,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Homogenization / 帝国整齐划一](concepts/ImperialHomogenization.md) — Qinji 120-4 frame for Qin's effort to make post-unification standards, local administration, population control, and command execution uniform across the empire.
+- [Elite Relocation Control / 豪杰迁徙控制](concepts/EliteRelocationControl.md) — Qinji 120-4 pattern where Qin Shi Huang forces 120,000 powerful households to Xianyang to enrich the capital, monitor potential opposition, and uproot local elite networks.
+- [Post-Conquest Disarmament / 统一后收兵器](concepts/PostConquestDisarmament.md) — Qinji 120-4 control mechanism where Qin collects weapons from the conquered realm, melts them, and turns them into palace-visible metal figures.
 - [Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局](concepts/CommanderyCountyAntiEnfeoffment.md) — Qinji 120-3 frame for Qin's post-unification choice to reject renewed hereditary kingdoms and govern conquered territory through commanderies and counties.
 - [Imperial Symbolic Standardization / 帝国符号标准化](concepts/ImperialSymbolicStandardization.md) — Qinji 120-2 frame for Qin's post-unification package of imperial title, document language, exclusive pronoun, numbered dynasty sequence, color, calendar, number, and water-virtue legitimacy.
 - [Casualty-Sparing Surrender / 保全生灵式投降](concepts/CasualtySparingSurrender.md) — Qinji 120-1 tradeoff where Qi Wang Jian's surrender destroys the state but avoids a destructive final war.

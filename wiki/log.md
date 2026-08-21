@@ -9482,3 +9482,11 @@ Added source page for Qinji 120-3: Wang Wan's proposal to enfeoff imperial sons 
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》120-4｜并六国后 秦始皇教你如何守江山
+
+Added source page for Qinji 120-4: Qin Shi Huang's post-unification control package after the commandery-county decision, including weapon confiscation and twelve palace figures, unified weights and measures with annual checks, forced relocation of 120,000 powerful households to Xianyang, the weakening of local elite networks, palace replication after conquered states, and the tension between imperial command uniformity and deep six-state resentment. Created Post-Conquest Disarmament, Elite Relocation Control, and Imperial Homogenization; updated overview, index, Qin Shi Huang, Qin State, Xianyang, Qin Administrative Standardization, Commandery-County Anti-Enfeoffment Settlement, Conquest Commandery Transition, and Imperial Symbolic Standardization. No settled contradiction found; the source adds coercive implementation and resentment context to the earlier symbolic-standardization and commandery-county pages.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
