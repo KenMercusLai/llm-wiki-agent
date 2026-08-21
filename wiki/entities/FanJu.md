@@ -52,6 +52,8 @@ This source also turns Fan Ju into a social-mobility marker. His low status woul
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] uses Fan Ju's origin crisis as evidence against [[LuZhonglian|鲁仲连]]'s simple anti-Qin moral contrast. The host points back to Fan Ju's private punishment and humiliation in [[WeiState|魏国]] to argue that the eastern states were not necessarily more civilized than Qin. Fan Ju therefore becomes a counterexample inside the episode's critique of [[CivilizationBarbarismFrame|civilization-barbarism framing]].
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] brings Fan Ju back into the Bai Qi conflict that Zhouji 95 opened. After Qin's failure at [[Handan|邯郸]], Bai Qi's criticism makes him intolerable to [[QinZhaoxiangwang|秦昭襄王]], and Fan Ju reports that Bai Qi is accepting demotion and exile with resentment and many complaints. The episode does not make Fan Ju the sole cause of Bai Qi's death, but it makes his warning the court-political trigger that helps convert an angry ruler-command problem into the [[DuyouSword|杜邮剑]] endpoint.
+
 ## Connections
 - [[BaiQi|白起]] - figure whose Yique explanation Fan Ju prompts.
 - [[YiqueBattle|伊阙之战]] - battle being discussed.
@@ -76,3 +78,4 @@ This source also turns Fan Ju into a social-mobility marker. His low status woul
 - [[SimaQian|司马迁]], [[XunYue|荀悦]], [[LiBai|李白]], [[WangAnshi|王安石]], [[WangShizhen|王世贞]], [[DeathPartyLoyalty|死党之义与守职奉上]], and [[WarringStatesCareeristMobility|乱世职业经理人式流动]] - Zhouji 95 part 4 reception and social-transition layer around Fan Ju's revenge.
 - [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], [[WangLing|王陵]], and [[Handan|邯郸]] - Zhouji 96 attempt to persuade Bai Qi into the failing campaign.
 - [[LuZhonglian|鲁仲连]], [[ShangYangReforms|商鞅变法]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalDetectiveReasoning]] - Zhouji 96 part 3 use of Fan Ju's Wei abuse to critique anti-Qin binaries.
+- [[DuyouSword|杜邮剑]], [[QinZhaoxiangwang|秦昭襄王]], [[BaiQi|白起]], [[Handan|邯郸]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - Zhouji 97 part 1 warning about Bai Qi's resentment after Qin's failed campaign.

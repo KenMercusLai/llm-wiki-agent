@@ -36,6 +36,8 @@ The same source makes Handan the setting for [[XinyuanYan|新垣衍]]'s status-s
 
 This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and Chu relief, but the city also needs internal time-buying through [[EliteCrisisBurdenSharing|elite burden sharing]]: commoners and soldiers are more likely to keep resisting when the highest household visibly loses its protected distance from the siege.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records Handan's relief as the event that turns Qin's post-Changping pressure into political blowback inside Qin. Once [[Xinlingjun|信陵君]] has forced Wei's army forward and Chu aid joins the fight, Qin suffers defeats around the Zhao capital, [[WangHe|王龁]]'s requests for help intensify, and [[BaiQi|白起]]'s earlier refusal looks strategically correct. Handan therefore becomes the site whose survival preserves Zhao as a six-state barrier and helps trigger the [[DuyouSword|杜邮剑]] ending of Bai Qi's career.
+
 ## Connections
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
@@ -51,3 +53,4 @@ This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 stalled relief and appeasement proposal inside the crisis.
 - [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 anti-submission argument inside Handan.
 - [[LiTan|李谈 / 李同]], [[Pingyuanjun|平原君]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - Zhouji 96 part 4 siege suffering and elite household mobilization.
+- [[Xinlingjun|信陵君]], [[WeiState|魏国]], [[ChuState|楚国]], [[WangHe|王龁]], [[BaiQi|白起]], and [[DuyouSword|杜邮剑]] - Zhouji 97 part 1 relief outcome and Qin court aftershock.

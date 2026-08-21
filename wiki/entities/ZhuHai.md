@@ -16,9 +16,12 @@ In this episode, Zhu Hai is less an independent actor than a pressure point in H
 
 Zhu Hai therefore moves from social proof to coercive executor. In part 5, his market conversation helps test Xinlingjun's patience; in part 6, his violence makes [[StealingTigerTalliesToRescueZhao|窃符救赵]] work while also creating the episode's clearest [[MoralCostOfEffectiveRescue|moral cost]].
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the reception layer for Zhu Hai after the action. The host describes him as a典型游侠: low-status, emotionally controlled,恩怨分明, and able to give himself to a patron once recognition is settled. The episode also leaves his later path source-scoped, saying he may have followed Xinlingjun in Zhao, but the point for this page is the侠义 reading rather than a confirmed biography.
+
 ## Connections
 - [[HouYing|侯嬴]] - friend who uses the visit as part of the test.
 - [[Xinlingjun|信陵君]] - patron whose patience and humility are being observed.
 - [[Daliang|大梁]] and [[WeiState|魏国]] - market and state setting.
 - [[PublicHumilityReputationTest|公开受辱式礼贤测试]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - conceptual frame for the scene.
 - [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - later command-seizure role and ethical problem.
+- [[RetainerReciprocityEthic|士为知己者死]], [[WarringStatesRetainerPatronage|战国养士]], and [[Xinlingjun|信陵君]] - Zhouji 97 part 1游侠 reading after the rescue.

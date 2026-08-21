@@ -18,6 +18,8 @@ This page is source-scoped for now. It extends the wiki's [[WarringStatesMilitar
 
 [[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]] adds the surrendered-prisoner branch. After [[ZhaoKuo|赵括]] is killed and the trapped [[ZhaoState|赵国]] army surrenders, [[BaiQi|白起]] kills the prisoners while sparing 240 young soldiers to return home. The source treats this as a remembered atrocity and as a hard security question, making [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]] a specific late-Warring-States brutality pattern.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the afterlife of that brutality inside Bai Qi's own death scene. At 杜邮, Bai Qi does not explain his fate only through court politics; he recalls the surrendered Zhao troops from [[ChangpingBattle|长平之战]] and treats that killing as enough reason to die. The concept therefore includes not only violence as a wartime method, but violence as remembered moral debt that can reframe a commander's later political death.
+
 ## Connections
 - [[BaiQi|白起]], [[QinState|秦国]], and [[ChuState|楚国]] - commander, attacker, and target state.
 - [[MiHeng|楚顷襄王]] and [[ZhuangXin|庄辛]] - ruler damaged by the attack and adviser who frames recovery after disaster.
@@ -25,3 +27,4 @@ This page is source-scoped for now. It extends the wiki's [[WarringStatesMilitar
 - [[WarringStatesMilitaryTransformation|战国军事形态转变]] and [[QinAdministrativeStandardization|秦国行政标准化]] - adjacent military and administrative concepts.
 - [[ChangpingBattle|长平之战]], [[ZhaoState|赵国]], [[BattlefieldEncirclementLogistics|战场围困与断粮]], and [[ShieldStateRescueFailure|屏障国救援失灵]] - Zhouji 94 part 2 starvation and non-relief branch.
 - [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], [[ZhaoKuo|赵括]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 94 part 3 surrendered-prisoner killing and cost-framed aftermath.
+- [[DuyouSword|杜邮剑]], [[PostBattleTerrorSignaling|战后恐怖震慑]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 97 part 1 brutality returning as moral memory at Bai Qi's death.

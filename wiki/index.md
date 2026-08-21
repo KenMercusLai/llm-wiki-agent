@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》97-1丨白起之死](sources/zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6.md) — 芮淇讲透资治通鉴 episode on Hou Ying's death, Zhu Hai's侠义 image, the Wei-Chu-Zhao relief of Handan, Bai Qi's demotion and forced suicide at 杜邮, and the double moral-political memory of Changping.
 - [《资治通鉴·周纪》96丨毛遂自荐（6）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi.md) — 芮淇讲透资治通鉴 episode completing Xinlingjun's 窃符救赵: Hou Ying's tiger-tally plan, Ru Ji's palace access, Zhu Hai's killing of Jin Bi, the Wei-Chu-Zhao relief of Handan, and the moral cost of effective rescue.
 - [《资治通鉴·周纪》96丨毛遂自荐（5）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's reputation, Hou Ying's gatekeeper/recluse identity, the "虚左" reception scene, Zhu Hai's market detour, and public humility as a test of礼贤下士.
 - [《资治通鉴·周纪》96丨毛遂自荐（4）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's aristocratic-interest logic, Li Tan's rebuke of Pingyuanjun during the Handan siege, elite burden-sharing as morale mobilization, and the Li Tan/Li Tong name-avoidance note.
@@ -1130,7 +1131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [景阳 / Jing Yang](entities/JingYang.md) — Chu general whose rescue force can cooperate against Qin only after Xinlingjun forces Wei's army into motion.
 - [如姬 / Ru Ji](entities/RuJi.md) — Wei palace insider whose gratitude to Xinlingjun and access to the king's bedroom enable the theft of the tiger tally.
-- [朱亥 / Zhu Hai](entities/ZhuHai.md) — Daliang butcher whose market conversation with Hou Ying becomes part of Xinlingjun's public humility test.
+- [朱亥 / Zhu Hai](entities/ZhuHai.md) — Daliang butcher and游侠 figure whose market conversation tests Xinlingjun and whose later violence makes 窃符救赵 work at moral cost.
 - [李谈 / Li Tan](entities/LiTan.md) — Zhao figure, also transmitted as Li Tong, whose rebuke makes Pingyuanjun convert household wealth and family labor into Handan siege defense before Li Tan dies in battle.
 - [新垣衍 / Xinyuan Yan](entities/XinyuanYan.md) — Wei envoy whose western-emperor proposal offers Zhao a surrender-like status concession after outside rescue stalls during the Handan crisis.
 - [晋鄙 / Jin Bi](entities/JinBi.md) — Wei commander sent with a rescue army for Zhao but halted at Ye after Qin threatens Wei.
@@ -1139,7 +1140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荀悦 / Xun Yue](entities/XunYue.md) — Eastern Han historian used by Zhouji 95 part 4 to criticize Yu Qing, Pingyuanjun, and Xinlingjun's friend-protection as dangerous dead-party loyalty.
 - [李白 / Li Bai](entities/LiBai.md) — Tang poet used by Zhouji 95 part 4 as the reception lens that admires Yu Qing's abandoned office and Wei Qi friendship as heroic spirit.
 - [王世贞 / Wang Shizhen](entities/WangShizhen.md) — Later reader invoked by Zhouji 95 part 4 to turn Fan Ju and Wei Qi's feud from immediate moral judgment into historical detachment.
-- [侯嬴 / Hou Ying](entities/HouYing.md) — Xinlingjun adviser who argues that Yu Qing's abandoned office and friend-protection make receiving Wei Qi a test of aristocratic reputation.
+- [侯嬴 / Hou Ying](entities/HouYing.md) — Xinlingjun adviser whose reputation tests, tiger-tally plan, and timed suicide turn retainer recognition into practical rescue and final侠义 repayment.
 - [孔斌 / Kong Bin](entities/KongBin.md) — Wei minister who warned after Changping that Qin's attack on Zhao was a structural threat to all neighboring states, not a free opportunity for Wei.
 - [司马梗 / Sima Geng](entities/SimaGeng.md) — Qin commander assigned to the Taiyuan-Shangdang route in the post-Changping pressure on Zhao.
 - [赵郝 / Zhao Hao](entities/ZhaoHao.md) — Zhao minister left in Qin to negotiate territorial-transfer details after Zhao Xiaocheng Wang's release.
@@ -1244,7 +1245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡衍 / Hu Yan (Qi Minister)](entities/HuYanQiMinister.md) — Qi remonstrant executed by Qi Min Wang after challenging his post-Song overreach.
 - [陈举 / Chen Ju (Qi Minister)](entities/ChenJuQiMinister.md) — Qi minister executed at the east gate after continuing to remonstrate against Qi Min Wang.
 - [滕国 / Teng State](entities/TengState.md) — Small Warring States polity destroyed by Song Kang Wang and framed as a Mencian benevolent-governance experiment whose fall intensified Confucian condemnation.
-- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique analysis to Chu destruction, Han route-cutting, secret Changping command, prisoner killing, and post-victory cost refusal.
+- [白起 / Bai Qi](entities/BaiQi.md) — Qin general whose arc runs from Yique analysis to Chu destruction, Han route-cutting, secret Changping command, prisoner killing, post-victory cost refusal, and forced suicide at 杜邮.
 - [伊阙之战 / Battle of Yique](entities/YiqueBattle.md) — 293 BCE Qin victory where Bai Qi defeats the Han-Wei coalition and captures Gongsun Xi.
 - [公孙喜 / Gongsun Xi](entities/GongsunXiWarringStates.md) — Han-Wei coalition commander captured after Bai Qi's Yique campaign, with source wording split between Han and Wei affiliation.
 - [范雎 / Fan Ju](entities/FanJu.md) — Wei-to-Qin strategist whose protected remonstrance, 远交近攻, coalition sabotage, and Changping rumor operation advance Qin pressure.
@@ -1336,7 +1337,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏襄王 / King Xiang of Wei](entities/WeiXiangwang.md) — Liang Hui Wang's successor and Mencius's interlocutor for the claim that a ruler who does not love killing can unify the realm.
 - [周赧王 / Zhou Nan Wang](entities/ZhouNanwang.md) — Zhou ruler whose first seventeen years complete the 320-298 BCE 周纪三 frame after Zhou Shenliang Wang.
 - [平原君 / Lord Pingyuan](entities/Pingyuanjun.md) — Zhao aristocrat and Four Lords figure whose household becomes a repeated crisis channel, from Shangdang and Mao Sui to Li Tan's Handan burden-sharing rebuke.
-- [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei member of the Warring States Four Lords, enfeoffed by Wei Anxi Wang as Qin pressure on Wei intensifies.
+- [信陵君 / Lord Xinling](entities/Xinlingjun.md) — Wei Warring States Four Lords figure whose patronage network enables 窃符救赵, relieving Handan while leaving Jin Bi's death as moral cost.
 - [春申君 / 黄歇 / Lord Chunshen](entities/Chunshenjun.md) — Chu diplomat and Warring States Four Lords member whose Zhouji 84 letter persuades Qin to halt Bai Qi by reframing Chu survival as Qin's interest.
 - [公孙须 / Gongsun Xu](entities/GongsunXu.md) — Mengchang Jun retainer whose ivory-bed advice works despite a private reward motive.
 - [邓图直 / Deng Tuzhi](entities/DengTuzhi.md) — Chu-side transport assignee whose fear of damaging the ivory bed triggers Gongsun Xu's remonstrance.
@@ -7394,6 +7395,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Duyou Sword / 杜邮剑](concepts/DuyouSword.md) — Cultural allusion from Bai Qi's forced suicide at 杜邮, linking功臣 exit failure, ruler suspicion, command refusal, and the moral memory of Changping.
 - [Moral Cost of Effective Rescue / 成事的道德代价](concepts/MoralCostOfEffectiveRescue.md) — Ethical frame for successful emergency action that saves a state while killing a duty-bound or innocent obstacle.
 - [Stealing Tiger Tallies to Rescue Zhao / 窃符救赵](concepts/StealingTigerTalliesToRescueZhao.md) — Xinlingjun's irregular rescue sequence using stolen command credentials, palace access, retainer violence, and allied coordination to break Qin's pressure on Handan.
 - [Tiger Tally Command System / 虎符调兵制度](concepts/TigerTallyCommandSystem.md) — Split military credential mechanism where matching ruler and commander halves authenticate orders but still leave room for field resistance and coercion.
@@ -7517,7 +7519,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dual Executive Power Risk / 双首长权力风险](concepts/DualExecutivePowerRisk.md) — Governance risk where two top executives become rival power centers, while one unchecked executive can also become a monopoly problem.
 - [Retainer Risk Conversion / 门客风险转化](concepts/RetainerRiskConversion.md) — Mengchang Jun pattern where a household-scandal retainer is separated with dignity and turned into outside diplomatic leverage.
 - [Content-Over-Motive Remonstrance / 只问对错不问动机的纳谏](concepts/ContentOverMotiveRemonstrance.md) — Mengchang Jun advice-taking principle that evaluates correction by whether it prevents a real fault even when the speaker has private motives.
-- [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Mengchangjun's Xue-based retainer system, now balanced between dignity-based attraction, private-network risk, and Wang Anshi's quality critique.
+- [Warring States Retainer Patronage / 战国养士](concepts/WarringStatesRetainerPatronage.md) — Retainer system spanning dignity-based attraction, private-network risk, quality critique, irregular state action, and侠义 afterlife.
 - [Fief Security Illusion / 封地筑城安全幻觉](concepts/FiefSecurityIllusion.md) — Tian Ying's Xue wall-building case showing that a local fief cannot replace the larger state platform that protects a minister.
 - [Birth Taboo Succession Exclusion / 出生日禁忌与继承排斥](concepts/BirthTabooSuccessionExclusion.md) — Tian Wen's May-fifth birth and low-status maternal line as filters that almost remove him from Tian Ying's household before rhetorical recognition becomes possible.
 - [High-Status Law-Enforcement Signal / 高位执法信号](concepts/HighStatusLawEnforcementSignal.md) — Shang Yang reform pattern where punishment near the prince makes the new law visibly credible among high-status insiders.

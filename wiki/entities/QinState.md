@@ -126,6 +126,8 @@ last_updated: 2026-08-21
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]] shows Qin using intimidation to keep that allied-rescue risk from materializing. [[MaoSui|毛遂]] secures [[ChuState|楚国]]'s commitment to aid Zhao, but Qin's warning makes [[WeiAnxiWang|魏安釐王]] halt [[JinBi|晋鄙]] at [[YeWarringStates|邺城]], which also blocks the likely route for Chu relief. Qin's pressure then appears as hierarchy as well as siege: [[XinyuanYan|新垣衍]] proposes that Zhao and Wei honor [[QinZhaoxiangwang|秦昭襄王]] as western emperor to buy withdrawal.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records the failure of that intimidation once [[Xinlingjun|信陵君]] forces Wei's army into motion and Chu aid joins the field. Qin's continued Handan pressure now produces battlefield losses, repeated aid requests from [[WangHe|王龁]], and a court crisis around [[BaiQi|白起]], whose warning against the campaign looks correct after the fact. The episode makes Qin's post-Changping position less like unstoppable conquest than a stressed war machine whose ruler cannot tolerate a famous commander saying the failed campaign was predictable.
+
 秦国 / Qin State appears in [[zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-2-lmfzo4sl9nd5kz3mrxdl1dl9efei]] through [[QinYing|秦嬴]], whom the episode explains as a Qin princess by name pattern rather than as someone surnamed Qin. The source also uses Qin-Jin intermarriage to explain the idiom "秦晋之好."
 
 This page is source-scoped and mainly supports the episode's kinship and assassination-attribution example. It connects backward to [[JinState|晋国]] and forward to the wiki's existing Qin-related material through [[QinShiHuang|秦始皇]].
@@ -201,6 +203,7 @@ This page is source-scoped and mainly supports the episode's kinship and assassi
 - [[Pingyuanjun|平原君]], [[WeiQiWarringStates|魏齐]], [[HouYing|侯嬴]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[PersonalRevengeThroughStatePower|以国力行私仇]] - Zhouji 95 part 3 hostage/revenge channel.
 - [[WangLing|王陵]], [[WangHe|王龁]], [[BaiQi|白起]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 96 failed Handan pressure and command refusal.
 - [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 Qin intimidation of relief routes and western-emperor appeasement proposal.
+- [[DuyouSword|杜邮剑]], [[Xinlingjun|信陵君]], [[FanJu|范雎]], and [[QinZhaoxiangwang|秦昭襄王]] - Zhouji 97 part 1 failed Handan pressure and Bai Qi's forced death.
 - [[JinState|晋国]] - marriage-alliance counterpart.
 - [[QinShiHuang|秦始皇]] - existing later Qin page in the wiki.
 - [[QinJianGong|秦简公]], [[QinHuiGong|秦惠公]], and [[WeiState|魏国]] - episode 07 succession and war branch.

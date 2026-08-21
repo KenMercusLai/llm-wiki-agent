@@ -44,6 +44,8 @@ The same source has Bai Qi favor rapid exploitation despite Qin's losses. He ord
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] vindicates Bai Qi's warning from the rear. After [[Xinlingjun|信陵君]] activates the stopped Wei army and the anti-Qin coalition breaks the Handan siege, Bai Qi says Qin's defeat followed because the king had not listened to him. The remark reaches Qin Zhaoxiang Wang, who becomes angry and again tries to force Bai Qi to go out, while Bai Qi continues to claim illness. This sets up the next stage of Bai Qi's conflict with the ruler: his strategic caution now looks correct but politically intolerable.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] closes that conflict. [[QinZhaoxiangwang|秦昭襄王]] strips Bai Qi of office and title, demotes him to common soldier status, orders him to 阴密, and finally sends a sword when Bai Qi reaches 杜邮. The episode makes the ending double-sided: Bai Qi's refusal was strategically vindicated by Qin's defeat at [[Handan|邯郸]], but his repeated resistance and resentful comments made him politically unusable to the king. At death, Bai Qi himself turns back to the [[ChangpingBattle|长平之战]] killing of surrendered Zhao troops and judges that this alone makes him deserve death, linking his endpoint to [[DuyouSword|杜邮剑]], [[SurrenderedPrisonerSecurityDilemma|杀降安全困境]], and [[WarringStatesWarBrutalization|战国战争残酷化]] rather than only to unfair court disposal.
+
 ## Connections
 - [[YiqueBattle|伊阙之战]] - battle that makes him famous in this episode.
 - [[QinZhaoxiangwang|秦昭襄王]], [[WeiRan|魏冉]], and [[QinState|秦国]] - ruler, patron/recommender, and state context.
@@ -63,3 +65,4 @@ The same source has Bai Qi favor rapid exploitation despite Qin's losses. He ord
 - [[KongBin|孔斌]], [[WeiAnxiWang|魏安釐王]], [[FarmingWarStatecraft|耕战逻辑]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 Bai Qi's reputation as warning to Wei.
 - [[WangLing|王陵]], [[WangHe|王龁]], [[Handan|邯郸]], [[FanJu|范雎]], [[WarCostTempoDiscipline|战争成本与速决纪律]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 refusal, replacement pressure, operational reach, and reputation-over-command logic.
 - [[Xinlingjun|信陵君]], [[ZhengAnping|郑安平]], [[WangHe|王龁]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 96 part 6 allied success that validates Bai Qi's refusal and intensifies Qin court pressure.
+- [[DuyouSword|杜邮剑]], [[FanJu|范雎]], [[QinZhaoxiangwang|秦昭襄王]], [[ChangpingBattle|长平之战]], and [[PowerExitTrap|权力退场困境]] - Zhouji 97 part 1 forced suicide, court danger, and moral reckoning.

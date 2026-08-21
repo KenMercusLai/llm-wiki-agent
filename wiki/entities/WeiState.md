@@ -114,6 +114,8 @@ In this page, Wei is not yet a full institutional history. Its wiki role is to h
 
 The same source makes [[XinyuanYan|新垣衍]] a Wei envoy inside Zhao's crisis. His proposal to honor [[QinZhaoxiangwang|秦昭襄王]] as western emperor shows Wei converting from military relief to [[SubmissionThroughStatusElevation|status-submission]] bargaining once direct rescue looks too dangerous.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records the reversal once [[Xinlingjun|信陵君]] bypasses that royal hesitation. Wei's army becomes the key moving force in the relief of [[Handan|邯郸]], and the episode treats the success as preserving [[ZhaoState|赵国]] as a barrier that also protects Wei from immediate Qin domination. This addition keeps Wei's role double: the Wei king freezes under Qin pressure, but a Wei aristocrat's retainer network turns Wei's stalled army into the practical solution.
+
 ## Connections
 - [[WeiWenhou|魏文侯]] - ruler named in the episode title.
 - [[TalentAttractionThroughRespect]], [[SmallTrustBuildsLargeTrust]], [[SymmetricInterstateCredibility]], and [[RenhePoliticalPower]] - Zhouji 05 explanation of Wei Wenhou's early prestige.
@@ -167,3 +169,4 @@ The same source makes [[XinyuanYan|新垣衍]] a Wei envoy inside Zhao's crisis.
 - [[WeiAnxiWang|魏安釐王]], [[KongBin|孔斌]], [[BaiQi|白起]], [[QinState|秦国]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 95 part 2 neighbor-opportunism warning during Qin's attack on Zhao.
 - [[Pingyuanjun|平原君]], [[MaoSui|毛遂]], [[QiState|齐国]], [[ChuState|楚国]], and [[Handan|邯郸]] - Zhouji 96 unreliable nearby rescue option during Zhao's Handan crisis.
 - [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 halted rescue and western-emperor proposal.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 97 part 1 Wei army finally relieving Handan through irregular command seizure.

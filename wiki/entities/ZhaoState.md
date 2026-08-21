@@ -112,6 +112,8 @@ The same source introduces [[XinyuanYan|新垣衍]]'s proposal that Zhao and Wei
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] adds the internal mobilization layer of the same crisis. Zhao still waits for Wei and Chu relief, but [[Handan|邯郸]] is starving and weapon-poor enough that [[LiTan|李谈 / 李同]] rebukes [[Pingyuanjun|平原君]] for preserving noble household comfort while commoners and soldiers bear the siege. Pingyuanjun's decision to distribute wealth and put his household into the army makes Zhao's survival depend not only on hezong diplomacy, but on [[EliteCrisisBurdenSharing|elite burden sharing]] inside the capital.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records the outside rescue finally becoming effective. [[Xinlingjun|信陵君]]'s seizure of Wei command and Chu's participation help break Qin's pressure on [[Handan|邯郸]], preserving Zhao as the major eastern shield against [[QinState|秦国]]. The episode's strategic reading is explicitly counterfactual in tone: because Zhao survives this moment, Qin's eventual swallowing of the six states is pushed back by decades rather than becoming immediate after [[ChangpingBattle|长平之战]].
+
 ## Connections
 - [[ZhaoLiehou|赵烈侯]] and [[ZhaoWuhou|赵武侯]] - succession pair in the source.
 - [[ZhaoXiangzi|赵襄子]], [[YuRang|豫让]], [[DaiState|代国]], [[ZhaoHuanzi|赵桓子]], and [[ZhaoXianzi|赵献子]] - Zhouji 04 pre-recognition and succession branch.
@@ -161,3 +163,4 @@ The same source introduces [[XinyuanYan|新垣衍]]'s proposal that Zhao and Wei
 - [[LiTan|李谈 / 李同]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[Handan|邯郸]] - Zhouji 96 part 4 internal siege mobilization.
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], [[WeiState|魏国]], and [[QiState|齐国]] - Zhouji 96 emergency Chu mission after nearby rescue options prove unreliable.
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 blocked relief and surrender-like status proposal.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[DuyouSword|杜邮剑]], and [[HezongAlliance|合纵]] - Zhouji 97 part 1 successful relief and Qin aftershock.

@@ -28,6 +28,8 @@ The same source backfills why Xinlingjun's relationship with [[HouYing|侯嬴]] 
 
 The rescue makes Xinlingjun the central Wei actor in breaking Qin's pressure on Zhao. After Zhu Hai kills Jin Bi, Xinlingjun takes the army, releases soldiers with direct family obligations, coordinates with Chu, defeats Qin with the allied forces, and becomes famous enough that [[ZhaoDan|赵丹 / 赵孝成王]] and [[Pingyuanjun|平原君]] greet him at the border. The same episode also marks his ethical problem: saving Zhao is not morally clean because Jin Bi is killed while doing what a field commander could reasonably see as his duty.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the immediate retrospective weight of Xinlingjun's success. [[HouYing|侯嬴]] completes his own promise by killing himself when Xinlingjun reaches the army, while the episode evaluates the rescue as preserving [[ZhaoState|赵国]] as the key barrier against Qin. The host's larger claim is that Xinlingjun's successful relief of Handan delayed Qin's swallowing of the six states by roughly forty years; this page preserves that as the episode's strategic reading, adjacent to the already recorded [[MoralCostOfEffectiveRescue|moral cost]] of Jin Bi's death.
+
 ## Connections
 - [[WarringStatesFourLords|战国四公子]] - grouping in which the source names him.
 - [[Mengchangjun|孟尝君 / 田文]], [[Pingyuanjun|平原君]], and [[Chunshenjun|春申君]] - other named members.
@@ -38,3 +40,4 @@ The rescue makes Xinlingjun the central Wei actor in breaking Qin's pressure on 
 - [[XunYue|荀悦]], [[LiBai|李白]], [[RetainerReciprocityEthic|士为知己者死]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 reception and critique of dangerous guest-recognition.
 - [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Daliang|大梁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[ConfucianLowOfficeReclusion|儒家低职隐居]] - Zhouji 96 part 5 backfilled patronage-reputation scene.
 - [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 rescue success and ethical cost.
+- [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[Handan|邯郸]], [[ZhaoState|赵国]], and [[QinState|秦国]] - Zhouji 97 part 1 rescue aftermath and strategic significance.

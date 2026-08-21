@@ -16,11 +16,14 @@ The action succeeds politically and militarily. Xinlingjun takes the Wei army, f
 
 The same success carries an ethical problem. Jin Bi is not treated as a villain in the episode; he is a commander suspicious of an irregular transfer of authority. His death makes the story an example of [[MoralCostOfEffectiveRescue|成事的道德代价]], where a necessary or effective rescue action still leaves an officer loyal to duty dead.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the action's immediate historical weight and afterlife. [[HouYing|侯嬴]] completes his role by killing himself when Xinlingjun reaches the army, [[ZhuHai|朱亥]] is interpreted through游侠 ethics, and the relief of [[Handan|邯郸]] is treated as preserving Zhao as the main barrier against Qin. The concept therefore now covers both the operational command seizure and the episode's claim that the action helped delay Qin's final conquest of the six states.
+
 ## Key Claims
 - Private heroics become consequential only when they are converted into command over real troops.
 - A successful rescue can depend on violating the normal chain of authority when the ruler is paralyzed.
 - The plan is multi-channel: aristocratic reputation, retainer advice, palace access, command credential, and violence all have to align.
 - The episode refuses a clean heroic reading because Jin Bi's killing makes the successful action morally compromised.
+- Its later significance depends on both strategic outcome and memory work: Hou Ying and Zhu Hai are elevated as侠义 figures while Jin Bi's death remains the ethical limit.
 
 ## Connections
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[RuJi|如姬]], [[ZhuHai|朱亥]], and [[JinBi|晋鄙]] - core action chain.
@@ -28,3 +31,4 @@ The same success carries an ethical problem. Jin Bi is not treated as a villain 
 - [[WeiAnxiWang|魏安釐王]], [[WeiState|魏国]], [[ZhaoState|赵国]], [[Handan|邯郸]], and [[QinState|秦国]] - crisis setting.
 - [[JingYang|景阳]], [[ChuState|楚国]], [[HanState|韩国]], [[HezongAlliance|合纵]], and [[CoalitionTransitDependency|联盟救援借道依赖]] - coalition mechanics and outcome.
 - [[MoralCostOfEffectiveRescue|成事的道德代价]], [[AristocraticHonorOverLife|贵族名誉高于生命]], and [[WarringStatesRetainerPatronage|战国养士]] - ethical and social frames.
+- [[DuyouSword|杜邮剑]], [[BaiQi|白起]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 97 part 1 Qin aftershock produced by the successful relief.

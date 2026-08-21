@@ -86,6 +86,8 @@ The episode says Chu Sheng Wang was killed by "bandits," then treats that wordin
 
 The source then immediately limits Chu's rescue capacity. Chu does not border Zhao, so aid to [[Handan|邯郸]] depends on passage through [[WeiState|魏国]]; when [[JinBi|晋鄙]] stops at [[YeWarringStates|邺城]], the episode turns Chu from willing ally into distant ally constrained by [[CoalitionTransitDependency|transit dependency]].
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] records the practical release of that constraint after [[Xinlingjun|信陵君]] seizes Wei command. Once Wei's army moves, Chu's aid can contribute to the relief of [[Handan|邯郸]], making Chu part of the working anti-Qin coalition rather than only a pledged but blocked ally. The episode's strategic reading treats this as one reason Zhao survives as a barrier against [[QinState|秦国]].
+
 ## Connections
 - [[ChuShengWang|楚声王]] and [[ChuDaoWang|楚悼王]] - ruler pair in the source.
 - [[BanditAssassinationAttribution]] - concept attached to Chu Sheng Wang's death.
@@ -124,3 +126,4 @@ The source then immediately limits Chu's rescue capacity. Chu does not border Zh
 - [[QinState|秦国]] - Zhouji 93 first-year Chu Kaolie Wang land cession.
 - [[Pingyuanjun|平原君]], [[MaoSui|毛遂]], [[ZhaoState|赵国]], [[Handan|邯郸]], and [[HezongAlliance|合纵]] - Zhouji 96 requested rescue mission and successful court commitment during Qin's siege of Handan.
 - [[MiWan|楚考烈王]], [[DignityBasedPersuasion|尊严激将式说服]], [[CoalitionTransitDependency|联盟救援借道依赖]], [[WeiState|魏国]], and [[JinBi|晋鄙]] - Zhouji 96 part 2 court persuasion and route constraint.
+- [[Xinlingjun|信陵君]], [[Handan|邯郸]], [[ZhaoState|赵国]], [[WeiState|魏国]], and [[HezongAlliance|合纵]] - Zhouji 97 part 1 Chu aid becoming operational after Wei's army moves.

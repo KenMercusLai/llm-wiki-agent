@@ -16,6 +16,8 @@ The concept's key move is proportional reciprocity: exceptional recognition crea
 
 This extension also shows the tension between reciprocity and office duty. [[LiBai|李白]] can admire the repayment as spirit, but [[XunYue|荀悦]] criticizes it as [[DeathPartyLoyalty|死党之义与守职奉上]] when private recognition defeats public responsibility.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds [[HouYing|侯嬴]] as a recognition-without-reward version of the same ethic. Hou Ying is not pursuing office, money, or survival; after [[Xinlingjun|信陵君]] has recognized and trusted him, he times his suicide to Xinlingjun's arrival at [[JinBi|晋鄙]]'s army and dies facing north. The episode makes this a cleaner侠义 case than the politically tangled Yu Qing / Wei Qi branch because Hou Ying's death is framed as repayment for being understood rather than as office abandonment during a state crisis.
+
 [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] adds a less violent but broader patronage setting through [[Mengchangjun|孟尝君 / 田文]]. Mengchang Jun's养士 works because food, lodging, money, and family support are paired with礼数 and dignity protection. The episode implies that material support becomes politically powerful when retainers experience it as recognition rather than mere charity.
 
 [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds a problematic reciprocity case. A retainer who has an affair with Mengchang Jun's wife is not killed; Mengchang Jun later sends him to [[WeyState|卫国]] with resources and access. The retainer's later argument against a Wey attack on [[QiState|齐国]] shows how preserved dignity and opportunity can still produce obligation, even after serious personal misconduct.
@@ -34,6 +36,7 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - Retainer duty can become public revenge mobilization when a ruler's violent death is treated as a subject's shame.
 - Zhouji 95 part 4 adds trust-as-recognition: even a first encounter can create repayment pressure when a fugitive entrusts life and reputation to another士.
 - The concept has a state-order limit: reciprocity becomes suspect when it overrides office and public duty.
+- Hou Ying adds a non-careerist form: recognition can create death-level repayment even when the retainer has no apparent material interest or office ambition.
 
 ## Connections
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[ZhaoXiangzi|赵襄子]] - source case.
@@ -44,3 +47,4 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - [[PoliticalAssassinationEthics]] and [[SpringAutumnToWarringStatesPoliticalViolence]] - adjacent political-violence frames.
 - [[WangSunGu|王孙古]], [[QiMinWang|齐湣王]], [[ZhuoChi|淖齿 / 卓齿]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 subject-duty revenge branch.
 - [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[LiBai|李白]], [[XunYue|荀悦]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 trust, repayment, admiration, and critique.
+- [[HouYing|侯嬴]], [[Xinlingjun|信陵君]], [[ZhuHai|朱亥]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 1 timed suicide and侠义 closure.

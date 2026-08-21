@@ -38,6 +38,8 @@ This adds a positive reputation-production branch to retainer patronage. A large
 
 The same source also exposes the ethical risk. Retainer patronage supplies the people who can bypass [[WeiAnxiWang|魏安釐王]] and save [[ZhaoState|赵国]], but it also supplies the violence that kills [[JinBi|晋鄙]]. The network's effectiveness therefore sits beside [[MoralCostOfEffectiveRescue|moral cost]], not outside it.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] adds the after-action moral styling of that same network. [[HouYing|侯嬴]]'s timed suicide turns patronage recognition into [[RetainerReciprocityEthic|士为知己者死]], while [[ZhuHai|朱亥]] is described as a典型游侠 whose low-status market identity did not prevent death-level commitment. The concept therefore now includes not only how retainer networks execute state action, but how their participants are remembered through侠义 after the action succeeds.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -53,6 +55,7 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - Zhouji 96 adds a talent-discovery failure mode: a patron can maintain a large household yet still overlook quiet ability until the retainer self-nominates.
 - Zhouji 96 part 5 adds a reputation-production mode: public humility toward a low-status worthy can make a patronage network more credible than gifts alone.
 - Zhouji 96 part 6 adds an execution mode: a patronage network can convert private obligation and low-status retainers into emergency state action, while also bypassing public command order.
+- Zhouji 97 part 1 adds an afterlife mode: patronage actors can become侠义 exemplars once their loyalty and violence are interpreted after the political result.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -70,3 +73,4 @@ The same source also exposes the ethical risk. Retainer patronage supplies the p
 - [[DignityBasedPersuasion|尊严激将式说服]] and [[HezongAlliance|合纵]] - Mao Sui's specific diplomatic value once selected.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 public respect and recluse recruitment branch.
 - [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 network execution and ethical risk.
+- [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[RetainerReciprocityEthic|士为知己者死]], and [[Xinlingjun|信陵君]] - Zhouji 97 part 1侠义 afterlife of the rescue network.

@@ -24,6 +24,8 @@ Hou Ying therefore now has two connected wiki functions. In Zhouji 95 he judges 
 
 This source sharply raises Hou Ying's political-intelligence profile. He knows where the tally is kept, who can reach it, why Ru Ji is willing to help, and why field command may still require violence. The same intelligence also carries moral exposure: his plan saves [[ZhaoState|赵国]], but it prepares the killing that makes [[StealingTigerTalliesToRescueZhao|窃符救赵]] ethically compromised.
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] closes Hou Ying's arc with the promised death that had been deferred by the operational plan. He says he is too old to accompany [[Xinlingjun|信陵君]], calculates the likely travel time to Jin Bi's camp, and kills himself facing north when Xinlingjun should have arrived. The episode reads this as a pure act of [[RetainerReciprocityEthic|士为知己者死]]: Hou Ying is not bought, tricked, or seeking reward, but turns recognition into a final "义" act.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - patron whose hesitation Hou Ying challenges.
 - [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]] - fugitive guests whose reception he argues for.
@@ -31,3 +33,4 @@ This source sharply raises Hou Ying's political-intelligence profile. He knows w
 - [[WarringStatesRetainerPatronage|战国养士]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts clarified by his reputation-based argument.
 - [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 origin scene and patronage test.
 - [[RuJi|如姬]], [[TigerTallyCommandSystem|虎符调兵制度]], [[JinBi|晋鄙]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 practical rescue design and violent contingency.
+- [[RetainerReciprocityEthic|士为知己者死]], [[Xinlingjun|信陵君]], [[Daliang|大梁]], and [[Handan|邯郸]] - Zhouji 97 part 1 timed suicide and final recognition act.

@@ -9015,3 +9015,11 @@ Added source page for the sixth Mao Sui/Xinlingjun installment: Pingyuanjun's pr
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》97-1丨白起之死
+
+Added source page for the first Zhouji 97 installment: Hou Ying's timed suicide, Zhu Hai's游侠 framing, Wei-Chu-Zhao relief of Handan, Qin's failed insistence on continuing the campaign, Bai Qi's demotion and forced suicide at 杜邮, and the moral return of the Changping prisoner killing. Created Duyou Sword; updated overview, index, Bai Qi, Qin Zhaoxiang Wang, Fan Ju, Hou Ying, Zhu Hai, Xinlingjun, Handan, Qin/Zhao/Wei/Chu state pages, War Cost Tempo Discipline, Surrendered Prisoner Security Dilemma, Post-Battle Terror Signaling, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Moral Cost of Effective Rescue, Stealing Tiger Tallies to Rescue Zhao, and Warring States War Brutalization. No direct contradiction found; the forty-year delay claim, casualty totals, Liang Qichao death-share calculation, and the unfinished "大力揽权" transition are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran health before lint; health scanned 12,271 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,271 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,271 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

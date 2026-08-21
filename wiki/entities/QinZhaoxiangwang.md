@@ -84,6 +84,8 @@ The exchange does not become peace. Zhao eventually sends Wei Qi's head and reco
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech]] shows his pressure working on the rescuers even while [[MaoSui|毛遂]] wins [[ChuState|楚国]]'s commitment. Qin Zhaoxiang Wang warns [[WeiAnxiWang|魏安釐王]] that after Qin destroys Zhao it will turn on Wei, and that threat makes [[JinBi|晋鄙]] stop at [[YeWarringStates|邺城]]. The same episode then makes him the object of [[XinyuanYan|新垣衍]]'s proposed title elevation: Zhao and Wei might honor him as western emperor to induce Qin withdrawal from [[Handan|邯郸]].
 
+[[zizhi-tongjian-zhouji-97-1-baiqi-zhisi-lrqoq1sbxljbvuayq3o1hxebxhu6]] gives the hard endpoint of that Handan failure. Once Wei and Chu relief help Zhao survive, Qin Zhaoxiang Wang's earlier insistence on continuing the campaign turns into anger at [[BaiQi|白起]], whose warnings now look correct but whose refusal and complaints undermine royal authority. The king first strips Bai Qi of rank and orders him away, then accepts [[FanJu|范雎]]'s warning that Bai Qi is resentful and sends the sword at 杜邮. The episode therefore adds [[DuyouSword|杜邮剑]] to Qin Zhaoxiang Wang's page as a ruler's choice to remove a功臣 who has become strategically right, politically defiant, and dangerous to leave alive.
+
 ## Connections
 - [[QinWuwang|秦武王]] - predecessor whose sudden death opens the succession.
 - [[XuanTaihou|芈八子 / 宣太后]] - mother named in the episode.
@@ -121,3 +123,4 @@ The exchange does not become peace. Zhao eventually sends Wei Qi's head and reco
 - [[Pingyuanjun|平原君]], [[HouYing|侯嬴]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], [[WangLing|王陵]], and [[Handan|邯郸]] - Zhouji 95 part 3 detention, revenge demand, and continued attack after the exchange.
 - [[WangHe|王龁]], [[BaiQi|白起]], [[FanJu|范雎]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 96 failed attempt to compel Bai Qi into the Handan command.
 - [[WeiAnxiWang|魏安釐王]], [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 threat against Wei and proposed western-emperor title.
+- [[DuyouSword|杜邮剑]], [[BaiQi|白起]], [[FanJu|范雎]], [[Handan|邯郸]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhouji 97 part 1 failed campaign, command defiance, and forced suicide.
