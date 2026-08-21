@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！](sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l.md) — 芮淇讲透资治通鉴 episode on the 213 BCE Qin book-burning order, Chunyu Yue's revived enfeoffment argument, Li Si's official-learning logic, exceptions and penalties, cultural loss, and Kong Fu's hidden-book counterexample.
 - [《资治通鉴·秦纪》123-2｜古代时期的“倒插门”到底有多危险](sources/zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy.md) — 芮淇讲透资治通鉴 episode on Qin's 214 BCE southern Baiyue campaign, status-based conscription of fugitives/赘婿/merchants, post-unification war inertia from Qin's military-merit order, Lingnan commandery setup, Meng Tian's Xiongnu campaign, and Zhang Liang's Huangshi Gong encounter.
 - [《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？](sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8.md) — 芮淇讲透资治通鉴 episode on Zhang Liang's Bolangsha assassination attempt, Qin Shi Huang's continued eastern tours and Jieshi immortal search, wall/levee removal as centralization, Lu Sheng's "亡秦者胡," and Meng Tian's northern campaign trigger.
 - [《资治通鉴·秦纪》122-3｜秦始皇竟和神仙撕起来了！](sources/zizhi-tongjian-qinji-122-3-qinshihuang-jing-he-shenxian-si-qilai-le-ljnw5estg6dvgfllm3kfcq6ulhxu.md) — 芮淇讲透资治通鉴 episode on Qin Shi Huang's post-Langya return route, failed Pengcheng/Xuzhou Jiuding search, Xiangshan wind obstruction, Xiangjun, possible Huangdi route imitation, and Zhang Liang's anti-Qin revenge setup.
@@ -1193,6 +1194,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [淳于越 / Chunyu Yue](entities/ChunyuYue.md) — Qi-born Qin court scholar whose revived enfeoffment argument triggers Li Si's book-burning proposal.
+- [孔鲋 / Kong Fu](entities/KongFu.md) — Confucius descendant who hides books after Qin's book-burning order and later serves Chen Sheng's rebel regime as博士.
+- [陈馀 / Chen Yu](entities/ChenYu.md) — Figure who checks on Kong Fu after the book-burning order and later helps connect him to Chen Sheng's regime.
+- [陈胜 / Chen Sheng](entities/ChenSheng.md) — Anti-Qin rebel figure whose uprising opens the political turn that lets Kong Fu emerge from hidden-book preservation.
+- [吴广 / Wu Guang](entities/WuGuang.md) — Paired Chen Sheng uprising figure named as part of the turn after Qin's book-burning policy.
+- [《尚书》 / Shangshu](entities/Shangshu.md) — Classic named with Shijing as a private-text target under Qin's book-burning order.
 - [桂林郡 / Guilin Commandery](entities/GuilinCommandery.md) — Qin southern commandery created after the 214 BCE Baiyue campaign, located source-scopingly around today's Guangxi.
 - [南海郡 / Nanhai Commandery](entities/NanhaiCommandery.md) — Qin southern commandery located source-scopingly around today's Guangdong after the Baiyue campaign.
 - [象郡 / Xiang Commandery](entities/XiangCommandery.md) — Qin southern commandery tied to the deeper Lingnan frontier after Baiyue conquest and convict migration.
@@ -7633,6 +7640,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [秦代焚书令 / Qin Book-Burning Policy](concepts/QinBookBurningPolicy.md) — Qinji 124 frame for the 213 BCE policy targeting private histories and classics while leaving official and practical exceptions.
+- [学在王官式知识垄断 / Official Learning Monopoly](concepts/OfficialLearningMonopoly.md) — Qinji 124 frame for moving legitimate learning and law study into official channels while suppressing private teaching.
 - [Post-Unification War Inertia / 统一后战争惯性](concepts/PostUnificationWarInertia.md) — Qinji 123-2 frame for why Qin kept launching campaigns after unification because war rewards, status, and social expectations had become institutionalized.
 - [Marginal-Status Conscription / 边缘身份征发](concepts/MarginalStatusConscription.md) — Qinji 123-2 pattern where fugitives, 赘婿, and merchants are prioritized for dangerous campaign labor because of low or unstable social status.
 - [Prophecy-Triggered Policy / 预言触发政策](concepts/ProphecyTriggeredPolicy.md) — Pattern where "亡秦者胡" becomes a decision frame for Qin frontier policy and later a hindsight reinterpretation through Hu Hai.

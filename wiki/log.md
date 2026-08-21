@@ -9539,3 +9539,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！
+
+Added source page for Qinji 124: the 213 BCE book-burning order after Chunyu Yue's revived enfeoffment argument, Li Si's Legalist response, the targeted scope and exceptions of the order, penalties for private classical discussion and hidden books, official legal learning, cultural loss around six-state histories, and Kong Fu's hidden-book counterexample before the Chen Sheng/Wu Guang turn. Created Chunyu Yue, Kong Fu, Chen Yu, Chen Sheng, Wu Guang, Shangshu, Qin Book-Burning Policy, and Official Learning Monopoly; updated overview, index, Qin Shi Huang, Qin State, Li Si, Commandery-County Anti-Enfeoffment Settlement, Imperial Homogenization, Legalist Ruler Technique, Knowledge Monopoly, and Shijing. No settled contradiction found; the source explicitly separates "焚书" from the later "坑儒" branch and keeps the title's "平反" stance as source-scoped interpretation.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

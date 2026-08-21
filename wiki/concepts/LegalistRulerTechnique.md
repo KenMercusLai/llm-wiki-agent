@@ -2,7 +2,7 @@
 title: "Legalist Ruler Technique / 法家君术"
 type: concept
 tags: [political-theory, legalism, governance, pre-qin-history]
-sources: [zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
+sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq, zizhi-tongjian-qinji-112-2-qinshihuang-yeshi-tade-shumi-llkoy-zvhjjr6af9tflcw1xvogwz, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v, zizhi-tongjian-zhouji-13-gongsunyang-keke-bianfa-re-shashen-1-lgmjapc2eecefbdshnpenzfcv6ga, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-2-lvaqlgyccrugfo0l-wuwf1mt1kcm]
 last_updated: 2026-08-22
 ---
 
@@ -32,6 +32,8 @@ The concept is deliberately cold. It separates political effectiveness from conv
 
 [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq]] adds the imperial-symbolic endpoint. The episode ties Qin's law language to water virtue: water is "level," so law can be described as fair and equal, but the host immediately marks the exception that [[QinShiHuang|嬴政 / 秦始皇]] stands above the law. The same water-phase frame then turns yin, punishment, and harsh law into part of Qin's [[ImperialSymbolicStandardization|帝国符号标准化]].
 
+[[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] adds Li Si's post-unification knowledge-control application. In the host's reading, Li Si's argument is Legalist because it treats competing teachings and private classical judgment as threats to centrally issued law and ruler authority. The resulting [[QinBookBurningPolicy|秦代焚书令]] is not only censorship; it is a ruler-technique answer to what counts as valid learning, valid criticism, and valid law after unification.
+
 ## Key Claims
 - Ruler competence is measured through control of people, information, and speech.
 - Personal vice does not automatically imply political collapse in this frame.
@@ -46,6 +48,7 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - Zhouji 88 adds the procedural boundary: Legalist-style order can still fail as law if private suspicion and elite anger replace investigation.
 - Qinji 112-2 adds a failed-reception boundary: Han Fei's Legalist advice and writings can impress Ying Zheng, but they first fail to move Han's own ruler.
 - Qinji 120-2 adds the imperial exception boundary: law can be presented as level and fair while still placing the emperor outside the legal plane.
+- Qinji 124 adds knowledge control as ruler technique: private teachings and classics become governability risks when they compete with central law.
 
 ## Connections
 - [[HanFei|韩非]] - textual and philosophical source for the episode's frame.
@@ -63,3 +66,4 @@ The concept is deliberately cold. It separates political effectiveness from conv
 - [[VirtueOverNaturalBarriers]] and [[WangdaoVsBadao]] - contrasting legitimacy and benevolent-rule frames.
 - [[WarringStatesPeriod|战国时期]] - competitive setting where ruler technique becomes politically salient.
 - [[zizhi-tongjian-qinji-120-2-qinchao-di-yi-tao-vi-sheji-linian-lno-aeljks2vt1k3wjrizsanirtq|Qinji 120-2]], [[YinYangFivePhasesPoliticalTheory|阴阳五行政治理论]], [[PosthumousNamePolitics|谥号政治]], and [[ImperialSymbolicStandardization|帝国符号标准化]] - water-phase fairness, punishment, and imperial exception.
+- [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l|Qinji 124]], [[LiSi|李斯]], [[QinBookBurningPolicy|秦代焚书令]], [[OfficialLearningMonopoly|学在王官式知识垄断]], and [[ImperialHomogenization|帝国整齐划一]] - control of learning and criticism as post-unification Legalist technique.

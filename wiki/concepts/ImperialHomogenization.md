@@ -2,7 +2,7 @@
 title: "Imperial Homogenization / 帝国整齐划一"
 type: concept
 tags: [statecraft, administration, qin-history, centralization, imperial-governance]
-sources: [zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]
+sources: [zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8, zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]
 last_updated: 2026-08-22
 ---
 
@@ -20,6 +20,8 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 
 [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8]] adds the local-capacity layer through [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]]. After the [[Jieshi|碣石]] tour, Qin Shi Huang's order to remove large city walls and levees extends homogenization from standards and circulation into fortification and water-control infrastructure. The episode frames this as reducing the practical basis for local separatism, while noting that smaller defenses still existed in later war.
 
+[[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] adds the textual and educational layer. The episode reads [[LiSi|李斯]]'s [[QinBookBurningPolicy|秦代焚书令]] as a political instrument for making the empire's mental and interpretive world more uniform: private histories, classics, and teaching can preserve alternative standards for judging Qin's present order, so the state tries to move legitimate learning into official channels through [[OfficialLearningMonopoly|学在王官式知识垄断]].
+
 ## Key Claims
 - Uniformity is a command-execution strategy, not only a cultural slogan.
 - The episode links standard measures, local administration, population transfer, disarmament, and construction into one post-conquest control program.
@@ -29,6 +31,7 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 - Qinji 121 adds road infrastructure as homogenized movement: a physically standardized route can also encode hierarchy and surveillance.
 - Qinji 122-1 adds emperor-led touring as homogenized presence in former rival territory, pairing spectacle with warning.
 - Qinji 123-1 adds built-environment control: walls and levees can be treated as local power bases to be removed under a strong-center logic.
+- Qinji 124 adds textual control: private classics and teaching are treated as sources of non-uniform political judgment.
 
 ## Connections
 - [[QinAdministrativeStandardization|秦国行政标准化]] - administrative basis for uniform standards and local rule.
@@ -39,3 +42,4 @@ The source also keeps the cost visible. It says Qin did attempt some transitiona
 - [[QinChidao|驰道]], [[QinAdministrativeStandardization|秦国行政标准化]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - movement-standardization sequel.
 - [[ImperialTourPoliticalTheater|帝国巡游政治剧场]], [[Taishan|泰山]], and [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] - tour and ritual presence as post-conquest integration.
 - [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]], [[Jieshi|碣石]], and [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]] - built-environment removal as another post-conquest control layer.
+- [[QinBookBurningPolicy|秦代焚书令]], [[OfficialLearningMonopoly|学在王官式知识垄断]], [[KnowledgeMonopoly]], and [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l|Qinji 124]] - textual and educational control as another homogenization layer.
