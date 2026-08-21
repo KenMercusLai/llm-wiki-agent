@@ -8724,6 +8724,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on He Shi Bi's origin, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡
+
+Added source page for the 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin. Created Wei Jingmin Wang, Pang Nuan, Dong Commandery, Xinlingjun Death Suspicion, and Rank Sale Disaster Finance. Updated overview, index, Xinlingjun, Wei Anxi Wang, Liu Bang, Qin Shi Huang, Qin State, Meng Ao, Wei State, Zhao State, Yan State, Yan Wang Xi, Ju Xin, Chunshenjun, Power Exit Trap, Qin Eastward Pressure, Hezong Alliance, Post-Disaster Predation Misread, Disaster Response State Capacity, Military Merit Rank System, and Financial Power And State Capacity. No direct contradiction found; the non-natural-death and smallpox claims are kept source-scoped.
+
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》102-2｜孔子在鲁国的身世之谜
 
 Added source page for the second Qinji 102 installment: Lu's special historical-record authority and Confucius connection, Lu's late survival through great-power distraction, Qi's non-intervention under Qi Wang Jian and Hou Sheng, Chu's final destruction of Lu, Chunshenjun's move from Huai north to Jiangdong, Meng Ao's Zhao campaign notice, and the start of 《吕氏春秋》 compilation. Created Hou Sheng, Jiangdong, Historical Record Authority, and Small-State Survival by Great-Power Distraction; updated Lu State, Chu State, Qi State, Qi Wang Jian, Chunshenjun, Confucius, Lushi Chunqiu, Meng Ao, Qin Zhuangxiang Wang, Eastern Zhou Polity, Jiuding, Warring States Four Lords, and Fief Security Illusion. Recorded a source-scoped chronology tension with Qinji 102-1 over Eastern Zhou's destruction and the Jiuding transfer.
@@ -9195,3 +9199,7 @@ Added source page for the All-In interview with Spencer Pratt on his Los Angeles
 ## [2026-08-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 12,398 pages with no empty/stub files, index drift, or source-log coverage gaps. Lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes while the wiki scan found 12,398 pages, so graph findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model is not provider-qualified; supplemental in-session checks found 184 entity/concept pages with source links missing from frontmatter and five pages whose body references a newer source than `last_updated`. Report returned in-session; `wiki/lint-report.md` was not saved.

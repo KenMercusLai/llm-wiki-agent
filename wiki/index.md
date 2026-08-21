@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》106｜惊人发现信陵君的非正常死亡](sources/zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's suspicious same-year death before Wei Anxi Wang, Qin's locust-and-epidemic response through rank-for-grain finance, Qin's creation of Dong Commandery, and Yan's failed attack on Zhao under Ju Xin.
 - [Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back](sources/all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810.md) — All-In interview with Spencer Pratt on his Los Angeles mayoral campaign after the Pacific Palisades fire, covering emergency warnings, homelessness treatment, nonprofit audits, public safety, school spending, transit, permitting, and independent production.
 - [《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍](sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh.md) — 芮淇讲透资治通鉴 episode on Qin's famine-year attack on Han, Li Mu's rise after Lian Po, and Li Mu's frontier strategy of defensive patience, bait, and encirclement against Xiongnu cavalry.
 - [《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了](sources/zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6.md) — 芮淇讲透资治通鉴 episode on Han's Zhengguo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural capacity, Qin pressure on Wei, Zhao opportunism, and Lian Po's removal, slandered non-return, and death abroad.
@@ -1150,6 +1151,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏景湣王 / 魏增 / King Jingmin of Wei](entities/WeiJingminWang.md) — Wei Anxi Wang's successor whose accession is the political motive inside the source-scoped Xinlingjun death suspicion.
+- [庞煖 / Pang Nuan](entities/PangNuan.md) — Zhao commander who defeats Yan's Ju Xin after Yan Wang Xi underestimates Zhao's remaining military capacity.
+- [东郡 / Dong Commandery](entities/DongCommandery.md) — Qin commandery created after Meng Ao captures twenty Wei cities in 242 BCE, turning conquest into administrative consolidation.
 - [Spencer Pratt](entities/SpencerPratt.md) — Los Angeles mayoral candidate in the All-In source who turns personal loss in the Pacific Palisades fire into a platform around safety, treatment, audits, dashboards, and permitting.
 - [Nithya Raman](entities/NithyaRaman.md) — Los Angeles political figure Pratt names as a mayoral-race actor linked in his account to DSA politics and opposition-splitting concerns.
 - [Los Angeles Department of Water and Power](entities/LosAngelesDepartmentOfWaterAndPower.md) — Utility named in Pratt's source-scoped fire-accountability claims about water readiness and post-fire legal action.
@@ -7472,6 +7476,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [信陵君非正常死亡疑云 / Xinlingjun Death Suspicion](concepts/XinlingjunDeathSuspicion.md) — Source-scoped hypothesis that Xinlingjun's death before Wei Anxi Wang may reflect succession-security removal rather than only frustrated withdrawal.
+- [鬻爵赈灾融资 / Rank Sale Disaster Finance](concepts/RankSaleDisasterFinance.md) — Qin mechanism of exchanging grain for low rank during locust and epidemic pressure, using status as emergency finance.
 - [Emergency Warning Infrastructure](concepts/EmergencyWarningInfrastructure.md) — Sirens, alerts, dispatch, water readiness, fire assets, and resident communication layer Pratt says failed during the Palisades fire.
 - [Mandatory Treatment Homelessness Policy](concepts/MandatoryTreatmentHomelessnessPolicy.md) — Pratt's homelessness frame that emphasizes drugs, treatment compulsion, separated facilities, and public-order enforcement.
 - [Municipal Nonprofit Accountability](concepts/MunicipalNonprofitAccountability.md) — Demand that public money, emergency donations, and nonprofit contracts be auditable from funding source to recipient outcome.

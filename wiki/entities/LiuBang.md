@@ -2,7 +2,7 @@
 title: "Liu Bang / 刘邦"
 type: entity
 tags: [history, china, empire]
-sources: [zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
+sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550]
 last_updated: 2026-08-21
 ---
 
@@ -24,6 +24,8 @@ The episode's interest in Liu Bang is structural. His myths helped build [[Manda
 
 The episode then reads Liu Bang's later generosity and reputation-building as partly inherited from the Xinlingjun model. Before he had won the empire, Liu Bang was already willing to promise land and status broadly, and the source treats that open-handed attraction of followers as a practical adaptation of [[WarringStatesRetainerPatronage|战国养士]].
 
+[[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] repeats the afterlife branch with a more ritual emphasis. The episode says Liu Bang heard of [[Xinlingjun|信陵君]]'s worth in youth, sacrificed to him whenever he passed [[Daliang|大梁]] after becoming emperor, and in 195 BCE, after suppressing Ying Bu, assigned five households to guard and perform seasonal rites at Xinlingjun's tomb.
+
 ## Key Claims
 - Liu Bang's origin stories helped sacralize Han rule.
 - Founding mythology became a later vulnerability when legitimacy was read through signs.
@@ -31,6 +33,7 @@ The episode then reads Liu Bang's later generosity and reputation-building as pa
 - Episode 87 adds his white-snake story to the weapon-symbol branch of omen politics.
 - Zhouji 96 part 5 adds his sacrifices to Xinlingjun as a later reception signal for Warring States patronage reputation.
 - Qinji 103-2 adds a youthful attempt to join Xinlingjun and a Zhang Er connection, making Liu Bang's admiration part of his pre-imperial network formation.
+- Qinji 106 reinforces the tomb-rite branch and supplies the five-household arrangement as a sign of Xinlingjun's continued prestige in Liu Bang's political memory.
 
 ## Connections
 - [[WesternHanDynasty]] and [[WangMang]] - founding and late-dynasty contrast.

@@ -2,7 +2,7 @@
 title: "燕王喜 / King Xi of Yan"
 type: entity
 tags: [person, ruler, yan-state, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
+sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-qinji-100-2-liuguo-jingran-tongshi-wei-ta-diaosang-ln6-5v-b-ybqmf5ucepusdo3lf68]
 last_updated: 2026-08-21
 ---
 
@@ -16,6 +16,8 @@ The resulting [[HaodaiBattle|鄗代之战]] turns his calculation into a reversa
 
 [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] extends the same pattern onto the Qi front. Yan troops have captured [[LiaochengWarringStates|辽城]], but Yan Wang Xi listens to slander that the occupying commander may rebel. That suspicion helps create the [[LiaochengCommanderDilemma|辽城守将进退困局]]: the commander cannot safely return, cannot confidently surrender to [[QiState|齐国]], and eventually kills himself after [[LuZhonglian|鲁仲连]]'s letter forces the choice into view.
 
+[[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] returns Yan Wang Xi to the Zhao front. This time he asks [[JuXin|剧辛]] whether [[PangNuan|庞煖]] is a serious opponent; Ju Xin, relying on old familiarity from Zhao, says Pang Nuan is easy to deal with. Yan Wang Xi attacks, Pang Nuan defeats Yan, kills Ju Xin, and captures 20,000 soldiers, making the king's earlier [[PostDisasterPredationMisread|灾后趁虚误判]] pattern recur after different advice.
+
 ## Connections
 - [[YanState|燕国]] - state he rules.
 - [[LiFuWarringStates|栗腹]], [[LeJian|乐间]], and [[JiangQu|将渠]] - envoy, warning general, and remonstrant in the failed policy chain.
@@ -23,3 +25,4 @@ The resulting [[HaodaiBattle|鄗代之战]] turns his calculation into a reversa
 - [[ChangpingBattle|长平之战]] and [[PostDisasterPredationMisread|灾后趁虚误判]] - disaster background and concept extracted from his decision.
 - [[WeakOverWeakPredation|弱者向更弱者转嫁压迫]] - adjacent pattern where pressure from Qin does not stop weaker states from preying on each other.
 - [[LiaochengWarringStates|辽城]], [[TianDan|田单]], [[LuZhonglian|鲁仲连]], and [[LiaochengCommanderDilemma|辽城守将进退困局]] - Qinji 101-1 Qi-front command-suspicion branch.
+- [[JuXin|剧辛]], [[PangNuan|庞煖]], and [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el|Qinji 106]] - renewed Zhao attack and failed commander assessment.

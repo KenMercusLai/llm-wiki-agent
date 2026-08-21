@@ -2,7 +2,7 @@
 title: "Qin Shi Huang / 秦始皇"
 type: entity
 tags: [person, emperor, china, qin, fangshu, warring-states]
-sources: [zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
+sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-100-1-huangdi-zhong-de-chaochang-daiji-wang-guoshi-le-lt75scavlm8qjn6ulpd-b2kwzwjf, zizhi-tongjian-zhouji-98-lishishang-shouge-laolai-dengchang-le-luxsxepdedsxd-zprezfg3u3bsnu, zizhi-tongjian-zhouji-97-4-shishang-wei-shiye-song-laopo-diyi-ren-lo8omg01gkwlojkpiflaep99x-vz, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 
 [[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] develops that paradox through the [[ZhengGuoCanal|郑国渠]]. Ying Zheng is still young and Lu Buwei remains the active governing figure, but the source has Ying Zheng ultimately accept [[ZhengGuoHydraulicEngineer|郑国]]'s argument after Han's plot is exposed: finishing the canal benefits [[QinState|秦国]] more than abandoning it, and the attempted [[SelfDefeatingResourceDrainStrategy|resource-drain strategy]] becomes Qin capacity.
 
+[[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] keeps Ying Zheng in the young-ruler frame during 243-242 BCE. At seventeen, his Qin faces "locusts and epidemic"; the episode says Qin responds with [[RankSaleDisasterFinance|鬻爵赈灾融资]], exchanging grain for the lowest rank. At eighteen, Qin still sends [[MengAo|蒙敖]] against [[WeiState|魏国]], takes twenty cities, and creates [[DongCommandery|东郡]].
+
 ## Key Claims
 - The source links Qin Shi Huang's pursuit of immortality to eastern-sea immortal-island lore and fangshi promises.
 - His use of water-phase symbolism is treated as a political style, not only as private belief.
@@ -38,6 +40,7 @@ For this page, the result is a guarded origin note: Ying Zheng is linked to Zhao
 - Qinji 103-1 records Ying Zheng's accession at thirteen inside Qin's continuing late-Warring-States expansion.
 - Qinji 103-2 adds that Lu Buwei decides affairs after the accession and frames Qin's internal disorder as the next problem before unification.
 - Qinji 104 shows early Ying Zheng preserving the Zhengguo Canal despite its hostile origin, making infrastructure completion part of Qin's road from succession instability to conquest capacity.
+- Qinji 106 shows early Ying Zheng's state absorbing locust and epidemic pressure through rank-for-grain mobilization, then resuming expansion into Wei with Dong Commandery.
 
 ## Connections
 - [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] - source episode.

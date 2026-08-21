@@ -2,7 +2,7 @@
 title: "蒙敖 / Meng Ao"
 type: entity
 tags: [person, general, qin-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
+sources: [zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el, zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]
 last_updated: 2026-08-21
 ---
 
@@ -22,6 +22,8 @@ The source uses him less as a full biography than as a source-critical hinge. Un
 
 [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] adds Meng Ao's 244 BCE Han campaign. Even though [[QinState|秦国]] is experiencing famine, Meng Ao attacks [[HanState|韩国]] and captures twelve cities, making him part of the source's point that Qin's eastward pressure continues despite internal strain.
 
+[[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] moves Meng Ao from Han back to [[WeiState|魏国]]. In 243 BCE he attacks Wei and stops in the third month; in the following year, after Qin's locust and epidemic crisis, he attacks Wei again, takes twenty cities, and the gains become [[DongCommandery|东郡]]. The source therefore makes him the military carrier of Qin's recovery from disaster into administrative expansion.
+
 ## Connections
 - [[QinZhaoxiangwang|秦昭襄王]] and [[QinState|秦国]] - ruler and state he serves in the source.
 - [[QiMinWang|齐湣王]] and [[QiState|齐国]] - target ruler and target state.
@@ -32,3 +34,4 @@ The source uses him less as a full biography than as a source-critical hinge. Un
 - [[Xinlingjun|信陵君]], [[WeiAnxiWang|魏安釐王]], [[HezongAlliance|合纵]], and [[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck|Qinji 103-1]] - Wei campaign, recall crisis, and five-state defeat.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[QinState|秦国]], and [[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6|Qinji 104]] - Jinyang disturbance suppression after the young king's accession.
 - [[HanState|韩国]], [[QinEastwardPressure|秦国东进压力]], and [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] - famine-year attack on Han and twelve-city gain.
+- [[WeiState|魏国]], [[DongCommandery|东郡]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], and [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el|Qinji 106]] - attacks on Wei before and after the locust/epidemic crisis.
