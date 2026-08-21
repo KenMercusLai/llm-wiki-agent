@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍](sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh.md) — 芮淇讲透资治通鉴 episode on Qin's famine-year attack on Han, Li Mu's rise after Lian Po, and Li Mu's frontier strategy of defensive patience, bait, and encirclement against Xiongnu cavalry.
 - [《资治通鉴·秦纪》104｜阴谋失算让秦国版图又又又膨胀了](sources/zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6.md) — 芮淇讲透资治通鉴 episode on Han's Zhengguo Canal plan to fatigue Qin, the canal's backfire into Qin agricultural capacity, Qin pressure on Wei, Zhao opportunism, and Lian Po's removal, slandered non-return, and death abroad.
 - [《资治通鉴·秦纪》103-2｜司马迁的“idol” 为何死于酒色](sources/zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's slander-driven removal, final withdrawal, Liu Bang's youthful admiration and Zhang Er connection, and Qin's transition from Qin Zhuangxiang Wang to Ying Zheng under Lu Buwei.
 - [《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？](sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck.md) — 芮淇讲透资治通鉴 episode on Qin's 247 BCE expansion, Xinlingjun's recall from Zhao, a five-state defeat of Meng Ao, and the Guancheng conflict among Su Gao, Anling Jun, and Xinlingjun.
@@ -1148,6 +1149,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose apparent frontier avoidance becomes a prepared bait-and-encirclement victory against Xiongnu.
+- [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic opponent in Li Mu's frontier command story, framed through mobile horse-archery raiding and later Han comparison.
+- [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general introduced here as Li Mu's future opponent in the Qin-Zhao final phase.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose Zhengguo Canal mission tries to drain Qin but becomes a Qin state-capacity gain.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
 - [赵道襄王 / King Daoxiang of Zhao](entities/ZhaoDaoxiangwang.md) — Zhao Yan, successor to Zhao Xiaocheng Wang, whose removal and failed recall of Lian Po deepen Zhao's command-trust failure.
@@ -7459,6 +7463,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Frontier Defensive Patience / 边境防御耐心](concepts/FrontierDefensivePatience.md) — Li Mu's pattern of refusing repeated raids, preserving frontier capacity, and waiting to turn enemy overconfidence into decisive battle.
+- [Nomadic Cavalry Raiding Asymmetry / 游牧骑兵劫掠不对称](concepts/NomadicCavalryRaidingAsymmetry.md) — Strategic imbalance where mobile raiders can choose contact while agrarian defenders must protect fixed people, herds, and stores.
+- [Warring States Northern Great Walls / 战国北境长城](concepts/WarringStatesNorthernGreatWalls.md) — Qin, Zhao, and Yan northern defensive wall frame linked to mobile frontier raiding and later Qin Shi Huang wall integration.
 - [Self-Defeating Resource-Drain Strategy / 疲敌反强敌](concepts/SelfDefeatingResourceDrainStrategy.md) — Strategy where an attempted burden on an enemy becomes durable infrastructure or capacity for that enemy.
 - [State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突](concepts/StateSurvivalKinshipDutyConflict.md) — Ethical conflict where family, local lordship, military command, and state survival all have claims but cannot all be satisfied.
 - [Historical Record Authority / 史官记录话语权](concepts/HistoricalRecordAuthority.md) — Historiographical power attributed to Lu, where record keeping and Zhou proximity make later reputation a political force despite military weakness.

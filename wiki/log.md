@@ -1248,6 +1248,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-21] ingest | 《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍
+
+Added source page for Qinji 105: Qin famine-year pressure on Han, Meng Ao's twelve-city campaign, Li Mu's appointment after Lian Po, Li Mu's Yan campaign, northern-frontier command against Xiongnu, long defensive patience, baited encirclement, and the source-scoped contrast with Han Wudi's later resource-rich Xiongnu campaigns. Created Li Mu, Xiongnu, Wang Jian (Qin), Frontier Defensive Patience, Nomadic Cavalry Raiding Asymmetry, and Warring States Northern Great Walls; updated Zhao, Qin, Han, Yan, Meng Ao, Zhao Daoxiang Wang, Qin Eastward Pressure, Lure Enemy Out of Position, Warring States Military Transformation, Sunzi Bingfa, and Han Wudi. No direct contradiction found; troop counts, decade-long deterrence, and the Great Wall summary are kept source-scoped.
+
 ## [2026-08-18] ingest | EP 16: Data Decoded: Navigating the AI Revolution
 
 Added source page for a Data Science With Sam episode with Vishal on GPT-like natural-language analytics, AI data readiness, business-led AI pilots, explainable churn prediction in Salesforce, privacy, bias, model validation, and data-science storytelling. Created pages for Vishal, Natural Language Analytics, AI Data Readiness, Explainable AI for Business Decisions, Customer Churn Prediction, Data Science Storytelling, and Predictive Model Validation; updated overview, index, Data Science With Sam, Sam, Salesforce, ChatGPT, Data Scientist Generative AI Fluency, Data Engineering For Data Science, AI Model Bias Governance, Business-Led AI Transformation, Language User Interface, AI Verification, Human Judgment Under AI, AI Worker Literacy, Domain Expert Alignment, Machine Learning Engineering, and Real-Time Operational Analytics. No direct contradiction found; the source reinforces the wiki's existing boundary that AI analytics becomes useful only when ready data, business context, statistical validation, explainability, governance, and human communication connect model output to action.
@@ -9159,6 +9163,10 @@ Health passed first with no empty/stub files, index drift, or source-log coverag
 ## [2026-08-21] ingest | 《资治通鉴·秦纪》102-1｜吕不韦是姜子牙后人？
 
 Added source page for the first Qinji 102 installment: Lu Buwei's appointment as Qin chancellor, the source-scoped claim that he descends from Jiang Taigong through a Jiang-surname/Lu-clan line, Jiang Taigong's late recognition by Zhou Wenwang, Zhou Wuwang's conquest and Qi enfeoffment branch, Eastern Zhou's destruction by Lu Buwei, Qin's Sanchuan commandery creation through Meng Ao, and Lu's final demotion under Chu. Created Zhou Wenwang and Late-Blooming Talent; updated overview, index, Lu Buwei, Qin Zhuangxiang Wang, Jiang Taigong, Zhou Wuwang, Eastern Zhou Polity, Zhou Royal House, Sanchuan, Meng Ao, Qin State, Qi State, Chu State, Lu State, and Zhouyi Divination. No direct contradiction found; the Lu Buwei genealogy, Jiang Taigong age details, and Sanchuan river-name uncertainty are kept source-scoped.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-21] lint | Wiki health check
 
