@@ -2,7 +2,7 @@
 title: "Warring States Retainer Patronage / 战国养士"
 type: concept
 tags: [statecraft, talent, patronage, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-64-gudai-gangjing-gongsunlong-yangchengji-lkrchesllfi9ipgfapft7av2mnh5, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]
 last_updated: 2026-08-21
 ---
 
@@ -34,6 +34,10 @@ This differs from simple generosity. The episode stresses礼数 and self-respect
 
 This adds a positive reputation-production branch to retainer patronage. A large household can fail at selection, but a patron can also create trust by showing that low rank, age, and poverty do not prevent a person from being honored. That makes patronage depend on visible status reversal, not only on funding or headcount.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] adds the payoff and danger of that patronage. Hou Ying's earlier test matters because Xinlingjun now trusts him enough to abandon a useless death mission and follow an irregular plan. [[RuJi|如姬]]'s debt to Xinlingjun and [[ZhuHai|朱亥]]'s readiness to act show how a patronage network can reach palace bedrooms and army camps where formal policy is stuck.
+
+The same source also exposes the ethical risk. Retainer patronage supplies the people who can bypass [[WeiAnxiWang|魏安釐王]] and save [[ZhaoState|赵国]], but it also supplies the violence that kills [[JinBi|晋鄙]]. The network's effectiveness therefore sits beside [[MoralCostOfEffectiveRescue|moral cost]], not outside it.
+
 ## Key Claims
 - Patronage is infrastructure when money, lodging, food, social rank, kin outreach, and public reputation are organized into a durable talent network.
 - Warring States mobility creates a market for patrons because educated or high-born but unsupported men need a place where ability can turn into office, protection, or fame.
@@ -48,6 +52,7 @@ This adds a positive reputation-production branch to retainer patronage. A large
 - Zhouji 95 part 3 adds a refuge-control failure mode: protecting a guest can preserve aristocratic reputation while importing coercive pressure from a stronger state.
 - Zhouji 96 adds a talent-discovery failure mode: a patron can maintain a large household yet still overlook quiet ability until the retainer self-nominates.
 - Zhouji 96 part 5 adds a reputation-production mode: public humility toward a low-status worthy can make a patronage network more credible than gifts alone.
+- Zhouji 96 part 6 adds an execution mode: a patronage network can convert private obligation and low-status retainers into emergency state action, while also bypassing public command order.
 
 ## Connections
 - [[Mengchangjun|孟尝君 / 田文]], [[TianYing|田婴]], and [[XueWarringStates|薛地]] - source case, inheritance source, and patronage base.
@@ -64,3 +69,4 @@ This adds a positive reputation-production branch to retainer patronage. A large
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], and [[Handan|邯郸]] - Zhouji 96 self-nomination and tested intervention in a rescue mission.
 - [[DignityBasedPersuasion|尊严激将式说服]] and [[HezongAlliance|合纵]] - Mao Sui's specific diplomatic value once selected.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 public respect and recluse recruitment branch.
+- [[RuJi|如姬]], [[JinBi|晋鄙]], [[TigerTallyCommandSystem|虎符调兵制度]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 network execution and ethical risk.

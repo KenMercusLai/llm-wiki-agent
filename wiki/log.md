@@ -9007,3 +9007,11 @@ Added source page for the fifth Mao Sui/Xinlingjun installment: Wei Anxi Wang's 
 ## [2026-08-21] lint | Wiki lint
 
 Ran health before lint; health scanned 12,263 wiki pages and found no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 12,263 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, three fragile bridges, and no isolated communities. Graph-aware checks used `graph/graph.json` built on 2026-08-19 with 11,649 nodes and 129,324 edges while the current wiki has 12,263 linted pages, so graph-aware findings are advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because the default model `claude-3-5-sonnet-latest` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-21] ingest | 《资治通鉴·周纪》96丨毛遂自荐（6）
+
+Added source page for the sixth Mao Sui/Xinlingjun installment: Pingyuanjun's pressure letter, Xinlingjun's initially useless death mission, Hou Ying's tiger-tally plan, Ru Ji's palace access, Zhu Hai's killing of Jin Bi, Xinlingjun's disciplined seizure of the Wei army, Wei-Chu-Zhao relief of Handan, Zheng Anping's surrender, Wang He's retreat, Han's entry into the coalition recovery, and Bai Qi's post-defeat "I told you so" pressure from Qin Zhaoxiang Wang. Created Ru Ji, Jing Yang, Tiger Tally Command System, Stealing Tiger Tallies to Rescue Zhao, and Moral Cost of Effective Rescue; updated overview, index, Xinlingjun, Hou Ying, Zhu Hai, Jin Bi, Wei Anxi Wang, Pingyuanjun, Zheng Anping, Wang He, Bai Qi, Coalition Transit Dependency, Coalition Self-Preservation Failure, Warring States Retainer Patronage, and Public Humility Reputation Test. No direct contradiction found; Jin Bi's death is kept as the host's source-scoped moral judgment, and tiger-tally material details are kept source-scoped pending material-history corroboration.
+
+## [2026-08-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

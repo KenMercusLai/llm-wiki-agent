@@ -2,7 +2,7 @@
 title: "侯嬴 / Hou Ying"
 type: entity
 tags: [person, retainer, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-3-lsrmq1-rjqnsja8g07bhaqvhxhpi]
 last_updated: 2026-08-21
 ---
 
@@ -20,9 +20,14 @@ The same source shows Hou Ying testing Xinlingjun before accepting him as patron
 
 Hou Ying therefore now has two connected wiki functions. In Zhouji 95 he judges whether Xinlingjun should receive dangerous guests; in Zhouji 96 part 5 he is the person who first made Xinlingjun's [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] publicly credible through [[PublicHumilityReputationTest|公开受辱式礼贤测试]].
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] turns Hou Ying from reputation tester into operational strategist. When Xinlingjun prepares to die uselessly with his retainers, Hou Ying points out that this would be like feeding meat to a hungry tiger. He then supplies the working plan: use [[RuJi|如姬]] to steal the king's half of the [[TigerTallyCommandSystem|tiger tally]], take [[JinBi|晋鄙]]'s army, and bring [[ZhuHai|朱亥]] because Jin Bi may not obey even a matching tally.
+
+This source sharply raises Hou Ying's political-intelligence profile. He knows where the tally is kept, who can reach it, why Ru Ji is willing to help, and why field command may still require violence. The same intelligence also carries moral exposure: his plan saves [[ZhaoState|赵国]], but it prepares the killing that makes [[StealingTigerTalliesToRescueZhao|窃符救赵]] ethically compromised.
+
 ## Connections
 - [[Xinlingjun|信陵君]] - patron whose hesitation Hou Ying challenges.
 - [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]] - fugitive guests whose reception he argues for.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[QinState|秦国]], and [[Daliang|大梁]] - political pressure and Wei setting around the decision.
 - [[WarringStatesRetainerPatronage|战国养士]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - concepts clarified by his reputation-based argument.
 - [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], [[PublicHumilityReputationTest|公开受辱式礼贤测试]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 origin scene and patronage test.
+- [[RuJi|如姬]], [[TigerTallyCommandSystem|虎符调兵制度]], [[JinBi|晋鄙]], [[StealingTigerTalliesToRescueZhao|窃符救赵]], and [[MoralCostOfEffectiveRescue|成事的道德代价]] - Zhouji 96 part 6 practical rescue design and violent contingency.

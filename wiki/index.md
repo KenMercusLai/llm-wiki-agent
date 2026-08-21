@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·周纪》96丨毛遂自荐（6）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi.md) — 芮淇讲透资治通鉴 episode completing Xinlingjun's 窃符救赵: Hou Ying's tiger-tally plan, Ru Ji's palace access, Zhu Hai's killing of Jin Bi, the Wei-Chu-Zhao relief of Handan, and the moral cost of effective rescue.
 - [《资治通鉴·周纪》96丨毛遂自荐（5）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof.md) — 芮淇讲透资治通鉴 episode on Xinlingjun's reputation, Hou Ying's gatekeeper/recluse identity, the "虚左" reception scene, Zhu Hai's market detour, and public humility as a test of礼贤下士.
 - [《资治通鉴·周纪》96丨毛遂自荐（4）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's aristocratic-interest logic, Li Tan's rebuke of Pingyuanjun during the Handan siege, elite burden-sharing as morale mobilization, and the Li Tan/Li Tong name-avoidance note.
 - [《资治通鉴·周纪》96丨毛遂自荐（3）](sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv.md) — 芮淇讲透资治通鉴 episode on Lu Zhonglian's rebuttal of Xin Yuan Yan's western-emperor proposal, framing Qin submission as civilizational degradation and personal danger while critiquing the historical reliability of his Shang-Zhou precedent.
@@ -1127,6 +1128,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [景阳 / Jing Yang](entities/JingYang.md) — Chu general whose rescue force can cooperate against Qin only after Xinlingjun forces Wei's army into motion.
+- [如姬 / Ru Ji](entities/RuJi.md) — Wei palace insider whose gratitude to Xinlingjun and access to the king's bedroom enable the theft of the tiger tally.
 - [朱亥 / Zhu Hai](entities/ZhuHai.md) — Daliang butcher whose market conversation with Hou Ying becomes part of Xinlingjun's public humility test.
 - [李谈 / Li Tan](entities/LiTan.md) — Zhao figure, also transmitted as Li Tong, whose rebuke makes Pingyuanjun convert household wealth and family labor into Handan siege defense before Li Tan dies in battle.
 - [新垣衍 / Xinyuan Yan](entities/XinyuanYan.md) — Wei envoy whose western-emperor proposal offers Zhao a surrender-like status concession after outside rescue stalls during the Handan crisis.
@@ -7391,6 +7394,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Moral Cost of Effective Rescue / 成事的道德代价](concepts/MoralCostOfEffectiveRescue.md) — Ethical frame for successful emergency action that saves a state while killing a duty-bound or innocent obstacle.
+- [Stealing Tiger Tallies to Rescue Zhao / 窃符救赵](concepts/StealingTigerTalliesToRescueZhao.md) — Xinlingjun's irregular rescue sequence using stolen command credentials, palace access, retainer violence, and allied coordination to break Qin's pressure on Handan.
+- [Tiger Tally Command System / 虎符调兵制度](concepts/TigerTallyCommandSystem.md) — Split military credential mechanism where matching ruler and commander halves authenticate orders but still leave room for field resistance and coercion.
 - [Public Humility Reputation Test / 公开受辱式礼贤测试](concepts/PublicHumilityReputationTest.md) — Patronage-reputation pattern where a high-status patron's patience under public inconvenience makes respectful talent attraction credible.
 - [Confucian Low-Office Reclusion / 儒家低职隐居](concepts/ConfucianLowOfficeReclusion.md) — Reading of a worthy person who accepts humble subsistence work while refusing ordinary rank-seeking and compromised office.
 - [Elite Crisis Burden Sharing / 贵族危机共担动员](concepts/EliteCrisisBurdenSharing.md) — Crisis mobilization pattern where a protected elite household must convert private wealth, comfort, and family labor into collective defense to make siege resistance credible.

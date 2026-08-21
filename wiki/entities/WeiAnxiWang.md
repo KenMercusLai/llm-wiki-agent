@@ -2,7 +2,7 @@
 title: "魏安釐王 / King Anxi of Wei"
 type: entity
 tags: [person, ruler, wei-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
+sources: [zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi, zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-2-lutsvwvnwzsezoorhe-vu7yjthyx, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-83-zhuhou-bailan-jing-chengle-jingdian-ji-zhong-ji-ljp7nbqnrctr5mw6i9u982abmx-1, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]
 last_updated: 2026-08-21
 ---
 
@@ -28,6 +28,8 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] returns to Wei Anxi Wang's fear as the immediate reason the narrative turns to [[Xinlingjun|信陵君]]. The episode does not add a new policy decision by the king; it uses his continued unwillingness to move against Qin to make Xinlingjun's private prestige and retainer network the next possible route for breaking the [[Handan|邯郸]] crisis.
 
+[[zizhi-tongjian-zhouji-96-maosui-zijian-6-lteqe-0ykjtv01cmxv1fhx6z0vdi]] shows the consequence of that royal paralysis. Because Wei Anxi Wang will not truly order [[JinBi|晋鄙]] forward, [[HouYing|侯嬴]] tells [[Xinlingjun|信陵君]] to bypass the king by using [[RuJi|如姬]] to steal the king's half of the [[TigerTallyCommandSystem|tiger tally]]. Wei Anxi Wang's bedroom therefore becomes the hidden institutional bottleneck in [[StealingTigerTalliesToRescueZhao|窃符救赵]].
+
 ## Connections
 - [[WeiState|魏国]] and [[WeiZhaowang|魏昭王]] - polity and predecessor.
 - [[QinState|秦国]], [[BaiQi|白起]], and [[WeiRan|魏冉]] - pressure actors against his new reign.
@@ -40,3 +42,4 @@ The same episode makes [[XinyuanYan|新垣衍]] a Wei channel into Zhao. Because
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 stalled rescue and western-emperor proposal.
 - [[LuZhonglian|鲁仲连]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[InterestReframingPersuasion|利益重构式说服]] - Zhouji 96 part 3 warning that status submission endangers Wei's own court.
 - [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Zhouji 96 part 5 shift from royal paralysis to private-patronage possibility.
+- [[RuJi|如姬]], [[TigerTallyCommandSystem|虎符调兵制度]], [[JinBi|晋鄙]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 96 part 6 bypassing the king's frozen command decision.
