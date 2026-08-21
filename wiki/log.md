@@ -9362,3 +9362,11 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》114-3｜荆轲刺秦为何久久不行动？在等谁？
+
+Added source page for Qinji 114-3: Jing Ke's delayed departure after Zhao's fall, the need for Fan Wuji's head and the Du Kang map as access credentials, Fan Wuji's suicide, Xu Furen's poisoned dagger, Qin Wuyang as assistant, Jing Ke's unnamed distant friend, Taizi Dan's suspicion-triggered departure, and the Yi Shui farewell. Created Qin Wuyang, Qin Kai, Xu Furen, Du Kang Map, Donghu, Sima Zhen, Assassination Access Credential, Mistrust-Triggered Mission Launch, and Yi Shui Farewell. Updated overview, index, Jing Ke, Yan Taizi Dan, Fan Wuji, Gao Jianli, Qin Shi Huang, Weak-State Assassination Strategy, Political Assassination Ethics, Retainer Reciprocity Ethic, Warring States Retainer Patronage, Honor Binding By Self-Sacrifice, and Moralized Shi Identity. No settled contradiction found; the unnamed distant friend, pre-imperial Qin Shi Huang title wording, and Fan Wuji transcript naming are kept source-scoped.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

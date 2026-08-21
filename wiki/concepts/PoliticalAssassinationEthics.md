@@ -2,7 +2,7 @@
 title: "Political Assassination Ethics / 政治刺杀伦理"
 type: concept
 tags: [politics, violence, ethics, assassination]
-sources: [zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
+sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]
 last_updated: 2026-08-22
 ---
 
@@ -24,6 +24,8 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 
 [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds the [[JingKe|荆轲]] setup as a weak-state survival case. Unlike retrospective punishment cases, [[YanTaiziDan|燕太子丹]]'s plan is future-oriented: kill [[QinShiHuang|嬴政 / 秦始皇]] to throw [[QinState|秦国]] into disorder and buy [[YanState|燕国]] time. The source keeps the act morally uneasy by showing how [[TianGuang|田光]]'s suicide and patronage pressure bind Jing Ke before the mission even begins.
 
+[[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]] deepens that unease by showing what the plan requires before it reaches the target. [[FanWuji|樊无忌]] must turn his own head into an [[AssassinationAccessCredential|access credential]], [[XuFuren|徐夫人]]'s dagger is poisoned and tested, and Jing Ke's preferred timing is overridden by Taizi Dan's suspicion. The ethical problem is therefore not only whether killing Ying Zheng can be justified; it is also whether a desperate state may consume dependents, guests, and operative judgment on the way to that attempted killing.
+
 ## Key Claims
 - Political assassination remains crime and violence even when the target is morally compromised.
 - A weak actor may see assassination as the last available move when law, courts, and ordinary politics cannot reach a powerful wrongdoer.
@@ -36,6 +38,7 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - The Zheng case adds a state-capture variant: assassination can be a factional instrument with little ethical self-sacrifice claim.
 - The Nie Zheng case adds an honor-revenge variant: self-sacrifice and family protection can make a killing narratively noble without resolving its political legitimacy.
 - Qinji 114-2 adds a weak-state survival variant: assassination is imagined as a shortcut to disrupt a stronger state's conquest machine, not as a court judgment after completed harm.
+- Qinji 114-3 adds a preparation-cost variant: the moral burden includes the sacrificial access materials, poisoned weapon, and mistrust-driven launch that make the attempt possible.
 
 ## Connections
 - [[CharlotteCorday]], [[JeanPaulMarat]], and [[SeptemberMassacres]] - French Revolution source case.
@@ -46,4 +49,4 @@ The concept extends [[TyrannicideRepublicanDilemma]] beyond [[CaesarAssassinatio
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], [[ZhaoXiangzi|赵襄子]], and [[RetainerReciprocityEthic]] - pre-Qin retainer-revenge extension.
 - [[ZhengState|郑国]], [[ZiyangZheng|子阳]], and [[SpringAutumnToWarringStatesPoliticalViolence]] - pre-Qin political-technique counterpoint.
 - [[NieZheng|聂政]], [[NieYing|聂英]], [[XiaLei|侠累]], and [[AristocraticHonorOverLife]] - pre-Qin honor-revenge counterpoint.
-- [[JingKe|荆轲]], [[TianGuang|田光]], [[YanTaiziDan|燕太子丹]], [[FanWuji|樊无忌]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Qinji 114-2 weak-state assassination setup.
+- [[JingKe|荆轲]], [[TianGuang|田光]], [[YanTaiziDan|燕太子丹]], [[FanWuji|樊无忌]], [[XuFuren|徐夫人]], [[AssassinationAccessCredential|刺杀接近凭证]], and [[WeakStateAssassinationStrategy|弱国刺杀式破局]] - Qinji 114-2 and 114-3 weak-state assassination setup and preparation cost.

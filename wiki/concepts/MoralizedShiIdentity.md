@@ -2,7 +2,7 @@
 title: "Moralized Shi Identity / 士的道德化身份"
 type: concept
 tags: [ethics, social-status, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
+sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]
 last_updated: 2026-08-22
 ---
 
@@ -16,16 +16,20 @@ The concept also frames [[LuZhonglian|鲁仲连]] in the same episode. His refus
 
 [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds [[JingKe|荆轲]] as a darker late-Warring-States example. Jing Ke's worth is not proved by official rank or perfect fighting reputation; [[TianGuang|田光]] sees a bookish, wandering, market-connected侠士 whose moral identity can be activated for [[WeakStateAssassinationStrategy|弱-state assassination]]. The source therefore extends "士" from low-status worthiness into a death-mission identity.
 
+[[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]] shows the same identity becoming brittle under suspicion. [[YanTaiziDan|燕太子丹]] cannot command Jing Ke like a subordinate because he has elevated him as honored guest and侠士; when Dan implies hesitation or fear, Jing Ke responds as someone whose moral identity has been challenged, not as a technician adjusting a schedule.
+
 ## Key Claims
 - "士" shifts from a rank label toward a moral evaluation as old aristocratic structures weaken.
 - Low visible status does not disqualify a person from being treated as a士 if the patron can recognize worth.
 - Refusing payment can function as a proof of moral identity inside this value world.
 - The concept helps explain why merchant profit-seeking is initially framed as aesthetically and morally inferior before Lu Buwei enters.
 - Qinji 114-2 adds that a wandering, non-official shi identity can be mobilized for assassination when reputation, reading,侠义, and low-suspicion access overlap.
+- Qinji 114-3 adds that the same identity can make sponsor pressure dangerous, because insinuated cowardice triggers honor defense rather than calm operational adjustment.
 
 ## Connections
 - [[Xinlingjun|信陵君]], [[Pingyuanjun|平原君]], [[MaoGong|毛公]], and [[XueGong|薛公]] - source scene around low-status association.
 - [[LuZhonglian|鲁仲连]] - refusal-of-reward case.
-- [[JingKe|荆轲]], [[TianGuang|田光]], and [[GaoJianli|高渐离]] - Qinji 114-2 wandering侠士 and market-circle extension.
+- [[JingKe|荆轲]], [[TianGuang|田光]], [[GaoJianli|高渐离]], and [[YanTaiziDan|燕太子丹]] - Qinji 114-2 and 114-3 wandering侠士, market-circle, and honor-pressure extension.
 - [[WarringStatesRetainerPatronage|战国养士]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - adjacent honor and patronage systems.
+- [[MistrustTriggeredMissionLaunch|疑忌触发式出发]] - 114-3 failure mode when a侠士 identity is pressured by suspicion.
 - [[MerchantAristocraticValueConflict|贵族-商人义利冲突]] - next value contrast in the episode.

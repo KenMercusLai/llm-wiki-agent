@@ -2,7 +2,7 @@
 title: "Retainer Reciprocity Ethic / 士为知己者死"
 type: concept
 tags: [ethics, honor, pre-qin-history, political-violence]
-sources: [zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
+sources: [zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged, zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]
 last_updated: 2026-08-22
 ---
 
@@ -26,6 +26,8 @@ This extension also shows the tension between reciprocity and office duty. [[LiB
 
 [[zizhi-tongjian-qinji-114-2-yanguo-cisha-qinshihuang-weihe-hui-xuan-jingke-lsewjrmgup1yanf8ipn-i0ykqwjx]] adds [[TianGuang|田光]] and [[JingKe|荆轲]] as a friend-mediated version. Tian Guang recommends Jing Ke into a mission without first asking him, then kills himself after [[YanTaiziDan|燕太子丹]] warns him not to leak the matter. The source reads the death as [[HonorBindingBySelfSacrifice|honor binding]]: Tian Guang's trust in Jing Ke becomes a demand that Jing Ke act like the义士 he has been named as.
 
+[[zizhi-tongjian-qinji-114-3-jingke-ciqin-weihe-jiujiu-bu-xingdong-zai-deng-shui-liihe-kgwigu3bggxmyofgvotged]] adds [[FanWuji|樊无忌]] as a protected-guest sacrifice. Taizi Dan's refusal to kill him directly rests on the same trust-as-recognition logic developed in earlier guest-refuge cases: Fan Wuji has entrusted himself to Yan. Jing Ke then redirects Fan Wuji's grievance and trust into suicide, making reciprocity serve [[AssassinationAccessCredential|access]] rather than simple patron repayment.
+
 This concept is adjacent to [[AristocraticHonorOverLife]], but its center is patron recognition rather than family reputation. It is also adjacent to [[PoliticalAssassinationEthics]], but the episode does not mainly ask whether Yu Rang's killing attempt is universally justifiable; it asks how a particular retainer code makes self-destruction intelligible.
 
 ## Key Claims
@@ -40,6 +42,7 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - The concept has a state-order limit: reciprocity becomes suspect when it overrides office and public duty.
 - Hou Ying adds a non-careerist form: recognition can create death-level repayment even when the retainer has no apparent material interest or office ambition.
 - Qinji 114-2 adds a friend-mediated variant: one person's suicide can make another person's refusal look like failure to reciprocate trust and honor.
+- Qinji 114-3 adds a protected-guest variant: recognition and refuge can make self-sacrifice intelligible when the guest's body becomes the only credible route to the target.
 
 ## Connections
 - [[YuRang|豫让]], [[ZhiYao|智瑶]], and [[ZhaoXiangzi|赵襄子]] - source case.
@@ -51,4 +54,5 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - [[WangSunGu|王孙古]], [[QiMinWang|齐湣王]], [[ZhuoChi|淖齿 / 卓齿]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 subject-duty revenge branch.
 - [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[LiBai|李白]], [[XunYue|荀悦]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 trust, repayment, admiration, and critique.
 - [[HouYing|侯嬴]], [[Xinlingjun|信陵君]], [[ZhuHai|朱亥]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 1 timed suicide and侠义 closure.
-- [[TianGuang|田光]], [[JingKe|荆轲]], [[YanTaiziDan|燕太子丹]], and [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]] - Qinji 114-2 recommendation, secrecy, and moral pressure branch.
+- [[TianGuang|田光]], [[JingKe|荆轲]], [[YanTaiziDan|燕太子丹]], [[FanWuji|樊无忌]], and [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]] - Qinji 114-2 and 114-3 recommendation, protected-guest sacrifice, secrecy, and moral pressure branch.
+- [[AssassinationAccessCredential|刺杀接近凭证]] - mechanism that converts Fan Wuji's sacrifice into operative access.
