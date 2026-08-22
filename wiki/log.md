@@ -9635,3 +9635,11 @@ Added source page for Qinji 128-3: Chen Sheng and Wu Guang's expansion from Daze
 ## [2026-08-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-22] ingest | 《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是
+
+Added source page for Qinji 128-5: Kuai Che's surrender-based expansion for Wu Chen, Chen Sheng's overconfidence after Zhou Wen's westward advance, Qin Er Shi's capital-defense preparation, Zhang Han's pardon-and-arm Lishan convict proposal, Zhou Wen's defeat, Wu Chen's Zhao kingship, Cai Ci's temporary compromise advice, Zhang Er and Chen Yu's refusal to coordinate a westward anti-Qin attack, and the Shiji/Zizhi Tongjian motive-omission issue. Created Zhang Han (Qin), Wu Chen, Zhou Wen (Rebel), Kuai Che, Cai Ci, Political Surrender Cascade, Capital Defense Mobilization, Lishan Convict Mobilization, Anti-Qin Coalition Fragmentation, and Textual Omission Attribution Shift; updated overview, index, Qin Er Shi, Chen Sheng, Zhang Er, Chen Yu, Zhang Chu Regime, Dazexiang Uprising, Kong Fu, Liu Bang, and Six-State Restoration Anti-Qin Strategy. No settled contradiction found; the source complicates but does not overturn the wiki's prior Hu Hai failure frame.
+
+## [2026-08-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

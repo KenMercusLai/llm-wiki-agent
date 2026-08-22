@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·秦纪》128-5｜我有证据咱们不能说秦二世啥也不是](sources/zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg.md) — 芮淇讲透资治通鉴 episode on Kuai Che's surrender cascade for Wu Chen, Zhou Wen's failed push near Xianyang, Hu Hai and Zhang Han's capital-defense response, and the rebel camp's Zhao-centered fragmentation.
 - [《资治通鉴·秦纪》128-3｜陈胜吴广组队成功](sources/zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams.md) — 芮淇讲透资治通鉴 episode on Chen Sheng and Wu Guang's expansion from Dazexiang/Qixian to Chen County, Zhang Er and Chen Yu's six-state restoration strategy, Chen Sheng's rejection and self-kingship as Zhang Chu, and Wu Guang's westward attack on Yingyang.
 - [《资治通鉴·秦纪》128-2｜起来！被压迫的人们！](sources/zizhi-tongjian-qinji-128-2-qilai-bei-yapo-de-renmen-lpx9-iicwog4nj-nudaj-i4ajb25.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's pleasure-seeking rule, harsher law and construction burdens, the Dazexiang deadline crisis, Chen Sheng and Wu Guang's uprising, and rebel legitimation through Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor.
 - [《资治通鉴·秦纪》128-1｜不想篡位的太监 不是个好奸臣](sources/zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu.md) — 芮淇讲透资治通鉴 episode on Qin Er Shi's first-year tour, Zhao Gao's use of Hu Hai's succession insecurity, harsh-law purge of princes and old ministers, and the deaths of Ying Jianglu and Ying Gao.
@@ -1205,6 +1206,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [章邯 / Zhang Han (Qin)](entities/ZhangHanQin.md) — Qin official who answers Zhou Wen's near-Xianyang advance by proposing to pardon and arm Lishan laborers under his command.
+- [武臣 / Wu Chen](entities/WuChen.md) — Anti-Qin commander who becomes Zhao king after surrender-driven expansion and then prioritizes Zhao self-strengthening over a westward attack on Qin.
+- [周文 / Zhou Wen (Rebel)](entities/ZhouWenRebel.md) — Zhang Chu commander whose large but weakly trained army reaches near Xianyang before Zhang Han defeats it.
+- [蒯彻 / Kuai Che](entities/KuaiChe.md) — Adviser who tells Wu Chen to use rewarded surrender as a visible model for taking cities without battle.
+- [蔡赐 / Cai Ci](entities/CaiCi.md) — Chen Sheng adviser who prevents immediate retaliation against Wu Chen's family while Qin remains undefeated.
 - [大泽乡起义 / Dazexiang Uprising](entities/DazexiangUprising.md) — 209 BCE anti-Qin uprising where Chen Sheng and Wu Guang turn a rain-caused deadline death trap into organized revolt, expand to Chen County, and open the Zhang Chu choice.
 - [张楚政权 / Zhang Chu Regime](entities/ZhangChuRegime.md) — Rebel regime Chen Sheng declares after rejecting Zhang Er and Chen Yu's advice to restore six-state royal descendants first.
 - [葛婴 / Ge Ying](entities/GeYing.md) — Zhang Chu-aligned commander sent east after Qixian, with later death flagged as damaging the rebel regime and deepening suspicion.
@@ -7667,6 +7673,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anti-Qin Coalition Fragmentation / 反秦阵营诸侯化分裂](concepts/AntiQinCoalitionFragmentation.md) — Pattern where the anti-Qin movement quickly turns into separate territorial regimes whose self-strengthening overrides coordinated attack.
+- [Lishan Convict Mobilization / 骊山刑徒应急动员](concepts/LishanConvictMobilization.md) — Zhang Han's emergency conversion of pardoned Lishan laborers into armed troops against Zhou Wen near Xianyang.
+- [Capital Defense Mobilization / 都城防卫动员](concepts/CapitalDefenseMobilization.md) — Qinji 128-5 corrective showing Hu Hai's capital guards, trained soldiers, and emergency manpower still mattered against Zhou Wen.
+- [Political Surrender Cascade / 招降示范级联](concepts/PoliticalSurrenderCascade.md) — Kuai Che and Wu Chen's model where one visibly rewarded surrender induces many nearby cities to surrender without battle.
+- [Textual Omission Attribution Shift / 史书删节与责任归属转移](concepts/TextualOmissionAttributionShift.md) — Source-critical pattern where an omitted motive clause changes blame and moral pressure among historical actors.
 - [Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略](concepts/SixStateRestorationAntiQinStrategy.md) — Zhang Er and Chen Yu's advice that Chen Sheng should restore six-state royal descendants to multiply Qin's enemies before exposing his own kingship.
 - [Fatal Deadline Rebellion Trigger / 误期死局式起义触发](concepts/FatalDeadlineRebellionTrigger.md) — Dazexiang mechanism where Qin's fatal lateness rule collapses compliance, flight, and delay into death, making revolt the active self-rescue path.
 - [Rebel Mandate Manufacture / 起义天命制造](concepts/RebelMandateManufacture.md) — Chen Sheng and Wu Guang's use of Fusu, Xiang Yan, fish-belly writing, and fox-cry rumor to make rebellion look mandate-backed, later tied to Chen Sheng's succession argument.

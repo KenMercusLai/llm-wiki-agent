@@ -2,7 +2,7 @@
 title: "陈馀 / Chen Yu"
 type: entity
 tags: [person, qin, anti-qin, pre-qin]
-sources: [zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
+sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]
 last_updated: 2026-08-22
 ---
 
@@ -16,9 +16,15 @@ His role in this episode is connective. First, he makes the danger to private ho
 
 When Chen Sheng asks whether he should become Chu king, Chen Yu joins Zhang Er in warning that immediate kingship exposes private ambition. Their alternative is [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], a wider anti-Qin restoration route that Chen Sheng rejects.
 
+[[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] continues Chen Yu beside Zhang Er. They advise [[WuChen|武臣]] to declare himself Zhao king after [[ZhouWenRebel|周文]] retreats and after Chen Sheng's treatment of returning commanders makes the central rebel authority look dangerous. Then they advise Wu Chen to strengthen Zhao rather than move west against [[QinState|秦国]], arguing that Chen Sheng's recognition is temporary and self-interested.
+
+The episode also adds a source-comparison problem. [[Shiji|《史记》]] gives Zhang Er and Chen Yu a private grievance against Chen Sheng, while [[ZizhiTongjian|《资治通鉴》]] omits it. This makes Chen Yu part of [[TextualOmissionAttributionShift|史书删节与责任归属转移]] as well as [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]].
+
 ## Connections
 - [[KongFu|孔鲋]] - figure whose safety and later appointment Chen Yu helps mediate.
 - [[QinBookBurningPolicy|秦代焚书令]] - policy background for Chen Yu's visit.
 - [[ChenSheng|陈胜]] and [[WuGuang|吴广]] - rebel turn that creates the new political opening.
 - [[Shiji|《史记》]] - source layer cited for Kong Fu's later death notice.
 - [[ZhangEr|张耳]], [[ZhangChuRegime|张楚政权]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - Qinji 128-3 hiding, counsel, and rejected strategy.
+- [[WuChen|武臣]], [[CaiCi|蔡赐]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - Qinji 128-5 Zhao kingship and refusal to coordinate westward attack.
+- [[Shiji|《史记》]], [[ZizhiTongjian|《资治通鉴》]], and [[TextualOmissionAttributionShift|史书删节与责任归属转移]] - motive omission around Chen Yu and Zhang Er.

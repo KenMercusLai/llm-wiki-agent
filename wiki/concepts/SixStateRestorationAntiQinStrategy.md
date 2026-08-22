@@ -2,7 +2,7 @@
 title: "Six-State Restoration Anti-Qin Strategy / 六国复国式反秦策略"
 type: concept
 tags: [rebellion, anti-qin, diplomacy, statecraft, qin-history]
-sources: [zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
+sources: [zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg, zizhi-tongjian-qinji-128-3-chensheng-wuguang-zudui-chenggong-locnaq-fo1fztyud5nghwkteams]
 last_updated: 2026-08-22
 ---
 
@@ -16,6 +16,8 @@ This concept is adjacent to [[HezongAlliance|合纵]] but not identical to it. H
 
 The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen Sheng could have appeared as the liberator who restores many old houses while delaying his own title. By calling himself Chu king and naming Zhang Chu instead, he chooses direct claimant status and lets the host read him as seeking a Chu-centered inheritance of the unified realm.
 
+[[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]] shows the darker sequel to the same restoration logic. [[WuChen|武臣]] becomes Zhao king under advice from [[ZhangEr|张耳]] and [[ChenYu|陈馀]], but after [[ChenSheng|陈胜]] recognizes him, the Zhao branch does not become a coordinated anti-Qin front. Zhang Er and Chen Yu instead urge Wu Chen to enlarge Zhao before attacking Qin, turning restoration into [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]].
+
 ## Key Claims
 - A revolt that begins from survival pressure still needs a political map if it wants to defeat an empire.
 - Restoring old royal descendants can create allied legitimacy nodes faster than one rebel leader can govern all captured territory.
@@ -24,6 +26,7 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - It differs from classical hezong because the old states no longer exist as sovereign actors; they must be reconstituted.
 - The proposal is also a self-protection argument: delaying kingship lets Chen Sheng avoid looking like a private usurper at the movement's beginning.
 - Chen Sheng's rejection makes Zhang Chu a contested strategic choice, not merely the natural next stage of the uprising.
+- Qinji 128-5 shows that restoration can also become separate-state self-strengthening if no shared command or trust holds the anti-Qin camp together.
 
 ## Connections
 - [[ZhangEr|张耳]] and [[ChenYu|陈馀]] - advisers who propose the strategy in Qinji 128-3.
@@ -31,3 +34,4 @@ The strategy also clarifies what [[ZhangChuRegime|张楚政权]] rejects. Chen S
 - [[ZhangChuRegime|张楚政权]] and [[ChuState|楚国]] - the competing Chu-centered route Chen Sheng chooses.
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - adjacent coalition concepts that explain why anti-Qin alignment needs structure.
 - [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]] and [[ImperialHomogenization|帝国整齐划一]] - Qin unification order that the strategy tries to reverse or fragment.
+- [[zizhi-tongjian-qinji-128-5-wo-you-zhengju-zanmen-buneng-shuo-qinershi-sha-ye-bushi-ljuome-xea6sjv4hhzmrr0b0-1hg|Qinji 128-5]], [[WuChen|武臣]], and [[AntiQinCoalitionFragmentation|反秦阵营诸侯化分裂]] - sequel where Zhao restoration turns away from coordinated westward attack.
