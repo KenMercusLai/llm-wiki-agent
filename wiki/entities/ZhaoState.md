@@ -188,7 +188,7 @@ The Li Mu branch also extends Zhao's military identity after [[HufuQishe|胡服�
 - [[LiTan|李谈 / 李同]], [[EliteCrisisBurdenSharing|贵族危机共担动员]], [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], and [[Handan|邯郸]] - Zhouji 96 part 4 internal siege mobilization.
 - [[MaoSui|毛遂]], [[MaoSuiSelfRecommendation|毛遂自荐]], [[ChuState|楚国]], [[WeiState|魏国]], and [[QiState|齐国]] - Zhouji 96 emergency Chu mission after nearby rescue options prove unreliable.
 - [[JinBi|晋鄙]], [[YeWarringStates|邺城]], [[XinyuanYan|新垣衍]], [[CoalitionTransitDependency|联盟救援借道依赖]], and [[SubmissionThroughStatusElevation|尊号式投降方案]] - Zhouji 96 part 2 blocked relief and surrender-like status proposal.
-- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[DuyouSword|杜邮剑]], and [[HezongAlliance|合纵]] - Zhouji 97 part 1 successful relief and Qin aftershock.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[DuyouSword|杜邮剑]], and [[HezongAlliance|合纵]] - Zhouji 97 part 1 successful relief and Qin aftershock.
 - [[YanWangXi|燕王喜]], [[LiFuWarringStates|栗腹]], [[LianPo|廉颇]], [[HaodaiBattle|鄗代之战]], and [[PostDisasterPredationMisread|灾后趁虚误判]] - Qinji 100-2 failed Yan attack after Zhao's Changping wound.
 - [[ZhaoDaoxiangwang|赵道襄王]], [[LeCheng|乐乘]], [[GuoKai|郭开]], [[WeiState|魏国]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - Qinji 104 Fanyang opportunism, Lian Po replacement, and blocked recall.
 - [[LiMu|李牧]], [[Xiongnu|匈奴]], [[YanState|燕国]], [[FrontierDefensivePatience|边境防御耐心]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - Qinji 105 Li Mu appointment, Yan campaign, and northern-frontier anti-raiding strategy.

@@ -24,7 +24,7 @@ The concept matters because it turns individual patronage anecdotes into a compa
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] makes the Xinlingjun comparison explicit. The host says [[SimaQian|司马迁]] is warmer toward Xinlingjun than toward the other three lords: Mengchangjun is faulted for mixed guests and self-satisfied hospitality, Pingyuanjun for interest-blinded judgment, and Chunshenjun for indecision, while Xinlingjun is praised for not being ashamed to associate downward.
 
-This source adds a reputational production test. Xinlingjun's virtue is not asserted only as a label; it is displayed when he personally drives to receive [[HouYing|侯嬴]], lets a poor old gatekeeper take the honored seat, waits during the market detour to [[ZhuHai|朱亥]], and turns the resulting embarrassment into public proof of [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
+This source adds a reputational production test. Xinlingjun's virtue is not asserted only as a label; it is displayed when he personally drives to receive [[HouYing|侯嬴]], lets a poor old gatekeeper take the honored seat, waits during the market detour to [[ZhuHaiWeiRetainer|朱亥]], and turns the resulting embarrassment into public proof of [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
 
 [[zizhi-tongjian-zhouji-97-2-jiemi-xinlingjun-ping-shenme-shi-si-gongzi-zhi-shou-lodqntthbil9o8ezppt66lywzd-f]] continues that answer after the rescue succeeds. Xinlingjun's superiority is shown not only by the spectacular achievement of saving Zhao, but by post-achievement restraint: he refuses reward rituals that would make him look equal to [[ZhaoDan|赵丹 / 赵孝成王]], accepts only a more indirect honor frame such as [[TangmuYi|汤沐邑]], and keeps seeking low-status worthies [[MaoGong|毛公]] and [[XueGong|薛公]] even when this may make [[Pingyuanjun|平原君]]'s Handan position more delicate.
 
@@ -64,7 +64,7 @@ This source adds a reputational production test. Xinlingjun's virtue is not asse
 - [[ZhaoShe|赵奢]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 Pingyuanjun tax-compliance test.
 - [[MiWan|芈完 / 楚考烈王]], [[HostageDiplomacyRupture|质子外交破裂]], and [[FanJu|范雎]] - Zhouji 92 part 2 Chunshenjun rise from hostage-court risk.
 - [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[HouYing|侯嬴]], and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - Zhouji 95 part 3 Pingyuanjun/Xinlingjun hospitality test.
-- [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[SimaQian|司马迁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 Xinlingjun-centered comparison.
+- [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[SimaQian|司马迁]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 Xinlingjun-centered comparison.
 - [[ZhaoDan|赵丹 / 赵孝成王]], [[TangmuYi|汤沐邑]], [[MaoGong|毛公]], [[XueGong|薛公]], and [[PowerEtiquetteReading|权力礼仪细读]] - Zhouji 97 part 2 Xinlingjun's post-rescue restraint and continued low-status association.
 - [[SimaGuang|司马光]], [[JiangdongWarringStates|江东]], and [[FiefSecurityIllusion|封地筑城安全幻觉]] - Qinji 102-2 Chunshenjun ranking and fief-safety critique.
 - [[LiYuanWarringStates|李源]], [[LiYuanSister|李源妹妹]], [[MiWan|楚考烈王]], and [[PregnancySuccessionSubstitution|孕身继承替换]] - Qinji 109-1 late Chunshenjun fall and succession manipulation.

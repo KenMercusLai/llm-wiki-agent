@@ -20,7 +20,7 @@ Talent attraction through respect / 礼贤下士式人才吸附 is the leadershi
 
 [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds a boundary case through [[WangZhu|王蠋]]. Yan's first gesture toward him fits the respect pattern: keep troops away, offer wealth, and treat a hidden Qi worthy as worth recruiting. The later threat to slaughter his city if he refuses shows the mechanism's moral failure mode. Respect attracts talent only while refusal remains possible; once invitation becomes coercion, the same state-building signal turns into a [[LoyaltyCollateralDilemma|忠义牵连困境]].
 
-[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] adds the [[Xinlingjun|信陵君]] and [[HouYing|侯嬴]] version. Unlike Wei Wenhou's reverence for teachers or Yan Zhaowang's recovery signal, this case is an aristocratic patron lowering himself before a poor old gatekeeper who refuses ordinary gifts. Xinlingjun's personal carriage trip, honored left seat, and patience during Hou Ying's detour to [[ZhuHai|朱亥]] make respect public enough to attract reputation as well as one person.
+[[zizhi-tongjian-zhouji-96-maosui-zijian-5-lp6yfcxoysxgcnmg8v1uljfyptof]] adds the [[Xinlingjun|信陵君]] and [[HouYing|侯嬴]] version. Unlike Wei Wenhou's reverence for teachers or Yan Zhaowang's recovery signal, this case is an aristocratic patron lowering himself before a poor old gatekeeper who refuses ordinary gifts. Xinlingjun's personal carriage trip, honored left seat, and patience during Hou Ying's detour to [[ZhuHaiWeiRetainer|朱亥]] make respect public enough to attract reputation as well as one person.
 
 The episode also gives the mechanism a testing layer. Hou Ying's delay is a [[PublicHumilityReputationTest|public humility reputation test]]: if Xinlingjun becomes annoyed, the respect signal fails; because he does not, the public scene makes his low-status friendship credible.
 
@@ -59,7 +59,7 @@ The concept differs from simple recruitment. The source's point is that public r
 - [[QiMinWang|齐湣王]], [[CommonEnemyAlliance|共同敌人联盟]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - Zhouji 69 Le Yi's coalition-design payoff.
 - [[Linzi|临淄]], [[QiState|齐国]], and [[YanState|燕国]] - Zhouji 70 command payoff and rejected strategic caution.
 - [[WangZhu|王蠋]], [[LoyaltyCollateralDilemma|忠义牵连困境]], and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - Zhouji 72 respect-to-coercion boundary after conquest.
-- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHai|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 low-status worthy and public humility branch.
+- [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[ZhuHaiWeiRetainer|朱亥]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[PublicHumilityReputationTest|公开受辱式礼贤测试]] - Zhouji 96 part 5 low-status worthy and public humility branch.
 - [[MaoGong|毛公]], [[XueGong|薛公]], [[Pingyuanjun|平原君]], and [[PowerEtiquetteReading|权力礼仪细读]] - Zhouji 97 part 2 pedestrian visits and aristocratic-status discomfort.
 - [[WeiAnxiWang|魏安釐王]], [[MengAo|蒙敖]], [[HezongAlliance|合纵]], and [[WarringStatesRetainerPatronage|战国养士]] - Qinji 103-1 counsel-to-command payoff after Xinlingjun's low-status recruitment in Zhao.
 - [[YaoJia|姚贾]], [[HanFei|韩非]], [[JiangTaigong|姜太公 / 姜子牙]], [[GuanZhong|管仲]], [[BailiXi|百里奚]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent argument against rejecting low-origin or tainted talent.

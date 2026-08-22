@@ -56,7 +56,7 @@ This concept is adjacent to [[AristocraticHonorOverLife]], but its center is pat
 - [[PoliticalAssassinationEthics]] and [[SpringAutumnToWarringStatesPoliticalViolence]] - adjacent political-violence frames.
 - [[WangSunGu|王孙古]], [[QiMinWang|齐湣王]], [[ZhuoChi|淖齿 / 卓齿]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 subject-duty revenge branch.
 - [[YuQing|虞卿]], [[WeiQiWarringStates|魏齐]], [[LiBai|李白]], [[XunYue|荀悦]], and [[DeathPartyLoyalty|死党之义与守职奉上]] - Zhouji 95 part 4 trust, repayment, admiration, and critique.
-- [[HouYing|侯嬴]], [[Xinlingjun|信陵君]], [[ZhuHai|朱亥]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 1 timed suicide and侠义 closure.
+- [[HouYing|侯嬴]], [[Xinlingjun|信陵君]], [[ZhuHaiWeiRetainer|朱亥]], and [[StealingTigerTalliesToRescueZhao|窃符救赵]] - Zhouji 97 part 1 timed suicide and侠义 closure.
 - [[TianGuang|田光]], [[JingKe|荆轲]], [[YanTaiziDan|燕太子丹]], [[FanWuji|樊无忌]], and [[HonorBindingBySelfSacrifice|以死绑定的侠义压力]] - Qinji 114-2 and 114-3 recommendation, protected-guest sacrifice, secrecy, and moral pressure branch.
 - [[AssassinationAccessCredential|刺杀接近凭证]] - mechanism that converts Fan Wuji's sacrifice into operative access.
 - [[TaoYuanming|陶渊明]], [[GongZizhen|龚自珍]], [[PoliticalAssassinationEthics|政治刺杀伦理]], and [[YouxiaSuppressionUnderUnification|大一统下的游侠压制]] - Qinji 115-2 afterlife and state-order limit.

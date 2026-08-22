@@ -12,7 +12,7 @@ Tiger tally command system / 虎符调兵制度 is the military credential mecha
 
 In the [[StealingTigerTalliesToRescueZhao|窃符救赵]] story, [[JinBi|晋鄙]] has one half because he commands [[WeiState|魏国]]'s rescue army at [[YeWarringStates|邺城]]. The other half is in [[WeiAnxiWang|魏安釐王]]'s bedroom, which makes normal military authorization inaccessible to [[Xinlingjun|信陵君]] when the king refuses decisive rescue. [[HouYing|侯嬴]] therefore identifies [[RuJi|如姬]] as the palace insider who can obtain the missing half.
 
-The episode also highlights the limit of credential systems. A matching tally can prove formal authorization, but field command still depends on the commander's judgment and obedience. Hou Ying's warning that "the general is outside" prepares for Jin Bi's refusal risk and for [[ZhuHai|朱亥]]'s killing of Jin Bi.
+The episode also highlights the limit of credential systems. A matching tally can prove formal authorization, but field command still depends on the commander's judgment and obedience. Hou Ying's warning that "the general is outside" prepares for Jin Bi's refusal risk and for [[ZhuHaiWeiRetainer|朱亥]]'s killing of Jin Bi.
 
 ## Key Claims
 - A split tally turns command authorization into an object that can be physically verified.
@@ -21,7 +21,7 @@ The episode also highlights the limit of credential systems. A matching tally ca
 - The tiger tally scene turns military command into a layered problem of palace access, institutional authorization, and coercive enforcement.
 
 ## Connections
-- [[WeiAnxiWang|魏安釐王]], [[RuJi|如姬]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[JinBi|晋鄙]], and [[ZhuHai|朱亥]] - actors in the tally seizure and command handover.
+- [[WeiAnxiWang|魏安釐王]], [[RuJi|如姬]], [[Xinlingjun|信陵君]], [[HouYing|侯嬴]], [[JinBi|晋鄙]], and [[ZhuHaiWeiRetainer|朱亥]] - actors in the tally seizure and command handover.
 - [[StealingTigerTalliesToRescueZhao|窃符救赵]] - source action built around the credential.
 - [[MoralCostOfEffectiveRescue|成事的道德代价]] - ethical aftermath when credential and persuasion are backed by killing.
 - [[WarringStatesRetainerPatronage|战国养士]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - social network that supplies the strategy and executor.

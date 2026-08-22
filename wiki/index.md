@@ -1397,7 +1397,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [薛公 / Xue Gong](entities/XueGong.md) — Zhao low-status worthy selling wine slurry, paired with Mao Gong as evidence of Xinlingjun's continued礼贤下士.
 - [景阳 / Jing Yang](entities/JingYang.md) — Chu general whose rescue force can cooperate against Qin only after Xinlingjun forces Wei's army into motion.
 - [如姬 / Ru Ji](entities/RuJi.md) — Wei palace insider whose gratitude to Xinlingjun and access to the king's bedroom enable the theft of the tiger tally.
-- [朱亥 / Zhu Hai](entities/ZhuHai.md) — Daliang butcher and游侠 figure whose market conversation tests Xinlingjun and whose later violence makes 窃符救赵 work at moral cost.
+- [朱亥 / Zhu Hai](entities/ZhuHaiWeiRetainer.md) — Daliang butcher and游侠 figure whose market conversation tests Xinlingjun and whose later violence makes 窃符救赵 work at moral cost.
 - [李谈 / Li Tan](entities/LiTan.md) — Zhao figure, also transmitted as Li Tong, whose rebuke makes Pingyuanjun convert household wealth and family labor into Handan siege defense before Li Tan dies in battle.
 - [新垣衍 / Xinyuan Yan](entities/XinyuanYan.md) — Wei envoy whose western-emperor proposal offers Zhao a surrender-like status concession after outside rescue stalls during the Handan crisis.
 - [晋鄙 / Jin Bi](entities/JinBi.md) — Wei commander sent with a rescue army for Zhao but halted at Ye after Qin threatens Wei.
