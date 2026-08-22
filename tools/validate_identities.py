@@ -19,6 +19,7 @@ class WikiIdentityValidationError(ValueError):
 
 @dataclass(frozen=True)
 class IdentityCollisions:
+    exact: dict[str, list[Path]]
     casefolded: dict[tuple[str, str], list[Path]]
     public_routes: dict[str, list[Path]]
 
@@ -41,6 +42,10 @@ def canonical_pages(wiki_dir: Path) -> list[Path]:
             for path in sorted(section_dir.glob("*.md"))
             if not path.name.startswith("_")
         )
+
+    if not pages:
+        raise WikiIdentityValidationError(f"Wiki directory contains no canonical pages: {wiki_dir}")
+
     return pages
 
 
@@ -50,15 +55,18 @@ def public_route(path: Path, wiki_dir: Path) -> str:
 
 
 def find_identity_collisions(wiki_dir: Path = DEFAULT_WIKI_DIR) -> IdentityCollisions:
+    by_exact_key: dict[str, list[Path]] = defaultdict(list)
     by_casefolded_key: dict[tuple[str, str], list[Path]] = defaultdict(list)
     by_public_route: dict[str, list[Path]] = defaultdict(list)
 
     for path in canonical_pages(wiki_dir):
         section = path.relative_to(wiki_dir).parts[0]
+        by_exact_key[path.stem].append(path)
         by_casefolded_key[(section, path.stem.casefold())].append(path)
         by_public_route[public_route(path, wiki_dir)].append(path)
 
     return IdentityCollisions(
+        exact={key: paths for key, paths in by_exact_key.items() if len(paths) > 1},
         casefolded={key: paths for key, paths in by_casefolded_key.items() if len(paths) > 1},
         public_routes={route: paths for route, paths in by_public_route.items() if len(paths) > 1},
     )
@@ -76,9 +84,16 @@ def main(argv: list[str] | None = None) -> int:
     except WikiIdentityValidationError as exc:
         print(f"Wiki identity validation error: {exc}", file=sys.stderr)
         return 2
-    if not collisions.casefolded and not collisions.public_routes:
+    if not collisions.exact and not collisions.casefolded and not collisions.public_routes:
         print("Wiki identities are unique.")
         return 0
+
+    if collisions.exact:
+        print(f"Exact wiki key collisions: {len(collisions.exact)}", file=sys.stderr)
+        for key, paths in collisions.exact.items():
+            print(f"  {key}", file=sys.stderr)
+            for path in paths:
+                print(f"    {path.relative_to(args.wiki_dir).as_posix()}", file=sys.stderr)
 
     if collisions.casefolded:
         print(

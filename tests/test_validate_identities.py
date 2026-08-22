@@ -26,6 +26,10 @@ class WikiIdentityValidationTest(unittest.TestCase):
             collisions = find_identity_collisions(wiki)
 
             self.assertEqual(
+                sorted(path.parent.name for path in collisions.exact["ZhuHai"]),
+                ["concepts", "entities"],
+            )
+            self.assertEqual(
                 sorted(path.name for path in collisions.casefolded[("entities", "zhuhai")]),
                 ["ZhuHai.md", "Zhuhai.md"],
             )
@@ -49,8 +53,18 @@ class WikiIdentityValidationTest(unittest.TestCase):
 
             collisions = find_identity_collisions(wiki)
 
+            self.assertEqual(collisions.exact, {})
             self.assertEqual(collisions.casefolded, {})
             self.assertEqual(collisions.public_routes, {})
+
+    def test_rejects_structurally_empty_corpus(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            wiki = Path(tmp) / "wiki"
+            for section in ("entities", "concepts", "sources"):
+                (wiki / section).mkdir(parents=True)
+
+            with self.assertRaisesRegex(WikiIdentityValidationError, "contains no canonical pages"):
+                find_identity_collisions(wiki)
 
     def test_rejects_missing_wiki_root(self):
         with tempfile.TemporaryDirectory() as tmp:
