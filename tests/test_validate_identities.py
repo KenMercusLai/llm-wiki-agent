@@ -39,6 +39,27 @@ class WikiIdentityValidationTest(unittest.TestCase):
             )
             self.assertNotIn(("concepts", "zhuhai"), collisions.casefolded)
 
+    def test_cli_reports_exact_only_cross_section_collision(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            wiki = Path(tmp) / "wiki"
+            for section in ("entities", "concepts", "sources"):
+                (wiki / section).mkdir(parents=True)
+            (wiki / "entities" / "SharedKey.md").write_text("# Entity\n", encoding="utf-8")
+            (wiki / "concepts" / "SharedKey.md").write_text("# Concept\n", encoding="utf-8")
+            (wiki / "sources" / "Source.md").write_text("# Source\n", encoding="utf-8")
+            stderr = StringIO()
+
+            with redirect_stderr(stderr):
+                returncode = main(["--wiki-dir", str(wiki)])
+
+            report = stderr.getvalue()
+            self.assertEqual(returncode, 1)
+            self.assertIn("Exact wiki key collisions: 1", report)
+            self.assertIn("entities/SharedKey.md", report)
+            self.assertIn("concepts/SharedKey.md", report)
+            self.assertNotIn("Case-insensitive wiki key collisions", report)
+            self.assertNotIn("Public wiki route collisions", report)
+
     def test_accepts_semantically_disambiguated_keys(self):
         with tempfile.TemporaryDirectory() as tmp:
             wiki = Path(tmp) / "wiki"
