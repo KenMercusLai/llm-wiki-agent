@@ -10518,6 +10518,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？
+
+Added source page for Hanji 1020: Yuan Shu's failed imperial momentum, He Kui's diagnosis of timing/trust/talent failure, Cao Cao's contrastive talent absorption through He Kui and Xu Chu, and the Yang Biao case as a reputation-constrained prosecution under Emperor Xian's court. Created Yuan Shu, He Kui, Xu Chu, Yang Biao, Yang Xiu, Kong Rong, Xun Yu, Man Chong, and Prestige-Constrained Political Prosecution; updated overview, index, Cao Cao, Emperor Xian of Han, Xingshiqing Strategic Assessment, Talent as State Treasure, and People-Based Political Security. No settled contradiction found; Yang Biao's accusation is preserved as source-scoped political risk rather than treated as proven guilt.
+
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
