@@ -10837,3 +10837,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 698. The Troubles: The Brink of Civil War (Part 2)
 
 Added source page for a The Rest Is History episode on Northern Ireland's 1968-1969 escalation from civil rights protest into street fighting, covering Caledon, Derry, Burntollet, O'Neill's failed reform gamble, loyalist spoiler bombings, the Battle of the Bogside, Belfast violence, British Army deployment, and the Hunt Report. Created pages for The Rest Is History, The Troubles, Northern Ireland, Terence O'Neill, Ian Paisley, Austin Currie, Gerry Fitt, John Hume, Bernadette Devlin, Harold Wilson, Jim Callaghan, William Craig, James Chichester-Clark, Jack Lynch, the RUC, B Specials, UVF, IRA, NICRA, People's Democracy, the British Army, Derry, Belfast, Bogside, Stormont, Burntollet Bridge Attack, Battle of the Bogside, Apprentice Boys of Derry, Orange Order, Derry Citizens Defence Association, Patrick Rooney, Northern Ireland Civil Rights Movement, Reform Timing Trap, State Policing Legitimacy Crisis, Sectarian Security Dilemma, Provocation Publicity Politics, Paramilitary Spoiler Violence, and Civil Rights To Street War Threshold; updated overview, index, United Kingdom, and Ireland. No direct contradiction found; the source adds a historical near-civil-war case inside the UK without validating contemporary claims that Britain as a whole is inevitably heading toward civil war.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
