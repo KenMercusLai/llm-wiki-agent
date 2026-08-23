@@ -10718,6 +10718,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 不爱直播带货的欧美消费者，为何在 Whatnot 上大把花钱？
+
+Added source page for a 声动早咖啡 episode on Whatnot and Western live shopping. Created pages for Whatnot, Geely Automobile, Li Shufu, An Conghui, Zeekr, Proya, Ulta Beauty, Haoyun Liande, Live Auction Commerce, Online Card Breaking, and Gambling-Adjacent Commerce Design; updated overview, index, Marketplace Live Commerce, Collectible Drop Scarcity, Intermittent Reinforcement, Addictive Interaction Design, ByteDance, Motion Picture Association, AI Content Licensing, Damai, Alibaba, Amazon, TikTok, and 声动早咖啡. No direct contradiction found; the source qualifies generic live-commerce optimism by showing that Whatnot's demand depends on collectible category fit, rapid auctions, card-break uncertainty, and source-scoped consumer-risk controls.
+
 ## [2026-08-24] ingest | 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode with Su Tinghao on AI-native self-study, an ICML 2026 attention paper, Transformer intuition, compute-cost and checkpoint failures, AI use in school, job and meaning anxiety, AI companion risks, AGI speculation, and happiness as a life anchor. Created pages for Su Tinghao, International Conference on Machine Learning / ICML, German Swiss International School, Andrew Ng, Andrej Karpathy, AI-Native Youth Research, Attention Projection Residuals, and AI Existential Meaning Anxiety; updated overview, index, and targeted AI/education/research concept pages. No direct contradiction found; transcript-level technical terms and future predictions remain source-scoped.
