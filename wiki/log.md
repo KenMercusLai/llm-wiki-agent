@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度
+
+Added source page for Hanji 176: Shusun Tong's completed Changle Palace court ritual, Liu Bang's experience of imperial dignity, Sima Guang's praise of li as governance, Lu Jia's Xinyu civil-order lesson, and Yang Xiong's critique of ritual talent serving royal favor. Created Imperial Ritual Distance and Xinyu; updated overview, index, Shusun Tong, Changle Palace, Liu Bang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Lu Jia, Sima Guang, Yang Xiong, Fayan, Li Bai, Li-as-political-order, Power Etiquette Reading, Han Inherits Qin System, Official Learning Monopoly, Motive-Based Talent Evaluation, and Battlefield Victory To Founding Order. No settled contradiction found; preserved the source's tension between ritual order and hierarchical distance.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）
 
 Added source page for Hanji 168 part 2: Xiang Yu's final route through Dongcheng, the twenty-eight-rider breakout, Yang Xi's frightened retreat, Wujiang pavilion chief's crossing offer, Xiang Yu's refusal to cross, the Wuzhui gift, the final self-killing, and the Han reward group around his body. Created Dongcheng (Chu-Han), Wujiang (Chu-Han), Wujiang Pavilion Chief, Wuzhui Horse, Yang Xi (Han), Lu Matong, Wang Yi (Han), Lu Sheng (Han), Yang Wu (Han), Du Mu, and Tactical Self-Vindication Trap; updated overview, index, Xiang Yu, Gaixia Battle, Four-Sided Chu Songs, People-Based Political Security, Correctable Leadership Error, and Gaixia Song. No settled contradiction found; kept the south-of-Yangtze regrouping possibility and Du Mu counterfactual source-scoped.
