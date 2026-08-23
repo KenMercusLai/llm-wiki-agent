@@ -10680,3 +10680,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢
 
 Added source page for Hanji 1002: Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's advice that Cao Cao should welcome Emperor Xian before another actor captures the legitimacy window. Created Legitimacy Window Seizure; updated overview, index, Sun Ce, Yuan Shu, Cao Cao, Emperor Xian of Han, Xun Yu, Anti-Usurpation Coalition Pressure, Mingqi Legitimacy, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; preserved the source title's "最大赢" wording as given.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
