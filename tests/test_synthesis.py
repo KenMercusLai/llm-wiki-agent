@@ -163,6 +163,15 @@ class SynthesisTest(unittest.TestCase):
         self.assertIn("material-candidate-change", global_plan["reasons"])
         self.assertTrue((self.stage / "global-input.json").exists())
 
+    def test_global_input_states_the_summary_length_contract(self):
+        plan = synthesis.plan_repository(self.root, now="2026-08-23T00:00:00Z")
+        self.write_valid_claims(plan)
+
+        synthesis.prepare_global(self.root, now="2026-08-23T00:00:00Z")
+
+        global_input = json.loads((self.stage / "global-input.json").read_text())
+        self.assertIn("summary of at most 180 characters", global_input["instructions"])
+
     def test_dirty_topic_requires_new_staged_claims(self):
         plan = synthesis.plan_repository(self.root, now="2026-08-23T00:00:00Z")
 
@@ -267,6 +276,24 @@ class SynthesisTest(unittest.TestCase):
         after = {path.relative_to(output): path.read_bytes() for path in output.rglob("*") if path.is_file()}
         self.assertEqual(before, after)
 
+    def test_overlong_global_summary_never_replaces_published_output(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        before = {path.relative_to(output): path.read_bytes() for path in output.rglob("*") if path.is_file()}
+        synthesis.plan_repository(self.root, now="2026-08-23T01:00:00Z", force_global=True)
+        synthesis.prepare_global(self.root, now="2026-08-23T01:00:00Z")
+        self.write_valid_global()
+        global_path = self.stage / "global.json"
+        payload = json.loads(global_path.read_text())
+        payload["summary"] = "x" * 181
+        global_path.write_text(json.dumps(payload), encoding="utf-8")
+
+        with self.assertRaisesRegex(synthesis.SynthesisError, "summary exceeds 180 characters"):
+            synthesis.render_repository(self.root, now="2026-08-23T01:00:00Z")
+
+        after = {path.relative_to(output): path.read_bytes() for path in output.rglob("*") if path.is_file()}
+        self.assertEqual(before, after)
+
     def test_validation_rejects_tampered_or_missing_topic_components(self):
         self.complete_first_render()
         output = self.root / "wiki" / "_generated" / "synthesis"
@@ -283,6 +310,109 @@ class SynthesisTest(unittest.TestCase):
         topic_file.unlink()
         with self.assertRaisesRegex(synthesis.SynthesisError, "do not exactly match"):
             synthesis.validate_repository(self.root)
+
+    def test_release_validation_rejects_overlong_published_summary(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        current_path = output / "current.md"
+        current = current_path.read_text(encoding="utf-8")
+        current = current.replace(
+            'summary: "A compact cross-source knowledge map."',
+            f"summary: {json.dumps('x' * 181)}",
+        )
+        current_path.write_text(current, encoding="utf-8")
+        manifest_path = output / "manifest.json"
+        manifest = json.loads(manifest_path.read_text())
+        manifest["global"]["output_digest"] = synthesis.digest_text(current)
+        manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+        with self.assertRaisesRegex(synthesis.SynthesisError, "summary exceeds 180 characters"):
+            synthesis.validate_repository(self.root)
+
+    def test_release_validation_ignores_body_summary_when_frontmatter_summary_is_missing(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        current_path = output / "current.md"
+        current = current_path.read_text(encoding="utf-8")
+        current = current.replace('summary: "A compact cross-source knowledge map."\n', "", 1)
+        current += '\nsummary: "A body line is not metadata."\n'
+        current_path.write_text(current, encoding="utf-8")
+        manifest_path = output / "manifest.json"
+        manifest = json.loads(manifest_path.read_text())
+        manifest["global"]["output_digest"] = synthesis.digest_text(current)
+        manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+        with self.assertRaisesRegex(synthesis.SynthesisError, "missing its summary"):
+            synthesis.validate_repository(self.root)
+
+    def test_release_validation_rejects_duplicate_frontmatter_summaries(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        current_path = output / "current.md"
+        current = current_path.read_text(encoding="utf-8")
+        current = current.replace(
+            'summary: "A compact cross-source knowledge map."',
+            'summary: "First summary."\nsummary: "A compact cross-source knowledge map."',
+            1,
+        )
+        current_path.write_text(current, encoding="utf-8")
+        manifest_path = output / "manifest.json"
+        manifest = json.loads(manifest_path.read_text())
+        manifest["global"]["output_digest"] = synthesis.digest_text(current)
+        manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+        with self.assertRaisesRegex(synthesis.SynthesisError, "exactly one summary"):
+            synthesis.validate_repository(self.root)
+
+    def test_release_validation_rejects_yaml_equivalent_duplicate_summary_keys(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        current_path = output / "current.md"
+        manifest_path = output / "manifest.json"
+        original_current = current_path.read_text(encoding="utf-8")
+        original_manifest = manifest_path.read_text(encoding="utf-8")
+        for duplicate in ('summary : "Second summary."', '"summary": "Second summary."', "summary:"):
+            with self.subTest(duplicate=duplicate):
+                current = original_current.replace(
+                    'summary: "A compact cross-source knowledge map."',
+                    f'summary: "A compact cross-source knowledge map."\n{duplicate}',
+                    1,
+                )
+                current_path.write_text(current, encoding="utf-8")
+                manifest = json.loads(original_manifest)
+                manifest["global"]["output_digest"] = synthesis.digest_text(current)
+                manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+                with self.assertRaisesRegex(synthesis.SynthesisError, "exactly one summary"):
+                    synthesis.validate_repository(self.root)
+
+        current_path.write_text(original_current, encoding="utf-8")
+        manifest_path.write_text(original_manifest, encoding="utf-8")
+
+    def test_release_validation_rejects_noncanonical_yaml_summary_keys(self):
+        self.complete_first_render()
+        output = self.root / "wiki" / "_generated" / "synthesis"
+        current_path = output / "current.md"
+        manifest_path = output / "manifest.json"
+        original_current = current_path.read_text(encoding="utf-8")
+        original_manifest = manifest_path.read_text(encoding="utf-8")
+        for duplicate in ('!!str summary: "Second summary."', r'"\x73ummary": "Second summary."'):
+            with self.subTest(duplicate=duplicate):
+                current = original_current.replace(
+                    'summary: "A compact cross-source knowledge map."',
+                    f'summary: "A compact cross-source knowledge map."\n{duplicate}',
+                    1,
+                )
+                current_path.write_text(current, encoding="utf-8")
+                manifest = json.loads(original_manifest)
+                manifest["global"]["output_digest"] = synthesis.digest_text(current)
+                manifest_path.write_text(json.dumps(manifest), encoding="utf-8")
+
+                with self.assertRaisesRegex(synthesis.SynthesisError, "frontmatter is not canonical"):
+                    synthesis.validate_repository(self.root)
+
+        current_path.write_text(original_current, encoding="utf-8")
+        manifest_path.write_text(original_manifest, encoding="utf-8")
 
     def test_stable_candidate_id_with_changed_content_triggers_global_gate(self):
         first_plan = self.complete_first_render()
