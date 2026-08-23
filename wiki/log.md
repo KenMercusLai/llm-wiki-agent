@@ -10545,3 +10545,7 @@ Ran lint after health and identity validation passed. Health scanned 13,230 wiki
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生
 
 Added source page for Hanji 1019: Liu Chong and Luo Jun's Chen state order, Yuan Shu's failed grain demand and Zhang Kai's false-surrender assassination, Sun Ce's Cao-backed title/preemption branch, and the source-scoped lesson that "势" must be borrowed, built, and defended against. Created Liu Chong (Chen king), Luo Jun, Chen State (late Han), Sun Ce, Sun Jian (late Han), Chen Yu (Wu commandery), Zhang Kai (assassin), Lü Bu, Gao Shun, and Wei Xu (late Han); updated overview, index, Yuan Shu, Cao Cao, Kuaiji Commandery, Guiguzi, Xingshiqing Strategic Assessment, People-Based Political Security, Person-Dependent Governance Fragility, and Assassination Access Credential. No settled contradiction found; disambiguated late-Han Chen Yu from the existing Chu-Han Chen Yu page.
+
+## [2026-08-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
