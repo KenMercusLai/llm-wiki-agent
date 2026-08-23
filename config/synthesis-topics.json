@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "global_compaction": {
+    "max_ingests": 25,
+    "max_age_hours": 24,
+    "max_chars": 25000
+  },
+  "topics": [
+    {
+      "id": "ai-and-technology",
+      "title": "AI and Technology",
+      "terms": ["ai", "agent", "agents", "model", "models", "software", "technology", "coding", "robot", "automation", "artificial intelligence", "人工智能", "智能体", "模型", "软件", "技术", "机器人", "自动化"]
+    },
+    {
+      "id": "business-and-markets",
+      "title": "Business and Markets",
+      "terms": ["business", "market", "markets", "investing", "investment", "finance", "financial", "bank", "banking", "startup", "saas", "founder", "company", "companies", "customer", "consumer", "product", "pricing", "retail", "brand", "packaging", "银行", "金融", "投资", "市场", "创业", "公司", "客户", "消费者", "产品", "品牌", "包装"]
+    },
+    {
+      "id": "governance-and-institutions",
+      "title": "Governance and Institutions",
+      "terms": ["governance", "institution", "institutions", "government", "policy", "regulation", "law", "liability", "political", "politics", "state", "power", "legitimacy", "compliance", "anti-money laundering", "aml", "监管", "治理", "制度", "政府", "政策", "法律", "政治", "权力", "合法性", "合规", "反洗钱"]
+    },
+    {
+      "id": "history-and-geopolitics",
+      "title": "History and Geopolitics",
+      "terms": ["history", "historical", "war", "military", "empire", "dynasty", "qin", "han", "warring states", "china", "geopolitics", "battle", "历史", "战争", "军事", "帝国", "秦", "汉", "战国", "中国", "地缘政治", "战役"]
+    },
+    {
+      "id": "culture-and-media",
+      "title": "Culture and Media",
+      "terms": ["culture", "media", "literature", "fiction", "novel", "story", "book", "film", "music", "art", "podcast", "game", "games", "mystery", "folklore", "holmes", "文化", "媒体", "文学", "小说", "故事", "书", "电影", "音乐", "艺术", "播客", "游戏", "推理", "民间故事"]
+    },
+    {
+      "id": "science-health-and-climate",
+      "title": "Science, Health, and Climate",
+      "terms": ["science", "scientific", "health", "medical", "medicine", "climate", "carbon", "energy", "biology", "physics", "animal", "space", "科学", "健康", "医学", "气候", "碳", "能源", "生物", "物理", "动物", "太空"]
+    },
+    {
+      "id": "work-education-and-society",
+      "title": "Work, Education, and Society",
+      "terms": ["work", "workplace", "career", "job", "labor", "education", "learning", "student", "school", "society", "social", "family", "creator", "internship", "employee", "employment", "工作", "职场", "职业", "就业", "劳动", "教育", "学习", "学生", "学校", "社会", "家庭", "创作者", "实习", "员工"]
+    },
+    {
+      "id": "psychology-and-personal-development",
+      "title": "Psychology and Personal Development",
+      "terms": ["psychology", "behavior", "emotion", "trust", "motivation", "decision", "judgment", "discipline", "identity", "relationship", "心理", "行为", "情绪", "信任", "动机", "决策", "判断", "纪律", "身份", "关系"]
+    },
+    {
+      "id": "cross-domain",
+      "title": "Cross-domain",
+      "terms": []
+    }
+  ]
+}

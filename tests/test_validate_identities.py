@@ -5,6 +5,7 @@ import unittest
 from contextlib import redirect_stderr
 from io import StringIO
 from pathlib import Path
+from unittest import mock
 
 from tools.validate_identities import WikiIdentityValidationError, find_identity_collisions, main
 
@@ -19,11 +20,19 @@ class WikiIdentityValidationTest(unittest.TestCase):
             entities.mkdir(parents=True)
             concepts.mkdir(parents=True)
             sources.mkdir(parents=True)
-            (entities / "ZhuHai.md").write_text("# Zhu Hai\n", encoding="utf-8")
-            (entities / "Zhuhai.md").write_text("# Zhuhai\n", encoding="utf-8")
-            (concepts / "ZhuHai.md").write_text("# Separate section\n", encoding="utf-8")
+            entity_path = entities / "ZhuHai.md"
+            concept_path = concepts / "ZhuHai.md"
+            entity_path.write_text("# Zhu Hai\n", encoding="utf-8")
+            concept_path.write_text("# Separate section\n", encoding="utf-8")
+            # APFS is commonly case-insensitive, so represent the second spelling
+            # as a Path without requiring both names to coexist on disk.
+            alternate_case_path = entities / "Zhuhai.md"
 
-            collisions = find_identity_collisions(wiki)
+            with mock.patch(
+                "tools.validate_identities.canonical_pages",
+                return_value=[entity_path, alternate_case_path, concept_path],
+            ):
+                collisions = find_identity_collisions(wiki)
 
             self.assertEqual(
                 sorted(path.parent.name for path in collisions.exact["ZhuHai"]),
