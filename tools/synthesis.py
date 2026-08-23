@@ -25,6 +25,19 @@ CURRENT_END = "## Open Questions"
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 CLAIM_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 VALID_STATUSES = {"supported", "qualified", "contested", "source-scoped"}
+GLOBAL_SUMMARY_MAX_CHARS = 180
+CURRENT_FRONTMATTER_KEYS = (
+    "schema_version",
+    "generated",
+    "synthesis_source",
+    "last_updated",
+    "as_of_overview_commit",
+    "summary",
+    "episode_count",
+    "source_count",
+    "paragraph_count",
+    "topic_count",
+)
 
 
 class SynthesisError(ValueError):
@@ -71,6 +84,53 @@ def digest_text(text: str) -> str:
 
 def normalize_paragraph(text: str) -> str:
     return " ".join(text.split())
+
+
+def generated_summary(markdown: str) -> str:
+    frontmatter = re.match(
+        rf"{re.escape(GENERATED_NOTICE)}\n---\n(?P<body>.*?)\n---\n",
+        markdown,
+        re.DOTALL,
+    )
+    if frontmatter is None:
+        raise SynthesisError("Generated compact synthesis is missing its summary")
+    summary_lines: list[str] = []
+    for line in frontmatter.group("body").splitlines():
+        raw_key, separator, _value = line.partition(":")
+        if not separator:
+            continue
+        key = raw_key.strip()
+        if key.startswith('"') and key.endswith('"'):
+            try:
+                key = json.loads(key)
+            except json.JSONDecodeError:
+                continue
+        elif key.startswith("'") and key.endswith("'"):
+            key = key[1:-1].replace("''", "'")
+        if key == "summary":
+            summary_lines.append(line)
+    if not summary_lines:
+        raise SynthesisError("Generated compact synthesis is missing its summary")
+    if len(summary_lines) != 1:
+        raise SynthesisError("Generated compact synthesis must contain exactly one summary")
+    frontmatter_keys: list[str] = []
+    for line in frontmatter.group("body").splitlines():
+        raw_key, separator, _value = line.partition(":")
+        if not separator:
+            raise SynthesisError("Generated compact synthesis frontmatter is not canonical")
+        frontmatter_keys.append(raw_key)
+    if tuple(frontmatter_keys) != CURRENT_FRONTMATTER_KEYS:
+        raise SynthesisError("Generated compact synthesis frontmatter is not canonical")
+    match = re.fullmatch(r"summary:[ \t]*(.+)", summary_lines[0])
+    if match is None:
+        raise SynthesisError("Generated compact synthesis has an invalid summary")
+    try:
+        summary = json.loads(match.group(1))
+    except json.JSONDecodeError as error:
+        raise SynthesisError("Generated compact synthesis has an invalid summary") from error
+    if not isinstance(summary, str) or not summary.strip():
+        raise SynthesisError("Generated compact synthesis has an invalid summary")
+    return summary.strip()
 
 
 def extract_wikilinks(text: str) -> list[str]:
@@ -477,6 +537,7 @@ def prepare_global(root: Path, *, now: str | None = None) -> dict[str, Any]:
             "overview_digest": plan["overview_digest"],
             "instructions": (
                 "Select five to eight representative claim IDs and compress every topic summary. "
+                f"Write a summary of at most {GLOBAL_SUMMARY_MAX_CHARS} characters. "
                 "Do not add Update History, Open Questions, or unsupported claims."
             ),
             "topics": [
@@ -505,6 +566,10 @@ def _validate_global(root: Path, plan: dict[str, Any], global_plan: dict[str, An
     domains = payload.get("domain_summaries")
     if not isinstance(summary, str) or not summary.strip():
         raise SynthesisError("global.json needs a non-empty summary")
+    if len(summary.strip()) > GLOBAL_SUMMARY_MAX_CHARS:
+        raise SynthesisError(
+            f"global.json summary exceeds {GLOBAL_SUMMARY_MAX_CHARS} characters"
+        )
     if not isinstance(executive, list) or not 1 <= len(executive) <= 8 or any(not isinstance(item, str) for item in executive):
         raise SynthesisError("global.json executive_claim_ids must contain one to eight IDs")
     candidates = read_json(paths.stage / "global-input.json")["global_candidates"]
@@ -767,6 +832,10 @@ def validate_output(root: Path, plan: dict[str, Any], output: Path) -> dict[str,
         raise SynthesisError("Generated compact synthesis is missing required structure")
     if "## Update History" in current or "## Open Questions" in current:
         raise SynthesisError("Generated compact synthesis embeds an independently published section")
+    if len(generated_summary(current)) > GLOBAL_SUMMARY_MAX_CHARS:
+        raise SynthesisError(
+            f"Generated compact synthesis summary exceeds {GLOBAL_SUMMARY_MAX_CHARS} characters"
+        )
     corpus = manifest.get("corpus")
     if corpus != plan["corpus"]:
         raise SynthesisError("Generated synthesis corpus snapshot is stale")
