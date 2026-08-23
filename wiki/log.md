@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | Bombs and bombshells: Zelensky under pressure
+
+Added source page for The Intelligence episode on Volodymyr Zelensky under Russian air-war, election, corruption, and export pressure; China's mental-health treatment and counseling-regulation gap; and PAW Patrol as children's media values debate and child competence fantasy. Created pages for Sarah Wu, Operation Forrest Gump, Wartime Election Constraint, Ukraine Export Chokepoint, China Mental Health Access Gap, Mental Health Service Regulation Gap, Children's Media Values Debate, and Child Competence Wish Fulfillment; updated overview, index, The Intelligence, Economist Podcasts, Ukraine, Russia, China, Kyiv, Volodymyr Zelensky, Mykhailo Fedorov, Oleksandr Syrskyi, Oliver Carroll, Andrew Miller, Jason Palmer, National Health Commission of China, PAW Patrol, Spin Master, Air Defense Saturation, Wartime Leadership Accountability, Ukraine Military Command Reform, Therapy Relationship and Boundaries, Mental Health Crisis Intervention Boundary, and Listening Therapy Boundary. No direct contradiction found; Fedorov and Syrskyi spellings are normalized to existing canonical pages.
+
 ## [2026-08-24] ingest | I, robot? AI and consciousness
 
 Added source page for The Intelligence episode on AI consciousness, Europe's STI surge, and Mary de Rachewiltz's translation of Ezra Pound. Created pages for Alok Jha, Blake Lemoine, ELIZA, European Centre for Disease Prevention and Control, Mary de Rachewiltz, Ezra Pound, The Cantos, Benito Mussolini, Franklin D. Roosevelt, AI Consciousness Boundary, Chatbot Mind Projection, Phenomenal and Access Consciousness, Global Workspace Theory, Computational Functionalism, Organoid Computing, European STI Surge, STI Public Health Response, and Antimicrobial Resistance; updated overview, index, Consciousness Measurement, Ideologically Compromised Art, The Intelligence, and Economist Podcasts. No direct contradiction found; the source keeps current LLM consciousness unproven, public-health causation unresolved, and Pound's literary legacy ethically contaminated.
