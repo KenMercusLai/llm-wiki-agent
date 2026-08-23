@@ -14,5 +14,7 @@ Follow the Ingest Workflow defined in CLAUDE.md exactly:
 7. Create/update concept pages (wiki/concepts/) for key ideas and frameworks
 8. Flag any contradictions with existing wiki content
 9. Append to wiki/log.md: ## [today's date] ingest | <Title>
+10. Follow `.claude/commands/wiki-synthesis-refresh.md` to refresh the downstream generated synthesis. This downstream step reads but never rewrites the automatic `wiki/overview.md`.
+11. Run `python3 -m tools.synthesis validate` as part of post-ingest validation.
 
-After completing all writes, summarize: what was added, which pages were created or updated, and any contradictions found.
+After completing all writes, summarize: what was added, which canonical and generated pages were created or updated, whether global compaction ran, and any contradictions found.

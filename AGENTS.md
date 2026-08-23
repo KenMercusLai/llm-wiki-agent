@@ -74,7 +74,8 @@ Steps (in order):
 7. Update/create concept pages for key ideas and frameworks discussed
 8. Flag any contradictions with existing wiki content
 9. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
-10. **Post-ingest validation** — check for broken `[[wikilinks]]`, verify all new pages are in `index.md`, print a change summary
+10. **Refresh downstream synthesis** — follow `.claude/commands/wiki-synthesis-refresh.md`: run the deterministic planner, revise only dirty topic claim JSON from each topic's complete bounded input, compact the global artifact only when its gate is due, then render and validate. This step reads but never rewrites the automatic `wiki/overview.md`.
+11. **Post-ingest validation** — check for broken `[[wikilinks]]`, verify all new canonical pages are in `index.md`, run `python3 -m tools.synthesis validate`, and print a change summary
 
 ### Source Page Format
 

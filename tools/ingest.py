@@ -114,8 +114,12 @@ def validate_ingest(changed_pages: list[str] | None = None) -> dict:
     if changed_pages:
         scan_paths = [WIKI_DIR / p for p in changed_pages if (WIKI_DIR / p).exists()]
     else:
-        scan_paths = [p for p in WIKI_DIR.rglob("*.md")
-                      if p.name not in ("index.md", "log.md", "lint-report.md")]
+        scan_paths = [
+            p
+            for p in WIKI_DIR.rglob("*.md")
+            if p.name not in ("index.md", "log.md", "lint-report.md")
+            and "_generated" not in p.relative_to(WIKI_DIR).parts
+        ]
 
     # Check 1: Broken wikilinks
     broken_links = []
@@ -334,6 +338,8 @@ if __name__ == "__main__":
         unindexed_all = []
         for p in WIKI_DIR.rglob("*.md"):
             if p.name in ("index.md", "log.md", "lint-report.md", "overview.md"):
+                continue
+            if "_generated" in p.relative_to(WIKI_DIR).parts:
                 continue
             if p.stem.lower() not in index_content:
                 unindexed_all.append(str(p.relative_to(WIKI_DIR)))

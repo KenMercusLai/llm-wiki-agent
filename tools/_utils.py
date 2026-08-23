@@ -113,7 +113,11 @@ def all_wiki_pages(extra_exclude: set[str] | None = None) -> list[Path]:
         extra_exclude: Additional filenames to skip (e.g. {"health-report.md"}).
     """
     exclude = _META_EXCLUDE | (extra_exclude or set())
-    return [p for p in WIKI_DIR.rglob("*.md") if p.name not in exclude]
+    return [
+        p
+        for p in WIKI_DIR.rglob("*.md")
+        if p.name not in exclude and "_generated" not in p.relative_to(WIKI_DIR).parts
+    ]
 
 
 def append_log(entry: str):
