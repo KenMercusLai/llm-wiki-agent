@@ -10123,6 +10123,10 @@ Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）
+
+Added source page for Hanji 180: substitute-princess implementation of heqin, Liu Jing's Guanzhong elite relocation proposal, exposure of Guan Gao's assassination plot, Zhang Ao's arrest and demotion, Xie Gong's truth-checking role, Tian Shu and Meng Shu's retainer loyalty, and Guan Gao's torture-resistant exoneration followed by suicide after Zhang Ao's release. Created Xie Gong, Tian Shu, Meng Shu, Guanzhong Elite Relocation, and Torture-Resistant Exoneration; updated overview, index, Guan Gao, Zhang Ao, Zhao Wu, Liu Bang, Liu Jing/Lou Jing, Liu Ruyi, Lu Zhi, Princess Lu Yuan, Modu Chanyu, Xiongnu, Guanzhong, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, Coerced Confession Trap, Political Assassination Ethics, Same-Surname King Enfeoffment, Different-Surname King Suspicion, and Dai Kingdom. No settled contradiction found; Hanji 180 qualifies Hanji 179's anti-substitute warning by recording a substitute-princess implementation.
+
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）
 
 Added source page for Hanji 178 part 2: Liu Bang's post-Baideng reward for Chen Ping at Quni, Zhang Ao's Handan humiliation and the Guan Gao/Zhao Wu assassination conspiracy, Liu Xi's failure in Dai and Liu Ruyi's replacement kingship, Weiyang Palace completion and Sima Guang's criticism, Zongzheng, and the post-Baideng heqin policy turn. Created Quni County, Guan Gao, Zhao Wu (Zhao minister), Liu Ruyi, Zongzheng Office, and Vassal Humiliation Conspiracy; updated overview, index, Chen Ping, Liu Bang, Zhang Ao, Zhang Er, Princess Lu Yuan, Dai Kingdom (early Han), Liu Xi, Weiyang Palace, Xiao He, Sima Guang, Han Wudi, Lou Jing, Western Han dynasty, Same-Surname King Enfeoffment, Untimely Extravagance, and Han-Xiongnu Heqin Policy. No settled contradiction found; preserved the Lu Yuan-Zhang Ao marriage dating and Xiao He's face-saving palace justification as source-scoped interpretations.
