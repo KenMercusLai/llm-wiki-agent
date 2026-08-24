@@ -2,11 +2,15 @@
 title: "杨彪 / Yang Biao"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+last_updated: 2026-08-25
 ---
 
 # 杨彪 / Yang Biao
+
+[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] backfills Yang Biao's earlier open opposition to [[DongZhuo|董卓]]'s forced relocation from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]]. He argues that [[WangMang|王莽]] had already badly damaged [[GuanzhongRegion|关中]], that [[LiuXiu|光武帝]] chose Luoyang for a reason, and that abandoning ancestral temples, imperial tombs, and the people's settled homes would shake the realm.
+
+The source makes Yang Biao a direct remonstrance case inside [[CoerciveCapitalRelocation|强制迁都]]. His warning that unsettling the world is easier than restoring it angers Dong Zhuo; [[HuangWanLateHan|黄琬]] and [[XunShuangLateHan|荀爽]] help de-escalate, but Yang Biao is later removed and has to apologize before being restored to a lower safe office.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Yang Biao's appointment before the later hostage-banquet and Huayin scenes. After [[ZhuJunLateHan|朱儁]] is dismissed as taiwei, Yang Biao becomes taiwei and records shangshu affairs, making him part of the old court office order that must operate inside a field increasingly crowded by military kaifu offices.
 
@@ -25,6 +29,7 @@ The source treats the accusation against Yang Biao as a court-control event rath
 Yang Biao's later withdrawal is the source's practical ending. Seeing the Han royal house weakened and Cao Cao controlling the state, he claims leg illness and stops active political participation for many years, preserving himself by leaving the arena.
 
 ## Connections
+- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[HuangWanLateHan|黄琬]], [[XunShuangLateHan|荀爽]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], and [[CoerciveCapitalRelocation|强制迁都]] - direct opposition to the forced capital move.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[ZhuJunLateHan|朱儁]], [[EmperorXianOfHan|汉献帝]], and [[CourtOfficeCapture|朝廷开府任官失序]] - taiwei appointment inside a weakening court office order.
 - [[CaoCao|曹操]] - powerholder who arrests and releases him.
 - [[EmperorXianOfHan|汉献帝]] - emperor in whose court the case is staged.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？](sources/zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's forced Luoyang-to-Chang'an relocation, Yang Biao and court opposition, Huangfu Song's missed anti-Dong opening, and soldiers' civilian killing, confiscation, and forced migration.
 - [《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？](sources/zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi.
 - [《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？](sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon.md) — 芮淇讲透资治通鉴 episode on Liu Biao's Jingzhou entry, Kuai Liang and Kuai Yue's renyi-versus-force counsel, Cao Cao's Bianshui defeat, Cao Hong's rescue, and the Suanzao coalition's failed pass-control strategy.
 - [《资治通鉴·汉纪》954丨人性本善，还是人性本恶？](sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h.md) — 芮淇讲透资治通鉴 episode on the 191 CE anti-Dong-Zhuo debate over replacing Emperor Xian with Liu Yu, Cao Cao's "师出有名" objection, Yuan Shu's ambition-shadowed refusal, and Liu Yu's title and delegated-authority rejection.
@@ -1492,6 +1493,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲍信 / Bao Xin](entities/BaoXin.md) — Yanzhou actor who advises attrition against the Qingzhou Yellow Turbans, invites Cao Cao, and dies saving him.
 - [万潜 / Wan Qian (late Han)](entities/WanQianLateHan.md) — Yanzhou official who joins Bao Xin in inviting Cao Cao after Liu Dai's death.
 - [青州黄巾军 / Qingzhou Yellow Turbans](entities/QingzhouYellowTurbans.md) — Hungry late-Han armed force that attacks Yanzhou before Cao Cao defeats and later converts the surrendering population into Qingzhou Soldiers.
+- [荀爽 / Xun Shuang (late Han)](entities/XunShuangLateHan.md) — Court official who helps soften Dong Zhuo's confrontation with Yang Biao during the forced relocation debate.
+- [伍琼 / Wu Qiong (late Han)](entities/WuQiongLateHan.md) — City-gate commandant executed after opposing Dong Zhuo's forced relocation to Chang'an.
+- [周毖 / Zhou Bi (late Han)](entities/ZhouBiLateHan.md) — Official executed with Wu Qiong after opposing Dong Zhuo's forced relocation from Luoyang.
+- [葛勋 / Ge Xun (late Han)](entities/GeXunLateHan.md) — Official who discusses Huangfu Song's anti-Dong-Zhuo opening and later defuses Dong Zhuo's threat against Zhu Jun.
+- [梁衍 / Liang Yan (late Han)](entities/LiangYanLateHan.md) — Huangfu Song adviser who proposes escorting Emperor Xian and attacking Dong Zhuo under imperial authority.
 - [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
 - [胡文才 / Hu Wencai (late Han)](entities/HuWencaiLateHan.md) — Liangzhou influence figure whose failed reception by Wang Yun helps push Li Jue's advance toward Chang'an.
 - [杨整修 / Yang Zhengxiu (late Han)](entities/YangZhengxiuLateHan.md) — Liangzhou influence figure paired with Hu Wencai in Wang Yun's failed crisis appeal.
@@ -9445,6 +9451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chronicle Chronology Drift / 编年错位](concepts/ChronicleChronologyDrift.md) — Historiographical caution for preserved early Warring States events that may be placed in the wrong year.
 - [Generational Family Strategy / 家族代际战略](concepts/GenerationalFamilyStrategy.md) — Zhouji 10 frame for reading Han's destruction of Zheng as a lineage-level, multi-generation project.
 - [Strategic Capital Relocation / 战略性迁都](concepts/StrategicCapitalRelocation.md) — Capital-move pattern where geography, supply, security, and political control reshape the usable center of rule.
+- [Coercive Capital Relocation / 强制迁都](concepts/CoerciveCapitalRelocation.md) — Late-Han capital-move pattern where plausible defensive geography is imposed through threat, punished dissent, confiscation, and forced migration.
 - [Kinship Legitimacy Diplomacy / 同源合法性外交](concepts/KinshipLegitimacyDiplomacy.md) — Taishi Dan's Zhou-Qin common-origin appeal read as diplomatic legitimacy work rather than pure prophecy.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.

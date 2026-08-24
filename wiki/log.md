@@ -11358,3 +11358,11 @@ Added source page for Hanji 952: Dong Zhuo's burning and tomb-looting destructio
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？
+
+Added source page for Hanji 951: Dong Zhuo's forced Luoyang-to-Chang'an relocation, Yang Biao's court opposition, Huang Wan and Xun Shuang's de-escalation, Wu Qiong and Zhou Bi's execution, Huangfu Song's missed chance to escort Emperor Xian and attack Dong Zhuo, Ge Xun's remonstrance, and soldiers' civilian killing, abduction, confiscation, and forced migration. Created pages for Xun Shuang, Wu Qiong, Zhou Bi, Ge Xun, Liang Yan, and coercive capital relocation; updated connected Dong Zhuo, Yang Biao, Huang Wan, Huangfu Song, Zhu Jun, Emperor Xian, Luoyang, Chang'an, Guanzhong, windfall, strategic relocation, Mingqi legitimacy, defensive speech, and war-disaster pages. No settled contradiction found; transcript variants around Huangfu Song, Zhu Jun, Wu Qiong, and Zhou Bi are normalized cautiously.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health passed across 14,120 wiki pages; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,120 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page semantic sample found no direct contradictions or stale summaries and flagged missing `## Key Claims` sections in `wiki/concepts/ExportPorcelainCustomization.md`, `wiki/concepts/FinancialPowerAndStateCapacity.md`, and `wiki/concepts/LargeCompanyOpenSourceStrategy.md`. Report returned in-session; `wiki/lint-report.md` was not updated.

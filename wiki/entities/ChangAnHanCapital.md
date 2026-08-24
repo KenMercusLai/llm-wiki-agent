@@ -2,11 +2,15 @@
 title: "长安 / Chang'an (Han capital)"
 type: entity
 tags: [city, han, capital, china]
-sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
+sources: [zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
 last_updated: 2026-08-25
 ---
 
 # 长安 / Chang'an (Han capital)
+
+[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] adds the late-Han forced-relocation prelude before the later assassination and Li-Guo collapse branches. [[DongZhuo|董卓]] argues that Chang'an is easier to defend than [[LuoyangLateHan|洛阳]], closer to his western base, and supported by [[GuanzhongRegion|关中]] terrain and resources.
+
+The source also makes Chang'an's late-Han return morally inverted. What was a defensible capital base in early-Han founding memory becomes the destination of [[CoerciveCapitalRelocation|强制迁都]] when the move is enforced by military threat, punished court opposition, confiscations, and civilian displacement.
 
 [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] adds the capital's reaction immediately after [[DongZhuo|董卓]] is killed. The episode shows Chang'an as a public stage: soldiers accept the edict-limited punishment, residents celebrate in the streets, Dong Zhuo's family is killed, and his corpse becomes a [[PublicCorpseHumiliation|公开尸体羞辱]] spectacle.
 
@@ -29,6 +33,7 @@ The source therefore makes Chang'an part of [[StrategicCapitalRelocation|战略�
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds the late-Han inversion of that capital-security image. After [[EmperorXianOfHan|汉献帝]] leaves, Chang'an falls into more than forty days of unmanaged disorder; the strong flee, the weak remain, and the source's quoted "强者四散，羸者相食" makes the old capital a symbol of order collapse rather than protected abundance.
 
 ## Connections
+- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[LuoyangLateHan|洛阳]], [[GuanzhongRegion|关中]], and [[CoerciveCapitalRelocation|强制迁都]] - late-Han forced relocation destination and strategic rationale.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[DongZhuo|董卓]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], and [[PublicCorpseHumiliation|公开尸体羞辱]] - assassination celebration and corpse-spectacle branch.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[HouHanshu|《后汉书》]], and [[ExecutorCharacterAdviceRisk]] - first Li-Guo counterattack and plunder layer.
 - [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[SongYiLateHan|宋翼]], and [[RigidObedienceCrisisFailure]] - breach, palace fighting, and captured-court summons trap.
