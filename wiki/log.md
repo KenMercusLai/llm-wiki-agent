@@ -11210,3 +11210,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhong Yao releasing Cao Cao's court appointment, the Yuan Shao-Yuan Shu Yangzhou office fight, Yangtze-line strategic geography, Cao Cao's pursuit of Yuan Shu, and Zhao Qi's mediation after Qingzhou proxy-war famine. Created Yangzhou, Qingzhou, Yuan Yi, Chen Wen, Jiangling, and river-corridor strategic-base pages; updated connected late-Han actors and legitimacy/war-disaster concepts. No settled contradiction found; transcript homophones around 袁遗 and 陈瑀 are normalized cautiously.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
