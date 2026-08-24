@@ -2,11 +2,13 @@
 title: "War-Disaster Compounding"
 type: concept
 tags: [war, disaster-history, state-capacity, public-health]
-sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
+sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]
 last_updated: 2026-08-24
 ---
 
 # War-Disaster Compounding
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a late-Han Qingzhou proxy-war case. [[TianKaiLateHan|田楷]] and [[YuanTan|袁谭]] fight for two years under the wider [[GongsunZan|公孙瓒]]-[[YuanShao|袁绍]] rivalry, and the source says armies exhaust food and begin taking from civilians until Qingzhou reaches reported cannibalism and bare-field conditions. The disaster is produced by war duration, competing appointments, and lost local protection, not by a single battlefield loss.
 
 War-disaster compounding is the pattern where armed conflict worsens a disaster by consuming resources, moving populations, damaging production, changing disease exposure, and weakening relief. [[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] applies it to the 1931 flood by tying civil-war campaigns, troop extraction, refugee movement, suspected poisoning, and later disease spread into the flood story.
 
@@ -25,6 +27,7 @@ The source treats war as part of the disaster environment. [[JohnHopeSimpson]]'s
 - Hanji 984 adds that predatory occupation can compound famine even when population remains, because plunder destroys household access and protection.
 
 ## Connections
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[QingzhouLateHan|青州]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[GongsunZan|公孙瓒]], and [[YuanShao|袁绍]] - proxy-war famine and civilian devastation.
 - [[NationalistGovernment]], [[Wuhan]], [[WuLiande]], and [[JohnHopeSimpson]] - source actors and setting.
 - [[DisasterResponseStateCapacity]] - relief and disease-control capacity under conflict.
 - [[WarAwareDisasterRecovery]] - adjacent modern continuity concept for treating war as a disaster scenario.

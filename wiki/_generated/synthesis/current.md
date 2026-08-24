@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 2385cfadf51282c92e4a7eb58e758490f6e6342c
+as_of_overview_commit: 3b7bb017687772ff9e4b1677d31136e11cba2658
 summary: "Podcast Atlas maps how AI, markets, states, culture, science, and careers become durable through workflow fit, legitimacy, trust, and implementation discipline."
-episode_count: 1395
-source_count: 1395
-paragraph_count: 184
+episode_count: 1396
+source_count: 1396
+paragraph_count: 185
 topic_count: 8
 ---
 
@@ -49,21 +49,21 @@ Culture and media sources use literature, folklore, games, podcasts, and platfor
 
 ### Governance and Institutions
 
-Governance is a translation problem: victories, titles, safety claims, markets, missions, reforms, and alliances become durable only through enforceable controls, legitimate procedure, feedback, security design, and social support. Hanji 970 adds that courtesy and office appointment can become covert-elimination channels when alliance security fails.
+Governance is a translation problem: victories, titles, safety claims, markets, missions, reforms, and alliances become durable only through enforceable controls, legitimate procedure, feedback, security design, and social support. Hanji 969 adds that captured appointments and empty provincial offices can preserve legitimacy signals while failing to rule territory or famine.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History and geopolitics show formal names and institutions matter only when backed by material capacity, public trust, elite integration, and situation-reading. Hanji 970 adds a northern late-Han prelude where Yuan Shao's common-enemy cooperation with Lü Bu turns into assassination risk before the later Yanzhou sequence.
+History and geopolitics show formal names and institutions matter only when backed by material capacity, public trust, elite integration, and situation-reading. Hanji 969 adds a pre-Hanji-970 layer where court titles, Yangzhou route geography, and Qingzhou proxy-war famine split nominal office from real control.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-The psychology material treats judgment as calibration under trust, authenticity, uncertainty, boundaries, risk, role fit, status pressure, and emotional attachment. Hanji 970 and Hanji 999 both stress that trust and friendship become unsafe when survival pressures shift.
+The psychology material treats judgment as calibration under trust, authenticity, uncertainty, boundaries, risk, role fit, status pressure, and emotional attachment; confidence and convenience are useful only when exposure and assumptions are sized.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].

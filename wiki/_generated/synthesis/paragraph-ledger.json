@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
       "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
       "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
       "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
@@ -186,11 +187,49 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 184
+    "paragraph_count": 185
   },
-  "overview_commit": "2385cfadf51282c92e4a7eb58e758490f6e6342c",
-  "overview_digest": "877041a8fadd315b8829df7a504a3417d525b9e397a40ec2707c14b94872c5b9",
+  "overview_commit": "3b7bb017687772ff9e4b1677d31136e11cba2658",
+  "overview_digest": "f112dafddec38e89063baec2ae3bd5af62b1f39a79de06449df686017da96234",
   "paragraphs": [
+    {
+      "id": "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that fills the pre-[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] late-Han field through [[ZhongYao|钟繇]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[YangzhouLateHan|扬州]], and [[QingzhouLateHan|青州]]. It adds [[YangzhouLateHan|扬州]], [[QingzhouLateHan|青州]], [[YuanYiLateHan|袁遗]], [[ChenWenLateHan|陈温]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]], while extending [[CaoCao|曹操]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[GongsunZan|公孙瓒]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[ZhaoQiLateHan|赵岐]], [[MingqiLegitimacy|名器合法性]], [[CourtOfficeCapture|朝廷开府任官失序]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[WarDisasterCompounding]], and [[FamineEntitlementFailure]]. Its core synthesis is that late-Han power is being redistributed through three linked gaps: court titles still matter but flow through captured military channels, provincial offices such as Yangzhou cannot command territory without force, and long proxy war in Qingzhou turns elite rivalry into civilian famine. No settled contradiction is recorded; the source normalizes transcript homophones for 袁遗 and 陈瑀 while keeping the episode's claims source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChenWenLateHan",
+        "CourtOfficeCapture",
+        "FamineEntitlementFailure",
+        "GongsunZan",
+        "GuoSiLateHan",
+        "JianglingLateHan",
+        "LiJueLateHan",
+        "MingqiLegitimacy",
+        "QingzhouLateHan",
+        "RiverCorridorStrategicBase",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianKaiLateHan",
+        "WarDisasterCompounding",
+        "XingshiqingStrategicAssessment",
+        "YangzhouLateHan",
+        "YuanShao",
+        "YuanShu",
+        "YuanTan",
+        "YuanYiLateHan",
+        "ZhaoQiLateHan",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+        "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs"
+      ]
+    },
     {
       "id": "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
       "primary_topic": "governance-and-institutions",

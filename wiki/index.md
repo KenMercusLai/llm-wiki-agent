@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？](sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r.md) — 芮淇讲透资治通鉴 episode on Zhong Yao releasing Cao Cao's Li-Guo court appointment, Yuan Shao and Yuan Shu's Yangzhou office fight, Yangtze strategic geography, Cao Cao's pursuit of Yuan Shu, and Qingzhou proxy-war mediation.
 - [《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？](sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's Ye crisis, Tao Sheng's protection of his family, the Black Mountain campaigns against Yu Du and Zhang Yan, and the failed escort-cover assassination of Lü Bu.
 - [《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹](sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku.md) — 芮淇讲透资治通鉴 episode on the disputed killing of Cao Song, the Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup.
 - [《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真](sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2.md) — 芮淇讲透资治通鉴 episode on Liu Yu's failed humane attack against Gongsun Zan, Gongsun Zan's coerced execution of Liu Yu and family, and Tian Chou's loyal mission and Xu Wu Mountain order-building.
@@ -1403,6 +1404,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
+- [青州 / Qingzhou (late Han)](entities/QingzhouLateHan.md) — Late-Han province where Tian Kai and Yuan Tan turn the Gongsun Zan-Yuan Shao rivalry into proxy-war famine.
+- [袁遗 / Yuan Yi (late Han)](entities/YuanYiLateHan.md) — Yuan Shao-side Yangzhou appointee defeated by Yuan Shu after Chen Wen's death.
+- [陈温 / Chen Wen (late Han)](entities/ChenWenLateHan.md) — Yangzhou inspector whose death opens the Yuan-family office fight over the province.
+- [江陵 / Jiangling (late Han)](entities/JianglingLateHan.md) — Jingzhou corridor-control node linking upstream Yizhou and downstream Yangzhou strategy.
 - [袁绍刺吕布未遂 / Yuan Shao-Lü Bu Assassination Attempt](entities/YuanShaoLyuBuAssassinationAttempt.md) — Failed late-Han killing attempt in which Yuan Shao uses appointment and escort cover against Lü Bu, who survives through suspicion, sound decoy, and a prepared escape route.
 - [黑山军 / Heishan Army](entities/HeishanArmy.md) — Late-Han mountain-force network around Yu Du and Zhang Yan that threatens Yuan Shao's Ye base before becoming his retaliation target.
 - [张燕 / Zhang Yan (Late Han)](entities/ZhangYanLateHan.md) — Black Mountain leader whose Changshan campaign makes Yuan Shao and Lü Bu temporary allies before their relationship collapses.
@@ -8655,6 +8661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — Hanji 969 frame for judging Yangzhou, Jingzhou, and Yizhou as route, resource, and state-building bases along the Yangtze.
 - [Courtesy-Covered Elimination / 礼遇包装式清除](concepts/CourtesyCoveredElimination.md) — Pattern where public honor, appointment, or escort protocol conceals a secret removal attempt, as in Yuan Shao's failed strike against Lü Bu.
 - [Benevolent Command Execution Gap / 仁厚指挥执行缺口](concepts/BenevolentCommandExecutionGap.md) — Hanji 972 command-failure pattern where humane restraint is stated but not made executable through discipline, tactics, and siege design.
 - [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.

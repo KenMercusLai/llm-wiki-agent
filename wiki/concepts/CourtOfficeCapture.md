@@ -2,11 +2,13 @@
 title: "Court Office Capture / 朝廷开府任官失序"
 type: concept
 tags: [late-han, court, legitimacy, institutions, appointments]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
+sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
 last_updated: 2026-08-24
 ---
 
 # Court Office Capture / 朝廷开府任官失序
+
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds an outward-facing title-distribution branch. The court captured by [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] can still process appointments for [[CaoCao|曹操]] and later title packages for [[YuanShu|袁术]], but the episode frames those acts as warlord-managed political packaging rather than restored institutional selection.
 
 Court office capture / 朝廷开府任官失序 enters the wiki through [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] as the late-Han pattern in which armed commanders use high titles and kaifu-style office privileges to capture appointment channels without rebuilding real court order.
 
@@ -21,6 +23,7 @@ The concept differs from ordinary factional recommendation. In this source, offi
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[ZhongYao|钟繇]], [[CaoCao|曹操]], [[YuanShu|袁术]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - outward appointment and title-distribution branch.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and [[YangDingLateHan|杨定]] - armed office-holders in the source.
 - [[EmperorXianOfHan|汉献帝]], [[YangBiao|杨彪]], and [[ZhuJunLateHan|朱儁]] - court actors affected by the hollowed appointment order.
 - [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent late-Han institutional concepts.

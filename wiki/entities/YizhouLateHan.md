@@ -2,19 +2,22 @@
 title: "益州 / Yizhou (Late Han)"
 type: entity
 tags: [place, province, late-han, china]
-sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
+sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
 last_updated: 2026-08-24
 ---
 
 # 益州 / Yizhou (Late Han)
 
-益州 / Yizhou (Late Han) enters the wiki through [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] as the provincial base held by [[LiuYanLateHan|刘焉]] and then inherited by [[LiuZhang|刘璋]]. The episode emphasizes that the Han court cannot simply decide Yi Province's leadership from outside; local officeholders and armed groups determine whether a formal appointment can work.
+[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a comparative strategic-geography note before the Liu Yan/Liu Zhang succession branch. The episode places Yizhou beside [[YangzhouLateHan|扬州]] and [[Jingzhou|荆州]] on the Yangtze-line map, treating it as a defensible western base whose remoteness makes it less immediately flexible than Yangzhou or the [[JianglingLateHan|江陵]] pivot in Jingzhou.
+
+[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] later develops 益州 / Yizhou (Late Han) as the provincial base held by [[LiuYanLateHan|刘焉]] and then inherited by [[LiuZhang|刘璋]]. The episode emphasizes that the Han court cannot simply decide Yi Province's leadership from outside; local officeholders and armed groups determine whether a formal appointment can work.
 
 The source treats Yizhou as internally divided. Liu Yan's order depends on a Dongzhou military bloc made from Nanyang and Sanfu migrants, while local Yi Province elite families remain a separate resource and legitimacy base. This makes the province a source case for [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]].
 
 After Liu Yan dies, senior figures such as [[ZhaoWeiLateHan|赵韪]] support Liu Zhang. Yet the same structure produces talent leakage: [[GanNing|甘宁]] rebels, is defeated, and eventually leaves eastward rather than becoming part of Liu Zhang's order.
 
 ## Connections
+- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - comparative Yangtze-line base evaluation.
 - [[LiuYanLateHan|刘焉]] and [[LiuZhang|刘璋]] - predecessor and successor.
 - [[PangXiLateHan|庞羲]] and [[ZhaoWeiLateHan|赵韪]] - officials around the succession.
 - [[GanNing|甘宁]] - local talent-loss case.

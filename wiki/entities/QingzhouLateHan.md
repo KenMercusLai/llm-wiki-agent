@@ -1,0 +1,21 @@
+---
+title: "青州 / Qingzhou (late Han)"
+type: entity
+tags: [place, province, late-han, war, famine, china]
+sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]
+last_updated: 2026-08-24
+---
+
+# 青州 / Qingzhou (late Han)
+
+青州 / Qingzhou (late Han) enters the wiki through [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] as the provincial field where the [[GongsunZan|公孙瓒]]-[[YuanShao|袁绍]] rivalry becomes a proxy war. [[TianKaiLateHan|田楷]] holds the Qingzhou inspector title from the Gongsun Zan side, while [[YuanTan|袁谭]] represents Yuan Shao's side.
+
+The source emphasizes the social cost rather than only the battlefield alignment. After two years of confrontation, armies are exhausted, grain is depleted, soldiers turn on civilians, and the episode cites a report of cannibalism and bare fields. Qingzhou therefore becomes a late-Han case for [[WarDisasterCompounding]] and [[FamineEntitlementFailure]]: rival appointments and military standoff break ordinary food access and local protection.
+
+[[ZhaoQiLateHan|赵岐]]'s mediation closes the source's Qingzhou branch. He uses the emperor's edict against Gongsun Zan and old political leverage against Yuan Shao, producing a temporary settlement and retreat without resolving the deeper northern rivalry.
+
+## Connections
+- [[GongsunZan|公孙瓒]], [[TianKaiLateHan|田楷]], [[YuanShao|袁绍]], and [[YuanTan|袁谭]] - rival appointment and military standoff.
+- [[ZhaoQiLateHan|赵岐]] and [[EmperorXianOfHan|汉献帝]] - mediation and edict channel.
+- [[WarDisasterCompounding]], [[FamineEntitlementFailure]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - civilian cost and social-order frames.
+- [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] and [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] - later northern-war branches.
