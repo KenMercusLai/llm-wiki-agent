@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-25
-as_of_overview_commit: 00adb9fa650d7001a052f66ee38a090a40298c07
+as_of_overview_commit: e701af195f961897462086701c2fc6d82b41967b
 summary: "Podcast Atlas maps how AI, markets, states, culture, science, and careers become durable through workflow fit, legitimacy, trust, and implementation discipline."
-episode_count: 1398
-source_count: 1398
-paragraph_count: 187
+episode_count: 1399
+source_count: 1399
+paragraph_count: 188
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources use literature, folklore, games, podcasts, and platfor
 
 ### Governance and Institutions
 
-Governance translates power into durable order through legitimacy, controls, feedback, procedure, security design, and social support. Hanji 967 adds visibility and executor risk before the later late-Han title and flight sequence.
+Governance translates power into durable order through legitimacy, controls, feedback, procedure, security design, and social support; Hanji 966 now anchors the captured-court prelude before later late-Han title, office, and flight failures.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].

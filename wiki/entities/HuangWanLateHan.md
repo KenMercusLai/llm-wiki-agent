@@ -1,0 +1,20 @@
+---
+title: "黄琬 / Huang Wan (late Han)"
+type: entity
+tags: [person, late-han, official, chang-an]
+sources: [zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]
+last_updated: 2026-08-25
+---
+
+# 黄琬 / Huang Wan (late Han)
+
+黄琬 / Huang Wan enters the wiki through [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] as a court official tied to [[WangYunLateHan|王允]]'s anti-[[DongZhuo|董卓]] settlement. The episode says Huang Wan had helped Wang Yun plan Dong Zhuo's removal and helped stabilize the immediate scene after the killing.
+
+His later arrest and execution after [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] take [[ChangAnHanCapital|长安]] makes him part of the purge field before Hanji 967's hidden-merit contrast around [[ShiSunRuiLateHan|士孙瑞]]. Huang Wan is not developed as a full biography here; his role is to show that visible participation in the anti-Dong-Zhuo order becomes lethal once Dong Zhuo's remnant commanders return with soldiers and captured offices.
+
+## Connections
+
+- [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] - source case.
+- [[WangYunLateHan|王允]] - anti-Dong-Zhuo ally.
+- [[DongZhuo|董卓]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - assassination target and remnant commanders.
+- [[MeritConcealmentSelfProtection]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent frames for why public anti-Dong-Zhuo visibility can become fatal.

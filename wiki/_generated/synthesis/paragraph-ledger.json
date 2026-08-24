@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
       "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
       "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
       "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
@@ -189,11 +190,48 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 187
+    "paragraph_count": 188
   },
-  "overview_commit": "00adb9fa650d7001a052f66ee38a090a40298c07",
-  "overview_digest": "fd2b8bb149736b045aca9db9271488cbbba1ff612483b533ba919a602179cf15",
+  "overview_commit": "e701af195f961897462086701c2fc6d82b41967b",
+  "overview_digest": "9664ff5e40c56f26c9004a08e7b4841f161364f4adbe2ad23abe7c5f4b76f959",
   "paragraphs": [
+    {
+      "id": "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the immediate [[ChangAnHanCapital|长安]] crisis before Hanji 967. It adds [[HuangWanLateHan|黄琬]], [[HuWencaiLateHan|胡文才]], [[YangZhengxiuLateHan|杨整修]], [[SongYiLateHan|宋翼]], [[WangHongLateHan|王宏]], [[ZhaoJianLateHan|赵戬]], and [[RigidObedienceCrisisFailure|危机僵化奉诏]], while extending [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[EmperorXianOfHan|汉献帝]], [[DongZhuo|董卓]], [[LiangzhouWarlordClique|凉州系军阀]], [[MingqiLegitimacy|名器合法性]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[ExecutorCharacterAdviceRisk]]. Its core synthesis is that the first post-Dong-Zhuo Chang'an collapse turns on crisis judgment under captured institutions: Jia Xu's advice saves desperate remnant commanders while enabling court coercion, Wang Yun fails to convert public loyalty into practical leverage, and Song Yi's formal obedience to an imperial summons destroys the outside deterrent Wang Hong still sees. No settled contradiction is recorded; the source's [[JinPingMei|《金瓶梅》]] opening about beauty, wisdom, and power is kept as source-scoped framing for leadership danger.",
+      "topic_scores": {
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "ExecutorCharacterAdviceRisk",
+        "FanChouLateHan",
+        "GuoSiLateHan",
+        "HuWencaiLateHan",
+        "HuangWanLateHan",
+        "JiaXu",
+        "JinPingMei",
+        "LiJueLateHan",
+        "LiangzhouWarlordClique",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RigidObedienceCrisisFailure",
+        "RuiqiJiangtouZizhiTongjian",
+        "SongYiLateHan",
+        "WangHongLateHan",
+        "WangYunLateHan",
+        "XingshiqingStrategicAssessment",
+        "YangZhengxiuLateHan",
+        "ZhaoJianLateHan",
+        "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u"
+      ]
+    },
     {
       "id": "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
       "primary_topic": "governance-and-institutions",

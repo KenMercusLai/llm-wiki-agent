@@ -2,11 +2,13 @@
 title: "贾诩 / Jia Xu"
 type: entity
 tags: [person, late-han, three-kingdoms, adviser, china]
-sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+sources: [zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
 last_updated: 2026-08-25
 ---
 
 # 贾诩 / Jia Xu
+
+[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] supplies the immediate crisis origin for Jia Xu's Chang'an branch. When [[LiJueLateHan|李傕]] and other [[DongZhuo|董卓]] remnant commanders believe disbanding will leave them exposed to execution, Jia Xu advises them to attack [[ChangAnHanCapital|长安]] instead. The source presents the advice as an effective survival move for the remnant commanders, while the later city collapse makes it the direct setup for [[ExecutorCharacterAdviceRisk]].
 
 [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] uses Jia Xu as the programmatic "poison adviser" case for [[DarkAdviserCraft|毒士灰度谋略]]. The episode presents him as a strategist who can use false information to split enemies such as Ma Chao and [[HanSui|韩遂]], then later regulate his visible toxicity after joining [[CaoCao|曹操]] by speaking more cautiously.
 
@@ -36,6 +38,7 @@ In this source, Jia Xu is not yet a full biographical figure. He is the strategi
 
 ## Connections
 - [[ZhangXiu|张绣]] - commander he advises.
+- [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] - immediate crisis-origin branch for the Chang'an advice.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[ExecutorCharacterAdviceRisk]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ChangAnHanCapital|长安]], and [[EmperorXianOfHan|汉献帝]] - Chang'an counterattack advice, reward refusal, and later repair posture.
 - [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]], [[DarkAdviserCraft|毒士灰度谋略]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - generalized false-information and survival-posture reading.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - mediation among Li Jue, Guo Si, and Fan Chou before the factional break.

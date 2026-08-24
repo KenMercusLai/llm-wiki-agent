@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导](sources/zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u.md) — 芮淇讲透资治通鉴 episode on Jia Xu's advice to Dong Zhuo remnants, Wang Yun's failed crisis diplomacy, Chang'an's fall, Lü Bu's escape, and Song Yi/Wang Hong's divergent readings of a captured-court summons.
 - [《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？](sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3.md) — 芮淇讲透资治通鉴 episode on Shi Sunrui's hidden anti-Dong-Zhuo merit, Jia Xu's Chang'an counterattack advice and reward refusal, Li-Guo plunder, Liu Biao/Huangfu Song title reshuffle, and Lü Bu's flight through Yuan Shu, Zhang Yang, and Yuan Shao.
 - [《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋](sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj.md) — 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's legitimacy-logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel.
 - [《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？](sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r.md) — 芮淇讲透资治通鉴 episode on Zhong Yao releasing Cao Cao's Li-Guo court appointment, Yuan Shao and Yuan Shu's Yangzhou office fight, Yangtze strategic geography, Cao Cao's pursuit of Yuan Shu, and Qingzhou proxy-war mediation.
@@ -1406,6 +1407,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
+- [胡文才 / Hu Wencai (late Han)](entities/HuWencaiLateHan.md) — Liangzhou influence figure whose failed reception by Wang Yun helps push Li Jue's advance toward Chang'an.
+- [杨整修 / Yang Zhengxiu (late Han)](entities/YangZhengxiuLateHan.md) — Liangzhou influence figure paired with Hu Wencai in Wang Yun's failed crisis appeal.
+- [宋翼 / Song Yi (late Han)](entities/SongYiLateHan.md) — Wang Yun-side official whose rigid obedience to a captured-court summons removes the last outside deterrent against Li-Guo executions.
+- [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
+- [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
 - [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han taiwei whose dismissal in Hanji 967 marks the captured Chang'an court's appointment/removal power.
 - [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
@@ -8667,6 +8674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.
 - [Merit Concealment Self-Protection](concepts/MeritConcealmentSelfProtection.md) — Hanji 967 pattern where dangerous public credit is left unclaimed so survival and clan continuity are protected.
 - [Executor Character Advice Risk](concepts/ExecutorCharacterAdviceRisk.md) — Hanji 967 pattern where sound survival advice becomes destructive when violent executors gain coercive power.
 - [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — Hanji 969 frame for judging Yangzhou, Jingzhou, and Yizhou as route, resource, and state-building bases along the Yangtze.
