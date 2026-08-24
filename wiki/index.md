@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑](sources/zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr.md) — 芮淇讲透资治通鉴 episode on the anti-Dong-Zhuo coalition's formation, Yuan Shao's prestige-based leadership, Bao Xin's early recognition of Cao Cao, Liu Bian's poisoning by Li Ru, Zheng Tai's coalition diagnosis, and Dong Zhuo's pre-relocation chenwei argument.
 - [《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？](sources/zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's forced Luoyang-to-Chang'an relocation, Yang Biao and court opposition, Huangfu Song's missed anti-Dong opening, and soldiers' civilian killing, confiscation, and forced migration.
 - [《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？](sources/zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi.
 - [《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？](sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon.md) — 芮淇讲透资治通鉴 episode on Liu Biao's Jingzhou entry, Kuai Liang and Kuai Yue's renyi-versus-force counsel, Cao Cao's Bianshui defeat, Cao Hong's rescue, and the Suanzao coalition's failed pass-control strategy.
@@ -1423,6 +1424,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
+- [李儒 / Li Ru (late Han)](entities/LiRuLateHan.md) — Dong Zhuo-side official who carries out the poisoning of Liu Bian in Hanji 950.
+- [郑泰 / Zheng Tai (late Han)](entities/ZhengTaiLateHan.md) — Court official whose advice restrains Dong Zhuo from immediate mass attack and diagnoses the anti-Dong-Zhuo coalition's weak cohesion.
+- [王匡 / Wang Kuang (late Han)](entities/WangKuangLateHan.md) — Henei administrator stationed with Yuan Shao during the first anti-Dong-Zhuo deployment.
+- [孔伷 / Kong Zhou (late Han)](entities/KongZhouLateHan.md) — Coalition participant stationed at Yingchuan and cited in Zheng Tai's critique of Guandong military capacity.
+- [乔瑁 / Qiao Mao (late Han)](entities/QiaoMaoLateHan.md) — Suanzao coalition participant named in the first anti-Dong-Zhuo deployment.
 - [王瑞 / Wang Rui (late Han)](entities/WangRuiLateHan.md) — Jingzhou inspector whose contempt for Sun Jian and threat against Cao Yin become the Hanji 952 loose-speech survival failure.
 - [曹寅 / Cao Yin (late Han)](entities/CaoYinLateHan.md) — Wuling administrator who forges a court-envoy order to push Sun Jian against Wang Rui after Wang Rui threatens him.
 - [张咨 / Zhang Zi (late Han)](entities/ZhangZiLateHan.md) — Nanyang administrator whom Sun Jian kills after a grain refusal, making supply coercion part of Sun Jian's pre-Yuan-Shu rise.
@@ -8768,6 +8775,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prestige-Based Coalition Leadership / 名望型联盟领导](concepts/PrestigeBasedCoalitionLeadership.md) — Hanji 950 pattern where Yuan Shao's family prestige and public anti-Dong-Zhuo reputation convene a coalition without guaranteeing command capacity.
 - [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Hanji 952 pattern where grave robbery and mausoleum destruction attack ritual order, memory, and cultural inheritance as well as seizing wealth.
 - [Psychological Surrender Trap / 心理迫降陷阱](concepts/PsychologicalSurrenderTrap.md) — Hanji 956 pattern where manufactured external pressure and comparative questioning make an actor surrender real assets while imagining reputation and safety.
 - [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.

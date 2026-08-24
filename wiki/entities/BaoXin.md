@@ -2,11 +2,15 @@
 title: "鲍信 / Bao Xin"
 type: entity
 tags: [person, late-han, yanzhou, military, cao-cao]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 鲍信 / Bao Xin
+
+[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] gives Bao Xin an earlier recognition role inside the first [[AntiDongZhuoCoalition|反董卓联盟]]. While [[YuanShao|袁绍]] receives the public盟主 position, Bao Xin privately identifies [[CaoCao|曹操]] as the figure most likely to plan great affairs and restore order.
+
+This makes Bao Xin's later support for Cao Cao less sudden. Before he urges Cao Cao toward [[DongCommandery|东郡]] in Hanji 957 and helps bring him into [[YanzhouLateHan|兖州]] in Hanji 964, the source already shows Bao Xin valuing executable judgment over inherited prestige.
 
 [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] gives Bao Xin an earlier strategic role before his later [[YanzhouLateHan|兖州]] death branch. After [[YuanShao|袁绍]] takes [[JizhouLateHan|冀州]], Bao Xin tells [[CaoCao|曹操]] that Yuan Shao is using anti-Dong-Zhuo prestige to build a northern base and should be watched.
 
@@ -18,6 +22,7 @@ After Liu Dai dies, Bao Xin and [[WanQianLateHan|万潜]] ask [[CaoCao|曹操]] 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - early judgment that Cao Cao matters despite Yuan Shao's public leadership.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[DongCommandery|东郡]], [[ZhangMiaoLateHan|张邈]], and [[GongsunZan|公孙瓒]] - early base-opening strategy before Cao Cao's Yanzhou branch.
 - [[LiuDaiLateHan|刘岱]] - Yanzhou inspector who rejects Bao Xin's advice.
 - [[CaoCao|曹操]] - leader Bao Xin helps bring into Yanzhou and dies saving.

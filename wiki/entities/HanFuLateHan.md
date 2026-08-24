@@ -2,11 +2,15 @@
 title: "韩馥 / Han Fu (late Han)"
 type: entity
 tags: [person, late-han, official, jizhou]
-sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
+sources: [zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
 last_updated: 2026-08-25
 ---
 
 # 韩馥 / Han Fu (late Han)
+
+[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] gives Han Fu his coalition-formation role before the alternative-emperor and Jizhou-surrender branches. While [[YuanShao|袁绍]] and [[WangKuangLateHan|王匡]] occupy [[HeneiCommandery|河内]], Han Fu remains at [[YeLateHan|邺城]] to handle grain supply for the [[AntiDongZhuoCoalition|反董卓联盟]].
+
+This places Han Fu's later Jizhou story in a logistics frame. Before he becomes the fearful target of Yuan Shao's pressure, he already controls the food base that keeps the coalition operational.
 
 [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds Han Fu before the Jizhou surrender branch as Yuan Shao's partner in the attempt to install [[LiuYuLateHan|刘虞]] as an alternative emperor. With [[EmperorXianOfHan|汉献帝]] under [[DongZhuo|董卓]]'s control, Han Fu joins the argument that a new Han-clan sovereign could free the Guandong leaders from the captured court's commands.
 
@@ -26,6 +30,7 @@ Han Fu's role is therefore less a full biography than a route marker in [[Crisis
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YeLateHan|邺城]], [[HeneiCommandery|河内郡]], and [[YuanShao|袁绍]] - coalition logistics role before Jizhou pressure.
 - [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], [[ChengHuanLateHan|程奂]], [[PsychologicalSurrenderTrap|心理迫降陷阱]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored warnings and fear-driven surrender of Jizhou.
 - [[XunYu|荀彧]] - migrant elite who initially seeks Han Fu's protection.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[ZhuHanLateHan|朱瀚]], [[ZhangMiaoLateHan|张邈]], [[Chenliu|陈留]], and [[PostPowerSafetyCollapse|失势后的安全崩塌]] - post-Jizhou revenge exposure, flight, and suicide branch.

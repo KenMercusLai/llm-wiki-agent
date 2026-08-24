@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
       "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
       "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
       "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
@@ -200,11 +201,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 198
+    "paragraph_count": 199
   },
-  "overview_commit": "ad0acc229cefa5dc9f669f711ff6e44aaf4eee0c",
-  "overview_digest": "fc92e9b8a11827cf106d0802d9921ccb8bf7d93ba790332957d29edf9cb165e0",
+  "overview_commit": "f104cc10ca92c35da6bbb33706f2436839ed8e9f",
+  "overview_digest": "37ec2455b111a939001164a84e9490de653d47006c6b99a3a0e77ba410fb17a0",
   "paragraphs": [
+    {
+      "id": "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] late-Han coalition formation. It adds [[LiuBianHongnongWang|刘辩 / 弘农王]], [[LiRuLateHan|李儒]], [[ZhengTaiLateHan|郑泰]], [[WangKuangLateHan|王匡]], [[KongZhouLateHan|孔伷]], [[QiaoMaoLateHan|乔瑁]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]], while extending [[DongZhuo|董卓]], [[YuanShao|袁绍]], [[BaoXin|鲍信]], [[CaoCao|曹操]], [[HanFuLateHan|韩馥]], [[ZhuJunLateHan|朱儁]], [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[CoalitionSelfPreservationFailure|联盟自保失灵]], and [[ChenweiPolitics|谶纬政治]]. Its core synthesis is that the anti-Dong-Zhuo front is fragile at birth: Yuan Shao's prestige can convene a common-enemy coalition, Bao Xin can already see Cao Cao's latent executive capacity, Dong Zhuo's killing of Liu Bian supplies moral outrage, and Zheng Tai diagnoses why separate commanders, titles, logistics, and self-interest may keep the alliance from becoming a durable command. No settled contradiction is recorded; transcript \"朱俊\" is normalized to [[ZhuJunLateHan|朱儁]], and the host's motive readings remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "BaoXin",
+        "CaoCao",
+        "ChenweiPolitics",
+        "CoalitionSelfPreservationFailure",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "HanFuLateHan",
+        "InterestStructuredAllianceFragility",
+        "KongZhouLateHan",
+        "LiRuLateHan",
+        "LiuBianHongnongWang",
+        "PrestigeBasedCoalitionLeadership",
+        "QiaoMaoLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangKuangLateHan",
+        "YuanShao",
+        "ZhengTaiLateHan",
+        "ZhuJunLateHan",
+        "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr",
+        "zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh"
+      ]
+    },
     {
       "id": "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
       "primary_topic": "governance-and-institutions",
