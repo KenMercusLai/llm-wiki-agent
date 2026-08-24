@@ -11322,3 +11322,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？
 
 Added source page for Hanji 956: Huangfu Song and Cai Yong's defensive speech under Dong Zhuo, Dong Zhuo's terror administration, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite troops, grain, and repeated subordinate objections. Created Gao Gan, Xin Ping, Geng Wu, Min Chun, Li Li (Han Fu retainer), Zhao Fu, Cheng Huan, psychological surrender trap, and defensive speech under tyranny pages; updated connected late-Han actors and strategy/feedback/survival concepts. No settled contradiction found; the cognition hierarchy and host-side moral diagnosis of Han Fu remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
