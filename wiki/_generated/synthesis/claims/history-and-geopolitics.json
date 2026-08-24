@@ -343,6 +343,31 @@
       ]
     },
     {
+      "global_candidate": false,
+      "id": "late-han-survival-needs-corrective-advice-and-elite-integration",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 981's backfilled pre-Hanji-982 late-Han branch.",
+        "The source treats Cheng Yu's advice, Yizhou succession, Gan Ning's departure, and Liu Bei's Xuzhou hesitation as connected survival cases rather than a complete biography of any actor."
+      ],
+      "statement": "Hanji 981 adds a compact late-Han prelude in which survival depends on both adviser correction and local coalition design: [[ChengYu]] blocks [[CaoCao]] from entering [[YuanShao]]'s [[HostageBackedDependencyTrap]], while [[LiuZhang]]'s inheritance of [[YizhouLateHan]] and the loss of [[GanNing]] through [[ImportedTroopsLocalEliteCleavage]] show how weak elite integration can undermine a region, and [[TaoQianLateHan]]'s handoff plus [[LiuBei]]'s hesitation makes [[LocalEliteProxySelection]] visible before the Xuzhou branch.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+        "ChengYu",
+        "CaoCao",
+        "YuanShao",
+        "HostageBackedDependencyTrap",
+        "LiuZhang",
+        "YizhouLateHan",
+        "GanNing",
+        "ImportedTroopsLocalEliteCleavage",
+        "TaoQianLateHan",
+        "LiuBei",
+        "LocalEliteProxySelection",
+        "YanzhouLateHan"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "warring-states-power-was-built-through-enforceable-systems",
       "qualifications": [
@@ -406,6 +431,6 @@
       ]
     }
   ],
-  "summary": "Hanji 984 adds the immediate pre-Hanji-985 Chang'an rupture: the Liangzhou warlord bloc turns plunder and famine into Sanfu collapse, Fan Chou's prestige becomes purgeable after Li Li reports his Han Sui contact, and Li Xian's palace seizure starts protector-captor ambiguity before the dual-hostage stage. Hanji 986 adds the pre-Hanji 987 late-Han hinge: Li Jue's failed mediation shows feedback collapse around court hostages, and Cao Cao's Juye/Yanzhou recovery creates the Xuzhou temptation later disciplined by base-priority logic. The history and geopolitics material now spans late-Han state collapse, Warring States institutionalization, Northern Ireland's partition-to-civil-rights escalation path, physical internet geopolitics, and handset ecosystem shifts. Hanji 992 adds the pre-Jiangdong and pre-Xu-court legitimacy branch: Emperor Xian's Anyi court still carries title force despite ruined material capacity, Yuan Shao misses Ju Shou's legitimacy-window advice, and Sun Ce's modest mission succeeds because Zhou Yu and the Danyang network make it executable. Hanji 994 then turns the same Jiangdong line toward organization-building through Lu Fan's discipline work and staff-trust without ego threat. Across the topic, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
+  "summary": "Hanji 981 now backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang's inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian's handoff plus Liu Bei's hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu's title failure, Chen-family survival strategy, local-order fragility, and Cao Cao's talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland's partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
   "topic_id": "history-and-geopolitics"
 }

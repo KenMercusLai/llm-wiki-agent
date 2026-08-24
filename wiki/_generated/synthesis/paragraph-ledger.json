@@ -176,12 +176,13 @@
       "7d8bba114571475f8050ad2b392e10a8629496b1e98fd1f8dc00ee346c2ec192",
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
-      "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025"
+      "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
+      "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 176
+    "paragraph_count": 177
   },
-  "overview_commit": "04e448a5d8219b55041eaf5d509d08b0043f45aa",
-  "overview_digest": "238fb8734eef96f9e64bcd95b312866c4d310abb8aff7458270656b87064ed90",
+  "overview_commit": "2eba9698ac1684d4bdcb278a98309c59bb000684",
+  "overview_digest": "ffdb850e73c5111802530adca2763eec29b584240955582cf0b3df8b54d84307",
   "paragraphs": [
     {
       "id": "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
@@ -4949,6 +4950,32 @@
         "SoftwareMaintenanceRevenueCompression",
         "Tesla",
         "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260"
+      ]
+    },
+    {
+      "id": "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] late-Han source adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches. [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting [[YizhouLateHan|益州]] and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaoCao",
+        "ChengYu",
+        "GanNing",
+        "HostageBackedDependencyTrap",
+        "ImportedTroopsLocalEliteCleavage",
+        "LiuBei",
+        "LiuZhang",
+        "LocalEliteProxySelection",
+        "TaoQianLateHan",
+        "YanzhouLateHan",
+        "YizhouLateHan",
+        "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
       ]
     }
   ],

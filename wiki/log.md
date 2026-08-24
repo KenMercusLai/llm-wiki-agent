@@ -10770,6 +10770,10 @@ Added source page for Hanji 1002: Yuan Shu's impending imperial claim, Sun Ce's 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服
+
+Added source page for a 芮淇讲透资治通鉴 episode on Cheng Yu stopping Cao Cao from accepting Yuan Shao's hostage-backed dependency offer, Liu Yan's failed Guanzhong intervention, Liu Zhang's Yi Province succession and Gan Ning talent-loss branch, and Tao Qian's Xuzhou handoff to Liu Bei. Created pages for Cheng Yu, Liu Yan, Liu Zhang, Yizhou, Pang Xi, Zhao Wei, Liu Fan, Liu Dan, Hostage-Backed Dependency Trap, and Imported Troops Local Elite Cleavage; updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; Tao Qian's medical speculation and the modern boundary lesson are kept source-scoped.
+
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -11085,6 +11089,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》986丨天欲其亡，必先令其狂
 
 Added source page for a 芮淇讲透资治通鉴 episode on Li Jue rejecting Emperor Xian's mediation, Zhao Wen and Huangfu Li's dangerous remonstrance, Wang Chang sparing Huangfu Li, Cao Cao's Juye/Yanzhou ambush against Lü Bu, and Cao Cao's temptation to attack Xuzhou after Tao Qian's death. Created pages for Zhao Wen, Huangfu Li, Wang Chang, Xue Lan, and Li Feng; updated index and connected late-Han entity/concept pages. No settled contradiction found; Li Jue's psychology and the title judgment are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 
