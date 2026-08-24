@@ -2,8 +2,8 @@
 title: "贾诩 / Jia Xu"
 type: entity
 tags: [person, late-han, three-kingdoms, adviser, china]
-sources: [zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+last_updated: 2026-08-25
 ---
 
 # 贾诩 / Jia Xu
@@ -11,6 +11,8 @@ last_updated: 2026-08-24
 [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] uses Jia Xu as the programmatic "poison adviser" case for [[DarkAdviserCraft|毒士灰度谋略]]. The episode presents him as a strategist who can use false information to split enemies such as Ma Chao and [[HanSui|韩遂]], then later regulate his visible toxicity after joining [[CaoCao|曹操]] by speaking more cautiously.
 
 This source-scoped branch makes Jia Xu more than a late-Han crisis manager in the wiki. He becomes a reference point for the overlap between [[CounterintelligenceRumorWedge|反间流言楔入]], [[CovertPoliticalTechnology|阴谋式政治技术]], and [[PoliticalSurvivalFirst|安全第一政治生存]]: the same adviser can be useful because he is dangerous, and survivable because he knows when to look less dangerous.
+
+[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills Jia Xu's Chang'an turning point. When [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and other [[DongZhuo|董卓]] remnant commanders consider dissolving their troops after Dong Zhuo's death, Jia Xu advises them not to disband but to counterattack [[ChangAnHanCapital|长安]] as a survival move. The episode treats the advice as effective self-preservation that escapes his control once violent executors rule the capital: Li-Guo forces plunder Chang'an, and Jia Xu later refuses marquis reward by saying "此救命之计，我何功之有," then tries to limit harm to [[EmperorXianOfHan|汉献帝]] and adopts a lower-profile family survival posture.
 
 [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] backfills Jia Xu as a mediator before the later emperor-protection branches. He works among [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] inside the [[LiangzhouWarlordClique|凉州系军阀]], preserving surface peace even though the underlying distrust remains. Once Fan Chou is killed and Li Jue and Guo Si begin suspecting each other, Jia Xu's mediation is shown as tactical crisis management rather than a structural repair.
 
@@ -34,6 +36,7 @@ In this source, Jia Xu is not yet a full biographical figure. He is the strategi
 
 ## Connections
 - [[ZhangXiu|张绣]] - commander he advises.
+- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[ExecutorCharacterAdviceRisk]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ChangAnHanCapital|长安]], and [[EmperorXianOfHan|汉献帝]] - Chang'an counterattack advice, reward refusal, and later repair posture.
 - [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]], [[DarkAdviserCraft|毒士灰度谋略]], [[CounterintelligenceRumorWedge|反间流言楔入]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - generalized false-information and survival-posture reading.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - mediation among Li Jue, Guo Si, and Fan Chou before the factional break.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiuAiLateHan|刘艾]], and [[MingqiLegitimacy|名器合法性]] - Qiang-Hu detachment and immediate emperor-protection branch.

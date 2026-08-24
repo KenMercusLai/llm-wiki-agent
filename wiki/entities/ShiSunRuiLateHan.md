@@ -2,19 +2,22 @@
 title: "士孙瑞 / Shi Sun Rui (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
+last_updated: 2026-08-25
 ---
 
 # 士孙瑞 / Shi Sun Rui (late Han)
+
+[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills Shi Sun Rui's earlier survival after [[DongZhuo|董卓]]'s killing. The episode says Shi Sun Rui participates in the anti-Dong-Zhuo action, but [[WangYunLateHan|王允]] takes public credit and Shi Sun Rui does not press the reward claim. [[SimaGuang|司马光]]'s "有功不伐，以保其身" turns his unclaimed merit into [[MeritConcealmentSelfProtection|merit concealment self-protection]]: staying outside the visible center protects both the person and the clan.
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] first places Shi Sun Rui inside the ministerial hostage side of the Li-Guo crisis. [[GuoSiLateHan|郭汜]] detains him with [[YangBiao|杨彪]], [[ZhuJunLateHan|朱儁]], and other court officials while [[LiJueLateHan|李傕]] holds [[EmperorXianOfHan|汉献帝]].
 
 [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] later shows Shi Sun Rui as a court official killed by Li Jue during Emperor Xian's flight. The source notes that Shi Sun Rui had earlier helped Wang Yun kill [[DongZhuo|董卓]], survived that earlier crisis, but dies in the renewed pursuit and river-crossing catastrophe.
 
-His page is source-scoped. Shi Sun Rui matters here less as a complete biography than as a survival-limit case: prior anti-Dong Zhuo merit does not protect an official once armed men again control the emperor's surroundings.
+His page is source-scoped. Shi Sun Rui now matters in two linked ways: Hanji 967 makes him a survival-through-low-visibility case, while Hanji 991 makes him a survival-limit case because prior anti-Dong-Zhuo merit does not protect an official once armed men again control the emperor's surroundings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[WangYunLateHan|王允]], [[SimaGuang|司马光]], and [[MeritConcealmentSelfProtection]] - earlier hidden-merit survival branch.
 - [[GuoSiLateHan|郭汜]], [[YangBiao|杨彪]], and [[ZhuJunLateHan|朱儁]] - Hanji 985 hostage field.
 - [[LiJueLateHan|李傕]] - killer in the source account.
 - [[DongZhuo|董卓]] - earlier target in the source's retrospective note.

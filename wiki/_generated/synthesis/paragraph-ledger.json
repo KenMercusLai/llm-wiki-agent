@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
       "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
       "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
       "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
@@ -188,11 +189,44 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 186
+    "paragraph_count": 187
   },
-  "overview_commit": "e5438a7d7e71d4de7aa8ac13c39e9ce8cc9d26c5",
-  "overview_digest": "8b55087174a5a66ebf1f771460fad62d9606f6c8047578c7dc6c4dce82ace638",
+  "overview_commit": "00adb9fa650d7001a052f66ee38a090a40298c07",
+  "overview_digest": "fd2b8bb149736b045aca9db9271488cbbba1ff612483b533ba919a602179cf15",
   "paragraphs": [
+    {
+      "id": "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the immediate post-[[DongZhuo|董卓]] aftermath before Hanji 968-970. It adds [[WangYunLateHan|王允]], [[HuangfuSongLateHan|皇甫嵩]], [[MeritConcealmentSelfProtection]], and [[ExecutorCharacterAdviceRisk]], while extending [[ShiSunRuiLateHan|士孙瑞]], [[JiaXu|贾诩]], [[LyuBu|吕布]], [[YuanShu|袁术]], [[ZhangYangLateHan|张杨]], [[YuanShao|袁绍]], [[LiuBiao|刘表]], [[EmperorXianOfHan|汉献帝]], [[ChangAnHanCapital|长安]], [[HouHanshu|《后汉书》]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[DarkAdviserCraft|毒士灰度谋略]], [[GoodIntentionsPoliticalLimits]], and [[MingqiLegitimacy|名器合法性]]. Its core synthesis is that late-Han survival turns on controlled visibility and executor quality: Shi Sunrui is protected because public credit for killing Dong Zhuo does not attach to him, Jia Xu's counterattack advice saves Dong Zhuo's remnant commanders while helping unleash Chang'an catastrophe, and Lü Bu's loud credit claim alienates Yuan Shu before the Yuan Shao branch. No settled contradiction is recorded; Jia Xu's guilt/repair arc and the host's self-cultivation analogies remain source-scoped interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChangAnHanCapital",
+        "DarkAdviserCraft",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "ExecutorCharacterAdviceRisk",
+        "GoodIntentionsPoliticalLimits",
+        "HouHanshu",
+        "HuangfuSongLateHan",
+        "JiaXu",
+        "LiuBiao",
+        "LyuBu",
+        "MeritConcealmentSelfProtection",
+        "MingqiLegitimacy",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "YuanShao",
+        "YuanShu",
+        "ZhangYangLateHan",
+        "zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3"
+      ]
+    },
     {
       "id": "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
       "primary_topic": "governance-and-institutions",

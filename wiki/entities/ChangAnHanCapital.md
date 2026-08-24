@@ -2,11 +2,13 @@
 title: "长安 / Chang'an (Han capital)"
 type: entity
 tags: [city, han, capital, china]
-sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
+last_updated: 2026-08-25
 ---
 
 # 长安 / Chang'an (Han capital)
+
+[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills the immediate post-[[DongZhuo|董卓]] catastrophe. After [[JiaXu|贾诩]] advises [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and other remnant commanders not to disband but to counterattack, Chang'an is taken and plundered. The episode cites [[HouHanshu|《后汉书》]] for the scale of corpses, bloodshed, and deaths, making Chang'an the site where survival advice becomes an urban disaster.
 
 [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds the 194 CE court-plot setting before the later open Li-Guo devastation. [[EmperorXianOfHan|汉献帝]] formally comes of age in Chang'an and the court can still perform rites for [[WangMeirenLateHan|王美人]], but the same city contains an exposed internal conspiracy by [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] against [[LiJueLateHan|李傕]].
 
@@ -23,6 +25,7 @@ The source therefore makes Chang'an part of [[StrategicCapitalRelocation|战略�
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds the late-Han inversion of that capital-security image. After [[EmperorXianOfHan|汉献帝]] leaves, Chang'an falls into more than forty days of unmanaged disorder; the strong flee, the weak remain, and the source's quoted "强者四散，羸者相食" makes the old capital a symbol of order collapse rather than protected abundance.
 
 ## Connections
+- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[HouHanshu|《后汉书》]], and [[ExecutorCharacterAdviceRisk]] - first Li-Guo counterattack and plunder layer.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[WangMeirenLateHan|王美人]], [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] - 194 CE court rite and failed internal plot.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[HouWenLateHan|侯汶]], [[EmperorXianOfHan|汉献帝]], [[DisasterResponseStateCapacity|Disaster Response State Capacity]], and [[CourtOfficeCapture|朝廷开府任官失序]] - earlier famine, relief fraud, and court-capacity branch.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] - source case.
