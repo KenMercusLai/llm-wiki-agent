@@ -2,8 +2,8 @@
 title: "Good Intentions Political Limits"
 type: concept
 tags: [ethics, politics, realism, responsibility]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-21
+sources: [zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 35-tianzhende-renleixuejia-zuo-tianye-hui-shangyin-de-603418624, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+last_updated: 2026-08-24
 ---
 
 # Good Intentions Political Limits
@@ -28,6 +28,8 @@ The concept does not reject goodness. The source argues that people need conscie
 
 [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-1-ljxbn4gznuohegzyee0-tudi9z-y]] adds a court-survival version through [[TianDan|田单]]. His act of giving a fur robe to a freezing old man is morally simple, but [[QiXiangWang|齐襄王]] interprets it as competition for popular loyalty. The source does not reject the kindness; it shows that in a suspicious court, good action may need [[PoliticalCreditAppropriation|political packaging]] to avoid becoming a threat signal.
 
+[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] adds a late-Han military-command case through [[LiuYuLateHan|刘虞]]. Liu Yu's order not to burn and to kill only [[GongsunZan|公孙瓒]] is morally legible, but it fails because the army lacks the discipline and tactics to make that restraint executable. The episode therefore narrows this concept into [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]]: good intention still needs institutions, training, and operational means.
+
 ## Key Claims
 - Goodness without realism can become helpless, but realism without conscience becomes corruption.
 - The episode separates "is" and "ought" without allowing the "is" to erase the "ought."
@@ -41,6 +43,7 @@ The concept does not reject goodness. The source argues that people need conscie
 - The Song unification branch adds that ending fragmentation is not automatically humane if conquest discipline and postwar governance fail.
 - The Zi Chan branch adds that personal kindness can be politically inadequate when a public infrastructure problem needs a durable public fix.
 - The Tian Dan branch adds that personal kindness can also be politically unsafe when a ruler treats popular gratitude as rival legitimacy.
+- Hanji 972 adds that humane command can fail if it gives an army a moral limit without an executable way to achieve the objective.
 
 ## Connections
 - [[MachiavellianRealism]] and [[NonMoralPoliticalAnalysis]] - concepts that create the pressure on naive goodness.
@@ -55,3 +58,4 @@ The concept does not reject goodness. The source argues that people need conscie
 - [[SongUnificationStrategy|先南后北]], [[SichuanPostConquestResistance|川蜀征服后反抗]], and [[WangQuanbin|王全斌]] - Song unification-cost extension.
 - [[ZiChan|子产]], [[ZhengState|郑国]], [[Mengzi|孟子 / Mencius]], [[LocalGovernanceAsCare|Local Governance As Care]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 75-1 river-crossing and bridge-building extension.
 - [[TianDan|田单]], [[QiXiangWang|齐襄王]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[PoliticalCreditAppropriation|善行君恩化]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - Zhouji 81 sincere mercy interpreted as court threat.
+- [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]], [[LiuYuLateHan|刘虞]], [[GongsunZan|公孙瓒]], and [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]] - humane military restraint failing without command execution.

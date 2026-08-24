@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真
+
+Added source page for Hanji 972: Liu Yu's failed humane attack against Gongsun Zan, his retreat to Juyong Pass and coerced marketplace execution after Duan Xun's edict, Tian Chou's covert mission to Emperor Xian, and Tian Chou's later Xu Wu Mountain settlement. Created Tian Chou, Duan Xun, Juyong Pass, Youbeiping Commandery, Wuzhong County, Xu Wu Mountain, and Benevolent Command Execution Gap; updated overview, index, Liu Yu, Gongsun Zan, Youzhou, Emperor Xian of Han, Wuhuan, Good Intentions Political Limits, Confucian Military Idealism Limits, Xunzian Command Restraint, People-Based Political Security, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source backfills Hanji 998's Liu Yu backlash rather than reversing it.
+
 ## [2026-08-24] ingest | 696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)
 
 Added source page for a The Rest Is History episode on Mary, Queen of Scots' final months: the Babington Plot, Walsingham's turned courier and cryptanalytic trap, the Act for the Queen's Safety, trial at Fotheringhay, Elizabeth I's warrant hesitation, Mary's execution performance, and escalation toward the Spanish Armada. Created pages for Mary Queen of Scots, Elizabeth I, Francis Walsingham, William Cecil / Lord Burleigh, Anthony Babington, Gilbert Gifford, Thomas Phillips, Amias Paulet, Chartley Manor, Fotheringhay Castle, Babington Plot, Act for the Queen's Safety, Spanish Armada, Tudor Succession Crisis, Spy Network Entrapment, Royal Execution Legitimacy, Political Trial Theatre, Martyrdom Staging, and Confessional War Escalation; updated overview, index, The Rest Is History, England, and Spain. No settled contradiction found; the Armada link is preserved as escalation context rather than a single-cause explanation.
@@ -11173,6 +11177,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu detecting Zha
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. Report was printed but not saved to lint-report.md.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

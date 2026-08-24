@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: 71f47af1c24902dc079e6bd42f6d9d9b85bcc632
-input_digest: a82adb76b3f077ed40c7c3653028939b81dcbe4482730398a9404539086b06b3
+as_of_overview_commit: f3b495a9d676662f5d7d76c6beea984385661bfa
+input_digest: baf98bb8d5313fe740d318b311c6d79615070ff140cb3141c962d0feb4fc1e24
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Episode 696 adds an Elizabethan England-Spain branch in which Mary Stuart's Catholic succession claim, the Babington Plot, Walsingham's intelligence operation, and scaffold symbolism feed confessional escalation toward the Spanish Armada without reducing the Armada to a single cause. Hanji 975 and 978 now backfill Cao Cao's Yanzhou survival before the Cangting and Puyang branches: Xun Yu detects Zhang Miao, Chen Gong, and Lü Bu's break from title and route clues, recalls Xiahou Dun to protect Juancheng, then preserves Juancheng through composure and Guo Gong's uncertainty, while Cheng Yu and Jin Yun keep Fan County despite hostage pressure and later filial-duty criticism. Hanji 981 backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang's inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian's handoff plus Liu Bei's hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu's title failure, Chen-family survival strategy, local-order fragility, and Cao Cao's talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland's partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
+Hanji 972 backfills the 193 CE Youzhou rupture before Hanji 998: Liu Yu's failed attack, Gongsun Zan's coerced execution, and Tian Chou's mission and settlement turn a military victory into a longer legitimacy and revenge problem. Episode 696 adds an Elizabethan England-Spain branch in which Mary Stuart's Catholic succession claim, the Babington Plot, Walsingham's intelligence operation, and scaffold symbolism feed confessional escalation toward the Spanish Armada without reducing the Armada to a single cause. Hanji 975 and 978 now backfill Cao Cao's Yanzhou survival before the Cangting and Puyang branches: Xun Yu detects Zhang Miao, Chen Gong, and Lü Bu's break from title and route clues, recalls Xiahou Dun to protect Juancheng, then preserves Juancheng through composure and Guo Gong's uncertainty, while Cheng Yu and Jin Yun keep Fan County despite hostage pressure and later filial-duty criticism. Hanji 981 backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang's inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian's handoff plus Liu Bei's hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu's title failure, Chen-family survival strategy, local-order fragility, and Cao Cao's talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland's partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
 
 ## Cross-source Findings
+
+### Late Han Youzhou Victory Turns Into Legitimacy Backlash
+
+Hanji 972 backfills the 193 CE [[YouzhouLateHan]] rupture behind [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]]: [[GongsunZan]] defeats [[LiuYuLateHan]] near [[JuyongPass]] and executes him after coercing [[DuanXunLateHan]], but the killing turns victory into a legitimacy wound that [[TianChou]] channels through court mission, tomb rebuke, and [[XuWuMountain]] frontier settlement.
+
+**Evidence:** [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2]], [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]], [[YouzhouLateHan]], [[GongsunZan]], [[LiuYuLateHan]], [[JuyongPass]], [[DuanXunLateHan]], [[TianChou]], [[XuWuMountain]], [[Wuhuan]], [[AtrocityBackfireMobilization]], [[PeopleBasedPoliticalSecurity]], [[YoubeipingCommandery]], [[WuzhongCountyLateHan]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 972 and its relationship to the already-ingested Hanji 998 aftermath.
+- The episode host's too-soft diagnosis of Liu Yu is kept as source interpretation rather than an independent military verdict.
+- The claim backfills Hanji 998's revenge-coalition setting; it does not contradict that later account.
 
 ### Late Han Yanzhou Base Survival Begins With Morale And Alignment
 

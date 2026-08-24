@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真](sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2.md) — 芮淇讲透资治通鉴 episode on Liu Yu's failed humane attack against Gongsun Zan, Gongsun Zan's coerced execution of Liu Yu and family, and Tian Chou's loyal mission and Xu Wu Mountain order-building.
 - [《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？](sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet.md) — 芮淇讲透资治通鉴 episode on the 194 CE setup before Cao Cao's Yanzhou crisis: Emperor Xian's hollow coming-of-age, Tao Qian giving Liu Bei Danyang troops, Ma Teng/Han Sui's failed Changpingguan attack, and Zhang Miao/Chen Gong inviting Lü Bu into Yanzhou.
 - [《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？](sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd.md) — 芮淇讲透资治通鉴 episode on why Zhang Miao and Chen Gong betray Cao Cao: old friendship collapses under Yuan Shao pressure, Lü Bu opportunity, Bian Rang's killing, and Yanzhou local-elite fear.
 - [《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？](sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr.md) — 芮淇讲透资治通鉴 episode on Xun Yu detecting Zhang Miao and Chen Gong's Yanzhou rebellion from wording and route clues, recalling Xiahou Dun to stabilize Juancheng, and contrasting Tian Feng's warning under Yuan Shao.
@@ -1515,12 +1516,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who appears as a refuge in Hanji 996 and as a lower-priority Jiangdong threat in Hanji 1004.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
-- [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority killed by Gongsun Zan whose death becomes the legitimacy and revenge center for the anti-Gongsun coalition.
+- [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose failed humane attack, capture, and execution by Gongsun Zan become the legitimacy and revenge center for the anti-Gongsun coalition.
+- [田筹 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist who carries a covert memorial to Emperor Xian, rebukes Gongsun Zan, and builds a legal frontier settlement in Xu Wu Mountain.
+- [段迅 / Duan Xun (Late Han)](entities/DuanXunLateHan.md) — Court envoy whose edict for Liu Yu and Gongsun Zan is overwhelmed by Gongsun Zan's coercive accusation and execution scene.
+- [居庸关 / Juyong Pass](entities/JuyongPass.md) — Youzhou pass used as Liu Yu's failed refuge and Tian Chou's frontier route toward the Han court.
+- [右北平 / Youbeiping Commandery](entities/YoubeipingCommandery.md) — Frontier commandery associated with Tian Chou's local credibility and Youzhou route setting.
+- [无终县 / Wuzhong County (Late Han)](entities/WuzhongCountyLateHan.md) — Tian Chou's return base where kin and followers gather before moving into Xu Wu Mountain.
+- [徐无山 / Xu Wu Mountain](entities/XuWuMountain.md) — Tian Chou's mountain refuge and settlement where law, rites, schooling, and Wuhuan-facing order are established.
 - [鲜于辅 / Xianyu Fu](entities/XianyuFu.md) — Liu Yu subordinate who raises troops and joins Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces against Gongsun Zan.
 - [阎柔 / Yan Rou](entities/YanRou.md) — Wuhuan sima whose prestige lets him gather mixed Hu and Han forces and defeat Gongsun Zan's appointee Zhou Dan.
 - [周丹 / Zhou Dan (Late Han)](entities/ZhouDanLateHan.md) — Gongsun Zan's Yuyang taishou defeated and killed by Yan Rou in the Youzhou backlash.
 - [刘和 / Liu He (Late Han)](entities/LiuHeLateHan.md) — Liu Yu's son welcomed as a banner by the anti-Gongsun coalition.
-- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou and the Liu Yu-aligned coalition attack Gongsun Zan.
+- [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou's anti-Gongsun coalition and whose respect for Tian Chou marks the Xu Wu Mountain order branch.
 - [鲜卑 / Xianbei](entities/Xianbei.md) — Northern cavalry group joining Xianyu Fu and Wuhuan riders in the anti-Gongsun campaign.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
 - [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
@@ -1787,7 +1794,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official named in Hanji 976 as part of Xun Yu's talent chain and sent to Chang'an in Hanji 1015 to stabilize Guanzhong.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
-- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Yuan Shao's northern opponent whose campaign creates Cao Cao's temporary window against Lü Bu in Hanji 1015.
+- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose defeat and execution of Liu Yu create the Youzhou backlash before his later Yijing fortress isolation and Yuan Shao war.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
@@ -8632,6 +8639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Benevolent Command Execution Gap / 仁厚指挥执行缺口](concepts/BenevolentCommandExecutionGap.md) — Hanji 972 command-failure pattern where humane restraint is stated but not made executable through discipline, tactics, and siege design.
 - [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.
 - [Personal Trust Political Fragility / 私交信任的政治脆弱性](concepts/PersonalTrustPoliticalFragility.md) — Hanji 974 pattern where real friendship and family entrustment fail once survival fears, alliance pressure, and local security no longer align.
 - [Detail-Based Crisis Detection / 细节式危机识别](concepts/DetailBasedCrisisDetection.md) — Crisis-reading method where small clues in titles, routes, timing, and rear-area behavior expose a political break before formal declaration.

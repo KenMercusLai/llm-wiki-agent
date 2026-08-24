@@ -8,6 +8,8 @@ last_updated: 2026-08-24
 
 # 汉献帝 / Emperor Xian of Han
 
+[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] adds an early Youzhou-facing limit of Emperor Xian's authority. The court can send [[DuanXunLateHan|段迅]] with edicts expanding [[LiuYuLateHan|刘虞]]'s status and rewarding [[GongsunZan|公孙瓒]], and it can appoint [[TianChou|田筹]] after he delivers Liu Yu's memorial, but the emperor's name cannot stop Gongsun Zan from coercing the envoy or killing Liu Yu. Tian Chou's refusal of office makes the weakness personal: accepting rank feels improper while the ruler is displaced and humiliated.
+
 [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds the 194 CE coming-of-age and maternal-rite prelude before the later captivity branch. Emperor Xian formally reaches the age at which he can handle government, but the source treats this as ritual without power because [[ChangAnHanCapital|长安]] remains controlled by armed actors around [[LiJueLateHan|李傕]].
 
 The same episode gives a small but important court-ritual scene. When officials ask him to choose an empress, he says he cannot discuss selection before [[WangMeirenLateHan|王美人]]'s burial is settled, and the Three Excellencies request her reburial and posthumous honor as 灵怀皇后.
@@ -75,6 +77,7 @@ This branch shows the early form of the later pattern. Emperor Xian's court can 
 The addition therefore makes Emperor Xian's page less purely endpoint-focused. He is also a living legitimating surface in Cao Cao's court: accusations can be framed as the emperor's will, while real accountability remains contested among ministers who understand where effective power sits.
 
 ## Connections
+- [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]], [[DuanXunLateHan|段迅]], [[TianChou|田筹]], [[LiuYuLateHan|刘虞]], and [[GongsunZan|公孙瓒]] - Youzhou edict, memorial, and court-authority limit before the Chang'an captivity branch.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[WangMeirenLateHan|王美人]], [[ChangAnHanCapital|长安]], and [[MingqiLegitimacy|名器合法性]] - coming-of-age without real control and maternal posthumous honor.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[HouWenLateHan|侯汶]], [[CourtOfficeCapture|朝廷开府任官失序]], [[YongzhouLateHan|雍州]], and [[HexiFourCommanderiesLateHan|河西四郡]] - pre-flight appointment capture, administrative separation, and famine audit.
 - [[CaoCao|曹操]] and [[CaoPi|曹丕]] - analogy branch in the episode.

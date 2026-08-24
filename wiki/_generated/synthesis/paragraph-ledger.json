@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
       "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
       "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
       "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
@@ -184,11 +185,47 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 182
+    "paragraph_count": 183
   },
-  "overview_commit": "4ad7e066986d11f58557e35d0f6c0cef38a117f9",
-  "overview_digest": "420326e41b7e81cd4f8792907624f84ab7ace6853375f927a6fd27d54fd71a36",
+  "overview_commit": "f3b495a9d676662f5d7d76c6beea984385661bfa",
+  "overview_digest": "33005241a483866e83179ef99f5e0ed36c9500c196d5b00541384e86af498be7",
   "paragraphs": [
+    {
+      "id": "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 193 CE [[YouzhouLateHan|幽州]] rupture before the already-ingested [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] backlash. It adds [[TianChou|田筹]], [[DuanXunLateHan|段迅]], [[JuyongPass|居庸关]], [[YoubeipingCommandery|右北平]], [[WuzhongCountyLateHan|无终县]], [[XuWuMountain|徐无山]], and [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]], while extending [[LiuYuLateHan|刘虞]], [[GongsunZan|公孙瓒]], [[YouzhouLateHan|幽州]], [[EmperorXianOfHan|汉献帝]], [[Wuhuan|乌桓]], [[GoodIntentionsPoliticalLimits]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], [[XunzianCommandRestraint|五权三制]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[AtrocityBackfireMobilization|暴行反噬式动员]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[PoliticalSurvivalFirst|安全第一政治生存]]. Its core synthesis is that Liu Yu's failure separates moral authority from command execution: a humane order not to burn and to kill only Gongsun Zan preserves civilian restraint but collapses without disciplined troops and siege means, while Gongsun Zan's coerced marketplace execution turns victory into a legitimacy wound that Tian Chou later channels into loyal rebuke and frontier legal order. No settled contradiction is recorded; the source backfills, rather than reverses, Hanji 998's revenge-coalition aftermath.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AtrocityBackfireMobilization",
+        "BenevolentCommandExecutionGap",
+        "ConfucianMilitaryIdealismLimits",
+        "DuanXunLateHan",
+        "EmperorXianOfHan",
+        "GongsunZan",
+        "GoodIntentionsPoliticalLimits",
+        "JuyongPass",
+        "LiuYuLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianChou",
+        "Wuhuan",
+        "WuzhongCountyLateHan",
+        "XingshiqingStrategicAssessment",
+        "XuWuMountain",
+        "XunzianCommandRestraint",
+        "YoubeipingCommandery",
+        "YouzhouLateHan",
+        "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2",
+        "zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna"
+      ]
+    },
     {
       "id": "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
       "primary_topic": "governance-and-institutions",

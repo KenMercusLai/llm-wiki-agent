@@ -58,9 +58,12 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] adds a northern late-Han version through [[GongsunZan|公孙瓒]]. After killing [[LiuYuLateHan|刘虞]], abusing local elites, and empowering disliked dependents, Gongsun Zan loses the social base needed to hold [[YouzhouLateHan|幽州]]. The later coalition around [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[LiuHeLateHan|刘和]], and [[YuanShao|袁绍]] shows people-based insecurity at regional scale: officials are killed, commanderies defect, and [[YijingFortress|易京]] cannot make up for the lost support.
 
+[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] supplies the immediate prehistory for that regional collapse. [[LiuYuLateHan|刘虞]] has enough local moral authority that his killing becomes dangerous after his defeat, while [[TianChou|田筹]] turns loyalty to Liu Yu into a functioning mountain settlement in [[XuWuMountain|徐无山]]. The source therefore separates people-support from battle success: Liu Yu loses militarily, but Gongsun Zan still inherits a legitimacy wound.
+
 ## Key Claims
 - Hanji 993 adds that strict military discipline and lenient recruitment policy can turn a newly entered region's fear into food support, enlistment, and governability.
 - Hanji 998 adds that local resentment and elite alienation can turn a conquered province into a coalition field against the conqueror.
+- Hanji 972 adds that a defeated authority's people-support can survive the battle as posthumous legitimacy, and that a loyal follower can convert it into local order.
 - Hanji 1001 adds that internal silence and remonstrance can expose people-support failure before open coalition pressure forms.
 - Hanji 1020 adds that popular support can appear as trust in a ruler's credibility, dependence on local protection, or public confidence in high-profile court procedure.
 - Hanji 1019 adds that a whole local polity can become a refuge when military defense and civil administration make people safer than the surrounding order.
@@ -116,3 +119,4 @@ The concept sits between [[RenhePoliticalPower|人和政治力量]] and [[Mencia
 - [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], [[ChenStateLateHan|陈国]], [[LiuChongChenKing|刘宠]], [[LuoJun|骆俊]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - late-Han refuge polity and leadership fragility branch.
 - [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]], [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - pre-claim warning that force and symbols without virtue invite abandonment.
 - [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]], [[GongsunZan|公孙瓒]], [[LiuYuLateHan|刘虞]], [[YouzhouLateHan|幽州]], [[YijingFortress|易京]], and [[FortressSecurityIllusion|筑城避世安全幻觉]] - late-Han regional collapse and failed fortress repair.
+- [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]], [[TianChou|田筹]], [[XuWuMountain|徐无山]], [[WuzhongCountyLateHan|无终县]], and [[Wuhuan|乌桓]] - Liu Yu's posthumous legitimacy and Tian Chou's local-order settlement branch.
