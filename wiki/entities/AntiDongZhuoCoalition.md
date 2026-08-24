@@ -2,11 +2,15 @@
 title: "反董卓联盟 / Anti-Dong Zhuo Coalition"
 type: entity
 tags: [coalition, late-han, military, china]
-sources: [zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju]
+sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju]
 last_updated: 2026-08-25
 ---
 
 # 反董卓联盟 / Anti-Dong Zhuo Coalition
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds the coalition's title problem before Hanji 955's battlefield branch and Hanji 958's office-and-proxy rupture. The coalition is united against [[DongZhuo|董卓]], but [[EmperorXianOfHan|汉献帝]] remains the recognized ruler even while controlled by Dong Zhuo. [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] therefore try to install [[LiuYuLateHan|刘虞]] as an alternative emperor.
+
+The source shows a legitimacy fracture inside the common-enemy frame. [[CaoCao|曹操]] warns that replacing the emperor would destroy the coalition's "师出有名," while [[YuanShu|袁术]] rejects the same plan from a different incentive structure. Hanji 954 therefore makes the coalition fragile before the later grain, base, and office conflicts: even the public name of the war is contested.
 
 [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] backfills the coalition's active front before Hanji 958's rupture account. The episode treats [[SunJianLateHan|孙坚]] as the coalition's strongest real battlefield pressure against [[DongZhuo|董卓]], while [[YuanShu|袁术]]'s grain cutoff shows that internal suspicion is already constraining the front-line commander before the shared enemy is removed.
 

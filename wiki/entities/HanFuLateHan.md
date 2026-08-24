@@ -2,11 +2,15 @@
 title: "韩馥 / Han Fu (late Han)"
 type: entity
 tags: [person, late-han, official, jizhou]
-sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
+sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
 last_updated: 2026-08-25
 ---
 
 # 韩馥 / Han Fu (late Han)
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds Han Fu before the Jizhou surrender branch as Yuan Shao's partner in the attempt to install [[LiuYuLateHan|刘虞]] as an alternative emperor. With [[EmperorXianOfHan|汉献帝]] under [[DongZhuo|董卓]]'s control, Han Fu joins the argument that a new Han-clan sovereign could free the Guandong leaders from the captured court's commands.
+
+This addition gives Han Fu an earlier legitimacy-risk role rather than only the later fear-driven surrender role. He is not simply passive here; he participates in a title project that [[CaoCao|曹操]] rejects as damaging the coalition's [[MoralizedWarPretext|道德化战争借口]], and that Liu Yu refuses to accept.
 
 [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] supplies the immediate surrender branch before Hanji 957's post-power collapse. Han Fu controls [[JizhouLateHan|冀州]] and has troops, grain, and warning voices, but he is psychologically isolated by [[YuanShao|袁绍]]'s pressure plan and [[XunChenLateHan|荀谌]]'s comparative questioning. When [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], and [[ChengHuanLateHan|程奂]] argue that Yuan Shao is still hungry and vulnerable, Han Fu converts fear into the moral language of yielding to a worthier man.
 

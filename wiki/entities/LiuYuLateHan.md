@@ -2,11 +2,15 @@
 title: "刘虞 / Liu Yu (Late Han)"
 type: entity
 tags: [person, late-han, youzhou, china]
-sources: [zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 刘虞 / Liu Yu (Late Han)
+
+[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds the earliest title-risk layer before the later [[GongsunZan|公孙瓒]] accusation and Youzhou rupture. In 191 CE, [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] try to make Liu Yu the alternative emperor because [[EmperorXianOfHan|汉献帝]] is trapped under [[DongZhuo|董卓]]'s control; [[ZhangQiLateHan|张岐]] is sent to offer the title.
+
+Liu Yu refuses both the imperial title and the fallback proposal that he supervise memorials and appointments on the emperor's behalf. The source frames the refusal as loyalty to the recognized Han ruler and as [[PoliticalSurvivalFirst|安全第一政治生存]]: Liu Yu's son [[LiuHeLateHan|刘和]] is in Chang'an, making Dong Zhuo's hostage leverage and the Yuan-family massacre politically vivid. Hanji 954 therefore clarifies that later charges about Liu Yu seeking the title are accusation material, not accepted wiki fact.
 
 [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds the earlier trust rupture before the 193 CE direct conflict with [[GongsunZan|公孙瓒]]. [[EmperorXianOfHan|汉献帝]] sends Liu Yu's son through [[Wuguan|武关]] to ask Liu Yu for troops, but [[YuanShu|袁术]] detains him at [[NanyangCommandery|南阳郡]] and has him write back for cavalry.
 

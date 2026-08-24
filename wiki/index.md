@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》954丨人性本善，还是人性本恶？](sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h.md) — 芮淇讲透资治通鉴 episode on the 191 CE anti-Dong-Zhuo debate over replacing Emperor Xian with Liu Yu, Cao Cao's "师出有名" objection, Yuan Shu's ambition-shadowed refusal, and Liu Yu's title and delegated-authority rejection.
 - [《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？](sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 191 CE anti-Dong-Zhuo campaign, the corrected Hua Xiong credit, Yuan Shu's grain cutoff, Dong Zhuo's failed inducement, Luoyang entry, and the Heirloom Imperial Seal discovery.
 - [《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？](sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo-era defensive speech, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite available troops, grain, and dissenting advisers.
 - [《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？](sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo.md) — 芮淇讲透资治通鉴 episode on Han Fu's post-Jizhou collapse, Bao Xin and Cao Cao's East Commandery opening, Zhang Yang's attachment path, and Dong Zhuo's omen-wrapped killing of Zhang Wen.
@@ -1620,6 +1621,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
 - [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose supply dispute with Gongsun Zan precedes the failed humane attack, execution, and anti-Gongsun legitimacy backlash.
+- [张岐 / Zhang Qi (Late Han)](entities/ZhangQiLateHan.md) — Former Lelang administrator sent by Yuan Shao and Han Fu to offer Liu Yu the imperial title in Hanji 954.
 - [田筹 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist who carries a covert memorial to Emperor Xian, rebukes Gongsun Zan, and builds a legal frontier settlement in Xu Wu Mountain.
 - [段迅 / Duan Xun (Late Han)](entities/DuanXunLateHan.md) — Court envoy whose edict for Liu Yu and Gongsun Zan is overwhelmed by Gongsun Zan's coercive accusation and execution scene.
 - [居庸关 / Juyong Pass](entities/JuyongPass.md) — Youzhou pass used as Liu Yu's failed refuge and Tian Chou's frontier route toward the Han court.
@@ -8913,6 +8915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Virtual-Physical Life Balance / 虚拟与实体生活差异](concepts/VirtualPhysicalLifeBalance.md) — EP276 explanation of AI anxiety as shaped by virtual-platform time versus fuller physical life, not just city-versus-village location.
 - [Film Reality Beyond Realism](concepts/FilmRealityBeyondRealism.md) — Jia Zhangke's AI-cinema argument that films can respond to the real world through non-realist methods without abandoning reality as the object of concern.
 - [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Cao-side pattern where Mao Jie's early formula and Xun Yu's later argument turn exposed sovereign legitimacy into order, strategy, and talent attraction.
+- [Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱](concepts/AlternativeSovereignLegitimacyTrap.md) — Hanji 954 pattern where replacing a captured but still recognized ruler may solve command capture while recoding a loyalist campaign as rebellion.
 - [Protector-Captor Ambiguity / 护驾与挟持模糊性](concepts/ProtectorCaptorAmbiguity.md) — Late-Han pattern where forces close enough to protect Emperor Xian are also close enough to seize, control, threaten, redirect, or abandon him.
 - [Military Prestige Threat Purge / 军功声望威胁清洗](concepts/MilitaryPrestigeThreatPurge.md) — Hanji 984 pattern where a successful commander with army support becomes a threat to a superior once ambiguous outside contact can be read as future defection.
 - [Leader Personal Exposure / 领导者轻身涉险](concepts/LeaderPersonalExposure.md) — Hanji 1005 Sun Ce pattern where solo hunting, light clothing, and weak guard preparation turn personal freedom into leader-security risk.
