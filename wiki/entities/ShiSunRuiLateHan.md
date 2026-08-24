@@ -2,11 +2,13 @@
 title: "士孙瑞 / Shi Sun Rui (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
+sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]
 last_updated: 2026-08-25
 ---
 
 # 士孙瑞 / Shi Sun Rui (late Han)
+
+[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] supplies Shi Sun Rui's direct role in the anti-[[DongZhuo|董卓]] plot. [[WangYunLateHan|王允]] has him personally draft the edict, then gives it to [[LyuBu|吕布]] so the killing can be announced as imperial punishment rather than private revenge.
 
 [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills Shi Sun Rui's earlier survival after [[DongZhuo|董卓]]'s killing. The episode says Shi Sun Rui participates in the anti-Dong-Zhuo action, but [[WangYunLateHan|王允]] takes public credit and Shi Sun Rui does not press the reward claim. [[SimaGuang|司马光]]'s "有功不伐，以保其身" turns his unclaimed merit into [[MeritConcealmentSelfProtection|merit concealment self-protection]]: staying outside the visible center protects both the person and the clan.
 
@@ -17,6 +19,7 @@ last_updated: 2026-08-25
 His page is source-scoped. Shi Sun Rui now matters in two linked ways: Hanji 967 makes him a survival-through-low-visibility case, while Hanji 991 makes him a survival-limit case because prior anti-Dong-Zhuo merit does not protect an official once armed men again control the emperor's surroundings.
 
 ## Connections
+- [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[WangYunLateHan|王允]], [[LyuBu|吕布]], and [[AssassinationAccessCredential|刺杀接近凭证]] - edict drafting and assassination authorization branch.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[WangYunLateHan|王允]], [[SimaGuang|司马光]], and [[MeritConcealmentSelfProtection]] - earlier hidden-merit survival branch.
 - [[GuoSiLateHan|郭汜]], [[YangBiao|杨彪]], and [[ZhuJunLateHan|朱儁]] - Hanji 985 hostage field.
 - [[LiJueLateHan|李傕]] - killer in the source account.

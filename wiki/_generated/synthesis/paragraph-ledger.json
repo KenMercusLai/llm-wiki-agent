@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
       "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
       "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
       "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
@@ -192,11 +193,42 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 190
+    "paragraph_count": 191
   },
-  "overview_commit": "cd14cd6e035aa2b10fe6a7ddff9c9ff8875e6f02",
-  "overview_digest": "e5a1a71905ee1965bf656dc9bb92d6b789df02a0ef7d9cdacb07ff55aa20afc9",
+  "overview_commit": "2e0f4c4c0fd400566d88c3e30d8c5faf2b9af325",
+  "overview_digest": "24813d0db29055530a3ba584f141a33b08072b5e4ec83f7a83b258ff7d97f5c4",
   "paragraphs": [
+    {
+      "id": "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplying the direct 192 CE [[DongZhuo|董卓]] assassination source before the existing Hanji 964-967 aftermath branch. It adds [[CaiWenji|蔡文姬]] and [[PublicCorpseHumiliation|公开尸体羞辱]], while extending [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[CaiYong|蔡邕]], [[ShiSunRuiLateHan|士孙瑞]], [[LiSuLateHan|李肃]], [[MaRidiLateHan|马日磾]], [[EmperorXianOfHan|汉献帝]], [[WeiyangPalace|未央宫]], [[ChangAnHanCapital|长安]], [[MeiwuFortress|郿坞]], [[HistoricalRecordAuthority|史官记录话语权]], [[PostSuccessArrogance|得势后的骄傲]], and [[AssassinationAccessCredential|刺杀接近凭证]]. Its core synthesis is that Dong Zhuo's death is a controlled court-access assassination that immediately spills into public revenge and memory politics, while Wang Yun's execution of Cai Yong shows the new victor fearing historical judgment before he has solved the remnant-force crisis developed in Hanji 964-965. No settled contradiction is recorded; corpse-burning detail, Wang Yun dialogue, and motive analysis remain source-scoped dramatic interpretation.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AssassinationAccessCredential",
+        "CaiWenji",
+        "CaiYong",
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "EmperorXianOfHan",
+        "HistoricalRecordAuthority",
+        "LiSuLateHan",
+        "LyuBu",
+        "MaRidiLateHan",
+        "MeiwuFortress",
+        "PostSuccessArrogance",
+        "PublicCorpseHumiliation",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "WeiyangPalace",
+        "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk"
+      ]
+    },
     {
       "id": "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
       "primary_topic": "history-and-geopolitics",

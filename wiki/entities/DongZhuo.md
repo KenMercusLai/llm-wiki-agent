@@ -2,13 +2,17 @@
 title: "董卓 / Dong Zhuo"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 董卓 / Dong Zhuo
 
-[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] adds the immediate death-and-credit setup before the remnant-force crisis in Hanji 965. [[LyuBu|吕布]] kills Dong Zhuo under [[WangYunLateHan|王允]]'s design, after which Wang Yun executes [[CaiYong|蔡邕]] and rejects Lü Bu's proposals for disposing of Dong Zhuo's private soldiers and property.
+[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] supplies Dong Zhuo's direct death scene. [[WangYunLateHan|王允]] and [[LyuBu|吕布]] use [[EmperorXianOfHan|汉献帝]]'s court meeting at [[WeiyangPalace|未央宫]] as the access window; [[ShiSunRuiLateHan|士孙瑞]] writes the edict, [[LiSuLateHan|李肃]] opens the attack, and Lü Bu announces imperial authority before killing Dong Zhuo.
+
+The same episode turns Dong Zhuo's body and hoard into the first aftermath layer. [[ChangAnHanCapital|长安]] celebrates, Dong Zhuo's family is killed, [[MeiwuFortress|郿坞]] is confiscated, and the corpse is displayed as a source-scoped case of [[PublicCorpseHumiliation|公开尸体羞辱]]. The page therefore now treats his death as both a tyrant-removal scene and the opening of an unstable post-Dong-Zhuo order.
+
+[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] adds the follow-on death-and-credit setup before the remnant-force crisis in Hanji 965. After Dong Zhuo is killed, Wang Yun executes [[CaiYong|蔡邕]] and rejects Lü Bu's proposals for disposing of Dong Zhuo's private soldiers and property.
 
 [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] adds the pre-counterattack remnant layer after Dong Zhuo's death. The episode focuses on Wang Yun's failure to give Dong Zhuo's Liangzhou soldiers a credible safety path, Niu Fu's fearful end, and the way Jia Xu redirects Li Jue and Guo Si from dispersal into revenge attack on Chang'an.
 
@@ -21,6 +25,7 @@ last_updated: 2026-08-25
 This page remains source-scoped because the wiki has not yet ingested a full Dong Zhuo career sequence. The new branch makes his death a transition from personal dictatorship to remnant-military revenge rather than a clean liberation of the Han court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[ShiSunRuiLateHan|士孙瑞]], [[LiSuLateHan|李肃]], and [[PublicCorpseHumiliation|公开尸体羞辱]] - direct assassination and corpse-humiliation branch.
 - [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[CaiYong|蔡邕]], [[PostSuccessArrogance|得势后的骄傲]], and [[HistoricalRecordAuthority|史官记录话语权]] - death aftermath, credit, and reputation-control setup.
 - [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]], and [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[ShiSunRuiLateHan|士孙瑞]], and [[JiaXu|贾诩]] - assassination aftermath and remnant-counterattack branch.
 - [[MeiwuFortress|郿坞]] - stronghold used in the source's comparison.

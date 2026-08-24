@@ -11254,3 +11254,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！
+
+Added source page for a 芮淇讲透资治通鉴 episode on Dong Zhuo's assassination at Weiyang Palace, Wang Yun and Lü Bu's edict-backed ambush, Chang'an's public celebration and corpse humiliation, Meiwu confiscation, and Cai Yong's historian-risk death after Ma Ridi's failed plea. Created Cai Wenji and public corpse humiliation pages; updated connected late-Han actors, court-place pages, and historiography/assassination concepts. No settled contradiction found; corpse-burning detail and Wang Yun motive analysis remain source-scoped.
