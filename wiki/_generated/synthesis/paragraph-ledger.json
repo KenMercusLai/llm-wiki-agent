@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
       "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
       "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
       "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
@@ -185,11 +186,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 183
+    "paragraph_count": 184
   },
-  "overview_commit": "8a93aa02576364097e9d7cad0119247c90dc18ae",
-  "overview_digest": "17cf6ec31a6631ed886f9a58f1956112dd4d5200a4ebdc188f0931646462bbd2",
+  "overview_commit": "2385cfadf51282c92e4a7eb58e758490f6e6342c",
+  "overview_digest": "877041a8fadd315b8829df7a504a3417d525b9e397a40ec2707c14b94872c5b9",
   "paragraphs": [
+    {
+      "id": "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the northern late-Han branch before [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] and the later Yanzhou-Lü Bu sequence. It adds [[HeishanArmy|黑山军]], [[ZhangYanLateHan|张燕]], [[YuDuLateHan|余毒]], [[TaoShengLateHan|陶生]], [[WeiCommanderyLateHan|魏郡]], [[YeLateHan|邺城]], [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]], and [[CourtesyCoveredElimination|礼遇包装式清除]], while extending [[YuanShao|袁绍]], [[LyuBu|吕布]], [[ZhangYangLateHan|张杨]], [[GongsunZan|公孙瓒]], [[AssassinationAccessCredential|刺杀接近凭证]], [[CrisisDeceptionSurvival|临危欺敌求生]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]]. Its core synthesis is that common-enemy cooperation cannot by itself solve alliance security: Yuan Shao survives a Ye rear crisis through Tao Sheng's unexpected protection and then defeats Black Mountain forces, but his alliance with Lü Bu against Zhang Yan turns into an appointment-and-escort assassination attempt; Lü Bu's sound decoy and prepared escape show tactical alertness before he returns to Zhang Yang. No settled contradiction is recorded; the zither, tunnel, and weapon-slashing details remain source-scoped narrative evidence.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AssassinationAccessCredential",
+        "CourtesyCoveredElimination",
+        "CrisisDeceptionSurvival",
+        "GongsunZan",
+        "HeishanArmy",
+        "InterestStructuredAllianceFragility",
+        "LyuBu",
+        "PersonalTrustPoliticalFragility",
+        "RuiqiJiangtouZizhiTongjian",
+        "TaoShengLateHan",
+        "WeiCommanderyLateHan",
+        "YeLateHan",
+        "YuDuLateHan",
+        "YuanShao",
+        "YuanShaoLyuBuAssassinationAttempt",
+        "ZhangYanLateHan",
+        "ZhangYangLateHan",
+        "zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs",
+        "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku"
+      ]
+    },
     {
       "id": "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
       "primary_topic": "governance-and-institutions",

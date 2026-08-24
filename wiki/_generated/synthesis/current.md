@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: f3b495a9d676662f5d7d76c6beea984385661bfa
+as_of_overview_commit: 2385cfadf51282c92e4a7eb58e758490f6e6342c
 summary: "Podcast Atlas maps how AI, markets, states, culture, science, and careers become durable through workflow fit, legitimacy, trust, and implementation discipline."
-episode_count: 1393
-source_count: 1393
-paragraph_count: 183
+episode_count: 1395
+source_count: 1395
+paragraph_count: 184
 topic_count: 8
 ---
 
@@ -29,14 +29,14 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, grounding, verification, permission boundaries, cost control, and deployment surfaces across agents, enterprise rollouts, physical AI, science, entertainment, security, and logistics. Recent sources add token-efficient agent operation, Copilot-style adoption discipline, public-safety sensor governance, and operational risks around data centers, drones, and water systems.
+AI value depends on workflow integration, grounding, verification, permission boundaries, cost control, deployment surfaces, and operational resilience across agents, enterprise rollout, physical AI, science, security, logistics, and entertainment.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].
 
 ### Business and Markets
 
-Market value emerges when capability or attention survives distribution, payment proof, operating fit, local control, logistics, trust, and repeat demand. Recent additions extend the pattern through cautious-demand consumer brands, govtech legitimacy, Korean development discipline, live commerce, robotics listings, automotive ecosystem control, mass retail gates, and restaurant-retail format shifts.
+Market value emerges when capability or attention survives distribution, payment proof, operating fit, local control, logistics, trust, repeat demand, and valuation discipline across consumer, SaaS, robotics, automotive, finance, development, and retail cases.
 
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention. Evidence: [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PreProductSelling]], [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], [[Templafy]], [[RobotRepurchaseDemand]].
 - Technical or creative capability becomes market value only after operational translation: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], and [[HumanoidRobotCommercialization]] all make capability depend on workflow fit, verification, interfaces, experiments, scene fit, or repeated use. Evidence: [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AIEngineeringThinking]], [[AICodingVerification]], [[AgentFacingInterfaces]], [[AIGameIndustrialization]], [[AIForScience]], [[CausalWorldModels]], [[HumanoidRobotCommercialization]].
@@ -49,35 +49,35 @@ Culture and media sources use literature, folklore, games, podcasts, and platfor
 
 ### Governance and Institutions
 
-Governance is a translation problem: victories, titles, safety claims, markets, missions, and reforms become durable only through enforceable controls, legitimate procedures, feedback, and social support. Hanji 972 adds Liu Yu's humane-command failure, showing that moral authority can collapse when restraint is not matched by executable command design.
+Governance is a translation problem: victories, titles, safety claims, markets, missions, reforms, and alliances become durable only through enforceable controls, legitimate procedure, feedback, security design, and social support. Hanji 970 adds that courtesy and office appointment can become covert-elimination channels when alliance security fails.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
 
 ### History and Geopolitics
 
-History and geopolitics show formal names and institutions matter only when backed by material capacity, public trust, elite integration, and situation-reading. Hanji 972 backfills the Youzhou rupture behind Hanji 998 by turning Gongsun Zan's victory over Liu Yu into a legitimacy wound carried forward by Tian Chou and frontier order.
+History and geopolitics show formal names and institutions matter only when backed by material capacity, public trust, elite integration, and situation-reading. Hanji 970 adds a northern late-Han prelude where Yuan Shao's common-enemy cooperation with Lü Bu turns into assassination risk before the later Yanzhou sequence.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].
 
 ### Psychology and Personal Development
 
-The psychology material treats judgment as calibration under trust, authenticity, uncertainty, boundaries, risk, role fit, status pressure, and emotional attachment. Recent late-Han cases stress that loyalty and friendship become unsafe when detached from current authority, alliance structure, grain, protection, and survival constraints.
+The psychology material treats judgment as calibration under trust, authenticity, uncertainty, boundaries, risk, role fit, status pressure, and emotional attachment. Hanji 970 and Hanji 999 both stress that trust and friendship become unsafe when survival pressures shift.
 
 - [[HumanAuthorshipPremium]] and [[AlgorithmAversion]] show that perceived AI authorship can reduce trust in emotionally or identity-relevant products. Evidence: [[HumanAuthorshipPremium]], [[AlgorithmAversion]].
 - [[PositionSizing]], [[KellyCriterion]], and [[AveragingDown]] frame confidence as an exposure-management problem rather than permission to make an unlimited bet. Evidence: [[PositionSizing]], [[KellyCriterion]], [[AveragingDown]].
 
 ### Science, Health, and Climate
 
-Science, health, climate, and space claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through remain visible. Reusable launch, space infrastructure, climate materials, risk products, and health analogies all need grounded validation rather than plausibility alone.
+Science, health, climate, and space claims become credible when physical constraints, evidence, regulation, implementation cost, and operational follow-through remain visible.
 
 - [[SpaceEconomyInfrastructure]] depends on [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], and [[SpaceLaunchEnvironmentalReview]] because [[CommercialSatelliteConstellations]] and [[ReusableRocketEconomics]] only become usable cadence when pads, ports, airspace, licensing, and habitat review are workable. Evidence: [[SpaceEconomyInfrastructure]], [[SpaceLaunchCapacityBottleneck]], [[SpaceportSitingConstraint]], [[SpaceLaunchEnvironmentalReview]], [[CommercialSatelliteConstellations]], [[ReusableRocketEconomics]].
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility. Evidence: [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], [[CarbonStoragePermanence]].
 
 ### Work, Education, and Society
 
-Work, education, and society sources emphasize implementation over capability claims: AI, software, creative production, products, finance, research, public building, and institutions all depend on ownership, verification, trust, supply chains, labor constraints, and human judgment. Premodern cases add that command, grain, protection, and base security shape whether social order holds.
+Work, education, and society sources emphasize implementation over capability claims: AI, software, creative production, products, finance, research, public building, and institutions all depend on ownership, verification, trust, supply chains, labor constraints, and human judgment.
 
 - AI and automation change work only when they reorganize production roles, workflows, and review responsibilities, from [[AIVideoProductionWorkflow]] and [[RollingAI]] to [[HeadlessSoftware]], [[Paperboy]], and [[HumanJudgmentUnderAI]]. Evidence: [[AIVideoProductionWorkflow]], [[JiaZhangke]], [[FilmRealityBeyondRealism]], [[LiveActionFilmUnderAI]], [[CreativeLaborAIBacklash]], [[AIPublicLikenessGeneration]], [[AITrainingCopyrightDispute]], [[AIEnergyBottleneck]], [[RollingAI]], [[HeadlessSoftware]], [[Paperboy]], [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].
 - Workplace AI readiness depends on ownership, baselines, training, and role-specific workflows: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] show that license access or worker experimentation is not enough. Evidence: [[WorkplaceAIReadinessGap]], [[Microsoft365CopilotAdoption]], [[AIAdoptionBaselineMeasurement]], [[AIOperationsRole]], [[FrontlineAIEnablement]], [[HumanJudgmentUnderAI]], [[ShadowAI]], [[BusinessLedAITransformation]], [[JimSpignardo]], [[Proarc]], [[ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise]].
