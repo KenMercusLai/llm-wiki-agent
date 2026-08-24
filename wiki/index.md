@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！](sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq.md) — 芮淇讲透资治通鉴 episode on opportunity and humility, Wang Yun's execution of Cai Yong after Dong Zhuo's death, Liu Dai's fatal rejection of Bao Xin's attrition advice, Cao Cao's Yanzhou entry, and Lü Bu's merit boasting.
 - [《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？](sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q.md) — 芮淇讲透资治通鉴 episode on discreet help and dignity, Wang Yun's failed amnesty/reassurance policy toward Dong Zhuo's Liangzhou remnants, Niu Fu's camp panic, and Jia Xu redirecting Li Jue and Guo Si toward Chang'an.
 - [《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导](sources/zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u.md) — 芮淇讲透资治通鉴 episode on Jia Xu's advice to Dong Zhuo remnants, Wang Yun's failed crisis diplomacy, Chang'an's fall, Lü Bu's escape, and Song Yi/Wang Hong's divergent readings of a captured-court summons.
 - [《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？](sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3.md) — 芮淇讲透资治通鉴 episode on Shi Sunrui's hidden anti-Dong-Zhuo merit, Jia Xu's Chang'an counterattack advice and reward refusal, Li-Guo plunder, Liu Biao/Huangfu Song title reshuffle, and Lü Bu's flight through Yuan Shu, Zhang Yang, and Yuan Shao.
@@ -1408,6 +1409,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蔡邕 / Cai Yong](entities/CaiYong.md) — Late-Han scholar whose execution by Wang Yun is read as reputation and historical-record anxiety after Dong Zhuo's death.
+- [刘岱 / Liu Dai (late Han)](entities/LiuDaiLateHan.md) — Yanzhou inspector who rejects Bao Xin's defensive attrition plan and dies fighting the Qingzhou Yellow Turbans.
+- [鲍信 / Bao Xin](entities/BaoXin.md) — Yanzhou actor who advises attrition against the Qingzhou Yellow Turbans, invites Cao Cao, and dies saving him.
+- [万潜 / Wan Qian (late Han)](entities/WanQianLateHan.md) — Yanzhou official who joins Bao Xin in inviting Cao Cao after Liu Dai's death.
+- [青州黄巾军 / Qingzhou Yellow Turbans](entities/QingzhouYellowTurbans.md) — Hungry late-Han armed force that attacks Yanzhou before Cao Cao defeats and later converts the surrendering population into Qingzhou Soldiers.
 - [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
 - [胡文才 / Hu Wencai (late Han)](entities/HuWencaiLateHan.md) — Liangzhou influence figure whose failed reception by Wang Yun helps push Li Jue's advance toward Chang'an.
 - [杨整修 / Yang Zhengxiu (late Han)](entities/YangZhengxiuLateHan.md) — Liangzhou influence figure paired with Hu Wencai in Wang Yun's failed crisis appeal.
@@ -8677,6 +8683,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
+- [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Bao Xin's Yanzhou strategy for exhausting a hungry raiding force instead of meeting it in status-driven field battle.
 - [Discreet Benefaction Dignity / 沉默施恩的尊严保护](concepts/DiscreetBenefactionDignity.md) — Frame where help preserves dignity by avoiding public display, gratitude extraction, and repeated reminders of dependence.
 - [Military Camp Panic / 军营夜惊群体恐慌](concepts/MilitaryCampPanic.md) — Command-and-morale pattern where stress, rumor, sleep, environment, and camp design shape collective panic.
 - [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.

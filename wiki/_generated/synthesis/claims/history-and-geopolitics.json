@@ -2,6 +2,38 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "late-han-success-without-restraint-turns-opportunity-into-exposure",
+      "qualifications": [
+        "This claim is source-scoped to Hanji 964 and backfills the immediate pre-Hanji-965 Wang Yun/Lü Bu conflict and pre-Hanji-968 Yanzhou-Qingzhou Yellow Turban field.",
+        "Wang Yun's motive analysis, the Cai Yong historical-record reading, and the transcript's \"成公\" rendering remain source-scoped rather than settled independent findings.",
+        "The claim adds an earlier opportunity-and-restraint layer without replacing Hanji 965's remnant-settlement account or Hanji 968's Qingzhou surrender conversion account."
+      ],
+      "statement": "Hanji 964 makes early late-Han opportunity fragile when success outruns restraint: [[WangYunLateHan]]'s post-[[DongZhuo]] victory creates reputation anxiety around [[CaiYong]] and [[HistoricalRecordAuthority]], [[LiuDaiLateHan]] rejects [[BaoXin]]'s [[ResourceAsymmetryAttrition]] logic against [[QingzhouYellowTurbans]], [[CaoCao]] enters [[YanzhouLateHan]] through costly crisis succession before the later [[DefeatedPopulationConversion]] branch, and [[LyuBu]]'s public merit display turns real credit into [[PostSuccessArrogance]] and relational exposure.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+        "WangYunLateHan",
+        "DongZhuo",
+        "CaiYong",
+        "HistoricalRecordAuthority",
+        "LiuDaiLateHan",
+        "BaoXin",
+        "ResourceAsymmetryAttrition",
+        "QingzhouYellowTurbans",
+        "CaoCao",
+        "YanzhouLateHan",
+        "DefeatedPopulationConversion",
+        "LyuBu",
+        "PostSuccessArrogance",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "RootBasePriority"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "late-han-dong-zhuo-remnant-fear-makes-changan-counterattack-legible",
       "qualifications": [
         "This claim is source-scoped to Hanji 965 and backfills the decision layer before the already-ingested Hanji 966 Changan collapse.",
@@ -609,6 +641,6 @@
       ]
     }
   ],
-  "summary": "Hanji 965 backfills the pre-Hanji-966 Dong Zhuo remnant crisis: Wang Yun failed amnesty and rejected Huangfu Song reassurance leave Liangzhou commanders treating dispersal as exposure, Niu Fu camp-panic death shows remnant instability, and Jia Xu advice to Li Jue and Guo Si becomes survival-first while opening executor-character risk. Hanji 969 backfills the pre-Hanji-970 late-Han field by tying Zhong Yao release of Cao Cao court appointment, the Yuan Shao-Yuan Shu fight over Yangzhou, Yangtze-corridor base quality, and Qingzhou proxy-war famine into one title-geography-war-disaster layer. Hanji 970 backfills the northern late-Han branch before Hanji 971: Yuan Shao survives a Wei/Ye rear crisis, defeats Black Mountain forces with Lü Bu, then turns against Lü Bu through a failed appointment-and-escort assassination attempt before Lü Bu returns to Zhang Yang. Hanji 972 backfills the 193 CE Youzhou rupture before Hanji 998: Liu Yu failed attack, Gongsun Zan coerced execution, and Tian Chou mission and settlement turn a military victory into a longer legitimacy and revenge problem. Episode 696 adds an Elizabethan England-Spain branch in which Mary Stuart Catholic succession claim, the Babington Plot, Walsingham intelligence operation, and scaffold symbolism feed confessional escalation toward the Spanish Armada without reducing the Armada to a single cause. Hanji 975 and 978 now backfill Cao Cao Yanzhou survival before the Cangting and Puyang branches: Xun Yu detects Zhang Miao, Chen Gong, and Lü Bu break from title and route clues, recalls Xiahou Dun to protect Juancheng, then preserves Juancheng through composure and Guo Gong uncertainty, while Cheng Yu and Jin Yun keep Fan County despite hostage pressure and later filial-duty criticism. Hanji 981 backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian handoff plus Liu Bei hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu title failure, Chen-family survival strategy, local-order fragility, and Cao Cao talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.",
+  "summary": "Hanji 964 adds the pre-Hanji-965 and pre-Hanji-968 layer: Wang Yun turns victory over Dong Zhuo into reputation anxiety around Cai Yong, Liu Dai ignores Bao Xin material attrition advice against Qingzhou Yellow Turbans, Cao Cao enters Yanzhou through crisis succession, and Lü Bu loses relational force by displaying real merit. Hanji 965 then makes the Li-Guo counterattack legible through failed amnesty, rejected reassurance, Liangzhou remnant fear, Niu Fu camp panic, and Jia Xu survival advice. Hanji 969-981 connect Cao Cao, Yuan Shao, Yuan Shu, Lü Bu, Yanzhou, Xuzhou, Youzhou, Qingzhou, Yangzhou, and adviser correction into a field where titles, bases, grain, elite alignment, proxy selection, and reputation shape survival. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, protector-captor ambiguity, and symbolic title value into operational weakness. Hanji 992-1020 widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Cao Cao's discipline/adviser system, Yuan Shu title failure, Chen-family survival strategy, and local-order fragility. The topic also spans Warring States and Qin institutionalization, Elizabethan succession and confessional escalation, Northern Ireland partition dynamics, undersea-cable geopolitics, and handset ecosystem shifts; across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and situation-reading actors.",
   "topic_id": "history-and-geopolitics"
 }

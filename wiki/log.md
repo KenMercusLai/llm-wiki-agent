@@ -11223,6 +11223,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！
+
+Added source page for a 芮淇讲透资治通鉴 episode on opportunity and humility, Wang Yun's post-Dong-Zhuo execution of Cai Yong, Liu Dai's fatal rejection of Bao Xin's attrition plan, Cao Cao's Yanzhou entry after the Qingzhou Yellow Turban crisis, Bao Xin's death, Jin Shang's blocked appointment, and Lü Bu's public merit boasting. Created Cai Yong, Liu Dai, Bao Xin, Wan Qian, Qingzhou Yellow Turbans, post-success arrogance, and resource-asymmetry attrition pages; updated connected late-Han actors and strategy/historiography concepts. No settled contradiction found; Wang Yun's motive analysis and the transcript's "成公" rendering are kept source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？
 
 Added source page for a 芮淇讲透资治通鉴 episode on discreet help and dignity, Wang Yun's failed post-Dong-Zhuo amnesty and reassurance policy, Niu Fu's victory followed by camp panic and death, and Jia Xu's advice that redirects Li Jue and Guo Si from dispersal toward Chang'an. Created pages for Niu Fu, Li Su, discreet benefaction dignity, and military camp panic; updated connected late-Han actors and survival/assessment/dignity concepts. No settled contradiction found; the charity psychology, camp-panic examples, and Wang Yun character diagnosis are kept source-scoped.

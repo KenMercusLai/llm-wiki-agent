@@ -2,11 +2,15 @@
 title: "王允 / Wang Yun (late Han)"
 type: entity
 tags: [late-han, official, dong-zhuo-aftermath, chang-an]
-sources: [zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 王允 / Wang Yun (late Han)
+
+[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] supplies Wang Yun's first post-[[DongZhuo|董卓]] victory layer before the amnesty failure in Hanji 965. After Dong Zhuo is killed, Wang Yun has [[CaiYong|蔡邕]] executed; the host reads this source-scopedly as reputation anxiety and control over [[HistoricalRecordAuthority|史官记录话语权]], not merely as punishment for sympathy toward Dong Zhuo.
+
+The same episode also starts the Wang Yun-[[LyuBu|吕布]] conflict that Hanji 965 develops. Wang Yun refuses Lü Bu's proposals to kill Dong Zhuo's private soldiers and distribute Dong Zhuo's goods, while looking down on Lü Bu as a military man. Lü Bu's public boasting about killing Dong Zhuo then becomes the bridge into [[DiscreetBenefactionDignity|沉默施恩的尊严保护]] and the broader [[PostSuccessArrogance|得势后的骄傲]] diagnosis.
 
 [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] adds the decision layer immediately before Wang Yun's final crisis. After [[DongZhuo|董卓]] is killed, Wang Yun reverses himself on amnesty for Dong Zhuo's [[LiangzhouWarlordClique|凉州系军阀]] soldiers and rejects a reassurance plan involving [[HuangfuSongLateHan|皇甫嵩]]. The episode treats these moves as practical failures: without credible pardon, command arrangement, or dignity-preserving settlement, the remnant commanders read disbanding as exposure to slaughter.
 
@@ -22,6 +26,7 @@ The host's source-scoped evaluation is severe: Wang Yun is treated as lacking po
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[CaiYong|蔡邕]], [[HistoricalRecordAuthority|史官记录话语权]], and [[PostSuccessArrogance|得势后的骄傲]] - execution, reputation-control anxiety, and first Lü Bu conflict after Dong Zhuo's death.
 - [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[HuangfuSongLateHan|皇甫嵩]], [[LiangzhouWarlordClique|凉州系军阀]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - pre-collapse amnesty, reassurance, and arrogance layer.
 - [[DongZhuo]] - Wang Yun becomes publicly associated with Dong Zhuo's killing.
 - [[LyuBu]] - Lü Bu also claims merit for killing Dong Zhuo, but weaponizes it differently in later host relationships.

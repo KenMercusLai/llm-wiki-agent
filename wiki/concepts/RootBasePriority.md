@@ -2,11 +2,13 @@
 title: "Root-Base Priority / 根本根据地优先"
 type: concept
 tags: [strategy, statecraft, base-building, logistics, late-han]
-sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]
+last_updated: 2026-08-25
 ---
 
 # Root-Base Priority / 根本根据地优先
+
+[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] adds the origin point before Yanzhou becomes Cao Cao's root base in later episodes. [[LiuDaiLateHan|刘岱]] dies because the province cannot manage the [[QingzhouYellowTurbans|青州黄巾军]] crisis, after which [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], and local officials invite [[CaoCao|曹操]] to take over. The base therefore begins as emergency succession and defense, not as a settled possession.
 
 [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds the immediate negative case before the later adviser explanation. [[CaoCao|曹操]] can threaten [[TaoQianLateHan|陶谦]] and defeat [[LiuBei|刘备]] in [[Xuzhou|徐州]], but when [[ZhangMiaoLateHan|张邈]] and [[ChenGongLateHan|陈宫]] invite [[LyuBu|吕布]] into [[YanzhouLateHan|兖州]], the offensive must stop because the base itself is collapsing.
 
@@ -27,6 +29,7 @@ The source case is [[YanzhouLateHan|兖州]]. Xun Yu argues that Cao Cao's root 
 The concept differs from [[StrategicRetreatBaseBuilding|退让式根据地经营]]. Strategic retreat base-building concerns turning an imposed fallback position into future power. Root-base priority concerns refusing an optional outward move until the existing foundation is secure. It also extends [[WarCostTempoDiscipline|战争成本与速决纪律]] upstream: the cost problem is decided before the campaign begins, through harvest, rear security, local acceptance, and whether the target can feed the army.
 
 ## Key Claims
+- Hanji 964 adds the origin point: a later root base may begin as crisis succession, local invitation, and costly defense rather than clean appointment.
 - Hanji 973 adds the warning event: a successful-looking external attack becomes untenable as soon as the home province is mostly lost.
 - Hanji 974 adds that root-base risk can begin as local elite security panic before it becomes a visible military breach.
 - Hanji 975 adds that base priority begins before formal strategy: if the rear is leaking signs of betrayal, detection and emergency command recall are already base-preservation work.
@@ -40,6 +43,7 @@ The concept differs from [[StrategicRetreatBaseBuilding|退让式根据地经营
 - The concept marks a boundary on opportunism: a target's weakness does not matter enough if one's own rear cannot hold.
 
 ## Connections
+- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], [[QingzhouYellowTurbans|青州黄巾军]], and [[JinShang|金尚]] - origin of Cao Cao's Yanzhou foothold.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[Xuzhou|徐州]], [[YanzhouLateHan|兖州]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], and [[LyuBu|吕布]] - source case where rear collapse forces campaign withdrawal.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[LocalEliteSecurityPanic|地方士族安全恐慌]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] - pre-military base erosion through elite fear and trust collapse.
 - [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[XunYu|荀彧]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], and [[DetailBasedCrisisDetection|细节式危机识别]] - crisis detection and emergency base stabilization.

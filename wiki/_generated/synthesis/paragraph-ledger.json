@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
       "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
       "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
       "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
@@ -191,11 +192,42 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 189
+    "paragraph_count": 190
   },
-  "overview_commit": "aade3ba30fcbfe6f953fd9c61b9ab004d29a6b30",
-  "overview_digest": "087ec622633da303346464052ea96fcd658a244d0c4ddc4b16565eb468e71680",
+  "overview_commit": "cd14cd6e035aa2b10fe6a7ddff9c9ff8875e6f02",
+  "overview_digest": "e5a1a71905ee1965bf656dc9bb92d6b789df02a0ef7d9cdacb07ff55aa20afc9",
   "paragraphs": [
+    {
+      "id": "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] Wang Yun/Lü Bu conflict and the pre-[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] Yanzhou-Qingzhou Yellow Turban field. It adds [[CaiYong|蔡邕]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], [[QingzhouYellowTurbans|青州黄巾军]], [[PostSuccessArrogance|得势后的骄傲]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]], while extending [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[YanzhouLateHan|兖州]], [[QingzhouLateHan|青州]], [[QingzhouSoldiers|青州兵]], [[DefeatedPopulationConversion|降众资源化]], [[HistoricalRecordAuthority|史官记录话语权]], and [[RootBasePriority|根本根据地优先]]. Its core synthesis is that success without restraint can turn opportunity into exposure: Wang Yun's reputation anxiety makes Cai Yong dangerous, Liu Dai's status-driven sortie ignores Bao Xin's material logic, Cao Cao's Yanzhou foothold begins as local crisis succession, and Lü Bu's real merit loses relational force when repeatedly displayed. No settled contradiction is recorded; Wang Yun's motive analysis and the transcript's \"成公\" rendering remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BaoXin",
+        "CaiYong",
+        "CaoCao",
+        "DefeatedPopulationConversion",
+        "HistoricalRecordAuthority",
+        "LiuDaiLateHan",
+        "LyuBu",
+        "PostSuccessArrogance",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "QingzhouYellowTurbans",
+        "ResourceAsymmetryAttrition",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "WanQianLateHan",
+        "WangYunLateHan",
+        "YanzhouLateHan",
+        "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj"
+      ]
+    },
     {
       "id": "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
       "primary_topic": "history-and-geopolitics",
