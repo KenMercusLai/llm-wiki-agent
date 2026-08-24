@@ -10778,6 +10778,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Cheng Yu stopping Ca
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？
+
+Added source `zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv`. Key claims: Xun Yu deters Guo Gong by calmly meeting him outside Juancheng; Cheng Yu stabilizes Fan County through Jin Yun despite family hostage pressure; the episode extends the wiki's Yanzhou base-survival and loyalty-collateral dilemma branches.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决
 
 Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu persuading Cao Cao to secure Yanzhou before pursuing Xuzhou, Cao Cao's terrain-and-ambush victory over Lü Bu at Dingtao, Lü Bu's flight to Liu Bei, and the reception scene involving Lady Yan. Created pages for Yanzhou (Late Han), Dingtao Battle (Late Han), Lady Yan (Lü Bu), and Root-Base Priority; updated index, overview, and connected late-Han entity/concept pages. No settled contradiction found; the host's desire frame, Cao Cao praise, and Liu Bei inner-motive reading are kept source-scoped.
@@ -11125,6 +11129,10 @@ Ran lint. Report was printed but not saved to lint-report.md.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？
 
 Added source `zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis`. Key claims: Cheng Yu and Zao Zhi preserve Cao Cao's remaining Yanzhou base through Cangting and Dong'e defense; Chang'an court selection is captured by kaifu warlord offices; Emperor Xian detects relief-grain fraud but cannot restore systemic control.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-24] lint | Wiki health check
 

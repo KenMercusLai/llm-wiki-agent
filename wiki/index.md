@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？](sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv.md) — 芮淇讲透资治通鉴 episode on Xun Yu calmly deterring Guo Gong at Juancheng, Cheng Yu stabilizing Fan County and Dong'e, and Jin Yun's family-hostage loyalty dilemma.
 - [《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？](sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis.md) — 芮淇讲透资治通鉴 episode on Cheng Yu and Zao Zhi preserving Cao Cao's Yanzhou base at Cangting and Dong'e, plus Chang'an office capture, Yongzhou setup, famine, and Emperor Xian's gruel audit.
 - [《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史](sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Puyang trap, Dian Wei's close-quarters rescue, Cao's yellow-horse deception, and locust-and-grain attrition against Lü Bu in Yanzhou.
 - [《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服](sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth.md) — 芮淇讲透资治通鉴 episode on Cheng Yu stopping Cao Cao from hostage-backed dependency on Yuan Shao, Liu Yan/Liu Zhang's Yi Province succession, Gan Ning's talent-loss branch, and Tao Qian's Xuzhou handoff to Liu Bei.
@@ -1393,6 +1394,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郭贡 / Guo Gong (Late Han)](entities/GuoGongLateHan.md) — Uncertain Yanzhou military actor whose several-tens-of-thousands force withdraws after Xun Yu calmly meets him outside Juancheng.
+- [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
+- [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
+- [范县 / Fan County (Late Han)](entities/FanCountyLateHan.md) — Remaining Cao-side Yanzhou county preserved when Jin Yun kills Fan Yi after Cheng Yu's persuasion.
+- [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander who warns Xun Yu that leaving Juancheng to meet Guo Gong could risk the city's main stabilizing figure.
+- [许众 / Xu Zhong (Jin commentator)](entities/XuZhongJin.md) — Later commentator whose criticism of Jin Yun frames the Fan County case as a filial-duty and loyalty dilemma.
 - [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
 - [东阿 / Dong'e (Late Han)](entities/DongALateHan.md) — Yanzhou city defended by Zao Zhi and Cheng Yu during Cao Cao's 194 CE base crisis.
 - [鄄城 / Juancheng (Late Han)](entities/JuanchengLateHan.md) — Yanzhou stronghold and missed Lü Bu target in Cao Cao's assessment of the 194 CE crisis.

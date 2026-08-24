@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
       "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
       "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
       "ef9734363d3afd0c1ea459a7d01b55ef5876f40ddf97d619760c292ec25d18ca",
@@ -180,11 +181,44 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 178
+    "paragraph_count": 179
   },
-  "overview_commit": "3cb7f7bf12ac902a6509cb5462593b66c6e86f89",
-  "overview_digest": "50ff05261941b77f26c04feac27c72ec843a7b17c43b84bd6db73d550923a509",
+  "overview_commit": "1a90a45b19c7c97e5eb2e3ab027cf96d9fe7f9f7",
+  "overview_digest": "79f596e0a5ec5be3bb3a3f464e96c34e55df4ee98f86e3a71a29cf89c35e10dc",
   "paragraphs": [
+    {
+      "id": "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the immediate pre-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] [[YanzhouLateHan|兖州]] crisis. It adds [[GuoGongLateHan|郭贡]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[FanCountyLateHan|范县]], [[XiahouDun|夏侯惇]], and [[XuZhongJin|许众]], while extending [[XunYu|荀彧]], [[ChengYu|程昱]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[JuanchengLateHan|鄄城]], [[DongALateHan|东阿]], [[BattlefieldInformationControl|战场信息控制]], [[RootBasePriority|根本根据地优先]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[LoyaltyCollateralDilemma|忠义牵连困境]]. Its core synthesis is that Cao Cao's remaining base survives first through morale and perception control at Juancheng, then through local-prestige persuasion and hard alignment choices at Fan County and Dong'e. No settled contradiction is recorded; Xu Zhong's filial-duty criticism and the host's Liu Bang hostage comparison remain source-scoped moral readings.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BattlefieldInformationControl",
+        "CaoCao",
+        "ChenGongLateHan",
+        "ChengYu",
+        "DongALateHan",
+        "FanCountyLateHan",
+        "FanYiLateHan",
+        "GuoGongLateHan",
+        "JinYunLateHan",
+        "JuanchengLateHan",
+        "LoyaltyCollateralDilemma",
+        "LyuBu",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "XiahouDun",
+        "XingshiqingStrategicAssessment",
+        "XuZhongJin",
+        "XunYu",
+        "YanzhouLateHan",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+        "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis"
+      ]
+    },
     {
       "id": "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
       "primary_topic": "governance-and-institutions",

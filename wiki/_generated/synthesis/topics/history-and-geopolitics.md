@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-24
-as_of_overview_commit: 2eba9698ac1684d4bdcb278a98309c59bb000684
-input_digest: d6ab899fe65c31e88497a7e3db7311b0ed2db8a75419c2b0a5398779b70cbd63
+as_of_overview_commit: 1a90a45b19c7c97e5eb2e3ab027cf96d9fe7f9f7
+input_digest: 9fab6279cc1440902231653e1e7003f6842f533bf387ba68ba49aa8d8f895cf6
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 981 now backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang's inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian's handoff plus Liu Bei's hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu's title failure, Chen-family survival strategy, local-order fragility, and Cao Cao's talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland's partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
+Hanji 978 now backfills Cao Cao's Yanzhou survival before the Cangting branch: Xun Yu preserves Juancheng through composure and Guo Gong's uncertainty, while Cheng Yu and Jin Yun keep Fan County despite hostage pressure and later filial-duty criticism. Hanji 981 backfills the Cao Cao/Yuan Shao, Yizhou, and Xuzhou prelude: Cheng Yu blocks hostage-backed dependency, Liu Zhang's inheritance exposes Dongzhou/local elite cleavage when Gan Ning exits, and Tao Qian's handoff plus Liu Bei's hesitation makes local proxy selection visible. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, and protector-captor ambiguity into title power that remains symbolically valuable but operationally thin. Hanji 992-1020 then widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Wancheng command exposure, Yuan Shu's title failure, Chen-family survival strategy, local-order fragility, and Cao Cao's talent/discipline system. The topic also spans Warring States and Qin institutionalization, Northern Ireland's partition-to-civil-rights escalation path, undersea-cable geopolitics, and handset ecosystem shifts. Across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and actors able to read the situation without confusing loyalty, status, or symbolism for durable control.
 
 ## Cross-source Findings
+
+### Late Han Yanzhou Base Survival Begins With Morale And Alignment
+
+Hanji 978 backfills [[CaoCao]]'s [[YanzhouLateHan]] survival before the Cangting and Puyang branches: [[XunYu]] uses calm appearance to make [[GuoGongLateHan]] withdraw from [[JuanchengLateHan]], then [[ChengYu]] uses local prestige and [[XingshiqingStrategicAssessment]] to keep [[FanCountyLateHan]] through [[JinYunLateHan]]'s killing of [[FanYiLateHan]], while [[XuZhongJin]]'s later criticism turns the same act into a [[LoyaltyCollateralDilemma]].
+
+**Evidence:** [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]], [[CaoCao]], [[YanzhouLateHan]], [[XunYu]], [[GuoGongLateHan]], [[JuanchengLateHan]], [[ChengYu]], [[XingshiqingStrategicAssessment]], [[FanCountyLateHan]], [[JinYunLateHan]], [[FanYiLateHan]], [[XuZhongJin]], [[LoyaltyCollateralDilemma]], [[BattlefieldInformationControl]], [[RootBasePriority]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 978's immediate pre-Hanji-979 Yanzhou crisis.
+- Xu Zhong's criticism of Jin Yun and the host's Liu Bang hostage comparison are preserved as moral readings, not as a contradiction of the base-survival sequence.
 
 ### Late Han Liangzhou Collapse Precedes Hostage Symmetry
 
