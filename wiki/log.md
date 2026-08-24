@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？
+
+Added source page for Hanji 953: Liu Biao's initial Jingzhou entry through Kuai Liang's people-support advice and Kuai Yue's force-absorption plan, Cao Cao's first westward anti-Dong-Zhuo attack, the Bianshui defeat by Xu Rong, Cao Hong's rescue, and the Suanzao coalition's failure to execute Cao Cao's pass-control strategy. Created Kuai Liang, Wei Zi, Bianshui Battle, Suanzao Camp, and Xiangyang (late Han) pages; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript variants around Kuai Liang/Kuai Yue, Bianshui, and Xingyang are normalized cautiously as source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》954丨人性本善，还是人性本恶？
 
 Added source page for Hanji 954: the 191 CE anti-Dong-Zhuo debate over installing Liu Yu as an alternative emperor, Cao Cao's "师出有名" objection, Yuan Shao and Han Fu's title mission through Zhang Qi, Yuan Shu's ambition-shadowed loyalist refusal, and Liu Yu's rejection of both the imperial title and delegated imperial authority while his son Liu He remains exposed in Chang'an. Created Zhang Qi (Late Han) and Alternative Sovereign Legitimacy Trap; updated overview, index, Liu Yu, Yuan Shu, Yuan Shao, Han Fu, Liu He, Cao Cao, Emperor Xian of Han, Dong Zhuo, Anti-Dong Zhuo Coalition, Mingqi Legitimacy, Xing'e Theory, Common-Enemy Alliance, Interest-Structured Alliance Fragility, Moralized War Pretext, Political Survival First, and Fixed Human Nature Politics. No settled contradiction found; the source clarifies later accusations that Liu Yu sought the title as charges made by others rather than accepted fact.
@@ -11330,6 +11334,10 @@ Added source page for Hanji 956: Huangfu Song and Cai Yong's defensive speech un
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？
 
 Added source page for Hanji 955: Sun Jian's 191 CE anti-Dong-Zhuo campaign, Xu Rong's initial victory, Zu Mao's decoy, the Yangren battle, Hua Xiong's death credited to Sun Jian rather than Guan Yu, Yuan Shu's grain cutoff and reversal, Dong Zhuo's failed inducement through Li Jue, Luoyang entry, the Heirloom Imperial Seal discovery, and the Huangfu Song cliffhanger. Created pages for Hua Xiong, Hu Zhen, Xu Rong, Zu Mao, and the Yangren battle; updated connected late-Han actors, coalition, seal, literary-memory, legitimacy, and persuasion pages. No settled contradiction found; the Romance correction and host-side character judgments are kept source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

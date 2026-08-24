@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？](sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon.md) — 芮淇讲透资治通鉴 episode on Liu Biao's Jingzhou entry, Kuai Liang and Kuai Yue's renyi-versus-force counsel, Cao Cao's Bianshui defeat, Cao Hong's rescue, and the Suanzao coalition's failed pass-control strategy.
 - [《资治通鉴·汉纪》954丨人性本善，还是人性本恶？](sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h.md) — 芮淇讲透资治通鉴 episode on the 191 CE anti-Dong-Zhuo debate over replacing Emperor Xian with Liu Yu, Cao Cao's "师出有名" objection, Yuan Shu's ambition-shadowed refusal, and Liu Yu's title and delegated-authority rejection.
 - [《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？](sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 191 CE anti-Dong-Zhuo campaign, the corrected Hua Xiong credit, Yuan Shu's grain cutoff, Dong Zhuo's failed inducement, Luoyang entry, and the Heirloom Imperial Seal discovery.
 - [《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？](sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo-era defensive speech, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite available troops, grain, and dissenting advisers.
@@ -1420,6 +1421,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蒯良 / Kuai Liang](entities/KuaiLiang.md) — Jingzhou adviser who gives Liu Biao the people-support and renyi half of the initial consolidation plan.
+- [魏兹 / Wei Zi (late Han)](entities/WeiZiLateHan.md) — Zhang Miao officer who supports Cao Cao's first westward anti-Dong-Zhuo attack before the Bianshui defeat.
+- [汴水之战 / Bianshui Battle (late Han)](entities/BianshuiBattleLateHan.md) — Cao Cao's early anti-Dong-Zhuo defeat by Xu Rong, remembered here for Cao Hong's rescue and Cao's later coalition critique.
+- [酸枣大营 / Suanzao Camp](entities/SuanzaoCamp.md) — anti-Dong-Zhuo coalition camp whose inaction and grain failure expose the limits of shared-enemy mobilization.
+- [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
 - [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — Yuan Shao's nephew sent with Han Fu insiders to pressure Han Fu into yielding Jizhou.
 - [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Han Fu-side insider used in Yuan Shao's persuasion mission before the Jizhou transfer.
 - [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
