@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Yang Ding's failed attack on Duan Wei during Emperor Xian's 195 CE eastward movement, Emperor Xian's refusal to authorize an anti-Duan edict, Duan Wei's continued supply to the court, Zhang Ji's alliance switch, and Li Jue/Guo Si's temporary reunion around the higher-value prize of controlling the emperor. Created Yang Ding (late Han); updated overview, index, Emperor Xian of Han, Li Jue, Guo Si, Zhang Ji, Duan Wei, Dong Cheng, Yang Feng, Protector-Captor Ambiguity, Legitimacy Window Seizure, Interest-Structured Alliance Fragility, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the host's Duan Wei prudence and Yang Ding greed/stubbornness readings are preserved as source-scoped interpretation.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》991丨争夺献帝之战：谁能最终取胜？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's December 195 flight from Hongnong toward the Yellow River, Zhang Ji/Li Jue/Guo Si's pursuit, Dong Cheng and Yang Feng's emergency Baibo and Southern Xiongnu reinforcements, Jia Xu's intervention to spare captured ministers, Yang Biao's secret night-crossing plan, and the bloody riverbank panic that leaves many officials, palace women, and followers behind. Created pages for Baibo Army, Li Le, Hu Cai, Qubei, Empress Fu Shou, Shi Sun Rui, and Protector-Captor Ambiguity; updated overview, index, Emperor Xian of Han, Li Jue, Guo Si, Zhang Ji, Dong Cheng, Yang Feng, Han Xian, Zhang Yang, Yang Biao, Jia Xu, Southern Xiongnu, Mingqi Legitimacy, Legitimacy Window Seizure, Political Survival First, and Interest-Structured Alliance Fragility. No settled contradiction found; transcript name variants are normalized to existing canonical late-Han pages.
