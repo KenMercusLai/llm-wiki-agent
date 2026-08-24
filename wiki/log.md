@@ -10973,3 +10973,7 @@ Ran health, identity validation, and lint. Health passed with no empty/stub file
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zang Hong's failed attempt to rescue Zhang Chao at Yongqiu, Yuan Shao's refusal, Cao Cao's capture of Yongqiu, Chen Lin's persuasion letter, East Commandery starvation, and the moral cost of loyalty that binds followers into a doomed stand. Created pages for Chen Lin (Late Han), Zhu Zhi (Late Han), Yan Baihu, and Yongqiu (Late Han); updated overview, index, Zang Hong, Zhang Chao, Zhang Miao, Yuan Shao, Cao Cao, Dong Commandery, Guangling Commandery, Death-Party Loyalty vs Official Duty, Emotional Attachment Political Distortion, Loyalty-Collateral Dilemma, Political Survival First, Xingshiqing Strategic Assessment, and Retainer Reciprocity Ethic. No settled contradiction found; the transcript's unfinished "偏执狂臧洪" analysis and opening disorder examples are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
