@@ -11137,3 +11137,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云
+
+Added source page for a 芮淇讲透资治通鉴 episode on disorder-era advisers as morally ambiguous "poison strategists." Created pages for Fa Zheng and dark adviser craft; updated Jia Xu, Zhuge Liang, Cheng Yu, covert political technology, political survival first, index, and overview. No settled contradiction found; the episode's dramatic examples are kept source-scoped pending more narrowly grounded sources.

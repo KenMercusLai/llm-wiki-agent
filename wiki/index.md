@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云](sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee.md) — 芮淇讲透资治通鉴 episode on dark adviser craft through Jia Xu, Zhuge Liang, Fa Zheng, and Cheng Yu: false information, moral pressure, selective briefing, legal revenge, and stigma absorption.
 - [《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？](sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv.md) — 芮淇讲透资治通鉴 episode on Xun Yu calmly deterring Guo Gong at Juancheng, Cheng Yu stabilizing Fan County and Dong'e, and Jin Yun's family-hostage loyalty dilemma.
 - [《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？](sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis.md) — 芮淇讲透资治通鉴 episode on Cheng Yu and Zao Zhi preserving Cao Cao's Yanzhou base at Cangting and Dong'e, plus Chang'an office capture, Yongzhou setup, famine, and Emperor Xian's gruel audit.
 - [《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史](sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Puyang trap, Dian Wei's close-quarters rescue, Cao's yellow-horse deception, and locust-and-grain attrition against Lü Bu in Yanzhou.
@@ -1394,6 +1395,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [法正 / Fa Zheng](entities/FaZheng.md) — Shu-Han adviser introduced through Hanji 977 as a source-scoped case of law-like revenge and morally ambiguous adviser craft.
 - [郭贡 / Guo Gong (Late Han)](entities/GuoGongLateHan.md) — Uncertain Yanzhou military actor whose several-tens-of-thousands force withdraws after Xun Yu calmly meets him outside Juancheng.
 - [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
 - [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
@@ -8600,6 +8602,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 977 frame for disorder-era advisers mixing hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where armed commanders use kaifu-style offices and appointment access to hollow out the court's normal selection order.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Hanji 981 pattern where accepting protection by moving one's family under a stronger patron risks strategic subordination.
