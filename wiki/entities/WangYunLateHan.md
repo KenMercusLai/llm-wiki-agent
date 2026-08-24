@@ -2,11 +2,13 @@
 title: "王允 / Wang Yun (late Han)"
 type: entity
 tags: [late-han, official, dong-zhuo-aftermath, chang-an]
-sources: [zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 王允 / Wang Yun (late Han)
+
+[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] supplies Wang Yun's pre-coup waiting posture. After [[EmperorXianOfHan|汉献帝]] reaches [[ChangAnHanCapital|长安]] and temporarily stays at the Jingzhao Yin office, Wang Yun handles court affairs while appearing submissive to [[DongZhuo|董卓]]. The episode frames this as hidden compliance: Wang Yun preserves access under a captured court while waiting for an opening to remove Dong Zhuo.
 
 [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] supplies Wang Yun's pre-coup persuasion role. The episode places him with [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[YangZanLateHan|杨瓒]], and other officials in the planning circle against [[DongZhuo|董卓]], but it also stresses that Dong Zhuo cannot be reached easily while [[LyuBu|吕布]] remains a loyal close guard.
 
@@ -34,6 +36,7 @@ The host's source-scoped evaluation is severe: Wang Yun is treated as lacking po
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[EmperorXianOfHan|汉献帝]], [[ChangAnHanCapital|长安]], and [[DongZhuo|董卓]] - pre-coup court-management and hidden-compliance posture.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[YangZanLateHan|杨瓒]], [[LyuBu|吕布]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - pre-coup planning and persuasion branch.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[ShiSunRuiLateHan|士孙瑞]], [[LyuBu|吕布]], [[DongZhuo|董卓]], [[CaiYong|蔡邕]], and [[MaRidiLateHan|马日磾]] - direct coup design and historian-silencing branch.
 - [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[CaiYong|蔡邕]], [[HistoricalRecordAuthority|史官记录话语权]], and [[PostSuccessArrogance|得势后的骄傲]] - execution, reputation-control anxiety, and first Lü Bu conflict after Dong Zhuo's death.

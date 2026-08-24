@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
       "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
       "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
       "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
@@ -199,11 +200,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 197
+    "paragraph_count": 198
   },
-  "overview_commit": "9c3051b043b64c60aaddab820a1f802f82e5ebfe",
-  "overview_digest": "e70f8f7e0699875356a5b24ac7af0bd88c51024cddbd952441d6ffec171c1efb",
+  "overview_commit": "cdf2771298e0d239c1108a16c5505b386dfff037",
+  "overview_digest": "e555631250e8991da88bcc32380592a49828570d2bfe362176b66c42786c6700",
   "paragraphs": [
+    {
+      "id": "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] late-Han field through [[DongZhuo|董卓]]'s [[LuoyangLateHan|洛阳]] destruction, [[WangYunLateHan|王允]]'s hidden compliance in [[ChangAnHanCapital|长安]], and [[SunJianLateHan|孙坚]]'s coercive pre-[[YuanShu|袁术]] rise. It adds [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], [[ZhangZiLateHan|张咨]], and [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]], while extending [[AntiDongZhuoCoalition|反董卓联盟]], [[HeartFieldEthics|心田处世伦理]], [[VirtuePracticeInternalization|修养内化]], and [[SpeechAsMoralDiagnostic|言语作为德行信号]]. Its core synthesis is that the source's \"但行好事\" frame is not a guarantee of external reward but a discipline of conscience and exposure: Dong Zhuo's unchecked desire destroys living city and ancestral order, Wang Rui's loose contempt becomes a survival risk, and Sun Jian's useful military force already carries forged-order violence, private resentment, and grain coercion before the cleaner anti-Dong campaign memory. No settled contradiction is recorded; Zhang Zi's name is normalized cautiously from the source's \"张姿\" rendering.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "CaoYinLateHan",
+        "ChangAnHanCapital",
+        "DongZhuo",
+        "HeartFieldEthics",
+        "LuoyangLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SpeechAsMoralDiagnostic",
+        "SunJianLateHan",
+        "TombDesecrationPoliticalViolence",
+        "VirtuePracticeInternalization",
+        "WangRuiLateHan",
+        "WangYunLateHan",
+        "YuanShu",
+        "ZhangZiLateHan",
+        "zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj",
+        "zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon"
+      ]
+    },
     {
       "id": "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
       "primary_topic": "history-and-geopolitics",

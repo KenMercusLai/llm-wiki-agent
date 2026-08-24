@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？](sources/zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi.
 - [《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？](sources/zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon.md) — 芮淇讲透资治通鉴 episode on Liu Biao's Jingzhou entry, Kuai Liang and Kuai Yue's renyi-versus-force counsel, Cao Cao's Bianshui defeat, Cao Hong's rescue, and the Suanzao coalition's failed pass-control strategy.
 - [《资治通鉴·汉纪》954丨人性本善，还是人性本恶？](sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h.md) — 芮淇讲透资治通鉴 episode on the 191 CE anti-Dong-Zhuo debate over replacing Emperor Xian with Liu Yu, Cao Cao's "师出有名" objection, Yuan Shu's ambition-shadowed refusal, and Liu Yu's title and delegated-authority rejection.
 - [《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？](sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 191 CE anti-Dong-Zhuo campaign, the corrected Hua Xiong credit, Yuan Shu's grain cutoff, Dong Zhuo's failed inducement, Luoyang entry, and the Heirloom Imperial Seal discovery.
@@ -1421,6 +1422,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王瑞 / Wang Rui (late Han)](entities/WangRuiLateHan.md) — Jingzhou inspector whose contempt for Sun Jian and threat against Cao Yin become the Hanji 952 loose-speech survival failure.
+- [曹寅 / Cao Yin (late Han)](entities/CaoYinLateHan.md) — Wuling administrator who forges a court-envoy order to push Sun Jian against Wang Rui after Wang Rui threatens him.
+- [张咨 / Zhang Zi (late Han)](entities/ZhangZiLateHan.md) — Nanyang administrator whom Sun Jian kills after a grain refusal, making supply coercion part of Sun Jian's pre-Yuan-Shu rise.
 - [蒯良 / Kuai Liang](entities/KuaiLiang.md) — Jingzhou adviser who gives Liu Biao the people-support and renyi half of the initial consolidation plan.
 - [魏兹 / Wei Zi (late Han)](entities/WeiZiLateHan.md) — Zhang Miao officer who supports Cao Cao's first westward anti-Dong-Zhuo attack before the Bianshui defeat.
 - [汴水之战 / Bianshui Battle (late Han)](entities/BianshuiBattleLateHan.md) — Cao Cao's early anti-Dong-Zhuo defeat by Xu Rong, remembered here for Cao Hong's rescue and Cao's later coalition critique.
@@ -8758,6 +8762,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tomb-Desecration Political Violence / 陵墓亵渎式政治暴力](concepts/TombDesecrationPoliticalViolence.md) — Hanji 952 pattern where grave robbery and mausoleum destruction attack ritual order, memory, and cultural inheritance as well as seizing wealth.
 - [Psychological Surrender Trap / 心理迫降陷阱](concepts/PsychologicalSurrenderTrap.md) — Hanji 956 pattern where manufactured external pressure and comparative questioning make an actor surrender real assets while imagining reputation and safety.
 - [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.
 - [Post-Power Safety Collapse / 失势后的安全崩塌](concepts/PostPowerSafetyCollapse.md) — Hanji 957 pattern where losing office, team, value, and trusted interpretation turns ordinary ambiguity into fatal panic.

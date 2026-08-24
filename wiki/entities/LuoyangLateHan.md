@@ -2,11 +2,13 @@
 title: "洛阳 / Luoyang (late Han)"
 type: entity
 tags: [place, city, capital, late-han, china]
-sources: [zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]
+last_updated: 2026-08-25
 ---
 
 # 洛阳 / Luoyang (late Han)
+
+[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] supplies Luoyang's destruction stage rather than only its later ruin. After moving the court west, [[DongZhuo|董卓]] burns palaces, offices, and homes, leaves the surrounding field scorched, and loots imperial mausoleums and ministerial graves. This makes Luoyang a case of [[WarDisasterCompounding|war-disaster compounding]] and [[TombDesecrationPoliticalViolence|tomb-desecration political violence]], where urban destruction and ancestral/cultural violation reinforce each other.
 
 [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] supplies the immediate return and ruin stage. [[EmperorXianOfHan|汉献帝]] reaches Luoyang, first stays in the former residence of Zhao Zhong, then moves to the South Palace's Yang'an Hall after a general amnesty. The episode stresses the material collapse: palaces burned by Dong Zhuo, officials living in makeshift shelters, starvation around the court, and regional authorities withholding support.
 
@@ -19,6 +21,7 @@ That material ruin changes the political meaning of relocation. [[DongZhaoLateHa
 This page is disambiguated from [[Luoyi|洛邑 / Luoyi]], the older Zhou and early-Han capital frame. Hanji 1004's Luoyang is a late-Han crisis site: symbolically important, but too damaged to secure the court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[DongZhuo|董卓]], [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]], and [[WarDisasterCompounding|战乱灾害复合]] - direct burning, tomb looting, and cultural ruin stage.
 - [[EmperorXianOfHan|汉献帝]] - ruler who returns to Luoyang and then leaves for Xu.
 - [[CaoCao|曹操]], [[DongZhaoLateHan|董昭]], and [[DongChengLateHan|董承]] - actors who convert Luoyang's access and weakness into Cao Cao's court intervention.
 - [[Xudu|许都]] - destination that replaces Luoyang as the operating court center.

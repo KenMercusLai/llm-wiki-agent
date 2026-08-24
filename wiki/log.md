@@ -11350,3 +11350,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？
+
+Added source page for Hanji 952: Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi. Created late-Han disambiguation pages for Wang Rui, Cao Yin, and Zhang Zi plus a tomb-desecration political violence concept; updated connected Dong Zhuo, Luoyang, Wang Yun, Sun Jian, Yuan Shu, coalition, and moral-cultivation pages. No settled contradiction found; Zhang Zi is normalized cautiously from the source's "张姿" rendering.
