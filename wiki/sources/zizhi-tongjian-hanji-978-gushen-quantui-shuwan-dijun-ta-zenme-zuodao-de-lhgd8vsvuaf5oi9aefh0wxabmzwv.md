@@ -42,4 +42,3 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 ## Contradictions
 - No settled contradiction found. This source fills the moment before Hanji 979's Cheng Yu/Zao Zhi defense mechanics and before Hanji 980's Puyang trap.
 - Source-scope caution: the episode foregrounds Xu Zhong's criticism of Jin Yun as later moral commentary, not as a contradiction of the event sequence.
-

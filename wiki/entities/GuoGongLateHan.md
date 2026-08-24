@@ -16,4 +16,3 @@ His source role is not a long biography but a test of [[XunYu|荀彧]]'s judgmen
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[XunYu|荀彧]], [[JuanchengLateHan|鄄城]], and [[YanzhouLateHan|兖州]] - source episode and setting.
 - [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]] - rumored alignment that makes Guo Gong's arrival frightening.
 - [[BattlefieldInformationControl|战场信息控制]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts shaped by Xun Yu's reading and outward composure.
-

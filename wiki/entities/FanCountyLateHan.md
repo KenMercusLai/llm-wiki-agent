@@ -16,4 +16,3 @@ Its source role is the county-level counterpart to Juancheng's morale defense. [
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[ChengYu|程昱]], and [[CaoCao|曹操]] - source sequence.
 - [[YanzhouLateHan|兖州]], [[JuanchengLateHan|鄄城]], and [[DongALateHan|东阿]] - remaining base geography.
 - [[LyuBu|吕布]], [[ChenGongLateHan|陈宫]], [[RootBasePriority|根本根据地优先]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - pressure field and concepts.
-

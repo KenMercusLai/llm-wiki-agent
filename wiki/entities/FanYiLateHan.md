@@ -16,4 +16,3 @@ Fan Yi matters because his death marks the county's refusal to defect after [[Ch
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[JinYunLateHan|靳允]], and [[ChengYu|程昱]] - source episode and ambush sequence.
 - [[LyuBu|吕布]], [[ChenGongLateHan|陈宫]], and [[YanzhouLateHan|兖州]] - enemy-side pressure field.
 - [[RootBasePriority|根本根据地优先]] and [[LoyaltyCollateralDilemma|忠义牵连困境]] - base-survival and hostage-pressure concepts.
-

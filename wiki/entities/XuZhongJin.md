@@ -16,4 +16,3 @@ The page records Xu Zhong's argument as a source-scoped moral reading, not as a 
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[JinYunLateHan|靳允]], [[FanCountyLateHan|范县]], and [[FanYiLateHan|范仪]] - source commentary target.
 - [[CaoCao|曹操]], [[LyuBu|吕布]], [[LiuBang|刘邦]], [[LiuTaigong|刘太公]], and [[XiangYu|项羽]] - moral comparison field in the episode.
 - [[LoyaltyCollateralDilemma|忠义牵连困境]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - ethical and strategic frames extended by the comment.
-
