@@ -2,11 +2,15 @@
 title: "Tuntian System / 屯田制"
 type: concept
 tags: [agriculture, logistics, statecraft, military, late-han]
-sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
+sources: [zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
 last_updated: 2026-08-24
 ---
 
 # Tuntian System / 屯田制
+
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds the strategic prehistory of Cao Cao's屯田 logic through [[MaoJie|毛玠]] and the Qingzhou surrender. The episode says [[CaoCao|曹操]] folds selected fighters into [[QingzhouSoldiers|青州兵]] and gives the remaining population farming tools, while Mao Jie pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
+
+This addition does not replace Hanji 1008's formal implementation account. It clarifies the earlier conditions that make implementation useful: [[DefeatedPopulationConversion|降众资源化]] supplies people to organize, and the legitimacy strategy supplies a reason for elites and advisers to treat Cao Cao's agricultural base as part of a wider political order.
 
 [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds a source-scoped prehistory through [[BianRangLateHan|边让]] and the [[YanzhouLateHan|兖州]] local elite crisis. The episode says Bian Rang's opposition to [[CaoCao|曹操]] was partly tied to land clearance and early屯田 pressure against elite estate interests. The wiki treats that as this episode's causal interpretation, not as a replacement for Hanji 1008's formal Zao Zhi and Ren Jun implementation account.
 
@@ -23,6 +27,7 @@ The host says the first year produces about one million斛 of grain, rendering t
 This concept extends [[WarCostTempoDiscipline|战争成本与速决纪律]] from campaign-cost awareness into production capacity. It also answers [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]]: when war has removed or scattered the agricultural workforce, a powerholder who can reorganize people into protected production gains a durable advantage over rivals who only seize or consume grain.
 
 ## Key Claims
+- Hanji 968 adds Mao Jie's early legitimacy-plus-logistics advice and the Qingzhou population base as strategic prehistory for later formal屯田.
 - Hanji 974 adds a source-scoped prehistory in which land clearance and early屯田 pressure help explain elite resistance around Bian Rang; this does not displace Hanji 1008 as the formal implementation source.
 - Hanji 976 adds屯田 as part of a high-level adviser-system portrait, while keeping formal implementation grounded in Hanji 1008's Zao Zhi and Ren Jun account.
 - Hanji 979 adds that Zao Zhi's later屯田 role is preceded by emergency local organization, not introduced as an isolated policy idea.
@@ -33,6 +38,7 @@ This concept extends [[WarCostTempoDiscipline|战争成本与速决纪律]] from
 - The episode's numerical conversions are useful explanatory estimates but remain source-scoped.
 
 ## Connections
+- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[QingzhouSoldiers|青州兵]], [[DefeatedPopulationConversion|降众资源化]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - early strategic prehistory and population base.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[YanzhouLateHan|兖州]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - source-scoped land-control and elite-resistance prehistory.
 - [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], and [[AdviserStateArchitecture|谋士政权架构]] - thematic system-capacity branch.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[DongALateHan|东阿]], [[YanzhouLateHan|兖州]], and [[RootBasePriority|根本根据地优先]] - Zao Zhi's earlier defensive organization before formal屯田.

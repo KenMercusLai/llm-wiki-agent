@@ -1,8 +1,8 @@
 ---
 title: "陈留 / Chenliu"
 type: entity
-tags: [place, qin, chu-han, logistics, surrender]
-sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+tags: [place, qin, chu-han, logistics, surrender, late-han]
+sources: [zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
 last_updated: 2026-08-24
 ---
 
@@ -16,6 +16,8 @@ After entering Chenliu, Liu Bang distributes stored weapons and grain, stays for
 
 [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds a late-Han use. [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], and [[GaoRouLateHan|高柔]] are all tied to Chenliu in the source, making the place part of the local elite field behind [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis rather than only a Chu-Han logistics hub.
 
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds [[MaoJie|毛玠]] as another Chenliu-linked late-Han actor. In this source, Mao Jie gives Cao Cao the paired legitimacy and logistics strategy that connects "奉天子以令不臣" with farming and military supply.
+
 ## Connections
 - [[LiShiqi|郦食其]] - adviser and insider whose strategy makes Chenliu the next target.
 - [[LiuBang|刘邦]] - commander who gains supplies, weapons, and recruits there.
@@ -23,3 +25,4 @@ After entering Chenliu, Liu Bang distributes stored weapons and grain, stays for
 - [[PoliticalSurrenderCascade|招降示范级联]] and [[LowStatusStrategicPersuasion|低位者战略说服]] - mechanisms around the city.
 - [[GuanzhongRegion|关中]] and [[HuaiwangAgreement|怀王之约]] - larger westward objective for which Chenliu becomes a preparation base.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - late-Han local elite cluster.
+- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[TuntianSystem|屯田制]] - late-Han adviser and strategy branch.

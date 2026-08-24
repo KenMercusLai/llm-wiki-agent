@@ -2,11 +2,15 @@
 title: "张杨 / Zhang Yang (late Han)"
 type: entity
 tags: [person, late-han, military, henei]
-sources: [zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
+sources: [zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1]
 last_updated: 2026-08-24
 ---
 
 # 张杨 / Zhang Yang (late Han)
+
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds Zhang Yang as the first Henei gatekeeper in [[CaoCao|曹操]]'s attempt to contact the [[EmperorXianOfHan|汉献帝]] court after adopting [[MaoJie|毛玠]]'s "奉天子" strategy. Zhang Yang initially refuses the route and discards the paperwork, but [[DongZhaoLateHan|董昭]] persuades him to let Cao Cao's envoy pass and to recommend Cao Cao upward.
+
+The source makes Zhang Yang's importance positional. He does not design the legitimacy strategy, but he controls the passage through [[HeneiCommandery|河内郡]] without which Cao Cao cannot turn a slogan into a court-facing channel.
 
 [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] backfills Zhang Yang's earlier role as the patron to whom [[LyuBu|吕布]] returns after surviving the [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]]. The source does not develop Zhang Yang's own decision process here; it uses him as the next safe attachment point after [[YuanShao|袁绍]]'s escort-cover killing attempt fails.
 
@@ -27,6 +31,7 @@ Zhang Yang also appears in the episode's later Luoyang turn as one of the figure
 ## Connections
 - [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]], [[LyuBu|吕布]], [[YuanShao|袁绍]], and [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]] - earlier Lü Bu refuge after the failed assassination.
 - [[DongZhaoLateHan|董昭]] - adviser whose Henei persuasion links Zhang Yang to Cao Cao.
+- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[HeneiCommandery|河内郡]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - initial court-contact route after Cao Cao adopts the legitimacy strategy.
 - [[CaoCao|曹操]] - outside actor seeking a court-communication route through Henei.
 - [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] - grain support after the river crossing.
 - [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[Anyi|安邑]], and [[LuoyangLateHan|洛阳]] - early failed return plan blocked by escort politics.

@@ -11211,6 +11211,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 芮淇讲透资治通鉴 episode on Zhong Yao releasing Cao Cao's court appointment, the Yuan Shao-Yuan Shu Yangzhou office fight, Yangtze-line strategic geography, Cao Cao's pursuit of Yuan Shu, and Zhao Qi's mediation after Qingzhou proxy-war famine. Created Yangzhou, Qingzhou, Yuan Yi, Chen Wen, Jiangling, and river-corridor strategic-base pages; updated connected late-Han actors and legitimacy/war-disaster concepts. No settled contradiction found; transcript homophones around 袁遗 and 陈瑀 are normalized cautiously.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋
+
+Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's "奉天子以令不臣" plus logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel. Created Mao Jie, Qingzhou Soldiers, and defeated population conversion pages; updated Cao Cao, Qingzhou, Dong Zhao, Zhang Yang, Zhong Yao, Henei, Chenliu, and related legitimacy/tuntian/adviser concepts. No settled contradiction found; Mao Jie's屯田 advice is kept as strategic prehistory while Hanji 1008 remains the formal Zao Zhi/Ren Jun implementation account.
+
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

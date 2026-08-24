@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-24
-as_of_overview_commit: 3b7bb017687772ff9e4b1677d31136e11cba2658
+as_of_overview_commit: e5438a7d7e71d4de7aa8ac13c39e9ce8cc9d26c5
 summary: "Podcast Atlas maps how AI, markets, states, culture, science, and careers become durable through workflow fit, legitimacy, trust, and implementation discipline."
-episode_count: 1396
-source_count: 1396
-paragraph_count: 185
+episode_count: 1397
+source_count: 1397
+paragraph_count: 186
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media sources use literature, folklore, games, podcasts, and platfor
 
 ### Governance and Institutions
 
-Governance is a translation problem: victories, titles, safety claims, markets, missions, reforms, and alliances become durable only through enforceable controls, legitimate procedure, feedback, security design, and social support. Hanji 969 adds that captured appointments and empty provincial offices can preserve legitimacy signals while failing to rule territory or famine.
+Governance is a translation problem: victories, titles, safety claims, markets, missions, reforms, and alliances become durable only through enforceable controls, legitimate procedure, feedback, security design, and social support. Hanji 968-969 add that late-Han legitimacy required food, converted populations, working court access, and offices that could actually rule territory.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].

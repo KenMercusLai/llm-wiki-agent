@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
       "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
       "6e42f33ecf8b94e5e9eeee0f2a1713a75b4c4976c9a1eb751ce1c96d5811aa5c",
       "43269c71ad73aa15110c8d01d3636a45bbbf86b3ebf5af08478742af0daa0725",
@@ -187,11 +188,38 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 185
+    "paragraph_count": 186
   },
-  "overview_commit": "3b7bb017687772ff9e4b1677d31136e11cba2658",
-  "overview_digest": "f112dafddec38e89063baec2ae3bd5af62b1f39a79de06449df686017da96234",
+  "overview_commit": "e5438a7d7e71d4de7aa8ac13c39e9ce8cc9d26c5",
+  "overview_digest": "8b55087174a5a66ebf1f771460fad62d9606f6c8047578c7dc6c4dce82ace638",
   "paragraphs": [
+    {
+      "id": "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that backfills the pre-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] foundation of [[CaoCao|曹操]]'s rise. It adds [[MaoJie|毛玠]], [[QingzhouSoldiers|青州兵]], and [[DefeatedPopulationConversion|降众资源化]], while extending [[QingzhouLateHan|青州]], [[TuntianSystem|屯田制]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[AdviserStateArchitecture|谋士政权架构]], [[DongZhaoLateHan|董昭]], [[ZhangYangLateHan|张杨]], [[HeneiCommandery|河内郡]], and [[ZhongYao|钟繇]]. Its core synthesis is that Cao Cao's \"阳谋\" is an operating system: surrendered people become soldiers and producers, Mao Jie binds food to imperial legitimacy, and Dong Zhao plus Zhong Yao turn a principle into a fragile Henei-Chang'an court channel. No settled contradiction is recorded; Mao Jie's屯田 advice is treated as strategic prehistory while Hanji 1008 remains the formal Zao Zhi/Ren Jun implementation source.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "DefeatedPopulationConversion",
+        "DongZhaoLateHan",
+        "HeneiCommandery",
+        "LegitimacyWindowSeizure",
+        "MaoJie",
+        "QingzhouLateHan",
+        "QingzhouSoldiers",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "ZhangYangLateHan",
+        "ZhongYao",
+        "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+        "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r"
+      ]
+    },
     {
       "id": "8861a1a88a7a487c982d068bb5fb6d6a67627bbff7bacfb7fe3e100d542fe27b",
       "primary_topic": "history-and-geopolitics",

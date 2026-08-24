@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋](sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj.md) — 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's legitimacy-logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel.
 - [《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？](sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r.md) — 芮淇讲透资治通鉴 episode on Zhong Yao releasing Cao Cao's Li-Guo court appointment, Yuan Shao and Yuan Shu's Yangzhou office fight, Yangtze strategic geography, Cao Cao's pursuit of Yuan Shu, and Qingzhou proxy-war mediation.
 - [《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？](sources/zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs.md) — 芮淇讲透资治通鉴 episode on Yuan Shao's Ye crisis, Tao Sheng's protection of his family, the Black Mountain campaigns against Yu Du and Zhang Yan, and the failed escort-cover assassination of Lü Bu.
 - [《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹](sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku.md) — 芮淇讲透资治通鉴 episode on the disputed killing of Cao Song, the Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup.
@@ -1405,7 +1406,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
-- [青州 / Qingzhou (late Han)](entities/QingzhouLateHan.md) — Late-Han province where Tian Kai and Yuan Tan turn the Gongsun Zan-Yuan Shao rivalry into proxy-war famine.
+- [青州 / Qingzhou (late Han)](entities/QingzhouLateHan.md) — Late-Han province whose Hanji 968 surrender population helps form Cao Cao's Qingzhou Soldiers and whose Hanji 969 proxy war becomes famine.
+- [青州兵 / Qingzhou Soldiers](entities/QingzhouSoldiers.md) — Cao Cao's elite force formed from the Qingzhou Yellow Turban surrender, paired in Hanji 968 with farming and supply conversion.
 - [袁遗 / Yuan Yi (late Han)](entities/YuanYiLateHan.md) — Yuan Shao-side Yangzhou appointee defeated by Yuan Shu after Chen Wen's death.
 - [陈温 / Chen Wen (late Han)](entities/ChenWenLateHan.md) — Yangzhou inspector whose death opens the Yuan-family office fight over the province.
 - [江陵 / Jiangling (late Han)](entities/JianglingLateHan.md) — Jingzhou corridor-control node linking upstream Yizhou and downstream Yangzhou strategy.
@@ -1756,8 +1758,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张范 / Zhang Fan (late Han)](entities/ZhangFanLateHan.md) — Recluse who refuses Yuan Shu's recruitment and sends Zhang Cheng instead, withholding symbolic endorsement from the title project.
 - [张承 / Zhang Cheng (late Han)](entities/ZhangChengLateHan.md) — Zhang Fan's younger brother whose "in virtue, not strength" remonstrance rejects Yuan Shu's force-based imperial reasoning.
 - [传国玉玺 / Heirloom Imperial Seal](entities/HeirloomImperialSeal.md) — Imperial object Yuan Shu forces from Sun Jian's household and treats as title support, while the source keeps it insufficient without accepted legitimacy.
-- [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 1003-1004 branch clears Yang Feng from Cao Cao's Luoyang path and then turns Emperor Xian's relocation into a supply-grounded move from Luoyang to Xu.
-- [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Emperor-return supplier and Henei patron whose later initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route.
+- [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 968 and 1003-1004 branches open Cao Cao's court-access routes, first through Zhang Yang in Henei and later around Yang Feng and Xu relocation.
+- [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Emperor-return supplier and Henei patron whose initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route in Hanji 968.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
@@ -1806,9 +1808,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser in the Hanji 976 adviser-platform reading and later Hanji 1005/1006 branch explaining Xun Yu's recommendation, Yuan Shao rejection, and strategic advice.
 - [荀攸 / Xun You](entities/XunYou.md) — Cao Cao strategist introduced through Xun Yu's recommendation and contrasted with Guo Jia as cautious, secret-keeping, and survival-minded.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
-- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official named in Hanji 976 as part of Xun Yu's talent chain and sent to Chang'an in Hanji 1015 to stabilize Guanzhong.
+- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official whose Hanji 968-969 Chang'an persuasion releases Cao Cao's appointment before later talent-chain and Guanzhong-stabilization roles.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
+- [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose Hanji 971 supply/plunder dispute with Liu Yu leads into the execution, Youzhou backlash, Yijing isolation, and Yuan Shao war.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's father, whose disputed killing triggers the Xuzhou revenge branch in Hanji 971.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
@@ -8802,7 +8805,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Era Transition Proximity / 时代远走与新文明靠近](concepts/EraTransitionProximity.md) — Jia Zhangke's EP276 formulation that one era recedes because another era, including AI and new social forms, is approaching.
 - [Virtual-Physical Life Balance / 虚拟与实体生活差异](concepts/VirtualPhysicalLifeBalance.md) — EP276 explanation of AI anxiety as shaped by virtual-platform time versus fuller physical life, not just city-versus-village location.
 - [Film Reality Beyond Realism](concepts/FilmRealityBeyondRealism.md) — Jia Zhangke's AI-cinema argument that films can respond to the real world through non-realist methods without abandoning reality as the object of concern.
-- [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Hanji 1002 Xun Yu/Cao Cao pattern where exposed sovereign legitimacy must be captured before another power turns it into order, strategy, and talent attraction.
+- [Legitimacy Window Seizure / 合法性窗口抢占](concepts/LegitimacyWindowSeizure.md) — Cao-side pattern where Mao Jie's early formula and Xun Yu's later argument turn exposed sovereign legitimacy into order, strategy, and talent attraction.
 - [Protector-Captor Ambiguity / 护驾与挟持模糊性](concepts/ProtectorCaptorAmbiguity.md) — Late-Han pattern where forces close enough to protect Emperor Xian are also close enough to seize, control, threaten, redirect, or abandon him.
 - [Military Prestige Threat Purge / 军功声望威胁清洗](concepts/MilitaryPrestigeThreatPurge.md) — Hanji 984 pattern where a successful commander with army support becomes a threat to a superior once ambiguous outside contact can be read as future defection.
 - [Leader Personal Exposure / 领导者轻身涉险](concepts/LeaderPersonalExposure.md) — Hanji 1005 Sun Ce pattern where solo hunting, light clothing, and weak guard preparation turn personal freedom into leader-security risk.
@@ -8810,7 +8813,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Hanji 1006 Man Chong/Cao Hong pattern where Cao Cao backs legal enforcement against kinship-backed clients to discipline clan privilege and reassure officials.
-- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, with Hanji 974 preserving a source-scoped earlier land-pressure prehistory around Bian Rang.
+- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, with Hanji 968 Mao Jie/Qingzhou prehistory and Hanji 1008 Zao Zhi/Ren Jun formal implementation.
+- [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
