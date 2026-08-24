@@ -2,11 +2,15 @@
 title: "Coerced Talent Legitimacy / 胁迫征士合法性"
 type: concept
 tags: [late-han, talent, legitimacy, coercion, court]
-sources: [zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
+sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
 last_updated: 2026-08-25
 ---
 
 # Coerced Talent Legitimacy / 胁迫征士合法性
+
+[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] adds the immediate prelude to Dong Zhuo's later scholar-recruitment branch. Before the episode 949 summons-and-refusal pattern, [[DongZhuo|董卓]] already seeks [[CaiYong|蔡邕]]'s prestige and appoints respected senior figures such as [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], and [[HuangWanLateHan|黄琬]] after forcing the replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]].
+
+This earlier case shows why talent legitimacy is needed in the first place. [[CoercedImperialReplacement|胁迫式废立]] and He-family violence make rule visibly coercive, so famous names and high offices become evidence Dong Zhuo wants others to read as recognition.
 
 Coerced talent legitimacy / 胁迫征士合法性 is the pattern [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] builds from [[DongZhuo|董卓]] after he receives xiangguo privileges. Dong Zhuo knows he needs respected figures, cleaner appointments, and a more legitimate-looking court, but his power rests on soldiers terrorizing [[LuoyangLateHan|洛阳]] and killing or punishing opponents.
 
@@ -18,6 +22,7 @@ This differs from [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]
 
 ## Key Claims
 
+- Hanji 948 adds that coerced talent legitimacy begins before mass scholar recruitment: famous names and senior offices are needed to cover the forced replacement of the ruler.
 - Violent powerholders may seek scholar prestige precisely because force alone does not create stable legitimacy.
 - Rapid promotion can function as political packaging when appointments are used to signal elite support faster than trust can form.
 - Coercive recruitment can staff offices, but it weakens the evidentiary value of those offices because observers can read compliance as fear.
@@ -26,6 +31,7 @@ This differs from [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[CaiYong|蔡邕]], [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], and [[CoercedImperialReplacement|胁迫式废立]] - early prestige packaging after forced imperial replacement.
 - [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] - source case.
 - [[DongZhuo|董卓]] and [[LuoyangLateHan|洛阳]] - coercive ruler and terrorized court city.
 - [[XunShuangLateHan|荀爽]], [[ChenJiLateHan|陈纪]], [[HanRongLateHan|韩融]], and [[ShentuPanLateHan|申屠蟠]] - recruited scholars and refusal contrast.

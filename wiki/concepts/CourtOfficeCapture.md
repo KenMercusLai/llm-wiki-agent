@@ -2,11 +2,15 @@
 title: "Court Office Capture / 朝廷开府任官失序"
 type: concept
 tags: [late-han, court, legitimacy, institutions, appointments]
-sources: [zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
+sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
 last_updated: 2026-08-25
 ---
 
 # Court Office Capture / 朝廷开府任官失序
+
+[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] adds the forced-replacement prelude before the xiangguo privilege branch in Hanji 949. After making [[EmperorXianOfHan|汉献帝]] emperor, [[DongZhuo|董卓]] takes high military and court honors for himself while using appointments for [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], and [[HuangWanLateHan|黄琬]] to make the court look staffed by respected figures.
+
+The case shows court office capture before the later multi-office Li-Guo disorder. At this stage the capture is still centered on one coercive actor: offices remain recognizable, but they are being selected and staged to serve Dong Zhuo's authority after [[CoercedImperialReplacement|胁迫式废立]].
 
 [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] adds an earlier one-man prelude to the later Li-Guo office-capture pattern. [[DongZhuo|董卓]] receives xiangguo rank and exceptional court-entry privileges while the court remains under military terror in [[LuoyangLateHan|洛阳]]. The source does not yet show multiple armed offices competing, but it shows the prerequisite: formal court honors can be captured by a coercive actor and used to stage legitimacy faster than institutions recover.
 
@@ -21,12 +25,14 @@ The source case is Chang'an in 194 CE. [[GuoSiLateHan|郭汜]] and [[FanChouLate
 The concept differs from ordinary factional recommendation. In this source, office multiplication does not mean more institutional capacity; it means the old Three Excellencies' nominees are displaced by candidates pushed through military-controlled offices. Formal `名器` still matters, but the machinery that should connect title to orderly selection is being occupied by coercive actors.
 
 ## Key Claims
+- A single armed court-captor can use ordinary-looking appointments and self-honors to stage legitimacy immediately after forcing imperial replacement.
 - Kaifu-style privilege can become appointment capture when several armed commanders each use court-like offices to push their own nominees.
 - Formal offices may multiply while real institutional coordination declines.
 - The court can still issue titles and create administrative structures, but selection authority may be redistributed toward actors who control force.
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], [[CoercedImperialReplacement|胁迫式废立]], and [[MingqiLegitimacy|名器合法性]] - office staging after Dong Zhuo's forced emperor replacement.
 - [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - xiangguo privilege and scholar-legitimacy staging before the later multi-office capture pattern.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[ZhongYao|钟繇]], [[CaoCao|曹操]], [[YuanShu|袁术]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - outward appointment and title-distribution branch.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and [[YangDingLateHan|杨定]] - armed office-holders in the source.

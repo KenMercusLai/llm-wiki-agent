@@ -2,11 +2,15 @@
 title: "刘虞 / Liu Yu (Late Han)"
 type: entity
 tags: [person, late-han, youzhou, china]
-sources: [zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 刘虞 / Liu Yu (Late Han)
+
+[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] adds an earlier appointment layer before Liu Yu becomes the alternative-emperor refusal case in Hanji 954. After deposing [[LiuBianHongnongWang|刘辩 / 弘农王]], [[DongZhuo|董卓]] appoints Liu Yu as da sima and grants him marquis status, using Liu Yu's reputation and Han-clan standing to stabilize the newly coerced court surface.
+
+The source makes this appointment part of legitimacy packaging rather than evidence of Dong Zhuo's secure support. Liu Yu is not shown as choosing Dong Zhuo's project; his name is useful because the court needs respected figures after [[CoercedImperialReplacement|胁迫式废立]].
 
 [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] adds the earliest title-risk layer before the later [[GongsunZan|公孙瓒]] accusation and Youzhou rupture. In 191 CE, [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] try to make Liu Yu the alternative emperor because [[EmperorXianOfHan|汉献帝]] is trapped under [[DongZhuo|董卓]]'s control; [[ZhangQiLateHan|张岐]] is sent to offer the title.
 
@@ -27,6 +31,7 @@ The same source makes his death a coerced court-legitimacy scene. [[DuanXunLateH
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] follows the aftermath: Liu Yu's old staff and supporters, especially [[XianyuFu|鲜于辅]], gather forces to avenge him. His son [[LiuHeLateHan|刘和]] becomes a banner around which [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], and Yuan Shao-aligned forces can coordinate against Gongsun Zan.
 
 ## Connections
+- [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[DongZhuo|董卓]], [[CoercedImperialReplacement|胁迫式废立]], and [[MingqiLegitimacy|名器合法性]] - early reputation-bearing appointment after Dong Zhuo's deposition.
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[EmperorXianOfHan|汉献帝]], [[YuanShu|袁术]], [[Wuguan|武关]], [[NanyangCommandery|南阳郡]], and [[GongsunYueLateHan|公孙越]] - earlier cavalry-request and trust-rupture branch.
 - [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] - supply, plunder, and accusation prelude to the direct Liu Yu/Gongsun Zan conflict.
 - [[GongsunZan|公孙瓒]] - killer and political beneficiary whose rule backfires after Liu Yu's death.

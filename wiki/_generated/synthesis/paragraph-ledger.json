@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
       "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
       "9a8c5b1c1d2f22a86792b603e8e480a727b20553bacf85d91e8a75eb89c78c8a",
       "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
@@ -201,11 +202,54 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 199
+    "paragraph_count": 200
   },
-  "overview_commit": "33958a3c8c31e527486c93b89a55e8594054f2e8",
-  "overview_digest": "37ec2455b111a939001164a84e9490de653d47006c6b99a3a0e77ba410fb17a0",
+  "overview_commit": "0ab6ed6c081534d70527bfaa46ac6f8531f4018c",
+  "overview_digest": "db7bd881ae681ca4c2f4e86f7666f3a550435d7c97ffef8c18d1037bd878ee29",
   "paragraphs": [
+    {
+      "id": "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] late-Han court seizure. It adds [[LuZhiLateHan|卢植]], [[YuanWeiLateHan|袁隗]], [[EmpressDowagerHe|何太后]], [[HeMiaoLateHan|何苗]], [[WuyangJun|武阳君]], [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], [[CoercedImperialReplacement|胁迫式废立]], and [[PartyProhibitionRehabilitation|党人翻案合法性]], while extending [[DongZhuo|董卓]], [[YuanShao|袁绍]], [[CaiYong|蔡邕]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[HeJin|何进]], [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], [[NiuFuLateHan|牛辅]], [[BaiboArmy|白波军]], [[HedongCommandery|河东郡]], [[MingqiLegitimacy|名器合法性]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CoercedTalentLegitimacy|胁迫征士合法性]]. Its core synthesis is that Dong Zhuo's first decisive takeover is a forced redefinition of imperial procedure: he tests Yuan Shao, silences officials with military threat, forces Yuan Wei to handle the seal transfer, removes the He-family political base, and then covers coercion with appointments, scholar prestige, and rehabilitation of Party Prohibition victims. No settled contradiction is recorded; 卢植 is disambiguated from [[LuZhi|吕雉]], and motive readings around Dong Zhuo's appointments and violence remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BaiboArmy",
+        "CaiYong",
+        "ChenFanLateHan",
+        "CoercedImperialReplacement",
+        "CoercedTalentLegitimacy",
+        "CourtOfficeCapture",
+        "DongZhuo",
+        "DouWuLateHan",
+        "EmperorXianOfHan",
+        "EmpressDowagerHe",
+        "HeJin",
+        "HeMiaoLateHan",
+        "HedongCommandery",
+        "HuangWanLateHan",
+        "LiuBianHongnongWang",
+        "LiuYuLateHan",
+        "LuZhi",
+        "LuZhiLateHan",
+        "MingqiLegitimacy",
+        "NiuFuLateHan",
+        "PartyProhibitionRehabilitation",
+        "RuiqiJiangtouZizhiTongjian",
+        "WuyangJun",
+        "YangBiao",
+        "YuanShao",
+        "YuanWeiLateHan",
+        "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+        "zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb"
+      ]
+    },
     {
       "id": "c2dbbe773351e4ee2996c498ecdc52c0994dde88162da5655035877d40b29745",
       "primary_topic": "governance-and-institutions",

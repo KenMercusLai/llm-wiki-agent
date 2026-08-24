@@ -11235,6 +11235,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？
+
+Added source page for Hanji 948: Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao's armed objection and exit, Lu Zhi's remonstrance, Yuan Wei's coerced seal-transfer role, Empress Dowager He's poisoning, He-family intimidation, prestige appointments for Liu Yu, Yang Biao, and Huang Wan, Party Prohibition rehabilitation, and Niu Fu's Hedong response to the Baibo Army. Created pages for Lu Zhi (late Han), Yuan Wei, Empress Dowager He, He Miao, Wuyang Jun, Chen Fan, Dou Wu, coerced imperial replacement, and Party Prohibition rehabilitation; updated connected Dong Zhuo, Yuan Shao, Cai Yong, Liu Bian, Emperor Xian, He Jin, Liu Yu, Yang Biao, Huang Wan, Niu Fu, Baibo Army, Hedong, Mingqi legitimacy, court office capture, and coerced talent legitimacy pages. No settled contradiction found; Lu Zhi is disambiguated from Lu Zhi / 吕雉, and motive readings around appointments and He-family violence remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？
 
 Added source page for Hanji 949: Dong Zhuo's Luoyang terror, Southern Xiongnu/Yufuluo succession disorder, Yufuluo's failed Baibo alliance, Dong Zhuo's xiangguo privileges, and the scholar-recruitment branch through Xun Shuang, Chen Ji, Han Rong, and Shentu Pan's refusal. Created Han Rong, Shentu Pan, Emperor Ling of Han, and coerced talent legitimacy pages; updated Dong Zhuo, Luoyang, Southern Xiongnu, Yufuluo, Baibo Army, Xun Shuang, Chen Ji, He Yong, Zhou Bi, Wu Qiong, Zheng Tai, court office capture, and talent attraction through respect. No settled contradiction found; Yufuluo naming is normalized from the source's "於夫罗" and the host's imperial-ambition details remain source-scoped.
