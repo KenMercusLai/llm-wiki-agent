@@ -11223,6 +11223,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao. Created pages for Han Fu, He Yong, Jieqiao Battle, Qu Yi, Yan Gang, crisis migration judgment, and shield-crossbow anti-cavalry; updated Xun Yu, Yuan Shao, Cao Cao, Gongsun Zan, Yingchuan, Guo Tu, and talent/assessment concepts. No settled contradiction found; dramatic migration/delegation details and the Qingzhou-soldier compression remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！
 
 Added source page for a 芮淇讲透资治通鉴 episode on opportunity and humility, Wang Yun's post-Dong-Zhuo execution of Cai Yong, Liu Dai's fatal rejection of Bao Xin's attrition plan, Cao Cao's Yanzhou entry after the Qingzhou Yellow Turban crisis, Bao Xin's death, Jin Shang's blocked appointment, and Lü Bu's public merit boasting. Created Cai Yong, Liu Dai, Bao Xin, Wan Qian, Qingzhou Yellow Turbans, post-success arrogance, and resource-asymmetry attrition pages; updated connected late-Han actors and strategy/historiography concepts. No settled contradiction found; Wang Yun's motive analysis and the transcript's "成公" rendering are kept source-scoped.
@@ -11282,6 +11286,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 695. Elizabeth I vs The Catholics: The Shadow War (Part 5)
 
 Added source page for a The Rest Is History episode on Sir Philip Sidney, the Low Countries crisis, Antwerp's fall, the Treaty of Nonsuch, Elizabeth's reluctant intervention, Drake's raids, and Sidney's Protestant heroic martyrdom after Zutphen. Created pages for Sidney, Robert Dudley, Francis Drake, Philip II, William of Orange, Alexander Farnese, the Low Countries, Dutch Revolt, Antwerp, Amsterdam, Treaty of Nonsuch, Flushing, Zutphen, strategic intervention threshold, and Protestant heroic martyrdom; updated connected Elizabethan, Dutch, Spanish, and escalation pages. No settled contradiction found; Sidney's symbolic afterlife is kept source-scoped rather than treated as decisive military impact.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

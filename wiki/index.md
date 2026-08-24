@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？](sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr.md) — 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao.
 - [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
 - [《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒](sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr.md) — 芮淇讲透资治通鉴 episode on Cheng Yu's early advice to Liu Dai, Cao Cao's indirect relief of Dong Wuyang, the Neihuang victory over Sui Gu and Yufuluo, and Cao Cao's integrated command capacity.
 - [《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？](sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's kinship power, Meiwu fortress fallback, violent rupture with Lü Bu, and Wang Yun's conversion of the close guard into the precondition for assassination.
@@ -1413,6 +1414,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩馥 / Han Fu (late Han)](entities/HanFuLateHan.md) — Jizhou official whom Xun Yu initially seeks before finding Yuan Shao has taken over.
+- [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han talent evaluator used by Hanji 960 to link Xun Yu's ability and Cao Cao's future stabilizing potential.
+- [界桥之战 / Jieqiao Battle (late Han)](entities/JieqiaoBattleLateHan.md) — Yuan Shao-Gongsun Zan battle where Qu Yi's shielded infantry and strong crossbows defeat a cavalry-heavy force.
+- [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
+- [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
 - [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
 - [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
 - [Francis Drake](entities/FrancisDrake.md) — English privateer and naval commander whose 1585-1586 raids pressure Spain as the Low Countries crisis widens.
@@ -8710,6 +8716,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [危局迁徙判断 / Crisis Migration Judgment](concepts/CrisisMigrationJudgment.md) — Hanji 960 pattern where Xun Yu reads Yingchuan's war exposure and moves kin before danger becomes consensus.
+- [盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry](concepts/ShieldCrossbowAntiCavalry.md) — Jieqiao battle tactic where shielded infantry and strong crossbows reverse cavalry momentum.
 - [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.
 - [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.

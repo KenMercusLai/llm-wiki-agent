@@ -2,11 +2,15 @@
 title: "公孙瓒 / Gongsun Zan"
 type: entity
 tags: [person, late-han, military, china]
-sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+sources: [zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
 last_updated: 2026-08-25
 ---
 
 # 公孙瓒 / Gongsun Zan
+
+[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] backfills the [[JieqiaoBattleLateHan|界桥之战]] defeat before the later Youzhou-collapse pages. The source presents Gongsun Zan with a much larger cavalry-heavy force against [[YuanShao|袁绍]], but his charge runs into [[QuYiLateHan|麹义]]'s shielded infantry and strong crossbows.
+
+The battle adds a tactical limit to Gongsun Zan's military profile. His mounted advantage can be dangerous, but it is not self-sufficient when the opponent controls distance and timing through [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]]. The death of [[YanGangLateHan|严纲]], his appointed Jizhou inspector, also makes the defeat a political blow to his effort to project authority into Yuan Shao's field.
 
 [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds the Yanzhou pressure version of Gongsun Zan's break with [[YuanShao|袁绍]]. Before the later Qingzhou and Youzhou branches, Gongsun Zan has sent [[FanFangLateHan|范方]] with cavalry to support [[LiuDaiLateHan|刘岱]], but then privately uses Fan Fang to demand Yuan Shao's household.
 
@@ -31,6 +35,7 @@ The same source shows Gongsun Zan converting a court-mediation moment into letha
 The source then follows the backlash. [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[LiuHeLateHan|刘和]], and Yuan Shao-linked forces attack him, while several Youzhou commanderies kill Gongsun Zan's appointed officials and join the coalition. Gongsun Zan answers by moving to [[YixianLateHan|易县]], building [[YijingFortress|易京]], isolating himself behind iron gates, and giving up field action. The episode treats this as [[FortressSecurityIllusion|筑城避世安全幻觉]]: a former [[BaimaYicong|白马义从]] commander tries to trade initiative, advisers, and people-support for walls and grain.
 
 ## Connections
+- [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[JieqiaoBattleLateHan|界桥之战]], [[QuYiLateHan|麹义]], [[YanGangLateHan|严纲]], and [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]] - early cavalry-heavy defeat against Yuan Shao's shield-crossbow formation.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[LiuDaiLateHan|刘岱]], [[FanFangLateHan|范方]], [[YuanShao|袁绍]], and [[ChengYu|程昱]] - early Yanzhou pressure and neutrality-advice branch.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShao|袁绍]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[QingzhouLateHan|青州]], and [[ZhaoQiLateHan|赵岐]] - post-Longcou pressure and Qingzhou proxy-war mediation branch.
 - [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] - marriage-alliance note with [[YuanShao|袁绍]] before renewed war.
