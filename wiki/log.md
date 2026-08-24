@@ -11201,3 +11201,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》970丨袁绍暗杀吕布，为何会失败？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Yuan Shao's Wei Commandery and Ye crisis, Tao Sheng's protection of Yuan Shao's household, the Black Mountain campaigns against Yu Du and Zhang Yan, and Yuan Shao's failed appointment-and-escort assassination attempt against Lü Bu. Created pages for the Black Mountain field, Zhang Yan, Yu Du, Tao Sheng, late-Han Wei Commandery and Ye, the assassination attempt, and courtesy-covered elimination; updated Yuan Shao, Lü Bu, Zhang Yang, Gongsun Zan, and related strategy concepts. No settled contradiction found; the zither, tunnel, and tent-slashing escape details are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
