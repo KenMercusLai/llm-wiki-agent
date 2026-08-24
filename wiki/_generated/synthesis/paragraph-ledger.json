@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
       "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
       "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
       "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
@@ -195,11 +196,54 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 193
+    "paragraph_count": 194
   },
-  "overview_commit": "2203e8eb38be47ce5a8bf9a1cb14c60564ad1985",
-  "overview_digest": "673bb6acd7a836d9f90a32342c6bd4452e45436b6597239356ec16dfbf45501d",
+  "overview_commit": "3366be2ee15daa06256e5db8119c6f84f33304a5",
+  "overview_digest": "2e3df51187e7626cb23dfa7705e44eb1d27b68333ccb566a0b918299bbfd4713",
   "paragraphs": [
+    {
+      "id": "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]], a [[TheRestIsHistory]] episode that backfills the pre-[[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496|episode 696]] Elizabethan escalation path through [[PhilipSidney|Sir Philip Sidney]], the [[DutchRevolt]], [[Antwerp]]'s fall, and the [[TreatyOfNonsuch]]. It adds [[PhilipSidney|Sir Philip Sidney]], [[RobertDudley|Robert Dudley / Earl of Leicester]], [[FrancisDrake]], [[PhilipII|Philip II]], [[WilliamOfOrange|William of Orange]], [[AlexanderFarnese|Alexander Farnese / Duke of Parma]], [[LowCountries|Low Countries]], [[DutchRevolt]], [[Antwerp]], [[Amsterdam]], [[TreatyOfNonsuch]], [[Flushing]], [[Zutphen]], [[StrategicInterventionThreshold]], and [[ProtestantHeroicMartyrdom]], while extending [[ElizabethI|Elizabeth I]], [[FrancisWalsingham]], [[England]], [[Spain]], [[Netherlands]], [[France]], [[SpanishArmada]], [[ChivalricTournamentCulture]], [[InterstateEconomicWarfare]], and [[ConfessionalWarEscalation]]. Its core synthesis is that England's move toward war is neither sudden zeal nor pure policy drift: Sidney's courtly-militant ambition, Parma's recovery of the southern Low Countries, Antwerp's commercial-political shock, Philip II's economic pressure, Drake's raids, and Elizabeth's limited treaty intervention together turn cold war into open conflict. No settled contradiction is recorded; Sidney's martyr significance is kept as symbolic memory rather than proof of decisive military command.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455",
+        "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+        "AlexanderFarnese",
+        "Amsterdam",
+        "Antwerp",
+        "ChivalricTournamentCulture",
+        "ConfessionalWarEscalation",
+        "DutchRevolt",
+        "ElizabethI",
+        "England",
+        "Flushing",
+        "France",
+        "FrancisDrake",
+        "FrancisWalsingham",
+        "InterstateEconomicWarfare",
+        "LowCountries",
+        "Netherlands",
+        "PhilipII",
+        "PhilipSidney",
+        "ProtestantHeroicMartyrdom",
+        "RobertDudley",
+        "Spain",
+        "SpanishArmada",
+        "StrategicInterventionThreshold",
+        "TheRestIsHistory",
+        "TreatyOfNonsuch",
+        "WilliamOfOrange",
+        "Zutphen"
+      ]
+    },
     {
       "id": "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
       "primary_topic": "history-and-geopolitics",

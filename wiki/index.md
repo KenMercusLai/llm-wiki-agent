@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
 - [《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒](sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr.md) — 芮淇讲透资治通鉴 episode on Cheng Yu's early advice to Liu Dai, Cao Cao's indirect relief of Dong Wuyang, the Neihuang victory over Sui Gu and Yufuluo, and Cao Cao's integrated command capacity.
 - [《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？](sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's kinship power, Meiwu fortress fallback, violent rupture with Lü Bu, and Wang Yun's conversion of the close guard into the precondition for assassination.
 - [《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！](sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 192 CE assassination by Wang Yun and Lü Bu, Chang'an's public revenge, Meiwu confiscation, corpse humiliation, and Cai Yong's historian-risk execution.
@@ -1412,6 +1413,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
+- [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
+- [Francis Drake](entities/FrancisDrake.md) — English privateer and naval commander whose 1585-1586 raids pressure Spain as the Low Countries crisis widens.
+- [Philip II of Spain](entities/PhilipII.md) — Catholic Spanish monarch whose Low Countries campaign, English embargo, and Armada path drive Anglo-Spanish escalation.
+- [William of Orange](entities/WilliamOfOrange.md) — Dutch Revolt leader whose 1584 assassination leaves rebel provinces close to collapse.
+- [Alexander Farnese / Duke of Parma](entities/AlexanderFarnese.md) — Spanish commander whose diplomacy and siegecraft recover the southern Low Countries and capture Antwerp.
+- [Low Countries](entities/LowCountries.md) — Strategic Elizabethan theatre where Dutch revolt, Spanish recovery, and English invasion fears converge.
+- [Dutch Revolt](entities/DutchRevolt.md) — Rebellion against Spanish rule whose near-collapse pushes Elizabeth toward the Treaty of Nonsuch.
+- [Antwerp](entities/Antwerp.md) — Rich Low Countries city whose 1585 fall redirects Protestant merchants and capital toward Holland and Amsterdam.
+- [Amsterdam](entities/Amsterdam.md) — Northern Dutch city strengthened in the episode by Antwerp's Protestant merchant exodus.
+- [Treaty of Nonsuch](entities/TreatyOfNonsuch.md) — 1585 Elizabeth-Dutch treaty sending English troops and making Flushing Sidney's command.
+- [Flushing](entities/Flushing.md) — Cautionary town and Sidney's Low Countries command after the Treaty of Nonsuch.
+- [Zutphen](entities/Zutphen.md) — 1586 battle site where Sidney is wounded and then transformed into a Protestant hero.
 - [内黄之战 / Neihuang Battle (Late Han)](entities/NeihuangBattleLateHan.md) — Early Cao Cao campaign where he relieves Dong Wuyang indirectly by threatening Yu Du's base, then defeats Sui Gu and Yufuluo.
 - [范方 / Fan Fang (Late Han)](entities/FanFangLateHan.md) — Gongsun Zan cavalry commander whose support to Liu Dai becomes coercive pressure over Yuan Shao's household.
 - [眭固 / Sui Gu (Late Han)](entities/SuiGuLateHan.md) — Military actor defeated by Cao Cao at Neihuang alongside Yufuluo in Hanji 961.
@@ -1670,7 +1684,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring the wiki's Northern Ireland Troubles branch across pre-1968 roots and 1968-1969 escalation.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan England, Dutch Revolt, Armada, and Northern Ireland Troubles branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -4944,7 +4958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Sekigahara / 关原合战](entities/SekigaharaBattle.md) — regime-formation battle near Adams's arrival, used by the episode to place him at a consequential political moment.
 - [Konishi Yukinaga / 小西行长](entities/KonishiYukinaga.md) — Christian daimyo whose defeat, letter, and European afterlife show Japanese Christianity entering European imagination.
 - [Hasekura Tsunenaga / 支仓常长](entities/HasekuraTsunenaga.md) — Japanese envoy to Spain and Rome used by the episode as a failed diplomatic opening shaped by trade and Christian politics.
-- [England](entities/England.md) — Protestant maritime power and Adams's origin, positioned against Iberian Catholic trade dominance in the episode.
+- [England](entities/England.md) — Protestant maritime power whose Elizabethan branches move from Low Countries intervention to Mary Stuart security and Armada escalation.
 - [Portugal](entities/Portugal.md) — Catholic Iberian maritime power tied to Asian trade, Macau-related contact, and Jesuit influence in the episode.
 - [Jesuits / 耶稣会](entities/Jesuits.md) — Catholic missionary network in Japan whose rivalry with Adams and later expulsion anchors the episode's religious-risk branch.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
@@ -5584,7 +5598,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [林优里 / Hayashi Yuri](entities/HayashiYuri.md) — Kyoto ALS patient whose death becomes episode 119's Japanese criminal-law and clinical-responsibility case.
 - [王明辰 / Wang Mingchen](entities/WangMingchen.md) — Chinese assisted-death case figure who both requested help for his mother and later wanted euthanasia for himself.
 - [蒲莲生 / Pu Liansheng](entities/PuLiansheng.md) — Physician in the Chinese 1986 assisted-death case involving Wang Mingchen's mother.
-- [Netherlands](entities/Netherlands.md) — European assisted-death comparison country associated in episode 119 with physician-administered voluntary euthanasia.
+- [Netherlands](entities/Netherlands.md) — Country and early-modern Dutch revolt branch spanning assisted-death comparisons, maritime trade, occupation data, and the Low Countries crisis.
 - [Belgium](entities/Belgium.md) — European assisted-death comparison country used for psychiatric and minor eligibility controversy.
 - [《是，大臣》 / Yes Minister](entities/YesMinister.md) — British political-satire series read as a durable anatomy of elected reform colliding with permanent civil-service control.
 - [《是，首相》 / Yes, Prime Minister](entities/YesPrimeMinister.md) — Sequel extending the same minister-civil-service satire to prime-ministerial power.
@@ -7594,7 +7608,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shandong Luneng Football School / 山东鲁能足校](entities/ShandongLunengFootballSchool.md) — Domestic player-supply channel connected to the Jumilla Chinese-player development platform.
 - [Wolverhampton Wanderers / 狼队](entities/WolverhamptonWanderers.md) — Wolves loaned players to Jumilla in a satellite-style cooperation that eased resources without creating an exit.
 - [Fosun / 复星](entities/Fosun.md) — Chinese owner context for Wolves in the source's Jumilla cooperation case.
-- [Spain](entities/Spain.md) — Football-development environment contrasted with China through its dense youth and lower-tier competition pyramid.
+- [Spain](entities/Spain.md) — Multi-branch country page spanning Elizabethan war pressure, maritime Catholic trade, migration politics, sports, vacation law, assisted death, and wildfire risk.
 - [BP](entities/BP.md) — European oil major used as a case for large hidden energy-trading profits and physical-market information advantage.
 - [Shell](entities/Shell.md) — European oil major whose trading arm illustrates how logistics, storage, and market intelligence can generate profits beyond production.
 - [TotalEnergies](entities/TotalEnergies.md) — European oil major included in the episode's estimate of large trading volumes and profits.
@@ -8696,6 +8710,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.
+- [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.
 - [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Hanji 962 security reversal where Dong Zhuo's closest guard, Lü Bu, becomes the route through which resentment, fear, and Wang Yun's persuasion reach him.
 - [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to mark a hated ruler's reversal without solving the successor order's live risks.

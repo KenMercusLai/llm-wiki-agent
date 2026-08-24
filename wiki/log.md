@@ -11278,3 +11278,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Cheng Yu's early adv
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 695. Elizabeth I vs The Catholics: The Shadow War (Part 5)
+
+Added source page for a The Rest Is History episode on Sir Philip Sidney, the Low Countries crisis, Antwerp's fall, the Treaty of Nonsuch, Elizabeth's reluctant intervention, Drake's raids, and Sidney's Protestant heroic martyrdom after Zutphen. Created pages for Sidney, Robert Dudley, Francis Drake, Philip II, William of Orange, Alexander Farnese, the Low Countries, Dutch Revolt, Antwerp, Amsterdam, Treaty of Nonsuch, Flushing, Zutphen, strategic intervention threshold, and Protestant heroic martyrdom; updated connected Elizabethan, Dutch, Spanish, and escalation pages. No settled contradiction found; Sidney's symbolic afterlife is kept source-scoped rather than treated as decisive military impact.
