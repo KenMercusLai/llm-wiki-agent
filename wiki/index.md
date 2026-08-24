@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹](sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku.md) — 芮淇讲透资治通鉴 episode on the disputed killing of Cao Song, the Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup.
 - [《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真](sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2.md) — 芮淇讲透资治通鉴 episode on Liu Yu's failed humane attack against Gongsun Zan, Gongsun Zan's coerced execution of Liu Yu and family, and Tian Chou's loyal mission and Xu Wu Mountain order-building.
 - [《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？](sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet.md) — 芮淇讲透资治通鉴 episode on the 194 CE setup before Cao Cao's Yanzhou crisis: Emperor Xian's hollow coming-of-age, Tao Qian giving Liu Bei Danyang troops, Ma Teng/Han Sui's failed Changpingguan attack, and Zhang Miao/Chen Gong inviting Lü Bu into Yanzhou.
 - [《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？](sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd.md) — 芮淇讲透资治通鉴 episode on why Zhang Miao and Chen Gong betray Cao Cao: old friendship collapses under Yuan Shao pressure, Lü Bu opportunity, Bian Rang's killing, and Yanzhou local-elite fear.
@@ -1516,7 +1517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who appears as a refuge in Hanji 996 and as a lower-priority Jiangdong threat in Hanji 1004.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
-- [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose failed humane attack, capture, and execution by Gongsun Zan become the legitimacy and revenge center for the anti-Gongsun coalition.
+- [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose supply dispute with Gongsun Zan precedes the failed humane attack, execution, and anti-Gongsun legitimacy backlash.
 - [田筹 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist who carries a covert memorial to Emperor Xian, rebukes Gongsun Zan, and builds a legal frontier settlement in Xu Wu Mountain.
 - [段迅 / Duan Xun (Late Han)](entities/DuanXunLateHan.md) — Court envoy whose edict for Liu Yu and Gongsun Zan is overwhelmed by Gongsun Zan's coercive accusation and execution scene.
 - [居庸关 / Juyong Pass](entities/JuyongPass.md) — Youzhou pass used as Liu Yu's failed refuge and Tian Chou's frontier route toward the Han court.
@@ -1794,7 +1795,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official named in Hanji 976 as part of Xun Yu's talent chain and sent to Chang'an in Hanji 1015 to stabilize Guanzhong.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
-- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose defeat and execution of Liu Yu create the Youzhou backlash before his later Yijing fortress isolation and Yuan Shao war.
+- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose Hanji 971 supply/plunder dispute with Liu Yu leads into the execution, Youzhou backlash, Yijing isolation, and Yuan Shao war.
+- [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's father, whose disputed killing triggers the Xuzhou revenge branch in Hanji 971.
+- [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
+- [应劭 / Ying Shao (Late Han)](entities/YingShaoLateHan.md) — Taishan official ordered to receive Cao Song, then fleeing after the killing.
+- [曹嵩遇害 / Cao Song Murder](entities/CaoSongMurder.md) — 193 CE disputed killing preserved through competing Tao Qian and Zhang Kai responsibility traditions.
+- [徐州屠杀 / Xuzhou Massacre (Late Han)](entities/XuzhouMassacreLateHan.md) — Cao Cao's retaliatory Xuzhou violence after Cao Song's death, framed as private grief scaled through military command.
+- [《三国志》 / Sanguozhi](entities/Sanguozhi.md) — Classical Three Kingdoms source whose Hanji 971 attribution makes Tao Qian the direct sender against Cao Song.
+- [《后汉书》 / Hou Hanshu](entities/HouHanshu.md) — Later Han history whose Hanji 971 attribution makes Zhang Kai's robbery the immediate cause of Cao Song's death.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
@@ -1825,7 +1833,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李封 / Li Feng (late Han)](entities/LiFengLateHan.md) — Lü Bu-side commander killed with Xue Lan, triggering Lü Bu's rescue move and Cao Cao's ambush.
 - [赵岐 / Zhao Qi (late Han)](entities/ZhaoQiLateHan.md) — Official who persuades Liu Biao to send troops, supplies, and grain for Emperor Xian's Luoyang return.
 - [何仪 / He Yi (late Han)](entities/HeYiLateHan.md) — Runan-Yingchuan Yellow Turban remnant leader defeated by Cao Cao before joining Yuan Shu.
-- [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose old subordinate Cao Bao remains part of the inherited local order Liu Bei must manage.
+- [陶谦 / Tao Qian (late Han)](entities/TaoQianLateHan.md) — Former Xuzhou governor whose role spans the contested Cao Song killing, Cao Cao's revenge campaign, the Liu Bei handoff, and old subordinate Cao Bao.
 - [曹豹 / Cao Bao (late Han)](entities/CaoBaoLateHan.md) — Former Tao Qian subordinate killed by Zhang Fei at Xiapi, triggering disorder that lets Lü Bu enter.
 - [许耽 / Xu Dan (late Han)](entities/XuDanLateHan.md) — Liu Bei-side subordinate who opens Xiapi to Lü Bu after Cao Bao's killing destabilizes the city.
 - [糜竺 / Mi Zhu](entities/MiZhu.md) — Donghai supporter who uses family wealth to fund Liu Bei's starving remnant after the loss of Xiapi.
@@ -1842,7 +1850,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙策 / Sun Ce](entities/SunCe.md) — Late-Han regional actor whose break with Yuan Shu, Kuaiji personal-exposure warning, Cao-backed titles, Chen Yu preemption, and Guangling pressure branch show momentum and risk.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
-- [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
+- [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Late-Han killer linked both to the Hou Hanshu robbery version of Cao Song's death and Yuan Shu's false-surrender assassination of Liu Chong and Luo Jun.
 - [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from the Zhang Miao alliance and Yanzhou entry into Puyang, Hao Meng's revolt, 辕门射戟 mediation, Liu Bei conflict, and ignored loyal advice.
 - [郝萌 / Hao Meng](entities/HaoMeng.md) — Lü Bu subordinate whose Xiapi night revolt exposes the fragility of Lü Bu's command before Gao Shun and Cao Xing suppress it.
 - [曹性 / Cao Xing (late Han)](entities/CaoXingLateHan.md) — Hao Meng subordinate who turns against the revolt, wounds Hao Meng, and accuses Yuan Shu and Chen Gong of involvement.
@@ -2624,7 +2632,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵良 / Zhao Liang](entities/ZhaoLiang.md) — Figure whose pre-death advice to Shang Yang is framed as a missed warning after Zizhi Tongjian's flashback.
 - [百里奚 / Baili Xi](entities/BailiXi.md) — Outsider Qin minister redeemed by Qin Mu Gong with five black ram skins and used as Shang Yang's hoped-for comparison.
 - [秦穆公 / Duke Mu of Qin](entities/QinMugong.md) — Earlier Qin ruler whose recognition of Baili Xi becomes the precedent Qin Xiao Gong wants to restore.
-- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Yongqiu, legitimacy-window seizure, title concession to Yuan Shao, adviser intake, law-over-kinship,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
+- [曹操 / Cao Cao](entities/CaoCao.md) — Later analogy and late-Han powerholder whose branches include Cao Song revenge, Xuzhou/Yanzhou, legitimacy-window seizure, adviser intake,屯田, Wancheng failure, Chen Deng, and Yuan Shu court-risk handling.
 - [曹丕 / Cao Pi](entities/CaoPi.md) — Cao Cao's successor used to show one forward path from de facto control into formal dynastic replacement.
 - [汉献帝 / Emperor Xian of Han](entities/EmperorXianOfHan.md) — Late Han emperor whose vulnerable but recognized title lets Cao Cao seize a legitimacy window and later use the Xu court to manage Yuan Shao, Yuan Shu, and old-Han ministers.
 - [《吕氏春秋》 / Lushi Chunqiu](entities/LushiChunqiu.md) — Pre-Qin text cited for criticizing Shang Yang's non-repeatable parley deception and damaged personal credibility.
@@ -5607,7 +5615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乌台诗案 / Wutai Poetry Case](entities/WutaiPoetryCase.md) — Political-legal crisis where Su Shi's poems and memorial language became evidence against him.
 - [黄州 / Huangzhou](entities/Huangzhou.md) — Exile site where Su Shi becomes Dongpo and writes the Red Cliff works.
 - [杭州 / Hangzhou](entities/Hangzhou.md) — Su Shi office site linked to West Lake dredging, Su Causeway, disaster preparation, medicine, and infant rescue.
-- [徐州 / Xuzhou](entities/Xuzhou.md) — Place and administrative-status node spanning Warring States diplomacy, Pengcheng battle geography, Su Shi flood governance, and Lü Bu's late-Han marriage/title exposure.
+- [徐州 / Xuzhou](entities/Xuzhou.md) — Place and administrative-status node spanning Warring States diplomacy, Pengcheng battle geography, Cao Cao's late-Han revenge massacre, Su Shi flood governance, and Lü Bu's title exposure.
 - [惠州 / Huizhou](entities/Huizhou.md) — Southern exile site associated with burial, bridge work, and Wang Chaoyun's death.
 - [儋州 / Danzhou](entities/Danzhou.md) — Farthest exile stage where Su Shi remains morally and educationally active under restrictions.
 - [苏堤 / Su Causeway](entities/SuCauseway.md) — West Lake public works trace tying Su Shi's scenic afterlife to water management.
@@ -9098,7 +9106,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transport Corridor Severance / 交通线切割](concepts/TransportCorridorSeverance.md) — Strategy pattern where routes, passes, and food corridors are cut or threatened, from Warring States fragmentation to Chu-Han Aocang, Chenggao, and Peng Yue pressure.
 - [Interest-Based Coalition Sabotage / 利益瓦解合纵](concepts/InterestBasedCoalitionSabotage.md) — Pattern spanning Fan Ju's anti-hezong inducements and Qin's later gold, bribery, assassination, and alienation tactics before conquest.
 - [Emotional De-escalation Persuasion / 情绪降温式说服](concepts/EmotionalDeescalationPersuasion.md) — Chu Long pattern of lowering emotional threat before turning Zhao Weihou toward the hostage decision.
-- [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where Fan Ju routes private revenge through Qin's real diplomatic and military pressure on Wei.
+- [Personal Revenge Through State Power / 以国力行私仇](concepts/PersonalRevengeThroughStatePower.md) — Pattern where private injury or memory scales through public force, from Fan Ju's Qin leverage to Cao Cao's Xuzhou retaliation.
 - [Qin Four Nobles Court Power / 秦国四贵权力结构](concepts/QinFourNoblesCourtPower.md) — Fan Ju's Qin court-power diagnosis where Wei Ran, Huayang Jun, Jingyang Jun, Gaoling Jun, and Xuan Taihou leave Qin Zhaoxiang Wang with title but limited authority.
 - [远交近攻 / Yuanjiao Jingong Strategy](concepts/YuanjiaoJingongStrategy.md) — Fan Ju's Qin strategy of diplomatically managing distant states while attacking nearby states whose territory Qin can retain.
 - [Protective Remonstrance Sequencing / 护身符式进言](concepts/ProtectiveRemonstranceSequencing.md) — High-risk persuasion sequence where an adviser shocks the ruler, secures repeated invitation and protection, and only then delivers dangerous critique.
@@ -9236,9 +9244,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Low-Posture Statecraft / 低姿态权宜](concepts/LowPostureStatecraft.md) — Strategy of deliberate deference or displayed insufficiency, useful as expedient but risky as permanent survival doctrine.
 - [Renyi-Benefit Ordering / 仁义优先的利益秩序](concepts/RenyiBenefitOrdering.md) — Zhouji 26 refinement that Mencius rejects profit-first ordering rather than public benefit itself.
 - [Mencius Song Reception / 宋代孟子接受史](concepts/MenciusSongReception.md) — Song intellectual-political context around Sima Guang's skepticism of Mencius and Wang Anshi's elevation of him.
-- [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Pattern where popular regard, local protection, elite acceptance, and internal adviser support become practical safety infrastructure for powerful actors.
+- [People-Based Political Security / 民心型政治安全](concepts/PeopleBasedPoliticalSecurity.md) — Pattern where popular regard, local protection, elite acceptance, and internal adviser support become practical safety infrastructure, with Xuzhou as a negative late-Han atrocity case.
 - [Power Exit Trap / 权力退场困境](concepts/PowerExitTrap.md) — Pattern where disruptive success, partial abdication, ruler suspicion, exposed humiliations, decisive military merit, or late recognition of missed exits make staying, leaving, or appearing fully capable dangerous.
-- [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording differences that alter the political diagnosis of resentment, legitimacy, or harm.
+- [Textual Variant Political Stakes / 史书异文政治重量](concepts/TextualVariantPoliticalStakes.md) — Source-critical concept for wording and narrative differences that alter political diagnosis, responsibility, legitimacy, or harm.
 - [Tactical Credibility Cost / 战术信用成本](concepts/TacticalCredibilityCost.md) — Strategy concept distinguishing reusable deception from one-shot tricks that spend down the deceiver's personal trust.
 - [Legalist Self-Binding Backfire / 作法自毙](concepts/LegalistSelfBindingBackfire.md) — Legalist irony where harsh, low-discretion rules later trap the reformer who designed them.
 - [Peace-Parley Entrapment / 和谈诱捕](concepts/PeaceParleyEntrapment.md) — Battlefield-deception pattern where friendship, oath, banquet, and peace language isolate a commander for capture.
@@ -9306,7 +9314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Transition Fit Over Merit / 过渡期适任优先于功劳](concepts/TransitionFitOverMerit.md) — Leadership-selection frame where a fragile succession needs stabilizing fit more than the strongest resume.
 - [Military Morale Through Shared Hardship / 同甘共苦式士气](concepts/MilitaryMoraleThroughSharedHardship.md) — Leadership mechanism linking commander credibility, shared burden, visible insulation from hardship, discipline, and soldiers' willingness to accept delayed battle.
 - [Posthumous Name Politics / 谥号政治](concepts/PosthumousNamePolitics.md) — Chronicle-reading concept for how posthumous ruler labels encode retrospective judgment rather than ordinary names.
-- [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that "bandits killed the ruler" may identify physical killers while obscuring political authorship.
+- [Bandit Assassination Attribution / 盗贼行刺归因](concepts/BanditAssassinationAttribution.md) — Historiographical caution that physical killers, convoy robbers, or "bandits" may be real while political authorship remains unresolved.
 - [Small-State Buffer Diplomacy / 小国夹缝外交](concepts/SmallStateBufferDiplomacy.md) — Pattern where a small state between great powers appears fickle because any alliance choice creates another threat.
 - [Aristocratic Political Asylum / 贵族政治避难](concepts/AristocraticPoliticalAsylum.md) — Elite exile mechanism where royal or princely fugitives use kinship, status, retainers, and restoration value across state borders.
 - [Natural Disaster Political Omen / 自然灾害政治征兆](concepts/NaturalDisasterPoliticalOmen.md) — Historiographical frame for reading destructive landscape events as warnings about state fate.

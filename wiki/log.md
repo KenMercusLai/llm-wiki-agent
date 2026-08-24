@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹
+
+Added source page for Hanji 971: the contested 193 CE killing of Cao Song and Cao De, Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Ying Shao's flight, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup for Hanji 972. Created Cao Song, Cao De, Ying Shao, Cao Song Murder, Xuzhou Massacre, Sanguozhi, and Hou Hanshu; updated overview, index, Cao Cao, Tao Qian, Zhang Kai, Xuzhou, Si River, Liu Yu, Gongsun Zan, Bandit Assassination Attribution, Textual Variant Political Stakes, Personal Revenge Through State Power, and People-Based Political Security. No settled contradiction found; competing source traditions are preserved rather than collapsed.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真
 
 Added source page for Hanji 972: Liu Yu's failed humane attack against Gongsun Zan, his retreat to Juyong Pass and coerced marketplace execution after Duan Xun's edict, Tian Chou's covert mission to Emperor Xian, and Tian Chou's later Xu Wu Mountain settlement. Created Tian Chou, Duan Xun, Juyong Pass, Youbeiping Commandery, Wuzhong County, Xu Wu Mountain, and Benevolent Command Execution Gap; updated overview, index, Liu Yu, Gongsun Zan, Youzhou, Emperor Xian of Han, Wuhuan, Good Intentions Political Limits, Confucian Military Idealism Limits, Xunzian Command Restraint, People-Based Political Security, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source backfills Hanji 998's Liu Yu backlash rather than reversing it.
