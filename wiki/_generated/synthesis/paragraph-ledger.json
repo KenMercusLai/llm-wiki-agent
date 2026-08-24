@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
       "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
       "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
       "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
@@ -194,11 +195,44 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 192
+    "paragraph_count": 193
   },
-  "overview_commit": "7d265a3b1c274f58a66e897b1eee16c5a7ed8ffa",
-  "overview_digest": "2d18a6a86664473bccbeb8efa15b540d1acf52ee19a3924bc991efe50353f541",
+  "overview_commit": "2203e8eb38be47ce5a8bf9a1cb14c60564ad1985",
+  "overview_digest": "673bb6acd7a836d9f90a32342c6bd4452e45436b6597239356ec16dfbf45501d",
   "paragraphs": [
+    {
+      "id": "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[CaoCao|曹操]]'s early [[DongCommandery|东郡]] command field before the Hanji 962-964 late-Han branch. It adds [[NeihuangBattleLateHan|内黄之战]], [[FanFangLateHan|范方]], [[SuiGuLateHan|眭固]], [[DongWuyangLateHan|东武阳]], [[DunqiuLateHan|顿丘]], [[IntegratedCommandCapacity|全维度统帅能力]], and [[RomanceOfTheThreeKingdoms|《三国演义》]], while extending [[ChengYu|程昱]], [[LiuDaiLateHan|刘岱]], [[YuanShao|袁绍]], [[GongsunZan|公孙瓒]], [[YuDuLateHan|于毒]], [[YufuluoChanyu|于扶罗]], [[SouthernXiongnu|南匈奴]], [[HeishanArmy|黑山军]], [[EncirclingWeiToRescueZhao|围魏救赵]], and [[AdviserStateArchitecture|谋士政权架构]]. Its core synthesis is that Cao Cao's early promise appears as integrated command rather than raw aggression: Cheng Yu reads alliance pressure before Cao Cao's camp absorbs him, and Cao Cao relieves Dong Wuyang by threatening Yu Du's base before turning the lifted siege into the Neihuang victory. No settled contradiction is recorded; the broad Cao Cao praise and Romance contrast remain source-scoped, and the Yu Du page is normalized to 于毒 while retaining the prior stable route.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "ChengYu",
+        "DongCommandery",
+        "DongWuyangLateHan",
+        "DunqiuLateHan",
+        "EncirclingWeiToRescueZhao",
+        "FanFangLateHan",
+        "GongsunZan",
+        "HeishanArmy",
+        "IntegratedCommandCapacity",
+        "LiuDaiLateHan",
+        "NeihuangBattleLateHan",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "SouthernXiongnu",
+        "SuiGuLateHan",
+        "YuDuLateHan",
+        "YuanShao",
+        "YufuluoChanyu",
+        "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr"
+      ]
+    },
     {
       "id": "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
       "primary_topic": "history-and-geopolitics",

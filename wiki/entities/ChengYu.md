@@ -2,11 +2,15 @@
 title: "程昱 / Cheng Yu"
 type: entity
 tags: [person, late-han, adviser, cao-cao]
-sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
+last_updated: 2026-08-25
 ---
 
 # 程昱 / Cheng Yu
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds Cheng Yu's pre-Cao judgment scene before the later crisis-adviser branch. When [[LiuDaiLateHan|刘岱]] is pressured by [[GongsunZan|公孙瓒]] through [[FanFangLateHan|范方]] over [[YuanShao|袁绍]]'s household, Cheng Yu argues that distant Gongsun Zan is not reliable protection and that Yuan Shao is unlikely to harm Liu Dai if Liu Dai stays neutral.
+
+The same source supplies Cheng Yu's entry route into [[CaoCao|曹操]]'s camp. After Liu Dai dies, [[XunYu|荀彧]] recommends Cheng Yu, Cao Cao sends repeated invitations to [[DongALateHan|东阿]], and the episode preserves the name-change story from 程立 to 程昱. This backfills why later Hanji 978-981 can treat him as a locally rooted, hard-edged operator rather than only a blunt adviser at one crisis point.
 
 [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] appears to invoke Cheng Yu through the transcript wording "陈玉" in its description of Cao Cao's adviser "cloud platform." The wiki treats this cautiously as a likely Cheng Yu cluster reference because the surrounding roles are [[XunYu|荀彧]] managing strategy and [[GuoJia|郭嘉]] supplying surprise counsel, while existing Hanji 978-981 pages already make Cheng Yu the Cao-side gap-filling crisis operator.
 
@@ -31,6 +35,7 @@ Cheng Yu's intervention is direct. He asks whether Cao Cao is afraid, argues tha
 The page is source-scoped. Hanji 981 does not narrate Cheng Yu's whole career; it uses him as the person whose blunt timing keeps Cao Cao from entering a [[HostageBackedDependencyTrap|家属质押式依附陷阱]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[LiuDaiLateHan|刘岱]], [[GongsunZan|公孙瓒]], [[YuanShao|袁绍]], [[FanFangLateHan|范方]], and [[DongALateHan|东阿]] - pre-Cao neutrality advice and later invitation route.
 - [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], [[GuoJia|郭嘉]], and [[AdviserStateArchitecture|谋士政权架构]] - source-scoped Cao adviser platform branch.
 - [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]], [[DarkAdviserCraft|毒士灰度谋略]], and [[CaoCao|曹操]] - source-scoped dirty-work and stigma-absorption branch.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[LyuBu|吕布]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - persuasion under family-hostage pressure before the Cangting defense.

@@ -2,11 +2,15 @@
 title: "公孙瓒 / Gongsun Zan"
 type: entity
 tags: [person, late-han, military, china]
-sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]
+last_updated: 2026-08-25
 ---
 
 # 公孙瓒 / Gongsun Zan
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds the Yanzhou pressure version of Gongsun Zan's break with [[YuanShao|袁绍]]. Before the later Qingzhou and Youzhou branches, Gongsun Zan has sent [[FanFangLateHan|范方]] with cavalry to support [[LiuDaiLateHan|刘岱]], but then privately uses Fan Fang to demand Yuan Shao's household.
+
+The source makes the alliance support unstable. Gongsun Zan threatens to punish Liu Dai later if Liu Dai does not comply, yet [[ChengYu|程昱]] predicts that Gongsun Zan will not defeat Yuan Shao and is too distant to protect Liu Dai. The episode therefore adds an early example of [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] around Gongsun Zan before the later pages focus on his direct war and Youzhou collapse.
 
 [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds the immediate post-Longcou check before Gongsun Zan's later Liu Yu and Youzhou collapse branches. The episode says [[YuanShao|袁绍]] has effectively driven him back toward Youzhou, while his rivalry continues indirectly through [[TianKaiLateHan|田楷]] in [[QingzhouLateHan|青州]]. That Qingzhou proxy war shows the cost of strategic stalemate before the later sources focus on Gongsun Zan's own political failures.
 
@@ -27,6 +31,7 @@ The same source shows Gongsun Zan converting a court-mediation moment into letha
 The source then follows the backlash. [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[LiuHeLateHan|刘和]], and Yuan Shao-linked forces attack him, while several Youzhou commanderies kill Gongsun Zan's appointed officials and join the coalition. Gongsun Zan answers by moving to [[YixianLateHan|易县]], building [[YijingFortress|易京]], isolating himself behind iron gates, and giving up field action. The episode treats this as [[FortressSecurityIllusion|筑城避世安全幻觉]]: a former [[BaimaYicong|白马义从]] commander tries to trade initiative, advisers, and people-support for walls and grain.
 
 ## Connections
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[LiuDaiLateHan|刘岱]], [[FanFangLateHan|范方]], [[YuanShao|袁绍]], and [[ChengYu|程昱]] - early Yanzhou pressure and neutrality-advice branch.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShao|袁绍]], [[TianKaiLateHan|田楷]], [[YuanTan|袁谭]], [[QingzhouLateHan|青州]], and [[ZhaoQiLateHan|赵岐]] - post-Longcou pressure and Qingzhou proxy-war mediation branch.
 - [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] - marriage-alliance note with [[YuanShao|袁绍]] before renewed war.
 - [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] - supply, plunder, and accusation prelude before the Liu Yu attack.

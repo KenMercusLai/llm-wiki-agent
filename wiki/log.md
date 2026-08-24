@@ -11270,3 +11270,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Dong Zhuo's 192 CE k
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒
+
+Added source page for a 芮淇讲透资治通鉴 episode on Cheng Yu's early advice to Liu Dai under Yuan Shao-Gongsun Zan pressure, Cao Cao's indirect relief of Dong Wuyang by threatening Yu Du's base, the Neihuang victory over Sui Gu and Yufuluo, and the host's integrated-command reading of Cao Cao. Created pages for the Neihuang battle, Fan Fang, Sui Gu, Dong Wuyang, Dunqiu, Romance of the Three Kingdoms, and integrated command capacity; updated connected Cao Cao, Cheng Yu, Liu Dai, Yuan Shao, Gongsun Zan, Yu Du, Yufuluo, Southern Xiongnu, Black Mountain, Dong Commandery, Xun Yu, and strategy/adviser concepts. No settled contradiction found; Yu Du is normalized to 于毒 while preserving the stable YuDuLateHan route and earlier transcript labels as source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

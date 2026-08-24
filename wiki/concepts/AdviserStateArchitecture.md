@@ -2,11 +2,15 @@
 title: "Adviser State Architecture / 谋士政权架构"
 type: concept
 tags: [statecraft, advisers, legitimacy, logistics, talent, three-kingdoms]
-sources: [zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
+last_updated: 2026-08-25
 ---
 
 # Adviser State Architecture / 谋士政权架构
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds a pre-architecture personnel channel before the later mature Cao-side adviser system. [[ChengYu|程昱]] first appears as a local conditions-reader for [[LiuDaiLateHan|刘岱]], then enters [[CaoCao|曹操]]'s camp after [[XunYu|荀彧]] recommends him and Cao Cao repeatedly invites him from [[DongALateHan|东阿]].
+
+The source's adviser lesson is not yet an institution. It is the intake stage of [[IntegratedCommandCapacity|全维度统帅能力]]: Cao Cao's later system depends on identifying a specific operator for a specific problem, then making that person's local prestige and hard-edged judgment available to the command structure.
 
 [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds an earlier concrete architecture case before the Hanji 976 roundup. [[MaoJie|毛玠]] supplies the strategic design linking [[LegitimacyWindowSeizure|合法性窗口抢占]] and [[TuntianSystem|屯田制]], [[DongZhaoLateHan|董昭]] opens the [[HeneiCommandery|河内郡]] route through [[ZhangYangLateHan|张杨]], and [[ZhongYao|钟繇]] protects the court-side channel under [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]]. The source shows adviser value distributed across design, access, and persuasion before it becomes a mature regime.
 
@@ -23,6 +27,7 @@ The Liu Bei and Yuan Shao contrasts set the boundary. [[ZhugeLiang|诸葛亮]] a
 This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft names the morally ambiguous and hidden techniques developed in Hanji 977. Adviser state architecture names the visible system-building layer that makes those or any other techniques politically consequential.
 
 ## Key Claims
+- Hanji 961 adds the intake stage: adviser architecture begins when local judgment is recognized, invited, and placed where it can become executable capacity.
 - Hanji 968 adds the early Cao-side architecture before mature court control: Mao Jie designs the legitimacy-logistics pair, Dong Zhao opens access, and Zhong Yao defends the court channel.
 - Hanji 974 adds that adviser-state architecture can be a post-crisis repair: after a local coalition betrayal, the regime needs broader talent channels and clearer military control.
 - Hanji 975 frames adviser capacity as more than cleverness: warning has to become action inside a ruler's organization.
@@ -33,6 +38,7 @@ This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft na
 - The frame should remain source-scoped where Hanji 976 uses compressed metaphors rather than detailed evidentiary narration.
 
 ## Connections
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[XunYu|荀彧]], [[LiuDaiLateHan|刘岱]], [[DongALateHan|东阿]], and [[IntegratedCommandCapacity|全维度统帅能力]] - early adviser-recognition and recruitment channel.
 - [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[DongZhaoLateHan|董昭]], [[ZhongYao|钟繇]], [[QingzhouSoldiers|青州兵]], [[DefeatedPopulationConversion|降众资源化]], [[TuntianSystem|屯田制]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - early system-building branch.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[YanzhouLateHan|兖州]], [[XiahouDun|夏侯惇]], and [[CaoRen|曹仁]] - post-betrayal organizational repair frame.
 - [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[XunYu|荀彧]], [[TianFengLateHan|田丰]], [[ZhangMiaoLateHan|张邈]], [[YuanShao|袁绍]], [[DetailBasedCrisisDetection|细节式危机识别]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - setup question about whether adviser wisdom becomes executable state capacity.

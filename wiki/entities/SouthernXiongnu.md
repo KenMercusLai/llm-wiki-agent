@@ -2,11 +2,15 @@
 title: "南匈奴 / Southern Xiongnu"
 type: entity
 tags: [people, frontier, late-han, steppe, china]
-sources: [zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+last_updated: 2026-08-25
 ---
 
 # 南匈奴 / Southern Xiongnu
+
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds the Southern Xiongnu to Cao Cao's early campaign field. [[YufuluoChanyu|于扶罗]] is identified as chanyu when [[CaoCao|曹操]] advances to [[NeihuangBattleLateHan|内黄之战]] after forcing [[YuDuLateHan|于毒]] away from [[DongWuyangLateHan|东武阳]].
+
+The source does not give a full Southern Xiongnu narrative here. Its value is chronological: Yufuluo appears as an active military actor before the later Yuan Shu support branch and before Hanji 998 records succession to [[HuchuquanChanyu|呼厨泉]].
 
 [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] first uses Southern Xiongnu forces in the emperor-flight branch. [[QubeiSouthernXiongnu|去卑]], identified as a right wise king, brings cavalry into the emergency coalition called by [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] to protect [[EmperorXianOfHan|汉献帝]] from [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]].
 
@@ -15,6 +19,7 @@ last_updated: 2026-08-24
 The source does not connect this note deeply to Gongsun Zan's collapse. It preserves a late-Han frontier transition alongside the Youzhou branch and links the page to the broader [[Xiongnu|匈奴]] archive.
 
 ## Connections
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[NeihuangBattleLateHan|内黄之战]], [[CaoCao|曹操]], and [[YuDuLateHan|于毒]] - earlier campaign branch.
 - [[YufuluoChanyu|于扶罗]] - deceased chanyu in the source notice.
 - [[HuchuquanChanyu|呼厨泉]] - successor.
 - [[QubeiSouthernXiongnu|去卑]] - right wise king who supports the emperor-escort coalition in Hanji 991.
