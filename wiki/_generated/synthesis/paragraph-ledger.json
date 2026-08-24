@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
       "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
       "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
       "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
@@ -197,11 +198,52 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 195
+    "paragraph_count": 196
   },
-  "overview_commit": "8469affafc1a82284975254484d540b6b756f7f4",
-  "overview_digest": "19c59a34c0cc320cdd4678af52c7bf14e8149e818516630c89a4eacb4c74ad19",
+  "overview_commit": "a0d94b669adba9bbe19d6f9dab69597b446828bd",
+  "overview_digest": "b28ed47fb1b5c6018289ca3aeddbba6f70cab5d6b527e33f9c307f6c14a4f196",
   "paragraphs": [
+    {
+      "id": "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] cause of [[HanFuLateHan|韩馥]]'s collapse and the earlier [[DongZhuo|董卓]] court-terror setting. It adds [[GaoGanLateHan|高干]], [[XinPingLateHan|辛评]], [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], [[ChengHuanLateHan|程奂]], [[PsychologicalSurrenderTrap|心理迫降陷阱]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]], while extending [[HuangfuSongLateHan|皇甫嵩]], [[CaiYong|蔡邕]], [[YuanShao|袁绍]], [[JizhouLateHan|冀州]], [[XunChenLateHan|荀谌]], [[GuoTu|郭图]], [[QuYiLateHan|麹义]], [[GongsunZan|公孙瓒]], [[ZhangYangLateHan|张杨]], [[YufuluoChanyu|于扶罗]], [[YeLateHan|邺城]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[TalentAsStateTreasure|以贤臣为宝]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Han Fu loses Jizhou before he formally loses office: Yuan Shao uses Qu Yi's rebellion, Gongsun Zan's approach, insider persuasion, and Xun Chen's comparative questioning to turn Han Fu's fear into voluntary surrender, while Han Fu ignores subordinates who correctly price Jizhou's troops and grain. No settled contradiction is recorded; the host's modern cognition hierarchy and motive judgments remain source-scoped, and Hanji 956 is treated as the precondition for Hanji 957's post-power safety collapse.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CaiYong",
+        "ChengHuanLateHan",
+        "CourtFeedbackCollapse",
+        "DefensiveSpeechUnderTyranny",
+        "DongZhuo",
+        "GaoGanLateHan",
+        "GengWuLateHan",
+        "GongsunZan",
+        "GuoTu",
+        "HanFuLateHan",
+        "HuangfuSongLateHan",
+        "JizhouLateHan",
+        "LiLiHanFuRetainer",
+        "MinChunLateHan",
+        "PoliticalSurvivalFirst",
+        "PsychologicalSurrenderTrap",
+        "QuYiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentAsStateTreasure",
+        "XinPingLateHan",
+        "XingshiqingStrategicAssessment",
+        "XunChenLateHan",
+        "YeLateHan",
+        "YuanShao",
+        "YufuluoChanyu",
+        "ZhangYangLateHan",
+        "ZhaoFuLateHan",
+        "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+        "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo"
+      ]
+    },
     {
       "id": "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
       "primary_topic": "history-and-geopolitics",

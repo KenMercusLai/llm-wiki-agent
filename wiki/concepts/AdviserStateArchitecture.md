@@ -2,11 +2,13 @@
 title: "Adviser State Architecture / 谋士政权架构"
 type: concept
 tags: [statecraft, advisers, legitimacy, logistics, talent, three-kingdoms]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
+sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
 last_updated: 2026-08-25
 ---
 
 # Adviser State Architecture / 谋士政权架构
+
+[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] moves the Jizhou case one step earlier: [[YuanShao|袁绍]]'s adviser apparatus is effective first as acquisition architecture. [[QuYiLateHan|麹义]] creates military pressure, [[GongsunZan|公孙瓒]] supplies external threat, and [[GaoGanLateHan|高干]], [[XinPingLateHan|辛评]], [[XunChenLateHan|荀谌]], and [[GuoTu|郭图]] convert that pressure into a surrender argument aimed at [[HanFuLateHan|韩馥]].
 
 [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds a Jizhou intake case for [[YuanShao|袁绍]] before the mature adviser-system comparisons. [[JuShou|沮授]] receives broad military authority, while [[ShenPeiLateHan|审配]], [[TianFengLateHan|田丰]], [[XuYouLateHan|许攸]], [[FengJiLateHan|逢纪]], and [[XunChenLateHan|荀谌]] show the personnel layer Yuan Shao can assemble after taking [[JizhouLateHan|冀州]] from [[HanFuLateHan|韩馥]].
 
@@ -31,6 +33,7 @@ The Liu Bei and Yuan Shao contrasts set the boundary. [[ZhugeLiang|诸葛亮]] a
 This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft names the morally ambiguous and hidden techniques developed in Hanji 977. Adviser state architecture names the visible system-building layer that makes those or any other techniques politically consequential.
 
 ## Key Claims
+- Hanji 956 adds the acquisition version: adviser architecture can be used to turn external pressure, insider channels, and comparative argument into territorial transfer before formal administration begins.
 - Hanji 957 adds a pre-system Jizhou case: adviser architecture begins with assembling and assigning capable people, but its political test is whether advice becomes concrete placement and authority.
 - Hanji 961 adds the intake stage: adviser architecture begins when local judgment is recognized, invited, and placed where it can become executable capacity.
 - Hanji 968 adds the early Cao-side architecture before mature court control: Mao Jie designs the legitimacy-logistics pair, Dong Zhao opens access, and Zhong Yao defends the court channel.
@@ -43,6 +46,7 @@ This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft na
 - The frame should remain source-scoped where Hanji 976 uses compressed metaphors rather than detailed evidentiary narration.
 
 ## Connections
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[YuanShao|袁绍]], [[QuYiLateHan|麹义]], [[GongsunZan|公孙瓒]], [[GaoGanLateHan|高干]], [[XinPingLateHan|辛评]], [[XunChenLateHan|荀谌]], [[GuoTu|郭图]], and [[PsychologicalSurrenderTrap|心理迫降陷阱]] - adviser-assisted acquisition of Jizhou.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[YuanShao|袁绍]], [[JizhouLateHan|冀州]], [[JuShou|沮授]], [[ShenPeiLateHan|审配]], [[TianFengLateHan|田丰]], [[XuYouLateHan|许攸]], [[FengJiLateHan|逢纪]], [[XunChenLateHan|荀谌]], [[BaoXin|鲍信]], [[CaoCao|曹操]], and [[DongCommandery|东郡]] - Jizhou adviser intake contrasted with executed East Commandery placement.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[XunYu|荀彧]], [[LiuDaiLateHan|刘岱]], [[DongALateHan|东阿]], and [[IntegratedCommandCapacity|全维度统帅能力]] - early adviser-recognition and recruitment channel.
 - [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[DongZhaoLateHan|董昭]], [[ZhongYao|钟繇]], [[QingzhouSoldiers|青州兵]], [[DefeatedPopulationConversion|降众资源化]], [[TuntianSystem|屯田制]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - early system-building branch.

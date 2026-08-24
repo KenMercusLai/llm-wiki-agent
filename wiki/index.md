@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？](sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo-era defensive speech, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite available troops, grain, and dissenting advisers.
 - [《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？](sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo.md) — 芮淇讲透资治通鉴 episode on Han Fu's post-Jizhou collapse, Bao Xin and Cao Cao's East Commandery opening, Zhang Yang's attachment path, and Dong Zhuo's omen-wrapped killing of Zhang Wen.
 - [《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”](sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's Yellow Turban victory, Emperor Xian's Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear seizure, and the anti-Dong-Zhuo coalition's fast Yuan Shao/Gongsun Zan rupture.
 - [《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？](sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq.md) — 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Hanzhong/Xiegu road control, and Gongsun Du's concealed-capability timing.
@@ -1417,6 +1418,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — Yuan Shao's nephew sent with Han Fu insiders to pressure Han Fu into yielding Jizhou.
+- [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Han Fu-side insider used in Yuan Shao's persuasion mission before the Jizhou transfer.
+- [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
+- [闵纯 / Min Chun (late Han)](entities/MinChunLateHan.md) — Han Fu subordinate who resists the Jizhou transfer and is killed at Yuan Shao's entry.
+- [李历 / Li Li (Han Fu retainer)](entities/LiLiHanFuRetainer.md) — Han Fu retainer disambiguated from Li Jue's nephew, warning that Jizhou's resources can outlast Yuan Shao.
+- [赵浮 / Zhao Fu (late Han)](entities/ZhaoFuLateHan.md) — Han Fu commander whose Mengjin force demonstrates that Yuan Shao is not yet militarily secure.
+- [程奂 / Cheng Huan (late Han)](entities/ChengHuanLateHan.md) — Han Fu commander paired with Zhao Fu in the last attempt to stop the Jizhou surrender.
 - [冀州 / Jizhou (late Han)](entities/JizhouLateHan.md) — late-Han northern province whose transfer from Han Fu to Yuan Shao makes territory, personnel, and safety collapse visible in Hanji 957.
 - [朱瀚 / Zhu Han (late Han)](entities/ZhuHanLateHan.md) — once-slighted Han Fu subordinate whose revenge attack after Yuan Shao's takeover exposes Han Fu's post-power danger.
 - [张温 / Zhang Wen (late Han)](entities/ZhangWenLateHan.md) — late-Han minister whom Dong Zhuo kills by wrapping accusation and private resentment in celestial-omen language.
@@ -8736,6 +8744,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Psychological Surrender Trap / 心理迫降陷阱](concepts/PsychologicalSurrenderTrap.md) — Hanji 956 pattern where manufactured external pressure and comparative questioning make an actor surrender real assets while imagining reputation and safety.
+- [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.
 - [Post-Power Safety Collapse / 失势后的安全崩塌](concepts/PostPowerSafetyCollapse.md) — Hanji 957 pattern where losing office, team, value, and trusted interpretation turns ordinary ambiguity into fatal panic.
 - [Omen-Laundered Purge / 天象包装式清洗](concepts/OmenLaunderedPurge.md) — Hanji 957 pattern where Dong Zhuo uses celestial-omen language to make Zhang Wen's killing look publicly inevitable.
 - [州牧集权与地方割据 / Provincial Shepherd Autonomy](concepts/ProvincialShepherdAutonomy.md) — Hanji 959 institutional pattern where stronger provincial governorship stabilizes local crisis while enabling practical autonomy.

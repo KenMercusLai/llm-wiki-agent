@@ -2,11 +2,13 @@
 title: "蔡邕 / Cai Yong"
 type: entity
 tags: [person, late-han, scholar, historian, literature]
-sources: [zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 蔡邕 / Cai Yong
+
+[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] backfills Cai Yong before his post-Dong-Zhuo execution. When [[DongZhuo|董卓]] considers a Jiang Ziya-style honorific, Cai Yong avoids direct refusal: he acknowledges Dong Zhuo's claimed merit but says the title should wait until the Guandong rebellion is pacified. The source makes him a second case of [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]], where delay and timing language restrain a dangerous patron without open contradiction.
 
 [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] supplies Cai Yong's direct death branch after [[DongZhuo|董卓]]'s assassination. Cai Yong is at [[WangYunLateHan|王允]]'s house when he hears the news and reacts with grief or shock; Wang Yun treats that response as private gratitude to Dong Zhuo overriding public Han loyalty and sends him to prison.
 
@@ -16,6 +18,7 @@ Cai Yong asks to survive, even under mutilating punishment, so he can finish Han
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[DongZhuo|董卓]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - delayed honorific advice under a dangerous patron.
 - [[WangYunLateHan|王允]] - official who has Cai Yong executed in the episode's post-Dong-Zhuo branch.
 - [[MaRidiLateHan|马日磾]] - official who pleads for Cai Yong's life in Hanji 963.
 - [[CaiWenji|蔡文姬]] - daughter who preserves the family and textual afterlife branch.

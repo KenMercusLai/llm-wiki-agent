@@ -2,11 +2,15 @@
 title: "韩馥 / Han Fu (late Han)"
 type: entity
 tags: [person, late-han, official, jizhou]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
+sources: [zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]
 last_updated: 2026-08-25
 ---
 
 # 韩馥 / Han Fu (late Han)
+
+[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] supplies the immediate surrender branch before Hanji 957's post-power collapse. Han Fu controls [[JizhouLateHan|冀州]] and has troops, grain, and warning voices, but he is psychologically isolated by [[YuanShao|袁绍]]'s pressure plan and [[XunChenLateHan|荀谌]]'s comparative questioning. When [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], and [[ChengHuanLateHan|程奂]] argue that Yuan Shao is still hungry and vulnerable, Han Fu converts fear into the moral language of yielding to a worthier man.
+
+The source makes Han Fu's loss a case of [[PsychologicalSurrenderTrap|心理迫降陷阱]] and [[CourtFeedbackCollapse|君臣反馈失灵]] before it becomes [[PostPowerSafetyCollapse|失势后的安全崩塌]]. The warnings exist, but Han Fu's self-comparison and desire for apparent safety keep him from using them.
 
 [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] supplies Han Fu's post-[[JizhouLateHan|冀州]] collapse before the later Xun Yu camp-choice branch. After [[YuanShao|袁绍]] takes the province, [[ZhuHanLateHan|朱瀚]] attacks Han Fu's household and injures Han Fu's eldest son, showing how a former superior becomes exposed once office and coercive backing are gone.
 
@@ -18,6 +22,7 @@ Han Fu's role is therefore less a full biography than a route marker in [[Crisis
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[GengWuLateHan|耿武]], [[MinChunLateHan|闵纯]], [[LiLiHanFuRetainer|李历]], [[ZhaoFuLateHan|赵浮]], [[ChengHuanLateHan|程奂]], [[PsychologicalSurrenderTrap|心理迫降陷阱]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - ignored warnings and fear-driven surrender of Jizhou.
 - [[XunYu|荀彧]] - migrant elite who initially seeks Han Fu's protection.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[ZhuHanLateHan|朱瀚]], [[ZhangMiaoLateHan|张邈]], [[Chenliu|陈留]], and [[PostPowerSafetyCollapse|失势后的安全崩塌]] - post-Jizhou revenge exposure, flight, and suicide branch.
 - [[JizhouLateHan|冀州]] - province whose loss triggers Han Fu's collapse.
