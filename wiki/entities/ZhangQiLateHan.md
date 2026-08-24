@@ -17,4 +17,3 @@ The source does not develop Zhang Qi's biography. His function is procedural: he
 - [[LiuYuLateHan|刘虞]] - recipient who refuses the imperial title and delegated imperial authority.
 - [[EmperorXianOfHan|汉献帝]], [[DongZhuo|董卓]], and [[MingqiLegitimacy|名器合法性]] - title field that makes the mission politically dangerous.
 - [[AlternativeSovereignLegitimacyTrap|另立君主合法性陷阱]] - concept captured by the mission.
-

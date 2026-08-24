@@ -18,4 +18,3 @@ The page is source-scoped because the episode also records [[XuZhongJin|许众]]
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[ChengYu|程昱]], [[FanYiLateHan|范仪]], and [[YanzhouLateHan|兖州]] - source case.
 - [[CaoCao|曹操]], [[LyuBu|吕布]], and [[ChenGongLateHan|陈宫]] - alignment choices named in Cheng Yu's persuasion.
 - [[XuZhongJin|许众]], [[LoyaltyCollateralDilemma|忠义牵连困境]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - later moral judgment and concept links.
-
