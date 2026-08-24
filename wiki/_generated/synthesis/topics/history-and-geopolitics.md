@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-25
-as_of_overview_commit: 2e0f4c4c0fd400566d88c3e30d8c5faf2b9af325
-input_digest: a934f3a5c02553e271fb9f899a5c0afee3677d25169ddc62586c6273453cb833
+as_of_overview_commit: 7d265a3b1c274f58a66e897b1eee16c5a7ed8ffa
+input_digest: 03dd7294b7b4da2491655905ad4afbb2d1c19e752ea8e9f3e778b17266675476
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 963 anchors the late-Han Dong Zhuo branch in the assassination itself: Wang Yun and Lü Bu use court access, edict wording, Weiyang Palace security, and Li Su's strike to remove Dong Zhuo, while public corpse humiliation, Meiwu confiscation, and Cai Yong's historian-risk death turn victory into memory politics before Hanji 964-965's restraint and remnant-settlement problems. Hanji 964 then adds the pre-Hanji-965 and pre-Hanji-968 layer: Wang Yun's success without restraint, Liu Dai ignoring Bao Xin material attrition advice against Qingzhou Yellow Turbans, Cao Cao entering Yanzhou through crisis succession, and Lü Bu losing relational force by displaying real merit. Hanji 965 makes the Li-Guo counterattack legible through failed amnesty, rejected reassurance, Liangzhou remnant fear, Niu Fu camp panic, and Jia Xu survival advice. Hanji 969-981 connect Cao Cao, Yuan Shao, Yuan Shu, Lü Bu, Yanzhou, Xuzhou, Youzhou, Qingzhou, Yangzhou, and adviser correction into a field where titles, bases, grain, elite alignment, proxy selection, and reputation shape survival. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, protector-captor ambiguity, and symbolic title value into operational weakness. Hanji 992-1020 widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Cao Cao's discipline/adviser system, Yuan Shu title failure, Chen-family survival strategy, and local-order fragility. The topic also spans Warring States and Qin institutionalization, Elizabethan succession and confessional escalation, Northern Ireland partition dynamics, undersea-cable geopolitics, and handset ecosystem shifts; across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and situation-reading actors.
+Hanji 962 now places the late-Han Dong Zhuo branch inside a prior close-guard rupture: family offices, Meiwu fallback logic, Wang Yun's planning circle, and Lü Bu's damaged guard relationship make the Hanji 963 assassination access and motive conditions legible before the killing scene. Hanji 963 anchors the assassination itself: Wang Yun and Lü Bu use court access, edict wording, Weiyang Palace security, and Li Su's strike to remove Dong Zhuo, while public corpse humiliation, Meiwu confiscation, and Cai Yong's historian-risk death turn victory into memory politics before Hanji 964-965's restraint and remnant-settlement problems. Hanji 964 then adds the pre-Hanji-965 and pre-Hanji-968 layer: Wang Yun's success without restraint, Liu Dai ignoring Bao Xin material attrition advice against Qingzhou Yellow Turbans, Cao Cao entering Yanzhou through crisis succession, and Lü Bu losing relational force by displaying real merit. Hanji 965 makes the Li-Guo counterattack legible through failed amnesty, rejected reassurance, Liangzhou remnant fear, Niu Fu camp panic, and Jia Xu survival advice. Hanji 969-981 connect Cao Cao, Yuan Shao, Yuan Shu, Lü Bu, Yanzhou, Xuzhou, Youzhou, Qingzhou, Yangzhou, and adviser correction into a field where titles, bases, grain, elite alignment, proxy selection, and reputation shape survival. Hanji 984-991 track the Chang'an and Emperor Xian flight sequence from Liangzhou plunder, famine, purge politics, protector-captor ambiguity, and symbolic title value into operational weakness. Hanji 992-1020 widen late-Han geopolitics into legitimacy-window timing, Jiangdong execution capacity, loyalty under current alignment, alliance reversal, capital relocation, Liu Biao's defensive ceiling, borrowed-knife violence, Cao Cao's discipline/adviser system, Yuan Shu title failure, Chen-family survival strategy, and local-order fragility. The topic also spans Warring States and Qin institutionalization, Elizabethan succession and confessional escalation, Northern Ireland partition dynamics, undersea-cable geopolitics, and handset ecosystem shifts; across these materials, formal names and institutions matter only when backed by material capacity, public trust, enforceable systems, elite integration, and situation-reading actors.
 
 ## Cross-source Findings
+
+### Late Han Dong Zhuo Guard Rupture Preconditions Assassination
+
+Hanji 962 makes [[DongZhuo]]'s pre-assassination security failure visible before Hanji 963: family offices through [[DongMinLateHan]] and [[DongHuangLateHan]], fallback confidence in [[MeiwuFortress]], and planning by [[WangYunLateHan]], [[HuangWanLateHan]], [[ShiSunRuiLateHan]], and [[YangZanLateHan]] all converge on [[LyuBu]], whose close-guard relationship becomes [[PersonalGuardAttackSurface]] after violence, exposure fear, and Wang Yun's kinship-deflating persuasion expose [[PersonalTrustPoliticalFragility]] and [[FortressSecurityIllusion]].
+
+**Evidence:** [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]], [[DongZhuo]], [[DongMinLateHan]], [[DongHuangLateHan]], [[MeiwuFortress]], [[WangYunLateHan]], [[HuangWanLateHan]], [[ShiSunRuiLateHan]], [[YangZanLateHan]], [[LyuBu]], [[PersonalGuardAttackSurface]], [[PersonalTrustPoliticalFragility]], [[FortressSecurityIllusion]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 962 and backfills the pre-Hanji-963 relationship and security precondition rather than the assassination scene itself.
+- The episode records no settled contradiction with Hanji 963; it explains access and motive preconditions rather than changing the later court-access assassination account.
 
 ### Late Han Dong Zhuo Assassination Creates Memory And Settlement Risk
 

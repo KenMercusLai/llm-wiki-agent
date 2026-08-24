@@ -11262,3 +11262,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Dong Zhuo's assassin
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Dong Zhuo's 192 CE kinship power, Meiwu fortress fallback, violent damage to the Lü Bu guard relationship, Lü Bu's fear of exposure, and Wang Yun's persuasion that converts the close guard into the precondition for assassination. Created late-Han pages for Dong Min, Dong Huang, Yang Zan, and personal guard attack surface; updated Dong Zhuo, Lü Bu, Wang Yun, Huang Wan, Shi Sunrui, Meiwu, personal trust fragility, and fortress security illusion. No settled contradiction found; the relationship-advice opening and motive analysis are kept source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

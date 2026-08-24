@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？](sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's kinship power, Meiwu fortress fallback, violent rupture with Lü Bu, and Wang Yun's conversion of the close guard into the precondition for assassination.
 - [《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！](sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 192 CE assassination by Wang Yun and Lü Bu, Chang'an's public revenge, Meiwu confiscation, corpse humiliation, and Cai Yong's historian-risk execution.
 - [《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！](sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq.md) — 芮淇讲透资治通鉴 episode on opportunity and humility, Wang Yun's execution of Cai Yong after Dong Zhuo's death, Liu Dai's fatal rejection of Bao Xin's attrition advice, Cao Cao's Yanzhou entry, and Lü Bu's merit boasting.
 - [《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？](sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q.md) — 芮淇讲透资治通鉴 episode on discreet help and dignity, Wang Yun's failed amnesty/reassurance policy toward Dong Zhuo's Liangzhou remnants, Niu Fu's camp panic, and Jia Xu redirecting Li Jue and Guo Si toward Chang'an.
@@ -1410,6 +1411,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [董旻 / Dong Min (late Han)](entities/DongMinLateHan.md) — Dong Zhuo's younger brother, used in Hanji 962 to show family-centered military power around the late-Han court.
+- [董璜 / Dong Huang (late Han)](entities/DongHuangLateHan.md) — Dong Zhuo's nephew and central-army appointee in Hanji 962's kinship-power setup.
+- [杨瓒 / Yang Zan (late Han)](entities/YangZanLateHan.md) — Official named in Wang Yun's anti-Dong-Zhuo planning circle before Lü Bu is persuaded.
 - [蔡文姬 / Cai Wenji](entities/CaiWenji.md) — Cai Yong's daughter, whose exile-and-ransom afterlife preserves the historian branch after Wang Yun's execution of Cai Yong.
 - [蔡邕 / Cai Yong](entities/CaiYong.md) — Late-Han scholar whose execution by Wang Yun is read as reputation and historical-record anxiety after Dong Zhuo's death.
 - [刘岱 / Liu Dai (late Han)](entities/LiuDaiLateHan.md) — Yanzhou inspector who rejects Bao Xin's defensive attrition plan and dies fighting the Qingzhou Yellow Turbans.
@@ -8685,6 +8689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Personal Guard Attack Surface / 贴身侍卫反噬](concepts/PersonalGuardAttackSurface.md) — Hanji 962 security reversal where Dong Zhuo's closest guard, Lü Bu, becomes the route through which resentment, fear, and Wang Yun's persuasion reach him.
 - [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to mark a hated ruler's reversal without solving the successor order's live risks.
 - [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
 - [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Bao Xin's Yanzhou strategy for exhausting a hungry raiding force instead of meeting it in status-driven field battle.

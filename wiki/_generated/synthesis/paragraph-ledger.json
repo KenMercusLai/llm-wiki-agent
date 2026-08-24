@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
       "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
       "ea15f5fa159f5db2931a2bc199538ea86c083820283a3f4fd1334dbe1e6b0b1a",
       "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
@@ -193,11 +194,42 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 191
+    "paragraph_count": 192
   },
-  "overview_commit": "2e0f4c4c0fd400566d88c3e30d8c5faf2b9af325",
-  "overview_digest": "24813d0db29055530a3ba584f141a33b08072b5e4ec83f7a83b258ff7d97f5c4",
+  "overview_commit": "7d265a3b1c274f58a66e897b1eee16c5a7ed8ffa",
+  "overview_digest": "2d18a6a86664473bccbeb8efa15b540d1acf52ee19a3924bc991efe50353f541",
   "paragraphs": [
+    {
+      "id": "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] rupture between [[DongZhuo|董卓]] and [[LyuBu|吕布]]. It adds [[DongMinLateHan|董旻]], [[DongHuangLateHan|董璜]], [[YangZanLateHan|杨瓒]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]], while extending [[WangYunLateHan|王允]], [[HuangWanLateHan|黄琬]], [[ShiSunRuiLateHan|士孙瑞]], [[MeiwuFortress|郿坞]], [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]], and [[FortressSecurityIllusion|筑城避世安全幻觉]]. Its core synthesis is that in late Han China, Dong Zhuo's military-court security system is already internally failing before the ambush: family offices, fortress walls, and food stores cannot repair a close-guard relationship damaged by violence, fear of exposure, and Wang Yun's kinship-deflating persuasion. No settled contradiction is recorded; the episode backfills Hanji 963's access and motive preconditions rather than changing the assassination account.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DongHuangLateHan",
+        "DongMinLateHan",
+        "DongZhuo",
+        "FortressSecurityIllusion",
+        "HuangWanLateHan",
+        "LyuBu",
+        "MeiwuFortress",
+        "PersonalGuardAttackSurface",
+        "PersonalTrustPoliticalFragility",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiSunRuiLateHan",
+        "WangYunLateHan",
+        "YangZanLateHan",
+        "zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti",
+        "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk"
+      ]
+    },
     {
       "id": "840fcc4f434eee39e4d481d3e704d44e240e2d7283a1054755dc8278a5ddd435",
       "primary_topic": "history-and-geopolitics",
