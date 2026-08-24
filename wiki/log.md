@@ -11235,6 +11235,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？
+
+Added source page for Hanji 949: Dong Zhuo's Luoyang terror, Southern Xiongnu/Yufuluo succession disorder, Yufuluo's failed Baibo alliance, Dong Zhuo's xiangguo privileges, and the scholar-recruitment branch through Xun Shuang, Chen Ji, Han Rong, and Shentu Pan's refusal. Created Han Rong, Shentu Pan, Emperor Ling of Han, and coerced talent legitimacy pages; updated Dong Zhuo, Luoyang, Southern Xiongnu, Yufuluo, Baibo Army, Xun Shuang, Chen Ji, He Yong, Zhou Bi, Wu Qiong, Zheng Tai, court office capture, and talent attraction through respect. No settled contradiction found; Yufuluo naming is normalized from the source's "於夫罗" and the host's imperial-ambition details remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？
 
 Added source page for a 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Zhang Lu/Zhang Xiu's Hanzhong and Xiegu road-control branch, Liu Biao's ritual warning, Liu Zhang's retained-envoy setup, and Gongsun Du's timing-and-opportunity story. Created pages for Gongsun Du, Xiegu Road, Zhang Xiu (Hanzhong), provincial shepherd autonomy, strategic pass control, and concealed capability timing; updated connected Yizhou, Hanzhong, Liu Yan, Zhang Lu, Liu Zhang, Liu Biao, Tao Qian, Zhu Jun, Wudoumi Dao, river-corridor strategy, and li-as-political-order pages. No settled contradiction found; the time-travel survival frame and Zhang Xiu disambiguation are kept source-scoped.

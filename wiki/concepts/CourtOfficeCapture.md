@@ -2,11 +2,15 @@
 title: "Court Office Capture / 朝廷开府任官失序"
 type: concept
 tags: [late-han, court, legitimacy, institutions, appointments]
-sources: [zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
-last_updated: 2026-08-24
+sources: [zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]
+last_updated: 2026-08-25
 ---
 
 # Court Office Capture / 朝廷开府任官失序
+
+[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] adds an earlier one-man prelude to the later Li-Guo office-capture pattern. [[DongZhuo|董卓]] receives xiangguo rank and exceptional court-entry privileges while the court remains under military terror in [[LuoyangLateHan|洛阳]]. The source does not yet show multiple armed offices competing, but it shows the prerequisite: formal court honors can be captured by a coercive actor and used to stage legitimacy faster than institutions recover.
+
+The same source connects title capture to [[CoercedTalentLegitimacy|胁迫征士合法性]]. Dong Zhuo's special privileges are paired with a recruitment campaign for famous scholars, making office capture not only a power arrangement but also a bid to make coercive control look like repaired government.
 
 [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds an outward-facing title-distribution branch. The court captured by [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] can still process appointments for [[CaoCao|曹操]] and later title packages for [[YuanShu|袁术]], but the episode frames those acts as warlord-managed political packaging rather than restored institutional selection.
 
@@ -23,6 +27,7 @@ The concept differs from ordinary factional recommendation. In this source, offi
 - The pattern helps explain how a weak court can remain symbolically alive while losing control over personnel channels.
 
 ## Connections
+- [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - xiangguo privilege and scholar-legitimacy staging before the later multi-office capture pattern.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[ZhongYao|钟繇]], [[CaoCao|曹操]], [[YuanShu|袁术]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - outward appointment and title-distribution branch.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and [[YangDingLateHan|杨定]] - armed office-holders in the source.
 - [[EmperorXianOfHan|汉献帝]], [[YangBiao|杨彪]], and [[ZhuJunLateHan|朱儁]] - court actors affected by the hollowed appointment order.
