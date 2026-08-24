@@ -11226,3 +11226,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Shi Sunrui's hidden anti-Dong-Zhuo merit, Jia Xu's Chang'an counterattack advice and reward refusal, Li-Guo plunder, captured-court title reshuffle around Liu Biao and Huangfu Song, and Lü Bu's flight through Yuan Shu, Zhang Yang, and Yuan Shao. Created Wang Yun, Huangfu Song, merit-concealment self-protection, and executor-character advice-risk pages; updated connected late-Han actors and survival/legitimacy concepts. No settled contradiction found; Jia Xu's guilt/repair arc and the host's self-cultivation analogies are kept source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
