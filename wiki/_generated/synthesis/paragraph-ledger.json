@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
       "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
       "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
       "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
@@ -198,11 +199,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 196
+    "paragraph_count": 197
   },
-  "overview_commit": "a0d94b669adba9bbe19d6f9dab69597b446828bd",
-  "overview_digest": "b28ed47fb1b5c6018289ca3aeddbba6f70cab5d6b527e33f9c307f6c14a4f196",
+  "overview_commit": "827aaf5e5fd676c711f51b8552487779264ff491",
+  "overview_digest": "61a5aee998c48ff17ecbcc345941ff5a8037c20dd4a0e6a63546e8476e167902",
   "paragraphs": [
+    {
+      "id": "1d4209f7bad4de82430cc4e795de14896c1b155cf559e3b6c9d0bafc12a33c11",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 191 CE anti-[[DongZhuo|董卓]] campaign before [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]]. It adds [[YangrenBattleLateHan|阳人之战]], [[HuaXiongLateHan|华雄]], [[HuZhenLateHan|胡轸]], [[XuRongLateHan|徐荣]], and [[ZuMaoLateHan|祖茂]], while extending [[SunJianLateHan|孙坚]], [[DongZhuo|董卓]], [[YuanShu|袁术]], [[LyuBu|吕布]], [[GuanYu|关羽]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[HeirloomImperialSeal|传国玉玺]], [[HuangfuSongLateHan|皇甫嵩]], [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[InterestReframingPersuasion|利益重构式说服]], [[MingqiLegitimacy|名器合法性]], and [[FictionAsHistoricalEvidence]]. Its core synthesis is that Sun Jian's campaign exposes both the real front-line pressure against Dong Zhuo and the coalition's internal weakness: Dong Zhuo-side command breaks through Lü Bu's sabotage of Hu Zhen, Yuan Shu nearly starves his own effective general out of suspicion, and the Hua Xiong story shows how a novelized scene can overtake the historical-source credit. No settled contradiction is recorded; the \"Guan Yu kills Hua Xiong\" correction is treated as a literary-memory boundary, and the host's workplace and self-cultivation readings remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "FictionAsHistoricalEvidence",
+        "GuanYu",
+        "HeirloomImperialSeal",
+        "HuZhenLateHan",
+        "HuaXiongLateHan",
+        "HuangfuSongLateHan",
+        "InterestReframingPersuasion",
+        "InterestStructuredAllianceFragility",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "XuRongLateHan",
+        "YangrenBattleLateHan",
+        "YuanShu",
+        "ZuMaoLateHan",
+        "zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf",
+        "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+        "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju"
+      ]
+    },
     {
       "id": "4037e2a7b0a1e588471628472882d94f13ec23c675dd13dca49042d8a6c72faf",
       "primary_topic": "governance-and-institutions",

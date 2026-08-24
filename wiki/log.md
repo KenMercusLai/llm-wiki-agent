@@ -11323,6 +11323,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 956: Huangfu Song and Cai Yong's defensive speech under Dong Zhuo, Dong Zhuo's terror administration, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite troops, grain, and repeated subordinate objections. Created Gao Gan, Xin Ping, Geng Wu, Min Chun, Li Li (Han Fu retainer), Zhao Fu, Cheng Huan, psychological surrender trap, and defensive speech under tyranny pages; updated connected late-Han actors and strategy/feedback/survival concepts. No settled contradiction found; the cognition hierarchy and host-side moral diagnosis of Han Fu remain source-scoped.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？
+
+Added source page for Hanji 955: Sun Jian's 191 CE anti-Dong-Zhuo campaign, Xu Rong's initial victory, Zu Mao's decoy, the Yangren battle, Hua Xiong's death credited to Sun Jian rather than Guan Yu, Yuan Shu's grain cutoff and reversal, Dong Zhuo's failed inducement through Li Jue, Luoyang entry, the Heirloom Imperial Seal discovery, and the Huangfu Song cliffhanger. Created pages for Hua Xiong, Hu Zhen, Xu Rong, Zu Mao, and the Yangren battle; updated connected late-Han actors, coalition, seal, literary-memory, legitimacy, and persuasion pages. No settled contradiction found; the Romance correction and host-side character judgments are kept source-scoped.
+
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

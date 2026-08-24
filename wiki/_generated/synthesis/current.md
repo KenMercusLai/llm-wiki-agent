@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-25
-as_of_overview_commit: a0d94b669adba9bbe19d6f9dab69597b446828bd
-summary: "Atlas tracks how capability becomes power through workflows, markets, institutions, logistics, evidence, trust, and judgment under pressure."
-episode_count: 1410
-source_count: 1410
-paragraph_count: 196
+as_of_overview_commit: 827aaf5e5fd676c711f51b8552487779264ff491
+summary: "Knowledge claims converge on a practical rule: durable outcomes need capability, legitimacy, material capacity, verification, and operating discipline moving together."
+episode_count: 1411
+source_count: 1411
+paragraph_count: 197
 topic_count: 8
 ---
 
@@ -43,7 +43,7 @@ Markets turn attention into durable value only when demand, distribution, paymen
 
 ### Culture and Media
 
-Literature, folklore, games, and media forms serve as experiments for politics, identity, evidence, status, agency, and human self-interpretation.
+Literature, folklore, games, and media forms serve as experiments for politics, identity, evidence, status, agency, reception, and source-bound memory rather than only entertainment.
 
 - [[PoliticalConditionAsHumanExperiment]] uses fiction to expose how political conditions, speed, exile, and public performance reshape human behavior. Evidence: [[PoliticalConditionAsHumanExperiment]], [[PublicMoralPerformance]], [[SlownessAsModernityCritique]].
 
@@ -56,7 +56,7 @@ Governance converts formal authority into order only through enforceable control
 
 ### History and Geopolitics
 
-Historical and geopolitical power depends on institutions, logistics, legitimacy, alliances, infrastructure, elite integration, and actors who can read changing situations.
+Historical and geopolitical power depends on institutions, logistics, legitimacy, alliances, infrastructure, elite integration, and actors who can read changing situations; Hanji 955 adds Sun Jian's anti-Dong-Zhuo front as coalition, command, symbol, and memory pressure.
 
 - [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations. Evidence: [[UnderseaDataCables]], [[UnitedStates]], [[Caribbean]], [[CentralAmerica]], [[China]], [[Russia]], [[CableLandingPointSecurity]], [[CableNetworkResilience]], [[TrustedNetworkGeopolitics]], [[DigitalInfrastructureWarRisk]], [[RegionalNetworkTopologyRisk]], [[AsymmetricInfrastructureAttack]], [[MarketplaceTech]], [[ErinMurphy]], [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]].
 - The Hanji 992, 1002, and 1015-1016 branch makes late-Han title order a strategic condition: [[EmperorXianOfHan]]'s ruined Anyi and Chang'an context keeps [[MingqiLegitimacy]] symbolically active but materially thin, [[JuShou]] sees [[LegitimacyWindowSeizure]] for [[YuanShao]] before [[GuoTu]] and [[ChunyuQiong]] help Yuan Shao miss it, [[SunCe]] treats [[YuanShu]]'s planned imperial title as a [[MoralizedWarPretext]] and exits, [[XunYu]] turns the emperor's recognition into [[LegitimacyWindowSeizure]] for [[CaoCao]], Yuan Shu's later Shouchun claim outruns [[TitleRealityRestraint]] and creates [[AntiUsurpationCoalitionPressure]], and [[ChenGui]] blocks [[MarriageAllianceWarExposure]] around [[LyuBu]] and [[Xuzhou]]. Evidence: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[GuanzhongRegion]], [[MingqiLegitimacy]], [[JuShou]], [[LegitimacyWindowSeizure]], [[YuanShao]], [[GuoTu]], [[ChunyuQiong]], [[WartimeAgriculturalLaborCollapse]], [[FamineEntitlementFailure]], [[SunCe]], [[YuanShu]], [[MoralizedWarPretext]], [[XunYu]], [[CaoCao]], [[TitleRealityRestraint]], [[AntiUsurpationCoalitionPressure]], [[ChenGui]], [[MarriageAllianceWarExposure]], [[LyuBu]], [[Xuzhou]], [[XingshiqingStrategicAssessment]], [[GuoJia]], [[ZhongYao]].

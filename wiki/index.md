@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？](sources/zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf.md) — 芮淇讲透资治通鉴 episode on Sun Jian's 191 CE anti-Dong-Zhuo campaign, the corrected Hua Xiong credit, Yuan Shu's grain cutoff, Dong Zhuo's failed inducement, Luoyang entry, and the Heirloom Imperial Seal discovery.
 - [《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？](sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo-era defensive speech, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite available troops, grain, and dissenting advisers.
 - [《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？](sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo.md) — 芮淇讲透资治通鉴 episode on Han Fu's post-Jizhou collapse, Bao Xin and Cao Cao's East Commandery opening, Zhang Yang's attachment path, and Dong Zhuo's omen-wrapped killing of Zhang Wen.
 - [《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”](sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's Yellow Turban victory, Emperor Xian's Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear seizure, and the anti-Dong-Zhuo coalition's fast Yuan Shao/Gongsun Zan rupture.
@@ -1433,7 +1434,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [审配 / Shen Pei (late Han)](entities/ShenPeiLateHan.md) — Yuan Shao adviser added to the Jizhou personnel field after Yuan Shao takes the province.
 - [逢纪 / Feng Ji (late Han)](entities/FengJiLateHan.md) — Yuan Shao adviser in the Jizhou-side personnel cluster recorded by Hanji 957.
 - [荀谌 / Xun Chen (late Han)](entities/XunChenLateHan.md) — Xun-family figure and Yuan Shao-side adviser placed in the Jizhou talent field.
-- [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition that Hanji 958 shows fracturing through offices, rear bases, and rival warlord incentives before Dong Zhuo is gone.
+- [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition whose active Sun Jian front is already constrained by Yuan Shu's suspicion before Hanji 958 shows open allied rupture.
+- [阳人之战 / Yangren Battle (late Han)](entities/YangrenBattleLateHan.md) — Sun Jian's recovery battle where Lü Bu's sabotage of Hu Zhen's force lets Sun Jian defeat Dong Zhuo's side and kill Hua Xiong.
+- [华雄 / Hua Xiong (late Han)](entities/HuaXiongLateHan.md) — Dong Zhuo-side officer whose death at Yangren is credited by Hanji 955 to Sun Jian rather than Guan Yu's Romance scene.
+- [胡轸 / Hu Zhen (late Han)](entities/HuZhenLateHan.md) — Dong Zhuo-side commander whose Yangren attack on Sun Jian collapses after Lü Bu's false reports and factional sabotage.
+- [徐荣 / Xu Rong (late Han)](entities/XuRongLateHan.md) — Dong Zhuo-side commander who defeats Sun Jian near Liang before Sun Jian escapes, regroups, and wins at Yangren.
+- [祖茂 / Zu Mao (late Han)](entities/ZuMaoLateHan.md) — Sun Jian retainer who diverts pursuit by taking Sun Jian's headgear after Xu Rong's victory near Liang.
 - [公孙越 / Gongsun Yue (late Han)](entities/GongsunYueLateHan.md) — Gongsun Zan kinsman whose death assisting Sun Jian against Zhou Ang becomes the trigger for blaming Yuan Shao.
 - [公孙范 / Gongsun Fan (late Han)](entities/GongsunFanLateHan.md) — Gongsun Zan kinsman who receives Bohai from Yuan Shao and defects with its troops to Gongsun Zan.
 - [周昂 / Zhou Ang (late Han)](entities/ZhouAngLateHan.md) — Yuan Shao appointee who takes Sun Jian's Yangcheng rear base during the anti-Dong-Zhuo coalition rupture.
@@ -1465,7 +1471,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [眭固 / Sui Gu (Late Han)](entities/SuiGuLateHan.md) — Military actor defeated by Cao Cao at Neihuang alongside Yufuluo in Hanji 961.
 - [东武阳 / Dong Wuyang (Late Han)](entities/DongWuyangLateHan.md) — City attacked by Yu Du and relieved indirectly through Cao Cao's base-threatening maneuver.
 - [顿丘 / Dunqiu (Late Han)](entities/DunqiuLateHan.md) — Cao Cao's station when Yu Du attacks Dong Wuyang, opening the Hanji 961 campaign sequence.
-- [《三国演义》 / Romance of the Three Kingdoms](entities/RomanceOfTheThreeKingdoms.md) — Literary contrast used by Hanji 961 to frame Cao Cao's historical reassessment.
+- [《三国演义》 / Romance of the Three Kingdoms](entities/RomanceOfTheThreeKingdoms.md) — Literary contrast used by Hanji 955 and Hanji 961 to separate memorable novelized scenes from chronicle-source attribution.
 - [董旻 / Dong Min (late Han)](entities/DongMinLateHan.md) — Dong Zhuo's younger brother, used in Hanji 962 to show family-centered military power around the late-Han court.
 - [董璜 / Dong Huang (late Han)](entities/DongHuangLateHan.md) — Dong Zhuo's nephew and central-army appointee in Hanji 962's kinship-power setup.
 - [杨瓒 / Yang Zan (late Han)](entities/YangZanLateHan.md) — Official named in Wang Yun's anti-Dong-Zhuo planning circle before Lü Bu is persuaded.
@@ -1482,7 +1488,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
-- [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han taiwei whose proposed troop-reassurance role is rejected by Wang Yun before his later dismissal marks captured-court appointment/removal power.
+- [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han official whose Dong Zhuo fear-question cliffhanger, proposed troop-reassurance role, and later dismissal mark survival speech and captured-court appointment/removal power.
 - [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
 - [李肃 / Li Su (late Han)](entities/LiSuLateHan.md) — Lü Bu officer defeated by Niu Fu near Shan County and executed after the failed mission.
 - [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
@@ -1837,7 +1843,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [阎象 / Yan Xiang (late Han)](entities/YanXiangLateHan.md) — Yuan Shu's chief clerk whose Zhou Wenwang comparison warns that family prestige and Han weakness do not justify an imperial claim.
 - [张范 / Zhang Fan (late Han)](entities/ZhangFanLateHan.md) — Recluse who refuses Yuan Shu's recruitment and sends Zhang Cheng instead, withholding symbolic endorsement from the title project.
 - [张承 / Zhang Cheng (late Han)](entities/ZhangChengLateHan.md) — Zhang Fan's younger brother whose "in virtue, not strength" remonstrance rejects Yuan Shu's force-based imperial reasoning.
-- [传国玉玺 / Heirloom Imperial Seal](entities/HeirloomImperialSeal.md) — Imperial object Yuan Shu forces from Sun Jian's household and treats as title support, while the source keeps it insufficient without accepted legitimacy.
+- [传国玉玺 / Heirloom Imperial Seal](entities/HeirloomImperialSeal.md) — Imperial object found by Sun Jian in Luoyang, later forced from his household by Yuan Shu and treated as title support without accepted legitimacy.
 - [董昭 / Dong Zhao (late Han)](entities/DongZhaoLateHan.md) — Adviser whose Hanji 968 and 1003-1004 branches open Cao Cao's court-access routes, first through Zhang Yang in Henei and later around Yang Feng and Xu relocation.
 - [张杨 / Zhang Yang (late Han)](entities/ZhangYangLateHan.md) — Emperor-return supplier and Henei patron whose initial refusal is overcome by Dong Zhao, opening Cao Cao's early court-contact route in Hanji 968.
 - [董承 / Dong Cheng (late Han)](entities/DongChengLateHan.md) — Court-side actor who remains with Han Xian in ruined Luoyang, later appeals against him, and gives Cao Cao an overt reason to enter.
@@ -1860,7 +1866,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official normalized from the transcript's "黄族", serving as the final actor who kills 祢衡 after Liu Biao passes him onward.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose repeated request for Lady Du alerts Cao Cao to her before the Xiapi household shift.
+- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance Hua Xiong memory is corrected by Hanji 955 and whose later Lady Du request alerts Cao Cao before the Xiapi household shift.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -1917,7 +1923,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭汜妻 / Guo Si's Wife](entities/GuoSiWife.md) — Unnamed wife whose poison insinuation accelerates Guo Si's existing rivalry with Li Jue in Hanji 984.
 - [李暹 / Li Xian (late Han)](entities/LiXianLateHan.md) — Li Jue's nephew who surrounds the palace and moves Emperor Xian to Li Jue's camp during the March 195 seizure.
 - [胡封 / Hu Feng (late Han)](entities/HuFengLateHan.md) — Figure in the Hou Hanshu variant who kills Fan Chou at Li Jue's banquet.
-- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor whose killing of Fan Chou, rivalry with Guo Si, seizure of Emperor Xian, and later temporary reunion over the emperor create the flight-and-escort crisis before the Luoyang return.
+- [李傕 / Li Jue (late Han)](entities/LiJueLateHan.md) — Late-Han military actor who first appears as Dong Zhuo's envoy to Sun Jian, then becomes a remnant commander whose Li-Guo rivalry creates the emperor flight-and-escort crisis.
 - [郭汜 / Guo Si (late Han)](entities/GuoSiLateHan.md) — Late-Han military actor whose rivalry with Li Jue moves from poison suspicion and emperor-abduction planning into minister hostage-taking and later temporary reunion over Emperor Xian.
 - [杨密 / Yang Mi (late Han)](entities/YangMiLateHan.md) — Zhonglangjiang who stops Guo Si from killing Yang Biao after the hostage-banquet rebuke in Hanji 985.
 - [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong who urges Emperor Xian to suppress anger over Li Jue's rotten-bones food humiliation.
@@ -1945,17 +1951,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [骆俊 / Luo Jun](entities/LuoJun.md) — Chen state chancellor whose civil governance pairs with Liu Chong's military capacity before Yuan Shu's assassination plot removes both.
 - [陈国 / Chen State (late Han)](entities/ChenStateLateHan.md) — Late-Han refuge polity made strong by Liu Chong and Luo Jun, then destabilized after Zhang Kai's false-surrender assassination.
 - [孙策 / Sun Ce](entities/SunCe.md) — Late-Han regional actor whose break with Yuan Shu, Kuaiji personal-exposure warning, Cao-backed titles, Chen Yu preemption, and Guangling pressure branch show momentum and risk.
-- [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
+- [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Late-Han commander credited by Hanji 955 with killing Hua Xiong at Yangren and finding the Heirloom Imperial Seal, later becoming Sun Ce's inherited-title source.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Late-Han killer linked both to the Hou Hanshu robbery version of Cao Song's death and Yuan Shu's false-surrender assassination of Liu Chong and Luo Jun.
-- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from the Zhang Miao alliance and Yanzhou entry into Puyang, Hao Meng's revolt, 辕门射戟 mediation, Liu Bei conflict, and ignored loyal advice.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from Hu Zhen sabotage and later Dong Zhuo assassination into Yanzhou, Puyang, Hao Meng's revolt, 辕门射戟, and Liu Bei conflict.
 - [郝萌 / Hao Meng](entities/HaoMeng.md) — Lü Bu subordinate whose Xiapi night revolt exposes the fragility of Lü Bu's command before Gao Shun and Cao Xing suppress it.
 - [曹性 / Cao Xing (late Han)](entities/CaoXingLateHan.md) — Hao Meng subordinate who turns against the revolt, wounds Hao Meng, and accuses Yuan Shu and Chen Gong of involvement.
 - [陈宫 / Chen Gong (late Han)](entities/ChenGongLateHan.md) — Yanzhou elite/adviser figure who helps invite Lü Bu against Cao Cao and later remains a gentry counterweight Lü Bu cannot easily discard.
 - [张辽 / Zhang Liao](entities/ZhangLiao.md) — Bingzhou-origin Lü Bu subordinate used in Hanji 1000 as part of the military-core faction balancing Chen Gong's gentry channel.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose suppression of Hao Meng's revolt, disciplined 陷阵营, and ignored warning sharpen Lü Bu's personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
-- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder linked to Hao Meng's revolt and whose omen-, five-phases-, and seal-backed imperial ambition is rejected, costs Sun Ce, invites anti-usurpation pressure, and collapses.
+- [袁术 / Yuan Shu](entities/YuanShu.md) — Late-Han powerholder whose suspicion cuts Sun Jian's grain before his later resource manipulation, seal-backed imperial ambition, anti-usurpation pressure, and collapse.
 - [何夔 / He Kui](entities/HeKui.md) — Late-Han official whose refusal of Yuan Shu and answer to Cao Cao diagnose Yuan Shu's political failure.
 - [许褚 / Xu Chu](entities/XuChu.md) — Local strongman whose fortified following is absorbed by Cao Cao and turned into close-guard capacity.
 - [杨彪 / Yang Biao](entities/YangBiao.md) — Old-Han elite whose Yuan Shu marriage tie leads to a politically risky arrest and release under Cao Cao.
