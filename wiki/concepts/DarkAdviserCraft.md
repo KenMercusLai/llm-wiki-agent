@@ -2,11 +2,13 @@
 title: "Dark Adviser Craft / 毒士灰度谋略"
 type: concept
 tags: [strategy, statecraft, adviser, ethics, three-kingdoms]
-sources: [zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee]
+sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee]
 last_updated: 2026-08-24
 ---
 
 # Dark Adviser Craft / 毒士灰度谋略
+
+[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] supplies the immediate preview for this concept. After describing advisers as state architects, the episode closes with the "poison and honey" metaphor and says the next discussion will turn toward advisers' darker political rules.
 
 Dark adviser craft / 毒士灰度谋略 is the interpretive frame [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] gives to Three Kingdoms advisers. The source does not define a school or doctrine; it groups several techniques under one metaphor: the adviser is a "drug-maker" whose prescription contains both useful medicine and poison.
 
@@ -24,6 +26,7 @@ The concept also overlaps with [[PoliticalSurvivalFirst|安全第一政治生存
 - The concept should remain source-scoped until later sources verify individual details behind the episode's rapid examples.
 
 ## Connections
+- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] and [[AdviserStateArchitecture|谋士政权架构]] - setup episode and visible system-building contrast.
 - [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] - source episode.
 - [[JiaXu|贾诩]] - false-information and toxicity-regulation example.
 - [[ZhugeLiang|诸葛亮]] - moral-pressure and information-filtering example.

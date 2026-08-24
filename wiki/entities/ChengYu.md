@@ -2,11 +2,15 @@
 title: "程昱 / Cheng Yu"
 type: entity
 tags: [person, late-han, adviser, cao-cao]
-sources: [zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
+sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
 last_updated: 2026-08-24
 ---
 
 # 程昱 / Cheng Yu
+
+[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] appears to invoke Cheng Yu through the transcript wording "陈玉" in its description of Cao Cao's adviser "cloud platform." The wiki treats this cautiously as a likely Cheng Yu cluster reference because the surrounding roles are [[XunYu|荀彧]] managing strategy and [[GuoJia|郭嘉]] supplying surprise counsel, while existing Hanji 978-981 pages already make Cheng Yu the Cao-side gap-filling crisis operator.
+
+The source adds no new concrete Cheng Yu episode. Its value is synthetic: Cheng Yu helps show that [[CaoCao|曹操]]'s adviser system depends on multiple complementary roles inside [[AdviserStateArchitecture|谋士政权架构]].
 
 [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] adds a darker, source-scoped interpretation of Cheng Yu. The episode presents him as an adviser willing to take moral stain for [[CaoCao|曹操]], including an extreme grain-crisis story and a broader willingness to be selectively silent when public cleanliness would endanger the ruler's position.
 
@@ -27,6 +31,7 @@ Cheng Yu's intervention is direct. He asks whether Cao Cao is afraid, argues tha
 The page is source-scoped. Hanji 981 does not narrate Cheng Yu's whole career; it uses him as the person whose blunt timing keeps Cao Cao from entering a [[HostageBackedDependencyTrap|家属质押式依附陷阱]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[XunYu|荀彧]], [[GuoJia|郭嘉]], and [[AdviserStateArchitecture|谋士政权架构]] - source-scoped Cao adviser platform branch.
 - [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]], [[DarkAdviserCraft|毒士灰度谋略]], and [[CaoCao|曹操]] - source-scoped dirty-work and stigma-absorption branch.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[LyuBu|吕布]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - persuasion under family-hostage pressure before the Cangting defense.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[ChenGongLateHan|陈宫]], and [[ZaoZhi|枣祗]] - earlier Yanzhou defense branch before the Yuan Shao dependency proposal.

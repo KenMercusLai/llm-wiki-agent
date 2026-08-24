@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？](sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x.md) — 芮淇讲透资治通鉴 episode on Three Kingdoms advisers as state architects: Xun Yu's legitimacy and talent system, Liu Bei's Zhuge Liang/Fa Zheng upgrade, Yuan Shao's wasted Hebei advisers, and the setup for dark adviser craft.
 - [《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云](sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee.md) — 芮淇讲透资治通鉴 episode on dark adviser craft through Jia Xu, Zhuge Liang, Fa Zheng, and Cheng Yu: false information, moral pressure, selective briefing, legal revenge, and stigma absorption.
 - [《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？](sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv.md) — 芮淇讲透资治通鉴 episode on Xun Yu calmly deterring Guo Gong at Juancheng, Cheng Yu stabilizing Fan County and Dong'e, and Jin Yun's family-hostage loyalty dilemma.
 - [《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？](sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis.md) — 芮淇讲透资治通鉴 episode on Cheng Yu and Zao Zhi preserving Cao Cao's Yanzhou base at Cangting and Dong'e, plus Chang'an office capture, Yongzhou setup, famine, and Emperor Xian's gruel audit.
@@ -1395,7 +1396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [法正 / Fa Zheng](entities/FaZheng.md) — Shu-Han adviser introduced through Hanji 977 as a source-scoped case of law-like revenge and morally ambiguous adviser craft.
+- [法正 / Fa Zheng](entities/FaZheng.md) — Shu-Han adviser framed by Hanji 976 as a Dingjun Mountain tactical planner and by Hanji 977 as a source-scoped case of law-like revenge.
 - [郭贡 / Guo Gong (Late Han)](entities/GuoGongLateHan.md) — Uncertain Yanzhou military actor whose several-tens-of-thousands force withdraws after Xun Yu calmly meets him outside Juancheng.
 - [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
 - [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
@@ -1414,7 +1415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [濮阳田氏 / Puyang Tian Clan](entities/PuyangTianClan.md) — Local household channel whose false inside-support signal draws Cao Cao into the Puyang trap.
 - [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
 - [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
-- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser who blocks Chen Gong at Cangting in Hanji 979 and later stops the Yuan Shao hostage-dependency move in Hanji 981.
+- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser in the Hanji 976 adviser-platform reading, Hanji 978/979 Yanzhou base defense, and Hanji 981 Yuan Shao dependency refusal.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
 - [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by Hanji 981 through local integration failure and Gan Ning's exit.
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
@@ -1455,7 +1456,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
-- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao-side adviser invoked by Hanji 993 as a comparator for talent not converted into usable authority.
+- [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao-side adviser whose welcome-the-emperor advice and later Hanji 976 recall make him a case of talent not converted into usable authority.
+- [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser named in Hanji 976 as part of the underconverted Hebei adviser group with Ju Shou and Tian Feng.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (Late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce and praised by northern士大夫, becoming Hanji 994's main subordinate-success non-jealousy case.
@@ -1752,10 +1754,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [卞夫人 / Lady Bian (Cao Cao)](entities/LadyBianCaoCao.md) — Cao Cao wife who later becomes formal wife after Lady Ding's rupture, source-scoped through Hanji 1014's household list.
 - [虞翻 / Yu Fan](entities/YuFan.md) — Kuaiji merit officer retained by Sun Ce in Hanji 1005, warning that solo hunting and light personal security expose a leader.
 - [王朗 / Wang Lang (late Han)](entities/WangLangLateHan.md) — Kuaiji governor defeated by Sun Ce, whose retained officer Yu Fan opens Hanji 1005's leader-exposure lesson.
-- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser whose Hanji 1005/1006 branch explains Xun Yu's recommendation, his move from Yuan Shao to Cao Cao, and later strategic advice.
+- [郭嘉 / Guo Jia](entities/GuoJia.md) — Cao Cao adviser in the Hanji 976 adviser-platform reading and later Hanji 1005/1006 branch explaining Xun Yu's recommendation, Yuan Shao rejection, and strategic advice.
 - [荀攸 / Xun You](entities/XunYou.md) — Cao Cao strategist introduced through Xun Yu's recommendation and contrasted with Guo Jia as cautious, secret-keeping, and survival-minded.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
-- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official sent to Chang'an in Hanji 1015 to stabilize Guanzhong by persuading Ma Teng, Han Sui, and related western forces.
+- [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao Cao-side official named in Hanji 976 as part of Xun Yu's talent chain and sent to Chang'an in Hanji 1015 to stabilize Guanzhong.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Yuan Shao's northern opponent whose campaign creates Cao Cao's temporary window against Lü Bu in Hanji 1015.
@@ -2374,7 +2376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
-- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist used by the episode title as a reception marker for Le Yi's commander reputation.
+- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist framed by Hanji 976 as Liu Bei's state-system builder, by Hanji 977 as a moral-pressure case, and elsewhere as a reception marker for Le Yi.
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [燕武成王 / King Wucheng of Yan](entities/YanWuchengwang.md) — Yan ruler installed after Gongsun Cao kills Yan Huiwang amid Yan's post-Qi-collapse weakness.
@@ -3598,6 +3600,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
 - [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
 - [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment and, in FengTouQuan, to premium EV branding through ES8, battery leasing, and battery-swap infrastructure.
+- [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; Hanji 976 uses him as a case of high-value talent wasted by decision failure.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
 - [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
@@ -4831,7 +4834,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [傅斯年](entities/FuSinian.md) — historian and institution builder associated with 史语所, 殷墟, public criticism, and Taiwan University administration.
 - [梁启超](entities/LiangQichao.md) — intellectual whose letters and late scholarship frame breadth, family education, and modern scholarly formation.
 - [王国维](entities/WangGuowei.md) — Qinghua scholar whose death and memorialization anchor the episode's academic-independence branch.
-- [陈寅恪](entities/ChenYinke.md) — historian connected to defending 清华国学研究院 and the source's free-thought language.
+- [陈寅恪](entities/ChenYinke.md) — historian connected to defending 清华国学研究院, free-thought language, and Hanji 976's reading-list digression.
 - [胡适](entities/HuShi.md) — modern intellectual used by the episode to show practical study, diplomacy, and the scholarship-public-duty dilemma.
 - [裴文中](entities/PeiWenzhong.md) — Zhoukoudian fieldworker associated with the first Peking Man skull discovery.
 - [钱理群](entities/QianLiqun.md) — scholar used in the episode's closing frame on constrained circumstances and spiritual freedom.
@@ -8602,7 +8605,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
-- [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 977 frame for disorder-era advisers mixing hidden technique, moral language, legal-administrative action, silence, and survival.
+- [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 976 frame for advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity rather than only clever plan-makers.
+- [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where armed commanders use kaifu-style offices and appointment access to hollow out the court's normal selection order.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Hanji 981 pattern where accepting protection by moving one's family under a stronger patron risks strategic subordination.

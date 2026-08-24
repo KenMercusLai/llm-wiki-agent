@@ -2,11 +2,13 @@
 title: "Talent as State Treasure / 以贤臣为宝"
 type: concept
 tags: [statecraft, personnel, leadership, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
+sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna, zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar, zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]
 last_updated: 2026-08-24
 ---
 
 # Talent as State Treasure / 以贤臣为宝
+
+[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] adds a Three Kingdoms adviser-system version of the concept. [[CaoCao|曹操]] and [[LiuBei|刘备]] are treated as positive cases because advisers such as [[XunYu|荀彧]], [[GuoJia|郭嘉]], [[ChengYu|程昱]], [[ZhugeLiang|诸葛亮]], and [[FaZheng|法正]] become legitimacy, logistics, and strategy capacity. [[YuanShao|袁绍]] is the negative case because [[JuShou|沮授]], [[TianFengLateHan|田丰]], and [[XuYouLateHan|许攸]] remain underconverted talent.
 
 Talent as state treasure / 以贤臣为宝 is the statecraft contrast [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] extracts from the hunting dialogue between [[QiWeiwang|齐威王]] and [[LiangHuiWang|魏惠王]]. Wei Hui Wang defines treasure through rare luminous pearls; Qi Wei Wang defines treasure through officials who secure borders, settle people, deter rivals, and make the state more attractive.
 
@@ -29,6 +31,7 @@ The concept extends the wiki's broader talent branch without duplicating [[Talen
 Hanji 1014 adds the comparative leadership version through [[TenVictoriesTenDefeats|十胜十败论]]. [[XunYu|荀彧]] and [[GuoJia|郭嘉]] present [[CaoCao|曹操]] as stronger than [[YuanShao|袁绍]] partly because he uses people by ability, resists suspicion, and attracts loyal, capable actors. Talent is treated as a strategic asset because it changes what a weaker army can plausibly attempt.
 
 ## Key Claims
+- Hanji 976 adds that adviser value is systemic: advisers become "treasures" when their counsel is converted into legitimacy, logistics, talent networks, and executable strategy.
 - Hanji 981 adds that coercively defeating a local talent can still be a talent-management failure if the regime cannot integrate that person afterward.
 - Hanji 993 adds that talent can be present and even recommended, yet still fail to become capacity when status anxiety and elite reputation filters block appointment.
 - Hanji 1006 adds that attracting or hosting a talented person is not enough; the ruler must be able to use that person's judgment.
@@ -43,6 +46,7 @@ Hanji 1014 adds the comparative leadership version through [[TenVictoriesTenDefe
 - The source keeps the lesson concrete by tying the claim to [[QiState|齐国]]'s border and governance needs rather than making it only a moral saying.
 
 ## Connections
+- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[AdviserStateArchitecture|谋士政权架构]], [[XunYu|荀彧]], [[ZhugeLiang|诸葛亮]], [[YuanShao|袁绍]], [[TianFengLateHan|田丰]], and [[XuYouLateHan|许攸]] - Three Kingdoms adviser-system contrast.
 - [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]], [[SunCe|孙策]], [[LiuYaoLateHan|刘繇]], [[TaishiCi|太史慈]], [[XuShao|许劭]], [[ShentinglingBattle|神亭岭之战]], and [[StatusFilteredTalentMisrecognition|门第筛选式人才误判]] - status-filtered talent failure and battlefield recognition.
 - [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[LiuZhang|刘璋]], [[GanNing|甘宁]], [[YizhouLateHan|益州]], and [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] - local talent exit under provincial integration failure.
 - [[QiWeiwang|齐威王]], [[TanZi|檀子]], and [[QiState|齐国]] - source ruler, named official, and state setting.
