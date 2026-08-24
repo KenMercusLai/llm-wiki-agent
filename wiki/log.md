@@ -11169,3 +11169,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu detecting Zha
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. Report was printed but not saved to lint-report.md.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
