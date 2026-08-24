@@ -11113,3 +11113,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史
+
+Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao's Puyang trap, Dian Wei's rescue role, Cao Cao's yellow-horse misdirection, and the later locust-and-grain attrition against Lü Bu in Yanzhou. Created pages for the Puyang battle, Puyang, the Puyang Tian clan, Li Jin, Chengshi County, and crisis deception survival; updated index, overview, and connected Cao/Lü/Yanzhou military-strategy pages. No settled contradiction found; the host's character judgments and life-advice extension are kept source-scoped.

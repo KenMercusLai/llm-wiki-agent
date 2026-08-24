@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史](sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Puyang trap, Dian Wei's close-quarters rescue, Cao's yellow-horse deception, and locust-and-grain attrition against Lü Bu in Yanzhou.
 - [《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服](sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth.md) — 芮淇讲透资治通鉴 episode on Cheng Yu stopping Cao Cao from hostage-backed dependency on Yuan Shao, Liu Yan/Liu Zhang's Yi Province succession, Gan Ning's talent-loss branch, and Tao Qian's Xuzhou handoff to Liu Bei.
 - [《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争](sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1.md) — 芮淇讲透资治通鉴 episode on why Mi Zhu, Chen Deng, and Kong Rong back Liu Bei over Yuan Shu for Xuzhou, plus Shouchun, Ma Ridi, Zhao Qi, Lady Wu, the Qiantang Wu clan, and Sun Ce/Zhou Yu kinship-resource networks.
 - [《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板](sources/zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s.md) — 芮淇讲透资治通鉴 episode on Sun Ce's early dependency on Yuan Shu, Zhang Hong's entrusted-family role, Danyang recruitment, Lu Kang's Lujiang refusal, Yuan Shu's broken Jiujiang/Lujiang promises, and Liu Yao's first Yangzhou defenses.
@@ -1391,6 +1392,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [濮阳之战 / Puyang Battle (Late Han)](entities/PuyangBattleLateHan.md) — Late-Han Yanzhou battle where Cao Cao enters Puyang through a false local-insider signal, survives through Dian Wei and verbal misdirection, then faces attrition pressure against Lü Bu.
+- [濮阳 / Puyang (Late Han)](entities/PuyangLateHan.md) — Yanzhou city where the Hanji 980 Puyang trap and Cao Cao-Lü Bu confrontation unfold.
+- [濮阳田氏 / Puyang Tian Clan](entities/PuyangTianClan.md) — Local household channel whose false inside-support signal draws Cao Cao into the Puyang trap.
+- [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
+- [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
 - [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser whose Hanji 981 intervention stops a hostage-backed dependency move toward Yuan Shao.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
 - [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by Hanji 981 through local integration failure and Gan Ning's exit.
@@ -8579,6 +8585,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Hanji 981 pattern where accepting protection by moving one's family under a stronger patron risks strategic subordination.
 - [Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝](concepts/ImportedTroopsLocalEliteCleavage.md) — Hanji 981 Yi Province pattern where migrant military support and local elite interests fail to integrate.
 - [Local Elite Proxy Selection / 地方豪强代理人选择](concepts/LocalEliteProxySelection.md) — Late-Han Xuzhou pattern where local elites choose a legitimate, weaker proxy over a stronger outsider likely to absorb them.
