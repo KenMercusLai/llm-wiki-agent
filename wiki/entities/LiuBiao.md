@@ -2,11 +2,13 @@
 title: "刘表 / Liu Biao"
 type: entity
 tags: [person, late-han, three-kingdoms, ruler, china]
-sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
+sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh, zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]
 last_updated: 2026-08-25
 ---
 
 # 刘表 / Liu Biao
+
+[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] backfills Liu Biao as an early critic of [[LiuYanLateHan|刘焉]]'s Yizhou autonomy. When Liu Yan has emperor-level carriage equipment made in [[YizhouLateHan|益州]], Liu Biao memorializes the court that Liu Yan is imitating imperial symbols and drawing local recognition away from [[EmperorXianOfHan|汉献帝]].
 
 [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] adds an earlier formal-recognition layer. After the Chang'an counterattack sequence, Liu Biao sends tribute to the court and receives the Zhengnan general, Jingzhou governor, and Chengwu marquis package. The episode uses this briefly, but it matters for [[MingqiLegitimacy|名器合法性]] because court titles remain desirable even while [[ChangAnHanCapital|长安]] is under Li-Guo military control.
 
@@ -25,6 +27,7 @@ The same episode makes Liu Biao's strength bounded. He had stabilized [[Jingzhou
 [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] adds that Zhang Xiu reconnects with Liu Biao after the Wancheng attack and subsequent defeat by [[CaoCao|曹操]]. These episodes do not develop Liu Biao's own policy; they use him as the fallback alignment that keeps Zhang Xiu from becoming simply a surrendered or defeated remnant.
 
 ## Connections
+- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[YizhouLateHan|益州]], [[MingqiLegitimacy|名器合法性]], and [[LiAsPoliticalOrder|礼制政治秩序]] - early memorial against Liu Yan's imperial-style symbolism.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[ChangAnHanCapital|长安]], [[HuangfuSongLateHan|皇甫嵩]], and [[MingqiLegitimacy|名器合法性]] - captured-court title recognition after Dong Zhuo's death.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShu|袁术]], [[CaoCao|曹操]], [[Jingzhou|荆州]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - early pressure on Yuan Shu and strategic-geography setup.
 - [[ZhaoQiLateHan|赵岐]], [[EmperorXianOfHan|汉献帝]], and [[LuoyangLateHan|洛阳]] - Hanji 999 court-support and supply branch.

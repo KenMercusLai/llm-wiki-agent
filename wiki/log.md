@@ -11223,6 +11223,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？
+
+Added source page for a 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Zhang Lu/Zhang Xiu's Hanzhong and Xiegu road-control branch, Liu Biao's ritual warning, Liu Zhang's retained-envoy setup, and Gongsun Du's timing-and-opportunity story. Created pages for Gongsun Du, Xiegu Road, Zhang Xiu (Hanzhong), provincial shepherd autonomy, strategic pass control, and concealed capability timing; updated connected Yizhou, Hanzhong, Liu Yan, Zhang Lu, Liu Zhang, Liu Biao, Tao Qian, Zhu Jun, Wudoumi Dao, river-corridor strategy, and li-as-political-order pages. No settled contradiction found; the time-travel survival frame and Zhang Xiu disambiguation are kept source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao. Created pages for Han Fu, He Yong, Jieqiao Battle, Qu Yi, Yan Gang, crisis migration judgment, and shield-crossbow anti-cavalry; updated Xun Yu, Yuan Shao, Cao Cao, Gongsun Zan, Yingchuan, Guo Tu, and talent/assessment concepts. No settled contradiction found; dramatic migration/delegation details and the Qingzhou-soldier compression remain source-scoped.
