@@ -2,11 +2,13 @@
 title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
 type: concept
 tags: [alliance, strategy, incentives, late-han]
-sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds the shared-office prelude before the later Li-Guo rupture. [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] can all benefit from court title access, but that same access creates a multi-office competition over recommendations, troops, and prestige. Shared capture of the court therefore contains the rivalry that later sources make explicit.
 
 [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] adds the pre-rupture Liangzhou version. [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] can share court control only while [[JiaXu|贾诩]] keeps surface peace; once Fan Chou's military prestige and [[HanSui|韩遂]] contact look like independent alignment, Li Jue kills him and the remaining generals lose trust. [[GuoSiWife|郭汜妻]]'s poison insinuation then accelerates a Li-Guo rivalry whose deeper issue is control of soldiers, court, and emperor.
 
@@ -29,6 +31,7 @@ The key mechanism is not abstract disunity. Lü Bu breaks the campaign by offeri
 The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[InterestBasedCoalitionSabotage|利益瓦解合纵]]. Coalition self-preservation explains allies who hesitate to spend their own resources for a shared project; interest-based sabotage often attacks coalition organizers before the army forms. Hanji 1018 shows a field coalition already moving, then collapsing because its members can be profitably re-sorted during the campaign.
 
 ## Key Claims
+- Hanji 979 adds that an alliance can be fragile even while its members share spoils, because the spoils themselves create parallel power centers and competing appointment channels.
 - Hanji 984 adds that military success inside a shared-control coalition can become a threat signal when prestige, troop support, and ambiguous outside contact unsettle the alliance.
 - Hanji 985 adds that a former military partnership can fracture into hostage-taking and camp sabotage once payoffs shift, and that paid auxiliary support is especially brittle.
 - Hanji 988 adds that reconciliation can follow changed leverage rather than trust, especially after supporters defect or are bought off.
@@ -42,6 +45,7 @@ The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]]
 - Coalition analysis has to ask what each participant can gain by switching, not only what the coalition formally claims to pursue.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CourtOfficeCapture|朝廷开府任官失序]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] - shared office access as rivalry seed.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[LiLiLateHan|李利]], [[HanSui|韩遂]], [[GuoSiWife|郭汜妻]], and [[MilitaryPrestigeThreatPurge|军功声望威胁清洗]] - pre-985 purge and poison-suspicion branch.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangBaoLateHan|张苞]], and [[YangFengLateHan|杨奉]] - early feud, auxiliary recruitment, inner-camp defection, and camp defense.
 - [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[YangFengLateHan|杨奉]], and [[JiaXu|贾诩]] - supporter loss, hostage bargaining, and leverage-driven reconciliation.

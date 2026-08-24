@@ -2,11 +2,13 @@
 title: "陈宫 / Chen Gong (late Han)"
 type: entity
 tags: [person, late-han, adviser, military, gentry]
-sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
 last_updated: 2026-08-24
 ---
 
 # 陈宫 / Chen Gong (late Han)
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Chen Gong's failed approach to [[DongALateHan|东阿]] before his later field defeat with [[LyuBu|吕布]]. He tries to reach the remaining Cao Cao-side base through [[CangtingFordLateHan|仓亭津]], but [[ChengYu|程昱]] blocks the crossing and pulls away boats, preventing the attack from converting Yanzhou betrayal into complete base loss.
 
 [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds Chen Gong's immediately earlier field role before the Xiapi factional-balance episode. He appears with [[LyuBu|吕布]] leading more than ten thousand troops from Dongming against [[CaoCao|曹操]] in [[YanzhouLateHan|兖州]], only to be defeated when Cao Cao uses the dike and forest terrain at [[DingtaoBattleLateHan|定陶之战]].
 
@@ -17,6 +19,7 @@ The episode's interpretation is that Chen Gong cannot be read only as an individ
 The page keeps several claims source-scoped: possible gray contact with [[YuanShu|袁术]], the meaning of Chen Gong's blush, and the idea that shame could be used as political performance. The wiki records those as part of [[LyuBuFactionalBalance|吕布集团派系平衡]], not as settled independent proof of Chen Gong's role in the revolt.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[ChengYu|程昱]], and [[ZaoZhi|枣祗]] - failed crossing and base-defense sequence before Dingtao.
 - [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[YanzhouLateHan|兖州]], [[DingtaoBattleLateHan|定陶之战]], and [[CaoCao|曹操]] - earlier field defeat while accompanying Lü Bu.
 - [[LyuBu|吕布]] - leader who depends on Chen Gong but does not punish him after the allegation.
 - [[HaoMeng|郝萌]] and [[CaoXingLateHan|曹性]] - revolt actor and accuser.

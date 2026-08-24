@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
       "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
       "ef9734363d3afd0c1ea459a7d01b55ef5876f40ddf97d619760c292ec25d18ca",
       "82334b450b933e6bbdfb71baa664f3a987ac7f860d57bd79194822098b520416",
@@ -179,11 +180,53 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 177
+    "paragraph_count": 178
   },
-  "overview_commit": "71cfd029c831653e77092c8274ac23704b6d94f7",
-  "overview_digest": "869325c030344225d69b01d4b8c9f42903e27c984356f2e5e8ea187cf8972583",
+  "overview_commit": "3cb7f7bf12ac902a6509cb5462593b66c6e86f89",
+  "overview_digest": "50ff05261941b77f26c04feac27c72ec843a7b17c43b84bd6db73d550923a509",
   "paragraphs": [
+    {
+      "id": "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] Yanzhou and Chang'an sequence. It adds [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[JuanchengLateHan|鄄城]], [[HouWenLateHan|侯汶]], [[HandanShangLateHan|邯郸商]], [[YongzhouLateHan|雍州]], [[HexiFourCommanderiesLateHan|河西四郡]], and [[CourtOfficeCapture|朝廷开府任官失序]], while extending [[CaoCao|曹操]], [[ChengYu|程昱]], [[ZaoZhi|枣祗]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], [[YangBiao|杨彪]], [[YangDingLateHan|杨定]], [[ChangAnHanCapital|长安]], [[RootBasePriority|根本根据地优先]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[MingqiLegitimacy|名器合法性]], [[FamineEntitlementFailure]], and [[DisasterResponseStateCapacity]]. Its core synthesis is that Cao Cao's survival before Puyang depends on local base-defense work at river, city, and people-organization levels, while the Chang'an court shows institutional hollowing through appointment capture and famine relief fraud. No settled contradiction is recorded; transcript names such as 陈玉, 早知, 李绝, 郭四, 侯文, and 韩丹商 are normalized to canonical late-Han pages while kept source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CangtingFordLateHan",
+        "CaoCao",
+        "ChangAnHanCapital",
+        "ChenGongLateHan",
+        "ChengYu",
+        "CourtOfficeCapture",
+        "DisasterResponseStateCapacity",
+        "DongALateHan",
+        "EmperorXianOfHan",
+        "FamineEntitlementFailure",
+        "FanChouLateHan",
+        "GuoSiLateHan",
+        "HandanShangLateHan",
+        "HexiFourCommanderiesLateHan",
+        "HouWenLateHan",
+        "JuanchengLateHan",
+        "LiJueLateHan",
+        "LyuBu",
+        "MingqiLegitimacy",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "XingshiqingStrategicAssessment",
+        "YangBiao",
+        "YangDingLateHan",
+        "YanzhouLateHan",
+        "YongzhouLateHan",
+        "ZaoZhi",
+        "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+        "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg"
+      ]
+    },
     {
       "id": "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
       "primary_topic": "history-and-geopolitics",

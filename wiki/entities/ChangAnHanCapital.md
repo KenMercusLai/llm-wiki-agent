@@ -2,7 +2,7 @@
 title: "长安 / Chang'an (Han capital)"
 type: entity
 tags: [city, han, capital, china]
-sources: [zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
 last_updated: 2026-08-24
 ---
 
@@ -14,11 +14,14 @@ In the episode, Chang'an is not introduced as a cultural-symbolic capital first.
 
 The source therefore makes Chang'an part of [[StrategicCapitalRelocation|战略性迁都]]. The founding court's move west turns a war-won Qin heartland into a durable Han capital base rather than treating Luoyang's Zhou-centered prestige as sufficient for the new dynasty.
 
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds an earlier late-Han famine and relief-corruption layer. Drought, earthquakes, an extreme grain-price spike, and reported cannibalism make [[ChangAnHanCapital|长安]] a capital where natural shock, warlord pressure, and failed distribution combine. [[EmperorXianOfHan|汉献帝]] orders [[HouWenLateHan|侯汶]] to distribute rice-bean gruel from the imperial granary, then audits the output when deaths do not decline.
+
 [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] adds the earlier late-Han destruction prelude. The source says the Sanfu / [[GuanzhongRegion|关中]] area still had a large population after [[DongZhuo|董卓]] died, but plunder by [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and related forces plus famine ruins ordinary life. After [[LiXianLateHan|李暹]] removes [[EmperorXianOfHan|汉献帝]] from the palace, soldiers seize palace women and goods, Li Jue moves gold and silk to camp, and palaces, offices, and civilian houses are burned.
 
 [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds the late-Han inversion of that capital-security image. After [[EmperorXianOfHan|汉献帝]] leaves, Chang'an falls into more than forty days of unmanaged disorder; the strong flee, the weak remain, and the source's quoted "强者四散，羸者相食" makes the old capital a symbol of order collapse rather than protected abundance.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[HouWenLateHan|侯汶]], [[EmperorXianOfHan|汉献帝]], [[DisasterResponseStateCapacity|Disaster Response State Capacity]], and [[CourtOfficeCapture|朝廷开府任官失序]] - earlier famine, relief fraud, and court-capacity branch.
 - [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] - source case.
 - [[LiuBang|刘邦]], [[LouJing|楼敬]], [[ZhangLiang|张良]], and [[WesternHanDynasty|西汉]] - ruler, advisers, and dynasty tied to the capital choice.
 - [[GuanzhongRegion|关中]], [[HanguPass|函谷关]], and [[BaShu|巴蜀]] - strategic setting that makes Chang'an useful.

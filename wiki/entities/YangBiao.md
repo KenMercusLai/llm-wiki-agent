@@ -2,11 +2,13 @@
 title: "杨彪 / Yang Biao"
 type: entity
 tags: [person, late-han, official, china]
-sources: [zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-24
 ---
 
 # 杨彪 / Yang Biao
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Yang Biao's appointment before the later hostage-banquet and Huayin scenes. After [[ZhuJunLateHan|朱儁]] is dismissed as taiwei, Yang Biao becomes taiwei and records shangshu affairs, making him part of the old court office order that must operate inside a field increasingly crowded by military kaifu offices.
 
 [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] backfills Yang Biao's hostage-banquet rebuke before the Huayin and flight episodes. [[GuoSiLateHan|郭汜]] detains him and other ministers while [[LiJueLateHan|李傕]] holds [[EmperorXianOfHan|汉献帝]], then discusses attacking Li Jue at a banquet for the captive officials. Yang Biao stands and names the double violation directly: one side has the emperor, the other has the ministers.
 
@@ -23,6 +25,7 @@ The source treats the accusation against Yang Biao as a court-control event rath
 Yang Biao's later withdrawal is the source's practical ending. Seeing the Han royal house weakened and Cao Cao controlling the state, he claims leg illness and stops active political participation for many years, preserving himself by leaving the arena.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[ZhuJunLateHan|朱儁]], [[EmperorXianOfHan|汉献帝]], and [[CourtOfficeCapture|朝廷开府任官失序]] - taiwei appointment inside a weakening court office order.
 - [[CaoCao|曹操]] - powerholder who arrests and releases him.
 - [[EmperorXianOfHan|汉献帝]] - emperor in whose court the case is staged.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[GuoSiLateHan|郭汜]], [[LiJueLateHan|李傕]], and [[YangMiLateHan|杨密]] - hostage-banquet rebuke and near execution.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？](sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis.md) — 芮淇讲透资治通鉴 episode on Cheng Yu and Zao Zhi preserving Cao Cao's Yanzhou base at Cangting and Dong'e, plus Chang'an office capture, Yongzhou setup, famine, and Emperor Xian's gruel audit.
 - [《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史](sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg.md) — 芮淇讲透资治通鉴 episode on Cao Cao's Puyang trap, Dian Wei's close-quarters rescue, Cao's yellow-horse deception, and locust-and-grain attrition against Lü Bu in Yanzhou.
 - [《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服](sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth.md) — 芮淇讲透资治通鉴 episode on Cheng Yu stopping Cao Cao from hostage-backed dependency on Yuan Shao, Liu Yan/Liu Zhang's Yi Province succession, Gan Ning's talent-loss branch, and Tao Qian's Xuzhou handoff to Liu Bei.
 - [《资治通鉴·汉纪》982丨扒一扒刘备入徐背后的利益之争](sources/zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1.md) — 芮淇讲透资治通鉴 episode on why Mi Zhu, Chen Deng, and Kong Rong back Liu Bei over Yuan Shu for Xuzhou, plus Shouchun, Ma Ridi, Zhao Qi, Lady Wu, the Qiantang Wu clan, and Sun Ce/Zhou Yu kinship-resource networks.
@@ -1392,12 +1393,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
+- [东阿 / Dong'e (Late Han)](entities/DongALateHan.md) — Yanzhou city defended by Zao Zhi and Cheng Yu during Cao Cao's 194 CE base crisis.
+- [鄄城 / Juancheng (Late Han)](entities/JuanchengLateHan.md) — Yanzhou stronghold and missed Lü Bu target in Cao Cao's assessment of the 194 CE crisis.
+- [侯汶 / Hou Wen (late Han)](entities/HouWenLateHan.md) — Attendant censor accused by Emperor Xian's gruel test of diverting Chang'an famine relief grain.
+- [邯郸商 / Handan Shang (late Han)](entities/HandanShangLateHan.md) — Chenliu official appointed as Yongzhou inspector when the Hexi four commanderies are split from Liangzhou.
+- [雍州 / Yongzhou (Late Han)](entities/YongzhouLateHan.md) — Late-Han province created from the Hexi four commanderies because distance and disorder made Liangzhou administration impractical.
+- [河西四郡 / Hexi Four Commanderies (Late Han)](entities/HexiFourCommanderiesLateHan.md) — Dunhuang, Jiuquan, Zhangye, and Wuwei commanderies requesting separate Yongzhou administration in Hanji 979.
 - [濮阳之战 / Puyang Battle (Late Han)](entities/PuyangBattleLateHan.md) — Late-Han Yanzhou battle where Cao Cao enters Puyang through a false local-insider signal, survives through Dian Wei and verbal misdirection, then faces attrition pressure against Lü Bu.
 - [濮阳 / Puyang (Late Han)](entities/PuyangLateHan.md) — Yanzhou city where the Hanji 980 Puyang trap and Cao Cao-Lü Bu confrontation unfold.
 - [濮阳田氏 / Puyang Tian Clan](entities/PuyangTianClan.md) — Local household channel whose false inside-support signal draws Cao Cao into the Puyang trap.
 - [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
 - [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
-- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser whose Hanji 981 intervention stops a hostage-backed dependency move toward Yuan Shao.
+- [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser who blocks Chen Gong at Cangting in Hanji 979 and later stops the Yuan Shao hostage-dependency move in Hanji 981.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
 - [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by Hanji 981 through local integration failure and Gan Ning's exit.
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
@@ -8585,6 +8593,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where armed commanders use kaifu-style offices and appointment access to hollow out the court's normal selection order.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Hanji 981 pattern where accepting protection by moving one's family under a stronger patron risks strategic subordination.
 - [Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝](concepts/ImportedTroopsLocalEliteCleavage.md) — Hanji 981 Yi Province pattern where migrant military support and local elite interests fail to integrate.

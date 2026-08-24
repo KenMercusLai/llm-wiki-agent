@@ -2,11 +2,13 @@
 title: "Tuntian System / 屯田制"
 type: concept
 tags: [agriculture, logistics, statecraft, military, late-han]
-sources: [zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
-last_updated: 2026-08-23
+sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k]
+last_updated: 2026-08-24
 ---
 
 # Tuntian System / 屯田制
+
+[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds a pre-institutional Zao Zhi layer. Before [[ZaoZhi|枣祗]] proposes formal屯田 in Hanji 1008, Hanji 979 shows him fortifying [[DongALateHan|东阿]] and organizing officials and people during [[CaoCao|曹操]]'s Yanzhou crisis. The source does not make that defense a屯田 policy yet, but it shows the same practical orientation toward population, protection, and logistics that later becomes agricultural statecraft.
 
 Tuntian system / 屯田制 enters the wiki through [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] as [[CaoCao|曹操]]'s institutional answer to late-Han food collapse. The episode first frames the problem through long disorder: armies multiply, fields are abandoned, ordinary people cannot farm securely, and both soldiers and civilians face hunger.
 
@@ -17,6 +19,7 @@ The host says the first year produces about one million斛 of grain, rendering t
 This concept extends [[WarCostTempoDiscipline|战争成本与速决纪律]] from campaign-cost awareness into production capacity. It also answers [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]]: when war has removed or scattered the agricultural workforce, a powerholder who can reorganize people into protected production gains a durable advantage over rivals who only seize or consume grain.
 
 ## Key Claims
+- Hanji 979 adds that Zao Zhi's later屯田 role is preceded by emergency local organization, not introduced as an isolated policy idea.
 - A military regime's food problem can be solved by rebuilding production, not only by requisitioning or plundering existing grain.
 - Offices and administrators matter because agricultural recovery needs repeatable organization, not only a good idea.
 - Grain storage can become strategic freedom: the side with filled warehouses can campaign and absorb shocks differently from food-starved rivals.
@@ -24,6 +27,7 @@ This concept extends [[WarCostTempoDiscipline|战争成本与速决纪律]] from
 - The episode's numerical conversions are useful explanatory estimates but remain source-scoped.
 
 ## Connections
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[DongALateHan|东阿]], [[YanzhouLateHan|兖州]], and [[RootBasePriority|根本根据地优先]] - Zao Zhi's earlier defensive organization before formal屯田.
 - [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]], [[CaoCao|曹操]], [[ZaoZhi|枣祗]], [[RenJun|任峻]], and [[Xudu|许都]] - source case and implementation chain.
 - [[SunziBingfa|《孙子兵法》]] and [[WarCostTempoDiscipline|战争成本与速决纪律]] - campaign-cost awareness behind the policy's strategic value.
 - [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], [[AgriculturalReliefStatecraft|农政救荒]], and [[GrainBorderCoercion|粮食与封边胁迫]] - adjacent food-security and food-power frames.

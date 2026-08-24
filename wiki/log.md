@@ -11121,3 +11121,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao's Puyang tra
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. Report was printed but not saved to lint-report.md.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？
+
+Added source `zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis`. Key claims: Cheng Yu and Zao Zhi preserve Cao Cao's remaining Yanzhou base through Cangting and Dong'e defense; Chang'an court selection is captured by kaifu warlord offices; Emperor Xian detects relief-grain fraud but cannot restore systemic control.
