@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？
+
+Added source page for Hanji 1000: Hao Meng's night revolt against Lü Bu at Xiapi, Gao Shun and Cao Xing's suppression of the revolt, Cao Xing's allegation against Yuan Shu and Chen Gong, Lü Bu's non-punishment of Chen Gong as factional-balance politics, and Emperor Xian's ruined return to Luoyang under Zhang Yang, Yang Feng, Han Xian, and Dong Cheng. Created Hao Meng, Cao Xing (late Han), Chen Gong (late Han), Zhang Liao, and Lü Bu Factional Balance; updated overview, index, Lü Bu, Gao Shun, Zhang Yang, Dong Cheng, Yang Feng, Han Xian, Luoyang (late Han), Emperor Xian of Han, Yuan Shu, Xiapi, and Political Survival First. No settled contradiction found; Chen Gong's alleged role and blush remain source-scoped rather than treated as independent proof.
+
 ## [2026-08-24] ingest | Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety
 
 Added source page for an All-In interview with Garrett Langley of Flock Safety on license-plate readers, privacy criticism, default retention, police misuse, audit assistance, city-level governance, AI boundaries, drone response, and transparency portals. Created pages for Garrett Langley, Public Safety Privacy Tradeoff, Automatic License Plate Reader, Police Data Access Audit, Local Surveillance Governance, and Drone As First Responder; updated overview, index, All-In, Jason Calacanis, Flock Safety, Consumer Camera Surveillance, Civil Liberties Surveillance Risk, and Surveillance as a Service. No settled contradiction found; the source is in direct tension with earlier privacy-advocate and exposure-risk framings of Flock, so Langley's product-boundary and governance claims are preserved as source-scoped rather than treated as independent resolution.
