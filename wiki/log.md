@@ -11157,3 +11157,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-24] ingest | 《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？
+
+Added source page for a 芮淇讲透资治通鉴 episode on Xun Yu detecting Zhang Miao and Chen Gong's Yanzhou rebellion from title wording, Lü Bu's route, and Cao Cao's exposed rear. Created Detail-Based Crisis Detection; updated Yanzhou, Cao/Lü/Yuan adviser pages and related strategy concepts. No settled contradiction found; the old-woman informant, street-rhyme, carved grain-label, and Xun Shu-derived谣谶 details are kept source-scoped.

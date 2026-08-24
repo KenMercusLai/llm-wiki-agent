@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？](sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr.md) — 芮淇讲透资治通鉴 episode on Xun Yu detecting Zhang Miao and Chen Gong's Yanzhou rebellion from wording and route clues, recalling Xiahou Dun to stabilize Juancheng, and contrasting Tian Feng's warning under Yuan Shao.
 - [696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)](sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496.md) — The Rest Is History episode on the Babington Plot, Walsingham's spy network, Mary's Fotheringhay trial and execution, Elizabeth's warrant hesitation, and escalation toward the Spanish Armada.
 - [《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？](sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x.md) — 芮淇讲透资治通鉴 episode on Three Kingdoms advisers as state architects: Xun Yu's legitimacy and talent system, Liu Bei's Zhuge Liang/Fa Zheng upgrade, Yuan Shao's wasted Hebei advisers, and the setup for dark adviser craft.
 - [《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云](sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee.md) — 芮淇讲透资治通鉴 episode on dark adviser craft through Jia Xu, Zhuge Liang, Fa Zheng, and Cheng Yu: false information, moral pressure, selective briefing, legal revenge, and stigma absorption.
@@ -8619,6 +8620,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Detail-Based Crisis Detection / 细节式危机识别](concepts/DetailBasedCrisisDetection.md) — Crisis-reading method where small clues in titles, routes, timing, and rear-area behavior expose a political break before formal declaration.
 - [Tudor Succession Crisis](concepts/TudorSuccessionCrisis.md) — Dynastic-security pattern where Mary Stuart's Catholic claim turns assassination, foreign support, and English succession into one crisis.
 - [Spy Network Entrapment](concepts/SpyNetworkEntrapment.md) — Intelligence pattern where a supposedly secure channel is controlled, read, and turned into usable evidence.
 - [Royal Execution Legitimacy](concepts/RoyalExecutionLegitimacy.md) — Problem of making a sovereign's killing legally and politically tolerable.

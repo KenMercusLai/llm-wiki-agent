@@ -2,11 +2,15 @@
 title: "张邈 / Zhang Miao (Late Han)"
 type: entity
 tags: [person, late-han, official]
-sources: [zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
+sources: [zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
 last_updated: 2026-08-24
 ---
 
 # 张邈 / Zhang Miao (Late Han)
+
+[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] adds the opening of Zhang Miao's betrayal branch. While [[CaoCao|曹操]] attacks [[TaoQianLateHan|陶谦]], Zhang Miao and [[ChenGongLateHan|陈宫]] secretly welcome [[LyuBu|吕布]] as [[YanzhouLateHan|兖州]] governor, and Zhang Miao's envoy tries to frame Lü Bu as helping Cao Cao.
+
+The episode makes Zhang Miao's envoy wording a political clue. By calling Cao Cao "曹公" rather than "兖州牧," the message avoids the title that would affirm Cao Cao's claim over Yanzhou. [[XunYu|荀彧]] reads that wording together with Lü Bu's direction of movement, turning Zhang Miao into the source case for [[DetailBasedCrisisDetection|细节式危机识别]] and [[PowerEtiquetteReading|权力礼仪细读]].
 
 [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] supplies the immediate background to Zhang Miao's Yanzhou betrayal before the Dingtao and Yongqiu branch. The source presents [[GuoGongLateHan|郭贡]] as frightening partly because rumor says he may cooperate with [[ZhangMiaoLateHan|张邈]] and [[LyuBu|吕布]], while the province has mostly turned away from [[CaoCao|曹操]].
 
@@ -19,6 +23,7 @@ last_updated: 2026-08-24
 The page is source-scoped. These episodes do not develop Zhang Miao's independent career; they use his named friendship with Yuan Shao and enmity with Cao Cao to show how private relationship language can become a binding moral claim when crisis comes.
 
 ## Connections
+- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XunYu|荀彧]], [[PowerEtiquetteReading|权力礼仪细读]], and [[DetailBasedCrisisDetection|细节式危机识别]] - rebellion setup and title-wording clue.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[JuanchengLateHan|鄄城]], [[CaoCao|曹操]], and [[YanzhouLateHan|兖州]] - rumor and betrayal background before the later battlefield branch.
 - [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], and [[DingtaoBattleLateHan|定陶之战]] - defeat and withdrawal before the Yongqiu branch.
 - [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[LiuYiLateHan|刘翊]], [[YongqiuLateHan|雍丘]], and [[YuanShu|袁术]] - failed exit and killing before Zhang Miao can join Yuan Shu.

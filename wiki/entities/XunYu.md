@@ -2,11 +2,15 @@
 title: "荀彧 / Xun Yu"
 type: entity
 tags: [person, late-han, official, strategist, china]
-sources: [zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
+sources: [zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-24
 ---
 
 # 荀彧 / Xun Yu
+
+[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] adds Xun Yu's first visible role in the [[YanzhouLateHan|兖州]] crisis before the later Guo Gong and Cangting branches. While [[CaoCao|曹操]] is away attacking [[TaoQianLateHan|陶谦]], Xun Yu hears [[ZhangMiaoLateHan|张邈]]'s envoy call Cao Cao "曹公" rather than "兖州牧" and compares that wording with [[LyuBu|吕布]]'s route, reading both as signs that Zhang Miao and [[ChenGongLateHan|陈宫]] have already turned the province.
+
+The episode makes Xun Yu's value a case of [[DetailBasedCrisisDetection|细节式危机识别]] before the later [[RootBasePriority|根本根据地优先]] argument. His response is immediate rather than merely analytical: he recalls [[XiahouDun|夏侯惇]] from [[PuyangLateHan|濮阳]] to [[JuanchengLateHan|鄄城]], accepting the risk that Puyang may fall in order to keep Cao Cao's remaining command center from collapsing.
 
 [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] gives a high-level synthesis of Xun Yu before the narrower late-Han cases already in the wiki. The episode calls him [[CaoCao|曹操]]'s chief adviser and uses him as the main case for [[AdviserStateArchitecture|谋士政权架构]]: legitimacy language, resource coordination, talent referral, and internal order turn Cao Cao's camp into something more durable than one warlord's battlefield command.
 
@@ -40,6 +44,7 @@ The episode's interest is less in Xun Yu's biography than in his position inside
 
 ## Connections
 - [[CaoCao|曹操]] - political order in which Xun Yu is acting.
+- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[PuyangLateHan|濮阳]], [[JuanchengLateHan|鄄城]], [[DetailBasedCrisisDetection|细节式危机识别]], and [[PowerEtiquetteReading|权力礼仪细读]] - early Yanzhou rebellion detection and emergency recall branch.
 - [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[AdviserStateArchitecture|谋士政权架构]], [[TuntianSystem|屯田制]], [[TalentAsStateTreasure|以贤臣为宝]], and [[ZhongYao|钟繇]] - high-level adviser-as-system-architect branch.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], [[YanzhouLateHan|兖州]], and [[BattlefieldInformationControl|战场信息控制]] - composure-based deterrence before the later base-first advice.
 - [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[YanzhouLateHan|兖州]], [[Xuzhou|徐州]], [[LyuBu|吕布]], and [[RootBasePriority|根本根据地优先]] - base-before-expansion advice.

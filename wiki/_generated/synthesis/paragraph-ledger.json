@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
       "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
       "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
       "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
@@ -182,11 +183,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 180
+    "paragraph_count": 181
   },
-  "overview_commit": "a4b17ad1a16013a1d988c1bd49419fd7f5f7c5da",
-  "overview_digest": "2ba9441fac10e51866e6d3428acc4970ee9b2c7d9281cd144462b349adf92814",
+  "overview_commit": "71f47af1c24902dc079e6bd42f6d9d9b85bcc632",
+  "overview_digest": "b499976d9856449e01956dc86a0c00aa93f16e3ce2948abe3e7ae20e8928158d",
   "paragraphs": [
+    {
+      "id": "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the late-Han military-history warning step in [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis before the Hanji 978-980 base-defense sequence. It adds [[DetailBasedCrisisDetection|细节式危机识别]], while extending [[XunYu|荀彧]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], [[PuyangLateHan|濮阳]], [[TianFengLateHan|田丰]], [[YuanShao|袁绍]], [[PowerEtiquetteReading|权力礼仪细读]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[BattlefieldInformationControl|战场信息控制]], [[RootBasePriority|根本根据地优先]], [[AdviserStateArchitecture|谋士政权架构]], and [[CourtFeedbackCollapse|君臣反馈失灵]]. Its core synthesis is that Cao Cao's Yanzhou survival starts before open combat: Xun Yu reads title avoidance, route mismatch, and rear vulnerability quickly enough to recall Xiahou Dun and protect Juancheng, while Tian Feng's grain-warning branch previews the problem of whether ruler-side judgment can convert adviser insight into action. No settled contradiction is recorded; the old-woman informant, street-rhyme, carved grain-label, and Xun Shu谣谶 details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "BattlefieldInformationControl",
+        "CaoCao",
+        "ChenGongLateHan",
+        "CourtFeedbackCollapse",
+        "DetailBasedCrisisDetection",
+        "JuanchengLateHan",
+        "LyuBu",
+        "PowerEtiquetteReading",
+        "PuyangLateHan",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianFengLateHan",
+        "XiahouDun",
+        "XingshiqingStrategicAssessment",
+        "XunYu",
+        "YanzhouLateHan",
+        "YuanShao",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr"
+      ]
+    },
     {
       "id": "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
       "primary_topic": "governance-and-institutions",
