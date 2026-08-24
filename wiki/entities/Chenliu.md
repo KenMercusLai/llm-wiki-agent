@@ -2,8 +2,8 @@
 title: "陈留 / Chenliu"
 type: entity
 tags: [place, qin, chu-han, logistics, surrender]
-sources: [zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
-last_updated: 2026-08-22
+sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
+last_updated: 2026-08-24
 ---
 
 # 陈留 / Chenliu
@@ -14,9 +14,12 @@ Li Shiqi first tries to persuade Chenliu's local head to surrender through perso
 
 After entering Chenliu, Liu Bang distributes stored weapons and grain, stays for nearly three months, and recruits tens of thousands of soldiers. The city therefore marks the logistical bridge between his earlier smaller rebel line and his more credible westward campaign under [[HuaiwangAgreement|怀王之约]].
 
+[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds a late-Han use. [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], and [[GaoRouLateHan|高柔]] are all tied to Chenliu in the source, making the place part of the local elite field behind [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis rather than only a Chu-Han logistics hub.
+
 ## Connections
 - [[LiShiqi|郦食其]] - adviser and insider whose strategy makes Chenliu the next target.
 - [[LiuBang|刘邦]] - commander who gains supplies, weapons, and recruits there.
 - [[LiShang|郦商]] - Li Shiqi's brother, appointed after the Chenliu success.
 - [[PoliticalSurrenderCascade|招降示范级联]] and [[LowStatusStrategicPersuasion|低位者战略说服]] - mechanisms around the city.
 - [[GuanzhongRegion|关中]] and [[HuaiwangAgreement|怀王之约]] - larger westward objective for which Chenliu becomes a preparation base.
+- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - late-Han local elite cluster.

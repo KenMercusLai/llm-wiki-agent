@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？](sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd.md) — 芮淇讲透资治通鉴 episode on why Zhang Miao and Chen Gong betray Cao Cao: old friendship collapses under Yuan Shao pressure, Lü Bu opportunity, Bian Rang's killing, and Yanzhou local-elite fear.
 - [《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？](sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr.md) — 芮淇讲透资治通鉴 episode on Xun Yu detecting Zhang Miao and Chen Gong's Yanzhou rebellion from wording and route clues, recalling Xiahou Dun to stabilize Juancheng, and contrasting Tian Feng's warning under Yuan Shao.
 - [696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)](sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496.md) — The Rest Is History episode on the Babington Plot, Walsingham's spy network, Mary's Fotheringhay trial and execution, Elizabeth's warrant hesitation, and escalation toward the Spanish Armada.
 - [《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？](sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x.md) — 芮淇讲透资治通鉴 episode on Three Kingdoms advisers as state architects: Xun Yu's legitimacy and talent system, Liu Bei's Zhuge Liang/Fa Zheng upgrade, Yuan Shao's wasted Hebei advisers, and the setup for dark adviser craft.
@@ -1398,6 +1399,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [边让 / Bian Rang (Late Han)](entities/BianRangLateHan.md) — Chenliu scholar-official whose killing is treated by Hanji 974 as the deeper trigger for Yanzhou local-elite fear before Zhang Miao and Chen Gong betray Cao Cao.
+- [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
+- [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
+- [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
+- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander used by Hanji 974 as a marker of Cao Cao's post-Yanzhou-betrayal move toward tighter core military control.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
@@ -1457,7 +1463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张英 / Zhang Ying (late Han)](entities/ZhangYingLateHan.md) — Liu Yao officer guarding Danglikou against Yuan Shu's side.
 - [当利口 / Danglikou (late Han)](entities/DanglikouLateHan.md) — Liu Yao defensive position held by Zhang Ying.
 - [惠衢 / Hui Qu (late Han)](entities/HuiQuLateHan.md) — Yuan Shu's counter-appointee for Yangzhou during the clash with Liu Yao.
-- [兖州 / Yanzhou (Late Han)](entities/YanzhouLateHan.md) — Cao Cao's contested root base in Hanji 987, later formalized through the Yongqiu/Yanzhou branch and remembered through the Zhang Miao-Zang Hong aftershock.
+- [兖州 / Yanzhou (Late Han)](entities/YanzhouLateHan.md) — Cao Cao's contested root base whose crisis begins with local-elite fear around Bian Rang, then moves through Zhang Miao/Chen Gong's Lü Bu invitation, remaining-city defense, and recovery.
 - [定陶之战 (195 CE) / Dingtao Battle (Late Han)](entities/DingtaoBattleLateHan.md) — Late-Han battle where Cao Cao uses terrain and伏兵 to defeat Lü Bu after choosing to secure Yanzhou.
 - [严氏 / Lady Yan (Lü Bu)](entities/LadyYanLyuBu.md) — Lü Bu's wife in Hanji 987's reception scene, where seating Liu Bei on her bed marks a public/private etiquette breach.
 - [郭图 / Guo Tu](entities/GuoTu.md) — Yuan Shao adviser who opposes Ju Shou's plan to welcome Emperor Xian because hosting the sovereign would constrain later decisions.
@@ -1497,7 +1503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五斗米道 / Wudoumi Dao](entities/WudoumiDao.md) — Zhang Lu's religiously organized system, used as a bounded comparator for late-Han religious power.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
-- [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Zhang Chao's brother, invoked because Yuan Shao's claimed brotherhood with him becomes Zang Hong's rescue-demand argument, while Cao Cao's hostility supplies the siege background.
+- [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Cao Cao's trusted friend turned Yanzhou betrayer, later remembered through Zhang Chao and Zang Hong's failed-rescue grievance.
 - [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han writer used by Yuan Shao in Hanji 996 to persuade Zang Hong before the East Commandery siege hardens.
 - [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who appears as a refuge in Hanji 996 and as a lower-priority Jiangdong threat in Hanji 1004.
@@ -1779,7 +1785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
 - [淮南 / Huainan Region](entities/HuainanRegion.md) — Late-Han regional frame around Yuan Shu's Shouchun base, disambiguated from other Huainan kingdom pages.
-- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose Zang Hong rescue refusal, status resentment, Guo Jia rejection, Gongsun Zan war, and formal Han-court appointments structure multiple late-Han branches.
+- [袁绍 / Yuan Shao](entities/YuanShao.md) — Late-Han northern power whose hostility toward Zhang Miao, grain-warning branch, Zang Hong rescue refusal, status resentment, Guo Jia rejection, and formal Han-court appointments structure multiple late-Han branches.
 - [金尚 / Jin Shang](entities/JinShang.md) — Late-Han official killed after refusing Yuan Shu's taiwei title, used by Hanji 1016 as a title-risk and survival-pacing caution.
 - [韩胤 / Han Yin (late Han)](entities/HanYinLateHan.md) — Yuan Shu envoy whose Lü Bu marriage mission collapses after Chen Gui's warning, ending with execution at Cao Cao's court.
 - [陈登 / Chen Deng](entities/ChenDeng.md) — Late-Han official whose Hanji 1016-1018 branch moves from Yuan Shu hostage leverage into Cao Cao's Guangling appointment and Lü Bu management.
@@ -1824,10 +1830,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙坚 / Sun Jian (late Han)](entities/SunJianLateHan.md) — Sun Ce's father, disambiguated from the modern researcher page, whose Wu Cheng marquis title is inherited in Hanji 1019.
 - [陈瑀 / Chen Yu (Wu commandery)](entities/ChenYuWuCommandery.md) — Wu commandery governor whose planned attack on Sun Ce is detected and preempted, distinct from Chu-Han Chen Yu.
 - [张闿 / Zhang Kai (assassin)](entities/ZhangKaiAssassin.md) — Yuan Shu's assassin who uses false surrender to kill Liu Chong and Luo Jun.
-- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from Hao Meng's internal revolt and factional non-punishment into 辕门射戟 mediation, Liu Bei conflict, alliance reversal, and ignored loyal advice.
+- [吕布 / Lü Bu](entities/LyuBu.md) — Late-Han military leader whose branch runs from the Zhang Miao alliance and Yanzhou entry into Puyang, Hao Meng's revolt, 辕门射戟 mediation, Liu Bei conflict, and ignored loyal advice.
 - [郝萌 / Hao Meng](entities/HaoMeng.md) — Lü Bu subordinate whose Xiapi night revolt exposes the fragility of Lü Bu's command before Gao Shun and Cao Xing suppress it.
 - [曹性 / Cao Xing (late Han)](entities/CaoXingLateHan.md) — Hao Meng subordinate who turns against the revolt, wounds Hao Meng, and accuses Yuan Shu and Chen Gong of involvement.
-- [陈宫 / Chen Gong (late Han)](entities/ChenGongLateHan.md) — Adviser-faction figure whose alleged link to Hao Meng's revolt is left unpunished because Lü Bu needs his Yanzhou士族 counterweight.
+- [陈宫 / Chen Gong (late Han)](entities/ChenGongLateHan.md) — Yanzhou elite/adviser figure who helps invite Lü Bu against Cao Cao and later remains a gentry counterweight Lü Bu cannot easily discard.
 - [张辽 / Zhang Liao](entities/ZhangLiao.md) — Bingzhou-origin Lü Bu subordinate used in Hanji 1000 as part of the military-core faction balancing Chen Gong's gentry channel.
 - [高顺 / Gao Shun](entities/GaoShun.md) — Loyal Lü Bu subordinate whose suppression of Hao Meng's revolt, disciplined 陷阵营, and ignored warning sharpen Lü Bu's personnel-judgment failure.
 - [魏续 / Wei Xu (late Han)](entities/WeiXuLateHan.md) — Lü Bu's trusted subordinate contrasted with Gao Shun through troop transfer, command dependence, and later betrayal risk.
@@ -8620,6 +8626,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.
+- [Personal Trust Political Fragility / 私交信任的政治脆弱性](concepts/PersonalTrustPoliticalFragility.md) — Hanji 974 pattern where real friendship and family entrustment fail once survival fears, alliance pressure, and local security no longer align.
 - [Detail-Based Crisis Detection / 细节式危机识别](concepts/DetailBasedCrisisDetection.md) — Crisis-reading method where small clues in titles, routes, timing, and rear-area behavior expose a political break before formal declaration.
 - [Tudor Succession Crisis](concepts/TudorSuccessionCrisis.md) — Dynastic-security pattern where Mary Stuart's Catholic claim turns assassination, foreign support, and English succession into one crisis.
 - [Spy Network Entrapment](concepts/SpyNetworkEntrapment.md) — Intelligence pattern where a supposedly secure channel is controlled, read, and turned into usable evidence.
@@ -8627,7 +8635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Political Trial Theatre](concepts/PoliticalTrialTheatre.md) — Use of court procedure, space, hierarchy, and evidence staging to make a contested judgment authoritative.
 - [Martyrdom Staging](concepts/MartyrdomStaging.md) — Use of ritual, dress, prayer, and composure to turn execution into symbolic testimony.
 - [Confessional War Escalation](concepts/ConfessionalWarEscalation.md) — Pattern where religious identity, dynastic legitimacy, and interstate rivalry make local security decisions feed wider war.
-- [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 976 frame for advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity rather than only clever plan-makers.
+- [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 974-976 frame for post-crisis organizational repair and advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where armed commanders use kaifu-style offices and appointment access to hollow out the court's normal selection order.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
@@ -8636,7 +8644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Elite Proxy Selection / 地方豪强代理人选择](concepts/LocalEliteProxySelection.md) — Late-Han Xuzhou pattern where local elites choose a legitimate, weaker proxy over a stronger outsider likely to absorb them.
 - [Kinship Resource State-Building / 姻亲资源建构](concepts/KinshipResourceStateBuilding.md) — Pattern where marriage and maternal kinship turn local gentry, trade, geographic knowledge, and soldiers into state-building capacity.
 - [Promise Credibility and Talent Retention / 承诺信用与人才流失](concepts/PromiseCredibilityTalentRetention.md) — Hanji 983 pattern where Yuan Shu's repeated office-promise reversals make Sun Ce's later exit from his camp intelligible as a trust failure.
-- [Root-Base Priority / 根本根据地优先](concepts/RootBasePriority.md) — Xun Yu's Hanji 987 principle that Cao Cao must secure Yanzhou's harvest, people, rear safety, and fallback capacity before chasing Xuzhou.
+- [Root-Base Priority / 根本根据地优先](concepts/RootBasePriority.md) — Yanzhou branch principle that a base must keep local security, harvest, people, rear safety, and fallback capacity before outward expansion.
 - [Status-Filtered Talent Misrecognition / 门第筛选式人才误判](concepts/StatusFilteredTalentMisrecognition.md) — Hanji 993 personnel failure where status, reputation anxiety, and elite judgment block available talent from receiving usable authority.
 - [Operational Gap Ownership / 主动补组织短板](concepts/OperationalGapOwnership.md) — Management pattern where a capable subordinate notices an organizational gap and voluntarily takes responsibility for unglamorous execution work.
 - [Subordinate Success Non-Jealousy / 下属成就不嫉妒](concepts/SubordinateSuccessNonJealousy.md) — Leadership pattern where a leader treats a subordinate's reputation and credit as organizational strength rather than personal threat.
@@ -8764,7 +8772,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Hanji 1006 Man Chong/Cao Hong pattern where Cao Cao backs legal enforcement against kinship-backed clients to discipline clan privilege and reassure officials.
-- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, turning displaced labor, land, offices, and storage into campaign grain capacity.
+- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Hanji 1008 concept for Cao Cao's state-directed agricultural logistics, with Hanji 974 preserving a source-scoped earlier land-pressure prehistory around Bian Rang.
 - [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.
 - [Credible Force-Display Deterrence / 可信武力展示威慑](concepts/CredibleForceDisplayDeterrence.md) — Hanji 1008辕门射戟 pattern where a bounded public display of force makes rival parties believe intervention is credible enough to withdraw.
 - [Threat-Driven Alliance Reversal / 威胁感驱动的同盟反转](concepts/ThreatDrivenAllianceReversal.md) — Hanji 1009 pattern where Lü Bu turns on Liu Bei after Liu Bei's growing force makes a recent ally look like a future threat.
@@ -8858,7 +8866,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
-- [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern where Lü Bu avoids punishing Chen Gong after Hao Meng's revolt because military and gentry factions are mutually necessary.
+- [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern whose Yanzhou gentry channel begins in the anti-Cao coalition and later constrains Lü Bu after Hao Meng's revolt.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.
 - [Outsider Talent Signaling / 厚待外来人才信号](concepts/OutsiderTalentSignaling.md) — Publicly empowering new non-hometown talent as a recruitment signal to other mobile actors and sustaining that signal through insider backlash.

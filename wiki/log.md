@@ -11130,6 +11130,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao's Puyang tra
 
 Ran lint. Report was printed but not saved to lint-report.md.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？
+
+Added source page for a 芮淇讲透资治通鉴 episode explaining Zhang Miao and Chen Gong's betrayal of Cao Cao through old friendship, Yuan Shao pressure, Lü Bu's alliance opportunity, Bian Rang's killing, and Yanzhou local-elite fear. Created pages for Bian Rang, Gao Rou, Xu Si, Wang Kai, Cao Ren, local elite security panic, and personal trust political fragility; updated the Yanzhou/Cao/Lü/Yuan/Zhang/Chen pages and related strategy concepts. No settled contradiction found; the Bian Rang chronology and early屯田/land-clearance explanation are kept source-scoped.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？
 
 Added source `zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis`. Key claims: Cheng Yu and Zao Zhi preserve Cao Cao's remaining Yanzhou base through Cangting and Dong'e defense; Chang'an court selection is captured by kaifu warlord offices; Emperor Xian detects relief-grain fraud but cannot restore systemic control.

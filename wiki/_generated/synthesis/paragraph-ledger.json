@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
       "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
       "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
       "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
@@ -183,11 +184,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 181
+    "paragraph_count": 182
   },
-  "overview_commit": "71f47af1c24902dc079e6bd42f6d9d9b85bcc632",
-  "overview_digest": "b499976d9856449e01956dc86a0c00aa93f16e3ce2948abe3e7ae20e8928158d",
+  "overview_commit": "1b6e60e15051d51d74b5a6744297ae179a7bd3bb",
+  "overview_digest": "7ebf86f2237942194dbcce819d406e584bac66623e02853ad99bc9c9c501cc0d",
   "paragraphs": [
+    {
+      "id": "468bd0b926e3be4003fe067f28f42167482ec54aae7661e35312efac3e23a3cf",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the causal layer before [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]]'s Yanzhou warning scene. It adds [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], [[XuSiLateHan|许汜]], [[WangKaiLateHan|王楷]], [[CaoRen|曹仁]], [[LocalEliteSecurityPanic|地方士族安全恐慌]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]], while extending [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[YuanShao|袁绍]], [[YanzhouLateHan|兖州]], [[Chenliu|陈留]], [[TuntianSystem|屯田制]], [[AdviserStateArchitecture|谋士政权架构]], [[RootBasePriority|根本根据地优先]], and [[LyuBuFactionalBalance|吕布集团派系平衡]]. Its core synthesis is that Cao Cao's Yanzhou collapse begins before the open rebellion: deep personal trust with Zhang Miao cannot survive Yuan Shao pressure, Lü Bu's alliance opening, and the local elite security panic triggered by Bian Rang's killing. No settled contradiction is recorded; Bian Rang chronology and the early屯田/land-clearance explanation remain source-scoped against the later formal屯田 account.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "BianRangLateHan",
+        "CaoCao",
+        "CaoRen",
+        "ChenGongLateHan",
+        "Chenliu",
+        "GaoRouLateHan",
+        "LocalEliteSecurityPanic",
+        "LyuBu",
+        "LyuBuFactionalBalance",
+        "PersonalTrustPoliticalFragility",
+        "RootBasePriority",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "WangKaiLateHan",
+        "XuSiLateHan",
+        "YanzhouLateHan",
+        "YuanShao",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+        "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr"
+      ]
+    },
     {
       "id": "881c366b929c1022e006a1fb9b471edbcadb836cf500e8c775d88eaac6af599e",
       "primary_topic": "history-and-geopolitics",

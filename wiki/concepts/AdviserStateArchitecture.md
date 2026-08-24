@@ -2,11 +2,13 @@
 title: "Adviser State Architecture / 谋士政权架构"
 type: concept
 tags: [statecraft, advisers, legitimacy, logistics, talent, three-kingdoms]
-sources: [zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
+sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]
 last_updated: 2026-08-24
 ---
 
 # Adviser State Architecture / 谋士政权架构
+
+[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds the negative stimulus behind Cao-side adviser architecture. The episode says the [[YanzhouLateHan|兖州]] betrayal teaches [[CaoCao|曹操]] that relying on a narrow local cluster is unsafe: after [[ZhangMiaoLateHan|张邈]] and [[ChenGongLateHan|陈宫]] turn, Cao Cao has to widen talent intake while making core military control more reliable through kin-commanders such as [[XiahouDun|夏侯惇]] and [[CaoRen|曹仁]].
 
 Adviser state architecture / 谋士政权架构 is the high-level frame [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] gives to Three Kingdoms advisers. The source argues that a top adviser does not merely supply clever tactics; the adviser helps turn a ruler's force, reputation, people, food, and title claims into a repeatable political system.
 
@@ -19,6 +21,7 @@ The Liu Bei and Yuan Shao contrasts set the boundary. [[ZhugeLiang|诸葛亮]] a
 This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft names the morally ambiguous and hidden techniques developed in Hanji 977. Adviser state architecture names the visible system-building layer that makes those or any other techniques politically consequential.
 
 ## Key Claims
+- Hanji 974 adds that adviser-state architecture can be a post-crisis repair: after a local coalition betrayal, the regime needs broader talent channels and clearer military control.
 - Hanji 975 frames adviser capacity as more than cleverness: warning has to become action inside a ruler's organization.
 - Advisers can design legitimacy, talent channels, logistics, and strategy, not only individual plots or battle plans.
 - The same ruler may need multiple adviser roles: legitimizer, organizer, risk taker, gap filler, and tactical planner.
@@ -27,6 +30,7 @@ This differs from [[DarkAdviserCraft|毒士灰度谋略]]. Dark adviser craft na
 - The frame should remain source-scoped where Hanji 976 uses compressed metaphors rather than detailed evidentiary narration.
 
 ## Connections
+- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[YanzhouLateHan|兖州]], [[XiahouDun|夏侯惇]], and [[CaoRen|曹仁]] - post-betrayal organizational repair frame.
 - [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[XunYu|荀彧]], [[TianFengLateHan|田丰]], [[ZhangMiaoLateHan|张邈]], [[YuanShao|袁绍]], [[DetailBasedCrisisDetection|细节式危机识别]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - setup question about whether adviser wisdom becomes executable state capacity.
 - [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] - source episode.
 - [[XunYu|荀彧]], [[CaoCao|曹操]], [[GuoJia|郭嘉]], [[ChengYu|程昱]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[TuntianSystem|屯田制]] - Cao-side system architecture branch.
