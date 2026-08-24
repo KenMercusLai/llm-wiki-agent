@@ -11223,6 +11223,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？
+
+Added source page for a 芮淇讲透资治通鉴 episode on discreet help and dignity, Wang Yun's failed post-Dong-Zhuo amnesty and reassurance policy, Niu Fu's victory followed by camp panic and death, and Jia Xu's advice that redirects Li Jue and Guo Si from dispersal toward Chang'an. Created pages for Niu Fu, Li Su, discreet benefaction dignity, and military camp panic; updated connected late-Han actors and survival/assessment/dignity concepts. No settled contradiction found; the charity psychology, camp-panic examples, and Wang Yun character diagnosis are kept source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导
 
 Added source page for a 芮淇讲透资治通鉴 episode on Jia Xu's advice to Dong Zhuo remnant commanders, Wang Yun's failed Liangzhou-channel crisis diplomacy, Chang'an's fall, Lü Bu's escape, and Song Yi/Wang Hong's split over whether to obey a captured-court summons. Created late-Han pages for Huang Wan, Hu Wencai, Yang Zhengxiu, Song Yi, Wang Hong, Zhao Jian, and rigid-obedience crisis failure; updated connected late-Han actors and legitimacy/strategy concepts. No settled contradiction found; the Jin Ping Mei opening and strong character judgments are kept source-scoped.
@@ -11230,6 +11234,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Jia Xu's advice to D
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Shi Sunrui's hidden anti-Dong-Zhuo merit, Jia Xu's Chang'an counterattack advice and reward refusal, Li-Guo plunder, captured-court title reshuffle around Liu Biao and Huangfu Song, and Lü Bu's flight through Yuan Shu, Zhang Yang, and Yuan Shao. Created Wang Yun, Huangfu Song, merit-concealment self-protection, and executor-character advice-risk pages; updated connected late-Han actors and survival/legitimacy concepts. No settled contradiction found; Jia Xu's guilt/repair arc and the host's self-cultivation analogies are kept source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

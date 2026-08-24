@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
       "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
       "20015ac40fc97615f03dd1f39a19198380bb9a90d728cec17fb20518c795c2eb",
       "08f0e7cf003b33bdc1d955ea88a6411df6e22ae7ea6def4276c2e27246458f06",
@@ -190,11 +191,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 188
+    "paragraph_count": 189
   },
-  "overview_commit": "e701af195f961897462086701c2fc6d82b41967b",
-  "overview_digest": "9664ff5e40c56f26c9004a08e7b4841f161364f4adbe2ad23abe7c5f4b76f959",
+  "overview_commit": "aade3ba30fcbfe6f953fd9c61b9ab004d29a6b30",
+  "overview_digest": "087ec622633da303346464052ea96fcd658a244d0c4ddc4b16565eb468e71680",
   "paragraphs": [
+    {
+      "id": "13bb74c10bb6be96e88c5074353635135d571d9d5b14cbad9e0f4f01c1b71ba2",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] crisis after [[DongZhuo|董卓]]'s death. It adds [[NiuFuLateHan|牛辅]], [[LiSuLateHan|李肃]], [[DiscreetBenefactionDignity|沉默施恩的尊严保护]], and [[MilitaryCampPanic|军营夜惊群体恐慌]], while extending [[WangYunLateHan|王允]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[LyuBu|吕布]], [[HuangfuSongLateHan|皇甫嵩]], [[LiangzhouWarlordClique|凉州系军阀]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[ExecutorCharacterAdviceRisk]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[SituationalCharacterTests|五观识人法]], and [[DignityThroughSmallGifts|小礼物中的尊严]]. Its core synthesis is that Wang Yun's moral victory over Dong Zhuo fails to become a settlement: public virtue turns arrogant, amnesty and reassurance fail, frightened remnants keep troops as life insurance, Niu Fu's night-fright death exposes camp instability, and Jia Xu's survival advice becomes plausible precisely because the defeated side has no credible safe exit. No settled contradiction is recorded; the charity/dignity opening, cross-historical camp-panic examples, and Wang Yun character diagnosis remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "DignityThroughSmallGifts",
+        "DiscreetBenefactionDignity",
+        "DongZhuo",
+        "ExecutorCharacterAdviceRisk",
+        "GuoSiLateHan",
+        "HuangfuSongLateHan",
+        "JiaXu",
+        "LiJueLateHan",
+        "LiSuLateHan",
+        "LiangzhouWarlordClique",
+        "LyuBu",
+        "MilitaryCampPanic",
+        "NiuFuLateHan",
+        "PoliticalSurvivalFirst",
+        "RuiqiJiangtouZizhiTongjian",
+        "SituationalCharacterTests",
+        "WangYunLateHan",
+        "XingshiqingStrategicAssessment",
+        "zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q",
+        "zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u"
+      ]
+    },
     {
       "id": "b7b25839b604bc48e82b35c9a66e22fdad42e28e4b284fb94b772bffffd6610f",
       "primary_topic": "governance-and-institutions",

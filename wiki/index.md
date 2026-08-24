@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》965丨帮过别人的忙，为什么要少提？](sources/zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q.md) — 芮淇讲透资治通鉴 episode on discreet help and dignity, Wang Yun's failed amnesty/reassurance policy toward Dong Zhuo's Liangzhou remnants, Niu Fu's camp panic, and Jia Xu redirecting Li Jue and Guo Si toward Chang'an.
 - [《资治通鉴·汉纪》966丨没有野心，不懂权谋，就别当领导](sources/zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u.md) — 芮淇讲透资治通鉴 episode on Jia Xu's advice to Dong Zhuo remnants, Wang Yun's failed crisis diplomacy, Chang'an's fall, Lü Bu's escape, and Song Yi/Wang Hong's divergent readings of a captured-court summons.
 - [《资治通鉴·汉纪》967丨他参与谋杀董卓，竟能逃过死神围猎？](sources/zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3.md) — 芮淇讲透资治通鉴 episode on Shi Sunrui's hidden anti-Dong-Zhuo merit, Jia Xu's Chang'an counterattack advice and reward refusal, Li-Guo plunder, Liu Biao/Huangfu Song title reshuffle, and Lü Bu's flight through Yuan Shu, Zhang Yang, and Yuan Shao.
 - [《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋](sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj.md) — 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's legitimacy-logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel.
@@ -1414,7 +1415,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宏 / Wang Hong (late Han)](entities/WangHongLateHan.md) — Official who sees Li-Guo's summons as a trap and proposes using outside troops before being pulled down by Song Yi's compliance.
 - [赵戬 / Zhao Jian (late Han)](entities/ZhaoJianLateHan.md) — Former Wang Yun subordinate who risks collecting and burying Wang Yun's body after the Chang'an executions.
 - [王允 / Wang Yun (late Han)](entities/WangYunLateHan.md) — Late-Han official who takes public credit after Dong Zhuo's killing, clarifying Shi Sunrui's hidden-merit survival case.
-- [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han taiwei whose dismissal in Hanji 967 marks the captured Chang'an court's appointment/removal power.
+- [皇甫嵩 / Huangfu Song (late Han)](entities/HuangfuSongLateHan.md) — Late-Han taiwei whose proposed troop-reassurance role is rejected by Wang Yun before his later dismissal marks captured-court appointment/removal power.
+- [牛辅 / Niu Fu (late Han)](entities/NiuFuLateHan.md) — Dong Zhuo son-in-law whose victory over Li Su is followed by camp panic, flight, and death.
+- [李肃 / Li Su (late Han)](entities/LiSuLateHan.md) — Lü Bu officer defeated by Niu Fu near Shan County and executed after the failed mission.
 - [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
 - [青州 / Qingzhou (late Han)](entities/QingzhouLateHan.md) — Late-Han province whose Hanji 968 surrender population helps form Cao Cao's Qingzhou Soldiers and whose Hanji 969 proxy war becomes famine.
 - [青州兵 / Qingzhou Soldiers](entities/QingzhouSoldiers.md) — Cao Cao's elite force formed from the Qingzhou Yellow Turban surrender, paired in Hanji 968 with farming and supply conversion.
@@ -8674,6 +8677,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Discreet Benefaction Dignity / 沉默施恩的尊严保护](concepts/DiscreetBenefactionDignity.md) — Frame where help preserves dignity by avoiding public display, gratitude extraction, and repeated reminders of dependence.
+- [Military Camp Panic / 军营夜惊群体恐慌](concepts/MilitaryCampPanic.md) — Command-and-morale pattern where stress, rumor, sleep, environment, and camp design shape collective panic.
 - [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.
 - [Merit Concealment Self-Protection](concepts/MeritConcealmentSelfProtection.md) — Hanji 967 pattern where dangerous public credit is left unclaimed so survival and clan continuity are protected.
 - [Executor Character Advice Risk](concepts/ExecutorCharacterAdviceRisk.md) — Hanji 967 pattern where sound survival advice becomes destructive when violent executors gain coercive power.

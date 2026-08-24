@@ -2,11 +2,15 @@
 title: "王允 / Wang Yun (late Han)"
 type: entity
 tags: [late-han, official, dong-zhuo-aftermath, chang-an]
-sources: [zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 王允 / Wang Yun (late Han)
+
+[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] adds the decision layer immediately before Wang Yun's final crisis. After [[DongZhuo|董卓]] is killed, Wang Yun reverses himself on amnesty for Dong Zhuo's [[LiangzhouWarlordClique|凉州系军阀]] soldiers and rejects a reassurance plan involving [[HuangfuSongLateHan|皇甫嵩]]. The episode treats these moves as practical failures: without credible pardon, command arrangement, or dignity-preserving settlement, the remnant commanders read disbanding as exposure to slaughter.
+
+This source sharpens the page's arrogance diagnosis. Wang Yun's loyalty is not denied, but his post-success posture makes him unwilling to design a safety path for defeated enemies or listen to stabilizing advice. That misread of fear becomes the condition under which [[JiaXu|贾诩]] can persuade [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] to attack [[ChangAnHanCapital|长安]].
 
 [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] backfills Wang Yun's final crisis before Hanji 967's hidden-merit contrast. After [[JiaXu|贾诩]]'s advice sends [[LiJueLateHan|李傕]] and other [[DongZhuo|董卓]] remnant commanders toward [[ChangAnHanCapital|长安]], Wang Yun tries to use [[HuWencaiLateHan|胡文才]] and [[YangZhengxiuLateHan|杨整修]] as Liangzhou influence channels but mishandles the appeal through arrogance. Once Chang'an falls, he refuses [[LyuBu|吕布]]'s invitation to flee because he will not abandon [[EmperorXianOfHan|汉献帝]].
 
@@ -18,6 +22,7 @@ The host's source-scoped evaluation is severe: Wang Yun is treated as lacking po
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[HuangfuSongLateHan|皇甫嵩]], [[LiangzhouWarlordClique|凉州系军阀]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - pre-collapse amnesty, reassurance, and arrogance layer.
 - [[DongZhuo]] - Wang Yun becomes publicly associated with Dong Zhuo's killing.
 - [[LyuBu]] - Lü Bu also claims merit for killing Dong Zhuo, but weaponizes it differently in later host relationships.
 - [[ShiSunRuiLateHan]] - Shi Sunrui's non-claiming of credit is interpreted through contrast with Wang Yun's visibility.

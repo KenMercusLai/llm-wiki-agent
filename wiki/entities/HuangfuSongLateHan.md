@@ -2,11 +2,13 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources: [zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
+
+[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] gives Huangfu Song a practical reassurance role before the later title-removal note. Someone proposes that he command or settle Dong Zhuo's old troops near Shan County so Liangzhou soldiers feel safer and the court retains a guard against Guandong uncertainty. [[WangYunLateHan|王允]] rejects the plan, turning Huangfu Song into a missed stabilizing channel rather than an active executor.
 
 Huangfu Song appears in [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] as the taiwei removed during the post-[[DongZhuo|Dong Zhuo]] Chang'an reshuffle. The episode does not develop his biography; his significance here is structural, marking how the court under [[LiJueLateHan|Li Jue]] and [[GuoSiLateHan|Guo Si]] control could still issue and revoke high offices.
 
@@ -14,6 +16,7 @@ His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan genera
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[WangYunLateHan|王允]], and [[LiangzhouWarlordClique|凉州系军阀]] - proposed reassurance channel for Dong Zhuo's old troops.
 - [[EmperorXianOfHan]] - the imperial court remains the formal source of titles and removals.
 - [[ChangAnHanCapital]] - Huangfu Song's removal belongs to the court reshuffle after Chang'an's capture.
 - [[LiuBiao]] - Liu Biao's appointment is paired with Huangfu Song's removal in the source sequence.
