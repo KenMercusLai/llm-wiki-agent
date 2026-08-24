@@ -11145,3 +11145,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on disorder-era adviser
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？
 
 Added source page for a 芮淇讲透资治通鉴 episode on Three Kingdoms advisers as state architects rather than only idea providers. Created pages for adviser state architecture, late-Han Tian Feng, and late-Han Xu You; updated Xun Yu, Cao Cao, Liu Bei, Yuan Shao, Zhuge Liang, Fa Zheng, Guo Jia, Ju Shou, Cheng Yu, Zhong Yao, Chen Yinke, and connected legitimacy/tuntian/talent/dark-adviser concept pages. No settled contradiction found; the episode's broad adviser metaphors and transcript "陈玉" wording are kept source-scoped.
+
+## [2026-08-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
