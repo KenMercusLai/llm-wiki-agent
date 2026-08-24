@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
       "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
       "c4f37fe41ccb40d5fc6468164fc9d3c7866030f8f6ad8a452281e153c2e436e8",
       "0bf73492bacd0b1245dc3c3515daa57be1572f90b11b56b9b8ad51352383debe",
@@ -181,11 +182,49 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 179
+    "paragraph_count": 180
   },
-  "overview_commit": "2664df6936e10de11b9d27019b0aeab72fe5940b",
-  "overview_digest": "8510931728df528d7c96f0bdc882883c39e82fc226272cb43e022643f4ec357d",
+  "overview_commit": "a4b17ad1a16013a1d988c1bd49419fd7f5f7c5da",
+  "overview_digest": "2ba9441fac10e51866e6d3428acc4970ee9b2c7d9281cd144462b349adf92814",
   "paragraphs": [
+    {
+      "id": "39cf898807e53a4543780018389a9db47ac8ff2460e27808a362b36305f43332",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496]], a [[TheRestIsHistory]] episode on [[MaryQueenOfScots|Mary, Queen of Scots]]' final months through the [[BabingtonPlot]], [[FrancisWalsingham]]'s [[SpyNetworkEntrapment|spy-network trap]], and execution at [[FotheringhayCastle]]. It adds [[MaryQueenOfScots]], [[ElizabethI]], [[FrancisWalsingham]], [[WilliamCecil]], [[AnthonyBabington]], [[GilbertGifford]], [[ThomasPhillips]], [[AmiasPaulet]], [[ChartleyManor]], [[FotheringhayCastle]], [[BabingtonPlot]], [[ActForTheQueensSafety]], [[SpanishArmada]], [[TudorSuccessionCrisis]], [[SpyNetworkEntrapment]], [[RoyalExecutionLegitimacy]], [[PoliticalTrialTheatre]], [[MartyrdomStaging]], and [[ConfessionalWarEscalation]], while extending [[TheRestIsHistory]], [[England]], and [[Spain]]. Its core synthesis is that Mary's execution is presented as the convergence of succession danger, confessional fear, intelligence method, legal mechanism, and scaffold symbolism: Walsingham's operation turns correspondence into evidence, Burleigh uses law to force the decision, Elizabeth hesitates over the precedent of killing an anointed queen, and Mary converts execution into Catholic martyrdom before the conflict widens toward the Spanish Armada. No settled contradiction is recorded; the new Armada link complements the existing [[England]] and [[SpanishArmada]] branch rather than replacing it with a single-cause explanation.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496",
+        "ActForTheQueensSafety",
+        "AmiasPaulet",
+        "AnthonyBabington",
+        "BabingtonPlot",
+        "ChartleyManor",
+        "ConfessionalWarEscalation",
+        "ElizabethI",
+        "England",
+        "FotheringhayCastle",
+        "FrancisWalsingham",
+        "GilbertGifford",
+        "MartyrdomStaging",
+        "MaryQueenOfScots",
+        "PoliticalTrialTheatre",
+        "RoyalExecutionLegitimacy",
+        "Spain",
+        "SpanishArmada",
+        "SpyNetworkEntrapment",
+        "TheRestIsHistory",
+        "ThomasPhillips",
+        "TudorSuccessionCrisis",
+        "WilliamCecil"
+      ]
+    },
     {
       "id": "49662adfb5f2aed366facef1edd88ee65c6e9a0abcc7db911b6cebee939fa4c9",
       "primary_topic": "history-and-geopolitics",

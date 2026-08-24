@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)](sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496.md) — The Rest Is History episode on the Babington Plot, Walsingham's spy network, Mary's Fotheringhay trial and execution, Elizabeth's warrant hesitation, and escalation toward the Spanish Armada.
 - [《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？](sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x.md) — 芮淇讲透资治通鉴 episode on Three Kingdoms advisers as state architects: Xun Yu's legitimacy and talent system, Liu Bei's Zhuge Liang/Fa Zheng upgrade, Yuan Shao's wasted Hebei advisers, and the setup for dark adviser craft.
 - [《资治通鉴·汉纪》977丨亦正亦邪：乱世毒士的诡谲风云](sources/zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee.md) — 芮淇讲透资治通鉴 episode on dark adviser craft through Jia Xu, Zhuge Liang, Fa Zheng, and Cheng Yu: false information, moral pressure, selective briefing, legal revenge, and stigma absorption.
 - [《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？](sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv.md) — 芮淇讲透资治通鉴 episode on Xun Yu calmly deterring Guo Gong at Juancheng, Cheng Yu stabilizing Fan County and Dong'e, and Jin Yun's family-hostage loyalty dilemma.
@@ -1396,6 +1397,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
+- [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
+- [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
+- [William Cecil / Lord Burleigh](entities/WilliamCecil.md) — Elizabeth's senior minister pressing to convert Mary's danger into legal execution through the Act for the Queen's Safety.
+- [Anthony Babington](entities/AnthonyBabington.md) — Catholic conspirator whose assassination-release-invasion plan gives the Babington Plot its name.
+- [Gilbert Gifford](entities/GilbertGifford.md) — Turned Catholic courier whose beer-barrel route lets Walsingham read Mary's correspondence.
+- [Thomas Phillips](entities/ThomasPhillips.md) — Walsingham cryptanalyst who decrypts Mary's reply and marks it as the "bloody letter."
+- [Amias Paulet](entities/AmiasPaulet.md) — Strict jailer of Mary at Chartley Manor who refuses to kill her privately without law or warrant.
+- [Chartley Manor](entities/ChartleyManor.md) — Mary Stuart captivity site where the controlled beer-barrel correspondence channel operates.
+- [Fotheringhay Castle](entities/FotheringhayCastle.md) — Secure trial and execution site for Mary, Queen of Scots.
+- [Babington Plot](entities/BabingtonPlot.md) — 1586 conspiracy linking Elizabeth's assassination, Mary's release, Catholic rising, and foreign invasion.
+- [Act for the Queen's Safety](entities/ActForTheQueensSafety.md) — 1585 law used to try claimants implicated in plots against Elizabeth I.
+- [Spanish Armada](entities/SpanishArmada.md) — 1588 Spanish invasion attempt linked by the episode to escalation after Mary's execution.
 - [法正 / Fa Zheng](entities/FaZheng.md) — Shu-Han adviser framed by Hanji 976 as a Dingjun Mountain tactical planner and by Hanji 977 as a source-scoped case of law-like revenge.
 - [郭贡 / Guo Gong (Late Han)](entities/GuoGongLateHan.md) — Uncertain Yanzhou military actor whose several-tens-of-thousands force withdraws after Xun Yu calmly meets him outside Juancheng.
 - [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
@@ -8605,6 +8619,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tudor Succession Crisis](concepts/TudorSuccessionCrisis.md) — Dynastic-security pattern where Mary Stuart's Catholic claim turns assassination, foreign support, and English succession into one crisis.
+- [Spy Network Entrapment](concepts/SpyNetworkEntrapment.md) — Intelligence pattern where a supposedly secure channel is controlled, read, and turned into usable evidence.
+- [Royal Execution Legitimacy](concepts/RoyalExecutionLegitimacy.md) — Problem of making a sovereign's killing legally and politically tolerable.
+- [Political Trial Theatre](concepts/PoliticalTrialTheatre.md) — Use of court procedure, space, hierarchy, and evidence staging to make a contested judgment authoritative.
+- [Martyrdom Staging](concepts/MartyrdomStaging.md) — Use of ritual, dress, prayer, and composure to turn execution into symbolic testimony.
+- [Confessional War Escalation](concepts/ConfessionalWarEscalation.md) — Pattern where religious identity, dynastic legitimacy, and interstate rivalry make local security decisions feed wider war.
 - [Adviser State Architecture / 谋士政权架构](concepts/AdviserStateArchitecture.md) — Hanji 976 frame for advisers as builders of legitimacy, logistics, talent channels, strategy, and institutional capacity rather than only clever plan-makers.
 - [Dark Adviser Craft / 毒士灰度谋略](concepts/DarkAdviserCraft.md) — Hanji 976-977 frame for disorder-era advisers mixing visible state architecture with hidden technique, moral language, legal-administrative action, silence, and survival.
 - [Court Office Capture / 朝廷开府任官失序](concepts/CourtOfficeCapture.md) — Late-Han pattern where armed commanders use kaifu-style offices and appointment access to hollow out the court's normal selection order.

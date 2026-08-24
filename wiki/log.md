@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-24] ingest | 696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)
+
+Added source page for a The Rest Is History episode on Mary, Queen of Scots' final months: the Babington Plot, Walsingham's turned courier and cryptanalytic trap, the Act for the Queen's Safety, trial at Fotheringhay, Elizabeth I's warrant hesitation, Mary's execution performance, and escalation toward the Spanish Armada. Created pages for Mary Queen of Scots, Elizabeth I, Francis Walsingham, William Cecil / Lord Burleigh, Anthony Babington, Gilbert Gifford, Thomas Phillips, Amias Paulet, Chartley Manor, Fotheringhay Castle, Babington Plot, Act for the Queen's Safety, Spanish Armada, Tudor Succession Crisis, Spy Network Entrapment, Royal Execution Legitimacy, Political Trial Theatre, Martyrdom Staging, and Confessional War Escalation; updated overview, index, The Rest Is History, England, and Spain. No settled contradiction found; the Armada link is preserved as escalation context rather than a single-cause explanation.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》983丨只会骗人的老板永远不是好老板
 
 Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's early dependency on Yuan Shu, Zhang Hong's family-entrustment role, Yuan Shu's Danyang appointment strategy through Wu Jing and Sun Ben, Zu Lang's attack near Jing County, Lu Kang's refusal of Yuan Shu's grain demand, and Yuan Shu's broken Jiujiang/Lujiang office promises to Sun Ce. Created pages for Sun Ben, Sun He, Lu Kang, Lujiang Commandery, Zu Lang, Jing County, Qu'a, Zhou Xin, Chen Ji, Liu Xun, Fan Neng, Yu Mi, Zhang Ying, Danglikou, Hui Qu, and Promise Credibility and Talent Retention; updated overview, index, Sun Ce, Yuan Shu, Zhang Hong, Wu Jing, Danyang Commandery, Liu Yao, Shouchun, Jiujiang Commandery, Hengjiang, Guangling Commandery, Lu Fan, Sun Jian, and Small Trust Builds Large Trust. No settled contradiction found; the source's Jian'an 1 / 196 CE opening is kept as source-scoped chronology compression for setup material that existing pages place before Sun Ce's 195 CE Jiangdong crossing.
