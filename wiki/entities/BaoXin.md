@@ -2,11 +2,15 @@
 title: "鲍信 / Bao Xin"
 type: entity
 tags: [person, late-han, yanzhou, military, cao-cao]
-sources: [zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
 last_updated: 2026-08-25
 ---
 
 # 鲍信 / Bao Xin
+
+[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] gives Bao Xin an earlier strategic role before his later [[YanzhouLateHan|兖州]] death branch. After [[YuanShao|袁绍]] takes [[JizhouLateHan|冀州]], Bao Xin tells [[CaoCao|曹操]] that Yuan Shao is using anti-Dong-Zhuo prestige to build a northern base and should be watched.
+
+Bao Xin's answer is positional. He urges Cao Cao to occupy [[DongCommandery|东郡]], connect west with [[ZhangMiaoLateHan|张邈]], keep contact north toward [[GongsunZan|公孙瓒]], and wait for Yuan Shao's conflicts to create opportunity. The episode therefore makes Bao Xin one of Cao Cao's early base-opening supporters before Hanji 964 shows him inviting Cao Cao into Yanzhou and dying in the Qingzhou Yellow Turban campaign.
 
 鲍信 / Bao Xin enters the wiki through [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] as the [[YanzhouLateHan|兖州]] actor who first warns [[LiuDaiLateHan|刘岱]] not to attack the [[QingzhouYellowTurbans|青州黄巾军]] in the field. His proposed response is defensive attrition: seal the city, improve the moat, force the raiding army to face its food problem, and then strike stragglers.
 
@@ -14,6 +18,7 @@ After Liu Dai dies, Bao Xin and [[WanQianLateHan|万潜]] ask [[CaoCao|曹操]] 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[DongCommandery|东郡]], [[ZhangMiaoLateHan|张邈]], and [[GongsunZan|公孙瓒]] - early base-opening strategy before Cao Cao's Yanzhou branch.
 - [[LiuDaiLateHan|刘岱]] - Yanzhou inspector who rejects Bao Xin's advice.
 - [[CaoCao|曹操]] - leader Bao Xin helps bring into Yanzhou and dies saving.
 - [[WanQianLateHan|万潜]] - fellow official in the invitation to Cao Cao.

@@ -2,11 +2,15 @@
 title: "董卓 / Dong Zhuo"
 type: entity
 tags: [person, late-han, warlord, china]
-sources: [zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 董卓 / Dong Zhuo
+
+[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds an earlier pre-assassination terror-and-narrative branch before the later Dong Zhuo-Lü Bu rupture. After a court astrologer predicts that a minister will die, Dong Zhuo accuses [[ZhangWenLateHan|张温]] of secret contact with [[YuanShao|袁绍]], has him beaten to death publicly, and then treats the death as omen fulfillment.
+
+The source frames this as [[OmenLaunderedPurge|天象包装式清洗]]. Dong Zhuo is not only violent; he uses [[ChineseAstrologicalPolitics|中国星占政治]] and the audience's self-protective fear to make a personal or factional killing look like unavoidable celestial timing.
 
 [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] supplies the pre-assassination coalition background before the later Dong Zhuo-Lü Bu rupture pages. Dong Zhuo controls the court strongly enough that [[EmperorXianOfHan|汉献帝]] looks for rescue through [[LiuYuLateHan|刘虞]], while the regional response nominally gathers in the [[AntiDongZhuoCoalition|反董卓联盟]].
 
@@ -33,6 +37,7 @@ The same episode turns Dong Zhuo's body and hoard into the first aftermath layer
 This page remains source-scoped because the wiki has not yet ingested a full Dong Zhuo career sequence. The new branch makes his death a transition from personal dictatorship to remnant-military revenge rather than a clean liberation of the Han court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[ZhangWenLateHan|张温]], [[YuanShao|袁绍]], [[ChineseAstrologicalPolitics|中国星占政治]], and [[OmenLaunderedPurge|天象包装式清洗]] - omen-wrapped purge before the later assassination branch.
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[SunJianLateHan|孙坚]], [[YuanShao|袁绍]], [[YuanShu|袁术]], and [[GongsunZan|公孙瓒]] - pre-assassination common-enemy field already fragmenting.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[DongMinLateHan|董旻]], [[DongHuangLateHan|董璜]], [[MeiwuFortress|郿坞]], [[LyuBu|吕布]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - kinship power, fortress fallback, and guard-reversal prelude.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[ShiSunRuiLateHan|士孙瑞]], [[LiSuLateHan|李肃]], and [[PublicCorpseHumiliation|公开尸体羞辱]] - direct assassination and corpse-humiliation branch.

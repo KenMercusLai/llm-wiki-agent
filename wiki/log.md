@@ -11310,3 +11310,7 @@ Added source page for Hanji 958: Gongsun Zan's early victory over the Qingzhou Y
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？
+
+Added source page for Hanji 957: Han Fu's post-Jizhou collapse through Zhu Han's revenge attack, Zhang Miao refuge, and panic suicide; Yuan Shao's Jizhou adviser expansion; Bao Xin's advice that opens Cao Cao's East Commandery base; Zhang Yang's attachment path; and Dong Zhuo's omen-wrapped killing of Zhang Wen. Created pages for Jizhou, Zhu Han, Zhang Wen, Bai Rao, Wang Gong, Shen Pei, Feng Ji, Xun Chen, post-power safety collapse, and omen-laundered purge; updated connected late-Han actors, places, talent/adviser concepts, survival concepts, and omen-politics concepts. No settled contradiction found; transcript spellings around Han Fu and Zhang Miao are normalized to existing canonical pages while Dong Zhuo's private-motive reading remains source-scoped.
