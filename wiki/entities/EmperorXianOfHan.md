@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # 汉献帝 / Emperor Xian of Han
 
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds an early trapped-court rescue attempt before the later Chang'an captivity and flight branch. Emperor Xian, stuck under [[DongZhuo|董卓]]'s control and hoping to return toward [[LuoyangLateHan|洛阳]], sends [[LiuYuLateHan|刘虞]]'s son out through [[Wuguan|武关]] to ask Liu Yu for troops.
+
+The attempt shows both the residual value and practical weakness of the imperial name. The request carries enough legitimacy that Liu Yu prepares cavalry, but once the envoy reaches [[NanyangCommandery|南阳郡]], [[YuanShu|袁术]] can detain him and try to redirect the rescue force into his own calculations. Hanji 958 therefore prefigures the later [[MingqiLegitimacy|名器合法性]] pattern: the emperor's title can still summon claims of protection, but armed intermediaries decide whether those claims become rescue, leverage, or captivity.
+
 [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] adds the court-meeting setting that makes [[DongZhuo|董卓]]'s assassination possible. After the emperor's illness improves, the court gathers at [[WeiyangPalace|未央宫]], and [[WangYunLateHan|王允]] plus [[LyuBu|吕布]] use an edict to frame Dong Zhuo's killing as imperial punishment.
 
 This source makes Emperor Xian's authority thin but still useful. The emperor is not shown as directing the plot himself, yet the edict form and later rewards to Wang Yun and Lü Bu show that his title remains the legal surface through which armed actors try to make violence legible as court action.
@@ -89,6 +93,7 @@ This branch shows the early form of the later pattern. Emperor Xian's court can 
 The addition therefore makes Emperor Xian's page less purely endpoint-focused. He is also a living legitimating surface in Cao Cao's court: accusations can be framed as the emperor's will, while real accountability remains contested among ministers who understand where effective power sits.
 
 ## Connections
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[LiuYuLateHan|刘虞]], [[YuanShu|袁术]], [[Wuguan|武关]], [[NanyangCommandery|南阳郡]], and [[MingqiLegitimacy|名器合法性]] - early rescue request diverted into warlord troop politics.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[WangYunLateHan|王允]], [[LyuBu|吕布]], [[DongZhuo|董卓]], [[WeiyangPalace|未央宫]], and [[AssassinationAccessCredential|刺杀接近凭证]] - court edict and palace-meeting surface for the assassination.
 - [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[ChangAnHanCapital|长安]], [[LiuBiao|刘表]], [[HuangfuSongLateHan|皇甫嵩]], and [[MingqiLegitimacy|名器合法性]] - first post-Dong-Zhuo captured-court layer.
 - [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]], [[WangYunLateHan|王允]], [[SongYiLateHan|宋翼]], [[WangHongLateHan|王宏]], and [[RigidObedienceCrisisFailure]] - court name used under coercion during the first Chang'an capture.

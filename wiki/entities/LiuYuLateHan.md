@@ -3,10 +3,14 @@ title: "刘虞 / Liu Yu (Late Han)"
 type: entity
 tags: [person, late-han, youzhou, china]
 sources: [zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 # 刘虞 / Liu Yu (Late Han)
+
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds the earlier trust rupture before the 193 CE direct conflict with [[GongsunZan|公孙瓒]]. [[EmperorXianOfHan|汉献帝]] sends Liu Yu's son through [[Wuguan|武关]] to ask Liu Yu for troops, but [[YuanShu|袁术]] detains him at [[NanyangCommandery|南阳郡]] and has him write back for cavalry.
+
+The episode says Liu Yu ignores Gongsun Zan's warning that Yuan Shu wants to absorb the troops, while Gongsun Zan separately sends [[GongsunYueLateHan|公孙越]] to Yuan Shu and advises holding Liu Yu's cavalry. Liu Yu later learns of this, making Hanji 958 an early explanation for why Liu Yu and Gongsun Zan are already politically damaged before the Hanji 971-972 supply and attack sequence.
 
 [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] supplies the immediate prelude to Liu Yu's Hanji 972 rupture with [[GongsunZan|公孙瓒]]. The closing Youzhou note says Liu Yu reduces Gongsun Zan's supplies because he sees repeated war against [[YuanShao|袁绍]] and local plunder as destructive, while both sides send accusations to the court.
 
@@ -19,6 +23,7 @@ The same source makes his death a coerced court-legitimacy scene. [[DuanXunLateH
 [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] follows the aftermath: Liu Yu's old staff and supporters, especially [[XianyuFu|鲜于辅]], gather forces to avenge him. His son [[LiuHeLateHan|刘和]] becomes a banner around which [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], and Yuan Shao-aligned forces can coordinate against Gongsun Zan.
 
 ## Connections
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[EmperorXianOfHan|汉献帝]], [[YuanShu|袁术]], [[Wuguan|武关]], [[NanyangCommandery|南阳郡]], and [[GongsunYueLateHan|公孙越]] - earlier cavalry-request and trust-rupture branch.
 - [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] - supply, plunder, and accusation prelude to the direct Liu Yu/Gongsun Zan conflict.
 - [[GongsunZan|公孙瓒]] - killer and political beneficiary whose rule backfires after Liu Yu's death.
 - [[DuanXunLateHan|段迅]] - court envoy whose edict is overwhelmed by Gongsun Zan's coercion.

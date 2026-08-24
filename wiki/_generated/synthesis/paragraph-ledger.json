@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
       "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
       "3ba35fb6fb01d5a26f48d4fefa3fdf3e14bea6dbc6f37f23c0012b0f0bcc4458",
       "3da02bed950bfe66dbe12e5aabe20c5073b569fd08a21bbf21e46b890f045d0a",
@@ -196,11 +197,43 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 194
+    "paragraph_count": 195
   },
-  "overview_commit": "536d638fe5ed8073fe8ea26f57dd8b803fa947a4",
-  "overview_digest": "79bf73ffbfd4660451b30be667c5d735e202e989bf76abe3f28e375d1d6f08eb",
+  "overview_commit": "679acde55517029fd02ae3f1642636488027e5df",
+  "overview_digest": "8008c3e7ac8e522f9b09078c0082db803dbbb7a6ee3cabc9da5f14d5cdea30b2",
   "paragraphs": [
+    {
+      "id": "33a2f0f7df7c67f0f4deaffa820ac27f6bea8df0cf8ce8177ef7916c1308063c",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] late-Han coalition field. It adds [[AntiDongZhuoCoalition|反董卓联盟]], [[GongsunYueLateHan|公孙越]], [[GongsunFanLateHan|公孙范]], [[ZhouAngLateHan|周昂]], [[DongguangCountyLateHan|东光县]], and [[BohaiCommanderyLateHan|渤海郡]], while extending [[GongsunZan|公孙瓒]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], [[LiuYuLateHan|刘虞]], [[EmperorXianOfHan|汉献帝]], [[DongZhuo|董卓]], [[LiuBei|刘备]], [[QingzhouYellowTurbans|青州黄巾军]], [[HeishanArmy|黑山军]], [[CommonEnemyAlliance|共同敌人联盟]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. Its core synthesis is that the anti-Dong-Zhuo front is already breaking before Dong Zhuo is gone: imperial rescue claims, office appointments, rear-base seizures, kinsman deaths, and commandery concessions all become private leverage, while Liu Bei's first appearance adds a low-resource reputation-and-restraint path into the same disorder. No settled contradiction is recorded; Gongsun Yue's death is preserved as fuse rather than sole cause, and Liu Bei's management-style reading remains source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AntiDongZhuoCoalition",
+        "BohaiCommanderyLateHan",
+        "CommonEnemyAlliance",
+        "DongZhuo",
+        "DongguangCountyLateHan",
+        "EmperorXianOfHan",
+        "GongsunFanLateHan",
+        "GongsunYueLateHan",
+        "GongsunZan",
+        "HeishanArmy",
+        "InterestStructuredAllianceFragility",
+        "LiuBei",
+        "LiuYuLateHan",
+        "QingzhouYellowTurbans",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "YuanShao",
+        "YuanShu",
+        "ZhouAngLateHan",
+        "zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju",
+        "zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq"
+      ]
+    },
     {
       "id": "ca19febd62c89a0c34aa528ed52fffbfb0f944d59c3f1e6daa42f7ac9d204b7e",
       "primary_topic": "history-and-geopolitics",

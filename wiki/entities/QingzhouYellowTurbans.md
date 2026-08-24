@@ -8,12 +8,17 @@ last_updated: 2026-08-25
 
 # 青州黄巾军 / Qingzhou Yellow Turbans
 
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds an earlier pre-Cao branch. The source describes a large Qingzhou Yellow Turban force attacking Bohai and preparing to connect with the [[HeishanArmy|黑山军]] before [[GongsunZan|公孙瓒]] attacks near [[DongguangCountyLateHan|东光县]] and defeats it.
+
+This branch keeps the group from being only a Cao-side conversion problem. Before Hanji 964 and Hanji 968 turn Qingzhou-associated Yellow Turban forces into the background for [[CaoCao|曹操]]'s Yanzhou entry and [[QingzhouSoldiers|青州兵]], Hanji 958 shows the same type of mobile armed population as a reputation accelerator for Gongsun Zan and as part of the northern disorder field.
+
 青州黄巾军 / Qingzhou Yellow Turbans enter the wiki through [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] as the hungry armed force that attacks [[YanzhouLateHan|兖州]] and kills [[LiuDaiLateHan|刘岱]]. The episode emphasizes their danger as a mobile raiding group with a severe food problem: [[BaoXin|鲍信]] argues that fighting them head-on wastes regular troops against a force that should instead be worn down by supply exhaustion.
 
 The same branch prepares [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], where [[CaoCao|曹操]]'s victory and later absorption of the surrendering Qingzhou-associated Yellow Turban population produces [[QingzhouSoldiers|青州兵]] and farming capacity. This page therefore tracks the pre-conversion identity: before they become a Cao-side resource, the Qingzhou Yellow Turbans are a destructive but administratively convertible military-population problem.
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[GongsunZan|公孙瓒]], [[DongguangCountyLateHan|东光县]], and [[HeishanArmy|黑山军]] - earlier defeat that builds Gongsun Zan's standing.
 - [[QingzhouLateHan|青州]] - provincial label attached to the force.
 - [[YanzhouLateHan|兖州]] - province they attack in Hanji 964.
 - [[LiuDaiLateHan|刘岱]] and [[BaoXin|鲍信]] - failed field response and defensive alternative.

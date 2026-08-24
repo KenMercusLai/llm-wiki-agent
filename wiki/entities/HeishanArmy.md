@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # 黑山军 / Heishan Army
 
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds an earlier northern-disorder reference before the Cao Cao and Yuan Shao operational branches. The episode says the [[QingzhouYellowTurbans|青州黄巾军]] intend to link with the Black Mountain forces before [[GongsunZan|公孙瓒]] defeats them near [[DongguangCountyLateHan|东光县]].
+
+This keeps the Black Mountain Army visible as a networked force field even when it is not the central target. Hanji 958's role is anticipatory: it shows why a Qingzhou-Bohai disturbance could matter beyond one local battle and why later pages treat Black Mountain alignment as a recurring late-Han variable.
+
 [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds an earlier operational branch before the Yuan Shu and Yuan Shao episodes. [[YuDuLateHan|于毒]] attacks [[DongWuyangLateHan|东武阳]], but [[CaoCao|曹操]] pressures Yu Du's base instead of directly relieving the city. The move forces Yu Du to withdraw and leads into [[NeihuangBattleLateHan|内黄之战]] against [[SuiGuLateHan|眭固]] and [[YufuluoChanyu|于扶罗]].
 
 This makes the Black Mountain field visible as more than a northern Yuan Shao problem. In Hanji 961 it is already tied to Cao Cao's early [[DongCommandery|东郡]] operations and to a mobile coalition environment where mountain forces and [[SouthernXiongnu|南匈奴]] leadership appear in the same campaign sequence.
@@ -19,6 +23,7 @@ This makes the Black Mountain field visible as more than a northern Yuan Shao pr
 The page is deliberately source-scoped. Hanji 970 does not give a complete institutional history of the Black Mountain Army; it uses the group as a flexible insurgent/military network whose leaders, soldiers, mountain positions, and outside ties can threaten commandery administration and force Yuan Shao into hard pacification. [[TaoShengLateHan|陶生]] complicates the picture by protecting Yuan Shao's family even though he is part of the Black Mountain field.
 
 ## Connections
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[QingzhouYellowTurbans|青州黄巾军]], [[GongsunZan|公孙瓒]], and [[DongguangCountyLateHan|东光县]] - planned linkage blocked by Gongsun Zan's early victory.
 - [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[YuDuLateHan|于毒]], [[DongWuyangLateHan|东武阳]], [[NeihuangBattleLateHan|内黄之战]], and [[SouthernXiongnu|南匈奴]] - earlier East Commandery operational branch.
 - [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YuanShu|袁术]], [[CaoCao|曹操]], and [[YufuluoChanyu|于扶罗]] - remnants supporting Yuan Shu during Cao Cao's pursuit.
 - [[YuanShao|袁绍]] - warlord whose Ye base is threatened and who later retaliates against the mountain forces.

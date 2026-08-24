@@ -8,6 +8,10 @@ last_updated: 2026-08-25
 
 # 董卓 / Dong Zhuo
 
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] supplies the pre-assassination coalition background before the later Dong Zhuo-Lü Bu rupture pages. Dong Zhuo controls the court strongly enough that [[EmperorXianOfHan|汉献帝]] looks for rescue through [[LiuYuLateHan|刘虞]], while the regional response nominally gathers in the [[AntiDongZhuoCoalition|反董卓联盟]].
+
+The source makes Dong Zhuo's threat real but not sufficient to bind his enemies. [[SunJianLateHan|孙坚]] fights Dong Zhuo's and [[LyuBu|吕布]]'s forces, yet [[YuanShao|袁绍]], [[YuanShu|袁术]], and [[GongsunZan|公孙瓒]] are already fighting over offices, rear bases, and troop flows. Hanji 958 therefore frames the later post-Dong-Zhuo instability as visible even before Dong Zhuo is removed.
+
 [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] supplies the pre-assassination structure behind Dong Zhuo's fall. The episode presents him in 192 CE as converting court power into a family-centered command system through [[DongMinLateHan|董旻]] and [[DongHuangLateHan|董璜]], hollowing out [[EmperorXianOfHan|汉献帝]]'s authority, and building [[MeiwuFortress|郿坞]] as a fortified grain-backed fallback.
 
 The same source makes Dong Zhuo's personal security self-defeating. He relies on [[LyuBu|吕布]] as a close guard while also damaging that relationship through violent temper and the thrown-hand-halberd incident. This gives [[WangYunLateHan|王允]] a route to turn the guard layer into [[PersonalGuardAttackSurface|贴身侍卫反噬]] before Hanji 963 narrates the actual killing.
@@ -29,6 +33,7 @@ The same episode turns Dong Zhuo's body and hoard into the first aftermath layer
 This page remains source-scoped because the wiki has not yet ingested a full Dong Zhuo career sequence. The new branch makes his death a transition from personal dictatorship to remnant-military revenge rather than a clean liberation of the Han court.
 
 ## Connections
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[SunJianLateHan|孙坚]], [[YuanShao|袁绍]], [[YuanShu|袁术]], and [[GongsunZan|公孙瓒]] - pre-assassination common-enemy field already fragmenting.
 - [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]], [[DongMinLateHan|董旻]], [[DongHuangLateHan|董璜]], [[MeiwuFortress|郿坞]], [[LyuBu|吕布]], and [[PersonalGuardAttackSurface|贴身侍卫反噬]] - kinship power, fortress fallback, and guard-reversal prelude.
 - [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[ShiSunRuiLateHan|士孙瑞]], [[LiSuLateHan|李肃]], and [[PublicCorpseHumiliation|公开尸体羞辱]] - direct assassination and corpse-humiliation branch.
 - [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[CaiYong|蔡邕]], [[PostSuccessArrogance|得势后的骄傲]], and [[HistoricalRecordAuthority|史官记录话语权]] - death aftermath, credit, and reputation-control setup.

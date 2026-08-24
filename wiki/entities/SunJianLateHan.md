@@ -3,10 +3,14 @@ title: "孙坚 / Sun Jian (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
 sources: [zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 # 孙坚 / Sun Jian (late Han)
+
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds Sun Jian's direct anti-Dong-Zhuo campaign role before the later inherited-troop and Sun Ce branches. The source says [[YuanShu|袁术]] sends him against [[DongZhuo|董卓]], and Sun Jian defeats Dong Zhuo's and [[LyuBu|吕布]]'s forces while the broader [[AntiDongZhuoCoalition|反董卓联盟]] is already fraying.
+
+The episode makes Sun Jian a victim of allied rear seizure. While he fights in the coalition's public cause, [[YuanShao|袁绍]]'s appointee [[ZhouAngLateHan|周昂]] takes Yangcheng from his rear. Sun Jian retakes it with help from Yuan Shu's side, but [[GongsunYueLateHan|公孙越]] dies in the fighting, turning Sun Jian's front into the trigger for a wider Yuan Shao-[[GongsunZan|公孙瓒]] rupture.
 
 [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds Sun Jian's marriage-resource branch before the Hanji 983 inherited-troop story. The source describes him as a lower-background military actor whose marriage to [[LadyWuSunJian|吴夫人]] connects him with [[QiantangWuClan|钱塘吴氏]], Jiangdong gentry channels, trade routes, and the later [[WuJingLateHan|吴景]]/[[DanyangCommandery|丹阳郡]] soldier pipeline. This makes Sun Jian part of [[KinshipResourceStateBuilding|姻亲资源建构]], not only Sun Ce's absent father.
 
@@ -19,6 +23,7 @@ The episode does not develop Sun Jian's biography. His wiki role here is genealo
 [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds an earlier symbolic branch. The source says [[YuanShu|袁术]] hears that Sun Jian has the [[HeirloomImperialSeal|传国玉玺]], detains Sun Jian's wife, and forces the seal into his own hands. This does not make Sun Jian a developed actor in the episode, but it makes his household the channel through which Yuan Shu gains an imperial object that later feeds an unsupported title claim.
 
 ## Connections
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[DongZhuo|董卓]], [[LyuBu|吕布]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[ZhouAngLateHan|周昂]], and [[GongsunYueLateHan|公孙越]] - direct anti-Dong-Zhuo campaign and allied rear-seizure branch.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LadyWuSunJian|吴夫人]], [[QiantangWuClan|钱塘吴氏]], and [[KinshipResourceStateBuilding|姻亲资源建构]] - marriage-resource branch behind the Sun household.
 - [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[YuanShu|袁术]], [[DanyangCommandery|丹阳郡]], and [[PromiseCredibilityTalentRetention|承诺信用与人才流失]] - old alliance and inherited-troop claim behind Sun Ce's dependency.
 - [[SunCe|孙策]] - son and title recipient in the source.

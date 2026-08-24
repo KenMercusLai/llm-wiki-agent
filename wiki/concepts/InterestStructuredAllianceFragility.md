@@ -3,10 +3,14 @@ title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
 type: concept
 tags: [alliance, strategy, incentives, late-han]
 sources: [zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 # Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
+
+[[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] adds the pre-[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] anti-Dong-Zhuo version. The [[AntiDongZhuoCoalition|反董卓联盟]] has a real shared enemy in [[DongZhuo|董卓]], but [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], and [[GongsunZan|公孙瓒]] are already competing over offices, bases, troops, and blame.
+
+The source's mechanism is concrete. Yuan Shao's appointee [[ZhouAngLateHan|周昂]] takes Sun Jian's rear base at Yangcheng while Sun Jian is fighting Dong Zhuo; [[GongsunYueLateHan|公孙越]] dies helping the counterattack; and Yuan Shao's concession of [[BohaiCommanderyLateHan|渤海郡]] to [[GongsunFanLateHan|公孙范]] strengthens Gongsun Zan when Gongsun Fan defects. Alliance fragility here is not passivity; it is active re-sorting of the coalition's assets.
 
 [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] adds a late-Han common-enemy version before the later Ma Teng-Han Sui and Lü Bu coalition cases. [[YuanShao|袁绍]] and [[LyuBu|吕布]] can cooperate against [[ZhangYanLateHan|张燕]] and the [[HeishanArmy|黑山军]], but the shared campaign does not settle the post-battle payoff: Yuan Shao dislikes Lü Bu's violent retinue, Lü Bu sees Yuan Shao's hostility, and the alliance turns into the [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]].
 
@@ -38,6 +42,7 @@ The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]]
 
 ## Key Claims
 - Hanji 970 adds that a common enemy can produce a useful joint campaign while leaving the allies' post-campaign safety fears unresolved.
+- Hanji 958 adds that a common enemy can fail even earlier, with coalition members converting offices, bases, and concessions into tools against one another before the shared enemy is defeated.
 - Hanji 973 adds that alliance position can change even inside one short campaign: mediation, joint attack, pursuit, and reconciliation each rearrange incentives without producing stable trust.
 - Hanji 979 adds that an alliance can be fragile even while its members share spoils, because the spoils themselves create parallel power centers and competing appointment channels.
 - Hanji 984 adds that military success inside a shared-control coalition can become a threat signal when prestige, troop support, and ambiguous outside contact unsettle the alliance.
@@ -54,6 +59,7 @@ The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]]
 
 ## Connections
 - [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]], [[YuanShao|袁绍]], [[LyuBu|吕布]], [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], and [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]] - common-enemy cooperation that turns into assassination fear.
+- [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[ZhouAngLateHan|周昂]], [[GongsunYueLateHan|公孙越]], [[GongsunFanLateHan|公孙范]], and [[BohaiCommanderyLateHan|渤海郡]] - anti-Dong-Zhuo coalition assets re-sorted into Yuan Shao/Gongsun Zan rivalry.
 - [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[HanSui|韩遂]], [[MaTeng|马腾]], [[FanChouLateHan|樊稠]], and [[ChangpingguanBattleLateHan|长平观之战]] - mediator-to-ally and enemy-to-drinking-partner reversals.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CourtOfficeCapture|朝廷开府任官失序]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] - shared office access as rivalry seed.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[LiLiLateHan|李利]], [[HanSui|韩遂]], [[GuoSiWife|郭汜妻]], and [[MilitaryPrestigeThreatPurge|军功声望威胁清洗]] - pre-985 purge and poison-suspicion branch.

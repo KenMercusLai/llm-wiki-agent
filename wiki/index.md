@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”](sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's Yellow Turban victory, Emperor Xian's Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear seizure, and the anti-Dong-Zhuo coalition's fast Yuan Shao/Gongsun Zan rupture.
 - [《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？](sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq.md) — 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Hanzhong/Xiegu road control, and Gongsun Du's concealed-capability timing.
 - [《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？](sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr.md) — 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao.
 - [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
@@ -1415,6 +1416,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [反董卓联盟 / Anti-Dong Zhuo Coalition](entities/AntiDongZhuoCoalition.md) — late-Han common-enemy coalition that Hanji 958 shows fracturing through offices, rear bases, and rival warlord incentives before Dong Zhuo is gone.
+- [公孙越 / Gongsun Yue (late Han)](entities/GongsunYueLateHan.md) — Gongsun Zan kinsman whose death assisting Sun Jian against Zhou Ang becomes the trigger for blaming Yuan Shao.
+- [公孙范 / Gongsun Fan (late Han)](entities/GongsunFanLateHan.md) — Gongsun Zan kinsman who receives Bohai from Yuan Shao and defects with its troops to Gongsun Zan.
+- [周昂 / Zhou Ang (late Han)](entities/ZhouAngLateHan.md) — Yuan Shao appointee who takes Sun Jian's Yangcheng rear base during the anti-Dong-Zhuo coalition rupture.
+- [东光县 / Dongguang County (late Han)](entities/DongguangCountyLateHan.md) — battle area where Gongsun Zan defeats the Qingzhou Yellow Turbans in Hanji 958.
+- [渤海郡 / Bohai Commandery (late Han)](entities/BohaiCommanderyLateHan.md) — commandery Yuan Shao grants to Gongsun Fan, only to see its troops defect to Gongsun Zan.
 - [公孙度 / Gongsun Du (late Han)](entities/GongsunDuLateHan.md) — Late-Han Liaodong appointee used by Hanji 959 as a case of ability, patronage, luck, and timing in disorder.
 - [斜谷道 / Xiegu Road (late Han)](entities/XieguRoadLateHan.md) — Qinling route whose blockage lets Liu Yan's Yizhou regime turn Hanzhong control into separation from the Chang'an court.
 - [张修 / Zhang Xiu (Hanzhong)](entities/ZhangXiuFivePecks.md) — Hanzhong actor paired with Zhang Lu in Liu Yan's road-control strategy, disambiguated from Zhang Xiu of Wancheng.

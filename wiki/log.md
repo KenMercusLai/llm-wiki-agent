@@ -11302,3 +11302,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”
+
+Added source page for Hanji 958: Gongsun Zan's early victory over the Qingzhou Yellow Turbans, Emperor Xian's failed Liu Yu rescue request through Yuan Shu, the Sun Jian/Zhou Ang rear-base fight, Gongsun Yue's death, Gongsun Fan's Bohai defection, and Liu Bei's first character-and-reputation setup. Created Anti-Dong Zhuo Coalition, Gongsun Yue, Gongsun Fan, Zhou Ang, Dongguang County, and Bohai Commandery pages; updated overview, index, Gongsun Zan, Yuan Shao, Yuan Shu, Sun Jian, Liu Yu, Emperor Xian, Dong Zhuo, Liu Bei, Qingzhou Yellow Turbans, Black Mountain Army, Common-Enemy Alliance, and Interest-Structured Alliance Fragility. No settled contradiction found; Gongsun Yue's death is preserved as a fuse rather than the sole cause of the Yuan Shao-Gongsun Zan rupture.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
