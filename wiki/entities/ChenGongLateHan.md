@@ -2,11 +2,15 @@
 title: "陈宫 / Chen Gong (late Han)"
 type: entity
 tags: [person, late-han, adviser, military, gentry]
-sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
 last_updated: 2026-08-24
 ---
 
 # 陈宫 / Chen Gong (late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] gives Chen Gong's open action before Hanji 974 supplies the motive layer. With [[CaoCao|曹操]] campaigning in [[Xuzhou|徐州]], Chen Gong and [[ZhangMiaoLateHan|张邈]] welcome [[LyuBu|吕布]] into [[YanzhouLateHan|兖州]], cutting Cao Cao's rear down to a few remaining cities.
+
+The source uses the action as a cliffhanger rather than a full explanation. It marks Chen Gong as the practical bridge between Cao Cao's external campaign and the internal Yanzhou collapse that later pages analyze through local-elite fear and adviser faction.
 
 [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] supplies the source's motive layer before Chen Gong appears in the open [[YanzhouLateHan|兖州]] rupture. The episode presents Chen Gong as a Yanzhou-side elite actor who had helped bring [[CaoCao|曹操]] into the province, then becomes alarmed after [[BianRangLateHan|边让]] is killed and Cao Cao's reliance on kin and outsiders seems to narrow local elite security.
 
@@ -29,6 +33,7 @@ The episode's interpretation is that Chen Gong cannot be read only as an individ
 The page keeps several claims source-scoped: possible gray contact with [[YuanShu|袁术]], the meaning of Chen Gong's blush, and the idea that shame could be used as political performance. The wiki records those as part of [[LyuBuFactionalBalance|吕布集团派系平衡]], not as settled independent proof of Chen Gong's role in the revolt.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ZhangMiaoLateHan|张邈]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - open rebellion while Cao Cao is away.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[XuSiLateHan|许汜]], [[WangKaiLateHan|王楷]], [[ZhangChaoLateHan|张超]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - motive layer and plotting group before open rebellion.
 - [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ZhangMiaoLateHan|张邈]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], [[CaoCao|曹操]], and [[XunYu|荀彧]] - insider-alignment rupture before the Fan County and Cangting branches.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - pressure actor in Cheng Yu's pre-Cangting persuasion branch.

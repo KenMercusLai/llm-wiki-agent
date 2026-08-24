@@ -2,11 +2,15 @@
 title: "Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性"
 type: concept
 tags: [alliance, strategy, incentives, late-han]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu, zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8]
 last_updated: 2026-08-24
 ---
 
 # Interest-Structured Alliance Fragility / 利益结构式联盟脆弱性
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds a compact battlefield version of alliance fragility before the later Li-Guo and Lü Bu cases. [[HanSui|韩遂]] comes as a mediator between [[MaTeng|马腾]] and [[LiJueLateHan|李傕]], but quickly joins Ma Teng; after defeat, he reframes the fight with [[FanChouLateHan|樊稠]] as public disorder rather than private hatred and restores a personal channel through hometown ties.
+
+The episode therefore shows two reversals in one branch: mediator becomes ally, and battlefield enemy becomes drinking partner. Neither reversal settles durable trust; Hanji 984 later shows how the same friendly contact can be read as dangerous alignment inside Li Jue's camp.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds the shared-office prelude before the later Li-Guo rupture. [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] can all benefit from court title access, but that same access creates a multi-office competition over recommendations, troops, and prestige. Shared capture of the court therefore contains the rivalry that later sources make explicit.
 
@@ -31,6 +35,7 @@ The key mechanism is not abstract disunity. Lü Bu breaks the campaign by offeri
 The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]] and [[InterestBasedCoalitionSabotage|利益瓦解合纵]]. Coalition self-preservation explains allies who hesitate to spend their own resources for a shared project; interest-based sabotage often attacks coalition organizers before the army forms. Hanji 1018 shows a field coalition already moving, then collapsing because its members can be profitably re-sorted during the campaign.
 
 ## Key Claims
+- Hanji 973 adds that alliance position can change even inside one short campaign: mediation, joint attack, pursuit, and reconciliation each rearrange incentives without producing stable trust.
 - Hanji 979 adds that an alliance can be fragile even while its members share spoils, because the spoils themselves create parallel power centers and competing appointment channels.
 - Hanji 984 adds that military success inside a shared-control coalition can become a threat signal when prestige, troop support, and ambiguous outside contact unsettle the alliance.
 - Hanji 985 adds that a former military partnership can fracture into hostage-taking and camp sabotage once payoffs shift, and that paid auxiliary support is especially brittle.
@@ -45,6 +50,7 @@ The concept differs from [[CoalitionSelfPreservationFailure|联盟自保失灵]]
 - Coalition analysis has to ask what each participant can gain by switching, not only what the coalition formally claims to pursue.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[HanSui|韩遂]], [[MaTeng|马腾]], [[FanChouLateHan|樊稠]], and [[ChangpingguanBattleLateHan|长平观之战]] - mediator-to-ally and enemy-to-drinking-partner reversals.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CourtOfficeCapture|朝廷开府任官失序]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[FanChouLateHan|樊稠]] - shared office access as rivalry seed.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[LiLiLateHan|李利]], [[HanSui|韩遂]], [[GuoSiWife|郭汜妻]], and [[MilitaryPrestigeThreatPurge|军功声望威胁清洗]] - pre-985 purge and poison-suspicion branch.
 - [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangBaoLateHan|张苞]], and [[YangFengLateHan|杨奉]] - early feud, auxiliary recruitment, inner-camp defection, and camp defense.

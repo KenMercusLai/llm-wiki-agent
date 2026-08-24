@@ -10782,6 +10782,10 @@ Added source page for a 芮淇讲透资治通鉴 episode on Cheng Yu stopping Ca
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-24] ingest | 《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？
+
+Added source page for a 芮淇讲透资治通鉴 episode on the 194 CE prelude to Cao Cao's Yanzhou crisis: Emperor Xian's hollow coming-of-age and Wang Meiren's posthumous honor, Tao Qian giving Liu Bei Danyang troops, Ma Teng and Han Sui's failed Changpingguan attack on Li Jue's side, Fan Chou's post-battle reconciliation with Han Sui, and Zhang Miao/Chen Gong inviting Lü Bu into Yanzhou. Created pages for Changpingguan Battle, Wang Meiren, Tian Kai, Zhong Shao, and Ma Yu; updated index, overview, and connected late-Han actor/strategy pages. No settled contradiction found; Ma Teng's trigger layers and Han Sui's title variant are kept source-scoped.
+
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？
 
 Added source `zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv`. Key claims: Xun Yu deters Guo Gong by calmly meeting him outside Juancheng; Cheng Yu stabilizes Fan County through Jin Yun despite family hostage pressure; the episode extends the wiki's Yanzhou base-survival and loyalty-collateral dilemma branches.

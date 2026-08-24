@@ -2,11 +2,15 @@
 title: "郭汜 / Guo Si (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 郭汜 / Guo Si (late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds Guo Si before the later [[LiJueLateHan|李傕]]-Guo Si rupture. He is sent with [[FanChouLateHan|樊稠]] and [[LiLiLateHan|李利]] against [[MaTeng|马腾]] and [[HanSui|韩遂]], helping Li Jue's side win at [[ChangpingguanBattleLateHan|长平观之战]] and then attack Huaili.
+
+In this source, Guo Si is still part of Li Jue's coalition rather than Li Jue's open rival. That makes the episode a pre-rupture snapshot: the same armed bloc can defeat an outside threat while internal suspicion around Fan Chou and later Guo Si is already waiting to surface.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Guo Si before the later hostage-taking branch. He receives the 后将军 title and kaifu-style privilege to open an office like the Three Excellencies, placing him alongside [[LiJueLateHan|李傕]] and [[FanChouLateHan|樊稠]] in a court where appointment recommendations are increasingly captured by armed commanders.
 
@@ -35,6 +39,7 @@ Hanji 999 then uses the Li Jue-Guo Si conflict to show why the emperor's physica
 In this source, Guo Si is part of the setting that makes later court politics legible. Once the emperor leaves the immediate Li-Guo danger, he still falls among [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[ZhangYangLateHan|张杨]], so the problem shifts from one military pair to a broader field of interested escorts.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ChangpingguanBattleLateHan|长平观之战]], [[FanChouLateHan|樊稠]], [[LiLiLateHan|李利]], [[MaTeng|马腾]], and [[HanSui|韩遂]] - pre-rupture coalition victory.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[LiJueLateHan|李傕]], [[FanChouLateHan|樊稠]], [[YangDingLateHan|杨定]], and [[CourtOfficeCapture|朝廷开府任官失序]] - appointment-capture prelude before the Li-Guo rupture.
 - [[LiJueLateHan|李傕]] - rival military actor in the Chang'an struggle.
 - [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[GuoSiWife|郭汜妻]], [[LiXianLateHan|李暹]], [[DualExecutivePowerRisk|双首长权力风险]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - pre-985 rupture, poison suspicion, and emperor-control rivalry.

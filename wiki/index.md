@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？](sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet.md) — 芮淇讲透资治通鉴 episode on the 194 CE setup before Cao Cao's Yanzhou crisis: Emperor Xian's hollow coming-of-age, Tao Qian giving Liu Bei Danyang troops, Ma Teng/Han Sui's failed Changpingguan attack, and Zhang Miao/Chen Gong inviting Lü Bu into Yanzhou.
 - [《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？](sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd.md) — 芮淇讲透资治通鉴 episode on why Zhang Miao and Chen Gong betray Cao Cao: old friendship collapses under Yuan Shao pressure, Lü Bu opportunity, Bian Rang's killing, and Yanzhou local-elite fear.
 - [《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？](sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr.md) — 芮淇讲透资治通鉴 episode on Xun Yu detecting Zhang Miao and Chen Gong's Yanzhou rebellion from wording and route clues, recalling Xiahou Dun to stabilize Juancheng, and contrasting Tian Feng's warning under Yuan Shao.
 - [696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)](sources/696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496.md) — The Rest Is History episode on the Babington Plot, Walsingham's spy network, Mary's Fotheringhay trial and execution, Elizabeth's warrant hesitation, and escalation toward the Spanish Armada.
@@ -1399,6 +1400,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [长平观之战 / Changpingguan Battle (late Han)](entities/ChangpingguanBattleLateHan.md) — 194 CE battle where Li Jue's side defeats Ma Teng and Han Sui, after which Han Sui's friendly contact with Fan Chou becomes a later suspicion seed.
+- [王美人 / 灵怀皇后 (late Han)](entities/WangMeirenLateHan.md) — Emperor Xian's mother, reburied and posthumously honored in Hanji 973 before the court's military weakness becomes the main story.
+- [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Qingzhou inspector whose aid request route introduces Liu Bei into Tao Qian's Xuzhou crisis.
+- [种劭 / Zhong Shao (late Han)](entities/ZhongShaoLateHan.md) — Chang'an remonstrance official whose inside plot against Li Jue leaks before the Changpingguan branch.
+- [马宇 / Ma Yu (late Han)](entities/MaYuLateHan.md) — Chang'an attendant whose courier-disguise role belongs to the failed inside plot against Li Jue.
 - [边让 / Bian Rang (Late Han)](entities/BianRangLateHan.md) — Chenliu scholar-official whose killing is treated by Hanji 974 as the deeper trigger for Yanzhou local-elite fear before Zhang Miao and Chen Gong betray Cao Cao.
 - [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.

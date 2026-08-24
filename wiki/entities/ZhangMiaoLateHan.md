@@ -2,11 +2,15 @@
 title: "张邈 / Zhang Miao (Late Han)"
 type: entity
 tags: [person, late-han, official]
-sources: [zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
 last_updated: 2026-08-24
 ---
 
 # 张邈 / Zhang Miao (Late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] gives Zhang Miao's betrayal as the sudden closing event before the motive-focused Hanji 974 page. While [[CaoCao|曹操]] is attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], Zhang Miao and [[ChenGongLateHan|陈宫]] welcome [[LyuBu|吕布]] into [[YanzhouLateHan|兖州]], forcing Cao Cao to abandon the campaign.
+
+The source does not yet explain why a close friend would do this; it deliberately leaves that as the next episode's question. Its contribution is chronological: the betrayal is what converts Liu Bei's battlefield defeat and Tao Qian's fear into survival, because Cao Cao's rear collapses before he can finish Xuzhou.
 
 [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] supplies the causal prelude to Zhang Miao's betrayal. The source first makes the friendship unusually strong: [[CaoCao|曹操]] refuses [[YuanShao|袁绍]]'s demand to kill Zhang Miao, then reportedly tells his household to rely on Zhang Miao if he dies while attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]].
 
@@ -27,6 +31,7 @@ The episode makes Zhang Miao's envoy wording a political clue. By calling Cao Ca
 The page is source-scoped. These episodes do not develop Zhang Miao's independent career; they use his named friendship with Yuan Shao and enmity with Cao Cao to show how private relationship language can become a binding moral claim when crisis comes.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TaoQianLateHan|陶谦]], [[LiuBei|刘备]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - open betrayal as the reason Cao Cao withdraws.
 - [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], [[Chenliu|陈留]], [[LocalEliteSecurityPanic|地方士族安全恐慌]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] - friendship-to-betrayal prelude and local-elite fear.
 - [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XunYu|荀彧]], [[PowerEtiquetteReading|权力礼仪细读]], and [[DetailBasedCrisisDetection|细节式危机识别]] - rebellion setup and title-wording clue.
 - [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[JuanchengLateHan|鄄城]], [[CaoCao|曹操]], and [[YanzhouLateHan|兖州]] - rumor and betrayal background before the later battlefield branch.

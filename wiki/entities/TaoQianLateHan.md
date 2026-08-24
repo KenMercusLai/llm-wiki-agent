@@ -2,11 +2,15 @@
 title: "陶谦 / Tao Qian (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, xuzhou]
-sources: [zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 陶谦 / Tao Qian (late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds Tao Qian before his deathbed transfer. Facing [[CaoCao|曹操]]'s pressure in [[Xuzhou|徐州]], Tao Qian asks [[TianKaiLateHan|田楷]] and [[LiuBei|刘备]] for help, then gives Liu Bei four thousand Danyang soldiers and recommends him as Yuzhou inspector.
+
+The same source shows Tao Qian's weakness during Cao Cao's renewed Xuzhou offensive. Tao Qian is frightened enough to consider fleeing back to Danyang, while Liu Bei's first clash with Cao Cao ends in defeat; only Cao Cao's forced return to [[YanzhouLateHan|兖州]] prevents the Xuzhou branch from closing there.
 
 [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] adds Tao Qian's deathbed transfer scene. The source says that when Tao Qian is gravely ill, he takes [[MiZhu|糜竺]] by the hand and says only [[LiuBei|刘备]] can protect [[Xuzhou|徐州]]. The episode also mentions a 九州春秋 report of delirious gold visions and keeps the host's medical speculation source-scoped.
 
@@ -21,6 +25,7 @@ Tao Qian's source role is therefore a continuity marker. The Xuzhou order Liu Be
 [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] backfills a darker earlier subordinate branch. Tao Qian appoints [[ZeRong|笮融]] as Xiapi chancellor to supervise grain transport from [[GuanglingCommandery|广陵]], [[Xiapi|下邳]], and Pengcheng, but Ze Rong diverts grain into Buddhist institutions and a private following. After [[CaoCao|曹操]] defeats Tao Qian, Ze Rong's flight begins the host-killing chain developed as [[HospitalityPredation|接纳者掠杀]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TianKaiLateHan|田楷]], [[DanyangCommandery|丹阳郡]], [[PeiCounty|小沛]], and [[CaoCao|曹操]] - rescue request, Danyang troop transfer, and fear during Cao Cao's renewed attack.
 - [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[MiZhu|糜竺]], [[LiuBei|刘备]], and [[Xuzhou|徐州]] - deathbed transfer recommendation and power-vacuum trigger.
 - [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[MiZhu|糜竺]], [[ChenDeng|陈登]], and [[KongRong|孔融]] - source-critical correction of the three-yields memory.
 - [[ZeRong|笮融]], [[GuanglingCommandery|广陵]], [[Xiapi|下邳]], and [[InstrumentalizedReligiousPower|工具化宗教权力]] - Hanji 995 grain-office and religious-infrastructure branch.

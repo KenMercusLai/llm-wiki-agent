@@ -2,11 +2,15 @@
 title: "李傕 / Li Jue (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl, zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f, zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
 last_updated: 2026-08-24
 ---
 
 # 李傕 / Li Jue (late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] supplies an earlier 194 CE conflict layer before the later Li-Guo rupture. [[MaTeng|马腾]] turns against Li Jue after troop-refusal and source-scoped household-pasture conflict, while [[EmperorXianOfHan|汉献帝]]'s mediation cannot stop the campaign.
+
+Li Jue's side still wins the immediate contest. His intelligence channel exposes the inside plot by [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]], then [[FanChouLateHan|樊稠]], [[GuoSiLateHan|郭汜]], and [[LiLiLateHan|李利]] defeat Ma Teng and [[HanSui|韩遂]] at [[ChangpingguanBattleLateHan|长平观之战]].
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Li Jue's appointment-capture position before the open Li-Guo hostage symmetry. He already has privilege to open an office like the Three Excellencies, and when [[GuoSiLateHan|郭汜]] and [[FanChouLateHan|樊稠]] receive similar privileges, court selection becomes a military-controlled field rather than a normal ministerial process.
 
@@ -39,6 +43,7 @@ Hanji 999 then presents Li Jue's conflict with [[GuoSiLateHan|郭汜]] as a powe
 The page keeps Li Jue's role source-scoped to this branch. He matters here less as a full biography than as the immediate pressure behind the emperor-escort problem later handled by [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[ZhangYangLateHan|张杨]].
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ChangpingguanBattleLateHan|长平观之战]], [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[BattlefieldInformationControl|战场信息控制]] - 194 CE plot exposure and victory over Ma Teng/Han Sui.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], [[YangDingLateHan|杨定]], and [[CourtOfficeCapture|朝廷开府任官失序]] - kaifu-style appointment-capture branch before the hostage crisis.
 - [[GuoSiLateHan|郭汜]] - rival in the struggle over Emperor Xian.
 - [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[MaTeng|马腾]], [[HanSui|韩遂]], [[LiuYanLateHan|刘焉]], [[LiuFanLateHan|刘范]], and [[LiuDanLateHan|刘诞]] - grain-road conflict, failed support plot, and intelligence exposure.

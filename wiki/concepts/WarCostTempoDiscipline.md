@@ -2,11 +2,13 @@
 title: "War Cost Tempo Discipline / 战争成本与速决纪律"
 type: concept
 tags: [warfare, strategy, logistics, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k, zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw, zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu, zizhi-tongjian-zhouji-96-maosui-zijian-1-lvqbmaabsvbdz2zibgmseidx5phe, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-1-lq4wvkd8qx3q7zji6fnnkxi3qcl1, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-3-ljwz8ebk0iyfleivkefvvoonrqb9]
 last_updated: 2026-08-24
 ---
 
 # War Cost Tempo Discipline / 战争成本与速决纪律
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds an earlier Xuzhou supply version. [[CaoCao|曹操]] first has to withdraw from pressure on [[TaoQianLateHan|陶谦]] because grain is exhausted, and the later renewed offensive is again cut short once [[YanzhouLateHan|兖州]] collapses behind him.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds a pre-Puyang route-and-grain case. [[CaoCao|曹操]] says [[LyuBu|吕布]] would have been far more dangerous had he seized [[JuanchengLateHan|鄄城]], blocked the Taishan-Kangfu route, and cut the grain road, making campaign cost depend on whether the enemy understands supply geography before the direct fight begins.
 
@@ -33,6 +35,7 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] adds the earlier attrition version inside that same Yanzhou problem. After the dramatic [[PuyangBattleLateHan|濮阳之战]] escape, the source says Cao Cao and Lü Bu continue fighting around [[PuyangLateHan|濮阳]] for more than one hundred days until locust damage and grain exhaustion force withdrawal. Here tempo discipline is not a planned ideal but a crisis adaptation: a fast, dangerous confrontation becomes a supply-and-morale contest that hurts [[LyuBu|吕布]]'s cavalry-centered force and exposes him to local defeat at [[ChengshiCountyLateHan|乘氏县]].
 
 ## Key Claims
+- Hanji 973 adds that a campaign can fail from grain exhaustion before a decisive battlefield defeat, and can fail again if the rear base breaks.
 - Hanji 979 adds that tempo discipline also includes recognizing when a route or grain line is the cheaper decisive target than immediate return to a headline battlefield.
 - The reason to prefer quick victory is that prolonged war is expensive, not that speed is always tactically correct.
 - Nonmilitary victory is strategically superior when it can preserve resources and still secure the objective.
@@ -48,6 +51,7 @@ The concept also disciplines late-Warring-States expansion narratives. Qin can a
 - Hanji 980 adds that when a quick battle becomes too dangerous, dragging the conflict into food, disaster, morale, and local-resistance conditions can change which side can keep fighting.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[CaoCao|曹操]], [[TaoQianLateHan|陶谦]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - grain exhaustion and rear collapse as campaign limits.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[JuanchengLateHan|鄄城]], and [[YanzhouLateHan|兖州]] - route-and-grain opportunity before Puyang attrition.
 - [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]], [[PuyangBattleLateHan|濮阳之战]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], [[LiJinLateHan|李进]], and [[ChengshiCountyLateHan|乘氏县]] - Puyang attrition under locust and grain pressure.
 - [[SunziBingfa|《孙子兵法》]], [[BaiQi|白起]], and [[QinZhaoxiangwang|秦昭襄王]] - source text, commander, and ruler in the episode's cost argument.

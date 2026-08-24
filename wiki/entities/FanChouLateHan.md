@@ -2,11 +2,15 @@
 title: "樊稠 / Fan Chou (late Han)"
 type: entity
 tags: [person, late-han, military, warlord]
-sources: [zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5]
+sources: [zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5]
 last_updated: 2026-08-24
 ---
 
 # 樊稠 / Fan Chou (late Han)
+
+[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] gives the battlefield action before Fan Chou's later purge. [[LiJueLateHan|李傕]] sends Fan Chou with [[GuoSiLateHan|郭汜]] and [[LiLiLateHan|李利]] against [[MaTeng|马腾]] and [[HanSui|韩遂]], and they win at [[ChangpingguanBattleLateHan|长平观之战]]. Fan Chou's side then attacks Huaili, where [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] are killed.
+
+The same source gives the friendly field-contact layer in real time. When Fan Chou pursues Han Sui, Han Sui appeals to shared hometown ties and says the conflict need not become personal extinction. Fan Chou accepts the appeal and drinks with him, creating the ambiguity that Hanji 984 later treats as purge evidence.
 
 [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Fan Chou immediately before his later purge. He receives the 右将军 title and kaifu-style office privilege, joining [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] in a military-controlled appointment field that the host describes as six offices competing with the regular Three Excellencies.
 
@@ -19,6 +23,7 @@ The decisive suspicion comes after Han Sui speaks with Fan Chou during the pursu
 The source preserves two death mechanisms. In the main sequence, Fan Chou later asks Li Jue for troops to go beyond the pass, and Li Jue summons and kills him. In the Hou Hanshu variant, Li Jue gets Fan Chou drunk at a banquet and has [[HuFengLateHan|胡封]] kill him. Both versions support the same source-scoped pattern: a successful commander becomes purgeable once prestige, troop support, and ambiguous outside contact can be read as future rivalry.
 
 ## Connections
+- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ChangpingguanBattleLateHan|长平观之战]], [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] - victory, Huaili attack, and post-battle conversation with Han Sui.
 - [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[CourtOfficeCapture|朝廷开府任官失序]] - title and appointment-capture branch before the purge.
 - [[LiangzhouWarlordClique|凉州系军阀]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - factional setting.
 - [[MaTeng|马腾]], [[HanSui|韩遂]], and [[ChenCang|陈仓]] - battlefield branch.
