@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回](sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395.md) — 声动早咖啡 episode linking a major China vehicle recall, Apple foldable/Vision Pro pressure, efficiency-over-expansion cases, Premier League sponsorship changes, and Qishui Music's pressure on Tencent Music and NetEase Cloud Music.
 - [YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand](sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285.md) — How I Built This episode on Roy and Ryan Seiders building YETI through rotomolded cooler durability, specialty retail, proof-led marketing, supplier-risk recovery, and Rambler drinkware expansion.
 - [《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国](sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe.md) — 芮淇讲透资治通鉴 prologue setting up the Three Kingdoms arc as a historical-source and struggle-strategy reading rather than only Romance memory.
 - [《资治通鉴·汉纪》924丨1%的错误=100%的失败](sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md) — 芮淇讲透资治通鉴 episode backfilling the opening 184 CE Yellow Turban emergency, party-ban crisis amnesty, palace-insider exposure, and eunuch-channel retaliation against corrective speakers.
@@ -1456,6 +1457,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tencent Music / 腾讯音乐](entities/TencentMusic.md) — Tencent online-music incumbent pressured by Qishui Music's Douyin-backed distribution in the 2026-08-25 声动早咖啡 source.
+- [NetEase Cloud Music / 网易云音乐](entities/NetEaseCloudMusic.md) — NetEase music product compared with Qishui Music after source-cited user and profit pressure.
+- [Oriental Selection / 东方甄选](entities/OrientalSelection.md) — Livestream-commerce company shifting toward self-operated products, supply-chain standardization, and lower anchor dependence.
+- [Dreame / 追觅](entities/Dreame.md) — Consumer-hardware company whose car project is described as shrinking after fast hiring and unresolved manufacturing/financing gates.
+- [Beike / 贝壳](entities/Beike.md) — Chinese real-estate platform used as a profit-through-efficiency case as second-hand transactions become more important.
+- [Curry Brand](entities/CurryBrand.md) — Basketball star brand linked to Li-Ning's 2026 deeper athlete-brand cooperation.
 - [YETI](entities/YETI.md) — Outdoor cooler and drinkware brand built by Roy and Ryan Seiders from a premium rotomolded cooler niche into a broader consumer brand.
 - [Roy Seiders](entities/RoySeiders.md) — YETI co-founder who moved from boat-building and Icy Tech distribution into product design, operations, and CEO responsibility.
 - [Ryan Seiders](entities/RyanSeiders.md) — YETI co-founder whose wildlife, rod-building, and sales background helped build the specialty-retail channel.
@@ -8983,6 +8990,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vehicle Emergency Handle Usability](concepts/VehicleEmergencyHandleUsability.md) — Automotive safety affordance issue where emergency mechanical handles must be visible and usable in crash conditions.
+- [Short-Video Music Distribution](concepts/ShortVideoMusicDistribution.md) — Platform pattern where short-video discovery and traffic reshape music-app competition.
+- [Hotel Retail Flywheel](concepts/HotelRetailFlywheel.md) — Hospitality-retail pattern where in-stay product trial turns hotel bedding and comfort goods into consumer sales.
+- [Efficiency Over Scale Expansion](concepts/EfficiencyOverScaleExpansion.md) — Business shift from traffic, store, headcount, and network growth toward operating efficiency and channel discipline.
+- [Sports Betting Sponsorship Exit](concepts/SportsBettingSponsorshipExit.md) — Football sponsorship shift as betting sponsors leave restricted shirt inventory and other global brands enter.
 - [Rotomolded Cooler Category](concepts/RotomoldedCoolerCategory.md) — Durable cooler category using thick polyethylene rotomolding to justify premium outdoor use.
 - [Specialty Retail Beachhead](concepts/SpecialtyRetailBeachhead.md) — Distribution pattern where narrow expert retailers educate and validate a premium product before mass retail.
 - [Demonstration Led Product Proof](concepts/DemonstrationLedProductProof.md) — Proof pattern where visible tests make a product's premium performance claim believable.
