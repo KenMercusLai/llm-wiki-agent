@@ -16,4 +16,3 @@ The same episode then places the Tuge Hu inside the [[SouthernXiongnu|南匈奴]
 - [[ZhangYiLateHan|张懿]] and [[BingzhouLateHan|并州]] - inspector and province in the first crisis.
 - [[SouthernXiongnu|南匈奴]], [[XiluoSouthernXiongnu|醯落]], [[QiangquChanyu|羌渠]], and [[YufuluoChanyu|于扶罗]] - revolt and succession branch.
 - [[FrontierConscriptionBackfire|边疆征发反噬]] - concept for the requisition backlash.
-

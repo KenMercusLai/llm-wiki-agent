@@ -19,4 +19,3 @@ When Wang Guo withdraws after more than eighty days, Huangfu Song reverses from 
 - [[DongZhuo|董卓]] - opposing commander whose advice fails twice and who develops resentment.
 - [[FortifiedAttritionPatience|fortified attrition patience]] and [[WarCostTempoDiscipline|war-cost tempo discipline]] - concepts illustrated by the delay-then-pursue sequence.
 - [[HanSui|韩遂]] and [[YanZhongLateHan|阎忠]] - post-battle rebel leadership instability after Wang Guo's removal.
-

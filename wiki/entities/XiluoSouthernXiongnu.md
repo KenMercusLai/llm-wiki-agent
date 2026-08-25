@@ -18,4 +18,3 @@ The source says Xiluo joins with the [[TugeHu|屠各胡]], gathers a large rebel
 - [[TugeHu|屠各胡]] - allied group in the revolt.
 - [[YufuluoChanyu|于扶罗]] - successor installed after the killing.
 - [[FrontierConscriptionBackfire|边疆征发反噬]] - concept linking requisition pressure to internal revolt.
-

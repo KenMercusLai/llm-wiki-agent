@@ -17,4 +17,3 @@ Zhang Yi's killing also forms part of the setup for [[LiuYanLateHan|刘焉]]'s p
 - [[TugeHu|屠各胡]] - group credited with killing him in the source.
 - [[LiuYanLateHan|刘焉]] and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - reform field sharpened by his death.
 - [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] - source case.
-

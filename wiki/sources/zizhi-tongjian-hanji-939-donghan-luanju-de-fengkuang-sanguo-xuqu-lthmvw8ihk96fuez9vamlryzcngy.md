@@ -54,4 +54,3 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - No settled contradiction with existing wiki pages was found. This episode backfills an earlier institutional and frontier layer before Hanji 940's Yizhou revolt, Hanji 941's capital-military restructuring, and Hanji 949's later Yufuluo/Baibo branch.
 - Source-scope caution: the input names the Baibo leader as [[GuoDaLateHan|郭大]]. This ingest preserves that source wording and does not normalize it to another historical spelling without a later source.
 - Source-scope caution: the input renders the Yizhou inspector as "郤俭"; this ingest links the actor to the existing [[XiJianLateHan|郗俭 / Xi Jian]] page while preserving the variant in the text.
-

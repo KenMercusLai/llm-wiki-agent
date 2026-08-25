@@ -17,4 +17,3 @@ The episode does not make Ding Gong an independent actor. He marks the court-off
 - [[CuiLieLateHan|崔烈]] and [[CaoSong|曹嵩]] - paired top-office turnover in the same source.
 - [[EmperorLingOfHan|汉灵帝]] - ruler under whom the appointment occurs.
 - [[CourtOfficeCapture|朝廷开府任官失序]] and [[MingqiLegitimacy|名器合法性]] - later concepts that make the office notice politically legible.
-

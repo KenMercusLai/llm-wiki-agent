@@ -17,4 +17,3 @@ The page is source-scoped. The input names him as 郭大; the wiki preserves tha
 - [[HedongCommandery|河东郡]] - one of the attacked commanderies.
 - [[BingzhouLateHan|并州]] - neighboring frontier-provincial crisis field in the same episode.
 - [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] - source case.
-

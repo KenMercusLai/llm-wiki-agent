@@ -17,4 +17,3 @@ The episode then says Dong Fu follows Liu Yan into Yizhou, along with [[ZhaoWeiL
 - [[YizhouLateHan|益州]] - destination framed through the "天子气" prophecy.
 - [[ZhaoWeiLateHan|赵韪]] - fellow follower of Liu Yan into Yizhou.
 - [[ProvincialShepherdAutonomy|州牧集权与地方割据]] and [[ProphecyTriggeredPolicy|预言触发政策]] - institutional and sign-reading frames connected to his advice.
-

@@ -18,4 +18,3 @@ The page is scoped to the late-Han provincial crisis. Its value is not a full ge
 - [[BaiboArmy|白波军]] and [[HedongCommandery|河东郡]] - adjacent disorder in the same episode.
 - [[SouthernXiongnu|南匈奴]] and [[FrontierConscriptionBackfire|边疆征发反噬]] - neighboring frontier crisis branch.
 - [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - institutional response to exposed provincial authority.
-

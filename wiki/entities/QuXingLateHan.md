@@ -17,4 +17,3 @@ The source's main interest in Qu Xing is the Sun Jian prelude. Sun Jian suppress
 - [[EmperorLingOfHan|汉灵帝]] - appoints Sun Jian to the local crisis.
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] - source case.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broad order frame for local rebellion and pacification.
-
