@@ -19,4 +19,3 @@ The same source says people trusted Chen Shi to resolve disputes because he judg
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - moral authority that survives office and shapes conduct.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - local order produced through trust rather than fear.
 - [[ConfucianIdealGovernance|儒家理想治理]] - moral-instruction and fair-judgment frame.
-

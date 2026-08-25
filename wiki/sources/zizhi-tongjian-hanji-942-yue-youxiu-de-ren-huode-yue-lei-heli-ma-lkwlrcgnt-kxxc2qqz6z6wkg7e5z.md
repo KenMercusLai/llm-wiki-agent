@@ -49,4 +49,3 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 ## Contradictions
 - No settled contradiction with existing wiki pages was found. The episode mainly backfills the pre-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] chronology.
 - Naming caution: [[WangGuoLateHan|王国]] is the late-Han rebel figure, not [[WangGuowei|王国维]]; [[ZhangChunLateHan|张纯]] is distinct from [[ZhangChunWesternHan|张纯 / Zhang Chun (Western Han)]]; [[YanZhongLateHan|阎忠]] is distinct from [[YanZhongzi|严仲子]].
-

@@ -18,4 +18,3 @@ That fear turns lethal for Qiangqu. [[XiluoSouthernXiongnu|醯落]] in the right
 - [[XiluoSouthernXiongnu|醯落]] and [[TugeHu|屠各胡]] - rebel actors who kill him.
 - [[YufuluoChanyu|于扶罗]] - son and successor.
 - [[FrontierConscriptionBackfire|边疆征发反噬]] - concept grounded in the requisition and revolt sequence.
-

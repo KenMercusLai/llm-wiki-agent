@@ -18,4 +18,3 @@ Yan Zhong soon dies of illness, after which Han Sui's side turns inward and weak
 - [[ChenCangBattleLateHan|陈仓之战]] - the failed Chen Cang campaign creates the leadership vacuum.
 - [[LiangzhouWarlordClique|Liangzhou warlord clique]] - later pattern of fragmented western power politics.
 - [[YanZhongzi|严仲子]] - distinct similarly romanized figure; this page covers late-Han 阎忠 only.
-
