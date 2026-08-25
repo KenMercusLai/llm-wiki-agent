@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》935丨人活一口气，难成的是自己](sources/zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw.md) — 芮淇讲透资治通鉴 episode on Liu Tao's fatal remonstrance against eunuch-filtered crisis politics, Zhang Wen's 185 CE western campaign, and Sun Jian's ignored grain-road advice under Zhou Shen.
 - [《资治通鉴·汉纪》933丨为官之道：有所为，有所不为](sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain origin and court incorporation, Emperor Ling's office-selling, Cui Lie's purchased situ appointment, and the reputational cost exposed by Cui Jun.
 - [Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships](sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230.md) — All-In interview on Saronic's autonomous naval vessels, U.S.-China shipbuilding throughput, Port Alpha, and defense procurement reform.
 - [《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？](sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 185 CE retreat and contempt toward Zhang Wen, Sun Jian's military-law warning, Emperor Ling's palace hoarding, Fu Xie's refusal of Zhao Zhong's patronage, Zhao Ci's revolt, and Zhang Yan's eunuch-driven prison death.
@@ -1442,6 +1443,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘陶 / 刘桃 (late Han)](entities/LiuTaoLateHan.md) — Late-Han remonstrant whose warning about Yellow Turban and western rebellion pressure is turned into a eunuch-filtered prison accusation.
+- [周慎 / Zhou Shen (late Han)](entities/ZhouShenLateHan.md) — Late-Han commander who ignores Sun Jian's proposal to cut the rebels' grain road and retreats after his own supply line is cut.
 - [张牛角 / Zhang Niujiao (late Han)](entities/ZhangNiujiaoLateHan.md) — Black Mountain precursor leader whose death transfers command to Chu Yan/Zhang Yan in Hanji 933.
 - [崔钧 / Cui Jun (late Han)](entities/CuiJunLateHan.md) — Cui Lie's son, used by Hanji 933 as the frank witness to bought-office reputational damage.
 - [程夫人 / Madam Cheng (late Han)](entities/ChengFurenLateHan.md) — Emperor Ling's wet nurse and palace-access broker for Cui Lie's purchased situ appointment.

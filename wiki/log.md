@@ -11518,3 +11518,11 @@ Added source page for Hanji 933: Zhang Niujiao's deathbed transfer of leadership
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》935丨人活一口气，难成的是自己
+
+Added source page for Hanji 935: Liu Tao's warning about Yellow Turban aftermath and western rebellion pressure, eunuch accusation filtering, his prison death, Zhang Wen's 185 CE western campaign, Dong Zhuo's counterattack context, Sun Jian's ignored advice to cut the rebels' grain road, and Zhou Shen's retreat after the Han supply line is cut. Created pages for Liu Tao and Zhou Shen; updated related late-Han actors plus court-feedback, palace-access, death-defying remonstrance, and battlefield logistics concepts. No settled contradiction found; Han Sui and Bian Zhang's campaign role is preserved as an earlier stage before Hanji 937's later consolidation branch.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

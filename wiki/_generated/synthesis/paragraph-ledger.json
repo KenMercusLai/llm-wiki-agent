@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
       "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
       "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
       "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
@@ -209,11 +210,41 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 207
+    "paragraph_count": 208
   },
-  "overview_commit": "88df1ab088ee43fc812eefd6e64527b663a50947",
-  "overview_digest": "dbea2f8a6cae823d361e4379363a9f9908cd2ae62f5c5093cd53166e2af1b4b5",
+  "overview_commit": "b9eaa4743db9b30968f33422ab91a1f333f7f3eb",
+  "overview_digest": "e1c0e0dd7840a60b267720a791f7ca484b3bf3c5ead4cce7a2d7a4748ceaad64",
   "paragraphs": [
+    {
+      "id": "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]]. It adds [[LiuTaoLateHan|刘陶 / 刘桃]] and [[ZhouShenLateHan|周慎]], while extending [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[BianZhangLateHan|边章]], [[HanSui|韩遂]], [[SunJianLateHan|孙坚]], [[ZhangJiaoLateHan|张角]], [[LuoyangLateHan|洛阳]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[DeathDefyingRemonstrance|赴死式直谏]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]]. Its core synthesis is that late-Han collapse is visible both at court and in the field: Liu Tao's urgent warning reaches the ruler but is recoded by eunuch intermediaries into suspicion and imprisonment, while Sun Jian reads the Liangzhou pursuit as a supply-road problem that Zhou Shen ignores until the rebel side cuts Han logistics instead. No settled contradiction is recorded; Han Sui and Bian Zhang's 185 campaign role is treated as an earlier stage before Hanji 937's later consolidation and Bian Zhang death/absorption branch.",
+      "topic_scores": {
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BattlefieldEncirclementLogistics",
+        "BianZhangLateHan",
+        "CourtFeedbackCollapse",
+        "DeathDefyingRemonstrance",
+        "DongZhuo",
+        "EmperorLingOfHan",
+        "HanSui",
+        "LiuTaoLateHan",
+        "LuoyangLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "TenAttendantsLateHan",
+        "ZhangJiaoLateHan",
+        "ZhangWenLateHan",
+        "ZhouShenLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw",
+        "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar"
+      ]
+    },
     {
       "id": "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
       "primary_topic": "governance-and-institutions",

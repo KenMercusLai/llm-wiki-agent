@@ -2,11 +2,15 @@
 title: "孙坚 / Sun Jian (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-25
 ---
 
 # 孙坚 / Sun Jian (late Han)
+
+[[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] adds Sun Jian's earliest late-Han campaign branch in this wiki. Serving under [[ZhouShenLateHan|周慎]] after [[ZhangWenLateHan|张温]] drives [[BianZhangLateHan|边章]] and [[HanSui|韩遂]] toward Yuzhong, Sun Jian proposes taking 10,000 troops to cut the rebels' grain road while Zhou Shen supports with the main army.
+
+The plan is ignored, and the result reverses the logic Sun Jian identified: the rebels cut the Han army's own grain road at Kuiyuan Gorge, forcing Zhou Shen to retreat. This source therefore makes Sun Jian's early profile not only brave or severe, but logistically alert before Hanji 936 develops his later [[CommandDisciplineAuthority|军法威严]] advice against [[DongZhuo|董卓]].
 
 [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds an earlier military-law branch before Sun Jian's Changsha and anti-Dong-Zhuo campaign material. Serving under [[ZhangWenLateHan|张温]], Sun Jian privately argues that [[DongZhuo|董卓]] should be executed for contempt toward command, failure to attack the rebels, and delayed response after returning without decisive achievement.
 
@@ -37,6 +41,7 @@ The episode does not develop Sun Jian's biography. His wiki role here is genealo
 [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds an earlier symbolic branch. The source says [[YuanShu|袁术]] hears that Sun Jian has the [[HeirloomImperialSeal|传国玉玺]], detains Sun Jian's wife, and forces the seal into his own hands. This does not make Sun Jian a developed actor in the episode, but it makes his household the channel through which Yuan Shu gains an imperial object that later feeds an unsupported title claim.
 
 ## Connections
+- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[ZhouShenLateHan|周慎]], [[BianZhangLateHan|边章]], [[HanSui|韩遂]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - ignored grain-road plan before Zhou Shen's supply line is cut.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], and [[CommandDisciplineAuthority|军法威严]] - early advice to enforce military law against a contemptuous subordinate.
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[QuXingLateHan|曲星]], and [[EmperorLingOfHan|汉灵帝]] - Changsha appointment, suppression, and Wu Cheng marquis origin.
 - [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], [[ZhangZiLateHan|张咨]], [[NanyangCommandery|南阳郡]], and [[YuanShu|袁术]] - forged authority, Wang Rui's death, grain coercion, and Yuan-Shu-backed title stage.
