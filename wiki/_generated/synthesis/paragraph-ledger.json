@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
       "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
       "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
       "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
@@ -208,11 +209,41 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 206
+    "paragraph_count": 207
   },
-  "overview_commit": "356d3b21c488370c1c9e4be6165850a0caca812b",
-  "overview_digest": "bbeee5a038bfbc3e0683cd8fccef32ad36191dc1b5588961bf05550e0d60567d",
+  "overview_commit": "88df1ab088ee43fc812eefd6e64527b663a50947",
+  "overview_digest": "dbea2f8a6cae823d361e4379363a9f9908cd2ae62f5c5093cd53166e2af1b4b5",
   "paragraphs": [
+    {
+      "id": "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han layer before [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] and the later [[HeishanArmy|黑山军]] campaign record. It adds [[ZhangNiujiaoLateHan|张牛角]], [[CuiJunLateHan|崔钧]], [[ChengFurenLateHan|程夫人]], [[OfficeBasedRebelIncorporation|授官式招安]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]], while extending [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], [[EmperorLingOfHan|汉灵帝]], [[CuiLieLateHan|崔烈]], [[YuanWeiLateHan|袁隗]], [[LuoyangLateHan|洛阳]], [[CourtOfficeCapture|朝廷开府任官失序]], [[MingqiLegitimacy|名器合法性]], and [[MoralReputationPoliticalCapital|道德名望政治资本]]. Its core synthesis is that late-Han breakdown appears as both incorporation and commodification: the court lacks the force to destroy Zhang Yan's vast mountain network and therefore gives him a title and delegated local duties, while Cui Lie's bought situ appointment shows high office becoming a palace-priced good whose visible price destroys the reputation it was meant to crown. No settled contradiction is recorded; the episode backfills Zhang Yan's origin before Hanji 970 and keeps the late-Han [[ChengFurenLateHan|程夫人]] distinct from [[ChengFuren|Su Shi's mother]].",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChengFuren",
+        "ChengFurenLateHan",
+        "CourtOfficeCapture",
+        "CuiJunLateHan",
+        "CuiLieLateHan",
+        "EmperorLingOfHan",
+        "HeishanArmy",
+        "LuoyangLateHan",
+        "MingqiLegitimacy",
+        "MoralReputationPoliticalCapital",
+        "OfficeBasedRebelIncorporation",
+        "OfficeSaleLegitimacyDamage",
+        "RuiqiJiangtouZizhiTongjian",
+        "YuanWeiLateHan",
+        "ZhangNiujiaoLateHan",
+        "ZhangYanLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar"
+      ]
+    },
     {
       "id": "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
       "primary_topic": "ai-and-technology",

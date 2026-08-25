@@ -2,11 +2,13 @@
 title: "汉灵帝 / Emperor Ling of Han"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
+sources: [zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
 last_updated: 2026-08-25
 ---
 
 # 汉灵帝 / Emperor Ling of Han
+
+[[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] adds a 185 CE incorporation-and-office-sale layer. Emperor Ling accepts [[ZhangYanLateHan|张燕]]'s surrender because suppression capacity is weak, granting office and delegated order over the northern Yellow River mountain zone. The same source shows senior offices as priced through West Garden and palace access when [[CuiLieLateHan|崔烈]] becomes situ after a five-million-cash payment through [[ChengFurenLateHan|程夫人]], while Ling privately regrets not extracting ten million.
 
 [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds an earlier 185-186 CE corruption-and-display layer. Emperor Ling builds a private treasury around West Garden's Wanjin Hall, stores money and silk in eunuch households, buys land and builds an estate in his old fief, and orders [[SongDianLateHan|宋典]] and [[BiLanLateHan|毕岚]] into palace construction and spectacle.
 
@@ -36,6 +38,7 @@ The same source also names Emperor Ling as one of the authorities whose summons 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]], [[ZhangYanLateHan|张燕]], [[HeishanArmy|黑山军]], [[CuiLieLateHan|崔烈]], [[ChengFurenLateHan|程夫人]], [[OfficeBasedRebelIncorporation|授官式招安]], and [[OfficeSaleLegitimacyDamage|买官名节损耗]] - rebel incorporation and bought-office pricing through palace access.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[SongDianLateHan|宋典]], [[BiLanLateHan|毕岚]], [[ZhaoZhongLateHan|赵忠]], [[ZhangYanTaiweiLateHan|张延]], and [[UntimelyExtravagance|时绌举赢]] - Wanjin Hall hoarding, palace construction, eunuch privilege, and official-retaliation layer.
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[ZhangJuLateHan|张举]], [[QuXingLateHan|曲星]], [[SunJianLateHan|孙坚]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], and [[MingqiLegitimacy|名器合法性]] - 187 CE rebellion, abdication demand, local suppression, and rank sale.
 - [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]], [[HeMiaoLateHan|何苗]], [[GengBiLateHan|耿鄙]], [[FuXie|傅燮]], and [[FrontierCommandCollapse|边郡军政崩盘]] - 187 CE amnesty, appointment, and Liangzhou failure.

@@ -11510,3 +11510,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》933丨为官之道：有所为，有所不为
+
+Added source page for Hanji 933: Zhang Niujiao's deathbed transfer of leadership to Chu Yan/Zhang Yan, Zhang Yan's consolidation of the Black Mountain network and court incorporation through office, Cui Lie's purchased situ appointment through Emperor Ling's wet nurse Madam Cheng, and Cui Jun's reputational "stink" judgment. Created Zhang Niujiao, Cui Jun, Madam Cheng (late Han), Office-Based Rebel Incorporation, and Office-Sale Legitimacy Damage pages; updated connected Zhang Yan, Heishan Army, Emperor Ling, Cui Lie, Yuan Wei, court-office, and moral-reputation pages. No settled contradiction found; ChengFurenLateHan is disambiguated from ChengFuren, Su Shi's mother.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

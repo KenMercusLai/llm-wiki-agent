@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》933丨为官之道：有所为，有所不为](sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain origin and court incorporation, Emperor Ling's office-selling, Cui Lie's purchased situ appointment, and the reputational cost exposed by Cui Jun.
 - [Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships](sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230.md) — All-In interview on Saronic's autonomous naval vessels, U.S.-China shipbuilding throughput, Port Alpha, and defense procurement reform.
 - [《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？](sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 185 CE retreat and contempt toward Zhang Wen, Sun Jian's military-law warning, Emperor Ling's palace hoarding, Fu Xie's refusal of Zhao Zhong's patronage, Zhao Ci's revolt, and Zhang Yan's eunuch-driven prison death.
 - [《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？](sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw.md) — 芮淇讲透资治通鉴 episode on Han Sui's Liangzhou consolidation, Geng Bi's failed campaign, Fu Xie's Hanyang siege and death, and the court's loss of Liangzhou control.
@@ -1441,6 +1442,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张牛角 / Zhang Niujiao (late Han)](entities/ZhangNiujiaoLateHan.md) — Black Mountain precursor leader whose death transfers command to Chu Yan/Zhang Yan in Hanji 933.
+- [崔钧 / Cui Jun (late Han)](entities/CuiJunLateHan.md) — Cui Lie's son, used by Hanji 933 as the frank witness to bought-office reputational damage.
+- [程夫人 / Madam Cheng (late Han)](entities/ChengFurenLateHan.md) — Emperor Ling's wet nurse and palace-access broker for Cui Lie's purchased situ appointment.
 - [Saronic](entities/Saronic.md) — Defense technology company building autonomous surface vessels through private capital, vertical integration, and software-defined shipbuilding.
 - [Dino Mavroukis](entities/DinoMavroukis.md) — Saronic co-founder making the episode's shipbuilding-throughput, procurement, and Port Alpha case.
 - [Vibh Altakar](entities/VibhAltakar.md) — Saronic co-founder explaining uncrewed-vessel design and software-defined shipbuilding.
@@ -8900,6 +8904,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where the court converts an unsuppressed rebel force into delegated order by granting the leader office.
+- [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where purchasing public office damages both institutional credibility and the buyer's accumulated reputation.
 - [Autonomous Naval Vessels](concepts/AutonomousNavalVessels.md) — Uncrewed naval platforms where autonomy changes mission risk, vessel architecture, scale, and hybrid fleet design.
 - [Naval Shipbuilding Throughput](concepts/NavalShipbuildingThroughput.md) — Strategic-capacity frame comparing shipbuilding output, cost, build time, and yearly firepower rather than ship prestige alone.
 - [Software-Defined Shipbuilding](concepts/SoftwareDefinedShipbuilding.md) — Shipbuilding model where software APIs, sensors, compute, remote control, and yard design are integrated from the start.
