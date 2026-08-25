@@ -11255,6 +11255,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝
+
+Added source page for Hanji 941: Wang Fen's failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis; Cao Cao and Hua Xin's refusal logic; the red-qi omen that cancels the travel window; Ma Ridi and Dong Zhong's appointments; the West Garden Eight Colonels with Jian Shuo, Yuan Shao, and Cao Cao; renewed Qingzhou/Xuzhou Yellow Turban disorder; and Gai Xun's Pingle Guan remonstrance. Created pages for Wang Fen, Chen Yi, Taoqiu Hong, Hefei Marquis, West Garden Eight Colonels, and Imperial Deposition Coup Risk; updated connected late-Han actor, place, group, and omen pages. No settled contradiction found; motive readings and the Hefei Marquis identity remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？
 
 Added source page for Hanji 948: Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao's armed objection and exit, Lu Zhi's remonstrance, Yuan Wei's coerced seal-transfer role, Empress Dowager He's poisoning, He-family intimidation, prestige appointments for Liu Yu, Yang Biao, and Huang Wan, Party Prohibition rehabilitation, and Niu Fu's Hedong response to the Baibo Army. Created pages for Lu Zhi (late Han), Yuan Wei, Empress Dowager He, He Miao, Wuyang Jun, Chen Fan, Dou Wu, coerced imperial replacement, and Party Prohibition rehabilitation; updated connected Dong Zhuo, Yuan Shao, Cai Yong, Liu Bian, Emperor Xian, He Jin, Liu Yu, Yang Biao, Huang Wan, Niu Fu, Baibo Army, Hedong, Mingqi legitimacy, court office capture, and coerced talent legitimacy pages. No settled contradiction found; Lu Zhi is disambiguated from Lu Zhi / 吕雉, and motive readings around appointments and He-family violence remain source-scoped.
@@ -11426,6 +11430,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
 
 Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 

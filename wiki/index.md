@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝](sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r.md) — 芮淇讲透资治通鉴 episode on Wang Fen's failed 188 CE coup plan, Cao Cao and Hua Xin's refusal logic, the West Garden Eight Colonels, and renewed Yellow Turban disorder.
 - [《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？](sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z.md) — 芮淇讲透资治通鉴 episode on Gai Xun and Yuan Shao's anti-eunuch move, Jian Shuo's counter-transfer, Wang Guo's failed siege of Chen Cang, Huangfu Song's delayed pursuit, Gongsun Zan's overreach, Liu Yu's Youzhou pacification, and Cao Cao's prelude.
 - [《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险](sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's non-designated succession, Jian Shuo's failed move for Liu Xie, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong's side.
 - [《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴](sources/zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr.md) — 芮淇讲透资治通鉴 episode on He Jin's early anti-eunuch planning, Yuan Shao's outside-troop advice, Empress Dowager He and He-family obstruction, Chen Lin and Cao Cao's leakage warnings, and lethal plan exposure risk.
@@ -1432,6 +1433,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [王芬 / Wang Fen (late Han)](entities/WangFenLateHan.md) — Jizhou inspector whose failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis becomes the source case for imperial deposition coup risk.
+- [陈逸 / Chen Yi (late Han)](entities/ChenYiLateHan.md) — Chen Fan's son in Wang Fen's anti-eunuch coup circle, carrying older eunuch-grievance energy into the failed 188 CE plot.
+- [陶丘洪 / Taoqiu Hong (late Han)](entities/TaoqiuHongLateHan.md) — Potential Wang Fen coup recruit whom Hua Xin persuades away from joining.
+- [合肥侯 / Hefei Marquis (late Han)](entities/HefeiMarquisLateHan.md) — Proposed replacement ruler in Wang Fen's failed 188 CE imperial seizure plan, distinct from the modern city Hefei.
+- [西园八校尉 / West Garden Eight Colonels](entities/WestGardenEightColonels.md) — 188 CE late-Han capital military structure placing Jian Shuo, Yuan Shao, Cao Cao, and others into new command roles.
 - [盖勋 / Gai Xun (late Han)](entities/GaiXunLateHan.md) — Upright official whose attempted anti-eunuch alliance with Yuan Shao is neutralized by Jian Shuo's Jingzhao transfer.
 - [王国 / Wang Guo (late Han)](entities/WangGuoLateHan.md) — Liangzhou-side rebel leader whose failed siege of Chen Cang gives Huangfu Song the delayed-pursuit victory in Hanji 942.
 - [丘力居 / Qiu Liju (late Han)](entities/QiuLijuLateHan.md) — Wuhuan leader who traps Gongsun Zan after over-deep pursuit and later submits when Liu Yu stabilizes Youzhou.
@@ -8819,6 +8825,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Deposition Coup Risk / 废立政变风险](concepts/ImperialDepositionCoupRisk.md) — Hanji 941 pattern where an anti-eunuch plot becomes far riskier once it also aims to seize and replace the emperor.
 - [Lethal Plan Leakage Risk / 致命计划泄露风险](concepts/LethalPlanLeakageRisk.md) — Political risk where a high-stakes purge or crisis plan becomes dangerous once talk, delay, and partial disclosure let targets prepare first.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Hanji 946 frame where delayed, softened action becomes dangerous after a conflict has become lethal and the other side can strike first.

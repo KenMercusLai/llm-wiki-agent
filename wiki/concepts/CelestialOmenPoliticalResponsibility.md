@@ -2,11 +2,13 @@
 title: "Celestial Omen Political Responsibility / 天象政治责任"
 type: concept
 tags: [historiography, omens, legitimacy, chinese-history]
-sources: [zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
 last_updated: 2026-08-25
 ---
 
 # Celestial Omen Political Responsibility / 天象政治责任
+
+[[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] adds a route-changing omen case. A red qi across the northern sky is interpreted by the court astrologer as a warning of a northern plot, causing [[EmperorLingOfHan|汉灵帝]] to cancel the trip that [[WangFenLateHan|王芬]] planned to exploit. The same episode later uses a wangqi warning about fighting between the two palaces to motivate the Pingle Guan military display.
 
 [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] adds a routine late-Han personnel version. After a solar eclipse, [[MaRidiLateHan|马日磾]] is dismissed as taiwei and [[LiuYuLateHan|刘虞]] is elevated, so the omen functions as a trigger for office responsibility rather than as an execution or purge narrative.
 
@@ -23,6 +25,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] adds a Qin imperial case through [[ChineseAstrologicalPolitics|荧惑守心]]. The source explains the sign as Mars pausing or reversing in the Heart mansion and treats it as a warning attached to the ruler's fate. The page keeps the same method as with eclipses: the omen is evidence for political reasoning and narrative pressure, not proof of celestial causation.
 
 ## Key Claims
+- Hanji 941 adds the route-changing and security-trigger version: omen interpretation can cancel imperial travel, expose a coup window, and redirect the ruler toward military display.
 - Hanji 942 adds the routine office-responsibility version: an eclipse can trigger dismissal and replacement without becoming a violent purge.
 - Hanji 957 adds a distorted responsibility pattern: a ruler can use an omen to designate a victim instead of accepting political correction.
 - Solar eclipses could be recorded as politically meaningful events.
@@ -34,6 +37,7 @@ The concept is adjacent to [[NaturalDisasterPoliticalOmen]], but it deals with s
 - Qinji 126 adds that non-eclipse celestial events could also be read as direct warnings about imperial death and legitimacy crisis.
 
 ## Connections
+- [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[EmperorLingOfHan|汉灵帝]], [[ImperialDepositionCoupRisk|废立政变风险]], and [[WestGardenEightColonels|西园八校尉]] - red qi warning, cancelled route, and Pingle Guan military display.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[MaRidiLateHan|马日磾]], and [[LiuYuLateHan|刘虞]] - solar eclipse followed by taiwei dismissal and replacement.
 - [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[DongZhuo|董卓]], [[ZhangWenLateHan|张温]], [[ChineseAstrologicalPolitics|中国星占政治]], and [[OmenLaunderedPurge|天象包装式清洗]] - omen responsibility redirected into purge cover.
 - [[Shijing|《诗经》]] - source cited for an earlier eclipse notice.
