@@ -11486,3 +11486,11 @@ Added source page for Hanji 938: 187 CE Liangzhou rebellion under Ma Teng, Han S
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？
+
+Added source page for Hanji 937: Han Sui's absorption of Bian Zhang, Beigong Boyu, and Li Wenhou; Geng Bi's failed Liangzhou campaign after trusting Cheng Qiu and rejecting Fu Xie's timing advice; the Di Dao mutiny; Fu Xie's besieged Hanyang duty choice, Fu Gan/Yang Hui handoff, Huang Yan surrender test, and death. Created Fu Xie, Fu Gan, Cheng Qiu, Yang Hui, Huang Yan, Li Xiangru, Bian Zhang, Beigong Boyu, Li Wenhou, Hanyang Commandery, Di Dao, Office-Duty Martyrdom, and Frontier Command Collapse pages; updated connected late-Han, Liangzhou, people-support, moral-reputation, alliance-fragility, and tempo-discipline pages. No settled contradiction found; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

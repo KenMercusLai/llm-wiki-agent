@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？](sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw.md) — 芮淇讲透资治通鉴 episode on Han Sui's Liangzhou consolidation, Geng Bi's failed campaign, Fu Xie's Hanyang siege and death, and the court's loss of Liangzhou control.
 - [《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱](sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh.md) — 芮淇讲透资治通鉴 episode on 187 CE Liangzhou rebellion, Wuhuan auxiliary supply failure, Zhang Ju's imperial claim, Sun Jian's Changsha pacification, rank sale, and Chen Shi's moral authority.
 - [《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲](sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy.md) — 芮淇讲透资治通鉴 episode on 188 CE amnesty and omen politics, Baibo resurgence, Liu Yan's州牧 proposal, Southern Xiongnu revolt, Yufuluo's elevation, and Cao Song's dismissal.
 - [《资治通鉴·汉纪》940丨得民心者得天下，你信不信？](sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j.md) — 芮淇讲透资治通鉴 episode on Ma Xiang and Zhao Zhi's Yizhou revolt, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and flood-relief corruption.
@@ -1438,6 +1439,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [傅燮 / Fu Xie](entities/FuXie.md) — Hanyang administrator who warns Geng Bi, refuses escape or surrender, entrusts Fu Gan to Yang Hui, and dies during the Liangzhou collapse.
+- [傅干 / Fu Gan](entities/FuGan.md) — Fu Xie's son, sent away under Yang Hui's protection after urging his father to survive the Hanyang siege.
+- [程球 / Cheng Qiu](entities/ChengQiu.md) — Corrupt Geng Bi subordinate whose killing at Di Dao starts the Liangzhou expedition's internal collapse.
+- [杨晖 / Yang Hui (late Han)](entities/YangHuiLateHan.md) — Trusted protector to whom Fu Xie entrusts Fu Gan before dying at Hanyang.
+- [黄衍 / Huang Yan (late Han)](entities/HuangYanLateHan.md) — Former Jiuquan administrator sent by Wang Guo to persuade Fu Xie to surrender.
+- [李相如 / Li Xiangru (late Han)](entities/LiXiangruLateHan.md) — Longxi administrator who joins rebellion after Han Sui's enlarged force attacks the commandery.
+- [边章 / Bian Zhang (late Han)](entities/BianZhangLateHan.md) — Liangzhou rebel figure whose force is absorbed by Han Sui, with death-by-Han-Sui and illness variants kept source-scoped.
+- [北宫伯玉 / Beigong Boyu (late Han)](entities/BeigongBoyuLateHan.md) — Liangzhou rebel figure absorbed by Han Sui before the Longxi attack.
+- [李文侯 / Li Wenhou (late Han)](entities/LiWenhouLateHan.md) — Liangzhou rebel figure absorbed by Han Sui during the 187 CE consolidation.
+- [汉阳郡 / Hanyang Commandery (late Han)](entities/HanyangCommanderyLateHan.md) — Commandery where Fu Xie is besieged after Geng Bi's army collapses at Di Dao.
+- [狄道 / Di Dao (late Han)](entities/DiDaoLateHan.md) — Liangzhou site where Cheng Qiu and Geng Bi are killed, also tied to Wang Guo's rebel identity.
 - [耿鄙 / Geng Bi (late Han)](entities/GengBiLateHan.md) — Liangzhou inspector whose command collapse and death form the immediate prelude to Ma Teng, Han Sui, and Wang Guo's 187 CE rebel coalition.
 - [崔烈 / Cui Lie (late Han)](entities/CuiLieLateHan.md) — Late-Han official who briefly becomes taiwei after Zhang Wen's removal and is later replaced by Cao Song.
 - [丁宫 / Ding Gong (late Han)](entities/DingGongLateHan.md) — Pei commandery official appointed sikong in Hanji 938, kept distinct from the Chu-Han Ding Gong page.
@@ -8876,6 +8888,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Office-Duty Martyrdom / 守官赴死](concepts/OfficeDutyMartyrdom.md) — Fu Xie source concept for dying at one's official post while separating personal duty from family survival.
+- [Frontier Command Collapse / 边郡军政崩盘](concepts/FrontierCommandCollapse.md) — Geng Bi source concept where corrupt staff, weak trust, bad timing, and ignored advice break a frontier campaign before battle.
 - [Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵](concepts/FrontierAuxiliarySupplyFailure.md) — Hanji 938 pattern where unfed or unpaid Wuhuan auxiliaries desert and become rebellion infrastructure.
 - [益州宽惠安抚 / Yizhou Pacification by Leniency](concepts/YizhouPacificationByLeniency.md) — Hanji 940 pattern where Liu Yan converts post-revolt instability into provincial attachment through lenient settlement.
 - [救灾物资贪腐 / Disaster Relief Corruption](concepts/DisasterReliefCorruption.md) — Failure mode where disaster aid is diverted by officials, turning relief into a state-capacity and legitimacy test.

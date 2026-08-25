@@ -2,11 +2,13 @@
 title: "汉灵帝 / Emperor Ling of Han"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
+sources: [zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
 last_updated: 2026-08-25
 ---
 
 # 汉灵帝 / Emperor Ling of Han
+
+[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] gives Emperor Ling an earlier 187 CE crisis layer. He issues a general amnesty, rewards [[HeMiaoLateHan|何苗]] after the Yingyang thief suppression, and still cannot prevent the Liangzhou collapse that kills [[GengBiLateHan|耿鄙]] and [[FuXie|傅燮]]. The episode's imperial profile is one of central incapacity: local loyalty can still exist, but the court cannot protect or coordinate it.
 
 [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] shows Emperor Ling amid 187 CE multi-front crisis before Hanji 939's amnesty and provincial-shepherd response. He faces Liangzhou rebellion, the [[ZhangJuLateHan|张举]] abdication demand, [[QuXingLateHan|曲星]]'s Changsha rising, and fiscal status monetization through the sale of Guannei marquis rank. The episode's imperial profile is reactive: appointments and title sales continue, but they do not prevent military and symbolic humiliation.
 
@@ -31,6 +33,7 @@ The same source also names Emperor Ling as one of the authorities whose summons 
 ## Connections
 
 - [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[ZhangJuLateHan|张举]], [[QuXingLateHan|曲星]], [[SunJianLateHan|孙坚]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], and [[MingqiLegitimacy|名器合法性]] - 187 CE rebellion, abdication demand, local suppression, and rank sale.
+- [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]], [[HeMiaoLateHan|何苗]], [[GengBiLateHan|耿鄙]], [[FuXie|傅燮]], and [[FrontierCommandCollapse|边郡军政崩盘]] - 187 CE amnesty, appointment, and Liangzhou failure.
 - [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[BaiboArmy|白波军]], [[SouthernXiongnu|南匈奴]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - amnesty, comet response, and first provincial-shepherd appointments.
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[HefeiMarquisLateHan|合肥侯]], [[WestGardenEightColonels|西园八校尉]], and [[JianShuoLateHan|蹇硕]] - failed 188 CE seizure plot and capital military restructuring.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[JianShuoLateHan|蹇硕]], and [[HeJin|何进]] - non-designated succession and deathbed trust.

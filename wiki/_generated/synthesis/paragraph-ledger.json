@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
       "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
       "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
       "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
@@ -206,11 +207,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 204
+    "paragraph_count": 205
   },
-  "overview_commit": "ded1caee8a2279d6c67472ad196670ed9f2b026d",
-  "overview_digest": "89a462eadc6655a76424f7911aeb5d46afda0c76c3e99d4275c803e38dd455a2",
+  "overview_commit": "1e214e9a158ab1856afbf3d420e9ece24bfcfbb0",
+  "overview_digest": "8fe3aebf3c258afa721fdfac640db99a2f233370addf2dd737feb97a04c7b2e6",
   "paragraphs": [
+    {
+      "id": "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 187 CE Liangzhou collapse before [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]]. It adds [[FuXie|傅燮]], [[FuGan|傅干]], [[ChengQiu|程球]], [[YangHuiLateHan|杨晖]], [[HuangYanLateHan|黄衍]], [[LiXiangruLateHan|李相如]], [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], [[LiWenhouLateHan|李文侯]], [[HanyangCommanderyLateHan|汉阳郡]], [[DiDaoLateHan|狄道]], [[OfficeDutyMartyrdom|守官赴死]], and [[FrontierCommandCollapse|边郡军政崩盘]], while extending [[EmperorLingOfHan|汉灵帝]], [[HeMiaoLateHan|何苗]], [[HanSui|韩遂]], [[GengBiLateHan|耿鄙]], [[WangGuoLateHan|王国]], [[LongxiCommandery|陇西郡]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[MoralReputationPoliticalCapital|道德名望政治资本]]. Its core synthesis is that Liangzhou collapses through coupled command and moral failure: Han Sui consolidates rebel leadership, Geng Bi turns corrupt staff and premature timing into mutiny, and Fu Xie's local reputation can create rescue offers but cannot save the commandery once he chooses official duty over flight or surrender. No settled contradiction is recorded; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BeigongBoyuLateHan",
+        "BianZhangLateHan",
+        "ChengQiu",
+        "DiDaoLateHan",
+        "EmperorLingOfHan",
+        "FrontierCommandCollapse",
+        "FuGan",
+        "FuXie",
+        "GengBiLateHan",
+        "HanSui",
+        "HanyangCommanderyLateHan",
+        "HeMiaoLateHan",
+        "HuangYanLateHan",
+        "InterestStructuredAllianceFragility",
+        "LiWenhouLateHan",
+        "LiXiangruLateHan",
+        "LongxiCommandery",
+        "MoralReputationPoliticalCapital",
+        "OfficeDutyMartyrdom",
+        "PeopleBasedPoliticalSecurity",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangGuoLateHan",
+        "WarCostTempoDiscipline",
+        "YangHuiLateHan",
+        "zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw",
+        "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh"
+      ]
+    },
     {
       "id": "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
       "primary_topic": "governance-and-institutions",
