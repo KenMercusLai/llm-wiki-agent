@@ -11723,3 +11723,7 @@ Health and identity validation passed. Deterministic lint found one orphan page 
 ## [2026-08-26] ingest | 商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？
 
 Added source page for 商业就是这样 short episode on HYROX's copyable fitness-race rules, trademark and visual protection, standardized timing, participation data, global rankings, gym authorization, and fast sponsor/event network. Created HYROX, HYROX World GmbH, Ironman, Infront Sports & Media, Yuan Fang, Wang Shi, Mass Participation Sports Event Moat, Fitness Race Standardization, Participation Data Moat, Trademark-Based Event Protection, and Authorized Fitness Training Network; updated Business Moat, Consumer Brand Moat, Sports Lifestyle Consumption, Performance Footwear Market, Subculture Led Marketing, Visual Brand System, Sports Entertainment Flywheel, Wanda Group, and 商业就是这样. No direct contradiction found; the source qualifies existing brand-moat and fitness/sportswear claims by showing official score continuity and participant identity as moat mechanisms.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
