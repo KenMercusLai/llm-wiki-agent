@@ -11743,3 +11743,7 @@ Added source page for Hanji 922: Emperor Ling's 182-183 CE court prelude, false 
 ## [2026-08-26] ingest | 693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)
 
 Added source page for The Rest Is History episode 693 on Francis Drake before the episode 694 return crisis: contested hero/villain memory, John Hawkins and English slaving, San Juan de Ulua, Nombre de Dios, Diego and the Cimarrones, Doughty's execution, the Golden Hind circumnavigation, the Nuestra Senora de la Concepcion prize, New Albion, and Spain's exposed oceanic routes. Created pages for John Hawkins, San Juan de Ulua, Nombre de Dios, Diego (Drake Ally), Cimarrones, Thomas Doughty, Nuestra Senora de la Concepcion, New Albion, Miwok, Piracy-Privateering Boundary, Atlantic Slave Trade-Privateering Link, and Spanish Imperial Monopoly Vulnerability; updated the Drake, Elizabethan, privateering, economic-war, voyage-attrition, and historical-memory pages. No direct contradiction found; the source backfills and complicates the existing Drake branch rather than reversing episode 694's return sequence.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
