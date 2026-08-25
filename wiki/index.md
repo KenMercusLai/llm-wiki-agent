@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？](sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z.md) — 芮淇讲透资治通鉴 episode on Gai Xun and Yuan Shao's anti-eunuch move, Jian Shuo's counter-transfer, Wang Guo's failed siege of Chen Cang, Huangfu Song's delayed pursuit, Gongsun Zan's overreach, Liu Yu's Youzhou pacification, and Cao Cao's prelude.
 - [《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险](sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's non-designated succession, Jian Shuo's failed move for Liu Xie, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong's side.
 - [《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴](sources/zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr.md) — 芮淇讲透资治通鉴 episode on He Jin's early anti-eunuch planning, Yuan Shao's outside-troop advice, Empress Dowager He and He-family obstruction, Chen Lin and Cao Cao's leakage warnings, and lethal plan exposure risk.
 - [《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦](sources/zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl.md) — 芮淇讲透资治通鉴 episode on He Jin's obsession with summoning outside troops, Zheng Tai and Lu Zhi's warnings, Dong Zhuo's halted approach, Yuan Shao's jiajie authority, and Zhang Rang's return through palace-family ties.
@@ -1431,6 +1432,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [盖勋 / Gai Xun (late Han)](entities/GaiXunLateHan.md) — Upright official whose attempted anti-eunuch alliance with Yuan Shao is neutralized by Jian Shuo's Jingzhao transfer.
+- [王国 / Wang Guo (late Han)](entities/WangGuoLateHan.md) — Liangzhou-side rebel leader whose failed siege of Chen Cang gives Huangfu Song the delayed-pursuit victory in Hanji 942.
+- [丘力居 / Qiu Liju (late Han)](entities/QiuLijuLateHan.md) — Wuhuan leader who traps Gongsun Zan after over-deep pursuit and later submits when Liu Yu stabilizes Youzhou.
+- [张纯 / Zhang Chun (late Han)](entities/ZhangChunLateHan.md) — Late-Han rebel figure defeated by Gongsun Zan at Shimen before fleeing beyond the frontier.
+- [张举 / Zhang Ju (late Han)](entities/ZhangJuLateHan.md) — Late-Han rebel associated with the Youzhou disorder that Liu Yu resolves through reward and surrender signaling.
+- [阎忠 / Yan Zhong (late Han)](entities/YanZhongLateHan.md) — Former Xindu official coerced by Han Sui to head the post-Wang-Guo coalition before dying soon after.
+- [陈仓之战 / Chen Cang Battle (late Han)](entities/ChenCangBattleLateHan.md) — Hanji 942 battle where Huangfu Song waits out Wang Guo's siege and attacks the exhausted retreating army.
 - [蹇硕 / Jian Shuo (late Han)](entities/JianShuoLateHan.md) — Eunuch and military office-holder whose failed attempt to kill He Jin and install Liu Xie opens the Hanji 943 succession crisis.
 - [董太后 / Empress Dowager Dong (late Han)](entities/EmpressDowagerDongLateHan.md) — Foster-grandmother support line for Liu Xie, targeted by He Jin and Empress Dowager He after Liu Bian's accession.
 - [董重 / Dong Zhong (late Han)](entities/DongZhongLateHan.md) — Dong-family general whose threat value makes him the armed target of He Jin's post-accession purge.

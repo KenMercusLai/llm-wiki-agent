@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？
+
+Added source page for Hanji 942: Gai Xun and Yuan Shao's first anti-eunuch move, Jian Shuo's transfer counter, Wang Guo's failed siege of Chen Cang, Huangfu Song's delay-then-pursue victory over Dong Zhuo's objections, Gongsun Zan's over-pursuit against Qiu Liju, Liu Yu's Youzhou pacification, Han Sui/Yan Zhong coalition instability, Ma Ridi's eclipse-linked dismissal, He Jin's delay of Jian Shuo's western-transfer plan, and Cao Cao's early military footing. Created pages for Gai Xun, Wang Guo, Qiu Liju, Zhang Chun, Zhang Ju, Yan Zhong, and the Chen Cang battle; updated connected late-Han actors and court-access, fortified-attrition, forced-march, people-based security, alliance-fragility, war-cost, celestial-omen, and surrender-cascade concepts. No settled contradiction found; similarly named figures were disambiguated.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险
 
 Added source page for Hanji 943: Emperor Ling's non-designated succession, Liu Bian and Liu Xie's rival maternal/foster support lines, Jian Shuo's failed attempt to kill He Jin and install Liu Xie, Pan Yin's warning, Guo Sheng's letter handoff, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong and Dong Zhong. Created pages for Jian Shuo, Empress Dowager Dong, Dong Zhong, Guo Sheng, Pan Yin, Shi Zimiao, and Zhang Jin; updated connected late-Han actors and succession, palace-access, palace-violence, maternal-status, legitimacy-purge, and human-nature concepts. No settled contradiction found; Dong Taihou's death remains source-variant across chronicle, history, and Romance accounts, and the host's power-and-human-nature readings remain source-scoped.
@@ -11422,6 +11426,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
 
 Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 
