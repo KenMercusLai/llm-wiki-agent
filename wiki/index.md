@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [YETI: Ron and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand](sources/yeti-ron-and-ryan-seiders-how-two-brothers-turned-a-400-cooler-into-a-2-billion-brand-d7f8e0e8-51a5-4444-8c1d-f5c43c353285.md) — How I Built This episode on Roy and Ryan Seiders building YETI through rotomolded cooler durability, specialty retail, proof-led marketing, supplier-risk recovery, and Rambler drinkware expansion.
 - [《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国](sources/zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe.md) — 芮淇讲透资治通鉴 prologue setting up the Three Kingdoms arc as a historical-source and struggle-strategy reading rather than only Romance memory.
+- [《资治通鉴·汉纪》924丨1%的错误=100%的失败](sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md) — 芮淇讲透资治通鉴 episode backfilling the opening 184 CE Yellow Turban emergency, party-ban crisis amnesty, palace-insider exposure, and eunuch-channel retaliation against corrective speakers.
 - [《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮](sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4.md) — 芮淇讲透资治通鉴 episode on Gongsun Hong's compromise logic, Cao Cao's early law-enforcement signal, and the Changshe fire attack against Bo Cai's Yellow Turban force.
 - [《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”](sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc.md) — 芮淇讲透资治通鉴 episode on Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "能臣/奸雄" label, and anti-eunuch signaling from a eunuch-family background.
 - [《资治通鉴·汉纪》927丨做生意的最高境界是什么？](sources/zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr.md) — 芮淇讲透资治通鉴 episode on Fu Xie's warning about eunuch-rooted Yellow Turban disorder, Zhang Mancheng's Nanyang branch, Jia Cong's Jiaozhi pacification, and source-scoped business composure.
@@ -1468,6 +1469,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [YETI Tundra](entities/YETITundra.md) — Hard-cooler product line that made YETI's rugged premium positioning visible.
 - [YETI Rambler](entities/YETIRambler.md) — Drinkware line that gave YETI a lower-price mass-appeal entry point.
 - [三国时代 / Three Kingdoms Period](entities/ThreeKingdomsPeriod.md) — Historical-period node introduced by Hanji 923 plus as the upcoming field for long-game struggle strategy and source-vs-Romance reading.
+- [封谞 / Feng Xu (late Han)](entities/FengXuLateHan.md) — Eunuch exposed in Hanji 924 as an inside contact for Zhang Jiao during the Yellow Turban emergency.
+- [吕强 / Lyu Qiang (late Han)](entities/LyuQiangLateHan.md) — Eunuch adviser who urges party-ban amnesty and anti-corruption measures before Zhao Zhong and Xia Yun's accusation drives his suicide.
+- [夏韵 / Xia Yun (late Han)](entities/XiaYunLateHan.md) — Eunuch favorite who joins Zhao Zhong in accusing Lyu Qiang after his crisis-repair advice.
+- [项诩 / Xiang Xu (late Han)](entities/XiangXuLateHan.md) — Henei attendant official whose anti-eunuch memorial is reframed by Zhang Rang as Yellow Turban collusion.
+- [徐奉 / Xu Feng (late Han)](entities/XuFengLateHan.md) — Eunuch exposed with Feng Xu as a Zhang Jiao insider, showing palace-favorite culpability in the Yellow Turban crisis.
+- [张钧 / Zhang Jun (late Han)](entities/ZhangJunLateHan.md) — Zhongshan langzhong whose anti-Ten-Attendants memorial is shown to the eunuchs and recoded into a fatal Yellow Turban accusation.
 - [公孙弘 / Gongsun Hong](entities/GongsunHong.md) — Western Han official used in Hanji 925 as a case of compromise without losing agency.
 - [波才 / Bo Cai (late Han)](entities/BoCaiLateHan.md) — Yellow Turban commander whose force defeats Zhu Jun before collapsing under Huangfu Song's Changshe fire-attack design.
 - [长社之战 / Changshe Battle (late Han)](entities/ChangsheBattleLateHan.md) — 184 CE battle where Huangfu Song uses retreat, harassment, and fire attack against Bo Cai's Yellow Turban force.
@@ -8982,6 +8989,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supplier Concentration Crisis](concepts/SupplierConcentrationCrisis.md) — Manufacturing risk where a growing company depends too heavily on one factory, geography, or key person.
 - [Accessible Entry Point Brand Extension](concepts/AccessibleEntryPointBrandExtension.md) — Brand-extension pattern where a lower-price product lets more customers participate without abandoning the premium promise.
 - [三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading](concepts/ThreeKingdomsStruggleStrategyReading.md) — Hanji 923 plus frame for reading Three Kingdoms through repeated conflict, shifting alliances, and historical-source discipline.
+- [Party-Ban Crisis Amnesty / 党锢危机赦免](concepts/PartyBanCrisisAmnesty.md) — Hanji 924 emergency-repair move where releasing banned party figures and their families rebuilds crisis capacity against the Yellow Turban uprising.
+- [Small Error Systemic Failure / 细小错误系统性放大](concepts/SystemicErrorAmplification.md) — Hanji 924 frame for how a small institutional flaw becomes total failure when court access capture amplifies errors under crisis pressure.
 - [Strategic Compromise as Agency / 策略性妥协保全机会](concepts/StrategicCompromiseAsAgency.md) — compromise pattern where a second-best adjustment preserves influence and future action.
 - [Status-Conditioned Risk Taking / 地位条件化行动尺度](concepts/StatusConditionedRiskTaking.md) — risk pattern where rank, backing, and office change what actions are survivable.
 - [Local Private AI](concepts/LocalPrivateAI.md) — Pattern where AI runs against private user data on the user's own machine rather than exposing files, prompts, or queries to cloud services.

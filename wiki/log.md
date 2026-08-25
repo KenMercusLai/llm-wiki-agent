@@ -11608,6 +11608,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 923 plus: a short prologue framing the coming Three Kingdoms arc as source-grounded struggle strategy rather than only Romance memory. Created Three Kingdoms Period and Three Kingdoms Struggle Strategy Reading pages; updated Romance of the Three Kingdoms, Journey to the West, Water Margin, Dream of the Red Chamber, Classic Reading Complexity, and Fiction As Historical Evidence pages. No settled contradiction found; Zhao Zilong and Sima Yi remain source-scoped teaser names rather than new canonical pages.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》924丨1%的错误=100%的失败
+
+Added source page for Hanji 924: the opening 184 CE Yellow Turban emergency, Emperor Ling's capital-defense response, Huangfu Song and Lyu Qiang's party-ban amnesty and military-funding advice, and the Ten Attendants' continued control over accusation channels. Created pages: `wiki/sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md`, `wiki/entities/FengXuLateHan.md`, `wiki/entities/LyuQiangLateHan.md`, `wiki/entities/XiaYunLateHan.md`, `wiki/entities/XiangXuLateHan.md`, `wiki/entities/XuFengLateHan.md`, `wiki/entities/ZhangJunLateHan.md`, `wiki/concepts/PartyBanCrisisAmnesty.md`, and `wiki/concepts/SystemicErrorAmplification.md`. No settled contradiction found; Xia Yun's source spelling and the episode's "1%" framing remain source-scoped.
+
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
