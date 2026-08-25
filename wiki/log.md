@@ -11466,3 +11466,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》940丨得民心者得天下，你信不信？
 
 Added source page for Hanji 940: Fan Ling's brief taiwei appointment, Ma Xiang and Zhao Zhi's Yizhou revolt at Mianzhu, Xi Jian's failed local support, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and seven-commandery flood relief corruption. Created Ma Xiang, Zhao Zhi, Xi Jian, Jia Long, Mianzhu, Ba Commandery, Qianwei Commandery, Yizhou pacification by leniency, and disaster relief corruption pages; updated Fan Ling, Liu Yan, Yizhou, people-based political security, provincial shepherd autonomy, disaster response state capacity, overview, and index. No settled contradiction found; transcript renderings "留言" and "樊麟" were normalized to canonical Liu Yan and Fan Ling.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,236 non-generated wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
