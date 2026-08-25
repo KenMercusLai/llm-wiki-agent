@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores
+
+Added source page for the All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing rhetoric, open-model pressure, Anthropic book-scanning and copyright disputes, Mamdani's city-owned grocery proposal, and fruit-fly neural geometry. Created Leopold Aschenbrenner, Zohran Mamdani, AI Portfolio Leverage Liquidation, Pacing the Frontier, and City-Owned Grocery Politics; updated relevant All-In, OpenAI, Anthropic, valuation, safety-governance, open-model, training-data, grocery, and neural-geometry pages. No settled contradiction found; the margin-call details, safety-bill odds, book-settlement figures, grocery budget, and neuroscience interpretation remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？
 
 Added source page for Hanji 918: adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot and household leak through Cheng Huang, Bandun Man/Yizhou/Xianbei pressure, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen. Created disambiguated pages for Liu He the situ, Liu Tiao, Chen Qiu, Liu Na, Yang Qiu, Cheng Huang, He Zhen, Wang Fu, and Adversity Silence Discipline; updated linked late-Han entity and concept pages. No settled contradiction found; transcript Liu He/Liu Tiao ASR variants are normalized to 刘郃/刘鯈 and kept distinct from Liu Yu's son Liu He.
