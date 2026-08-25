@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
       "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
       "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
       "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
@@ -205,11 +206,54 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 203
+    "paragraph_count": 204
   },
-  "overview_commit": "7ed9bb734f3a90c499a7027f70a57b4438be2865",
-  "overview_digest": "f6a348dccef2dd2a7c30bfc72a2cded600deb7c771c0feaf2f0daaefd5004a31",
+  "overview_commit": "ded1caee8a2279d6c67472ad196670ed9f2b026d",
+  "overview_digest": "89a462eadc6655a76424f7911aeb5d46afda0c76c3e99d4275c803e38dd455a2",
   "paragraphs": [
+    {
+      "id": "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 187 CE late-Han layer immediately before [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]]. It adds [[GengBiLateHan|耿鄙]], [[CuiLieLateHan|崔烈]], [[DingGongLateHan|丁宫]], [[QuXingLateHan|曲星]], [[ChenShiLateHan|陈寔]], and [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]], while extending [[MaTeng|马腾]], [[HanSui|韩遂]], [[WangGuoLateHan|王国]], [[ZhangWenLateHan|张温]], [[ZhangChunLateHan|张纯]], [[ZhangJuLateHan|张举]], [[QiuLijuLateHan|丘力居]], [[Wuhuan|乌桓]], [[GongsunZan|公孙瓒]], [[SunJianLateHan|孙坚]], [[XuXiangLateHan|许相]], [[CaoSong|曹嵩]], [[EmperorLingOfHan|汉灵帝]], [[YouzhouLateHan|幽州]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[MingqiLegitimacy|名器合法性]], [[RankSaleDisasterFinance|鬻爵赈灾融资]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]]. Its core synthesis is that late-Han collapse is visible before Dong Zhuo: Liangzhou rebellion grows out of unlivable local rule, Wuhuan troop mismanagement turns a mobilization asset into a rebellion channel, Zhang Ju's imperial claim humiliates Han authority, Sun Jian's Changsha victory previews local militarized careers, and Chen Shi's moral authority shows a rare non-coercive order path. No settled contradiction is recorded; transcript forms 耿彼, 丁公, 三府, and 肥河县 are kept source-scoped or normalized only where the role clearly identifies the distinct historical actor.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoSong",
+        "ChenShiLateHan",
+        "CuiLieLateHan",
+        "DingGongLateHan",
+        "EmperorLingOfHan",
+        "FrontierAuxiliarySupplyFailure",
+        "GengBiLateHan",
+        "GongsunZan",
+        "HanSui",
+        "InterestStructuredAllianceFragility",
+        "MaTeng",
+        "MingqiLegitimacy",
+        "MoralReputationPoliticalCapital",
+        "PeopleBasedPoliticalSecurity",
+        "QiuLijuLateHan",
+        "QuXingLateHan",
+        "RankSaleDisasterFinance",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunJianLateHan",
+        "WangGuoLateHan",
+        "Wuhuan",
+        "XuXiangLateHan",
+        "YouzhouLateHan",
+        "ZhangChunLateHan",
+        "ZhangJuLateHan",
+        "ZhangWenLateHan",
+        "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+        "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy"
+      ]
+    },
     {
       "id": "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
       "primary_topic": "governance-and-institutions",

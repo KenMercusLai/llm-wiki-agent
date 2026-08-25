@@ -12,6 +12,8 @@ last_updated: 2026-08-25
 
 The backfire is immediate and political. [[XiluoSouthernXiongnu|醯落]] and the [[TugeHu|屠各胡]] rebel, kill Qiangqu, and install [[YufuluoChanyu|于扶罗]]. The court's attempt to solve one frontier-civil crisis by drawing on an allied frontier group therefore destabilizes that group's internal order and produces a new armed actor for later late-Han conflicts.
 
+[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] supplies an adjacent but distinct Wuhuan case through [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]]. There the failure is not a partner succession revolt caused by requisition pressure; it is the collapse of food, pay, and command credibility after Wuhuan cavalry have already been recruited.
+
 This concept differs from ordinary military mobilization failure. It names the case where a center's extraction of frontier auxiliary forces weakens the partner's internal legitimacy and turns the partner into another crisis source.
 
 ## Key Claims
@@ -26,5 +28,5 @@ This concept differs from ordinary military mobilization failure. It names the c
 - [[SouthernXiongnu|南匈奴]], [[QiangquChanyu|羌渠]], [[XiluoSouthernXiongnu|醯落]], [[TugeHu|屠各胡]], and [[YufuluoChanyu|于扶罗]] - source case's internal-revolt chain.
 - [[LiuYuLateHan|刘虞]], [[YouzhouLateHan|幽州]], and [[ZhangChunLateHan|张纯]] - campaign target and frontier province that trigger the requisition.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent frame for why cooperation can fail when participant incentives diverge.
+- [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]] - adjacent Hanji 938 case where an auxiliary force fails through logistics and resentment rather than through allied-group succession backlash.
 - [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - same episode's institutional response to disorder that may shift power away from the center.
-

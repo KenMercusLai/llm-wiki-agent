@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱](sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh.md) — 芮淇讲透资治通鉴 episode on 187 CE Liangzhou rebellion, Wuhuan auxiliary supply failure, Zhang Ju's imperial claim, Sun Jian's Changsha pacification, rank sale, and Chen Shi's moral authority.
 - [《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲](sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy.md) — 芮淇讲透资治通鉴 episode on 188 CE amnesty and omen politics, Baibo resurgence, Liu Yan's州牧 proposal, Southern Xiongnu revolt, Yufuluo's elevation, and Cao Song's dismissal.
 - [《资治通鉴·汉纪》940丨得民心者得天下，你信不信？](sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j.md) — 芮淇讲透资治通鉴 episode on Ma Xiang and Zhao Zhi's Yizhou revolt, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and flood-relief corruption.
 - [Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI](sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555.md) — All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale and SaaS reset, and U.S. expert-data sales to Chinese AI labs.
@@ -1437,6 +1438,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [耿鄙 / Geng Bi (late Han)](entities/GengBiLateHan.md) — Liangzhou inspector whose command collapse and death form the immediate prelude to Ma Teng, Han Sui, and Wang Guo's 187 CE rebel coalition.
+- [崔烈 / Cui Lie (late Han)](entities/CuiLieLateHan.md) — Late-Han official who briefly becomes taiwei after Zhang Wen's removal and is later replaced by Cao Song.
+- [丁宫 / Ding Gong (late Han)](entities/DingGongLateHan.md) — Pei commandery official appointed sikong in Hanji 938, kept distinct from the Chu-Han Ding Gong page.
+- [曲星 / Qu Xing (late Han)](entities/QuXingLateHan.md) — Changsha rebel suppressed by Sun Jian in 187 CE, giving Sun Jian an early governorship-and-marquis branch.
+- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose "梁上君子" story and posthumous mourning contrast with late-Han coercive disorder.
 - [马相 / Ma Xiang (late Han)](entities/MaXiangLateHan.md) — Yizhou rebel who rises at Mianzhu, kills Xi Jian, proclaims himself Son of Heaven, and is defeated by Jia Long.
 - [赵祗 / Zhao Zhi (late Han)](entities/ZhaoZhiLateHan.md) — Co-leader with Ma Xiang in the Mianzhu Yellow Turban-banner revolt.
 - [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
@@ -8870,6 +8876,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵](concepts/FrontierAuxiliarySupplyFailure.md) — Hanji 938 pattern where unfed or unpaid Wuhuan auxiliaries desert and become rebellion infrastructure.
 - [益州宽惠安抚 / Yizhou Pacification by Leniency](concepts/YizhouPacificationByLeniency.md) — Hanji 940 pattern where Liu Yan converts post-revolt instability into provincial attachment through lenient settlement.
 - [救灾物资贪腐 / Disaster Relief Corruption](concepts/DisasterReliefCorruption.md) — Failure mode where disaster aid is diverted by officials, turning relief into a state-capacity and legitimacy test.
 - [AI Hyperscaler Model Channel Conflict](concepts/AIHyperscalerModelChannelConflict.md) — Tension between hyperscaler cloud businesses selling scarce AI compute to frontier labs and internal model teams needing the same capacity to compete.

@@ -2,11 +2,13 @@
 title: "孙坚 / Sun Jian (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, military]
-sources: [zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
+sources: [zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]
 last_updated: 2026-08-25
 ---
 
 # 孙坚 / Sun Jian (late Han)
+
+[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] backfills Sun Jian's early Changsha merit branch. [[EmperorLingOfHan|汉灵帝]] appoints him Changsha taishou after [[QuXingLateHan|曲星]] raises a local force, and Sun Jian suppresses the revolt and receives the Wu Cheng marquis title. This makes the later inherited-title material in Hanji 1019 depend on an earlier local pacification record rather than appearing only through Sun Ce's appointment package.
 
 [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] adds Sun Jian's pre-[[YuanShu|袁术]] rise before his cleaner anti-[[DongZhuo|董卓]] front in Hanji 955. In [[Jingzhou]], he acts on [[CaoYinLateHan|Cao Yin]]'s forged order against [[WangRuiLateHan|Wang Rui]] without verification, and Wang Rui dies by suicide after Sun Jian names his offense as "愚昧无知."
 
@@ -31,6 +33,7 @@ The episode does not develop Sun Jian's biography. His wiki role here is genealo
 [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds an earlier symbolic branch. The source says [[YuanShu|袁术]] hears that Sun Jian has the [[HeirloomImperialSeal|传国玉玺]], detains Sun Jian's wife, and forces the seal into his own hands. This does not make Sun Jian a developed actor in the episode, but it makes his household the channel through which Yuan Shu gains an imperial object that later feeds an unsupported title claim.
 
 ## Connections
+- [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[QuXingLateHan|曲星]], and [[EmperorLingOfHan|汉灵帝]] - Changsha appointment, suppression, and Wu Cheng marquis origin.
 - [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]], [[WangRuiLateHan|王瑞]], [[CaoYinLateHan|曹寅]], [[ZhangZiLateHan|张咨]], [[NanyangCommandery|南阳郡]], and [[YuanShu|袁术]] - forged authority, Wang Rui's death, grain coercion, and Yuan-Shu-backed title stage.
 - [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[XuRongLateHan|徐荣]], [[ZuMaoLateHan|祖茂]], [[YangrenBattleLateHan|阳人之战]], [[HuZhenLateHan|胡轸]], [[HuaXiongLateHan|华雄]], [[GuanYu|关羽]], and [[RomanceOfTheThreeKingdoms|《三国演义》]] - defeat, escape, corrected Hua Xiong credit, and literary-memory contrast.
 - [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]], [[AntiDongZhuoCoalition|反董卓联盟]], [[DongZhuo|董卓]], [[LyuBu|吕布]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[ZhouAngLateHan|周昂]], and [[GongsunYueLateHan|公孙越]] - direct anti-Dong-Zhuo campaign and allied rear-seizure branch.
