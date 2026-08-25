@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝
+
+Added source page for Hanji 923 on adult restraint/self-rescue framing and the Yellow Turban prelude: late-Han epidemic distress, Zhang Jiao's healing-based Taiping Dao expansion, Yang Ci and Liu Tao's ignored warnings, the thirty-six `fang`, Ma Yuanyi's regional and palace-contact plot, Tang Zhou's disclosure, and the accelerated 184 uprising. Created Ma Yuanyi, Tang Zhou, and Relief-Based Religious Mobilization pages; updated Zhang Jiao, Taiping Dao, Yellow Turbans, Emperor Ling of Han, Yang Ci, Liu Tao, Feng Xu, Xu Feng, Zhang Bao, Zhang Liang, Court Feedback Collapse, Pandemic As Historical Force, and Instrumentalized Religious Power. No settled contradiction found; the host's adult-toughness opening and healing-efficacy claims remain source-scoped.
+
 ## [2026-08-26] ingest | 699. The Troubles: Return of the IRA (Part 3)
 
 Added source page for The Rest Is History episode 699 on Northern Ireland's 1970-1971 escalation through the Provisional IRA split, Short Strand, Falls Curfew, Heath and Faulkner's internment decision, Operation Demetrius, the Five Techniques abuse scandal, UDA mobilization, and bombing retaliation. Created pages for Ted Kennedy, Edward Heath, Reginald Maudling, Provisional IRA, Official IRA, Sinn Fein, Gerry Adams, Charles Haughey, Neil Blaney, NORAID, Brian Faulkner, Short Strand, Falls Curfew, Billy Reid, Robert Curtis, Royal Highland Fusiliers, Ulster Defence Association, Operation Demetrius, Long Kesh, McGurk's Bar Bombing, Counterinsurgency Legitimacy Trap, Internment Without Trial, Intelligence Failure Mass Arrest, Five Techniques, Atrocity Retaliation Cycle, and Public Indifference Policy Drift; updated the Troubles branch, British Army, IRA, UVF, Stormont, Belfast, RUC, Orange Order, Cathal Goulding, Ireland, and escalation concepts. No direct contradiction found; the source qualifies the earlier British-Army-as-protector moment by showing how army searches, internment, poor intelligence, and abuse claims eroded Catholic legitimacy after 1970.
