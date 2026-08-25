@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI](sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555.md) — All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale and SaaS reset, and U.S. expert-data sales to Chinese AI labs.
 - [《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝](sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r.md) — 芮淇讲透资治通鉴 episode on Wang Fen's failed 188 CE coup plan, Cao Cao and Hua Xin's refusal logic, the West Garden Eight Colonels, and renewed Yellow Turban disorder.
 - [《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？](sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z.md) — 芮淇讲透资治通鉴 episode on Gai Xun and Yuan Shao's anti-eunuch move, Jian Shuo's counter-transfer, Wang Guo's failed siege of Chen Cang, Huangfu Song's delayed pursuit, Gongsun Zan's overreach, Liu Yu's Youzhou pacification, and Cao Cao's prelude.
 - [《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险](sources/zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt.md) — 芮淇讲透资治通鉴 episode on Emperor Ling's non-designated succession, Jian Shuo's failed move for Liu Xie, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong's side.
@@ -1433,6 +1434,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Airtable](entities/Airtable.md) — No-code SaaS company used by All-In as a post-ZIRP valuation reset and AI disruption case.
+- [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer framed as Airtable's cost-discipline and product-led-growth operator.
+- [Hyper Agent](entities/HyperAgent.md) — Airtable-adjacent AI-agent spinout treated as the separated AI upside branch in the Airtable sale.
+- [Discovery Loop](entities/DiscoveryLoop.md) — Reported Jeff Dean-linked self-improving-AI startup used as a Google talent and organizational-speed signal.
+- [Surge AI](entities/SurgeAI.md) — U.S. data-labeling company named in the episode's expert-data sales and China control debate.
+- [Mercor](entities/Mercor.md) — Expert-work data startup named in the episode's U.S.-to-China AI training-data debate.
+- [Micro1](entities/Micro1.md) — AI data supplier Jason Calacanis cites as avoiding China sales in the expert-data export debate.
 - [王芬 / Wang Fen (late Han)](entities/WangFenLateHan.md) — Jizhou inspector whose failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis becomes the source case for imperial deposition coup risk.
 - [陈逸 / Chen Yi (late Han)](entities/ChenYiLateHan.md) — Chen Fan's son in Wang Fen's anti-eunuch coup circle, carrying older eunuch-grievance energy into the failed 188 CE plot.
 - [陶丘洪 / Taoqiu Hong (late Han)](entities/TaoqiuHongLateHan.md) — Potential Wang Fen coup recruit whom Hua Xin persuades away from joining.
@@ -8825,6 +8833,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Hyperscaler Model Channel Conflict](concepts/AIHyperscalerModelChannelConflict.md) — Tension between hyperscaler cloud businesses selling scarce AI compute to frontier labs and internal model teams needing the same capacity to compete.
+- [Frontier Model Duopoly](concepts/FrontierModelDuopoly.md) — Source-scoped claim that premium frontier intelligence may concentrate around Anthropic and OpenAI even while cheaper and open models remain useful.
+- [AI Compute Price Risk](concepts/AIComputePriceRisk.md) — Infrastructure valuation risk that compute-rental rates, utilization, or demand assumptions fall faster than capacity plans.
+- [SaaS Capital Structure Reset](concepts/SaaSCapitalStructureReset.md) — Repricing of venture-backed SaaS when ZIRP-era valuation, growth, and sales efficiency no longer fit the operating reality.
+- [No-Code AI Disruption](concepts/NoCodeAIDisruption.md) — Pressure on no-code tools when AI can generate or query workflows without users learning specialized builders.
+- [Expert Data Export Controls](concepts/ExpertDataExportControls.md) — Narrow export-control question around U.S. expert/RL training data sold to foreign AI labs, distinct from broad commodity labeling.
+- [Product-Led Growth](concepts/ProductLedGrowth.md) — Software growth motion where product adoption, usage, and collaboration loops carry more of the go-to-market load than heavy sales.
 - [Imperial Deposition Coup Risk / 废立政变风险](concepts/ImperialDepositionCoupRisk.md) — Hanji 941 pattern where an anti-eunuch plot becomes far riskier once it also aims to seize and replace the emperor.
 - [Lethal Plan Leakage Risk / 致命计划泄露风险](concepts/LethalPlanLeakageRisk.md) — Political risk where a high-stakes purge or crisis plan becomes dangerous once talk, delay, and partial disclosure let targets prepare first.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.

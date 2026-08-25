@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
+
+Added source page for an All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale to Bending Spoons and SaaS valuation reset, and U.S. expert-data sales to Chinese AI labs. Created pages for Airtable, Bending Spoons, Hyper Agent, Discovery Loop, Surge AI, Mercor, Micro1, AI Hyperscaler Model Channel Conflict, Frontier Model Duopoly, AI Compute Price Risk, SaaS Capital Structure Reset, No-Code AI Disruption, Expert Data Export Controls, and Product-Led Growth; updated related Google, SpaceX, SaaS, infrastructure-finance, open-model, and export-control pages. No settled contradiction found; Google leadership, SpaceX financials, Airtable transaction details, and China expert-data claims remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？
 
 Added source page for Hanji 942: Gai Xun and Yuan Shao's first anti-eunuch move, Jian Shuo's transfer counter, Wang Guo's failed siege of Chen Cang, Huangfu Song's delay-then-pursue victory over Dong Zhuo's objections, Gongsun Zan's over-pursuit against Qiu Liju, Liu Yu's Youzhou pacification, Han Sui/Yan Zhong coalition instability, Ma Ridi's eclipse-linked dismissal, He Jin's delay of Jian Shuo's western-transfer plan, and Cao Cao's early military footing. Created pages for Gai Xun, Wang Guo, Qiu Liju, Zhang Chun, Zhang Ju, Yan Zhong, and the Chen Cang battle; updated connected late-Han actors and court-access, fortified-attrition, forced-march, people-based security, alliance-fragility, war-cost, celestial-omen, and surrender-cascade concepts. No settled contradiction found; similarly named figures were disambiguated.
