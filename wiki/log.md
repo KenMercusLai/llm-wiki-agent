@@ -11482,3 +11482,7 @@ Ran lint after health and identity validation passed. Health scanned 14,245 wiki
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱
 
 Added source page for Hanji 938: 187 CE Liangzhou rebellion under Ma Teng, Han Sui, and Wang Guo after Geng Bi's collapse, Zhang Wen's dismissal and court office churn through Cui Lie, Xu Xiang, Ding Gong, and Cao Song, Wuhuan auxiliary supply failure feeding Zhang Chun, Zhang Ju, and Qiu Liju's Youzhou rebellion, Sun Jian's suppression of Qu Xing at Changsha, sale of Guannei marquis status, and Chen Shi's "Liangshang Junzi" moral-authority story. Created Geng Bi, Cui Lie, Ding Gong (late Han), Qu Xing, Chen Shi, and Frontier Auxiliary Supply Failure pages; updated connected late-Han rebel, frontier, office, legitimacy, rank-sale, moral-reputation, and people-support pages. No settled contradiction found; transcript renderings 耿彼, 丁公, 三府, and 肥河县 are handled as source-scoped or normalized only where the role is clear.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
