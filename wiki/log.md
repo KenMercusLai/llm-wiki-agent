@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-25] ingest | AI loves negative parallelism
+
+Added source page for a Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency comparison, evolving AI style tells, Claude watermarking, and synthetic-data feedback loops. Created Negative Parallelism; updated Will Oremus, Pangram, The Atlantic, Marketplace Tech, AI Writing Detection, and Model Collapse. No direct contradiction found; the source's next-word-prediction explanation and style-contagion concern are kept source-scoped.
+
 ## [2026-08-25] ingest | 179.先救日元再救长债，“救火队长”贝森特在走一条怎样的钢丝？
 
 Added source page for a 起朱楼宴宾客 macro-policy episode reading Scott Bessent's U.S.-Japan yen support, FIMA Repo pressure, long-end Treasury buybacks, stablecoin Treasury demand, bank balance-sheet tools, and Fed pressure as one fragile financing toolkit. Created Scott Bessent, George Soros, Bessent Impossible Triangle, Treasury Demand Substitution, FIMA Repo Backstop, Treasury Buyback Policy, U.S.-Japan Currency Intervention, Policy Ambiguity As Market Tool, and Hamiltonian Economic Nationalism pages; updated macro institution and currency/bond concept pages. No settled contradiction found; the source's dates, policy motives, and efficacy judgments remain source-scoped.
