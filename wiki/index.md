@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》940丨得民心者得天下，你信不信？](sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j.md) — 芮淇讲透资治通鉴 episode on Ma Xiang and Zhao Zhi's Yizhou revolt, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and flood-relief corruption.
 - [Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI](sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555.md) — All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale and SaaS reset, and U.S. expert-data sales to Chinese AI labs.
 - [《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝](sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r.md) — 芮淇讲透资治通鉴 episode on Wang Fen's failed 188 CE coup plan, Cao Cao and Hua Xin's refusal logic, the West Garden Eight Colonels, and renewed Yellow Turban disorder.
 - [《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？](sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z.md) — 芮淇讲透资治通鉴 episode on Gai Xun and Yuan Shao's anti-eunuch move, Jian Shuo's counter-transfer, Wang Guo's failed siege of Chen Cang, Huangfu Song's delayed pursuit, Gongsun Zan's overreach, Liu Yu's Youzhou pacification, and Cao Cao's prelude.
@@ -1435,6 +1436,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [马相 / Ma Xiang (late Han)](entities/MaXiangLateHan.md) — Yizhou rebel who rises at Mianzhu, kills Xi Jian, proclaims himself Son of Heaven, and is defeated by Jia Long.
+- [赵祗 / Zhao Zhi (late Han)](entities/ZhaoZhiLateHan.md) — Co-leader with Ma Xiang in the Mianzhu Yellow Turban-banner revolt.
+- [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
+- [贾龙 / Jia Long (late Han)](entities/JiaLongLateHan.md) — Yizhou staff official who defeats Ma Xiang and welcomes Liu Yan into the province.
+- [绵竹 / Mianzhu (late Han)](entities/MianzhuLateHan.md) — Yizhou location where Ma Xiang's revolt begins and Liu Yan later moves the provincial seat.
+- [巴郡 / Ba Commandery (late Han)](entities/BaCommanderyLateHan.md) — Yizhou commandery reached during Ma Xiang and Zhao Zhi's rapid revolt.
+- [犍为郡 / Qianwei Commandery (late Han)](entities/QianweiCommanderyLateHan.md) — Yizhou commandery paired with Ba in the episode's account of revolt spread.
 - [Airtable](entities/Airtable.md) — No-code SaaS company used by All-In as a post-ZIRP valuation reset and AI disruption case.
 - [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer framed as Airtable's cost-discipline and product-led-growth operator.
 - [Hyper Agent](entities/HyperAgent.md) — Airtable-adjacent AI-agent spinout treated as the separated AI upside branch in the Airtable sale.
@@ -8854,6 +8862,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [益州宽惠安抚 / Yizhou Pacification by Leniency](concepts/YizhouPacificationByLeniency.md) — Hanji 940 pattern where Liu Yan converts post-revolt instability into provincial attachment through lenient settlement.
+- [救灾物资贪腐 / Disaster Relief Corruption](concepts/DisasterReliefCorruption.md) — Failure mode where disaster aid is diverted by officials, turning relief into a state-capacity and legitimacy test.
 - [AI Hyperscaler Model Channel Conflict](concepts/AIHyperscalerModelChannelConflict.md) — Tension between hyperscaler cloud businesses selling scarce AI compute to frontier labs and internal model teams needing the same capacity to compete.
 - [Frontier Model Duopoly](concepts/FrontierModelDuopoly.md) — Source-scoped claim that premium frontier intelligence may concentrate around Anthropic and OpenAI even while cheaper and open models remain useful.
 - [AI Compute Price Risk](concepts/AIComputePriceRisk.md) — Infrastructure valuation risk that compute-rental rates, utilization, or demand assumptions fall faster than capacity plans.

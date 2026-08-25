@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
       "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
       "df5c29a04690e81016a026daaf2b237839bb63d8d775a4fc01963ac6cd13ce34",
       "3f9930ebab6f19dfd1ee066a722271a561c7baeb0416e0b0ab5ed6b7c094349e",
@@ -204,11 +205,41 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
     ],
-    "paragraph_count": 202
+    "paragraph_count": 203
   },
-  "overview_commit": "fece5e108050bf4af15e9091a7a213038c74104e",
-  "overview_digest": "8f2c2bc67ad56e4977d7f9a56fdac7481bd56c134bd2380552b27dac9a92955d",
+  "overview_commit": "493a7c77a06a58d08a699d0d20b7933f235d08f7",
+  "overview_digest": "77d3c0297c2a0296a0ebfac430a586fe8ffd4ae7c22a28a33758535188cc7f6e",
   "paragraphs": [
+    {
+      "id": "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 188 CE [[YizhouLateHan|益州]] and flood-disaster layer before [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]]. It adds [[MaXiangLateHan|马相]], [[ZhaoZhiLateHan|赵祗]], [[XiJianLateHan|郗俭]], [[JiaLongLateHan|贾龙]], [[MianzhuLateHan|绵竹]], [[BaCommanderyLateHan|巴郡]], [[QianweiCommanderyLateHan|犍为郡]], [[YizhouPacificationByLeniency|益州宽惠安抚]], and [[DisasterReliefCorruption|救灾物资贪腐]], while extending [[FanLingLateHan|樊陵]], [[LiuYanLateHan|刘焉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[ProvincialShepherdAutonomy|州牧集权与地方割据]], and [[DisasterResponseStateCapacity|disaster response state capacity]]. Its core synthesis is that late-Han disorder is already visible as a people-support and relief-integrity problem: Xi Jian's extraction leaves Yizhou undefended, Ma Xiang's uprising converts resentment into fast but unstable power, Jia Long restores local order, Liu Yan enters through lenient pacification at Mianzhu, and the seven-commandery flood reveals both protective officials and relief profiteers. No settled contradiction is recorded; the source's \"留言\" and \"樊麟\" renderings are normalized to canonical [[LiuYanLateHan|刘焉]] and [[FanLingLateHan|樊陵]] while kept source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "BaCommanderyLateHan",
+        "DisasterReliefCorruption",
+        "DisasterResponseStateCapacity",
+        "FanLingLateHan",
+        "JiaLongLateHan",
+        "LiuYanLateHan",
+        "MaXiangLateHan",
+        "MianzhuLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "ProvincialShepherdAutonomy",
+        "QianweiCommanderyLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "XiJianLateHan",
+        "YizhouLateHan",
+        "YizhouPacificationByLeniency",
+        "ZhaoZhiLateHan",
+        "zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j",
+        "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r"
+      ]
+    },
     {
       "id": "11573f92ae4b8882a734507fa688e7cb857e6114d28cb2b59f24f6aa10941f6a",
       "primary_topic": "ai-and-technology",

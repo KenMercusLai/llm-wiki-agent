@@ -11462,3 +11462,7 @@ Added source page for a The Rest Is History episode on Francis Drake's return an
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》940丨得民心者得天下，你信不信？
+
+Added source page for Hanji 940: Fan Ling's brief taiwei appointment, Ma Xiang and Zhao Zhi's Yizhou revolt at Mianzhu, Xi Jian's failed local support, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and seven-commandery flood relief corruption. Created Ma Xiang, Zhao Zhi, Xi Jian, Jia Long, Mianzhu, Ba Commandery, Qianwei Commandery, Yizhou pacification by leniency, and disaster relief corruption pages; updated Fan Ling, Liu Yan, Yizhou, people-based political security, provincial shepherd autonomy, disaster response state capacity, overview, and index. No settled contradiction found; transcript renderings "留言" and "樊麟" were normalized to canonical Liu Yan and Fan Ling.
