@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？](sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 185 CE retreat and contempt toward Zhang Wen, Sun Jian's military-law warning, Emperor Ling's palace hoarding, Fu Xie's refusal of Zhao Zhong's patronage, Zhao Ci's revolt, and Zhang Yan's eunuch-driven prison death.
 - [《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？](sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw.md) — 芮淇讲透资治通鉴 episode on Han Sui's Liangzhou consolidation, Geng Bi's failed campaign, Fu Xie's Hanyang siege and death, and the court's loss of Liangzhou control.
 - [《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱](sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh.md) — 芮淇讲透资治通鉴 episode on 187 CE Liangzhou rebellion, Wuhuan auxiliary supply failure, Zhang Ju's imperial claim, Sun Jian's Changsha pacification, rank sale, and Chen Shi's moral authority.
 - [《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲](sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy.md) — 芮淇讲透资治通鉴 episode on 188 CE amnesty and omen politics, Baibo resurgence, Liu Yan's州牧 proposal, Southern Xiongnu revolt, Yufuluo's elevation, and Cao Song's dismissal.
@@ -1439,6 +1440,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张延 / Zhang Yan (late-Han taiwei)](entities/ZhangYanTaiweiLateHan.md) — Upright late-Han taiwei who criticizes eunuch disorder and dies in prison after false accusation, kept distinct from Zhang Yan of the Black Mountain field.
+- [赵慈 / Zhao Ci (late Han)](entities/ZhaoCiLateHan.md) — Jiangxia rebel whose 186 CE rising kills Nanyang administrator Qin Jie before Wang Min suppresses him.
+- [宋典 / Song Dian (late Han)](entities/SongDianLateHan.md) — Court construction official ordered by Emperor Ling to build Yutang Hall amid late-Han crisis.
+- [毕岚 / Bi Lan (late Han)](entities/BiLanLateHan.md) — Palace official whose bronze and water devices become a Hanji 936 case of technical spectacle amid state crisis.
 - [傅燮 / Fu Xie](entities/FuXie.md) — Hanyang administrator who warns Geng Bi, refuses escape or surrender, entrusts Fu Gan to Yang Hui, and dies during the Liangzhou collapse.
 - [傅干 / Fu Gan](entities/FuGan.md) — Fu Xie's son, sent away under Yang Hui's protection after urging his father to survive the Hanyang siege.
 - [程球 / Cheng Qiu](entities/ChengQiu.md) — Corrupt Geng Bi subordinate whose killing at Di Dao starts the Liangzhou expedition's internal collapse.
@@ -9098,6 +9103,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
+- [Command Discipline Authority / 军法威严](concepts/CommandDisciplineAuthority.md) — Hanji 936 command-law pattern where tolerating a powerful subordinate's public contempt can erode military authority even when legal caution is understandable.
 - [Crisis-First Military Discipline / 临危先务军纪](concepts/CrisisFirstMilitaryDiscipline.md) — Hanji 1014 Yu Jin pattern: public order and camp security before personal vindication in retreat.
 - [分香卖履 / Fenxiang Mailu](concepts/FenxiangMailu.md) — Hanji 1014 Cao Cao deathbed household-settlement frame around incense, livelihood, and non-sacrificial family duty.
 - [Anti-Usurpation Coalition Pressure / 讨逆同盟压力](concepts/AntiUsurpationCoalitionPressure.md) — Hanji 1001/1002/1015 pattern where Yuan Shu's imperial claim first fails internal support, then costs ally support, then forces rivals to oppose him because non-response would look like recognition.

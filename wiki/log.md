@@ -11491,6 +11491,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for Hanji 937: Han Sui's absorption of Bian Zhang, Beigong Boyu, and Li Wenhou; Geng Bi's failed Liangzhou campaign after trusting Cheng Qiu and rejecting Fu Xie's timing advice; the Di Dao mutiny; Fu Xie's besieged Hanyang duty choice, Fu Gan/Yang Hui handoff, Huang Yan surrender test, and death. Created Fu Xie, Fu Gan, Cheng Qiu, Yang Hui, Huang Yan, Li Xiangru, Bian Zhang, Beigong Boyu, Li Wenhou, Hanyang Commandery, Di Dao, Office-Duty Martyrdom, and Frontier Command Collapse pages; updated connected late-Han, Liangzhou, people-support, moral-reputation, alliance-fragility, and tempo-discipline pages. No settled contradiction found; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.
 
+## [2026-08-25] ingest | 《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？
+
+Added source page for Hanji 936: Dong Zhuo's dam-covered retreat and contemptuous response to Zhang Wen, Sun Jian's military-law recommendation, Emperor Ling's Wanjin/Yutang palace hoarding and devices, Fu Xie's refusal of Zhao Zhong's private patronage, Zhao Ci's rebellion, and Zhang Yan's eunuch-driven prison death. Created Command Discipline Authority plus pages for Zhang Yan (late-Han taiwei), Zhao Ci, Song Dian, and Bi Lan; updated connected late-Han actor, place, frontier, and political-ethics pages. No settled contradiction found; 张延 is disambiguated from 张燕 / Zhang Yan of the Heishan Army.
+
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

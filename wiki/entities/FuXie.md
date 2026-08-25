@@ -2,11 +2,15 @@
 title: "傅燮 / Fu Xie"
 type: entity
 tags: [person, late-han, official, liangzhou]
-sources: [zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
+sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
 last_updated: 2026-08-25
 ---
 
 # 傅燮 / Fu Xie
+
+[[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds the patronage-refusal prelude before Fu Xie's Hanyang death branch. After his Yellow Turban merit is not properly rewarded, [[ZhaoZhongLateHan|赵忠]] sends his brother Zhao Yan to offer a marquis route through private relationship; Fu Xie refuses, treating unrewarded merit as fate rather than a reason to accept eunuch favor.
+
+That refusal gives [[ZhaoZhongLateHan|赵忠]] reason to resent him while still fearing his reputation. The source then moves Fu Xie outward to [[HanyangCommanderyLateHan|汉阳郡]], setting up the office-duty and siege material developed in Hanji 937.
 
 傅燮 / Fu Xie enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] as the [[HanyangCommanderyLateHan|汉阳郡]] administrator whose death marks the Eastern Han court's loss of practical control in Liangzhou.
 
@@ -17,6 +21,7 @@ After [[ChengQiu|程球]] and Geng Bi are killed in the [[DiDaoLateHan|狄道]] 
 Fu Xie sends Fu Gan away under [[YangHuiLateHan|杨晖]]'s protection, comparing Yang Hui to Cheng Ying. When [[HuangYanLateHan|黄衍]] comes on behalf of [[WangGuoLateHan|王国]] to urge surrender, Fu Xie condemns him as a former Han official now speaking for rebels, fights with the remaining troops, and dies.
 
 ## Connections
+- [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhaoZhongLateHan|赵忠]], and [[HanyangCommanderyLateHan|汉阳郡]] - refused eunuch patronage before the Hanyang appointment.
 - [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] - source case.
 - [[FuGan|傅干]], [[YangHuiLateHan|杨晖]], and [[HuangYanLateHan|黄衍]] - family-survival and surrender-test branch.
 - [[GengBiLateHan|耿鄙]], [[ChengQiu|程球]], [[DiDaoLateHan|狄道]], and [[HanyangCommanderyLateHan|汉阳郡]] - failed expedition and siege setting.
