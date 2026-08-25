@@ -11426,3 +11426,7 @@ Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emper
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
