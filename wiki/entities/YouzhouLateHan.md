@@ -2,11 +2,13 @@
 title: "幽州 / Youzhou (Late Han)"
 type: entity
 tags: [place, province, late-han, china]
-sources: [zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna]
 last_updated: 2026-08-25
 ---
 
 # 幽州 / Youzhou (Late Han)
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] adds the appointment prehistory before Liu Yu's pacification. Under [[LiuYanLateHan|刘焉]]'s provincial-shepherd reform, [[LiuYuLateHan|刘虞]] is sent as Youzhou shepherd to deal with [[ZhangChunLateHan|张纯]], while the court's requisition of [[SouthernXiongnu|南匈奴]] support for that campaign triggers [[FrontierConscriptionBackfire|边疆征发反噬]].
 
 [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills Youzhou before the Liu Yu/Gongsun Zan rupture. The province is destabilized by [[ZhangJuLateHan|张举]], [[ZhangChunLateHan|张纯]], [[QiuLijuLateHan|丘力居]], and frontier raids, while [[GongsunZan|公孙瓒]]'s Shimen victory turns into overextension and siege at Guanzi City.
 
@@ -19,6 +21,7 @@ The same episode makes [[LiuYuLateHan|刘虞]]'s arrival a temporary stabilizati
 Once [[XianyuFu|鲜于辅]], [[YanRou|阎柔]], [[Wuhuan|乌桓]], [[Xianbei|鲜卑]], [[LiuHeLateHan|刘和]], and [[YuanShao|袁绍]]-aligned forces attack, several Youzhou commandery-level actors kill Gongsun Zan's officials and join the coalition. Youzhou therefore appears as a regional legitimacy and defection field, not only as Gongsun Zan's territory.
 
 ## Connections
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[LiuYanLateHan|刘焉]], [[LiuYuLateHan|刘虞]], [[ZhangChunLateHan|张纯]], [[SouthernXiongnu|南匈奴]], and [[FrontierConscriptionBackfire|边疆征发反噬]] - provincial-shepherd appointment and requisition prehistory.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[ZhangJuLateHan|张举]], [[ZhangChunLateHan|张纯]], [[QiuLijuLateHan|丘力居]], [[GongsunZan|公孙瓒]], [[LiuYuLateHan|刘虞]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] - first backfilled crisis and pacification sequence.
 - [[GongsunZan|公孙瓒]], [[LiuYuLateHan|刘虞]], [[DuanXunLateHan|段迅]], and [[TianChou|田筹]] - competing authority, court mediation, and loyalty-after-death branch.
 - [[JuyongPass|居庸关]], [[YoubeipingCommandery|右北平]], [[WuzhongCountyLateHan|无终县]], and [[XuWuMountain|徐无山]] - regional places added by the Hanji 972 prelude.

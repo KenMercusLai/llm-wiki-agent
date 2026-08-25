@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲](sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy.md) — 芮淇讲透资治通鉴 episode on 188 CE amnesty and omen politics, Baibo resurgence, Liu Yan's州牧 proposal, Southern Xiongnu revolt, Yufuluo's elevation, and Cao Song's dismissal.
 - [《资治通鉴·汉纪》940丨得民心者得天下，你信不信？](sources/zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j.md) — 芮淇讲透资治通鉴 episode on Ma Xiang and Zhao Zhi's Yizhou revolt, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and flood-relief corruption.
 - [Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI](sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555.md) — All-In episode on Google AI leadership changes, hyperscaler model/cloud channel conflict, SpaceX public-market AI compute and Starlink growth, Airtable's sale and SaaS reset, and U.S. expert-data sales to Chinese AI labs.
 - [《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝](sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r.md) — 芮淇讲透资治通鉴 episode on Wang Fen's failed 188 CE coup plan, Cao Cao and Hua Xin's refusal logic, the West Garden Eight Colonels, and renewed Yellow Turban disorder.
@@ -1657,6 +1658,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
 - [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
 - [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser in the Hanji 976 adviser-platform reading, Hanji 978/979 Yanzhou base defense, and Hanji 981 Yuan Shao dependency refusal.
+- [并州 / Bingzhou (Late Han)](entities/BingzhouLateHan.md) — Northern late-Han province where Zhang Yi's killing by the Tuge Hu exposes provincial office weakness.
+- [董扶 / Dong Fu (late Han)](entities/DongFuLateHan.md) — Shizhong whose Yizhou prophecy redirects Liu Yan's provincial destination choice.
+- [张懿 / Zhang Yi (late Han)](entities/ZhangYiLateHan.md) — Bingzhou inspector killed by the Tuge Hu in Hanji 939.
+- [屠各胡 / Tuge Hu](entities/TugeHu.md) — Frontier group tied to Zhang Yi's killing and the Southern Xiongnu revolt in Hanji 939.
+- [羌渠 / Qiangqu Chanyu](entities/QiangquChanyu.md) — Southern Xiongnu chanyu killed after Han requisition pressure triggers revolt.
+- [醯落 / Xiluo (Southern Xiongnu)](entities/XiluoSouthernXiongnu.md) — Right-division rebel actor who joins the Tuge Hu, kills Qiangqu, and opens Yufuluo's succession.
+- [郭大 / Guo Da (late Han)](entities/GuoDaLateHan.md) — Baibo leader named in Hanji 939's Yellow Turban remnant resurgence.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
 - [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by Hanji 981 through local integration failure and Gan Ning's exit.
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
@@ -8885,6 +8893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defensive Speech Under Tyranny / 暴政下的防御性言说](concepts/DefensiveSpeechUnderTyranny.md) — Hanji 956 pattern where officials survive a tyrant's question by redirecting it into public legitimacy, timing, or the tyrant's own declared values.
 - [Post-Power Safety Collapse / 失势后的安全崩塌](concepts/PostPowerSafetyCollapse.md) — Hanji 957 pattern where losing office, team, value, and trusted interpretation turns ordinary ambiguity into fatal panic.
 - [Omen-Laundered Purge / 天象包装式清洗](concepts/OmenLaunderedPurge.md) — Hanji 957 pattern where Dong Zhuo uses celestial-omen language to make Zhang Wen's killing look publicly inevitable.
+- [边疆征发反噬 / Frontier Conscription Backfire](concepts/FrontierConscriptionBackfire.md) — Hanji 939 pattern where requisitioning frontier auxiliaries destabilizes the allied frontier group and produces a new crisis.
 - [州牧集权与地方割据 / Provincial Shepherd Autonomy](concepts/ProvincialShepherdAutonomy.md) — Hanji 959 institutional pattern where stronger provincial governorship stabilizes local crisis while enabling practical autonomy.
 - [Strategic Pass Control / 兵家必争通道控制](concepts/StrategicPassControl.md) — Hanji 959 route-control pattern where strategic location, resources, and transport convert terrain into military and political leverage.
 - [Concealed Capability Timing / 藏器待时](concepts/ConcealedCapabilityTiming.md) — Hanji 959 survival rule for keeping ability hidden and low exposure until opportunity makes action survivable.

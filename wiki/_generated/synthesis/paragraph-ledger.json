@@ -203,12 +203,12 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
-      "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8"
+      "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
     "paragraph_count": 203
   },
-  "overview_commit": "493a7c77a06a58d08a699d0d20b7933f235d08f7",
-  "overview_digest": "77d3c0297c2a0296a0ebfac430a586fe8ffd4ae7c22a28a33758535188cc7f6e",
+  "overview_commit": "7ed9bb734f3a90c499a7027f70a57b4438be2865",
+  "overview_digest": "f6a348dccef2dd2a7c30bfc72a2cded600deb7c771c0feaf2f0daaefd5004a31",
   "paragraphs": [
     {
       "id": "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
@@ -5904,28 +5904,42 @@
       ]
     },
     {
-      "id": "52ff6a8ab5ba908d61cdeb8b075d4c4225b4441d1030d1274b4bfea4f56873a8",
+      "id": "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [
         "history-and-geopolitics"
       ],
-      "text": "The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] late-Han source adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches. [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting [[YizhouLateHan|益州]] and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
+      "text": "The late-Han sources now show both the institutional prelude and the later warlord-field consequences. [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] shows collapse before the famous succession violence: [[EmperorLingOfHan|汉灵帝]]'s amnesty and comet ritual do not restore order, the [[BaiboArmy|白波军]] under [[GuoDaLateHan|郭大]] and [[ZhangYiLateHan|张懿]]'s killing in [[BingzhouLateHan|并州]] expose provincial office fragility, [[LiuYanLateHan|刘焉]] converts that weakness into [[ProvincialShepherdAutonomy|州牧集权与地方割据]] and an [[YizhouLateHan|益州]] exit through [[DongFuLateHan|董扶]]'s prophecy, and the court's requisition of [[SouthernXiongnu|南匈奴]] cavalry against [[ZhangChunLateHan|张纯]] kills [[QiangquChanyu|羌渠]] and elevates [[YufuluoChanyu|于扶罗]] through [[FrontierConscriptionBackfire|边疆征发反噬]]. The [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] source then adds a compact prelude to the wiki's Cao Cao/Yuan Shao and Xuzhou branches: [[ChengYu|程昱]] turns [[CaoCao|曹操]]'s fear after [[YanzhouLateHan|兖州]] losses into refusal of [[HostageBackedDependencyTrap|家属质押式依附陷阱]], while [[LiuZhang|刘璋]] inheriting Yizhou and losing [[GanNing|甘宁]] through [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]] show that political survival depends on both corrective advice and elite integration. The same later source backfills [[TaoQianLateHan|陶谦]]'s handoff and [[LiuBei|刘备]]'s hesitation before [[LocalEliteProxySelection|地方豪强代理人选择]] explains the Xuzhou choice in Hanji 982.",
       "topic_scores": {
         "governance-and-institutions": 1,
         "history-and-geopolitics": 1
       },
       "wikilinks": [
+        "BaiboArmy",
+        "BingzhouLateHan",
         "CaoCao",
         "ChengYu",
+        "DongFuLateHan",
+        "EmperorLingOfHan",
+        "FrontierConscriptionBackfire",
         "GanNing",
+        "GuoDaLateHan",
         "HostageBackedDependencyTrap",
         "ImportedTroopsLocalEliteCleavage",
         "LiuBei",
+        "LiuYanLateHan",
         "LiuZhang",
         "LocalEliteProxySelection",
+        "ProvincialShepherdAutonomy",
+        "QiangquChanyu",
+        "SouthernXiongnu",
         "TaoQianLateHan",
         "YanzhouLateHan",
         "YizhouLateHan",
+        "YufuluoChanyu",
+        "ZhangChunLateHan",
+        "ZhangYiLateHan",
+        "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
         "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth"
       ]
     }

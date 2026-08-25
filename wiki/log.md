@@ -11470,3 +11470,11 @@ Added source page for Hanji 940: Fan Ling's brief taiwei appointment, Ma Xiang a
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 14,236 non-generated wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-25] ingest | 《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲
+
+Added source page for Hanji 939: Emperor Ling's amnesty and comet response, Baibo resurgence under Guo Da, Zhang Yi's killing in Bingzhou, Liu Yan's provincial-shepherd proposal and Yizhou destination through Dong Fu's prophecy, first Yizhou/Yuzhou/Youzhou shepherd appointments, Southern Xiongnu requisition backlash that kills Qiangqu and elevates Yufuluo, and Cao Song's taiwei dismissal. Created pages for Guo Da, Zhang Yi, Bingzhou, Dong Fu, Qiangqu, Xiluo, Tuge Hu, and Frontier Conscription Backfire; updated connected late-Han provincial, Baibo, Southern Xiongnu, Cao Song, omen, prophecy, and provincial autonomy pages. No settled contradiction found; source renderings 郭大 and 郤俭 remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint after health and identity validation passed. Health scanned 14,245 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`; report returned in-session and `wiki/lint-report.md` was not updated.

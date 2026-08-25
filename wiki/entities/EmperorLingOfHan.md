@@ -2,11 +2,13 @@
 title: "汉灵帝 / Emperor Ling of Han"
 type: entity
 tags: [person, emperor, late-han, china]
-sources: [zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
+sources: [zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]
 last_updated: 2026-08-25
 ---
 
 # 汉灵帝 / Emperor Ling of Han
+
+[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] adds the crisis-management layer before Emperor Ling's Wang Fen and West Garden branch. He issues an amnesty in early 188, responds to a comet in the Zi Gong star region through ritual apology, and accepts the first [[ProvincialShepherdAutonomy|州牧集权与地方割据]] appointments while [[BaiboArmy|白波军]], [[BingzhouLateHan|并州]], and the [[SouthernXiongnu|南匈奴]] all remain unstable.
 
 [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] adds the 188 CE pre-succession layer of Emperor Ling's late reign. A northern red qi omen causes him to cancel a trip that [[WangFenLateHan|王芬]] planned to exploit for an imperial seizure and replacement with [[HefeiMarquisLateHan|合肥侯]].
 
@@ -26,6 +28,7 @@ The same source also names Emperor Ling as one of the authorities whose summons 
 
 ## Connections
 
+- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[BaiboArmy|白波军]], [[SouthernXiongnu|南匈奴]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - amnesty, comet response, and first provincial-shepherd appointments.
 - [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]], [[WangFenLateHan|王芬]], [[HefeiMarquisLateHan|合肥侯]], [[WestGardenEightColonels|西园八校尉]], and [[JianShuoLateHan|蹇硕]] - failed 188 CE seizure plot and capital military restructuring.
 - [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[JianShuoLateHan|蹇硕]], and [[HeJin|何进]] - non-designated succession and deathbed trust.
 - [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[GaiXunLateHan|盖勋]], [[YuanShao|袁绍]], [[JianShuoLateHan|蹇硕]], and [[HeJin|何进]] - pre-death palace access and personnel displacement layer.
