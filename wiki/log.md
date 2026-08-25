@@ -11715,3 +11715,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Health and identity validation passed. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider API key variables are configured in this shell; a bounded in-session review of the script's 20-page sample found no hard contradictions, with only the existing AI-topic off-topic routing maintenance note. Report returned in-session; `wiki/lint-report.md` was not updated.
