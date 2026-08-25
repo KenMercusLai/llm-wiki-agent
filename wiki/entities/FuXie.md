@@ -2,11 +2,15 @@
 title: "傅燮 / Fu Xie"
 type: entity
 tags: [person, late-han, official, liangzhou]
-sources: [zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
+sources: [zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
 last_updated: 2026-08-25
 ---
 
 # 傅燮 / Fu Xie
+
+[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Fu Xie's earlier court-remonstrance branch before his later patronage refusal and Hanyang death. When [[CuiLieLateHan|崔烈]] proposes abandoning [[LiangzhouLateHan|凉州]], Fu Xie answers that killing the situ would make the realm safe, because giving up the western shield would let enemy forces grow stronger and move the danger toward the core.
+
+The episode makes Fu Xie's vehemence strategic rather than merely personal. He invokes earlier Han frontier policy under [[LiuBang|刘邦]] and [[HanWudi|汉武帝]], treating Liangzhou as a traffic corridor, western gate, and long-term anti-Xiongnu security layer. This makes him the source case for [[StrategicFrontierAbandonment|弃边失屏]].
 
 [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds the patronage-refusal prelude before Fu Xie's Hanyang death branch. After his Yellow Turban merit is not properly rewarded, [[ZhaoZhongLateHan|赵忠]] sends his brother Zhao Yan to offer a marquis route through private relationship; Fu Xie refuses, treating unrewarded merit as fate rather than a reason to accept eunuch favor.
 
@@ -21,6 +25,7 @@ After [[ChengQiu|程球]] and Geng Bi are killed in the [[DiDaoLateHan|狄道]] 
 Fu Xie sends Fu Gan away under [[YangHuiLateHan|杨晖]]'s protection, comparing Yang Hui to Cheng Ying. When [[HuangYanLateHan|黄衍]] comes on behalf of [[WangGuoLateHan|王国]] to urge surrender, Fu Xie condemns him as a former Han official now speaking for rebels, fights with the remaining troops, and dies.
 
 ## Connections
+- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[CuiLieLateHan|崔烈]], [[LiangzhouLateHan|凉州]], and [[StrategicFrontierAbandonment|弃边失屏]] - frontier-abandonment remonstrance.
 - [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhaoZhongLateHan|赵忠]], and [[HanyangCommanderyLateHan|汉阳郡]] - refused eunuch patronage before the Hanyang appointment.
 - [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] - source case.
 - [[FuGan|傅干]], [[YangHuiLateHan|杨晖]], and [[HuangYanLateHan|黄衍]] - family-survival and surrender-test branch.

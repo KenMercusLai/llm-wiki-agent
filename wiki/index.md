@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？](sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8.md) — 芮淇讲透资治通鉴 episode on Cui Lie's Liangzhou-abandonment proposal, Fu Xie's "斩司徒" rebuttal, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong recode refused bribery and anti-corruption memorials into slander.
 - [《资治通鉴·汉纪》935丨人活一口气，难成的是自己](sources/zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw.md) — 芮淇讲透资治通鉴 episode on Liu Tao's fatal remonstrance against eunuch-filtered crisis politics, Zhang Wen's 185 CE western campaign, and Sun Jian's ignored grain-road advice under Zhou Shen.
 - [《资治通鉴·汉纪》933丨为官之道：有所为，有所不为](sources/zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain origin and court incorporation, Emperor Ling's office-selling, Cui Lie's purchased situ appointment, and the reputational cost exposed by Cui Jun.
 - [Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships](sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230.md) — All-In interview on Saronic's autonomous naval vessels, U.S.-China shipbuilding throughput, Port Alpha, and defense procurement reform.
@@ -1443,6 +1444,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [崔州平 / Cui Zhouping](entities/CuiZhouping.md) — Literary Three Kingdoms reception figure used by Hanji 934 as the transition from Romance memory into the late-Han Liangzhou policy crisis.
+- [凉州 / Liangzhou (late Han)](entities/LiangzhouLateHan.md) — Late-Han frontier province treated by Fu Xie as the western shield whose abandonment would turn fiscal pressure into strategic danger.
 - [刘陶 / 刘桃 (late Han)](entities/LiuTaoLateHan.md) — Late-Han remonstrant whose warning about Yellow Turban and western rebellion pressure is turned into a eunuch-filtered prison accusation.
 - [周慎 / Zhou Shen (late Han)](entities/ZhouShenLateHan.md) — Late-Han commander who ignores Sun Jian's proposal to cut the rebels' grain road and retreats after his own supply line is cut.
 - [张牛角 / Zhang Niujiao (late Han)](entities/ZhangNiujiaoLateHan.md) — Black Mountain precursor leader whose death transfers command to Chu Yan/Zhang Yan in Hanji 933.
@@ -8931,6 +8934,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [External Troop Invitation Risk / 外兵入京升级风险](concepts/ExternalTroopInvitationRisk.md) — Palace-crisis pattern where borrowing outside military pressure gives armed outsiders a route into central power.
 - [Zero-Sum Conflict Hesitation Risk / 死斗局优柔寡断风险](concepts/ZeroSumConflictHesitationRisk.md) — Hanji 946 frame where delayed, softened action becomes dangerous after a conflict has become lethal and the other side can strike first.
 - [Palace Coup Violence Cascade / 宫廷政变暴力级联](concepts/PalaceCoupViolenceCascade.md) — Hanji 946 pattern where one palace killing triggers forged orders, gate assault, retaliatory slaughter, imperial flight, and third-party capture opportunity.
+- [Strategic Frontier Abandonment / 弃边失屏](concepts/StrategicFrontierAbandonment.md) — Hanji 934 pattern where a costly frontier is misread as removable budget pressure while its shield, corridor, and depth functions are ignored.
 - [Military Presence Theater / 军力声势表演](concepts/MilitaryPresenceTheater.md) — Dong Zhuo's late-Han tactic of making a small arriving force look like repeated reinforcement before turning perceived momentum into court control.
 - [Coerced Imperial Replacement / 胁迫式废立](concepts/CoercedImperialReplacement.md) — Pattern where a military court-captor forces imperial replacement through preserved title, edict, seal, and ceremony forms.
 - [Party Prohibition Rehabilitation / 党人翻案合法性](concepts/PartyProhibitionRehabilitation.md) — Legitimacy move where a coercive ruler borrows moral credit by rehabilitating old Party Prohibition victims and appointing descendants.

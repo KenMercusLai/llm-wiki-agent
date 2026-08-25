@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
       "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
       "336b5af2cba04255b0e459e1a98803b32b887b3065e1405a0e88fc1943b7237a",
       "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
@@ -210,11 +211,46 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 208
+    "paragraph_count": 209
   },
-  "overview_commit": "b9eaa4743db9b30968f33422ab91a1f333f7f3eb",
-  "overview_digest": "e1c0e0dd7840a60b267720a791f7ca484b3bf3c5ead4cce7a2d7a4748ceaad64",
+  "overview_commit": "75ba66145ba20f3d24508905c28d62cdc27aec81",
+  "overview_digest": "2fcbee020c44b1d109026427307d74eb779d7f75012ba1e1230fdef39521c7ec",
   "paragraphs": [
+    {
+      "id": "c57027a9653965a41990054007c8903fcfbbbc217d16d713c7794063cab12e63",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 185 CE late-Han layer between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]]. It adds [[CuiZhouping|崔州平]], [[LiangzhouLateHan|凉州]], and [[StrategicFrontierAbandonment|弃边失屏]], while extending [[CuiLieLateHan|崔烈]], [[FuXie|傅燮]], [[HuangfuSongLateHan|皇甫嵩]], [[BeigongBoyuLateHan|北宫伯玉]], [[EmperorLingOfHan|汉灵帝]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], [[TenAttendantsLateHan|十常侍]], [[GuanzhongRegion|关中]], [[ChangAnHanCapital|长安]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[OfficeSaleLegitimacyDamage|买官名节损耗]], and [[MeritBasedRewardPunishment|因功赏罚]]. Its core synthesis is that late-Han state failure is both strategic and informational: Fu Xie can still stop Cui Lie's abandonment proposal by reframing Liangzhou as a western shield, but Huangfu Song's military usefulness and anti-corruption reporting cannot protect him once Zhang Rang and Zhao Zhong control the ruler's interpretation. No settled contradiction is recorded; the Hexi commandery list is kept as source-scoped context rather than expanded into separate canonical pages from this short episode.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "BeigongBoyuLateHan",
+        "ChangAnHanCapital",
+        "CourtFeedbackCollapse",
+        "CuiLieLateHan",
+        "CuiZhouping",
+        "EmperorLingOfHan",
+        "FuXie",
+        "GuanzhongRegion",
+        "HuangfuSongLateHan",
+        "LiangzhouLateHan",
+        "MeritBasedRewardPunishment",
+        "OfficeSaleLegitimacyDamage",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "StrategicFrontierAbandonment",
+        "TenAttendantsLateHan",
+        "ZhangRangLateHan",
+        "ZhaoZhongLateHan",
+        "zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj",
+        "zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8",
+        "zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw"
+      ]
+    },
     {
       "id": "d8a6848bc14e973e5a4acc510b41de60cffbd07b7d20615dcec8406f7eb6c64b",
       "primary_topic": "history-and-geopolitics",
