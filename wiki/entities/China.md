@@ -8,6 +8,8 @@ last_updated: 2026-08-25
 
 # China
 
+[[all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230]] adds China as the shipbuilding-capacity benchmark for [[NavalShipbuildingThroughput]]. [[DinoMavroukis]] says China builds about 23 million gross tons of ships per year compared with roughly 100,000 in the [[UnitedStates]], making Chinese shipbuilding capacity the strategic backdrop for [[Saronic]]'s [[AutonomousNavalVessels]] and [[PortAlpha|Port Alpha]] argument.
+
 [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds a U.S.-to-China expert-data branch. [[JasonCalacanis|Jason Calacanis]] cites reporting that U.S. data suppliers sell expert and reinforcement-learning data to Chinese labs, while [[DavidSacks|David Sacks]] argues controls should be targeted to proprietary, dual-use, or military-relevant datasets rather than broad commodity labeling. This creates [[ExpertDataExportControls]] as a narrower complement to [[AIExportControls]].
 
 [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] adds China as the strategic counterparty in the [[UnderseaDataCables]] funding story. [[ErinMurphy]] says the [[UnitedStates]] and China are competing over who builds and maintains subsea cable infrastructure, and the episode frames Chinese-linked vendors as a trust concern in [[CableLandingPointSecurity]] and [[TrustedNetworkGeopolitics]].
@@ -111,6 +113,7 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]] adds China as the comparison case for failed or incomplete [[JapaneseSogoShosha|sogo shosha]] replication. The source says China experimented with comprehensive trading-company models in the 1990s, but argues that the Japanese model could not be copied by importing the business shell alone because it depended on surrounding finance, industry, government boundaries, [[KeiretsuBusinessGroups|keiretsu]]-like trust, and long-term commercial relationships.
 
 ## Connections
+- [[Saronic]], [[USNavy|U.S. Navy]], [[NavalShipbuildingThroughput]], [[AutonomousNavalVessels]], and [[StrategicIndustrialPolicy]] - shipbuilding-capacity benchmark and autonomous-vessel response added by the Saronic interview.
 - [[SurgeAI|Surge AI]], [[Mercor]], [[Micro1]], [[ExpertDataExportControls]], [[AIExportControls]], [[ChineseOpenWeightAIStrategy]], [[Qwen]], [[Kimi]], and [[GLM52|GLM]] - August 8 All-In branch on Chinese AI labs, U.S. expert-data sales, and targeted dual-use control debates.
 - [[RahmEmanuel|Rahm Emanuel]], [[AlliedEconomicBlocAgainstChina]], [[Taiwan]], [[Japan]], [[ResearchInstitutionsAsStrategicCapacity]], and [[SupplyChainSovereignty]] - alliance and economic-statecraft branch added by All-In.
 - [[StraitOfHormuz]], [[OPEC]], [[MathieuFavasse]], [[DemandSideOilMarketPower]], and [[OilProducerSupplyCoordination]] - oil-shock and demand-flexibility branch added by the Pump and circumstance episode.

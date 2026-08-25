@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships](sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230.md) — All-In interview on Saronic's autonomous naval vessels, U.S.-China shipbuilding throughput, Port Alpha, and defense procurement reform.
 - [《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？](sources/zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's 185 CE retreat and contempt toward Zhang Wen, Sun Jian's military-law warning, Emperor Ling's palace hoarding, Fu Xie's refusal of Zhao Zhong's patronage, Zhao Ci's revolt, and Zhang Yan's eunuch-driven prison death.
 - [《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？](sources/zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw.md) — 芮淇讲透资治通鉴 episode on Han Sui's Liangzhou consolidation, Geng Bi's failed campaign, Fu Xie's Hanyang siege and death, and the court's loss of Liangzhou control.
 - [《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱](sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh.md) — 芮淇讲透资治通鉴 episode on 187 CE Liangzhou rebellion, Wuhuan auxiliary supply failure, Zhang Ju's imperial claim, Sun Jian's Changsha pacification, rank sale, and Chen Shi's moral authority.
@@ -1440,6 +1441,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Saronic](entities/Saronic.md) — Defense technology company building autonomous surface vessels through private capital, vertical integration, and software-defined shipbuilding.
+- [Dino Mavroukis](entities/DinoMavroukis.md) — Saronic co-founder making the episode's shipbuilding-throughput, procurement, and Port Alpha case.
+- [Vibh Altakar](entities/VibhAltakar.md) — Saronic co-founder explaining uncrewed-vessel design and software-defined shipbuilding.
+- [Corsair (Saronic)](entities/CorsairSaronic.md) — Saronic's 24-foot autonomous surface-vessel product line discussed through a Strait of Hormuz rescue claim and production-scale argument.
+- [Marauder (Saronic)](entities/MarauderSaronic.md) — Saronic's 180-foot autonomous vessel used in the episode's VLS-equivalent firepower and throughput comparison.
+- [Port Alpha](entities/PortAlpha.md) — Planned Saronic shipyard in Brownsville, Texas, framed as co-designed industrial capacity for autonomous vessels.
 - [张延 / Zhang Yan (late-Han taiwei)](entities/ZhangYanTaiweiLateHan.md) — Upright late-Han taiwei who criticizes eunuch disorder and dies in prison after false accusation, kept distinct from Zhang Yan of the Black Mountain field.
 - [赵慈 / Zhao Ci (late Han)](entities/ZhaoCiLateHan.md) — Jiangxia rebel whose 186 CE rising kills Nanyang administrator Qin Jie before Wang Min suppresses him.
 - [宋典 / Song Dian (late Han)](entities/SongDianLateHan.md) — Court construction official ordered by Emperor Ling to build Yutang Hall amid late-Han crisis.
@@ -8893,6 +8900,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Autonomous Naval Vessels](concepts/AutonomousNavalVessels.md) — Uncrewed naval platforms where autonomy changes mission risk, vessel architecture, scale, and hybrid fleet design.
+- [Naval Shipbuilding Throughput](concepts/NavalShipbuildingThroughput.md) — Strategic-capacity frame comparing shipbuilding output, cost, build time, and yearly firepower rather than ship prestige alone.
+- [Software-Defined Shipbuilding](concepts/SoftwareDefinedShipbuilding.md) — Shipbuilding model where software APIs, sensors, compute, remote control, and yard design are integrated from the start.
+- [Private Capital Defense Prime](concepts/PrivateCapitalDefensePrime.md) — Defense-prime model where private R&D and vertical integration pre-fund platforms before full government-scale procurement.
+- [Human-Authorized Autonomous Weapons](concepts/HumanAuthorizedAutonomousWeapons.md) — Governance pattern where AI supports autonomy and classification while humans set mission intent and approval thresholds.
 - [Office-Duty Martyrdom / 守官赴死](concepts/OfficeDutyMartyrdom.md) — Fu Xie source concept for dying at one's official post while separating personal duty from family survival.
 - [Frontier Command Collapse / 边郡军政崩盘](concepts/FrontierCommandCollapse.md) — Geng Bi source concept where corrupt staff, weak trust, bad timing, and ignored advice break a frontier campaign before battle.
 - [Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵](concepts/FrontierAuxiliarySupplyFailure.md) — Hanji 938 pattern where unfed or unpaid Wuhuan auxiliaries desert and become rebellion infrastructure.

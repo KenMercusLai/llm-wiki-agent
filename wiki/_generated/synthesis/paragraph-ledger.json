@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
       "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
       "52bd23a332078725732e062cd7a40475c7129d00db7eafbf69f1f89e9525cb2d",
       "f0be44be058bab2c162d223e3fab730940d7dda354ca5cb733a3dc06c2b611c1",
@@ -207,11 +208,50 @@
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
       "0c44513d0be67a931cc97bd29911cea2bb9a7cae081936bd55010c7c16a6a2c9"
     ],
-    "paragraph_count": 205
+    "paragraph_count": 206
   },
-  "overview_commit": "cdab7d07d0189bae83ee017398a2508c82fbe8ca",
-  "overview_digest": "998721ac0788ca99bbf7218aa9a5f5c4bdd77fc9a2ab67f8bb18b95a3c28cffd",
+  "overview_commit": "356d3b21c488370c1c9e4be6165850a0caca812b",
+  "overview_digest": "bbeee5a038bfbc3e0683cd8fccef32ad36191dc1b5588961bf05550e0d60567d",
   "paragraphs": [
+    {
+      "id": "a6ecde6afee6553e5405152b7b9135a1593f747db35ec96acc79149cea0b64dd",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230]], an [[AllIn|All-In]] interview with [[DinoMavroukis]] and [[VibhAltakar]] of [[Saronic]] on autonomous naval vessels, U.S.-China shipbuilding capacity, and defense procurement reform. It adds [[Saronic]], [[DinoMavroukis]], [[VibhAltakar]], [[CorsairSaronic|Corsair]], [[MarauderSaronic|Marauder]], [[PortAlpha|Port Alpha]], [[AutonomousNavalVessels]], [[NavalShipbuildingThroughput]], [[SoftwareDefinedShipbuilding]], [[PrivateCapitalDefensePrime]], and [[HumanAuthorizedAutonomousWeapons]], while extending [[AllIn]], [[USNavy|U.S. Navy]], [[USDepartmentOfDefense]], [[China]], [[StraitOfHormuz]], [[Texas]], [[DefenseTechStartupProcurement]], [[DefenseAIProcurement]], [[DualUseDefenseTechnology]], [[LowCostDroneWarfare]], and [[StrategicIndustrialPolicy]]. Its core synthesis is that naval autonomy is presented as a manufacturing and cost-throughput answer as much as a robotics story: removing crews changes vessel design, private capital can fund prototypes outside slow cost-plus loops, and shipyards/processes can be co-designed for smaller autonomous platforms that add mass without replacing the entire crewed Navy. No settled contradiction is recorded; the rescue mission, shipbuilding ratios, job figures, and weapon-authorization claims are preserved as source-scoped interview claims.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AllIn",
+        "AutonomousNavalVessels",
+        "China",
+        "CorsairSaronic",
+        "DefenseAIProcurement",
+        "DefenseTechStartupProcurement",
+        "DinoMavroukis",
+        "DualUseDefenseTechnology",
+        "HumanAuthorizedAutonomousWeapons",
+        "LowCostDroneWarfare",
+        "MarauderSaronic",
+        "NavalShipbuildingThroughput",
+        "PortAlpha",
+        "PrivateCapitalDefensePrime",
+        "Saronic",
+        "SoftwareDefinedShipbuilding",
+        "StraitOfHormuz",
+        "StrategicIndustrialPolicy",
+        "Texas",
+        "USDepartmentOfDefense",
+        "USNavy",
+        "VibhAltakar",
+        "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230"
+      ]
+    },
     {
       "id": "87b775125d4f05e15659027ff8ad371d5175bbc592b1efb666fa587f59b275cd",
       "primary_topic": "history-and-geopolitics",

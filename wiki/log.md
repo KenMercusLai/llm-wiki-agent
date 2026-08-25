@@ -11259,6 +11259,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-25] ingest | Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
+
+Added source page for an All-In interview with Saronic co-founders Dino Mavroukis and Vibh Altakar on autonomous naval vessels, the U.S.-China shipbuilding throughput gap, Corsair and Marauder, Strait of Hormuz rescue claims, human-authorized autonomy, private-capital defense procurement, and Port Alpha in Texas. Created Saronic, Dino Mavroukis, Vibh Altakar, Corsair, Marauder, Port Alpha, Autonomous Naval Vessels, Naval Shipbuilding Throughput, Software-Defined Shipbuilding, Private Capital Defense Prime, and Human-Authorized Autonomous Weapons pages; updated All-In, U.S. Navy, U.S. Department of Defense, Strait of Hormuz, Texas, China, Defense Tech Startup Procurement, Defense AI Procurement, Dual-Use Defense Technology, Low-Cost Drone Warfare, Strategic Industrial Policy, overview, and index. No settled contradiction found; rescue details, capacity figures, job claims, and authorization claims remain source-scoped.
+
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝
 
 Added source page for Hanji 941: Wang Fen's failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis; Cao Cao and Hua Xin's refusal logic; the red-qi omen that cancels the travel window; Ma Ridi and Dong Zhong's appointments; the West Garden Eight Colonels with Jian Shuo, Yuan Shao, and Cao Cao; renewed Qingzhou/Xuzhou Yellow Turban disorder; and Gai Xun's Pingle Guan remonstrance. Created pages for Wang Fen, Chen Yi, Taoqiu Hong, Hefei Marquis, West Garden Eight Colonels, and Imperial Deposition Coup Risk; updated connected late-Han actor, place, group, and omen pages. No settled contradiction found; motive readings and the Hefei Marquis identity remain source-scoped.
@@ -11494,6 +11498,10 @@ Added source page for Hanji 937: Han Sui's absorption of Bian Zhang, Beigong Boy
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？
 
 Added source page for Hanji 936: Dong Zhuo's dam-covered retreat and contemptuous response to Zhang Wen, Sun Jian's military-law recommendation, Emperor Ling's Wanjin/Yutang palace hoarding and devices, Fu Xie's refusal of Zhao Zhong's private patronage, Zhao Ci's rebellion, and Zhang Yan's eunuch-driven prison death. Created Command Discipline Authority plus pages for Zhang Yan (late-Han taiwei), Zhao Ci, Song Dian, and Bi Lan; updated connected late-Han actor, place, frontier, and political-ethics pages. No settled contradiction found; 张延 is disambiguated from 张燕 / Zhang Yan of the Heishan Army.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] lint | Wiki health check
 
