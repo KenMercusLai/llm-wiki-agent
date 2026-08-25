@@ -11656,6 +11656,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》912丨秘密到底该不该说出口？
+
+Added source page for Hanji 912: Han Fei secrecy framing, advice-risk interpretation, 178 CE palace omens, Yang Ci and Cai Yong's remonstrance against harem/eunuch, Hongdu, appointment, and extravagance disorder, Cao Jie's leak of Cai Yong's confidential memorial, and the retaliation setup through Cheng Huang, Liu He, Yang Qiu, and Cai Zhi. Created Confidential Remonstrance Leakage; updated linked late-Han entity and concept pages, index, overview, and show context. No settled contradiction found; the Yang Qiu-Cheng Huang relationship wording and transcript variants 蔡庸, 杨次, 刘河, and 杨球 are kept source-scoped or normalized to existing canonical pages.
+
 ## [2026-08-26] ingest | Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores
 
 Added source page for the All-In episode on AI/chip-stock leverage risk, Leopold Aschenbrenner's reported margin call, frontier-lab pacing rhetoric, open-model pressure, Anthropic book-scanning and copyright disputes, Mamdani's city-owned grocery proposal, and fruit-fly neural geometry. Created Leopold Aschenbrenner, Zohran Mamdani, AI Portfolio Leverage Liquidation, Pacing the Frontier, and City-Owned Grocery Politics; updated relevant All-In, OpenAI, Anthropic, valuation, safety-governance, open-model, training-data, grocery, and neural-geometry pages. No settled contradiction found; the margin-call details, safety-bill odds, book-settlement figures, grocery budget, and neuroscience interpretation remain source-scoped.
