@@ -11558,3 +11558,7 @@ Ran health, identity validation, and lint. Health passed across 14,318 wiki page
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》929丨对事不对人，你信了吗？
 
 Added source page for Hanji 929: Zhang Xiu's Ba Commandery Five-Pecks-style rising, Huangfu Song's 184 CE Yellow Turban victories over Zhang Liang and Zhang Bao, Li Xie's punished-but-vindicated warning against restoring Anping Wang Liu Xu, and Gai Xun's public-duty separation from private resentment around Su Zhenghe and Zuo Chang. Created Zhang Liang (Yellow Turban), Zhang Bao (Yellow Turban), Liu Xu, Li Xie, Li Gu, Liu Suan, Su Zhenghe, Liang Hu, Zuo Chang, Xin Zeng, Ling Zheng, Chen Yi (Jincheng), and Public Duty Over Private Grievance pages; updated connected Huangfu Song, Yellow Turban, Zhang Jiao, Zhang Xiu, Wudoumi Dao, Ba Commandery, Dong Zhuo, Gai Xun, Bian Zhang, Han Sui, Beigong Boyu, Li Wenhou, Xianling Qiang, commander-replacement, and shared-hardship morale pages. No settled contradiction found; Zhang Liang, Zhang Bao, and Chen Yi were disambiguated from same-romanization existing pages, while Bo Si, Kong Chang, Cangting, Guangzong, and Quyang remain source-scoped.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
