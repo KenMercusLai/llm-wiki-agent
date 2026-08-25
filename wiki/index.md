@@ -27,6 +27,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”](sources/zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's Yellow Turban victory, Emperor Xian's Liu Yu rescue request, Yuan Shu's troop play, Sun Jian's rear seizure, and the anti-Dong-Zhuo coalition's fast Yuan Shao/Gongsun Zan rupture.
 - [《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？](sources/zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq.md) — 芮淇讲透资治通鉴 episode on late-Han survival through Zhu Jun and Tao Qian's anti-Dong-Zhuo posture, Liu Yan's Yizhou autonomy, Hanzhong/Xiegu road control, and Gongsun Du's concealed-capability timing.
 - [《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？](sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr.md) — 芮淇讲透资治通鉴 episode on Xun Yu leaving Yingchuan, rejecting Yuan Shao as able to gather but not use talent, choosing Cao Cao, and Qu Yi's shield-crossbow victory over Gongsun Zan at Jieqiao.
+- [694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)](sources/694-elizabeth-i-vs-the-catholics-a-treacherous-conspiracy-part-4-glt1627515087.md) — The Rest Is History episode on Drake's return, Anjou diplomacy, the Low Countries, the Throckmorton Plot, Mendoza's expulsion, the Bond of Association, and escalation toward Spain.
 - [695. Elizabeth I vs The Catholics: The Shadow War (Part 5)](sources/695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455.md) — The Rest Is History episode on Sir Philip Sidney, Antwerp's fall, the Dutch Revolt, the Treaty of Nonsuch, Elizabeth's reluctant Low Countries intervention, Drake's raids, and Sidney's Protestant martyrdom at Zutphen.
 - [《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒](sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr.md) — 芮淇讲透资治通鉴 episode on Cheng Yu's early advice to Liu Dai, Cao Cao's indirect relief of Dong Wuyang, the Neihuang victory over Sui Gu and Yufuluo, and Cao Cao's integrated command capacity.
 - [《资治通鉴·汉纪》962丨董卓与吕布，到底为什么决裂？](sources/zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti.md) — 芮淇讲透资治通鉴 episode on Dong Zhuo's kinship power, Meiwu fortress fallback, violent rupture with Lü Bu, and Wang Yun's conversion of the close guard into the precondition for assassination.
@@ -1527,6 +1528,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [界桥之战 / Jieqiao Battle (late Han)](entities/JieqiaoBattleLateHan.md) — Yuan Shao-Gongsun Zan battle where Qu Yi's shielded infantry and strong crossbows defeat a cavalry-heavy force.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
+- [Christopher Hatton](entities/ChristopherHatton.md) — Privy Council supporter of Drake whose stance shows the pro-privateering faction around Elizabeth.
+- [Golden Hind](entities/GoldenHind.md) — Drake's circumnavigation ship and public stage for Elizabeth's politically ambiguous knighting ceremony.
+- [Francois, Duke of Anjou](entities/FrancoisDukeOfAnjou.md) — French Catholic suitor and Dutch sovereignty candidate whose failure removes Elizabeth's preferred French option.
+- [John Stubbs](entities/JohnStubbs.md) — Protestant pamphleteer punished for attacking Elizabeth's proposed Anjou marriage.
+- [William Allen](entities/WilliamAllen.md) — English Catholic exile tied to anti-Anjou criticism and the Paris planning behind the Throckmorton Plot.
+- [Henry of Navarre](entities/HenryOfNavarre.md) — Huguenot claimant whose succession position after Anjou's death helps trigger the War of the Three Henrys.
+- [Henry, Duke of Guise](entities/HenryDukeOfGuise.md) — Catholic League leader who drives the French side of the Throckmorton invasion plan.
+- [Henry III of France](entities/HenryIIIOfFrance.md) — Childless French king whose succession crisis weakens France as England's counterweight to Spain.
+- [Catholic League](entities/CatholicLeague.md) — French Catholic faction under Guise connecting French civil war to English invasion plotting.
+- [St Bartholomew's Day Massacre](entities/StBartholomewsDayMassacre.md) — French confessional trauma behind Walsingham, Sidney, and the three-Henry factional field.
+- [War of the Three Henrys](entities/WarOfTheThreeHenrys.md) — French civil-war phase that follows Anjou's death and narrows England's diplomatic options.
+- [Act of Abjuration](entities/ActOfAbjuration.md) — Dutch renunciation of Philip II's rule before the failed Anjou solution.
+- [French Fury](entities/FrenchFury.md) — Anjou's failed Antwerp coup that collapses the French answer to the Dutch Revolt.
+- [Francis Throckmorton](entities/FrancisThrockmorton.md) — English Catholic link among Mary Stuart, London contacts, Paris conspirators, and embassy channels.
+- [Throckmorton Plot](entities/ThrockmortonPlot.md) — 1583 Catholic invasion conspiracy that hardens Elizabethan suspicion of Mary Stuart.
+- [Bernardino de Mendoza](entities/BernardinoDeMendoza.md) — Spanish ambassador whose support for Catholic plotting leads to expulsion and diplomatic rupture.
+- [Michel de Castelnau](entities/MichelDeCastelnau.md) — French ambassador whose embassy channel carries Mary Stuart's cipher correspondence.
+- [Henry Fagot](entities/HenryFagot.md) — Code-named French embassy mole in Walsingham's Throckmorton Plot intelligence network.
+- [James Beaton](entities/JamesBeaton.md) — Mary Stuart's representative at the Paris meeting behind the Throckmorton Plot.
+- [Bond of Association](entities/BondOfAssociation.md) — Post-Throckmorton loyalty instrument aimed at excluding or punishing claimants tied to Elizabeth's death.
 - [Sir Philip Sidney](entities/PhilipSidney.md) — Elizabethan courtier, writer, and militant Protestant whose death at Zutphen becomes heroic war symbolism.
 - [Robert Dudley / Earl of Leicester](entities/RobertDudley.md) — Elizabethan favorite and Low Countries commander whose status and diplomacy shape Sidney's Dutch war role.
 - [Francis Drake](entities/FrancisDrake.md) — English privateer and naval commander whose 1585-1586 raids pressure Spain as the Low Countries crisis widens.
@@ -8859,6 +8880,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Concealed Capability Timing / 藏器待时](concepts/ConcealedCapabilityTiming.md) — Hanji 959 survival rule for keeping ability hidden and low exposure until opportunity makes action survivable.
 - [危局迁徙判断 / Crisis Migration Judgment](concepts/CrisisMigrationJudgment.md) — Hanji 960 pattern where Xun Yu reads Yingchuan's war exposure and moves kin before danger becomes consensus.
 - [盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry](concepts/ShieldCrossbowAntiCavalry.md) — Jieqiao battle tactic where shielded infantry and strong crossbows reverse cavalry momentum.
+- [Privateering Plausible Deniability](concepts/PrivateeringPlausibleDeniability.md) — Elizabethan pattern where a ruler benefits from privateering while preserving formal diplomatic denial.
+- [Marriage Diplomacy as Strategic Option](concepts/MarriageDiplomacyAsStrategicOption.md) — Use of a proposed royal marriage as a live geopolitical option even before the marriage happens.
+- [Confessional Invasion Conspiracy](concepts/ConfessionalInvasionConspiracy.md) — Pattern where foreign invasion, domestic sympathizers, religious legitimacy, and a claimant combine.
 - [Strategic Intervention Threshold](concepts/StrategicInterventionThreshold.md) — Point where a reluctant ruler accepts direct intervention because nonintervention has become riskier.
 - [Protestant Heroic Martyrdom](concepts/ProtestantHeroicMartyrdom.md) — Memory pattern where a militant Protestant death becomes usable national-confessional symbolism.
 - [Integrated Command Capacity / 全维度统帅能力](concepts/IntegratedCommandCapacity.md) — Hanji 961 frame for command that joins strategic target choice, tactical variation, adviser use, resource systems, and political capacity.

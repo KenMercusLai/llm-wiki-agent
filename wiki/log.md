@@ -11454,3 +11454,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-25] ingest | 694. Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)
+
+Added source page for a The Rest Is History episode on Francis Drake's return and Golden Hind ceremony, Elizabeth's plausible-denial handling of Spanish treasure, Anjou marriage and Dutch diplomacy, the Act of Abjuration and French Fury, the Throckmorton Plot, Mendoza's expulsion, Mary Stuart's tightened confinement, and the Bond of Association. Created pages for the Throckmorton plot cluster, Anjou and the French civil-war branch, Golden Hind, Act of Abjuration, French Fury, Bond of Association, privateering plausible deniability, marriage diplomacy as strategic option, and confessional invasion conspiracy; updated connected Elizabethan, Spanish, English, French, Dutch, Catholic, intelligence, succession, and escalation pages. No settled contradiction found; the source backfills the sequence before episodes 695 and 696 rather than changing the Babington Plot's later legal role.
+
+## [2026-08-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
