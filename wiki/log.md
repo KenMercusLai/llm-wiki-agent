@@ -11789,3 +11789,7 @@ Added source page for Hanji 917: promotion position fit, Lyu Qiang's refused mar
 ## [2026-08-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health and identity checks passed. Lint scanned 14,591 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the wiki scan found 14,591 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but the graph should be refreshed before treating those bridge findings as current. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of the orphan page and fragile-bridge endpoints found no direct contradictions. No `wiki/lint-report.md` file was saved.
