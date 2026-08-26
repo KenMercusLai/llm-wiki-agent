@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-27] ingest | 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+
+Added source page for the Shizilukou Crossing interview with Huang Yi: Luobo Paidui's five financing rounds, founder-side financing term discipline, open-source humanoid platform strategy, RPO's education/research demand, RP1's productization agenda, organization scaling, and bounded choices around model work, home, entertainment, and industrial scenarios. Created Huang Yi (robotics founder), Luobo Paidui, RPO Robot, RP1 Robot, Open Source Robot Platform Strategy, Hard-Tech Financing Discipline, and Research Education Robot Platform pages. No settled contradiction found; financing, order, roadmap, and technical details remain source-scoped founder claims.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？
 
 Added source page for Hanji 1021: Cao Cao releases but removes Yang Biao, turning the old-Han loyalist case into a reputation-constrained court-control signal; Ma Ridi and Jin Shang receive posthumous court treatment after Yuan Shu pressure; Cao attacks Huyang and Wuyin to isolate Zhang Xiu and Liu Biao's Nanyang line; and Yang Feng and Han Xian's Baibo remnant branch ends after Liu Bei kills Yang Feng and Han Xian is killed in flight. Created Deng Ji, Huyang, and Wuyin pages; migrated Yang Biao, Ma Ridi, Jin Shang, Han Xian, Yang Feng, and Prestige-Constrained Political Prosecution to synthesis-v1. No settled contradiction found; transcript/person-place variants around Huyang, Wuyin, Deng Ji, and Zhang Xuan are kept source-scoped where not independently expanded.
