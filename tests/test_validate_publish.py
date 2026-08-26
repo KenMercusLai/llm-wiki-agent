@@ -87,6 +87,19 @@ class ValidatePublishTest(unittest.TestCase):
         synthesis_validate.assert_not_called()
 
     @mock.patch("tools.validate_publish.synthesis.validate_repository")
+    @mock.patch("tools.validate_publish.validate_changed_whitespace")
+    @mock.patch("tools.validate_publish.validate_knowledge_pages.main", return_value=1)
+    @mock.patch("tools.validate_publish.validate_identities.main", return_value=0)
+    def test_stops_after_knowledge_page_failure(
+        self, identity_main, knowledge_main, whitespace_validate, synthesis_validate
+    ):
+        self.assertEqual(1, validate_publish.main([]))
+        identity_main.assert_called_once()
+        knowledge_main.assert_called_once()
+        whitespace_validate.assert_not_called()
+        synthesis_validate.assert_not_called()
+
+    @mock.patch("tools.validate_publish.synthesis.validate_repository")
     @mock.patch("tools.validate_publish.validate_changed_whitespace", return_value=1)
     @mock.patch("tools.validate_publish.validate_identities.main", return_value=0)
     def test_stops_after_whitespace_failure(

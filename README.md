@@ -77,9 +77,9 @@ Works with markdown, PDF, DOCX, PPTX, XLSX, HTML, TXT, CSV, JSON, XML, RST, EPUB
 
 **Persistent wiki** — structured markdown pages that accumulate across sessions. Unlike chat, nothing is lost.
 
-**Entity pages** — auto-created for every person, company, or project mentioned across sources. Updated each time a new source references them.
+**Entity pages** — auto-created for every person, company, project, or show mentioned across sources. Updated into a synthesis-first profile each time a new source references them, with bounded characteristics, grouped evidence, qualifications, change notes, and semantic relationships.
 
-**Concept pages** — auto-created for every key idea or framework. Cross-referenced to every source that discusses them.
+**Concept pages** — auto-created for every key idea or framework. They present a current definition and synthesis, 3–7 key claims, grouped evidence and counterevidence, bounded change notes, and semantically explained related concepts. The complete source inventory remains in frontmatter and is never discarded during synthesis.
 
 **Living overview** — `wiki/overview.md` is revised on every ingest to reflect the current synthesis across everything you've read.
 
