@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 一个中国 FDE 的光环、落差与「救火」日常｜S10E27
+
+Added What's Next source page for Shen Yue's field account of Chinese FDE work: vendor-side coordination, state-owned enterprise project rescue, private-company ROI pressure, data and document cleanup, legal contract-review rule extraction, and production accuracy limits. Created Shen Yue / 申越; migrated Chinese-Style FDE and Forward Deployed Engineer to synthesis-v1; updated index and overview. No settled contradiction found; the episode qualifies glamorous FDE narratives by emphasizing customer-side authority, business-team access, human cooperation, and acceptance criteria.
+
 ## [2026-08-26] ingest | 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
 
 Added source page for Zhang Xiaojun's Kimi K3 technical-report reading with Sun Yutao. Created Sun Yutao, Latent MoE, and Multi-Teacher Distillation; migrated Kimi K3, Kimi Delta Attention, Quantile Balancing, NoPE, On-Policy Distillation, and Model-Infra Co-Design to synthesis-v1 with the new source appended. No direct contradiction found; the new material strengthens K3's architecture-and-infra synthesis while keeping open-weight reproducibility and distillation-provenance claims qualified.
