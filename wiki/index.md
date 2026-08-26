@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
+- [《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？](sources/zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg.md) — 芮淇讲透资治通鉴 episode on 169 CE party-prohibition survival through Chen Shi's courtesy to Zhang Rang, He Yong and Yuan Shao's rescue network, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's warning about unsupported public confrontation.
 - [《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？](sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq.md) — 芮淇讲透资治通鉴 episode on relationships without capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's staged Zhang Rang access leading to failed Shule command.
 - [《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？](sources/zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj.md) — 芮淇讲透资治通鉴 episode on Emperor Ling calling Zhang Rang and Zhao Zhong "father/mother", 171 CE guanli and amnesty with party figures still excluded, disaster and epidemic population-collapse framing, Dong Meng's fatal pro-Dou intervention, and Xianbei pressure in Bingzhou.
 - [《资治通鉴·汉纪》899丨好清斗贪官](sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx.md) — 芮淇讲透资治通鉴 episode on a "money can reach the gods" bribery story, Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" ritual defense, and ritual sense as solemn, sacred order.
@@ -1727,7 +1728,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [崔烈 / Cui Lie (late Han)](entities/CuiLieLateHan.md) — Late-Han official who briefly becomes taiwei after Zhang Wen's removal and is later replaced by Cao Song.
 - [丁宫 / Ding Gong (late Han)](entities/DingGongLateHan.md) — Pei commandery official appointed sikong in Hanji 938, kept distinct from the Chu-Han Ding Gong page.
 - [曲星 / Qu Xing (late Han)](entities/QuXingLateHan.md) — Changsha rebel suppressed by Sun Jian in 187 CE, giving Sun Jian an early governorship-and-marquis branch.
-- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose "梁上君子" story and posthumous mourning contrast with late-Han coercive disorder.
+- [陈寔 / Chen Shi (late Han)](entities/ChenShiLateHan.md) — Taiqiu moral authority whose "梁上君子" story, dispute trust, and earlier Zhang Rang protection branch show reputation as a non-coercive survival resource.
 - [马相 / Ma Xiang (late Han)](entities/MaXiangLateHan.md) — Yizhou rebel who rises at Mianzhu, kills Xi Jian, proclaims himself Son of Heaven, and is defeated by Jia Long.
 - [赵祗 / Zhao Zhi (late Han)](entities/ZhaoZhiLateHan.md) — Co-leader with Ma Xiang in the Mianzhu Yellow Turban-banner revolt.
 - [郗俭 / Xi Jian (late Han)](entities/XiJianLateHan.md) — Yizhou inspector whose extraction-heavy rule is presented as the local trigger for the Ma Xiang revolt.
@@ -1775,6 +1776,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [闵贡 / Min Gong (late Han)](entities/MinGongLateHan.md) — Late-Han figure in the young emperor and Chenliu prince's escape before Dong Zhuo's armed greeting turns rescue into coercive control.
 - [卢植 / Lu Zhi (late Han)](entities/LuZhiLateHan.md) — Late-Han official who objects to Dong Zhuo's forced deposition of Liu Bian and survives through reputation-backed de-escalation.
 - [袁隗 / Yuan Wei (late Han)](entities/YuanWeiLateHan.md) — Yuan-family senior official whose page now runs from Hanji 903's situ appointment through later rescue, false-edict, and Dong Zhuo seal-transfer roles.
+- [袁闳 / Yuan Hong (late Han)](entities/YuanHongLateHan.md) — Yuan-family recluse who rejects family wealth and withdraws into a doorless earthen hut as a party-crisis self-protection path.
 - [何太后 / Empress Dowager He](entities/EmpressDowagerHe.md) — He-family queen-mother whose eunuch debt and palace dependence block He Jin's purge before Dong Zhuo later removes and poisons her.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
@@ -1824,7 +1826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [斜谷道 / Xiegu Road (late Han)](entities/XieguRoadLateHan.md) — Qinling route whose blockage lets Liu Yan's Yizhou regime turn Hanzhong control into separation from the Chang'an court.
 - [张修 / Zhang Xiu (Five Pecks)](entities/ZhangXiuFivePecks.md) — Five-Pecks-style religious actor first tied to Ba Commandery in Hanji 929 and later paired with Zhang Lu in Liu Yan's Hanzhong road-control strategy.
 - [韩馥 / Han Fu (late Han)](entities/HanFuLateHan.md) — Jizhou official whom Xun Yu initially seeks before finding Yuan Shao has taken over.
-- [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han talent evaluator used by Hanji 949 in Dong Zhuo's recommendation channel and by Hanji 960 to link Xun Yu's ability with Cao Cao's future stabilizing potential.
+- [何颙 / He Yong (late Han)](entities/HeYongLateHan.md) — Late-Han Party-linked talent evaluator whose crisis rescue work with Yuan Shao precedes later Cao Cao/Xun Yu appraisals, He Jin recruitment, and Dong Zhuo recommendation-channel use.
 - [界桥之战 / Jieqiao Battle (late Han)](entities/JieqiaoBattleLateHan.md) — Yuan Shao-Gongsun Zan battle where Qu Yi's shielded infantry and strong crossbows defeat a cavalry-heavy force.
 - [麹义 / Qu Yi (late Han)](entities/QuYiLateHan.md) — Yuan Shao commander whose shield-crossbow formation wins the Jieqiao battle against Gongsun Zan.
 - [严纲 / Yan Gang (late Han)](entities/YanGangLateHan.md) — Gongsun Zan's appointed Jizhou inspector killed in the Jieqiao battle.
@@ -1897,7 +1899,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [伍琼 / Wu Qiong (late Han)](entities/WuQiongLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed after opposing the forced relocation to Chang'an.
 - [周毖 / Zhou Bi (late Han)](entities/ZhouBiLateHan.md) — Official first used in Dong Zhuo's recommendation channel and later executed with Wu Qiong after opposing the forced relocation from Luoyang.
 - [韩融 / Han Rong (late Han)](entities/HanRongLateHan.md) — Scholar-official appointed by Dong Zhuo as part of the Hanji 949 coerced talent-legitimacy field.
-- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose repeated refusal of office culminates in rejecting Dong Zhuo's summons.
+- [申屠蟠 / Shentu Pan (late Han)](entities/ShentuPanLateHan.md) — Late-Han scholar whose early party-crisis withdrawal and later refusal of Dong Zhuo's summons make reclusion both moral stance and survival judgment.
 - [葛勋 / Ge Xun (late Han)](entities/GeXunLateHan.md) — Official who discusses Huangfu Song's anti-Dong-Zhuo opening and later defuses Dong Zhuo's threat against Zhu Jun.
 - [梁衍 / Liang Yan (late Han)](entities/LiangYanLateHan.md) — Huangfu Song adviser who proposes escorting Emperor Xian and attacking Dong Zhuo under imperial authority.
 - [黄琬 / Huang Wan (late Han)](entities/HuangWanLateHan.md) — Anti-Dong-Zhuo court official executed after Li Jue and Guo Si take Chang'an in Hanji 966.
@@ -9621,6 +9623,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
 - [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
+- [Crisis Withdrawal Self-Protection / 危局抽身自保](concepts/CrisisWithdrawalSelfProtection.md) — Hanji 896 pattern where actors preserve life and moral autonomy by lowering exposure or leaving before public righteousness becomes a lethal liability.
 - [Lü Bu Factional Balance / 吕布集团派系平衡](concepts/LyuBuFactionalBalance.md) — Late-Han command pattern whose Yanzhou gentry channel begins in the anti-Cao coalition and later constrains Lü Bu after Hao Meng's revolt.
 - [Second-in-Command Role Fit / 二把手角色适配](concepts/SecondInCommandRoleFit.md) — Liu Bang and Chen Ping frame for using high-ability covert operators heavily while bounding their independent authority.
 - [Veteran Merit-Clique Supervision / 功臣旧将监督](concepts/VeteranMeritCliqueSupervision.md) — Liu Bang's use of an outsider such as Chen Ping to monitor old generals, including the backlash and smear pressure that such supervision can trigger.

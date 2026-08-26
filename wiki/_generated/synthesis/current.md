@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-26
-as_of_overview_commit: 936cc86c81c6629692871a0fca0726ae7b308d81
+as_of_overview_commit: 4c8edff2419f41c6eb30ec9d60c1d20cda419be3
 summary: "Durable power comes from implementation: AI, robotics, markets, states, science, work, and geopolitics need grounded systems, trust, and enforceable capacity."
-episode_count: 1492
-source_count: 1492
-paragraph_count: 243
+episode_count: 1493
+source_count: 1493
+paragraph_count: 244
 topic_count: 8
 ---
 
@@ -48,7 +48,7 @@ Cultural sources use literature, folklore, games, and media memory to test polit
 
 ### Governance and Institutions
 
-Governance capacity now includes Hanji 897's leadership/access contrast: institutions need enforceable controls, symbols, exits, incentives, trust structures, audit legitimacy, and implementation discipline across ancient statecraft, AI, regulation, policing, and development.
+Governance capacity now begins with Hanji 896's party-prohibition survival timing, then runs through leadership, access, enforceable controls, symbols, exits, incentives, trust structures, audit legitimacy, and implementation discipline.
 
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support. Evidence: [[LegalistRulerTechnique]], [[QinAdministrativeStandardization]], [[HouseholdSeparationLaw]], [[ImperialSymbolicStandardization]], [[PowerExitTrap]], [[WarringStatesReformBacklash]].
