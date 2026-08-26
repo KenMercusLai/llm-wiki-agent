@@ -21,6 +21,7 @@
       "9a171a2c08f89f42da0c2486cc46f51e6c75cc103bb555b3ed7bd5a61c1c7c79",
       "7d7b693d6f35815ea65575bc5b059360b4fee92ebcf1baf6f0f25aadad4c1df0",
       "840eaed48823d1cb8394205dc6f757a3f266cc085d658c74982cb8d290278aa1",
+      "4fbe70aa1f53b32473387df288ea810f7381dfacf1213a6732c1aceab7f634f8",
       "edc20184f9cefbd958ce0fe6369ba50f9c227485553384690d5efee4f2579a08",
       "cfdf373b36b386d0fcf8826c8af5b3ae5ea7a4893abd05eb6a4e1b5630010bc0",
       "c028892a2d50db645a114ab75b1d3b261fe9f6136ee91e1c379ef58d9ec989a0",
@@ -246,10 +247,10 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 244
+    "paragraph_count": 245
   },
-  "overview_commit": "1cd3325a5ed9ff2b22035acd117134e5fb1d501c",
-  "overview_digest": "4c0eb9f360c58c7b3d1aa3bab148268fae81ab0a76d876329426fbabec752300",
+  "overview_commit": "521380decc594a7dd4339731d69978068a60d207",
+  "overview_digest": "fb2a819da27fed37ad190e70c07f5bb1417d5ffd99d8c089ce3cdfa29e9b3460",
   "paragraphs": [
     {
       "id": "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
@@ -958,6 +959,37 @@
         "XingshiqingStrategicAssessment",
         "YuzhangCommandery",
         "zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto"
+      ]
+    },
+    {
+      "id": "4fbe70aa1f53b32473387df288ea810f7381dfacf1213a6732c1aceab7f634f8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing [[GongsunZan|公孙瓒]]'s [[YijingFortress|易京]] endgame in 199 CE. It extends [[YuanShao|袁绍]], [[ZhangYanLateHan|张燕]], [[GongsunXuLateHan|公孙旭]], [[GuanJingLateHan|关静]], [[TianKaiLateHan|田楷]], [[RescueReciprocityCommandTrust|救援互惠式统帅信任]], and [[FortressSecurityIllusion|筑城避世安全幻觉]], while keeping the opening self-knowledge frame connected to [[DunningKrugerEffect|Dunning-Kruger effect]], [[CapabilityGapSelfDiagnosis]], and [[RationalHumility]] as source-scoped commentary. Its core synthesis is that Yuan Shao's intercepted fire-signal trap and tunnel-and-fire siege finish what earlier command isolation began: walls, grain, family concentration, and outside relief cannot restore a force whose confidence in shared danger has already collapsed. No settled contradiction is recorded; the psychological framing is preserved as interpretation rather than independent proof of Gongsun Zan's inner state.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CapabilityGapSelfDiagnosis",
+        "DunningKrugerEffect",
+        "FortressSecurityIllusion",
+        "GongsunXuLateHan",
+        "GongsunZan",
+        "GuanJingLateHan",
+        "RationalHumility",
+        "RescueReciprocityCommandTrust",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianKaiLateHan",
+        "YijingFortress",
+        "YuanShao",
+        "ZhangYanLateHan",
+        "zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz"
       ]
     },
     {

@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚
+
+Added source page for Hanji 1031: Gongsun Zan's 199 CE Yijing endgame, Zhang Yan and Gongsun Xu's attempted relief, Yuan Shao's intercepted fire-signal trap and tunnel siege, Gongsun Zan's family killing and death, Guan Jing's loyalist death, Tian Kai's final defeat/death, and the source-scoped self-knowledge frame. Updated Gongsun Zan, Yijing Fortress, Gongsun Xu (Late Han), Guan Jing (Late Han), Tian Kai (Late Han), Rescue Reciprocity Command Trust, and Fortress Security Illusion. No settled contradiction found; self-knowledge and Dunning-Kruger framing is preserved as episode interpretation.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？
 
 Added source page for Hanji 896: 169 CE party-prohibition self-protection through Chen Shi's courtesy to Zhang Rang, He Yong and young Yuan Shao's rescue work, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's caution against unsupported public confrontation. Created Yuan Hong and Crisis Withdrawal Self-Protection; migrated Chen Shi, He Yong, and Shentu Pan to synthesis-v1. No settled contradiction found; Yuan-family genealogy, Fan Pang, Guo Xi, Geng Lin, Baego, and other minor notices remain source-scoped.
@@ -11961,6 +11965,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
 
 Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 

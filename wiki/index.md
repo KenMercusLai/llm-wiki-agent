@@ -43,6 +43,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！](sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x.md) — 芮淇讲透资治通鉴 episode on Sun Ce consolidating Jiangdong by accepting Cao Cao's title overtures, drawing Zhou Yu and Lu Su out of Yuan Shu's orbit, and capturing then appointing Zu Lang and Taishi Ci.
 - [《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先](sources/zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto.md) — 芮淇讲透资治通鉴 episode on Sun Ce sending Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang, with Hua Xin's limited control, Tong Zhi in Luling, and Panyang local forces near Haihun.
 - [《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？](sources/zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8.md) — 芮淇讲透资治通鉴 episode on Yuan Shao reaching Yijing, Gongsun Zan's failed rescue-trust logic, Guan Jing's warning, and passive self-preservation as a failed strategy.
+- [《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚](sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz.md) — 芮淇讲透资治通鉴 episode on Gongsun Zan's failed fire-signal sortie, Yuan Shao's tunnel siege, Yijing's collapse, Guan Jing's death, Tian Kai's final defeat, and command trust failing past repair.
 - [Elbows up, again: a US-Canada trade flare-up](sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db.md) — The Intelligence episode on Canada-US tariff talks, Canada's diversification dilemma, Japan's employment ice age generation, and totemic versus utilitarian sieges.
 - [AI loves negative parallelism](sources/tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128.md) — Marketplace Tech episode with Will Oremus on negative parallelism as an AI-writing tell, Pangram's frequency finding, Claude watermarking, synthetic-data feedback loops, and AI style bleed into human writing.
 - [山上山下皆人间，无事逍遥即神仙](sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp.md) — 面基 episode with 李闯 on 《辞职上山》, Wudang Daoist life, fieldnote writing, folk belief as last-resort support, Chinese-medicine uncertainty, circular/linear time, and 逍遥 as freedom inside ordinary constraints.
@@ -1603,8 +1604,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser introduced by Hanji 1028 as leaving Yuan Shu's failing appointment path with Zhou Yu and moving his household toward Sun Ce's Qu'a base.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that Yuan Shu tries to mobilize through Zu Lang and that also supports Taishi Ci before Sun Ce's consolidation.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
-- [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning stops the elite-cavalry sortie because the remaining garrison would read it as abandonment.
-- [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son in Hanji 1030, sent from Yijing to seek Black Mountain Army help; disambiguated from Warring States Gongsun Xu.
+- [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
+- [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister in The Intelligence source on renewed U.S.-Canada tariff talks and diversification constraints.
 - [Hal Hodson](entities/HalHodson.md) — The Intelligence correspondent explaining Canada's tariff dilemma, provincial exposure, and investment-stability trap.
 - [Torigoe Atsushi](entities/TorigoeAtsushi.md) — Japanese employment-ice-age worker used as a concrete case of entry-cohort labor-market scarring.
@@ -1930,7 +1931,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [邺城 / Ye (Late Han)](entities/YeLateHan.md) — Yuan Shao's late-Han headquarters city threatened during the Wei Commandery and Black Mountain crisis.
 - [长平观之战 / Changpingguan Battle (late Han)](entities/ChangpingguanBattleLateHan.md) — 194 CE battle where Li Jue's side defeats Ma Teng and Han Sui, after which Han Sui's friendly contact with Fan Chou becomes a later suspicion seed.
 - [王美人 / 灵怀皇后 (late Han)](entities/WangMeirenLateHan.md) — Emperor Xian's mother, reburied and posthumously honored in Hanji 973 before the court's military weakness becomes the main story.
-- [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Qingzhou inspector whose aid request route introduces Liu Bei into Tao Qian's Xuzhou crisis.
+- [田楷 / Tian Kai (late Han)](entities/TianKaiLateHan.md) — Gongsun Zan-aligned Qingzhou inspector whose Yuan-side proxy war ends in defeat and death.
 - [种劭 / Zhong Shao (late Han)](entities/ZhongShaoLateHan.md) — Chang'an remonstrance official whose inside plot against Li Jue leaks before the Changpingguan branch.
 - [马宇 / Ma Yu (late Han)](entities/MaYuLateHan.md) — Chang'an attendant whose courier-disguise role belongs to the failed inside plot against Li Jue.
 - [边让 / Bian Rang (Late Han)](entities/BianRangLateHan.md) — Chenliu scholar-official whose killing is treated by Hanji 974 as the deeper trigger for Yanzhou local-elite fear before Zhang Miao and Chen Gong betray Cao Cao.
@@ -2074,7 +2075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
 - [易县 / Yi County (Late Han)](entities/YixianLateHan.md) — Place Gongsun Zan chooses as a supposed refuge after reading a children's song.
-- [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, treated as a false-security command-isolation case.
+- [易京 / Yijing Fortress](entities/YijingFortress.md) — Gongsun Zan's trenched tower stronghold, ending as a command-isolation and tunnel-siege failure.
 - [白马义从 / Baima Yicong](entities/BaimaYicong.md) — Gongsun Zan's white-horse cavalry identity contrasted with his later Yijing confinement.
 - [汉灵帝 / Emperor Ling of Han](entities/EmperorLingOfHan.md) — Late-Han emperor whose reign includes Hongdu Menxue patronage, Xidi office-sale pricing, palace-market play, private-treasury extraction, captured feedback, succession non-designation, and unresolved frontier appeals.
 - [董卓 / Dong Zhuo](entities/DongZhuo.md) — Late-Han warlord whose arc now runs from Luoyang terror and coerced scholar legitimacy through forced relocation, assassination, and Meiwu/Yijing fortress comparison.
@@ -2359,7 +2360,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader defeated by Fan Chou in Hanji 984 and later calmed by Zhong Yao's interest-framing letters in Hanji 1015.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
 - [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
-- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose Hanji 971 supply/plunder dispute with Liu Yu leads into the execution, Youzhou backlash, Yijing isolation, and Yuan Shao war.
+- [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's father, whose disputed killing triggers the Xuzhou revenge branch in Hanji 971.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
 - [应劭 / Ying Shao (Late Han)](entities/YingShaoLateHan.md) — Taishan official ordered to receive Cao Song, then fleeing after the killing.
@@ -9262,7 +9263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Liu Biao pattern where short-term neutrality becomes exploitable when local fissures and external patrons constrain initiative.
 - [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
-- [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where a leader's refusal to rescue subordinates teaches them not to risk themselves when the leader later needs support.
+- [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust failure where non-rescue teaches subordinates that danger is not shared, making later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
 - [Siege Typology](concepts/SiegeTypology.md) — Military-history distinction between symbolically totemic sieges and strategically utilitarian sieges.
@@ -9405,7 +9406,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [接纳者掠杀 / Hospitality Predation](concepts/HospitalityPredation.md) — Trust-boundary pattern where a received guest or helper weaponizes hospitality into murder, plunder, or replacement.
 - [Peak-Valley AI Inference Pricing](concepts/PeakValleyAIInferencePricing.md) — Demand-window pricing pattern where AI API costs vary by peak and off-peak serving load.
 - [Emotional Attachment Political Distortion / 情执政治判断失衡](concepts/EmotionalAttachmentPoliticalDistortion.md) — Pattern where affection, grief, resentment, or loyalty becomes the lens that overwhelms organization-level judgment and political survival.
-- [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for real safety after initiative, advisers, and people-support have been lost.
+- [Fortress Security Illusion / 筑城避世安全幻觉](concepts/FortressSecurityIllusion.md) — Warlord-security failure where walls, grain, and isolation are mistaken for safety after trust, initiative, and people-support fail.
 - [China Burger Expansion / 中国汉堡开店潮](concepts/ChinaBurgerExpansion.md) — Restaurant-market pattern where foreign burger chains and adjacent Chinese restaurant brands test burgers as filling, affordable meal occasions.
 - [Yellow Lemon Price Cycle / 黄柠檬价格周期](concepts/YellowLemonPriceCycle.md) — Supply-demand pattern where better Anyue output, export disruption, inventory, and weaker tea-drink procurement push domestic yellow-lemon prices down.
 - [Soft-Discount Retail / 软折扣零售](concepts/SoftDiscountRetail.md) — Discount format based on close-dated, overstock, and tail-goods supply, contrasted with hard discount's structural operating efficiency.
