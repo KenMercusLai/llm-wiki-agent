@@ -12274,3 +12274,7 @@ Ran health, identity validation, and lint. Health scanned 14,970 wiki pages with
 ## [2026-08-27] ingest | 691. Elizabeth I vs The Catholics: The Queen's Spymaster (Part 1)
 
 Added source page for The Rest Is History episode on Cecil's 1569 security warning, Mary Queen of Scots' arrival in England, the Norfolk marriage scheme, Ridolfi, the Northern Rising, Regnans in Excelsis, and early Elizabethan intelligence politics. Created Thomas Howard / Duke of Norfolk, Roberto Ridolfi, Ridolfi Plot, Northern Rising, and Regnans in Excelsis; updated Elizabeth I, Mary Queen of Scots, William Cecil, Francis Walsingham, Low Countries, Tudor Succession Crisis, Elizabethan Recusancy Security State, Confessional Invasion Conspiracy, Royal Execution Legitimacy, Spy Network Entrapment, and Confessional War Escalation to synthesis-v1. No settled contradiction found; Ridolfi's exact status is preserved as source-scoped.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
