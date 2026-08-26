@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深
+
+Added source page for Hanji 895: Zhang Jian's 169 CE party-prohibition flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest that ends with Kong Bao's execution, Xia Fu's critique of collateral flight, Du Gen's non-implicating concealment, and Tan Sitong's later poetic allusion. Created Zhang Jian, Kong Bao, Kong Rong's mother, Xia Fu, Du Gen, Tan Sitong, Fugitive Shelter Collateral Risk, and Wangmen Touzhi pages; migrated Kong Rong and Loyalty-Collateral Dilemma to synthesis-v1; updated Crisis Withdrawal Self-Protection. No settled contradiction found; raw transcript variants 张简, 孔包, and 下父 are normalized to 张俭, 孔褒, and 夏馥 while kept source-scoped.
+
 ## [2026-08-26] ingest | The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs
 
 Added source page for an All-In robotics special with Anybotics, 1X, Boston Dynamics, and Agility Robotics. Created Anybotics, Peter Fankhauser, 1X, Bernt Bornich, Neo Robot, Agility Robotics, Jonathan Hurst, Digit Robot, Amanda McMaster, Spot Robot, Atlas Robot, Industrial Inspection Robotics, Robot Sovereignty and Data Trust, Robot as a Service, Dull Dirty Dangerous Robotics, Robot Control Data Scarcity, Physical AI Hard Takeoff, and Human-Robot Safety Certification; updated Boston Dynamics, Humanoid Robot Commercialization, Robot Teleoperation and Remote Takeover, Embodied Data Pyramid, index, and overview. No settled contradiction found; transcript name variants are normalized and the episode's home-humanoid, robot-sovereignty, anti-weaponization, and hard-takeoff claims remain source-scoped.
