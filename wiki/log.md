@@ -12250,3 +12250,7 @@ Added source page for The Intelligence episode on Scott Bessent's long-bond buyb
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 14,959 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,959 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the script sample found no direct contradictions or stale summaries and flagged depth/schema drift in sampled legacy concept pages, especially `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`, which lack `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not updated.
