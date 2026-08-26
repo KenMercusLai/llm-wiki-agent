@@ -11660,6 +11660,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | 《资治通鉴·汉纪》902丨控制情绪是人生必修课
+
+Added source page for Hanji 902: strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation and punishment, Duan Jiong's broad crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao. Created Liu Meng, Zhang Huan, Wang Yu (late Han), Su Qian, Strategic Emotion Concealment, and Anonymous Remonstrance Suppression pages; updated linked late-Han actor, court-feedback, survival, and revenge-cycle pages. No settled contradiction found; 段颎/段炯 and 李浩 are normalized to existing canonical routes, while 王寓 is disambiguated from Wang Yu / 汪玉.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？
 
 Added source page for Hanji 903: Su Buwei's revenge against Li Hao, tomb desecration and corpse display, Duan Jiong's extermination of Su's household, Liu Kui's restored Bohai kingship through Wang Fu's unpaid access brokerage, forged treason evidence through Zheng Sa, Dong Teng, and Lian Zhong, Xu Sheng's Kuaiji uprising, Xianbei pressure, Southern Xiongnu succession, and Yuan Wei's situ appointment. Created Su Buwei, Li Hao, Liu Kui, Bohai Kingdom, Zheng Sa, Dong Teng, and Lian Zhong; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants for Duan Jiong, Wang Fu, Yuan Wei, and Xu Sheng are normalized to existing routes, while Liu Kui's source spelling is preserved and Zhang Xian is left source-scoped to avoid collision with the existing Zhang Xian route.
