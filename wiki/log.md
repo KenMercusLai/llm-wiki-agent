@@ -12191,7 +12191,6 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12327,3 +12326,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》885丨生死关头，他请假休息？！
+
+Added source page for Hanji 885: the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, including Dou Miao's hesitation, Chen Fan's hard-line memorial, Liu Yu's omen warning, Shan Bing's arrest of Zheng Sa, Yin Xun and Shan Bing's requested arrests of Cao Jie and Wang Fu, and Dou Wu's September 7 leave-taking. Created disambiguated Liu Yu astrologer, Shan Bing, and Yin Xun pages; migrated Zheng Sa to synthesis-v1; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Hou Lan, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk. No settled contradiction found; Liu Yu / 刘瑜 is kept distinct from Liu Yu / 刘虞.
