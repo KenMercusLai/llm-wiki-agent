@@ -59,6 +59,34 @@ last_updated: YYYY-MM-DD
 
 Use `[[PageName]]` wikilinks to link to other wiki pages.
 
+### Synthesis-first Concept and Entity pages
+
+Every new or updated Concept or Entity page must add `knowledge_schema: synthesis-v1` to frontmatter. Existing unmarked pages remain valid until they are next touched.
+
+Before rewriting one of these pages, read its **complete bounded input**: the current page plus every source note named in its `sources` list. Preserve that list exactly (membership and order), then append the new source slug once. The frontmatter list is the canonical, complete evidence inventory; Podcast Atlas derives the public source-note list and counts from it.
+
+Concept pages use these exact ordered H2 sections:
+
+1. `Definition`
+2. `Current Synthesis`
+3. `Key Claims` — 3–7 top-level bullets
+4. `Evidence` — group representative source links by claim, not ingest order
+5. `Counterevidence & Qualifications`
+6. `What Changed` — at most five bullets; include only changes to the current judgment
+7. `Related Concepts` — each bullet includes a wikilink and an explicit semantic relationship after ` - `
+
+Entity pages use these exact ordered H2 sections:
+
+1. `Overview`
+2. `Current Profile`
+3. `Key Characteristics` — 3–7 top-level bullets
+4. `Evidence` — group representative source links by characteristic, not ingest order
+5. `Qualifications`
+6. `What Changed` — at most five bullets; include only changes to the current profile
+7. `Relationships` — each bullet includes a wikilink and an explicit semantic relationship after ` - `
+
+The body presents the current state of knowledge. Do not use `## Connections`, long link piles, or repeated “`[[source]] adds ...`” paragraphs. Do not delete old source slugs when compressing prose. The canonical contract is `docs/knowledge-page-schema.md`. Run `python3 -m tools.validate_publish` after every ingest; it validates the structured contract as well as identity, whitespace, and derived synthesis.
+
 ---
 
 ## Ingest Workflow

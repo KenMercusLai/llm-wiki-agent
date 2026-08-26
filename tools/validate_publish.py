@@ -7,7 +7,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from tools import synthesis, validate_identities
+from tools import synthesis, validate_identities, validate_knowledge_pages
 
 
 def _git(root: Path, *args: str) -> subprocess.CompletedProcess[bytes]:
@@ -57,6 +57,11 @@ def main(argv: list[str] | None = None) -> int:
     identity_status = validate_identities.main(["--wiki-dir", str(args.root / "wiki")])
     if identity_status:
         return identity_status
+    knowledge_status = validate_knowledge_pages.main(
+        ["--wiki-dir", str(args.root / "wiki")]
+    )
+    if knowledge_status:
+        return knowledge_status
     whitespace_status = validate_changed_whitespace(args.root)
     if whitespace_status:
         return whitespace_status
