@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
       "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
       "e9167ce1beebc3cb36e023f645490831481f79fb4f49ad03eff1807160a12ba3",
@@ -244,11 +245,57 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 242
+    "paragraph_count": 243
   },
-  "overview_commit": "c51610a9a9dbd77510c678127db006a8ddd97470",
-  "overview_digest": "c0e777abe8e8c4c63f3e306a0f679d1c4aa997b4495d29deacbf6089c28aa765",
+  "overview_commit": "936cc86c81c6629692871a0fca0726ae7b308d81",
+  "overview_digest": "ba23bf7af5b4de0c7a239536d9ae2eba04feda1507017a8e43b000cabbfeb2eb",
   "paragraphs": [
+    {
+      "id": "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680]], an [[AllIn|All-In]] robotics special with [[Anybotics]], [[OneX|1X]], [[BostonDynamics|Boston Dynamics]], and [[AgilityRobotics|Agility Robotics]] on [[PhysicalAI|physical AI]] moving from demos into deployed work. It adds [[IndustrialInspectionRobotics]], [[RobotSovereigntyAndDataTrust]], [[RobotAsAService]], [[DullDirtyDangerousRobotics]], [[RobotControlDataScarcity]], [[PhysicalAIHardTakeoff]], [[HumanRobotSafetyCertification]], [[NeoRobot|Neo]], [[DigitRobot|Digit]], [[SpotRobot|Spot]], [[AtlasRobot|Atlas]], [[PeterFankhauser]], [[BerntBornich]], [[AmandaMcMaster]], and [[JonathanHurst]], while extending [[HumanoidRobotCommercialization]], [[RobotTeleoperationAndRemoteTakeover]], [[EmbodiedDataPyramid]], [[RobotFormFactorPragmatism]], [[RobotDataScaleUp]], [[RoboticsSimulationEvaluation]], [[ProductionRobotScenarioSelection]], [[DualUseDefenseTechnology]], [[China]], and [[UnitedStates]]. Its core synthesis is that robotics is commercializing first where work is dangerous, repetitive, remote, or operationally expensive: quadrupeds gather inspection data in hazardous infrastructure, warehouse humanoids target bounded tote/bin workflows, and home humanoids remain a higher-variance platform bet whose 2026 launch and hard-takeoff claims must be held against autonomy, safety, privacy, data, and unit-economics evidence. No settled contradiction is recorded; the episode's China/data-sovereignty and anti-weaponization claims are preserved as source-scoped strategic judgments.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AgilityRobotics",
+        "AllIn",
+        "AmandaMcMaster",
+        "Anybotics",
+        "AtlasRobot",
+        "BerntBornich",
+        "BostonDynamics",
+        "China",
+        "DigitRobot",
+        "DualUseDefenseTechnology",
+        "DullDirtyDangerousRobotics",
+        "EmbodiedDataPyramid",
+        "HumanRobotSafetyCertification",
+        "HumanoidRobotCommercialization",
+        "IndustrialInspectionRobotics",
+        "JonathanHurst",
+        "NeoRobot",
+        "OneX",
+        "PeterFankhauser",
+        "PhysicalAI",
+        "PhysicalAIHardTakeoff",
+        "ProductionRobotScenarioSelection",
+        "RobotAsAService",
+        "RobotControlDataScarcity",
+        "RobotDataScaleUp",
+        "RobotFormFactorPragmatism",
+        "RobotSovereigntyAndDataTrust",
+        "RobotTeleoperationAndRemoteTakeover",
+        "RoboticsSimulationEvaluation",
+        "SpotRobot",
+        "UnitedStates",
+        "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680"
+      ]
+    },
     {
       "id": "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "primary_topic": "governance-and-institutions",

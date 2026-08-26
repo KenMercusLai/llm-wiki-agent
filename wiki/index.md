@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
 - [《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？](sources/zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq.md) — 芮淇讲透资治通鉴 episode on relationships without capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's staged Zhang Rang access leading to failed Shule command.
 - [《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？](sources/zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj.md) — 芮淇讲透资治通鉴 episode on Emperor Ling calling Zhang Rang and Zhao Zhong "father/mother", 171 CE guanli and amnesty with party figures still excluded, disaster and epidemic population-collapse framing, Dong Meng's fatal pro-Dou intervention, and Xianbei pressure in Bingzhou.
 - [《资治通鉴·汉纪》899丨好清斗贪官](sources/zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx.md) — 芮淇讲透资治通鉴 episode on a "money can reach the gods" bribery story, Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" ritual defense, and ritual sense as solemn, sacred order.
@@ -1499,6 +1500,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Anybotics](entities/Anybotics.md) — Swiss robotics company using quadruped robots for industrial inspection in hazardous infrastructure.
+- [Peter Fankhauser](entities/PeterFankhauser.md) — Anybotics co-founder and CEO arguing that quadruped inspection robots can turn hazardous plants into safer data-generating environments.
+- [1X](entities/OneX.md) — Robotics company building the Neo home humanoid as a consumer platform around domestic usefulness, safety, and continuous learning.
+- [Bernt Bornich](entities/BerntBornich.md) — 1X founder and CEO presenting home humanoids as a platform whose usefulness compounds through deployment data.
+- [Neo Robot](entities/NeoRobot.md) — 1X's home humanoid robot, framed as a domestic AI platform for chores, presence, and embodied data learning.
+- [Agility Robotics](entities/AgilityRobotics.md) — Humanoid robotics company commercializing Digit for structured logistics and warehouse workflows.
+- [Jonathan Hurst](entities/JonathanHurst.md) — Agility Robotics co-founder and chief robot officer focused on legged humanoids for practical material-handling work.
+- [Digit Robot](entities/DigitRobot.md) — Agility Robotics' bipedal humanoid robot designed for tote, bin, cart, and warehouse material-handling workflows.
+- [Amanda McMaster](entities/AmandaMcMaster.md) — Boston Dynamics representative describing Spot, Atlas, safety certification, robot learning, and bounded deployments.
+- [Spot Robot](entities/SpotRobot.md) — Boston Dynamics' quadruped robot used for inspection, sensing, and hazardous-environment operations.
+- [Atlas Robot](entities/AtlasRobot.md) — Boston Dynamics' humanoid robot platform for manipulation, mobility, and warehouse-oriented development.
 - [董宠 / Dong Chong (late Han)](entities/DongChongLateHan.md) — Imperial relative whose false invocation of Empress Dowager Dong turns private requests into court-legitimacy risk.
 - [孟陀 / Meng Tuo (late Han)](entities/MengTuoLateHan.md) — Merchant-turned-Liangzhou inspector who manufactures access to Zhang Rang through a staged kneeling scene before failing against Shule.
 - [谷永 / Gu Yong (late Han)](entities/GuYongLateHan.md) — Frontier administrator whose trust-based submission and county-establishment case contrasts with Meng Tuo's failed command.
@@ -8927,7 +8939,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, Lugano's everyday-payment experiment, and conviction-based holdability.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
-- [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
+- [Boston Dynamics](entities/BostonDynamics.md) — Robotics company whose Spot and Atlas platforms anchor inspection, safety-certification, manipulation, and warehouse-humanoid evidence.
 - [Built for a Better World](entities/BuiltForABetterWorld.md) — Jeffrey Hollender's book about Seventh Generation and the future role of responsible business.
 - [ByteDance](entities/ByteDance.md) — Company behind TikTok, Doubao, and Seedance, discussed through short-video globalization, data-driven product culture, AI cost pressure, video capability, and AI-for-math signals.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
@@ -9196,6 +9208,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Industrial Inspection Robotics](concepts/IndustrialInspectionRobotics.md) — Use of robots to inspect hazardous or remote industrial assets while reducing human exposure and turning physical sites into repeatable data environments.
+- [Robot Sovereignty and Data Trust](concepts/RobotSovereigntyAndDataTrust.md) — Strategic concern that embodied robots carry cameras, microphones, control loops, and operational data whose ownership, routing, and jurisdiction matter.
+- [Robot as a Service](concepts/RobotAsAService.md) — Robotics business model that sells outcomes or operating hours while the vendor carries more deployment, maintenance, and performance risk.
+- [Dull Dirty Dangerous Robotics](concepts/DullDirtyDangerousRobotics.md) — Automation frame prioritizing work that is repetitive, unpleasant, remote, hazardous, or economically hard to staff.
+- [Robot Control Data Scarcity](concepts/RobotControlDataScarcity.md) — Data bottleneck created because high-quality robot action data is far scarcer than internet-scale text, image, audio, and video data.
+- [Physical AI Hard Takeoff](concepts/PhysicalAIHardTakeoff.md) — Robotics acceleration thesis in which embodied deployment, self-generated data, simulation, and foundation models could compound robot capability quickly.
+- [Human-Robot Safety Certification](concepts/HumanRobotSafetyCertification.md) — Certification and deployment discipline for proving robots can work near people, assets, and workflows without unacceptable risk.
 - [Manufactured Access Brokerage / 假势通道套利](concepts/ManufacturedAccessBrokerage.md) — Meng Tuo pattern where staged deference creates apparent access, converts others' gifts into real favor, and can produce office without competence.
 - [Ritual Affective Order / 仪式感秩序生成](concepts/RitualAffectiveOrder.md) — Hanji 899 frame for how cumbersome ritual can produce solemnity, sacredness, ordered memory, and disciplined participation rather than mere decorative form.
 - [Moderation As Political Survival / 中庸圆滑政治生存](concepts/ModerationAsPoliticalSurvival.md) — Hanji 900 frame for Hu Guang's survival through institutional competence, non-offense, relationship continuity, and controlled exposure, with moral costs kept visible.
@@ -13906,7 +13925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [World Model VLA Fusion](concepts/WorldModelVLAFusion.md) — Robot-model route where world models supply future-state prediction and VLA-style systems supply instruction/action generation.
 - [Robot Logistics Sorting](concepts/RobotLogisticsSorting.md) — Early humanoid-robot commercialization wedge around package flipping, label exposure, soft packages, and industrial tail cases.
 - [Dexterous Manipulation](concepts/DexterousManipulation.md) — High-DOF hands, deformable-object handling, retargeting, sensors, and hand-specific data as a robotics bottleneck.
-- [Robot Teleoperation and Remote Takeover](concepts/RobotTeleoperationAndRemoteTakeover.md) — Teleoperation as both robot-training data source and industrial supervision/fallback pattern.
+- [Robot Teleoperation and Remote Takeover](concepts/RobotTeleoperationAndRemoteTakeover.md) — Teleoperation as robot-training data, remote supervision, remote presence, and demo-authenticity risk across industrial and home robots.
 - [Humanoid Robot Marathon](concepts/HumanoidRobotMarathon.md) — Stress-test frame for biped robot motors, cooling, navigation, reliability, and large-company system engineering.
 - [Embodied Robot Data Paradigms](concepts/EmbodiedRobotDataParadigms.md) — Shift from Aloha-style teleoperation toward UMI, egocentric video, motion capture, and dexterous-hand data.
 - [ByteDance Growth System](concepts/ByteDanceGrowthSystem.md) — Company-level growth capability combining growth BP, LTV models, automated buying, creative material, risk control, internal traffic, and localization.
@@ -14003,7 +14022,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Company Game Difficulty Strategy](concepts/CompanyGameDifficultyStrategy.md) — Strategy frame for how companies choose market and technology difficulty, from stepwise climbs to hard-mode categories.
 - [Physical AI](concepts/PhysicalAI.md) — AI strategy for physical-world systems such as cars and robots where models, data, controls, hardware, manufacturing, safety, and organization must be rebuilt together.
 - [Stitched AI Architecture](concepts/StitchedAIArchitecture.md) — Rule-heavy software plus partial-AI stack criticized as useful for local progress but insufficient for full autonomous driving or generalized robotics.
-- [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like general robots into reliable, affordable, useful products across homes, work, elder care, and other physical environments.
+- [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like robots into safe, reliable, useful products, now split between bounded warehouse workflows, home-platform bets, and hard-takeoff forecasts.
 - [Token Maxxing](concepts/TokenMaxxing.md) — AI usage-growth frame that separates gross token volume from token-per-task, dollar-per-token, reasoning-token cost, model quality, and business outcome.
 - [Loop Maxxing](concepts/LoopMaxxing.md) — Recursive AI workflow where outputs are fed back into later prompts to improve reasoning, raising evaluation, stopping-rule, and inference-latency constraints.
 - [AI Economic Diffusion](concepts/AIEconomicDiffusion.md) — Gap between model capability becoming available and organizations redesigning workflows, software, roles, and incentives enough to convert AI into productivity.
@@ -14164,7 +14183,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [High Responsibility Density](concepts/HighResponsibilityDensity.md) — Organization pattern where small teams own design, sourcing, production, and outcomes across hard-tech systems.
 - [SpaceX Mafia](concepts/SpaceXMafia.md) — Hard-tech alumni network expected to carry SpaceX/Tesla operating methods into new physical-technology startups.
 - [Data As Education](concepts/DataAsEducation.md) — Frame that AI data includes teaching signals such as tasks, feedback, evaluation, correction, and environments, not only labeled files.
-- [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data structure combining scarce real robot data, scalable simulation, and broad internet or human first-person data.
+- [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data strategy combining teleoperation, real robot data, simulation, structured 3D, tactile data, human first-person data, and internet video priors.
 - [Robotics Simulation Evaluation](concepts/RoboticsSimulationEvaluation.md) — Simulation-as-evaluation infrastructure for repeatable robot training, testing, feedback, and counterfactual physical tasks.
 - [Data Engine Learning Loop](concepts/DataEngineLearningLoop.md) — Feedback-driven data system that supplies environments, tasks, evaluation, and iterative learning rather than only annotation files.
 - [Data Recipe Co-Creation](concepts/DataRecipeCoCreation.md) — Joint discovery between data companies and model teams of which data mixtures measurably improve models.

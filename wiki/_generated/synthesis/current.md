@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-26
-as_of_overview_commit: c51610a9a9dbd77510c678127db006a8ddd97470
-summary: "Durable power comes from implementation: AI, markets, states, science, work, and geopolitics need grounded systems, trust, and enforceable capacity."
-episode_count: 1491
-source_count: 1491
-paragraph_count: 242
+as_of_overview_commit: 936cc86c81c6629692871a0fca0726ae7b308d81
+summary: "Durable power comes from implementation: AI, robotics, markets, states, science, work, and geopolitics need grounded systems, trust, and enforceable capacity."
+episode_count: 1492
+source_count: 1492
+paragraph_count: 243
 topic_count: 8
 ---
 
@@ -17,9 +17,10 @@ topic_count: 8
 ## Executive Summary
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
+- Physical AI, defense autonomy, and AI-for-science need grounded feedback loops: [[EmbodiedAI]], [[PhysicalAI]], [[AutonomousNavalVessels]], [[HumanoidRobotCommercialization]], [[IndustrialInspectionRobotics]], [[RobotControlDataScarcity]], [[EmbodiedDataPyramid]], [[RobotDataScaleUp]], [[RoboticsSimulationEvaluation]], [[ProductionRobotScenarioSelection]], [[HumanRobotSafetyCertification]], [[RobotSovereigntyAndDataTrust]], [[RobotRepurchaseDemand]], [[CausalWorldModels]], [[WorldModels]], [[VisionLanguageActionModels]], [[AIForScience]], and [[AIMaterialsDiscovery]] only become useful when models meet motion, causality, experiments, scale-up, manufacturing throughput, task fit, safety certification, repeat demand, operational limits, and real users.
 - [[CustomerPull]], [[ProductLedWillingnessToPay]], and [[PreProductSelling]] become durable only when distribution, buyer-commitment, and operating gates such as [[CPGDistribution]], [[RetailLineReview]], [[PlanogramGatekeeping]], [[RetailPricePointProductScoping]], [[MassRetailProductionDeadline]], [[EnterprisePOCDiscipline]], [[EnterpriseCustomerAsMarket]], and [[RobotRepurchaseDemand]] can repeatedly deliver value after initial attention.
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
-- [[ShangYangReforms]] and [[QinAdministrativeStandardization]] connect military power to enforceable household, territorial, measurement, and reward systems, while [[PeopleBasedPoliticalSecurity]] shows why such systems still needed social and political acceptance.
+- [[UnderseaDataCables]] show contemporary geopolitics moving into physical internet routes: [[UnitedStates]] funding for [[Caribbean]] and [[CentralAmerica]] cable replacement, competition with [[China]], vendor concerns involving [[Russia]], [[CableLandingPointSecurity]], and [[CableNetworkResilience]] make cloud and financial connectivity part of strategic infrastructure rather than only telecom operations.
 - [[ClimateAdaptation]], [[LowCarbonConstructionMaterials]], and [[CarbonStoragePermanence]] depend on material performance, permitting, cost, and verification as well as technical feasibility.
 - Across software, AI services, CPG, climate hardware, mobile hardware, robotics, cybersecurity, banking, investing, and public building, capability claims become useful only after distribution, verification, supply chains, compliance, operations, customer trust, or pricing fit are solved.
 
@@ -27,7 +28,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI value depends on workflow integration, permission boundaries, verification, compute economics, and world-grounded feedback loops across coding, enterprise adoption, defense autonomy, robotics, and science.
+AI value now includes physical-AI deployment: model capability becomes durable only when workflows, permission boundaries, compute economics, safety certification, data trust, and grounded feedback loops meet real users and tasks.
 
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation. Evidence: [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AgentFacingInterfaces]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[AgentNativeSoftware]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[HeadlessSoftware]], [[Paperboy]], [[AIOperationsRole]], [[AgentOptimizedCLI]], [[RoutineAgentAutomation]].
 - The agent branch now points to a token-efficient operating discipline: [[TokenEfficientAgentWorkflow]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] allocate expensive frontier calls, local models, deterministic tools, skills, memory, review, and human attention by task value, uncertainty, risk, latency, and verification cost. Evidence: [[TokenEfficientAgentWorkflow]], [[TokenMaxxing]], [[ModelRoutingCostControl]], [[LocalAgentExecution]], [[MultiAgentCollaboration]], [[PersistentAgentMemory]], [[AISkills]], [[AgentHarness]], [[AIInferenceCostStructure]], [[DeepSeek]], [[Fable5]], [[GLM52]], [[OpenClaw]], [[HermesAgent]], [[SlockAI]], [[DB9]], [[Dongxu]], [[ZhangHongjiang]], [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]].

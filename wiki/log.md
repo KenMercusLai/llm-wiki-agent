@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-26] ingest | The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs
+
+Added source page for an All-In robotics special with Anybotics, 1X, Boston Dynamics, and Agility Robotics. Created Anybotics, Peter Fankhauser, 1X, Bernt Bornich, Neo Robot, Agility Robotics, Jonathan Hurst, Digit Robot, Amanda McMaster, Spot Robot, Atlas Robot, Industrial Inspection Robotics, Robot Sovereignty and Data Trust, Robot as a Service, Dull Dirty Dangerous Robotics, Robot Control Data Scarcity, Physical AI Hard Takeoff, and Human-Robot Safety Certification; updated Boston Dynamics, Humanoid Robot Commercialization, Robot Teleoperation and Remote Takeover, Embodied Data Pyramid, index, and overview. No settled contradiction found; transcript name variants are normalized and the episode's home-humanoid, robot-sovereignty, anti-weaponization, and hard-takeoff claims remain source-scoped.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》899丨好清斗贪官
 
 Added source page for Hanji 899: the opening Jin Ren/Wu Zhi bribery story around "钱能通神", Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" defense of tomb sacrifice, and the host's ritual-sense argument about solemnity, sacredness, order, and self-realization. Created Emperor Ming of Han and Ritual Affective Order pages; updated Cai Yong, Emperor Ling, Liu Xiu, Li As Political Order, Imperial Ritual Distance, and the Ruiqi show page. No settled contradiction found; minor figures and setting terms are kept source-scoped.
