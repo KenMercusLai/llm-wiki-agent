@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
       "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
       "08e9e438e40918d3a19ca7da2690c490428c5bd254df490c89e74304af0569d4",
       "68639998e00d8dc008789ff62087e5df0174d198c430028997e19ee6b49bad5c",
@@ -247,11 +248,46 @@
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f"
     ],
-    "paragraph_count": 245
+    "paragraph_count": 246
   },
-  "overview_commit": "521380decc594a7dd4339731d69978068a60d207",
-  "overview_digest": "fb2a819da27fed37ad190e70c07f5bb1417d5ffd99d8c089ce3cdfa29e9b3460",
+  "overview_commit": "7d08cfe095712776af7e7c0aab71b20298d0e04e",
+  "overview_digest": "8b39be01c8062063a7ccfecb8842015537b9610b04298e3eab070d7aa88a15c3",
   "paragraphs": [
+    {
+      "id": "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz]], a [[TalkSanlian|Talk三联]] “人在中流” episode with [[GaoErji|高尔基]] of [[CaixinMedia|财新传媒]] and [[WuLaoshiSanlianEditor|吴老师]] of [[SanlianLifeWeekly|三联生活周刊]] on AI, education, parenting, and career formation. It adds [[AISnowlineWorkBoundary]], [[GaoErji]], [[WuLaoshiSanlianEditor]], and [[CaixinMedia]], while extending [[AIEraMajorChoice]], [[CareerCognitionEducation]], [[NonAlgorithmicCapabilities]], [[CollegeMajorChoice]], [[EntryLevelAICareerLadderRisk]], [[AIAsTutor]], [[AIShortcutRisk]], [[HumanJudgmentUnderAI]], [[HumanAgencyUnderAI]], [[HumanConnectionUnderAI]], [[FieldworkAsKnowledgeMethod]], and [[InterviewAsEmbodiedReporting]]. Its core synthesis is that AI-era students should not chase a safe major label alone: routine junior tasks can be compressed across fields, but durable value comes from foundations, real-world contact, occupational self-knowledge, original upstream questions, trust-building, resilience, and using AI as a tool rather than becoming tool-like. No settled contradiction is recorded; the source qualifies AI-tutor and safe-major optimism by keeping practice, internalization, and concrete professional scenes central.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AIAsTutor",
+        "AIEraMajorChoice",
+        "AIShortcutRisk",
+        "AISnowlineWorkBoundary",
+        "CaixinMedia",
+        "CareerCognitionEducation",
+        "CollegeMajorChoice",
+        "EntryLevelAICareerLadderRisk",
+        "FieldworkAsKnowledgeMethod",
+        "GaoErji",
+        "HumanAgencyUnderAI",
+        "HumanConnectionUnderAI",
+        "HumanJudgmentUnderAI",
+        "InterviewAsEmbodiedReporting",
+        "NonAlgorithmicCapabilities",
+        "SanlianLifeWeekly",
+        "TalkSanlian",
+        "WuLaoshiSanlianEditor",
+        "ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz"
+      ]
+    },
     {
       "id": "3ebdf9dcaded254adec25e064e08f763e9ead24285786d5a7dd344b303cb97ce",
       "primary_topic": "ai-and-technology",

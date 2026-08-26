@@ -11672,6 +11672,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-26] ingest | EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02
+
+Added Talk三联 source page for the second “人在中流” AI discussion: AI-era major choice, career cognition, junior-rung compression, real-world education, media work upstream of AI, and non-algorithmic capabilities. Created Gao Erji, Wu Laoshi (Sanlian editor), Caixin Media, and AI Snowline Work Boundary; updated AI-Era Major Choice, Career Cognition Education, and Non-Algorithmic Capabilities into synthesis-v1. No settled contradiction found; the episode qualifies safe-major and AI-tutor optimism by keeping foundations, internalization, real-world contact, and human judgment central.
+
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚
 
 Added source page for Hanji 1031: Gongsun Zan's 199 CE Yijing endgame, Zhang Yan and Gongsun Xu's attempted relief, Yuan Shao's intercepted fire-signal trap and tunnel siege, Gongsun Zan's family killing and death, Guan Jing's loyalist death, Tian Kai's final defeat/death, and the source-scoped self-knowledge frame. Updated Gongsun Zan, Yijing Fortress, Gongsun Xu (Late Han), Guan Jing (Late Han), Tian Kai (Late Han), Rescue Reciprocity Command Trust, and Fortress Security Illusion. No settled contradiction found; self-knowledge and Dunning-Kruger framing is preserved as episode interpretation.
@@ -11965,6 +11969,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
 
 Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
+
+## [2026-08-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] lint | Wiki health check
 
