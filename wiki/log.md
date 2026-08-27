@@ -12708,3 +12708,11 @@ Added source page for a 芮淇讲透资治通鉴 episode on Chen Fan's failed pa
 ## [2026-08-28] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 15,325 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,325 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `wiki/lint-report.md` was not updated.
+
+## [2026-08-28] ingest | 《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记
+
+Added source page for Hanji 868: Wang Chang's Nanyang governance reversal after Zhang Chang's advice, the per-mu land-tax notice and chronicle-policy compression issue, Luoyang earthquake and Liu Mao appointment context, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng, Dou Miao, and Dou Wu's rise. Created Wang Chang (Shumao), Zhang Chang (Nanyang), Empress Deng, Guo Guiren, Per-Mu Land Taxation, and Chronicle Policy Compression pages; updated Emperor Huan, Dou Miao, Dou Wu, Tian Sheng, Ying Feng, Chen Fan, Liu Mao, Humane Local Governance, and Palace Favorite Protection Fragility. No settled contradiction found; 王畅 is disambiguated from 王昌, 田圣 is normalized to the existing Tian Sheng route, and the tax/disaster notices remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
