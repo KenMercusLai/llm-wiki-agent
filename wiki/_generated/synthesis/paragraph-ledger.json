@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
       "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
       "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
       "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
@@ -285,11 +286,41 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 283
+    "paragraph_count": 284
   },
-  "overview_commit": "4f1d1f01836dd09d65fc5c6225fa8d16dc1d9aa5",
-  "overview_digest": "9d35fe2642fe93102d71b6f56a256b6fae1fb23395fca58c1ba1109e4aff101b",
+  "overview_commit": "4767113fbf98a9ce0ad30010212d88c4ec6ffd2d",
+  "overview_digest": "03a14616b10617badd9c73fa184ff9a1728473eccd1879b7d825f933a53bcf7e",
   "paragraphs": [
+    {
+      "id": "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 166 CE first Party Prohibition trigger before [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]], [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]]. It adds [[ZhangChengAstrologerLateHan|张成]], [[LaoXiuLateHan|劳修]], [[InfanticideCustomCorrection|杀婴风俗纠偏]], [[AmnestyExploitationCrime|大赦预期犯罪]], and [[PrisonRitualLegitimacyRefusal|冤狱仪式合法性拒绝]], while extending [[JiaBiaoLateHan|贾彪]], [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], [[ChenShiLateHan|陈寔]], [[ChenFanLateHan|陈蕃]], [[EmperorHuanOfHan|汉桓帝]], [[PowerStructureTargeting|权力结构定向求援]], and [[PartyNetworkTreasonFraming|朋党网络谋反化]]. Its core synthesis is that the first Party Prohibition begins as a chain from local moral order and legal abuse into court accusation: Jia Biao distinguishes action from collateral harm, Li Ying refuses to let an anticipated amnesty protect calculated murder, and eunuch-backed accusation recodes士人 association as disorder before Chen Fan, Chen Shi, and Fan Pang answer through procedural resistance and prison responsibility. No settled contradiction is recorded; minor rescue and fugitive names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AmnestyExploitationCrime",
+        "ChenFanLateHan",
+        "ChenShiLateHan",
+        "EmperorHuanOfHan",
+        "FanPangLateHan",
+        "InfanticideCustomCorrection",
+        "JiaBiaoLateHan",
+        "LaoXiuLateHan",
+        "LiYingLateHan",
+        "PartyNetworkTreasonFraming",
+        "PowerStructureTargeting",
+        "PrisonRitualLegitimacyRefusal",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangChengAstrologerLateHan",
+        "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq",
+        "zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld",
+        "zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp",
+        "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi"
+      ]
+    },
     {
       "id": "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
       "primary_topic": "history-and-geopolitics",

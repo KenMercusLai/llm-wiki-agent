@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！
+
+Added source page for Hanji 874: Jia Biao's no-collateral timing judgment and infanticide custom correction, Zhang Cheng's amnesty-gaming murder, Li Ying's execution of Zhang Cheng father and son, the eunuch-backed Lao Xiu accusation that triggers first Party Prohibition arrests, Chen Fan's refusal to sign vague arrest orders, and Chen Shi / Fan Pang prison conduct. Created Zhang Cheng (late Han astrologer), Lao Xiu, Infanticide Custom Correction, Amnesty Exploitation Crime, and Prison Ritual Legitimacy Refusal pages; updated Jia Biao, Li Ying, Fan Pang, Chen Shi, Chen Fan, Emperor Huan, Power-Structure Targeting, and Party Network Treason Framing. No settled contradiction found; transcript variants are normalized to Jia Biao, Li Ying, Chen Shi, Fan Pang, Gao Yao, and Chen Fan while minor names remain source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系
 
 Added source page for Hanji 876: the 167 CE pre-amnesty Party Prohibition rescue path, Jia Biao's targeted approach to Dou Wu, Dou Wu's memorial against eunuch influence and false accusation, Fan Pang's prison defense, Wang Fu's local softening, and the solar-eclipse pretext for pardon. Created Jia Biao and Power-Structure Targeting pages; updated Dou Wu, Wang Fu, Chen Fan, Fan Pang, Li Ying, Emperor Huan, index, overview, and log. No settled contradiction found; the unnamed second intercessor and frontier notices remain source-scoped.
@@ -12440,6 +12444,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？
 
 Added source page for Hanji 875: the 166 CE first Party Prohibition reputation field, Huangfu Gui's shame at not being arrested, Du Mi's talent-recognition and public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective pacification of Southern Xiongnu and Wuhuan submitters, and Tanshihuai's rejected Han recognition. Created Huangfu Gui and Punishment as Moral Credential pages; migrated Tanshihuai and Scholar-Official Public Duty to synthesis-v1; updated Du Mi, Li Ying, Dou Wu, Zhang Huan, index, overview, and log. No settled contradiction found; transcript variants are normalized to Huangfu Gui, Li Ying, Zheng Xuan, Zhang Huan, Wuhuan, and Tanshihuai.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

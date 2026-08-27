@@ -1,27 +1,27 @@
 {
   "content_date": "2026-08-27",
   "corpus": {
-    "episode_count": 1552,
-    "source_count": 1552
+    "episode_count": 1553,
+    "source_count": 1553
   },
   "generated": true,
   "global": {
-    "candidate_digest": "3f0975aa42f115a21ac9f40ab7d9a9a9d74e95ee9cbf3d488528d5cfb3a3683a",
-    "compacted_at": "2026-08-27T03:51:07.715496Z",
+    "candidate_digest": "23a5f6d5cab9df6514f3b424e0d7b2e6f1a46ae398c7cb800a507f5d81feb98b",
+    "compacted_at": "2026-08-27T05:21:18.822878Z",
     "content_date": "2026-08-27",
     "corpus": {
-      "episode_count": 1549,
-      "source_count": 1549
+      "episode_count": 1553,
+      "source_count": 1553
     },
-    "output_digest": "3065ae0b048879431fa64b3ddb72fb87efc0904823bcab7907f1505e4c5bb38a",
-    "overview_commit": "36a3574b9c2294e479c94d29a71509c1261e5bd5",
-    "overview_digest": "ff4f294941bae067170b2f2a01b135c2fae47d4b76f980e28ca8ee574e2bd727",
-    "pending_ingests": 3,
+    "output_digest": "1ba0d3ff7c63576688e343931d6ec419c2ed0bd6eb07369515b7bf881978fcd6",
+    "overview_commit": "4767113fbf98a9ce0ad30010212d88c4ec6ffd2d",
+    "overview_digest": "03a14616b10617badd9c73fa184ff9a1728473eccd1879b7d825f933a53bcf7e",
+    "pending_ingests": 0,
     "pending_topics": []
   },
-  "overview_commit": "4f1d1f01836dd09d65fc5c6225fa8d16dc1d9aa5",
-  "overview_digest": "9d35fe2642fe93102d71b6f56a256b6fae1fb23395fca58c1ba1109e4aff101b",
-  "paragraph_count": 283,
+  "overview_commit": "4767113fbf98a9ce0ad30010212d88c4ec6ffd2d",
+  "overview_digest": "03a14616b10617badd9c73fa184ff9a1728473eccd1879b7d825f933a53bcf7e",
+  "paragraph_count": 284,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -43,9 +43,9 @@
       "title": "Culture and Media"
     },
     "governance-and-institutions": {
-      "claim_digest": "fb45dbdefedf325faa89d99c4ff7dbcfe4a1b6304a046e585aba4ee0370ce077",
-      "input_digest": "d0143804b6bc84ee936b00aa889d5b3ddbf9e12d37fb7a6428d4e58494684e2d",
-      "output_digest": "5c10c907da7fe9cd439fe88e9f97537a3f3459043b9e8c876fdd9a721b82468f",
+      "claim_digest": "07c4bef9fe3005d5d13345dfd79fc8717b6a390c401572435ea3ebd6a8dee749",
+      "input_digest": "15775bf1a3abc7296f2b11dbdbc41a62dd103285cfd09573eca256425bc066bb",
+      "output_digest": "781f52422fbeabc8ddac5b5309bd6330fa63eb781f383f8fbec33316f3af4645",
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {
