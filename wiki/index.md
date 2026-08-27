@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？](sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw.md) — 芮淇讲透资治通鉴 episode on the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Emperor Ling's accession, and Duan Jiong's budgeted Eastern Qiang suppression plan.
 - [《资治通鉴·汉纪》881丨是谁在发战争横财？](sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6.md) — 芮淇讲透资治通鉴 episode on Duan Jiong's 168 CE Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu campaign funding, and the war-finance access incentive behind hard-line frontier suppression.
 - [《资治通鉴·汉纪》882丨风光太盛，注定不得好死？](sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii.md) — 芮淇讲透资治通鉴 episode on the 168 CE accession-reward stage before the Dou Wu / Chen Fan crisis, covering Lu Zhi's warning to Dou Wu, Chen Fan's refusal of Dou Miao's favor-based marquisate, Analects wealth/rank ethics, and Duan Jiong's Qiang campaign setup.
 - [《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？](sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, the 168 CE Duan Jiong versus Zhang Huan Eastern Qiang policy dispute, surrender versus suppression, and force-plus-conciliation frontier governance.
@@ -9419,6 +9420,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
+- [Budgeted Frontier Suppression / 预算化边疆清剿](concepts/BudgetedFrontierSuppression.md) — Duan Jiong's Eastern Qiang strategy frame turning hard suppression into a court-legible plan with troops, terrain, duration, cost, and qualifications.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
 - [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — Hanji 884 pattern where wet nurses, attendants, and eunuchs turn daily near-body access to a dowager or emperor into political leverage before formal control is visible.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.

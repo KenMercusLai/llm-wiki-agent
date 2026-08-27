@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5
   - zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid
   - zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6
+  - zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
@@ -21,21 +22,23 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Duan Jiong is a late-Han frontier commander and later court-political actor whose evidence now begins with the 168 CE [[FengyishanBattleLateHan|Fengyishan Battle]]. His profile spans tactical skill, hard-line anti-Qiang policy, campaign finance and reward, controversial pacification, shared-hardship leadership, coercive investigation, office churn, and punishment inside anti-eunuch prosecution.
+Duan Jiong is a late-Han frontier commander and later court-political actor whose evidence now begins with the pre-[[FengyishanBattleLateHan|Fengyishan Battle]] budget memorial in [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]]. His profile spans hard-line anti-Qiang strategy, budgeted campaign justification, tactical skill, campaign finance and reward, controversial pacification, shared-hardship leadership, coercive investigation, office churn, and punishment inside anti-eunuch prosecution.
 
 ## Current Profile
 
-Duan's current profile is mixed rather than heroic or villainous. Hanji 881 supplies the earliest current campaign layer: he leads a supply-limited force to Fengyishan, uses formation depth and cavalry wings against the [[XianlingQiang|先零羌]], turns danger into morale pressure, and wins a large reported victory. The same episode adds the political-finance layer: [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] delays final reward until full Eastern Qiang pacification but still gives Duan cash, a family appointment, military funding from the Zhongcangfu palace store, and the title `破羌将军`. That makes Duan's hard line legible not only as frontier strategy but also as a case for [[CampaignFinanceAccessIncentive|campaign finance access incentive]].
+Duan's current profile is mixed rather than heroic or villainous. Hanji 880 supplies the earliest current policy layer: after Western Qiang are pacified but [[XianlingQiang|先零羌]] and other [[DongqiangLateHan|东羌]] groups remain unsettled, Duan answers the court with a budgeted hard-suppression memorial. He acknowledges [[ZhangHuanLateHan|张奂]]'s concern that already-submitted Qiang could be frightened by a new campaign, but argues that repeated surrender and rebellion show the limits of conciliation. His estimate converts exterminatory rhetoric into an administrative proposal: five thousand cavalry, ten thousand infantry, three thousand vehicle units, three winters, two summers, and fifty-four hundred million cash.
 
-Hanji 883 supplies the policy dispute before the later campaign: Duan answers [[ZhangHuanLateHan|张奂]]'s surrender-first proposal by arguing that the [[DongqiangLateHan|东羌]] threat is recurrent, that residual forces are already weak enough to crush, and that accepting or resettling surrenderers may only preserve future danger. Hanji 891 then gives the tactical continuation: he rejects a later surrender mission as potentially unreliable because hungry Qiang forces may submit only to obtain food, then strikes through surprise cavalry, silent night movement, and east-west encirclement. Hanji 892 gives the aftermath: the campaign is rewarded as military success, but [[SimaGuang|司马光]] and the host criticize slaughter-first pacification and treat Qiang rebellion as a result of harsh local exploitation.
+Hanji 881 then supplies the first battle-and-reward continuation. Duan leads a supply-limited force to Fengyishan, uses formation depth and cavalry wings against Xianling Qiang forces, turns danger into morale pressure, and wins a large reported victory. The same episode adds the political-finance layer: [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] delays final reward until full Eastern Qiang pacification but still gives Duan cash, a family appointment, military funding from the Zhongcangfu palace store, and the title `破羌将军`. That makes Duan's hard line legible not only as frontier strategy but also as a case for [[CampaignFinanceAccessIncentive|campaign finance access incentive]].
+
+Hanji 883 supplies the policy dispute before the later campaign: Duan answers Zhang Huan's surrender-first proposal by arguing that the Eastern Qiang threat is recurrent, that residual forces are already weak enough to crush, and that accepting or resettling surrenderers may preserve future danger. Hanji 891 gives the tactical continuation: he rejects a later surrender mission as potentially unreliable because hungry Qiang forces may submit only to obtain food, then strikes through surprise cavalry, silent night movement, and east-west encirclement. Hanji 892 gives the aftermath: the campaign is rewarded as military success, but [[SimaGuang|司马光]] and the host criticize slaughter-first pacification and treat Qiang rebellion as a result of harsh local exploitation.
 
 The later evidence shows why frontier merit does not protect Duan's moral or political profile. Hanji 897 remembers his soldier-side hardship as real command credibility, while Hanji 902-903 tie him to the Zhuque Gate crackdown, Zhang Huan pressure, and Su-household extermination. Hanji 904 places him in early Emperor Ling office churn; Hanji 915 and Hanji 917 show his association with Wang Fu and Cao Jie making him vulnerable to Yang Qiu's prosecution and to Lyu Qiang's punished-merit critique.
 
 ## Key Characteristics
 
+- Hard-line anti-Qiang strategist who turns suppression into a budgeted campaign plan with force, duration, terrain, and cost estimates.
 - Veteran frontier commander with real campaign skill in formation design, morale pressure, surprise movement, encirclement, and long frontier endurance.
-- Hard-line anti-Qiang strategist who argues against surrender-first settlement and seeks wide front-line discretion from court.
-- Campaign beneficiary whose 168 CE Fengyishan victory receives cash, family appointment, palace-store funding, and anti-Qiang title recognition.
+- Campaign beneficiary whose early victories receive cash, family appointment, palace-store funding, and anti-Qiang title recognition.
 - Ethically contested pacifier whose Qiang victories are paired with exterminatory rhetoric, high killing, and Sima Guang's anti-extermination critique.
 - Shared-hardship leader whose authority among soldiers is explained by bearing danger and burden with them.
 - Coercive court enforcer who turns anonymous remonstrance and private revenge fields into broad investigation or household punishment.
@@ -43,6 +46,8 @@ The later evidence shows why frontier merit does not protect Duan's moral or pol
 
 ## Evidence
 
+- Budgeted hard-suppression memorial: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says Duan argues that the remaining Eastern Qiang are weakened, on flatter terrain, and vulnerable to a defined campaign of five thousand cavalry, ten thousand infantry, three thousand vehicle units, three winters, two summers, and fifty-four hundred million cash.
+- Strategic approval before succession risk: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says [[EmperorHuanOfHan|汉桓帝]] approves Duan's memorial before dying, leaving the policy exposed to the new-reign transition.
 - Fengyishan battle and funding: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] has Duan defeat Xianling Qiang forces at Fengyishan after arranging missile troops, spear infantry, strong bows or crossbows, and cavalry wings, then receive interim cash, a family appointment, Zhongcangfu military funding, and the `破羌将军` title.
 - Policy argument before the Qiang campaign: [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] has Duan reject Zhang Huan's surrender-first advice, claim the remaining Eastern Qiang are vulnerable, oppose inward resettlement, and ask the court for discretion to finish the campaign.
 - Tactical Qiang campaign: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] has Duan reject Feng Chan's surrender mission, send Tian Yan and Xia Yu in a cavalry surprise, arrange silent night movement, and coordinate Zhang Kai's eastern force for an encirclement.
@@ -54,19 +59,21 @@ The later evidence shows why frontier merit does not protect Duan's moral or pol
 
 ## Qualifications
 
-Duan should not be flattened into either a heroic frontier general or a corrupt court tool. The sources give both real command capacity and serious moral or institutional damage. Hanji 881's war-profiteering frame is preserved as an incentive and access diagnosis, not proof that Duan or named eunuchs personally extracted identified sums. Hanji 881's Fengyishan account, Hanji 883's memorial argument, Hanji 891's battle sequence, and Hanji 892's Qiang statistics remain source-scoped campaign reporting; they do not settle an independent military history. Transcript variants such as 段炯 and 段颎 are normalized to 段熲.
+Duan should not be flattened into either a heroic frontier general or a corrupt court tool. The sources give both real command capacity and serious moral or institutional damage. Hanji 880's budgeted suppression plan and Hanji 881's war-profiteering frame are preserved as a policy estimate plus incentive/access diagnosis, not proof that Duan or named eunuchs personally extracted identified sums. The Fengyishan account, campaign statistics, and later Eastern Qiang casualty claims remain source-scoped reporting; they do not settle an independent military history. Transcript variants such as 段炯 and 段颎 are normalized to 段熲.
 
 ## What Changed
 
-- Added Hanji 881's Fengyishan battle, Xianling Qiang opponent, interim reward, and Zhongcangfu military-funding layer.
-- Reframed Duan's early hard-line campaign as both tactical capacity and finance-access opportunity.
-- Preserved Hanji 883's policy dispute, Hanji 891's tactical detail, and Hanji 892's ethical critique so the page does not become a simple victory profile.
+- Added Hanji 880's pre-Fengyishan hard-suppression memorial, including Duan's troop, duration, terrain, and cost estimate.
+- Reframed Duan's early hard-line campaign as budgeted frontier policy before it becomes battlefield victory and campaign-funding opportunity.
+- Preserved Zhang Huan's surrender-first objection, Hanji 891's tactical detail, and Hanji 892's ethical critique so the page does not become a simple victory profile.
+- Clarified that Emperor Huan's approval belongs to a succession-transition setting, making policy continuity part of the source's open question.
 
 ## Relationships
 
-- [[FengyishanBattleLateHan|冯翊山之战]] - 168 CE battle that anchors the earliest current Duan campaign evidence.
-- [[XianlingQiang|先零羌]] - opponent defeated by Duan at Fengyishan in Hanji 881.
-- [[DongqiangLateHan|东羌]] - frontier population whose defeat anchors Duan's earliest current campaign evidence.
+- [[BudgetedFrontierSuppression|预算化边疆清剿]] - concept grounded by Duan's Eastern Qiang force, duration, terrain, and cost memorial.
+- [[FengyishanBattleLateHan|冯翊山之战]] - 168 CE battle that follows the hard-line campaign approval.
+- [[XianlingQiang|先零羌]] - Qiang group named as still not fully submitted before and during Duan's campaign.
+- [[DongqiangLateHan|东羌]] - frontier population whose defeat anchors Duan's early campaign evidence.
 - [[ZhangHuanLateHan|张奂]] - rival policy voice whose surrender-first advice Duan publicly rejects.
 - [[CampaignFinanceAccessIncentive|军费通道利益驱动]] - funding-access concept made visible by Duan's post-victory reward sequence.
 - [[FengChanLateHan|冯禅]] - envoy whose surrender mission Duan challenges.

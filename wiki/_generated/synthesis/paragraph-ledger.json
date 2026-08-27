@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
       "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
       "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
       "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
@@ -284,11 +285,43 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 282
+    "paragraph_count": 283
   },
-  "overview_commit": "076f58cebf500fbac48f0bdbb3d70bb5b70ae92c",
-  "overview_digest": "5d3ce0b8e7ba9d7cbfa2dc75899b8d6bd74922043187e02af65b5d3008723659",
+  "overview_commit": "8314e3d0a2150be424ef9a6932951ddecb1149ca",
+  "overview_digest": "486d76ce91b2813124f65b97627290033b12f6a3f568575e55cd3802912e4b1e",
   "paragraphs": [
+    {
+      "id": "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE interregnum before [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] and the Hanji 882-887 Dou Wu / Chen Fan crisis chain. It adds [[CrisisDutyContinuity|危局职守连续性]] and [[BudgetedFrontierSuppression|预算化边疆清剿]], while extending [[ChenFanLateHan|陈蕃]], [[DuanJiongLateHan|段熲]], [[DongqiangLateHan|东羌]], [[XianlingQiang|先零羌]], [[ZhangHuanLateHan|张奂]], [[EmperorHuanOfHan|汉桓帝]], [[EmperorLingOfHan|汉灵帝]], [[DouWuLateHan|窦武]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[HuGuangLateHan|胡广]], [[BureaucraticRiskAvoidance|bureaucratic risk avoidance]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[RootCausePacification|查因安抚式治理]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that succession uncertainty exposes two kinds of continuity risk: court officials use illness claims to avoid dangerous responsibility until Chen Fan restores duty through \"事亡如存,\" while Duan Jiong tries to carry frontier policy across the transition by turning exterminatory Eastern Qiang strategy into a budgeted force-time-cost proposal. No settled contradiction is recorded; official illness and campaign cost claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BudgetedFrontierSuppression",
+        "BureaucraticRiskAvoidance",
+        "ChenFanLateHan",
+        "CrisisDutyContinuity",
+        "DongqiangLateHan",
+        "DouWuLateHan",
+        "DuanJiongLateHan",
+        "EmperorHuanOfHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "HuGuangLateHan",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "XianlingQiang",
+        "XingshiqingStrategicAssessment",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw",
+        "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6"
+      ]
+    },
     {
       "id": "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
       "primary_topic": "history-and-geopolitics",

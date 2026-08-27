@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？
+
+Added source page for Hanji 880: the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Liu Hong's accession as Emperor Ling, and Duan Jiong's budgeted hard-suppression memorial for the Eastern Qiang. Created Crisis Duty Continuity and Budgeted Frontier Suppression; updated Chen Fan, Duan Jiong, and Eastern Qiang. No settled contradiction found; the illness-avoidance and campaign-budget claims are kept source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》882丨风光太盛，注定不得好死？
 
 Added source page for Hanji 882: the 168 CE accession-reward stage before the Dou Wu / Chen Fan anti-eunuch crisis, Lu Zhi's warning against excessive reward, Chen Fan's refusal of Dou Miao's favor-based marquisate, and the Analects wealth/rank frame behind rightful acceptance. Updated Dou Wu, Chen Fan, Lu Zhi, Righteousness Over Profit, and added Unearned Reward Refusal. No settled contradiction found; transcript variants such as 曹洁 and 段炯 are normalized to canonical late-Han routes, while Dou Ji, Dou Shao, Dou Jing, and Ma Rong remain source-scoped.
@@ -12386,6 +12390,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》881丨是谁在发战争横财？
 
 Added source page for Hanji 881: Duan Jiong's Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu military funding, Huangfu Gui / Zhang Huan conciliation contrast, and the source's war-finance access diagnosis around eunuch influence. Created Fengyishan Battle and Campaign Finance Access Incentive pages; migrated Xianling Qiang to synthesis-v1; updated Duan Jiong and Eastern Qiang. No settled contradiction found; the war-profiteering claim is kept as an incentive/access diagnosis rather than proof of named recipients or extracted sums.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
