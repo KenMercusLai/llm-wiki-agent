@@ -12661,6 +12661,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》870丨古代体制内，不干了没有退路
+
+Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; Hanji 870 is kept as the pre-Hanji 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
+
 ## [2026-08-28] ingest | Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris
 
 Added source page for a Huberman Lab Essentials episode with Andrew Huberman and Sam Harris on meditation, consciousness, the felt self, non-dual mindfulness, emotional loops, psychedelics, and ordinary present-moment freedom. Created Sam Harris, MDMA, Non-Dual Mindfulness, and Psychedelic Ordinary Freedom pages; updated Huberman Lab, Andrew Huberman, Impermanence And No-Self, and Awareness Meditation Story Dropping. No settled contradiction found; meditation, no-self, psychedelic, and emotion-regulation claims remain source-scoped and context-dependent.
