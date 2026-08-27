@@ -27,6 +27,7 @@
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
       "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
+      "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -280,10 +281,10 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 278
+    "paragraph_count": 279
   },
-  "overview_commit": "90c4b664f39dcf811bda896a76e343f305efd09a",
-  "overview_digest": "9bc32daf93ac0e021b4701fd154c66b9e0c3a5df697a3d63d7ea80188ff2186e",
+  "overview_commit": "d1d74146090275e72f168e3a5b8ba7eeb6202c03",
+  "overview_digest": "954b61ba8b39feb30862c0dcf5b592ece75047bb01f05de0874b02900acc4782",
   "paragraphs": [
     {
       "id": "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
@@ -1108,6 +1109,37 @@
         "YuanShao",
         "ZhangLiao",
         "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx"
+      ]
+    },
+    {
+      "id": "1a6a1bd8a35ae9c05383975a3a76da51ac306f5fface6750ff0ef9cc07bec634",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the immediate pre-[[GuanduCampaign|官渡之战]] sequence after Hanji 1041. It extends [[TianFengLateHan|田丰]], [[YuanShao|袁绍]], [[LiuBei|刘备]], [[YuanTan|袁谭]], [[CaoCao|曹操]], [[Xudu|许都]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[ResourceAsymmetryAttrition|资源不对称消耗战]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[AdviserStateArchitecture|谋士政权架构]], [[PostSuccessArrogance|得势后的骄傲]], and [[XingshiqingStrategicAssessment|行势情战略评估]]. Its core synthesis is that Tian Feng's post-Liu-Bei plan gives Yuan Shao a concrete attritional alternative: hold defensible ground, farm, build arms, court outside allies, and harass Cao Cao's southern Yellow River zone instead of gambling on one battle. Yuan Shao's decision to imprison Tian Feng turns adviser failure from ignored warning into punitive feedback collapse under arrogance and pre-battle morale anxiety. No settled contradiction is recorded; the claim that Tian Feng's strategy would have tilted victory toward Yuan remains source-scoped counterfactual judgment.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AdviceFramingUnderHierarchy",
+        "AdviserStateArchitecture",
+        "CaoCao",
+        "CourtFeedbackCollapse",
+        "FortifiedAttritionPatience",
+        "GuanduCampaign",
+        "LiuBei",
+        "PostSuccessArrogance",
+        "ResourceAsymmetryAttrition",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianFengLateHan",
+        "XingshiqingStrategicAssessment",
+        "Xudu",
+        "YuanShao",
+        "YuanTan",
+        "zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs"
       ]
     },
     {

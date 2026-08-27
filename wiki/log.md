@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱
+
+Added source page for Hanji 1042: Liu Bei's flight to Yuan Shao, Tian Feng's concrete pre-Guandu hold-and-harass strategy, Yuan Shao's rejection and imprisonment of Tian Feng, and the Yuan camp fragmentation diagnosis. Updated Tian Feng, Guandu Campaign, Advice Framing Under Hierarchy, Resource-Asymmetry Attrition, and Fortified Attrition Patience. No settled contradiction found; the host's claim that Tian Feng's plan would have favored Yuan Shao remains source-scoped counterfactual judgment.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》886丨身处职场，做个城府很深的人
 
 Added source page for Hanji 886: the leaked prelude to the 168 CE Dou Wu anti-eunuch crisis, Zhu Yu's oath, Cao Jie and Wang Fu's control of emperor, gates, seals, tallies, edict channel, Beisi prison, and Dou Miao, plus the host's "城府" frame as strategic emotion and behavior control. Migrated Zhu Yu and Strategic Emotion Concealment to synthesis-v1; updated Dou Wu, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk with the new source appended. No settled contradiction found; minor names remain source-scoped.
@@ -12354,6 +12358,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊
 
 Added source page for Hanji 1045: Sun Ce's fatal hunting ambush by Xu Gong retainers, the deathbed seal handoff to Sun Quan, Zhang Zhao and Zhou Yu's stabilization of Jiangdong, and Li Tong's refusal of Yuan Shao's Runan recruitment. Created Sun Ce Assassination, Xu Gong, Wu Commandery, Runan Commandery, and Liu Pi pages; updated Sun Ce, Sun Quan, Zhang Zhao, Zhou Yu, Li Tong, Leader Personal Exposure, and Command Continuity Damage Control. No settled contradiction found; 刘璧 is normalized source-scoped to 刘辟 / Liu Pi, and the host's character-fate reading remains an interpretation rather than a complete causal biography.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
