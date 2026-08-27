@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》881丨是谁在发战争横财？](sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6.md) — 芮淇讲透资治通鉴 episode on Duan Jiong's 168 CE Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu campaign funding, and the war-finance access incentive behind hard-line frontier suppression.
 - [《资治通鉴·汉纪》882丨风光太盛，注定不得好死？](sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii.md) — 芮淇讲透资治通鉴 episode on the 168 CE accession-reward stage before the Dou Wu / Chen Fan crisis, covering Lu Zhi's warning to Dou Wu, Chen Fan's refusal of Dou Miao's favor-based marquisate, Analects wealth/rank ethics, and Duan Jiong's Qiang campaign setup.
 - [《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？](sources/zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid.md) — 芮淇讲透资治通鉴 episode on boundaryless kindness, the 168 CE Duan Jiong versus Zhang Huan Eastern Qiang policy dispute, surrender versus suppression, and force-plus-conciliation frontier governance.
 - [《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？](sources/zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys.md) — 芮淇讲透资治通鉴 episode on the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, covering Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, and the first selective executions of Guan Ba and Su Kang.
@@ -1578,7 +1579,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
 - [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose pre-crackdown public honor in Hanji 892 and prison choice/student liability in Hanji 893 anchor reputation danger.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose honor-list visibility in Hanji 892 and voluntary imprisonment/family farewell in Hanji 893 expose名节 under persecution.
-- [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
+- [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
+- [冯翊山之战 / Fengyishan Battle (late Han)](entities/FengyishanBattleLateHan.md) — 168 CE frontier battle where Duan Jiong defeats Xianling Qiang forces before receiving interim reward, military funding, and anti-Qiang title recognition.
 - [范滂母 / Fan Pang's mother](entities/FanPangMotherLateHan.md) — Family elder whose farewell to Fan Pang frames moral fame and long life as incompatible under the party-prohibition disaster.
 - [景毅 / Jing Yi (late Han)](entities/JingYiLateHan.md) — Official who self-reports because his son's studentship under Li Ying was omitted from the punishment list.
 - [朱璧 / Zhu Bi (late Han)](entities/ZhuBiLateHan.md) — Hou Lan-linked accuser who denounces Zhang Jian and twenty-four others as party figures in Hanji 893.
@@ -1711,7 +1713,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [沈忠 / Shen Zhong (late Han)](entities/ShenZhongLateHan.md) — Liangguo langzhong whose death-pledged memorial against Zhu Yu and eunuch corruption is shelved under Emperor Ling.
 - [于贵人 / Yu Guiren (late Han)](entities/YuGuirenLateHan.md) — Former imperial consort remembered as Xianling Guiren whose funeral route triggers Cao Jie's eunuch regrouping scene.
 - [何海 / He Hai (late Han)](entities/HeHaiLateHan.md) — Shanglu county official whose petition narrows party-prohibition collateral punishment for more distant kin.
-- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile spans hard-line anti-Qiang policy, tactical campaign success, ethical critique, shared-hardship leadership, coercive crackdowns, office churn, and anti-Wang Fu prosecution.
+- [段熲 / Duan Jiong (late Han)](entities/DuanJiongLateHan.md) — Veteran frontier commander whose profile spans Fengyishan tactical success, hard-line anti-Qiang policy, campaign finance and reward, ethical critique, shared-hardship leadership, coercive crackdowns, and anti-Wang Fu prosecution.
 - [张脩 / Zhang Xiu (Protector of Xiongnu)](entities/ZhangXiuProtectorOfXiongnu.md) — Han frontier official who kills Huzheng without authorization and installs Qiangqu as Southern Xiongnu chanyu; distinct from Zhang Xiu of Wancheng and Zhang Xiu of Five Pecks.
 - [呼征 / Huzheng Chanyu](entities/HuzhengChanyu.md) — Southern Xiongnu chanyu who first succeeds his father in 178 CE, then is killed by Zhang Xiu before Qiangqu's installation.
 - [朱瑀 / Zhu Yu (late Han)](entities/ZhuYuLateHan.md) — Late-Han eunuch actor whose profile now begins with his 168 emergency oath against Dou Wu before later accusation, Cao Jie recovery, title-privilege criticism, and Yang Qiu target-field references.
@@ -1852,7 +1854,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许秋 / Xu Qiu (late Han)](entities/XuQiuLateHan.md) — Late-Han major in Zhu Jun's Nanyang army, granted a marquis title after the campaign in Hanji 930.
 - [杨雍 / Yang Yong (late Han)](entities/YangYongLateHan.md) — Attendant official who reports Gai Xun's conduct and helps turn hostile respect into Hanyang appointment.
 - [滇吾 / Dian Wu (Qiang leader)](entities/DianWuQiang.md) — Qiang-side figure who attacks Ji County but refuses to kill Gai Xun because he respects his moral reputation.
-- [先零羌 / Xianling Qiang](entities/XianlingQiang.md) — Qiang group whose coercive rebellion pulls Bian Zhang into the Ji County siege in Hanji 930.
+- [先零羌 / Xianling Qiang](entities/XianlingQiang.md) — Qiang group appearing as Duan Jiong's opponent at Fengyishan in 168 CE and later as a western-uprising actor around Bian Zhang, Han Sui, Beigong Boyu, and Li Wenhou.
 - [许昌 / Xu Chang (late-Han rebel)](entities/XuChangRebel.md) — Kuaiji rebel invoked as the earlier campaign where Sun Jian's bravery first becomes visible to Zhu Jun.
 - [张宁 / Zhang Ning (late Han)](entities/ZhangNingLateHan.md) — Late-Han Yuyao figure who recruits Sun Jian as sima after the Xu Chang rebellion, kept source-scoped pending more evidence.
 - [司马直 / Sima Zhi (late Han)](entities/SimaZhiLateHan.md) — Clean late-Han appointee to Julu who writes a death memorial at Mengjin rather than financing office entry by squeezing the people.
@@ -9417,6 +9419,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
 - [Palace Proximity Power / 宫廷近身权力](concepts/PalaceProximityPower.md) — Hanji 884 pattern where wet nurses, attendants, and eunuchs turn daily near-body access to a dowager or emperor into political leverage before formal control is visible.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Hanji 888-889 frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.

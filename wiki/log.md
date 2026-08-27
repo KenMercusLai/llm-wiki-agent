@@ -12382,3 +12382,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》881丨是谁在发战争横财？
+
+Added source page for Hanji 881: Duan Jiong's Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu military funding, Huangfu Gui / Zhang Huan conciliation contrast, and the source's war-finance access diagnosis around eunuch influence. Created Fengyishan Battle and Campaign Finance Access Incentive pages; migrated Xianling Qiang to synthesis-v1; updated Duan Jiong and Eastern Qiang. No settled contradiction found; the war-profiteering claim is kept as an incentive/access diagnosis rather than proof of named recipients or extracted sums.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

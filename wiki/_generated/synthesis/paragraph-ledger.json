@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
       "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
       "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
       "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
@@ -283,11 +284,35 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 281
+    "paragraph_count": 282
   },
-  "overview_commit": "a832e898d76af137fffefb6047bc7b6f1c0593c6",
-  "overview_digest": "af414dfa8a2b27cbb1ca3ce8af5d6c3c21a778999c2a49250dcd0e6591086a21",
+  "overview_commit": "076f58cebf500fbac48f0bdbb3d70bb5b70ae92c",
+  "overview_digest": "5d3ce0b8e7ba9d7cbfa2dc75899b8d6bd74922043187e02af65b5d3008723659",
   "paragraphs": [
+    {
+      "id": "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|《资治通鉴·汉纪》881丨是谁在发战争横财？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the immediate pre-Hanji 882 Qiang-campaign and court-finance layer. It adds [[FengyishanBattleLateHan|冯翊山之战]] and [[CampaignFinanceAccessIncentive|军费通道利益驱动]], while extending [[DuanJiongLateHan|段熲]], [[XianlingQiang|先零羌]], [[DongqiangLateHan|东羌]], [[EmpressDowagerDouMiao|窦妙]], [[EmperorLingOfHan|汉灵帝]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[WarCostTempoDiscipline|战争成本与速决纪律]]. Its core synthesis is that Duan Jiong's hard-line victory at Fengyishan becomes intelligible as both military capacity and access-biased funding: a costly frontier campaign creates resource flows that eunuch-adjacent actors can influence, so the annihilation route receives smoother approval than conciliation. No settled contradiction is recorded; the source preserves the war-profiteering claim as an incentive/access diagnosis rather than proof of specific officials extracting identified sums.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "history-and-geopolitics": 4,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "CampaignFinanceAccessIncentive",
+        "DongqiangLateHan",
+        "DuanJiongLateHan",
+        "EmperorLingOfHan",
+        "EmpressDowagerDouMiao",
+        "FengyishanBattleLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "XianlingQiang",
+        "zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6"
+      ]
+    },
     {
       "id": "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
       "primary_topic": "governance-and-institutions",
