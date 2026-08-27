@@ -12395,6 +12395,14 @@ Added source page for Hanji 881: Duan Jiong's Fengyishan victory over the Xianli
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》879丨死在女人身上的昏庸男人
+
+Added source page for Hanji 879: Emperor Huan's final harem-status split between Tian Sheng and Dou Miao, Huan's childless death, Dou Miao's execution of Tian Sheng, and Dou Wu's role in selecting the twelve-year-old Liu Hong as successor. Created Tian Sheng, Palace Favorite Protection Fragility, and Controllable Child Accession pages; migrated Emperor Huan to synthesis-v1; updated Dou Miao and Dou Wu. No settled contradiction found; Liu Hong is normalized to Emperor Ling, and Liu Kai / Liu Chang lineage names remain source-scoped because existing routes point to unrelated modern people.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint after health passed and identity validation found unique wiki identities. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,030 pages; findings are advisory until the graph is rebuilt. Current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset/provider-unqualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

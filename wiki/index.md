@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》879丨死在女人身上的昏庸男人](sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's final harem politics, Tian Sheng's blocked elevation and death, Dou Miao's dowager authority, childless succession, and Dou Wu's controllable-child accession choice.
 - [《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？](sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw.md) — 芮淇讲透资治通鉴 episode on the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Emperor Ling's accession, and Duan Jiong's budgeted Eastern Qiang suppression plan.
 - [《资治通鉴·汉纪》881丨是谁在发战争横财？](sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6.md) — 芮淇讲透资治通鉴 episode on Duan Jiong's 168 CE Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu campaign funding, and the war-finance access incentive behind hard-line frontier suppression.
 - [《资治通鉴·汉纪》882丨风光太盛，注定不得好死？](sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii.md) — 芮淇讲透资治通鉴 episode on the 168 CE accession-reward stage before the Dou Wu / Chen Fan crisis, covering Lu Zhi's warning to Dou Wu, Chen Fan's refusal of Dou Miao's favor-based marquisate, Analects wealth/rank ethics, and Duan Jiong's Qiang campaign setup.
@@ -1678,9 +1679,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [胡广 / Hu Guang (late Han)](entities/HuGuangLateHan.md) — Late-Han senior official whose six-reign service, institutional knowledge, mildness, and non-offense make Hanji 900's moderation-based survival case.
 - [侯览 / Hou Lan (late Han)](entities/HouLanLateHan.md) — Late-Han eunuch whose accusation sends Zhang Jian into flight in Hanji 894 before his later Hanji 900 office removal and suicide show palace protection failing.
 - [李贤 / Li Xian (taiwei, late Han)](entities/LiXianTaiweiLateHan.md) — Ill taiwei who risks death in Hanji 901 to argue that Empress Dowager Dou should be buried with Emperor Huan; distinct from 李暹 / Li Xian.
-- [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose seizure, seal loss, confinement, later living support, and disputed burial test formal status, palace custody, family guilt, and anti-eunuch memory.
+- [窦妙 / Empress Dowager Dou Miao](entities/EmpressDowagerDouMiao.md) — Late-Han empress dowager whose profile runs from formal empress selection and Tian Sheng's execution through child accession, seizure, confinement, later support, and disputed burial.
 - [董萌 / Dong Meng (late Han)](entities/DongMengLateHan.md) — Huangmenling who speaks for Empress Dowager Dou Miao before Cao Jie and Wang Fu recode the Dou grievance into a fatal accusation.
-- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor used as a posthumous burial reference in Hanji 901 and as a later comparison/succession-memory node.
+- [汉桓帝 / Emperor Huan of Han](entities/EmperorHuanOfHan.md) — Late-Han emperor whose final harem-status split, childless death, posthumous burial role, and later comparison memory connect Tian Sheng, Dou Miao, and Emperor Ling.
+- [田胜 / Tian Sheng (late Han)](entities/TianShengLateHan.md) — Emperor Huan favorite whose blocked empress elevation and post-Huan execution show the fragility of palace favor without formal protection.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
@@ -1945,7 +1947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
 - [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official whose branch now begins with refusal of Dou Miao's favor-based marquisate before first removal advice, fatal palace intervention, and later memory.
-- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose failed 168 action now runs from excessive accession reward and reform opening to leaked plan, countercoup reversal, purge, and memory.
+- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose profile runs from controllable-child accession and excessive reward to reform opening, leaked plan, countercoup reversal, purge, and memory.
 - [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
 - [李儒 / Li Ru (late Han)](entities/LiRuLateHan.md) — Dong Zhuo-side official who carries out the poisoning of Liu Bian in Hanji 950.
 - [郑泰 / Zheng Tai (late Han)](entities/ZhengTaiLateHan.md) — Court official whose advice restrains Dong Zhuo from immediate mass attack and diagnoses the anti-Dong-Zhuo coalition's weak cohesion.
@@ -9420,6 +9422,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Hanji 879 succession pattern where a legitimate young ruler is attractive to powerholders because age makes behind-the-throne control easier.
+- [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Hanji 879 pattern where ruler affection fails to protect a palace favorite after the patron dies if favor never becomes durable formal status.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
 - [Budgeted Frontier Suppression / 预算化边疆清剿](concepts/BudgetedFrontierSuppression.md) — Duan Jiong's Eastern Qiang strategy frame turning hard suppression into a court-legible plan with troops, terrain, duration, cost, and qualifications.
 - [军费通道利益驱动 / Campaign Finance Access Incentive](concepts/CampaignFinanceAccessIncentive.md) — Pattern where costly military campaigns create funding, reward, and approval channels that palace-access actors have reason to influence.
