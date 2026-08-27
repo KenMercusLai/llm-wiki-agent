@@ -12660,3 +12660,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | VOL.216 停止“神化”前额叶：别让网络热词变成你的诊断书
+
+Added source page for a 这病说来话长 episode with 阿汤 and 薛小凡 on prefrontal-cortex overattribution, online medical vocabulary, dopamine and ADHD self-diagnosis boundaries, state-dependent self-control, sleep, hunger, impulse behavior, emotional expression, and clinical behavior-change red flags. Created Xue Xiaofan, Prefrontal Cortex Overattribution, State-Dependent Self-Control, ADHD Self-Diagnosis Boundary, and Clinical Behavior-Change Red Flags pages; extended Zhe Bing Shuo Lai Hua Chang and Atang. No settled contradiction found; brain-region, dopamine, ADHD, frontotemporal-dementia, Parkinson's-medication, and 25-year maturity claims remain source-scoped and clinically bounded.
