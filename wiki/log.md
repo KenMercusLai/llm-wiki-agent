@@ -12632,3 +12632,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being
 
 Added source page for a Huberman Lab Essentials episode with Andrew Huberman on dopamine, epinephrine, serotonin, acetylcholine, daily neuromodulator phases, behavior, nutrition, supplements, and prescription/safety boundaries. Created Neuromodulator State Toolkit, Dopamine Tool Timing, Epinephrine Alertness Toolkit, Acetylcholine Focus Support, and Serotonin Social Wellbeing Tools pages; extended Huberman Lab and Andrew Huberman. No settled contradiction found; supplement, prescription, cold-exposure, breathing, nicotine, and serotonin claims remain source-scoped and medically bounded.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
