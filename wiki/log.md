@@ -12406,3 +12406,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint after health passed and identity validation found unique wiki identities. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 15,030 pages; findings are advisory until the graph is rebuilt. Current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset/provider-unqualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》878丨不受约束的权力，害人不浅
+
+Added source page for Hanji 878: Emperor Huan's forced marriage pressure on Yang Qiao and contrast with Liu Xiu / Song Hong, the Ba Commandery yellow-dragon auspicious-reporting case, Zhang Huan's 167 CE suppression of Xianling Qiang with eunuch-distorted reward, and Dong Zhuo's first langzhong appointment. Created Yang Qiao, Song Hong, Coerced Imperial Marriage, Military Reward Eunuch Gatekeeping, and Local Auspicious Omen Fabrication pages; updated Emperor Huan and Zhang Huan. No settled contradiction found; 张宦 and 先临羌 are normalized/source-scoped to established late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

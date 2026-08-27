@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》878丨不受约束的权力，害人不浅](sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's coerced princess-marriage pressure on Yang Qiao, Liu Xiu and Song Hong as a restraint contrast, Ba Commandery yellow-dragon omen fabrication, Zhang Huan's 167 CE Qiang victory and eunuch-filtered reward, and Dong Zhuo's first foreshadowing appointment.
 - [《资治通鉴·汉纪》879丨死在女人身上的昏庸男人](sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's final harem politics, Tian Sheng's blocked elevation and death, Dou Miao's dowager authority, childless succession, and Dou Wu's controllable-child accession choice.
 - [《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？](sources/zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw.md) — 芮淇讲透资治通鉴 episode on the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Emperor Ling's accession, and Duan Jiong's budgeted Eastern Qiang suppression plan.
 - [《资治通鉴·汉纪》881丨是谁在发战争横财？](sources/zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6.md) — 芮淇讲透资治通鉴 episode on Duan Jiong's 168 CE Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu campaign funding, and the war-finance access incentive behind hard-line frontier suppression.
@@ -1555,6 +1556,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [杨桥 / Yang Qiao (late Han)](entities/YangQiaoLateHan.md) — Source-bounded late-Han recommended talent whose fatal refusal of Emperor Huan's princess-marriage pressure anchors the coerced imperial marriage case.
+- [宋弘 / Song Hong (Eastern Han)](entities/SongHongEasternHan.md) — Eastern Han official used as the Liu Xiu restraint contrast to Yang Qiao's fatal coerced-marriage case.
 - [赵饶 / Zhao Rao (late Han)](entities/ZhaoRaoLateHan.md) — Emperor Ling's wet nurse and palace-proximity actor whose daily access helps explain Dou Miao's hesitation and later appears in Cao Jie's emergency custody channel.
 - [管霸 / Guan Ba (late Han)](entities/GuanBaLateHan.md) — Powerful zhongchangshi singled out as the first selective anti-eunuch target when Dou Miao refuses a blanket purge.
 - [苏康 / Su Kang (late Han)](entities/SuKangLateHan.md) — Zhongchangshi arrested and executed with Guan Ba in Dou Miao's limited first anti-eunuch punishment.
@@ -9422,6 +9425,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Coerced Imperial Marriage / 强制赐婚](concepts/CoercedImperialMarriage.md) — Pattern where imperial marriage interest becomes coercive command pressure, grounded in Emperor Huan's fatal pressure on Yang Qiao and qualified by Liu Xiu's restraint toward Song Hong.
+- [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is reduced or reformatted because eunuch-side access shapes the reward channel.
+- [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Hanji 879 succession pattern where a legitimate young ruler is attractive to powerholders because age makes behind-the-throne control easier.
 - [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Hanji 879 pattern where ruler affection fails to protect a palace favorite after the patron dies if favor never becomes durable formal status.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.
