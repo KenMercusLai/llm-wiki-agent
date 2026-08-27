@@ -10,17 +10,20 @@ sources:
   - zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk
   - zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp
   - zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq
+  - zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-汉桓帝 / Emperor Huan of Han is currently a late-Han emperor whose wiki profile spans the first Party Prohibition trigger, indirect prisoner-release field, coercive living-reign private power, final harem and succession crisis, plus later posthumous memory. [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] now supplies the earliest bounded layer: Huan accepts the eunuch-backed accusation after the [[ZhangChengAstrologerLateHan|张成]] case, orders arrests of [[LiYingLateHan|李膺]] and other士人, and faces [[ChenFanLateHan|陈蕃]]'s refusal to endorse the vague prosecution.
+汉桓帝 / Emperor Huan of Han is currently a late-Han emperor whose wiki profile spans omen-coded remonstrance, the first Party Prohibition trigger, indirect prisoner-release field, coercive living-reign private power, final harem and succession crisis, plus later posthumous memory. [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] now supplies the earliest bounded layer: [[XiangKaiLateHan|襄楷]] uses stars, disasters, river signs, childlessness, and religious doctrine to criticize Huan's eunuch favor, punishment, killing, and desire. [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] then shows Huan accepting the eunuch-backed accusation after the [[ZhangChengAstrologerLateHan|张成]] case, ordering arrests of [[LiYingLateHan|李膺]] and other士人, and facing [[ChenFanLateHan|陈蕃]]'s refusal to endorse the vague prosecution.
 
 ## Current Profile
 
-Huan's current profile is not a full reign biography. The bounded sources make him a hinge between accusation access, blocked feedback, private desire, formal status, childless death, and posthumous legitimacy. Hanji 874 shows how an enforcement dispute can enter his decision field through eunuch-connected retaliation. [[LaoXiuLateHan|劳修]] accuses Li Ying and other士人 of mutual praise, Taixue ties, party formation, court slander, and disordering customs; Huan authorizes arrests despite Chen Fan's resistance to the arrest document.
+Huan's current profile is not a full reign biography. The bounded sources make him a hinge between omen-coded criticism, accusation access, blocked feedback, private desire, formal status, childless death, and posthumous legitimacy. Hanji 873 shows a ruler who can receive harsh criticism only through a highly coded frame: Xiang Kai turns celestial signs, disasters, Yellow River clarity, and Buddhist-Daoist restraint into an attack on Huan's political and moral conduct. Huan does not kill him, but the two-year sentence shows the boundary of tolerated correction.
+
+Hanji 874 shows how an enforcement dispute can enter Huan's decision field through eunuch-connected retaliation. [[LaoXiuLateHan|劳修]] accuses Li Ying and other士人 of mutual praise, Taixue ties, party formation, court slander, and disordering customs; Huan authorizes arrests despite Chen Fan's resistance to the arrest document.
 
 Hanji 876 then shows the same ruler-side feedback problem after the case is live. Huan removes Chen Fan after sharp remonstrance, frightening other officials and forcing rescue to move through [[PowerStructureTargeting|权力结构定向求援]]: [[JiaBiaoLateHan|贾彪]] reaches [[DouWuLateHan|窦武]], whose family status and office access can bring the prisoner defense back into Huan's field. The same episode shows omen politics becoming a face-saving release channel, as eunuchs use a solar eclipse to request pardon after prisoner testimony begins to implicate eunuch descendants.
 
@@ -30,16 +33,18 @@ After death, Huan matters as the ritual and comparison anchor around which later
 
 ## Key Characteristics
 
+- Ruler whose court can receive omen-coded criticism but still punishes the speaker when criticism becomes too direct.
 - Ruler whose first Party Prohibition arrests begin after eunuch-backed accusation converts a criminal enforcement dispute into public-order politics.
 - Feedback blocker who accepts arrest language despite Chen Fan's procedural objections and later removes Chen after remonstrance.
 - Decision field that can still be moved indirectly when Jia Biao routes rescue through Dou Wu's family and office access.
 - Omen-politics ruler for whom the solar eclipse becomes a face-saving pardon channel.
 - Living-reign private-desire actor whose favor can become coercive court pressure.
 - Final harem ruler whose personal affection and formal empress status split before childless death.
-- Posthumous anchor for burial, comparison, and succession-memory disputes.
 
 ## Evidence
 
+- Omen-coded remonstrance: [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] says Xiang Kai uses stars, extreme cold, frost, hail, Yellow River clarity, childlessness, and religious doctrine to criticize Huan's eunuch favor, harsh punishment, wrongful killing, and desire.
+- Punishment boundary: [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] says Huan does not execute Xiang Kai but still sentences him to two years after recognizing the memorials as veiled attacks.
 - Arrest authorization: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Lao Xiu's accusation reaches Huan after Li Ying executes Zhang Cheng father and son, and Huan orders arrests of Li Ying and others.
 - Procedural resistance: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Chen Fan refuses to endorse the arrest document and argues that vague accusations against famous officials will lead to unjust torture.
 - Remonstrance blocked: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Chen Fan repeatedly remonstrates in sharp language, angers Huan, and is removed from the Taiwei office on a personnel pretext.
@@ -53,17 +58,20 @@ After death, Huan matters as the ritual and comparison anchor around which later
 
 ## Qualifications
 
-Hanji 874 and Hanji 876 are bounded accounts of the first Party Prohibition trigger and release path, not a complete reconstruction of Huan's party-prohibition policy. Hanji 876 reaches the point where eunuchs request pardon under the solar-eclipse pretext; Hanji 877 supplies the release and registry-exclusion aftermath. Hanji 879's claim that Huan's body was ruined by harem indulgence is preserved as the episode's moral and causal interpretation, not a medical account. Hanji 878's Yang Qiao case remains a bounded coercive-power episode rather than a full marriage-policy survey.
+Hanji 873, Hanji 874, and Hanji 876 are bounded accounts of Huan's remonstrance, first Party Prohibition trigger, and release path, not a complete reconstruction of his full policy toward士人 or eunuchs. Hanji 873 preserves the host's claim about Huan's Buddhist favor and palace worship as episode scope, not as a full history of Buddhism in China. Hanji 876 reaches the point where eunuchs request pardon under the solar-eclipse pretext; Hanji 877 supplies the release and registry-exclusion aftermath. Hanji 879's claim that Huan's body was ruined by harem indulgence is preserved as the episode's moral and causal interpretation, not a medical account. Hanji 878's Yang Qiao case remains a bounded coercive-power episode rather than a full marriage-policy survey.
 
 ## What Changed
 
-- Hanji 874 moves Huan's bounded first Party Prohibition role earlier, from prisoner-release handling to the initial arrest authorization.
-- The profile now connects Zhang Cheng's amnesty-gaming case, Lao Xiu's accusation, and Chen Fan's refusal to Huan's decision field.
+- Hanji 873 adds Huan's direct exposure to Xiang Kai's omen-coded criticism before the first Party Prohibition trigger.
+- The profile now separates tolerated-but-punished remonstrance from later eunuch-backed party arrest and pardon handling.
+- Hanji 874 remains the initial Party Prohibition arrest authorization layer after Zhang Cheng and Lao Xiu.
 - Hanji 876 remains the indirect-rescue and solar-eclipse pardon layer after the initial arrest trigger.
 - The private-power, final-harem, childless-succession, and posthumous-memory branches remain intact.
 
 ## Relationships
 
+- [[XiangKaiLateHan|襄楷]] - remonstrant who uses omens, disasters, succession anxiety, and religious doctrine to criticize Huan.
+- [[OmenCodedRemonstrance|天象灾异包装式进谏]] - rhetorical concept grounded by Xiang Kai's memorials under Huan.
 - [[ZhangChengAstrologerLateHan|张成]] - eunuch-connected astrologer whose execution helps trigger the accusation Huan accepts.
 - [[LaoXiuLateHan|劳修]] - accuser whose memorial turns the Zhang Cheng case into party-arrest language.
 - [[ChenFanLateHan|陈蕃]] - remonstrating high official who refuses the arrest order and is later removed by Huan.

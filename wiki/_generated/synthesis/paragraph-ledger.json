@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
       "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
       "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
       "3243c26853b4022ea3fd430696c5b4addccd300394839277733635190370d9bd",
@@ -286,11 +287,37 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 284
+    "paragraph_count": 285
   },
-  "overview_commit": "4767113fbf98a9ce0ad30010212d88c4ec6ffd2d",
-  "overview_digest": "03a14616b10617badd9c73fa184ff9a1728473eccd1879b7d825f933a53bcf7e",
+  "overview_commit": "2119966568159914279867b09f71c0bac1a0d006",
+  "overview_digest": "c10ef2da21d8ae4357006ab89f15bdb699960e78c2f4e2b6ee36bc45e3111075",
   "paragraphs": [
+    {
+      "id": "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling 166 CE immediately before [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] and the first Party Prohibition trigger. It adds [[XiangKaiLateHan|襄楷]] and [[OmenCodedRemonstrance|天象灾异包装式进谏]], while extending [[EmperorHuanOfHan|汉桓帝]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], [[ChineseAstrologicalPolitics|中国星占政治]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[Laozi|老子]], and [[ShakyamuniBuddha|释迦牟尼佛]]. Its core synthesis is that Xiang Kai makes omen language a political speech technology: planets, mansions, cold, hail, Yellow River clarity, childlessness, and Huan's Buddhist-Daoist ritual interests all become evidence for criticizing eunuch favor, harsh punishment, wrongful killing, and imperial desire. No settled contradiction is recorded; minor official and rescuer names remain source-scoped, and Huan's \"first Buddhist emperor\" claim remains episode-attributed.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "CelestialOmenPoliticalResponsibility",
+        "ChineseAstrologicalPolitics",
+        "CourtFeedbackCollapse",
+        "EmperorHuanOfHan",
+        "Laozi",
+        "NaturalDisasterPoliticalOmen",
+        "OmenCodedRemonstrance",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShakyamuniBuddha",
+        "XiangKaiLateHan",
+        "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc",
+        "zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq"
+      ]
+    },
     {
       "id": "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
       "primary_topic": "governance-and-institutions",

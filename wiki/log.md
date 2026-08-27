@@ -12452,3 +12452,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
+
+Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
