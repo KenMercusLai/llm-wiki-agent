@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家
+
+Added source page for Hanji 872: Zhang Jian's enforcement against Hou Lan, blocked memorials, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, Emperor Huan's punishment of Zhai Chao and Huang Fu after eunuch complaint, and Chen Fan's warning that inner-court favorite power is the deeper danger. Created Zhai Chao, Xu Huang, Xu Xuan, Li Gao, Huang Fu, Liu Mao, and Eunuch Patronage Violence Shield pages; updated Chen Fan, Zhang Jian, Hou Lan, and Emperor Huan. No settled contradiction found; 皇甫 is normalized to 黄浮 and 李嵩 to 李暠 while the 166/169 chronology is kept source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！
 
 Added source page for Hanji 874: Jia Biao's no-collateral timing judgment and infanticide custom correction, Zhang Cheng's amnesty-gaming murder, Li Ying's execution of Zhang Cheng father and son, the eunuch-backed Lao Xiu accusation that triggers first Party Prohibition arrests, Chen Fan's refusal to sign vague arrest orders, and Chen Shi / Fan Pang prison conduct. Created Zhang Cheng (late Han astrologer), Lao Xiu, Infanticide Custom Correction, Amnesty Exploitation Crime, and Prison Ritual Legitimacy Refusal pages; updated Jia Biao, Li Ying, Fan Pang, Chen Shi, Chen Fan, Emperor Huan, Power-Structure Targeting, and Party Network Treason Framing. No settled contradiction found; transcript variants are normalized to Jia Biao, Li Ying, Chen Shi, Fan Pang, Gao Yao, and Chen Fan while minor names remain source-scoped.
@@ -12456,6 +12460,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
 
 Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

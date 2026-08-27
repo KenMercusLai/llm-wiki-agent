@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家](sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's enforcement against Hou Lan, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, and Chen Fan's warning about eunuch-protected court disorder.
 - [《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？](sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc.md) — 芮淇讲透资治通鉴 episode on Xiang Kai's omen-coded remonstrance against Emperor Huan, using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint.
 - [The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?](sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480.md) — All-In episode on Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement, AI capex at Google/Tesla/SpaceX, and New York tenant-screening, eviction, and rent-control politics.
 - [《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！](sources/zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq.md) — 芮淇讲透资治通鉴 episode on Jia Biao's refusal to pass fugitive risk to others and infanticide enforcement, Zhang Cheng's amnesty-gaming murder, Li Ying's execution, and the first Party Prohibition arrest trigger.
@@ -1562,6 +1563,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
+- [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
+- [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Official who initially joins Chen Fan's defense of punished enforcement officials, then retreats under pressure.
+- [徐璜 / Xu Huang (late Han eunuch)](entities/XuHuangLateHan.md) — Eunuch uncle whose complaint channel shields Xu Xuan and exposes Huang Fu.
+- [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
+- [翟超 / Zhai Chao (late Han)](entities/ZhaiChaoLateHan.md) — Official whose appointment of Zhang Jian exposes him to eunuch retaliation.
 - [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
 - [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose Hanji 875 self-report makes punishment a Party Prohibition moral credential.
 - [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han official whose profile now combines no-collateral timing judgment, infanticide custom correction, and targeted Party Prohibition rescue through Dou Wu.
@@ -9439,6 +9446,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access shields local violence and turns enforcement against the officials who act.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
 - [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
 - [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.

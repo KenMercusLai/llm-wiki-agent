@@ -14,17 +14,20 @@ sources:
   - zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw
   - zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp
   - zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq
+  - zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-陈蕃 / Chen Fan is an anti-eunuch official whose profile now begins with first Party Prohibition procedural resistance before moving into Emperor Huan-era removal, interregnum duty enforcement, title-discipline refusal, the 168 CE anti-eunuch crisis, fatal palace intervention, and later memory. [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] shows him refusing to endorse a vague arrest order against [[LiYingLateHan|李膺]] and other士人, while [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] shows his later removal frightening other officials away from open rescue.
+陈蕃 / Chen Fan is an anti-eunuch official whose profile now begins with defense of enforcement officials punished under eunuch pressure before moving into first Party Prohibition procedural resistance, Emperor Huan-era removal, interregnum duty enforcement, title-discipline refusal, the 168 CE anti-eunuch crisis, fatal palace intervention, and later memory. [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] shows him defending [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] after [[EmperorHuanOfHan|汉桓帝]] punishes them under eunuch complaint, while [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] shows him refusing to endorse a vague arrest order against [[LiYingLateHan|李膺]] and other士人.
 
 ## Current Profile
 
-Chen Fan's current profile is built around role discipline under danger. Hanji 874 supplies the earliest bounded layer: after [[LaoXiuLateHan|劳修]]'s eunuch-backed accusation recodes reputation networks as disorder, Chen Fan returns or refuses the arrest document, defends the accused as famous officials concerned for the state, and objects to vague charges likely to be driven by torture rather than evidence. This makes him an early procedural-resistance figure inside the first Party Prohibition trigger, not only a later rescuer.
+Chen Fan's current profile is built around role discipline under danger. Hanji 872 supplies the earliest bounded layer: after eunuch complaint converts local enforcement against [[XuXuanLateHan|徐宣]] and [[HouLanLateHan|侯览]] into punishment for Zhai Chao and Huang Fu, Chen Fan joins [[LiuMaoLateHan|刘茂]] in defending the officials, then continues after Liu Mao retreats. His memorial reframes the issue from one local case into [[CourtFeedbackCollapse|君臣反馈失灵]]: external thieves are not the deepest danger if the ruler's inner court rewards favorites and blocks忠言.
+
+Hanji 874 then adds the first Party Prohibition procedural layer. After [[LaoXiuLateHan|劳修]]'s eunuch-backed accusation recodes reputation networks as disorder, Chen Fan returns or refuses the arrest document, defends the accused as famous officials concerned for the state, and objects to vague charges likely to be driven by torture rather than evidence. This makes him an early procedural-resistance figure inside the first Party Prohibition trigger, not only a later rescuer.
 
 Hanji 876 shows the field-level consequence. Chen repeatedly remonstrates with [[EmperorHuanOfHan|汉桓帝]], angers the ruler, and is removed from the Taiwei office on a personnel pretext. The removal does not only harm Chen personally; it teaches other civil and military officials that pleading for the prisoners is dangerous. That creates the blocked field in which [[JiaBiaoLateHan|贾彪]] seeks [[DouWuLateHan|窦武]] as a better-positioned intercessor.
 
@@ -34,17 +37,19 @@ Hanji 884, Hanji 885, and Hanji 887 then move Chen into the live anti-eunuch cri
 
 ## Key Characteristics
 
+- Anti-eunuch remonstrant who turns punished local enforcement into a diagnosis of court favorite power.
 - Procedural resister who refuses to endorse vague party-arrest charges against famous士人.
 - Remonstrating high official whose removal during the first Party Prohibition crisis chills open rescue.
 - Duty enforcer who treats office as binding through death-of-ruler and succession uncertainty.
 - Title-legitimacy defender who refuses Dou Miao's favor-based marquisate.
 - Anti-eunuch strategist who identifies Cao Jie and Wang Fu as urgent removal targets before Dou Wu's hesitation.
 - Palace intervention figure whose final action converts moral clarity into bodily exposure.
-- Memory node later used for ritual repair, anti-eunuch grievance, risky coup politics, and legitimacy packaging.
 
 ## Evidence
 
 - First Party Prohibition procedure: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Chen Fan refuses to sign or forward the arrest document, defends the accused as noted officials concerned for state affairs, and objects to vague accusation and torture-driven prosecution.
+- Enforcement-inversion remonstrance: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Chen Fan defends Zhai Chao and Huang Fu after eunuch complaint makes Emperor Huan punish the officials who challenged Hou Lan and Xu Xuan.
+- Court diagnosis: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Chen Fan argues that favorite-protected inner-court disorder and blocked loyal speech are more dangerous than ordinary external thieves.
 - Remonstrance and removal: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Chen Fan repeatedly remonstrates in sharp language, angers Emperor Huan, and is removed from the Taiwei office on a personnel pretext.
 - Chilled rescue field: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Chen Fan's removal frightens officials and makes them afraid to plead for Li Ying and the other party prisoners.
 - Interregnum duty enforcement: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says Chen Fan rebukes shangshu officials who falsely claim illness after Emperor Huan's death, invokes "事亡如存," and pushes them back into urgent court work.
@@ -57,18 +62,21 @@ Hanji 884, Hanji 885, and Hanji 887 then move Chen into the live anti-eunuch cri
 
 ## Qualifications
 
-Hanji 874 shows Chen Fan's procedural resistance to the first arrest order, while Hanji 876 shows the later removal and chilling effect; the page keeps these layers adjacent but distinct. Hanji 887's evaluation of Chen Fan as seeing the crisis more clearly than Dou Wu is the host's interpretation, not proof that Chen's preferred violent timing would certainly have succeeded. Later uses of Chen's memory vary: repair actors, coup plotters, and Dong Zhuo use the old grievance for different political ends. Minor transcript variants such as 陈藩 are normalized to 陈蕃 because existing late-Han routes already carry this actor.
+Hanji 872 shows Chen Fan's defense of punished enforcement officials before the first Party Prohibition arrest order; Hanji 874 shows his procedural resistance to that order, while Hanji 876 shows the later removal and chilling effect. The page keeps these layers adjacent but distinct. Hanji 887's evaluation of Chen Fan as seeing the crisis more clearly than Dou Wu is the host's interpretation, not proof that Chen's preferred violent timing would certainly have succeeded. Later uses of Chen's memory vary: repair actors, coup plotters, and Dong Zhuo use the old grievance for different political ends. Minor transcript variants such as 陈藩 are normalized to 陈蕃 because existing late-Han routes already carry this actor.
 
 ## What Changed
 
-- Hanji 874 adds Chen Fan's refusal to sign the vague first Party Prohibition arrest order before Hanji 876's removal layer.
-- The profile now treats Chen's Party Prohibition role as procedural resistance plus later field-level chilling, not only remonstrance after arrests are underway.
-- Lao Xiu's accusation and Party Network Treason Framing now sit upstream of Chen's first bounded intervention.
+- Hanji 872 adds Chen Fan's defense of Zhai Chao and Huang Fu before the first Party Prohibition arrest-order layer.
+- The profile now treats Chen's earliest bounded role as anti-eunuch institutional diagnosis under Emperor Huan, followed by Party Prohibition procedural resistance.
+- Liu Mao is added as the co-remonstrant who retreats, sharpening Chen Fan's unusual durability under pressure.
 - The later duty, title, anti-eunuch, death, and memory branches remain intact but are no longer the earliest bounded layer.
 
 ## Relationships
 
 - [[EmperorHuanOfHan|汉桓帝]] - ruler whose arrest order, anger, and personnel pretext define Chen Fan's first Party Prohibition risk.
+- [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] - enforcement officials Chen Fan defends after eunuch complaint reverses their cases.
+- [[LiuMaoLateHan|刘茂]] - initial co-remonstrant whose retreat contrasts with Chen Fan's continued memorial.
+- [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]] - earlier Huan-era mechanism Chen Fan diagnoses as court disease.
 - [[LaoXiuLateHan|劳修]] - accuser whose memorial creates the arrest document Chen Fan resists.
 - [[PartyNetworkTreasonFraming|朋党网络谋反化]] - accusation pattern Chen Fan challenges before it becomes a wider arrest field.
 - [[JiaBiaoLateHan|贾彪]] - rescuer whose targeted strategy responds to the fear created by Chen Fan's removal.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
       "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
       "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
       "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
@@ -287,11 +288,41 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 285
+    "paragraph_count": 286
   },
-  "overview_commit": "2119966568159914279867b09f71c0bac1a0d006",
-  "overview_digest": "c10ef2da21d8ae4357006ab89f15bdb699960e78c2f4e2b6ee36bc45e3111075",
+  "overview_commit": "db712fb08f40cfb38f9c336c6f4628a8bca05f71",
+  "overview_digest": "19a7e00514939ffb94e0889d9404c98d22794e66b4cc91730cb778be1364f706",
   "paragraphs": [
+    {
+      "id": "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 166 CE Huan-era enforcement and eunuch-retaliation field before [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]]. It adds [[ZhaiChaoLateHan|翟超]], [[XuHuangLateHan|徐璜]], [[XuXuanLateHan|徐宣]], [[LiGaoRunanLateHan|李暠]], [[HuangFuDonghaiLateHan|黄浮]], [[LiuMaoLateHan|刘茂]], and [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]], while extending [[ZhangJianLateHan|张俭]], [[HouLanLateHan|侯览]], [[ChenFanLateHan|陈蕃]], [[EmperorHuanOfHan|汉桓帝]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]]. Its core synthesis is that late-Han local enforcement can be inverted by palace access: Zhang Jian's reports against Hou Lan are intercepted, Huang Fu's execution of Xu Xuan becomes punishable after eunuch complaint, and Chen Fan names inner-court favorite power and blocked忠言 as the deeper institutional disease. No settled contradiction is recorded; 皇甫/李嵩 transcript forms are normalized to 黄浮/李暠, and the source's 166 frame is kept distinct from Hanji 893-895's 169 Zhang Jian flight sequence.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "ChenFanLateHan",
+        "CourtFeedbackCollapse",
+        "EmperorHuanOfHan",
+        "EunuchPatronageViolenceShield",
+        "HouLanLateHan",
+        "HuangFuDonghaiLateHan",
+        "LiGaoRunanLateHan",
+        "LiuMaoLateHan",
+        "PalaceAccessMonopoly",
+        "RuiqiJiangtouZizhiTongjian",
+        "XuHuangLateHan",
+        "XuXuanLateHan",
+        "ZhaiChaoLateHan",
+        "ZhangJianLateHan",
+        "zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc",
+        "zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc"
+      ]
+    },
     {
       "id": "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
       "primary_topic": "governance-and-institutions",
