@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
       "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
       "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
@@ -282,11 +283,41 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 280
+    "paragraph_count": 281
   },
-  "overview_commit": "cf29066f1ec002469f940508abc6a6ca4603b903",
-  "overview_digest": "d6a0fc1d476f7b76d8e46c28c80b48065de8647cf1a802cac9855ed32436b43a",
+  "overview_commit": "a832e898d76af137fffefb6047bc7b6f1c0593c6",
+  "overview_digest": "af414dfa8a2b27cbb1ca3ce8af5d6c3c21a778999c2a49250dcd0e6591086a21",
   "paragraphs": [
+    {
+      "id": "6ea3cb0cc73814b1e2b140530711f1d0e70b123cc4024f9a3181d51eccd0ff7e",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|《资治通鉴·汉纪》882丨风光太盛，注定不得好死？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE accession-reward stage before [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] and the Hanji 884-887 [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] anti-eunuch crisis. It adds [[UnearnedRewardRefusal|非道所得不居]] and updates Dou Wu, Chen Fan, [[LuZhiLateHan|卢植]], and [[RighteousnessOverProfit|义利之辨]], while connecting the reward issue to [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[CaoJieLateHan|曹节]], [[Analects|《论语》]], [[MeritBasedRewardPunishment|因功赏罚]], [[MingqiLegitimacy|名器合法性]], and the [[DuanJiongLateHan|段熲]] frontier continuation. Its core synthesis is that overexposed reward and rightful refusal are early warning signals before the failed coup: Lu Zhi reads Dou Wu's accession honors as dangerous merit inflation, while Chen Fan treats an improperly grounded marquisate as a dignity and title-legitimacy problem. No settled contradiction is recorded; Ma Rong and Dou-family title details remain source-scoped, and the Duan Jiong notice is treated as setup for Hanji 883 rather than a conflicting campaign account.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Analects",
+        "CaoJieLateHan",
+        "ChenFanLateHan",
+        "DouWuLateHan",
+        "DuanJiongLateHan",
+        "EmpressDowagerDouMiao",
+        "LuZhiLateHan",
+        "MeritBasedRewardPunishment",
+        "MingqiLegitimacy",
+        "RighteousnessOverProfit",
+        "RuiqiJiangtouZizhiTongjian",
+        "UnearnedRewardRefusal",
+        "zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii",
+        "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid"
+      ]
+    },
     {
       "id": "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
       "primary_topic": "governance-and-institutions",

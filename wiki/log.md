@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》882丨风光太盛，注定不得好死？
+
+Added source page for Hanji 882: the 168 CE accession-reward stage before the Dou Wu / Chen Fan anti-eunuch crisis, Lu Zhi's warning against excessive reward, Chen Fan's refusal of Dou Miao's favor-based marquisate, and the Analects wealth/rank frame behind rightful acceptance. Updated Dou Wu, Chen Fan, Lu Zhi, Righteousness Over Profit, and added Unearned Reward Refusal. No settled contradiction found; transcript variants such as 曹洁 and 段炯 are normalized to canonical late-Han routes, while Dou Ji, Dou Shao, Dou Jing, and Ma Rong remain source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱
 
 Added source page for Hanji 1042: Liu Bei's flight to Yuan Shao, Tian Feng's concrete pre-Guandu hold-and-harass strategy, Yuan Shao's rejection and imprisonment of Tian Feng, and the Yuan camp fragmentation diagnosis. Updated Tian Feng, Guandu Campaign, Advice Framing Under Hierarchy, Resource-Asymmetry Attrition, and Fortified Attrition Patience. No settled contradiction found; the host's claim that Tian Feng's plan would have favored Yuan Shao remains source-scoped counterfactual judgment.

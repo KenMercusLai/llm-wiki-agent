@@ -11,17 +11,18 @@ sources:
   - zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi
   - zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca
   - zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys
+  - zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-窦武 / Dou Wu (late Han) is a late-Han outer-relative and anti-eunuch official whose wiki profile now treats the 168 CE crisis as a decision-to-collapse sequence. [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] shows the reforming opening: [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] entrusts government to Dou Wu and [[ChenFanLateHan|陈蕃]], but her near-palace environment makes the first action only a selective punishment of [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]]. [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] then shows the continued pre-leak decision window: repeated requests to Dou Miao, omen warnings, partial arrests, slow procedure, and Dou leaving the palace on September 7. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] shows his plan leaking before he controls the palace, emperor, dowager, seals, or gates; [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] shows the collapse of his remaining military support and his death.
+窦武 / Dou Wu (late Han) is a late-Han outer-relative and anti-eunuch official whose wiki profile now treats the 168 CE crisis as a prestige-to-collapse sequence. [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] adds the pre-crisis warning: Dou Wu receives Wenxi marquis status after [[EmperorLingOfHan|汉灵帝]]'s accession, but [[LuZhiLateHan|卢植]] warns that genealogy-based succession has been overread as personal merit and that excessive reward will damage Dou's reputation and safety. [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] then shows the reforming opening: [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] entrusts government to Dou Wu and [[ChenFanLateHan|陈蕃]], but her near-palace environment makes the first action only a selective punishment of [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]]. [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] then shows the continued pre-leak decision window: repeated requests to Dou Miao, omen warnings, partial arrests, slow procedure, and Dou leaving the palace on September 7. [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] shows his plan leaking before he controls the palace, emperor, dowager, seals, or gates; [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] shows the collapse of his remaining military support and his death.
 
 ## Current Profile
 
-Dou Wu's current profile separates status from crisis command. He has formal power, a family link to Dou Miao, and an anti-eunuch purpose, but Hanji 884 shows that this status already depends on converting Dou Miao's consent into decisive action. Chen Fan urges him to strike Cao Jie and Wang Fu before the chance disappears; Dou supports the plan, yet Dou Miao's first approval reaches only Guan Ba and Su Kang. Hanji 885 then makes the weakness sharper before the leak: Dou depends on Dou Miao's consent, lets the target faction remain near her, follows interrogation procedure after [[ZhengSaLateHan|郑飒 / 郑萨]] is arrested, and even leaves the palace during the live crisis. The same sequence therefore turns his [[ForeignRelativeCourtPolitics|outer-relative]] status into a liability: family access does not equal control of palace timing.
+Dou Wu's current profile separates status from crisis command. Hanji 882 shows the status peak before the crisis: he receives major accession honors, his son and nephews are rewarded, and Lu Zhi urges him to decline because the reward exceeds his visible merit. Hanji 884 then shows that high status still depends on converting Dou Miao's consent into decisive action. Chen Fan urges him to strike Cao Jie and Wang Fu before the chance disappears; Dou supports the plan, yet Dou Miao's first approval reaches only Guan Ba and Su Kang. Hanji 885 then makes the weakness sharper before the leak: Dou depends on Dou Miao's consent, lets the target faction remain near her, follows interrogation procedure after [[ZhengSaLateHan|郑飒 / 郑萨]] is arrested, and even leaves the palace during the live crisis. The same sequence therefore turns his [[ForeignRelativeCourtPolitics|outer-relative]] status into a liability: family access does not equal control of palace timing.
 
 Hanji 886 presents the next failure as secrecy and tempo. Once the memorial path exposes the plan, [[ZhuYuLateHan|朱瑀]] can form a sworn counter-coalition, [[CaoJieLateHan|曹节]] can secure [[EmperorLingOfHan|汉灵帝]], and [[WangFuLateHan|王甫]] can act through prison, tally, and guard channels.
 
@@ -32,6 +33,7 @@ The later memory layer shows why the failed action remains politically alive. Em
 ## Key Characteristics
 
 - Dou Wu is a defeated anti-eunuch powerholder whose formal status, family access, and reform coalition do not become executable crisis control.
+- His danger begins at a prestige peak, when accession reward and family honors exceed what Lu Zhi sees as Dou's personal merit.
 - His 168 CE failure begins before the leak: Dou Miao's near-palace environment, selective first punishment, dependence on consent, procedural handling of Zheng Sa, and leaving the palace during the danger window.
 - His exposed intent, slow timing, and the eunuch side's faster command of palace access and legitimacy symbols then turn delay into collapse.
 - His defeat creates immediate collateral punishment for family, clients, followers, recommended officials, and old subordinates.
@@ -40,6 +42,7 @@ The later memory layer shows why the failed action remains politically alive. Em
 
 ## Evidence
 
+- Accession reward and early warning: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Dou Wu receives Wenxi marquis status, his son and nephews receive honors, and Lu Zhi warns that this overstates Dou's personal merit in Emperor Ling's accession.
 - Reform opening and limited first strike: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Dou Miao entrusts government to Dou Wu and Chen Fan, Dou agrees with Chen's call to remove Cao Jie and Wang Fu, but the first authorized punishment reaches only Guan Ba and Su Kang.
 - Pre-leak delay and absence: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] shows the access environment around Dou Miao before the partial purge, while [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says Dou Wu repeatedly presses Dou Miao to remove the eunuchs, responds to [[LiuYuAstrologerLateHan|刘瑜]]'s warning with partial security appointments, insists on interrogation after Zheng Sa is arrested, and leaves the palace on September 7.
 - Exposed plan before decisive action: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] says eunuch-side memorial handlers learn of Dou Wu's anti-eunuch move before he has secured the palace, letting Zhu Yu, Cao Jie, and Wang Fu move first.
@@ -57,12 +60,14 @@ The later memory layer shows why the failed action remains politically alive. Em
 
 ## What Changed
 
-- The profile now begins one step earlier than Hanji 885, with the reform-coalition opening, near-palace access pressure, and first selective arrests of Guan Ba and Su Kang.
+- The profile now begins two steps earlier than Hanji 885, with Hanji 882's accession-reward warning before Hanji 884's reform-coalition opening.
+- Dou Wu's early danger now includes excessive honor and family reward detached from clearly bounded personal merit.
 - Dou Miao's hesitation is now split into an initial limited-purge decision and the later warning/procedure window.
 - Dou Wu's failure is framed as a gap between family/formal authority and crisis execution, not only as a generic anti-eunuch defeat.
 
 ## Relationships
 
+- [[LuZhiLateHan|卢植]] - scholar-official whose accession-reward warning defines Dou's earliest prestige-risk branch.
 - [[ChenFanLateHan|陈蕃]] - anti-eunuch ally whose palace intervention fails after Dou's window closes.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - family and dowager-status branch through which Dou's memory remains politically active.
 - [[CaoJieLateHan|曹节]] - opposing eunuch powerholder tied to palace seizure and later anti-Dou grievance.
