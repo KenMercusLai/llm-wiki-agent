@@ -12366,3 +12366,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？
+
+Added source page for Hanji 883: boundaryless kindness and measured strength, the 168 CE Eastern Qiang policy dispute between Duan Jiong and Zhang Huan, surrender versus hard suppression, Duan's anti-resettlement argument, and the host's force-plus-conciliation frontier-governance qualification. Updated Duan Jiong, Zhang Huan, Eastern Qiang, Root-Cause Pacification, and Boundaryless Kindness Trap. No settled contradiction found; 张焕 and 段炯 are normalized to canonical late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

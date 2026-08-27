@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
       "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "7f63a5468bf59272fa3a6ed648448ea6002fb09d3c5bb53ed2819f03f76908e5",
       "af8e2a6837f0f62b6f60a5863290b6bfbe580b2a3f833a4c9b6b5c602c6f2887",
@@ -281,11 +282,36 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 279
+    "paragraph_count": 280
   },
-  "overview_commit": "d1d74146090275e72f168e3a5b8ba7eeb6202c03",
-  "overview_digest": "954b61ba8b39feb30862c0dcf5b592ece75047bb01f05de0874b02900acc4782",
+  "overview_commit": "cf29066f1ec002469f940508abc6a6ca4603b903",
+  "overview_digest": "d6a0fc1d476f7b76d8e46c28c80b48065de8647cf1a802cac9855ed32436b43a",
   "paragraphs": [
+    {
+      "id": "af9d56be9c99e9c05ee530afa0337a644d946db2a8ec4a0aeff91b1120616430",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 168 CE [[DongqiangLateHan|东羌]] policy dispute before the Hanji 891-892 campaign and critique. It extends [[DuanJiongLateHan|段熲]], [[ZhangHuanLateHan|张奂]], [[BoundarylessKindnessTrap|无边界善良陷阱]], and [[RootCausePacification|查因安抚式治理]], while linking the case to [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[WarCostTempoDiscipline|战争成本与速决纪律]]. Its core synthesis is that both personal conduct and frontier governance need bounded strength: kindness without boundaries invites exploitation, but Duan's force-only Qiang policy is qualified by Zhang Huan's surrender argument and the host's preference for coercive capacity joined to real pacification. No settled contradiction is recorded; 张焕 and 段炯 are normalized to canonical late-Han routes, while Zhao Chongguo, Ma Yuan, Deng Xun, and residual-place names remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BoundarylessKindnessTrap",
+        "DeceptiveSurrenderLull",
+        "DongqiangLateHan",
+        "DuanJiongLateHan",
+        "PeopleBasedPoliticalSecurity",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "WarCostTempoDiscipline",
+        "ZhangHuanLateHan",
+        "zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid"
+      ]
+    },
     {
       "id": "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
       "primary_topic": "history-and-geopolitics",
