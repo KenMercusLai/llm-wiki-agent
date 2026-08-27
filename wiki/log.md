@@ -12350,3 +12350,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊
+
+Added source page for Hanji 1045: Sun Ce's fatal hunting ambush by Xu Gong retainers, the deathbed seal handoff to Sun Quan, Zhang Zhao and Zhou Yu's stabilization of Jiangdong, and Li Tong's refusal of Yuan Shao's Runan recruitment. Created Sun Ce Assassination, Xu Gong, Wu Commandery, Runan Commandery, and Liu Pi pages; updated Sun Ce, Sun Quan, Zhang Zhao, Zhou Yu, Li Tong, Leader Personal Exposure, and Command Continuity Damage Control. No settled contradiction found; 刘璧 is normalized source-scoped to 刘辟 / Liu Pi, and the host's character-fate reading remains an interpretation rather than a complete causal biography.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
