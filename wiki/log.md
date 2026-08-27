@@ -12263,6 +12263,10 @@ Ran lint. See lint-report.md for details.
 
 Ran health, identity validation, and lint. Health scanned 14,959 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges while the current lint scan covered 14,959 pages, so fragile-bridge findings are advisory until the graph is rebuilt; current graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` and common provider API key variables are unset in this shell; a bounded in-session review of the script sample found no direct contradictions or stale summaries and flagged depth/schema drift in sampled legacy concept pages, especially `wiki/concepts/ExportPorcelainCustomization.md` and `wiki/concepts/FinancialPowerAndStateCapacity.md`, which lack `## Key Claims`. Report returned in-session; `wiki/lint-report.md` was not updated.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”
+
+Added source page for Hanji 1041: Cao Cao's pre-Guandu attack on Liu Bei, Guo Jia's timing support, Tian Feng's missed Xudu attack advice, Yuan Shao's failure to act, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story. Created Captive Submission with Residual Loyalty; migrated/updated Guan Yu, Romance of the Three Kingdoms, Sanguozhi, Fiction As Historical Evidence, and Tian Feng. No settled contradiction found; the Romance correction is treated as a source-tradition boundary and the host's "贵人" value-exchange lesson remains source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》892丨修止语，古人有什么捷径？
 
 Added source page for Hanji 892: 修止语 as speech-restraint practice, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the pre-Hanji 893 party-prohibition honor-list field. Created [[DongqiangLateHan|东羌]] and updated Duan Jiong, Li Ying, Fan Pang, root-cause pacification, adversity silence discipline, and reputation-list synthesis. No settled contradiction found.
@@ -12338,6 +12342,10 @@ Ran health, identity validation, and lint. Health passed across 15,002 wiki page
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？
 
 Added source page for Hanji 884: the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, including Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, Chen Fan's first removal advice, and the selective executions of Guan Ba and Su Kang. Created Guan Ba, Su Kang, Zhao Rao, Du Mi, and Palace Proximity Power pages; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Yin Xun, Liu Yu, and Li Ying. No settled contradiction found; transcript variants are normalized to canonical late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 

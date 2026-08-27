@@ -26,6 +26,7 @@
       "baa8563117c87f0fa06054d580b6c7c44c5428f74779f71a669eeb99a2f47d20",
       "8d6f3161ce308c5fa1672e99fa6cd5e9c59199d70f119267c31b3d0481772e20",
       "547548604597cb96f8ee207d1a3ccc73e53ead93e2136757534d418981e69e17",
+      "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
       "02aca0cdc3e5a8775e4f935539adfd86ed7ad52997d7c90ca4cf477989391fb1",
       "b59592e9dee1b2eee5a578c1941f5cafbbdd73787a357e7b849bb4a18af13d90",
       "c1fcb3861b584fe6e941c87932da97413c4884d0dceb790e661f42a218f310c0",
@@ -279,10 +280,10 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 277
+    "paragraph_count": 278
   },
-  "overview_commit": "8092e7424d745897c337a7741df46d5f46e06d2e",
-  "overview_digest": "fce362c224dcf3eda3c14fe62759008c47f08056178a478aa0b1952e84085df0",
+  "overview_commit": "322b57edf7dee295deb4039e1de0e54a1c70d60d",
+  "overview_digest": "58f55166e4b5537731dea19f25ab3c02af4d10b0c1666b8edb30ecabd802faa7",
   "paragraphs": [
     {
       "id": "59cf16f1cca072ba4e0c3bb0937d8f8b6318da539042eaab86579b0b54e1398c",
@@ -1080,6 +1081,33 @@
         "ZhongJiLateHan",
         "ZhuLingLateHan",
         "zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x"
+      ]
+    },
+    {
+      "id": "237e0a22896baa80bde259f9797e8f892e663ee3a1b8e599e442eeaff14ad836",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continuing the immediate pre-[[GuanduCampaign|官渡之战]] field after Hanji 1040. It adds [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]], while extending [[GuanYu|关羽]], [[TianFengLateHan|田丰]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[Sanguozhi|《三国志》]], [[FictionAsHistoricalEvidence]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[YuanShao|袁绍]], [[GuoJia|郭嘉]], [[ZhangLiao|张辽]], and [[Xudu|许都]]. Its core synthesis is that Cao Cao's pre-Guandu choice to attack Liu Bei is threat sequencing, while Yuan Shao's failure to use Tian Feng's Xudu attack window confirms the adviser-conversion weakness already visible in the Guandu branch. The Guan Yu half separates historical-source claims from Romance memory: \"关公约三事\" is treated as literary loyalty repair, whereas the source-grounded account presents capture, generous treatment, repayment obligation, and residual loyalty to Liu Bei. No settled contradiction is recorded; the Romance correction is a source-tradition boundary, and the host's \"贵人\" value-exchange lesson remains source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaptiveSubmissionResidualLoyalty",
+        "FictionAsHistoricalEvidence",
+        "GuanYu",
+        "GuanduCampaign",
+        "GuoJia",
+        "LiuBei",
+        "RomanceOfTheThreeKingdoms",
+        "RuiqiJiangtouZizhiTongjian",
+        "Sanguozhi",
+        "TianFengLateHan",
+        "Xudu",
+        "YuanShao",
+        "ZhangLiao",
+        "zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx"
       ]
     },
     {

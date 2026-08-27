@@ -44,6 +44,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The continent nobody owns & everyone benefits from (Summer School)](sources/the-continent-nobody-owns-everyone-benefits-from-summer-school.md) — Planet Money Summer School finale on Antarctica's non-market climate value, treaty-based commons governance, McMurdo retail scarcity, Tokyo parking, Vienna social housing, and Brazilian consortios.
 - [《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆](sources/zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd.md) — 芮淇讲透资治通鉴 episode on Yu Fan persuading Hua Xin to surrender Yuzhang to Sun Ce, the moral dispute over surrender as civilian protection, Sun Ce's Luling split and local pacification, Lady Wu saving Wei Teng, Xu Zhao's selective leniency case, and Xu Chu stopping Xu Ta's guard plot against Cao Cao.
 - [《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？](sources/zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x.md) — 芮淇讲透资治通鉴 episode on Cao Cao's "天下英雄" judgment of Liu Bei, the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao releasing Liu Bei to intercept Yuan Shu, and Liu Bei killing Che Zhou to regain Xuzhou before Guandu.
+- [《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”](sources/zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx.md) — 芮淇讲透资治通鉴 episode on Cao Cao attacking Liu Bei before Guandu, Tian Feng's missed Xudu attack window, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story.
 - [腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？](sources/tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460.md) — 声动早咖啡 episode on Tencent, Alibaba, and ByteDance shifting from consumer AI chatbots toward AI office products because agents, coding proof, token costs, enterprise context, and payment uncertainty make office workflows the new AI battleground.
 - [E46 我们从未看见彼此](sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh.md) — 无人知晓 solo episode on AI-era expression, the film 《好朋友们》, evolved intelligence, interpersonal projection, language labels, algorithmic amplification, and Krishnamurti's total attention.
 - [The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs](sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680.md) — All-In robotics special on Anybotics, 1X, Boston Dynamics, and Agility Robotics across industrial inspection, home humanoids, warehouse humanoids, teleoperation, robot data, safety, sovereignty, and dangerous-work automation.
@@ -2041,7 +2042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [眭固 / Sui Gu (Late Han)](entities/SuiGuLateHan.md) — Military actor defeated by Cao Cao at Neihuang alongside Yufuluo in Hanji 961.
 - [东武阳 / Dong Wuyang (Late Han)](entities/DongWuyangLateHan.md) — City attacked by Yu Du and relieved indirectly through Cao Cao's base-threatening maneuver.
 - [顿丘 / Dunqiu (Late Han)](entities/DunqiuLateHan.md) — Cao Cao's station when Yu Du attacks Dong Wuyang, opening the Hanji 961 campaign sequence.
-- [《三国演义》 / Romance of the Three Kingdoms](entities/RomanceOfTheThreeKingdoms.md) — Literary contrast used by Hanji 955 and Hanji 961 to separate memorable novelized scenes from chronicle-source attribution.
+- [《三国演义》 / Romance of the Three Kingdoms](entities/RomanceOfTheThreeKingdoms.md) — Three Kingdoms reception filter whose Cao Cao and Guan Yu scenes are useful as literary memory but not controlling event attribution.
 - [董旻 / Dong Min (late Han)](entities/DongMinLateHan.md) — Dong Zhuo's younger brother, used in Hanji 962 to show family-centered military power around the late-Han court.
 - [董璜 / Dong Huang (late Han)](entities/DongHuangLateHan.md) — Dong Zhuo's nephew and central-army appointee in Hanji 962's kinship-power setup.
 - [杨瓒 / Yang Zan (late Han)](entities/YangZanLateHan.md) — Official named in Wang Yun's anti-Dong-Zhuo planning circle before Lü Bu is persuaded.
@@ -2499,7 +2500,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄祖 / Huang Zu](entities/HuangZu.md) — Jiangxia official in Liu Biao's orbit, endpoint of the Mi Heng borrowed-knife chain and later defeated by Sun Ce after aiding Liu Xun.
 - [蒯越 / Kuai Yue](entities/KuaiYue.md) — Jingzhou elite figure normalized from "款越/款月", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the offended circle around 祢衡.
 - [蔡瑁 / Cai Mao](entities/CaiMao.md) — Jingzhou elite figure normalized from "蔡茂", used in Hanji 1010 for Liu Biao's consolidation and Hanji 1011 for the local pressure before 祢衡's transfer to Huang Zu.
-- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance Hua Xiong memory is corrected by Hanji 955 and whose later Lady Du request alerts Cao Cao before the Xiapi household shift.
+- [关羽 / Guan Yu](entities/GuanYu.md) — Liu Bei-aligned general whose Romance memory is corrected through Hua Xiong and "关公约三事" source boundaries, while Hanji 1041 frames his Cao-camp period as captive service with residual loyalty.
 - [杜夫人 / Lady Du (Cao Cao)](entities/LadyDuCaoCao.md) — Qin Yilu's wife and Qin Lang's mother, taken by Cao Cao after Guan Yu requests her following Xiapi.
 - [秦宜禄 / Qin Yilu](entities/QinYilu.md) — Lü Bu subordinate whose absence and Yuan Shu detention leave Lady Du and Qin Lang exposed at Xiapi.
 - [秦朗 / Qin Lang](entities/QinLang.md) — Son of Qin Yilu and Lady Du, brought into the Cao household branch after Cao Cao takes Lady Du.
@@ -2538,7 +2539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [应劭 / Ying Shao (Late Han)](entities/YingShaoLateHan.md) — Taishan official ordered to receive Cao Song, then fleeing after the killing.
 - [曹嵩遇害 / Cao Song Murder](entities/CaoSongMurder.md) — 193 CE disputed killing preserved through competing Tao Qian and Zhang Kai responsibility traditions.
 - [徐州屠杀 / Xuzhou Massacre (Late Han)](entities/XuzhouMassacreLateHan.md) — Cao Cao's retaliatory Xuzhou violence after Cao Song's death, framed as private grief scaled through military command.
-- [《三国志》 / Sanguozhi](entities/Sanguozhi.md) — Classical Three Kingdoms source whose Hanji 971 attribution makes Tao Qian the direct sender against Cao Song.
+- [《三国志》 / Sanguozhi](entities/Sanguozhi.md) — Classical Three Kingdoms source tradition used for Cao Song murder attribution and the non-Romance account of Guan Yu's capture, rank, treatment, and loyalty statement.
 - [《后汉书》 / Hou Hanshu](entities/HouHanshu.md) — Later Han history whose Hanji 971 attribution makes Zhang Kai's robbery the immediate cause of Cao Song's death.
 - [寿春 / Shouchun](entities/Shouchun.md) — Yuan Shu's self-coronation site in Hanji 1015, where the "仲家" regime and imperial offices are staged.
 - [九江郡 / Jiujiang Commandery](entities/JiujiangCommandery.md) — Commandery whose office Yuan Shu renames into a Huainan capital-style post after claiming imperial status.
@@ -4397,7 +4398,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chery / 奇瑞](entities/Chery.md) — Wuhu-based automaker used as an early Anhui carmaking and local industrial-upgrading case.
 - [BOE Technology / 京东方](entities/BOETechnology.md) — Display-panel company whose Hefei 6th-generation LCD line anchors the classic Hefei industrial-investment case.
 - [NIO / 蔚来](entities/NIO.md) — Electric-vehicle company tied to Hefei industrial investment and, in FengTouQuan, to premium EV branding through ES8, battery leasing, and battery-swap infrastructure.
-- [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; his grain-warning and Xudu-emperor advice make him a case of high-value talent wasted by decision failure.
+- [田丰 / Tian Feng (late Han)](entities/TianFengLateHan.md) — Yuan Shao adviser disambiguated from modern researcher 田峰; repeated ignored grain, Xudu, and Cao-rear warnings make him a case of high-value talent wasted by decision failure.
 - [田峰 / Tian Feng](entities/TianFeng.md) — 中国社科院 researcher explaining talent group livestreaming as guild-backed labor, real-time data, compliance, aesthetic production, and fieldwork evidence.
 - [Chinese Academy of Social Sciences / 中国社会科学院](entities/ChineseAcademyOfSocialSciences.md) — Research-institution context for Tian Feng and student fieldwork on talent group livestreaming.
 - [Changsha / 长沙](entities/Changsha.md) — Fieldwork city and entertainment-labor setting for talent group livestreaming guilds in the 面基 episode.
@@ -9466,6 +9467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Institutional Policy Pluralism](concepts/InstitutionalPolicyPluralism.md) — Comparative-economics frame where shared principles are implemented through different local institutions.
 - [Force-Backed Surrender Persuasion / 武力背书式劝降](concepts/ForceBackedSurrenderPersuasion.md) — Hanji 1039 pattern where respectful persuasion, material asymmetry, precedent, and a deadline make surrender the least damaging option under military pressure.
 - [Surrender as Civilian-Protection Tradeoff / 献城保民权衡](concepts/SurrenderAsCivilianProtectionTradeoff.md) — Ethical-political frame for judging surrender against civilian harm from unwinnable resistance rather than only against loyalist ideals.
+- [Captive Submission with Residual Loyalty / 被俘归顺与旧主忠义](concepts/CaptiveSubmissionResidualLoyalty.md) — Hanji 1041 pattern where captured service under a new power coexists with stated prior loyalty and repayment-before-departure ethics.
 - [Latent Rival Recognition / 潜在强敌识别](concepts/LatentRivalRecognition.md) — Strategy pattern of reading future threat in a currently weak but resilient actor, created from Cao Cao's judgment of Liu Bei.
 - [Crisis Composure Cover Story / 临场定力与借势遮掩](concepts/CrisisComposureCoverStory.md) — Self-protection pattern where a visible fear response is quickly explained through a plausible scene cue.
 - [Dangerous Guest Release Risk / 放虎归山式宾客释放风险](concepts/DangerousGuestReleaseRisk.md) — Failure mode where a sheltered high-potential actor is released with enough autonomy to rebuild independent power.
@@ -12505,7 +12507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Household Gold Savings](concepts/HouseholdGoldSavings.md) — EP268 frame for gold as family-scale store of value, gift, children's money, jewelry, gold beans, and safety reserve.
 - [Online Gold Accumulation](concepts/OnlineGoldAccumulation.md) — App-mediated gold-buying pattern where small recurring purchases, virtual gram balances, and redemption turn gold into a low-friction habit.
 - [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.
-- [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, fear, and norms rather than direct event proof.
+- [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, reception, fear, and norms rather than direct event proof.
 - [Forgetting As Cognitive Function / 遗忘作为认知功能](concepts/ForgettingAsCognitiveFunction.md) — Episode 143 frame for forgetting as selection, energy conservation, compression, and active memory cleanup rather than only failure.
 - [Memory Consolidation Windows / 记忆巩固窗口](concepts/MemoryConsolidationWindows.md) — Study and memory timing frame where review in the first tens of minutes and first 24 hours helps selected material survive normal forgetting.
 - [Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险](concepts/PainfulMemoryRehearsalRisk.md) — Source-scoped caution that repeatedly replaying painful events can strengthen them, while gentle new experience can interrupt the loop.
