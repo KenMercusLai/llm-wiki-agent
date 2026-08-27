@@ -12808,3 +12808,7 @@ Added source page for a 163 CE Huan-era backfill on perspective-taking, disaster
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》857丨学会共赢，才是真正的赢家
 
 Added source page for a Huan-era backfill on win-win relationship framing, Huangfu Gui's frontier-pacification self-defense, Xu Huang and Zuo Guan's gift solicitation around expected military reward, Huangfu's refusal and imprisonment, Taixue/Three Excellencies petitions, and renewed Guiyang/Wuling disorder. Created Zuo Guan; updated Huangfu Gui, Xu Huang, Military Reward Eunuch Gatekeeping, overview, and index. No settled contradiction found; 黄府规 is normalized to Huangfu Gui/皇甫规, and Zhang Feng, Li Yan, Wuling Man unrest, account figures, and workplace "共赢" advice remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
