@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?](sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480.md) — All-In episode on Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement, AI capex at Google/Tesla/SpaceX, and New York tenant-screening, eviction, and rent-control politics.
 - [《资治通鉴·汉纪》877丨他为何冷落救命恩人？](sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi.md) — 芮淇讲透资治通鉴 episode on the 167 CE Party Prohibition amnesty, lifelong office-exclusion registry, Fan Pang's tacit gratitude toward Huo Xu, and Shi Bi's refusal to fabricate Pingyuan party names.
 - [《资治通鉴·汉纪》878丨不受约束的权力，害人不浅](sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's coerced princess-marriage pressure on Yang Qiao, Liu Xiu and Song Hong as a restraint contrast, Ba Commandery yellow-dragon omen fabrication, Zhang Huan's 167 CE Qiang victory and eunuch-filtered reward, and Dong Zhuo's first foreshadowing appointment.
 - [《资治通鉴·汉纪》879丨死在女人身上的昏庸男人](sources/zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's final harem politics, Tian Sheng's blocked elevation and death, Dou Miao's dowager authority, childless succession, and Dou Wu's controllable-child accession choice.
@@ -1557,6 +1558,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
 - [霍谞 / Huo Xu (late Han)](entities/HuoXuLateHan.md) — Fan Pang's life-saving benefactor whose current wiki role centers on tacit gratitude rather than public repayment display.
 - [史弼 / Shi Bi (late Han)](entities/ShiBiLateHan.md) — Pingyuan chancellor who refuses to fabricate party-member names under Party Prohibition reporting pressure.
 - [杨桥 / Yang Qiao (late Han)](entities/YangQiaoLateHan.md) — Source-bounded late-Han recommended talent whose fatal refusal of Emperor Huan's princess-marriage pressure anchors the coerced imperial marriage case.
@@ -9428,6 +9430,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
+- [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.
+- [AI Output Training Symmetry](concepts/AIOutputTrainingSymmetry.md) — Consistency problem between AI labs' fair-use claims for human works and objections to competitors training on model outputs.
+- [Tenant Screening Eviction Backfire](concepts/TenantScreeningEvictionBackfire.md) — Claim that strict screening, eviction, and rent rules can raise rents, reduce maintenance, or harm other tenants.
+- [Housing Supply Over Rent Control](concepts/HousingSupplyOverRentControl.md) — Policy preference for easing construction and permitting constraints rather than relying mainly on rent freezes or eviction limits.
 - [Tacit Gratitude Restraint / 心照不宣式感恩克制](concepts/TacitGratitudeRestraint.md) — Pattern where real gratitude is preserved through mutual understanding rather than public repayment display under relational or political risk.
 - [Registry-Based Political Exclusion / 登记造册式政治禁锢](concepts/RegistryBasedPoliticalExclusion.md) — Pattern where amnesty coexists with durable administrative blacklisting and office exclusion.
 - [Accusation Quota Refusal / 诬陷指标拒绝](concepts/AccusationQuotaRefusal.md) — Official-integrity pattern where an administrator refuses to manufacture named offenders merely because a campaign expects cases.

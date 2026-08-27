@@ -12203,6 +12203,7 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12414,6 +12415,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》877丨他为何冷落救命恩人？
 
 Added source page for Hanji 877: the 167 CE Party Prohibition amnesty, permanent office-exclusion registry, Fan Pang's restrained visit to Huo Xu, his later low-visibility retreat in Runan, and Shi Bi's refusal to fabricate Pingyuan party names under Qingzhou pressure. Created Huo Xu, Shi Bi, Tacit Gratitude Restraint, Registry-Based Political Exclusion, and Accusation Quota Refusal pages; updated Fan Pang, index, overview, and log. No settled contradiction found; transcript variants are normalized to Fan Pang, Huo Xu, Shi Bi, and Runan.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
+
+Added source page for All-In E282: Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement and fair-use/output-training tension, Google/Tesla/SpaceX AI capex, and New York tenant-screening, eviction, rent-control, and housing-supply politics. Created Open Source AI Ban Risk, Token Tax On AI, AI Output Training Symmetry, Tenant Screening Eviction Backfire, Housing Supply Over Rent Control, and LibGen pages; migrated AI Training Copyright Dispute to synthesis-v1; updated Kimi K3. No settled contradiction found, but SpaceX IPO/trading figures conflict with earlier All-In source-scoped claims and are preserved as episode-attributed.
 
 ## [2026-08-27] lint | Wiki health check
 
