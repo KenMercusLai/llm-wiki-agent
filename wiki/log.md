@@ -12672,3 +12672,7 @@ Ran health, identity validation, and lint. Health scanned 15,292 wiki pages with
 ## [2026-08-28] ingest | Your Top Health Questions Answered
 
 Added source page for a Huberman Lab solo Q&A with Andrew Huberman on late-night training, sleep, morning light, sustainable optimization, memory self-testing, smell training, fertility and body composition, perimenopause anxiety, surgery recovery, and passion discovery. Created Sustainable Health Optimization, Morning Light Circadian Anchoring, Self-Testing Memory Practice, Olfactory Training, Fertility Energy Availability, Perioperative Circadian Recovery, Passion Discovery Through Engagement, and Apprenticeship Before Originality pages; updated Huberman Lab, Andrew Huberman, Acetylcholine Focus Support, Sleep As Daily Health Account, Memory Consolidation Windows, Perimenopause Brain Metabolism, Menopause Clinical Shared Decision-Making, and Passion Trap Career Advice. No settled contradiction found; supplement, fertility, testosterone, hormone-therapy, surgery-recovery, and career-advice claims remain source-scoped and clinically bounded.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
