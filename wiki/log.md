@@ -12158,6 +12158,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系
+
+Added source page for Hanji 876: the 167 CE pre-amnesty Party Prohibition rescue path, Jia Biao's targeted approach to Dou Wu, Dou Wu's memorial against eunuch influence and false accusation, Fan Pang's prison defense, Wang Fu's local softening, and the solar-eclipse pretext for pardon. Created Jia Biao and Power-Structure Targeting pages; updated Dou Wu, Wang Fu, Chen Fan, Fan Pang, Li Ying, Emperor Huan, index, overview, and log. No settled contradiction found; the unnamed second intercessor and frontier notices remain source-scoped.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？
 
 Added source page for Hanji 880: the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Liu Hong's accession as Emperor Ling, and Duan Jiong's budgeted hard-suppression memorial for the Eastern Qiang. Created Crisis Duty Continuity and Budgeted Frontier Suppression; updated Chen Fan, Duan Jiong, and Eastern Qiang. No settled contradiction found; the illness-avoidance and campaign-budget claims are kept source-scoped.
@@ -12423,6 +12427,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-27] ingest | The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
 
 Added source page for All-In E282: Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement and fair-use/output-training tension, Google/Tesla/SpaceX AI capex, and New York tenant-screening, eviction, rent-control, and housing-supply politics. Created Open Source AI Ban Risk, Token Tax On AI, AI Output Training Symmetry, Tenant Screening Eviction Backfire, Housing Supply Over Rent Control, and LibGen pages; migrated AI Training Copyright Dispute to synthesis-v1; updated Kimi K3. No settled contradiction found, but SpaceX IPO/trading figures conflict with earlier All-In source-scoped claims and are preserved as episode-attributed.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] lint | Wiki health check
 
