@@ -278,7 +278,7 @@
       "0fba5d11c8de7efacd2b63af5f1939d94c6dbb1d7bafc6ac1ade1274bd388278",
       "d2ebb1f66c4d89d070f9f574affe60d1700fea687fbf72d6a87ccf19244070a0",
       "fe7fbdfd226829a05a53cde65c7685ef200d89339ff5b94ae14e8ab8c1594025",
-      "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "eda4a11baff29342ccc0f5d333b49b8ad4a98b8c84834df752f00b91ee44caa1",
       "071eae42bb31ffd3cdf9394ad0e35360fa8e9247b719381e1b3cf89c03873025",
       "d9074e43b7b103fc0d0097b207bf8018227d6e146ca0eb75638118627687641c",
       "b16a38bd6e190222f7f3e6f0535803ce60ae7f3304e3477dfcdd995a15fb502f",
@@ -287,8 +287,8 @@
     ],
     "paragraph_count": 283
   },
-  "overview_commit": "f1478279ed5bdbe926d3daae8ae573f461c8819e",
-  "overview_digest": "dad735cd1c077a7b4f76896ad23d8f41576988c6c34a57844cfb59e382bbe918",
+  "overview_commit": "36a3574b9c2294e479c94d29a71509c1261e5bd5",
+  "overview_digest": "ff4f294941bae067170b2f2a01b135c2fae47d4b76f980e28ca8ee574e2bd727",
   "paragraphs": [
     {
       "id": "1e2ba709bdba3024dfa3901af5c41b5854e25c28100494f6592ff04c541f2883",
@@ -8527,27 +8527,24 @@
       ]
     },
     {
-      "id": "182e970dd82ce4e9f37420e52f42ff6e2a5ab47e2531f7be4bdacd6ee621352e",
+      "id": "eda4a11baff29342ccc0f5d333b49b8ad4a98b8c84834df752f00b91ee44caa1",
       "primary_topic": "governance-and-institutions",
-      "secondary_topics": [
-        "history-and-geopolitics",
-        "work-education-and-society"
-      ],
-      "text": "[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] moves the late-Han party-prohibition synthesis to the reputation-list prelude of 169 CE. [[ReputationListPersecutionTarget|名望榜单迫害目标化]] shows that a士人 honor list can become an arrest list when [[CaoJieLateHan|曹节]] translates mutual praise and recommendation into [[PartyNetworkTreasonFraming|朋党网络谋反化]] for the young [[EmperorLingOfHan|汉灵帝]]. [[LiYingLateHan|李膺]] and [[FanPangLateHan|范滂]] choose prison and death-facing名节, [[JingYiLateHan|景毅]] self-reports into liability, and [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]] gains an earlier stage where student and subordinate ties become punishable exposure before the later Zhang Jian shelter chain.",
+      "secondary_topics": [],
+      "text": "[[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] now moves the late-Han party-prohibition synthesis back to 167 CE. [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]] shows that amnesty can release named party figures while preserving lifelong office exclusion; [[FanPangLateHan|范滂]] and [[HuoXuLateHan|霍谞]] add [[TacitGratitudeRestraint|心照不宣式感恩克制]] as a non-display response to rescue under danger; and [[ShiBiLateHan|史弼]] adds [[AccusationQuotaRefusal|诬陷指标拒绝]] by refusing to invent Pingyuan party names under reporting pressure. [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] then moves the same branch to the reputation-list prelude of 169 CE, where [[ReputationListPersecutionTarget|名望榜单迫害目标化]] and [[PartyNetworkTreasonFraming|朋党网络谋反化]] turn public moral reputation into arrestable threat and later network liability.",
       "topic_scores": {
-        "governance-and-institutions": 1,
-        "history-and-geopolitics": 1,
-        "work-education-and-society": 1
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
       },
       "wikilinks": [
-        "CaoJieLateHan",
-        "EmperorLingOfHan",
+        "AccusationQuotaRefusal",
         "FanPangLateHan",
-        "JingYiLateHan",
-        "LiYingLateHan",
+        "HuoXuLateHan",
         "PartyNetworkTreasonFraming",
-        "PartyProhibitionKinshipExpansion",
+        "RegistryBasedPoliticalExclusion",
         "ReputationListPersecutionTarget",
+        "ShiBiLateHan",
+        "TacitGratitudeRestraint",
+        "zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi",
         "zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq"
       ]
     },

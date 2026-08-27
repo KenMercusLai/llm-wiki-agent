@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-08-27
-as_of_overview_commit: a832e898d76af137fffefb6047bc7b6f1c0593c6
-input_digest: b6811564cbdaed50198a0602de40d91963f6d1074d0dc7348ce270c495777c65
+as_of_overview_commit: 36a3574b9c2294e479c94d29a71509c1261e5bd5
+input_digest: c6bdfb9e04ac71adac04f424585defac23b3578acaf06a6eb34a33b09a7204f3
 ---
 
 # Work, Education, and Society
@@ -32,7 +32,7 @@ Hanji 882 adds a premodern status-discipline case: public reward and reputation 
 
 [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] add premodern work-and-social-order cases in which reputation and status stop being simple career capital: [[LuZhiLateHan]] reads [[DouWuLateHan]]'s overlarge accession honors as dangerous exposure, [[ChenFanLateHan]]'s refusal of favor-based rank makes [[UnearnedRewardRefusal]] and [[RighteousnessOverProfit]] social-status discipline, and Hanji 893 shows [[ReputationListPersecutionTarget]] plus [[PartyNetworkTreasonFraming]] converting recommendation networks into liability under [[CaoJieLateHan]] and [[EmperorLingOfHan]].
 
-**Evidence:** [[CaoJieLateHan]], [[ChenFanLateHan]], [[DouWuLateHan]], [[EmperorLingOfHan]], [[FanPangLateHan]], [[JingYiLateHan]], [[LiYingLateHan]], [[LuZhiLateHan]], [[PartyNetworkTreasonFraming]], [[PartyProhibitionKinshipExpansion]], [[ReputationListPersecutionTarget]], [[RighteousnessOverProfit]], [[UnearnedRewardRefusal]], [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii]], [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq]]
+**Evidence:** [[CaoJieLateHan]], [[ChenFanLateHan]], [[DouWuLateHan]], [[EmperorLingOfHan]], [[LuZhiLateHan]], [[PartyProhibitionKinshipExpansion]], [[RighteousnessOverProfit]], [[UnearnedRewardRefusal]], [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii]]
 
 **Qualifications:**
 

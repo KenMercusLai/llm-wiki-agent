@@ -12207,10 +12207,6 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
-## [2026-08-27] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
@@ -12410,6 +12406,14 @@ Ran lint after health passed and identity validation found unique wiki identitie
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》878丨不受约束的权力，害人不浅
 
 Added source page for Hanji 878: Emperor Huan's forced marriage pressure on Yang Qiao and contrast with Liu Xiu / Song Hong, the Ba Commandery yellow-dragon auspicious-reporting case, Zhang Huan's 167 CE suppression of Xianling Qiang with eunuch-distorted reward, and Dong Zhuo's first langzhong appointment. Created Yang Qiao, Song Hong, Coerced Imperial Marriage, Military Reward Eunuch Gatekeeping, and Local Auspicious Omen Fabrication pages; updated Emperor Huan and Zhang Huan. No settled contradiction found; 张宦 and 先临羌 are normalized/source-scoped to established late-Han routes.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》877丨他为何冷落救命恩人？
+
+Added source page for Hanji 877: the 167 CE Party Prohibition amnesty, permanent office-exclusion registry, Fan Pang's restrained visit to Huo Xu, his later low-visibility retreat in Runan, and Shi Bi's refusal to fabricate Pingyuan party names under Qingzhou pressure. Created Huo Xu, Shi Bi, Tacit Gratitude Restraint, Registry-Based Political Exclusion, and Accusation Quota Refusal pages; updated Fan Pang, index, overview, and log. No settled contradiction found; transcript variants are normalized to Fan Pang, Huo Xu, Shi Bi, and Runan.
 
 ## [2026-08-27] lint | Wiki health check
 

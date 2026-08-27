@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-08-27
-as_of_overview_commit: 8314e3d0a2150be424ef9a6932951ddecb1149ca
-input_digest: 9fcfb58022f10bb124ae9b75224a5dc6d2fc21708447995e32126b8f3c178562
+as_of_overview_commit: 36a3574b9c2294e479c94d29a71509c1261e5bd5
+input_digest: 6efa725abcde2ce582ff20feed9765c083628743a751cc25eae04f85f934a46c
 ---
 
 # History and Geopolitics
@@ -56,7 +56,7 @@ Hanji 880 now pushes the late-Han interregnum, Dou/Chen, and Eastern Qiang branc
 
 [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] move the late-Han historical branch back to the 169 CE party-prohibition prelude: [[ReputationListPersecutionTarget]] begins as honor-list praise around [[LiYingLateHan]] and [[FanPangLateHan]], then becomes an arrest list after [[CaoJieLateHan]] frames it as [[PartyNetworkTreasonFraming]] for [[EmperorLingOfHan]], making reputation, voluntary prison entry, and student/subordinate ties historical liabilities before the later fugitive-shelter sequence.
 
-**Evidence:** [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct]], [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq]], [[ReputationListPersecutionTarget]], [[LiYingLateHan]], [[FanPangLateHan]], [[CaoJieLateHan]], [[PartyNetworkTreasonFraming]], [[EmperorLingOfHan]], [[JingYiLateHan]], [[PartyProhibitionKinshipExpansion]]
+**Evidence:** [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct]], [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq]], [[ReputationListPersecutionTarget]], [[LiYingLateHan]], [[FanPangLateHan]], [[CaoJieLateHan]], [[EmperorLingOfHan]], [[PartyProhibitionKinshipExpansion]]
 
 **Qualifications:**
 
