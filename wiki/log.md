@@ -12516,3 +12516,7 @@ Ran health, identity validation, and lint. Health scanned 15,142 wiki pages with
 ## [2026-08-27] ingest | Vol.272 2026年了，怎么还有人要做中国版Airbnb？
 
 Added source page for a 商业就是这样 episode with 谭丁 on 一间次卧, China's spare-bedroom sharing opportunity, housing cash-flow pressure, low-price local lodging, female guest safety, payment custody, host verification, brand-product barter, AI/RAG search, and one-person company operations. Created Tan Ding, 一间次卧, Tujia, Xiaozhu, China Home-Sharing Supply Motivation, Bedroom Homestay Platform Trust, and Non-Standard Lodging Search pages; migrated Hotel Retail Flywheel to synthesis-v1 and extended it from chain-hotel bedding retail into broader lodging-room product trial. No settled contradiction found; macro statistics, platform metrics, host/guest percentages, and regulatory observations are kept source-scoped to the episode.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
