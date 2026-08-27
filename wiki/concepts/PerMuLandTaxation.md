@@ -47,5 +47,5 @@ The concept is currently a narrow policy marker, not a complete Chinese tax-hist
 
 - [[TaxEnforcementCapacity|税收执行能力]] - broader fiscal-capacity frame in which land measurement and taxable base matter.
 - [[ChroniclePolicyCompression|政策制度记载压缩]] - historiographical problem exposed by the short tax notice.
-- [[AdministrativeGranularityOverstretch|行政颗粒度过载]] - adjacent governance problem when state rules require detailed local measurement and execution.
+- [[QinAdministrativeStandardization|秦国行政标准化]] - comparative administrative-measurement frame where territory, land, and standards become legible to the state.
 - [[MingqiLegitimacy|名器合法性]] - different formal-order concept; both show how institutional categories shape political reality.

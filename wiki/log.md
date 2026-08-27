@@ -12724,3 +12724,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] ingest | VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」
+
+Added source page for a 这病说来话长 episode with 阿汤 and 岳宛柔 on sugar-control literacy, liquid sugar, staple-food structure, added and free sugars, low-GI honey, zero-sucrose labels, hidden sugars, sweeteners, glycation anxiety, and anti-sugar supplements. Created Yue Wanrou, Da Shi Hua, Practical Sugar Control, Food Pleasure Engineering, Added and Free Sugar Distinction, Liquid Sugar Risk, Low-GI Marketing Trap, Nutrition Label Sugar Traps, Sweetener Uncertainty, and Glycation Skin Anxiety pages; extended Zhe Bing Shuo Lai Hua Chang, Atang, and Lifestyle Weight Management. No settled contradiction found; diabetes, fatty liver, dermatology, metabolic disease, supplement, and sweetener claims remain source-scoped and clinically bounded.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
