@@ -12154,6 +12154,10 @@ Added source page for the All-In Kratsios interview on the New Golden Age scienc
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | 690. A Murderous Affair: Death at Mayerling (Part 2)
+
+Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the January 1889 Mayerling deaths, Catholic burial pressure, Habsburg suppression of Mary's role, and the succession shock that moves the line toward Karl Ludwig and Franz Ferdinand. Created Rudolf, Mary Vetsera, Franz Joseph I, Empress Sisi, Countess Larish, Mitzi Kaspar, Mayerling Incident, Austria-Hungary, Habsburg Dynasty, burial/site/supporting-actor pages, and the Mayerling Death Pact, Dynastic Scandal Suppression, Catholic Burial Legitimacy, Dynastic Heir Loss Shock, and Fin-de-Siecle Vienna Crisis Reading concepts; migrated The Rest Is History to synthesis-v1 and updated Vienna. No settled contradiction found; "Meiling," "Bratfish," and "Lucchini" are normalized to Mayerling, Bratfisch, and Lucheni while agency, reincarnation, and conspiracy claims remain source-scoped.
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

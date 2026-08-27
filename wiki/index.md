@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [690. A Murderous Affair: Death at Mayerling (Part 2)](sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068.md) — The Rest Is History episode on Crown Prince Rudolf, Mary Vetsera, the Mayerling deaths, Catholic burial, Habsburg suppression, and succession shock.
 - [《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家](sources/zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc.md) — 芮淇讲透资治通鉴 episode on Zhang Jian's enforcement against Hou Lan, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, and Chen Fan's warning about eunuch-protected court disorder.
 - [《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？](sources/zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc.md) — 芮淇讲透资治通鉴 episode on Xiang Kai's omen-coded remonstrance against Emperor Huan, using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint.
 - [The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?](sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480.md) — All-In episode on Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement, AI capex at Google/Tesla/SpaceX, and New York tenant-screening, eviction, and rent-control politics.
@@ -1563,6 +1564,28 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Crown Prince Rudolf](entities/CrownPrinceRudolf.md) — Habsburg heir whose affair with Mary Vetsera ends at Mayerling and creates burial, suppression, and succession crises.
+- [Mary Vetsera](entities/MaryVetsera.md) — Seventeen-year-old baroness whose letters, death with Rudolf, and official erasure anchor the Mayerling scandal.
+- [Franz Joseph I](entities/FranzJosephI.md) — Habsburg emperor managing Rudolf's death through Catholic burial, public suppression, grief, and succession repair.
+- [Empress Sisi](entities/EmpressSisi.md) — Rudolf's mother and Franz Joseph's wife, used by the Mayerling episode as news conduit, mourner, and later Habsburg tragedy.
+- [Countess Larish](entities/CountessLarish.md) — Court intermediary who enables Mary Vetsera's clandestine access to Crown Prince Rudolf.
+- [Mitzi Kaspar](entities/MitziKaspar.md) — Rudolf's regular mistress whose rejected death-pact proposal qualifies the Rudolf-Mary pact.
+- [Countess Marie Festetics](entities/CountessMarieFestetics.md) — Court listener whose All Souls Day exchange shows Rudolf's death-talk beyond Mary Vetsera.
+- [Josef Bratfisch](entities/JosefBratfisch.md) — Rudolf's coachman and logistics node for the clandestine movement between Vienna, the Hofburg, and Mayerling.
+- [Josef Hoyos](entities/JosefHoyos.md) — Court figure who sees Rudolf alive at Mayerling and carries news of the deaths back toward Vienna.
+- [Philip of Coburg](entities/PhilipOfCoburg.md) — Hunting-party witness helping establish Rudolf's calm public surface shortly before the Mayerling deaths.
+- [Johann Loschek](entities/JohannLoschek.md) — Rudolf's valet whose breakfast call and locked-door discovery expose the Mayerling deaths.
+- [Mayerling Incident](entities/MayerlingIncident.md) — January 1889 death of Rudolf and Mary, treated as private tragedy, religious crisis, official suppression, and succession shock.
+- [Austria-Hungary](entities/AustriaHungary.md) — Habsburg monarchy whose court legitimacy and succession line are shaken by the Mayerling affair.
+- [Habsburg Dynasty](entities/HabsburgDynasty.md) — Ruling house framed through Mayerling's family tragedy, burial management, succession redirection, and later shocks.
+- [Karl Ludwig of Austria](entities/KarlLudwigOfAustria.md) — Franz Joseph's brother and collateral succession bridge after Rudolf's death.
+- [Franz Ferdinand](entities/FranzFerdinand.md) — Later Habsburg heir reached through the post-Mayerling succession path and named as a later crisis marker.
+- [Luigi Lucheni](entities/LuigiLucheni.md) — Normalized route for the source's Sisi-assassination reference in the later Habsburg tragedy branch.
+- [Hofburg Palace](entities/HofburgPalace.md) — Vienna court space where Mary's secret access to Rudolf and later public shock concentrate.
+- [Heiligenkreuz Abbey](entities/HeiligenkreuzAbbey.md) — Burial destination for Mary Vetsera after her body is removed from Mayerling.
+- [Capuchin Crypt](entities/CapuchinCrypt.md) — Habsburg burial site reached after Rudolf's suicide is framed as eligible for Catholic burial.
+- [Carmelite Convent at Mayerling](entities/CarmeliteConventMayerling.md) — Religious replacement for Rudolf's hunting lodge after the Mayerling deaths.
+- [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch used by the episode as part of Rudolf's late political dread.
 - [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Official who initially joins Chen Fan's defense of punished enforcement officials, then retreats under pressure.
@@ -2365,7 +2388,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney](entities/Sydney.md) — Australian city used as the source's beach/outdoor lifestyle and drone lifeguard case.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Landing setting for LandSpace's Zhuque-3 Yao-2 first-stage recovery in the source.
-- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Francis Drake, Elizabethan England, Dutch Revolt, Armada, and Northern Ireland Troubles branches.
+- [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected Elizabethan, Troubles, and Mayerling/Habsburg narrative-history branches.
 - [The Troubles](entities/TheTroubles.md) — Northern Ireland conflict branch framed through partition, institutional discrimination, loyalist violence, civil-rights protest, and street-war escalation.
 - [Northern Ireland](entities/NorthernIreland.md) — UK region where partition, Catholic grievances, unionist fear, policing legitimacy, and Westminster intervention converge in the sources.
 - [Edward Carson](entities/EdwardCarson.md) — Unionist leader whose 1912 covenant and volunteers supply an armed-precedent memory in the Part 1 source.
@@ -4937,7 +4960,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir used by the source as a bridge from prewar Europe to contemporary fragmentation.
 - [Romain Rolland / 罗曼·罗兰](entities/RomainRolland.md) — antiwar writer used in the source's cross-border friendship and world-citizen argument.
 - [Austria](entities/Austria.md) — national and imperial background for Zweig's education, Viennese culture, and later exile story.
-- [Vienna / 维也纳](entities/Vienna.md) — city appearing as a totemic siege case, Zweig-era cultural setting, and large-scale social-housing policy example.
+- [Vienna / 维也纳](entities/Vienna.md) — city appearing as totemic siege case, Zweig-era cultural setting, social-housing policy example, and late-Habsburg court-crisis frame.
 - [Schengen Area / 申根区](entities/SchengenArea.md) — European border and visa regime used by the source to explain passport mobility inequality.
 - [Erasmus Programme / 伊拉斯莫计划](entities/ErasmusProgramme.md) — European student-exchange program used as a contemporary identity-building institution.
 - [Airbus](entities/Airbus.md) — European aerospace company used as the source's industrial-integration and war-prevention example.
@@ -9446,6 +9469,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mayerling Death Pact](concepts/MayerlingDeathPact.md) — Pattern where romantic death language, morbidity, secrecy, and status imbalance leave consent and coercion unresolved.
+- [Dynastic Scandal Suppression](concepts/DynasticScandalSuppression.md) — Pattern where a ruling house converts private catastrophe into controlled public story, ritual repair, and asymmetric erasure.
+- [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
+- [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
+- [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
 - [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access shields local violence and turns enforcement against the officials who act.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
 - [Token Tax On AI](concepts/TokenTaxOnAI.md) — Enterprise cost penalty created when policy pushes buyers away from cheaper open models and toward closed APIs.

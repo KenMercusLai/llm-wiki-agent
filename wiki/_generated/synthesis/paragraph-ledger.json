@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
       "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
       "da39a84acb7df9827cb55e3ef76355e5fd17cb422bede060441f307e6f92aedb",
       "21af349e2fabf3463235e8ee0bcdc952ea5077d17ac8e5818bd5bf4a5eafdd56",
@@ -288,11 +289,53 @@
       "ed252faccaaf1dc4e8c654d3406a6a1a0fc3a6f6fe78821348d1b123c7e85a5c",
       "32b62a0e1fc3144c5e7770721fc745607afef0d0cf46a8fe94d35cab377dbbf9"
     ],
-    "paragraph_count": 286
+    "paragraph_count": 287
   },
-  "overview_commit": "db712fb08f40cfb38f9c336c6f4628a8bca05f71",
-  "overview_digest": "19a7e00514939ffb94e0889d9404c98d22794e66b4cc91730cb778be1364f706",
+  "overview_commit": "4dfbe94ddb1f78093ee7ca4b20e393bbf79bb7b1",
+  "overview_digest": "1383ae693c1393166d56c109a76a49343ecbf722ee1d3c33a49f1e11ec1019c9",
   "paragraphs": [
+    {
+      "id": "1e3f0cf2b934b228b40cb12ac7fd7fe96511b93637dac905e00bfc60aa089ec7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068|690. A Murderous Affair: Death at Mayerling (Part 2)]], a [[TheRestIsHistory]] episode on [[CrownPrinceRudolf]], [[MaryVetsera]], and the [[MayerlingIncident]] in 1889 [[AustriaHungary]]. It adds [[CrownPrinceRudolf]], [[MaryVetsera]], [[FranzJosephI]], [[EmpressSisi]], [[CountessLarish]], [[MitziKaspar]], [[CountessMarieFestetics]], [[JosefBratfisch]], [[JosefHoyos]], [[PhilipOfCoburg]], [[JohannLoschek]], [[MayerlingIncident]], [[AustriaHungary]], [[HabsburgDynasty]], [[KarlLudwigOfAustria]], [[FranzFerdinand]], [[LuigiLucheni]], [[HofburgPalace]], [[HeiligenkreuzAbbey]], [[CapuchinCrypt]], [[CarmeliteConventMayerling]], [[KaiserWilhelmII]], [[MayerlingDeathPact]], [[DynasticScandalSuppression]], [[CatholicBurialLegitimacy]], [[DynasticHeirLossShock]], and [[FinDeSiecleViennaCrisisReading]], while extending [[TheRestIsHistory]] and [[Vienna]]. Its core synthesis is that Mayerling turns private catastrophe into a dynastic systems problem: romantic death-pact language leaves agency unresolved, Catholic burial requires managed religious classification, Mary is asymmetrically suppressed, and Rudolf's death redirects the Habsburg succession. No settled contradiction is recorded; the source's Meiling, Bratfish, and Lucchini transcript forms are normalized to Mayerling, Bratfisch, and Lucheni.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068",
+        "AustriaHungary",
+        "CapuchinCrypt",
+        "CarmeliteConventMayerling",
+        "CatholicBurialLegitimacy",
+        "CountessLarish",
+        "CountessMarieFestetics",
+        "CrownPrinceRudolf",
+        "DynasticHeirLossShock",
+        "DynasticScandalSuppression",
+        "EmpressSisi",
+        "FinDeSiecleViennaCrisisReading",
+        "FranzFerdinand",
+        "FranzJosephI",
+        "HabsburgDynasty",
+        "HeiligenkreuzAbbey",
+        "HofburgPalace",
+        "JohannLoschek",
+        "JosefBratfisch",
+        "JosefHoyos",
+        "KaiserWilhelmII",
+        "KarlLudwigOfAustria",
+        "LuigiLucheni",
+        "MaryVetsera",
+        "MayerlingDeathPact",
+        "MayerlingIncident",
+        "MitziKaspar",
+        "PhilipOfCoburg",
+        "TheRestIsHistory",
+        "Vienna"
+      ]
+    },
     {
       "id": "2df6ee81d99b0d7233861c150387a43d65848277cf46cfd4c6379caa7eda4396",
       "primary_topic": "governance-and-institutions",
