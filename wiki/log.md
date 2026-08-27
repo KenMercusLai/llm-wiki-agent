@@ -12162,6 +12162,10 @@ Added source page for The Rest Is History episode on Crown Prince Rudolf, Mary V
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-27] ingest | VOL.220对话大白牛/Under：莫德纳“定制抗癌疫苗”，离普通人有多远？
+
+Added source page for 这病说来话长 episode on Moderna/Merck's individualized melanoma mRNA cancer vaccine. Created Individualized Cancer Vaccine; migrated and updated Daba Niu Teacher, Moderna, Merck, Cancer Vaccine Platform, Cancer Immune Recognition Problem, Tumor Microenvironment, Preventive Health Screening, and AI Clinical Validation In Drug Discovery to synthesis-v1. No settled contradiction found; the episode qualifies headline "anticancer vaccine" optimism by keeping the therapy postoperative, therapeutic, melanoma-centered, clinically validated, costly, and patient-selection dependent rather than a universal preventive cancer shot.
+
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？
 
 Added source page for Hanji 1043: Chen Lin's anti-Cao proclamation, Ju Shou's pre-campaign defeat forecast and warning against Yan Liang's independent command, Cheng Yu's low-force Juancheng defense, Cao Cao's White Horse feint, and Guan Yu killing Yan Liang to lift the siege. Created White Horse Relief and Liu Yan (Dong Commandery); migrated Chen Lin, Cheng Yu, and Legitimacy Indictment Warfare to synthesis-v1; updated Guandu Campaign, Yan Liang, Guan Yu, Ju Shou, Lure Enemy Out of Position, and Captive Submission with Residual Loyalty. No settled contradiction found; this ingest clarifies that Yan Liang dies in Hanji 1043 while Hanji 1044 covers the angry-pursuit, Yanjin, Wen Chou, and Guan Yu departure aftermath.
