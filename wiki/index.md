@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?](sources/all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480.md) — All-In episode on Kimi K3 and open-source AI ban risk, Anthropic's copyright settlement, AI capex at Google/Tesla/SpaceX, and New York tenant-screening, eviction, and rent-control politics.
+- [《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？](sources/zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld.md) — 芮淇讲透资治通鉴 episode on Huangfu Gui's shame at not being arrested in the first Party Prohibition, Du Mi's public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective frontier pacification, and Tanshihuai's rejected Han recognition.
 - [《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系](sources/zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp.md) — 芮淇讲透资治通鉴 episode on Jia Biao's targeted rescue of Party Prohibition prisoners, Dou Wu's memorial, Fan Pang's prison defense, Wang Fu's softened interrogation, and the solar-eclipse pretext for pardon.
 - [《资治通鉴·汉纪》877丨他为何冷落救命恩人？](sources/zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi.md) — 芮淇讲透资治通鉴 episode on the 167 CE Party Prohibition amnesty, lifelong office-exclusion registry, Fan Pang's tacit gratitude toward Huo Xu, and Shi Bi's refusal to fabricate Pingyuan party names.
 - [《资治通鉴·汉纪》878丨不受约束的权力，害人不浅](sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk.md) — 芮淇讲透资治通鉴 episode on Emperor Huan's coerced princess-marriage pressure on Yang Qiao, Liu Xiu and Song Hong as a restraint contrast, Ba Commandery yellow-dragon omen fabrication, Zhang Huan's 167 CE Qiang victory and eunuch-filtered reward, and Dong Zhuo's first foreshadowing appointment.
@@ -1560,6 +1561,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [LibGen](entities/LibGen.md) — Source-scoped pirated-book repository named in the Anthropic copyright-settlement discussion.
+- [皇甫规 / Huangfu Gui (late Han)](entities/HuangfuGuiLateHan.md) — Late-Han frontier official whose Hanji 875 self-report makes punishment a Party Prohibition moral credential.
 - [贾彪 / Jia Biao (late Han)](entities/JiaBiaoLateHan.md) — Late-Han Party Prohibition rescuer whose Hanji 876 role is finding Dou Wu as the effective intercession channel for imprisoned士人.
 - [霍谞 / Huo Xu (late Han)](entities/HuoXuLateHan.md) — Fan Pang's life-saving benefactor whose current wiki role centers on tacit gratitude rather than public repayment display.
 - [史弼 / Shi Bi (late Han)](entities/ShiBiLateHan.md) — Pingyuan chancellor who refuses to fabricate party-member names under Party Prohibition reporting pressure.
@@ -1568,7 +1570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵饶 / Zhao Rao (late Han)](entities/ZhaoRaoLateHan.md) — Emperor Ling's wet nurse and palace-proximity actor whose daily access helps explain Dou Miao's hesitation and later appears in Cao Jie's emergency custody channel.
 - [管霸 / Guan Ba (late Han)](entities/GuanBaLateHan.md) — Powerful zhongchangshi singled out as the first selective anti-eunuch target when Dou Miao refuses a blanket purge.
 - [苏康 / Su Kang (late Han)](entities/SuKangLateHan.md) — Zhongchangshi arrested and executed with Guan Ba in Dou Miao's limited first anti-eunuch punishment.
-- [杜密 / Du Mi (late Han)](entities/DuMiLateHan.md) — Late-Han士人 whose current evidence runs from 168 CE reform-court hope to the later reputation-danger field.
+- [杜密 / Du Mi (late Han)](entities/DuMiLateHan.md) — Late-Han士人 whose profile now runs from first Party Prohibition imprisonment, Zheng Xuan recognition, and public-duty critique to reform-court hope and later reputation danger.
 - [刘瑜 / Liu Yu (late Han astrologer)](entities/LiuYuAstrologerLateHan.md) — Disambiguated reform-cohort omen reader whose warning to Dou Miao, Dou Wu, and Chen Fan turns celestial interpretation into palace-security advice before the 168 CE countercoup.
 - [山冰 / Shan Bing (late Han)](entities/ShanBingLateHan.md) — Dou-side small yellow-gate actor inserted into the Huangmenling channel, arresting Zheng Sa before Wang Fu reverses the prison channel.
 - [尹勋 / Yin Xun (late Han)](entities/YinXunLateHan.md) — Reform-cohort figure and Dou-side memorial actor who joins Shan Bing in requesting the arrest of Cao Jie and Wang Fu after Zheng Sa's interrogation.
@@ -1589,7 +1591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tableau](entities/Tableau.md) — Analytics/dashboard product named as part of the mid-market data stack cost barrier.
 - [Yuval Noah Harari](entities/YuvalNoahHarari.md) — Historian and philosopher using an information-network lens to warn that AI governance must reject inevitability and preserve human agency.
 - [Nexus (Yuval Noah Harari book)](entities/NexusHarariBook.md) — Harari book framed in The Intelligence interview as a history of information networks from the Stone Age to AI.
-- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Hanji 876 imprisonment and Dou Wu defense through reform restoration, honor-list danger, prison death, and student liability.
+- [李膺 / Li Ying (late Han)](entities/LiYingLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Hanji 875 paired arrest with Du Mi through Dou Wu defense, reform restoration, honor-list danger, prison death, and student liability.
 - [范滂 / Fan Pang (late Han)](entities/FanPangLateHan.md) — Late-Han party-prohibition figure whose profile now runs from Hanji 876 prison defense through amnesty-with-registry, restrained gratitude, honor-list exposure, and voluntary imprisonment.
 - [东羌 / Eastern Qiang (late Han)](entities/DongqiangLateHan.md) — Frontier group whose evidence spans Hanji 881's Fengyishan campaign horizon, Hanji 883's surrender-versus-suppression policy dispute, Hanji 891's tactical campaign, and Hanji 892's anti-extermination critique.
 - [冯翊山之战 / Fengyishan Battle (late Han)](entities/FengyishanBattleLateHan.md) — 168 CE frontier battle where Duan Jiong defeats Xianling Qiang forces before receiving interim reward, military funding, and anti-Qiang title recognition.
@@ -1696,7 +1698,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [冯贵人 / Feng Guiren (late Han)](entities/FengGuirenLateHan.md) — Imperial consort proposed as an alternative burial figure to Empress Dowager Dou in Hanji 901, mainly as a ritual-claim contrast.
 - [The Metamorphosis / Kafka's 《变形记》](entities/TheMetamorphosisKafka.md) — Kafka work used in Hanji 901 to illustrate anxious self-importance and impatience; distinct from Ovid's Metamorphoses.
 - [刘猛 / Liu Meng (late Han)](entities/LiuMengLateHan.md) — Sili xiaowei who treats the Zhuque Gate anti-eunuch accusation as substantially true, does not pursue the anonymous speaker aggressively, and is punished after Duan Jiong takes over.
-- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han official whose profile spans Eastern Qiang surrender-first advice, uninformed use in the 168 countercoup, post-coup guilt, direct remonstrance, and humbled survival.
+- [张奂 / Zhang Huan (late Han)](entities/ZhangHuanLateHan.md) — Late-Han frontier and court official whose profile spans Southern Xiongnu/Wuhuan selective pacification, Eastern Qiang surrender-first advice, uninformed use in the 168 countercoup, post-coup guilt, remonstrance, and survival.
 - [王寓 / Wang Yu (late Han)](entities/WangYuLateHan.md) — Former sili xiaowei whose refused recommendation request becomes a personal-grudge accusation against Zhang Huan; distinct from Wang Yu / 汪玉.
 - [苏谦 / Su Qian (late Han)](entities/SuQianLateHan.md) — Father of Su Buwei whose attempted complaint against Li Hao becomes the killing that launches Su Buwei's filial revenge.
 - [苏不韦 / Su Buwei (late Han)](entities/SuBuweiLateHan.md) — Late-Han avenger whose tunnel attack against Li Hao begins a revenge spiral that escalates into tomb desecration and the extermination of his household under Duan Jiong.
@@ -1957,7 +1959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何苗 / He Miao (late Han)](entities/HeMiaoLateHan.md) — He-family figure tied to eunuch benefits before He Jin's failure and later killed, with his corpse publicly mutilated after the deposition.
 - [武阳君 / Wuyang Jun](entities/WuyangJun.md) — He-family elder and eunuch-benefit channel who helps block He Jin's purge before being killed in Dong Zhuo's post-deposition terror.
 - [陈蕃 / Chen Fan (late Han)](entities/ChenFanLateHan.md) — Late-Han anti-eunuch official whose branch now begins with Emperor Huan-era removal after remonstrance before interregnum duty, title refusal, fatal palace intervention, and later memory.
-- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose profile now runs from Hanji 876 Party Prohibition intercession through controllable-child accession, failed anti-eunuch command, purge, and memory.
+- [窦武 / Dou Wu (late Han)](entities/DouWuLateHan.md) — Late-Han outer-relative and anti-eunuch official whose profile now runs from Hanji 875 clean-office credibility through Party Prohibition intercession, controllable-child accession, failed anti-eunuch command, purge, and memory.
 - [刘辩 / Liu Bian (Hongnong Wang)](entities/LiuBianHongnongWang.md) — Deposed late-Han emperor and Hongnong Wang poisoned by Li Ru under Dong Zhuo's command in Hanji 950.
 - [李儒 / Li Ru (late Han)](entities/LiRuLateHan.md) — Dong Zhuo-side official who carries out the poisoning of Liu Bian in Hanji 950.
 - [郑泰 / Zheng Tai (late Han)](entities/ZhengTaiLateHan.md) — Court official whose advice restrains Dong Zhuo from immediate mass attack and diagnoses the anti-Dong-Zhuo coalition's weak cohesion.
@@ -2255,7 +2257,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乌桓 / Wuhuan](entities/Wuhuan.md) — Northern frontier group whose forces help Yan Rou's anti-Gongsun coalition and whose respect for Tian Chou marks the Xu Wu Mountain order branch.
 - [赵苞 / 赵包 / Zhao Bao (Late Han)](entities/ZhaoBaoLateHan.md) — Liaoxi official whose mother and wife become Xianbei hostages in Hanji 910, creating a loyal-minister versus family-rescue dilemma distinct from Warring States Zhao Bao.
 - [鲜卑 / Xianbei](entities/Xianbei.md) — Northern frontier people whose wiki branch now begins with Hanji 898's Bingzhou attack before Zhao Bao's hostage battle, Tanshihuai succession, Liu Yu outreach, and the anti-Gongsun coalition.
-- [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader used in Hanji 910 as hostage-pressure commander against Zhao Bao and whose death in Hanji 920 sets up the weaker He Lian and Kuitou succession branch.
+- [檀石槐 / Tanshihuai (Xianbei)](entities/TanshihuaiXianbei.md) — Xianbei leader whose profile spans refusing Han title/marriage recognition, organizing eastern/central/western commands, defeating the 177 CE expedition, hostage pressure, and weaker succession.
 - [和连 / He Lian (Xianbei)](entities/HeLianXianbei.md) — Tanshihuai's son and weaker Xianbei successor, killed after attacking Beidi in the Hanji 920 succession summary.
 - [魁头 / Kuitou (Xianbei)](entities/KuitouXianbei.md) — Nephew-line Xianbei successor whose later contest with He Lian's son disperses the group in the Hanji 920 account.
 - [幽州 / Youzhou (Late Han)](entities/YouzhouLateHan.md) — Northern province where Gongsun Zan's post-Liu Yu control unravels through commandery defections.
@@ -9438,6 +9440,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tenant Screening Eviction Backfire](concepts/TenantScreeningEvictionBackfire.md) — Claim that strict screening, eviction, and rent rules can raise rents, reduce maintenance, or harm other tenants.
 - [Housing Supply Over Rent Control](concepts/HousingSupplyOverRentControl.md) — Policy preference for easing construction and permitting constraints rather than relying mainly on rent freezes or eviction limits.
 - [Power-Structure Targeting / 权力结构定向求援](concepts/PowerStructureTargeting.md) — Strategy of solving a blocked institutional problem by finding the actor whose access and role can actually change the decision.
+- [受罚作为名节凭据 / Punishment as Moral Credential](concepts/PunishmentAsMoralCredential.md) — Pattern where punishment by a discredited authority becomes evidence of moral belonging, grounded in Huangfu Gui's shame at not being arrested.
 - [Tacit Gratitude Restraint / 心照不宣式感恩克制](concepts/TacitGratitudeRestraint.md) — Pattern where real gratitude is preserved through mutual understanding rather than public repayment display under relational or political risk.
 - [Registry-Based Political Exclusion / 登记造册式政治禁锢](concepts/RegistryBasedPoliticalExclusion.md) — Pattern where amnesty coexists with durable administrative blacklisting and office exclusion.
 - [Accusation Quota Refusal / 诬陷指标拒绝](concepts/AccusationQuotaRefusal.md) — Official-integrity pattern where an administrator refuses to manufacture named offenders merely because a campaign expects cases.
@@ -12768,7 +12771,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interest-Based Negotiation / 利益导向谈判](concepts/InterestBasedNegotiation.md) — Asking why to uncover the needs behind stated demands and create tradable issues.
 - [Earned Optimism / 走出来的乐天](concepts/EarnedOptimism.md) — Reading of Su Dongpo's optimism as resilience formed through fear, exile, grief, and continued action.
 - [Conscience Over Faction / 良知高于党派](concepts/ConscienceOverFaction.md) — Frame for Su Shi's refusal to align fully with either reformers or old-party retaliation when conscience disagreed.
-- [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking literary talent with practical public service in Su Shi's career.
+- [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking scholar judgment and literary talent to public service, from Du Mi's recommendation/exposure ethic to Su Shi's local governance and modern scholars under crisis.
 - [宋代党争 / Song Factional Politics](concepts/SongFactionalPolitics.md) — New-party/old-party conflict frame around reforms, retaliation, and political speech risk.
 - [王安石变法 / Wang Anshi Reforms](concepts/WangAnshiReforms.md) — Northern Song policy-reform field read through motive, implementation, suffering, and backlash.
 - [Poetry As Political Evidence / 诗文作为政治证据](concepts/PoetryAsPoliticalEvidence.md) — Mechanism by which Su Shi's poems and memorials could be turned into accusations.

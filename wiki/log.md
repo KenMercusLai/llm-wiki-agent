@@ -12208,6 +12208,7 @@ Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest
 Ran lint. See lint-report.md for details.
 
 
+
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12431,6 +12432,14 @@ Added source page for All-In E282: Kimi K3 and open-source AI ban risk, Anthropi
 ## [2026-08-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-27] ingest | 《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？
+
+Added source page for Hanji 875: the 166 CE first Party Prohibition reputation field, Huangfu Gui's shame at not being arrested, Du Mi's talent-recognition and public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective pacification of Southern Xiongnu and Wuhuan submitters, and Tanshihuai's rejected Han recognition. Created Huangfu Gui and Punishment as Moral Credential pages; migrated Tanshihuai and Scholar-Official Public Duty to synthesis-v1; updated Du Mi, Li Ying, Dou Wu, Zhang Huan, index, overview, and log. No settled contradiction found; transcript variants are normalized to Huangfu Gui, Li Ying, Zheng Xuan, Zhang Huan, Wuhuan, and Tanshihuai.
 
 ## [2026-08-27] lint | Wiki health check
 
