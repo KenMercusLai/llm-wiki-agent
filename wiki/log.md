@@ -12661,6 +12661,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击
+
+Added source page for the 165 CE late-Han backfill: Chen Qiu's Lingling defense against Zhu Gai and Hu Lan, Du Shang's false report against Zhang Pan, Zhang Pan's refusal to accept amnesty without exoneration, Duan Jiong's Western Qiang victory and title, and Chen Fan's Taiwei appointment and office-yield request. Created Du Shang, Zhang Pan, Zhu Gai, Hu Lan, Pardon Without Exoneration, and Merit-Shielded Accountability; updated Chen Qiu, Duan Jiong, Chen Fan, overview, and index. No settled contradiction found; transcript variants are normalized to existing late-Han routes.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》870丨古代体制内，不干了没有退路
 
 Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; Hanji 870 is kept as the pre-Hanji 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
@@ -12712,6 +12716,10 @@ Ran health, identity validation, and lint. Health scanned 15,325 wiki pages with
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记
 
 Added source page for Hanji 868: Wang Chang's Nanyang governance reversal after Zhang Chang's advice, the per-mu land-tax notice and chronicle-policy compression issue, Luoyang earthquake and Liu Mao appointment context, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng, Dou Miao, and Dou Wu's rise. Created Wang Chang (Shumao), Zhang Chang (Nanyang), Empress Deng, Guo Guiren, Per-Mu Land Taxation, and Chronicle Policy Compression pages; updated Emperor Huan, Dou Miao, Dou Wu, Tian Sheng, Ying Feng, Chen Fan, Liu Mao, Humane Local Governance, and Palace Favorite Protection Fragility. No settled contradiction found; 王畅 is disambiguated from 王昌, 田圣 is normalized to the existing Tian Sheng route, and the tax/disaster notices remain source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 
