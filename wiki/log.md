@@ -13124,3 +13124,7 @@ Ran health, identity validation, and lint. Health scanned 15,628 wiki pages with
 ## [2026-08-28] ingest | Meta's landmark social media settlement
 
 Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement, Nvidia earnings/customer-financing and custom-chip pressure, and EPA data-center air-permit participation. Created the source note, Environmental Protection Agency, Poolside, and Data Center Air Permit Participation pages; updated Anita Ramaswamy, Social Media Product Liability, AI Circular Infrastructure Financing, AI Chip Specialization, Data Center Community Consent, index, and overview. No settled contradiction found; the Meta settlement still needs judicial approval, Nvidia's circular-financing denial remains a qualification, and EPA permitting effects remain source-scoped because emissions standards and state-level notice choices are disputed.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
