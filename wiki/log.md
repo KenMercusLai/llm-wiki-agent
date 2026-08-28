@@ -13004,3 +13004,7 @@ Ingested Hanji 844 as the 158 CE Zhang Huan frontier and Liang Ji pressure layer
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran health, identity validation, and lint. Health scanned 15,551 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes while the current lint scan covered 15,551 pages, so bridge findings may be incomplete until the graph is rebuilt; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not updated.
