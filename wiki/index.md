@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Branded fruit: How produce got "Honeycrisp-ified"](sources/branded-fruit-how-produce-got-honeycrisp-ified.md) - Planet Money episode on Scarlet Sunrise, Honeycrisp, plant-variety IP, university produce commercialization, and the race to differentiate fresh produce.
 - [《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？](sources/zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2.md) — 芮淇讲透资治通鉴 episode on Zhang Gang's Guangling pacification of Zhang Ying, grievance-aware surrender negotiation, post-surrender housing/land/office settlement, Ren Jun's Luoyang administration, Su Zhang's public-law impartiality, and Wu You's humane handling of Sun Xing.
 - [《资治通鉴·汉纪》824丨为什么我们要学“守拙”](sources/zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9.md) — 芮淇讲透资治通鉴 episode on 143-144 CE Emperor Shun's final year, Zhao Chong's Qiang-front death, Huang Qiong's xiaolian criteria expansion, Zhong Hao's sword-backed credential check for Crown Prince Liu Bing, Emperor Chong's accession, Huangfu Gui's anti-eunuch policy answer, and spreading Yang-Xu/Jiujiang/Rinan unrest.
 - [《资治通鉴·汉纪》825丨历史告诉你：当你没用时，人性最自私](sources/zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked.md) — 芮淇讲透资治通鉴 episode on the 145 CE Emperor Chong succession crisis, Li Gu's rejection of concealed death, Liu Suan's rejected candidacy, Liu Zuan's child accession as Emperor Zhi, restrained burial, court cleanup, anonymous slander, and Zhang Ying's renewed Guangling revolt.
@@ -1661,6 +1662,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rutgers University](entities/RutgersUniversity.md) - Public research university whose Scarlet Sunrise tomato case links agricultural breeding, IP handoff, and produce branding.
+- [Scarlet Sunrise](entities/ScarletSunrise.md) - Rutgers bicolor grape tomato used by Planet Money to explain branded produce and protected crop varieties.
+- [Pete Nitzsche](entities/PeteNitzsche.md) - Rutgers farm and extension figure who co-developed Scarlet Sunrise and foregrounds farmer profitability and crop management.
+- [Tom Orton](entities/TomOrton.md) - Retired Rutgers agriculture professor and co-breeder of Scarlet Sunrise.
+- [Dan Pashman](entities/DanPashman.md) - Food-podcast host whose grape-tomato skepticism and tasting role ground the Scarlet Sunrise proof point.
+- [Miguel Gomez](entities/MiguelGomez.md) - Cornell specialty-crop economist explaining the race for differentiation and search-cost limits in produce.
+- [Honeycrisp](entities/Honeycrisp.md) - University of Minnesota apple variety that became the breakout economic model for premium produce.
+- [Cosmic Crisp](entities/CosmicCrisp.md) - University of Washington apple variety used as a later high-revenue example of protected produce commercialization.
+- [University of Washington](entities/UniversityOfWashington.md) - Public university cited through Cosmic Crisp as an agricultural variety commercialization actor.
 - [赵冲 / Zhao Chong (late Han)](entities/ZhaoChongLateHan.md) — Qiang-front officer whose 143-144 CE victories weaken the Shaodang Qiang before he dies pursuing defecting surrendered Hu and rebel Qiang.
 - [高梵 / Gao Fan (late Han)](entities/GaoFanLateHan.md) — Palace eunuch envoy whose attempt to fetch Crown Prince Liu Bing without edict credentials is blocked by Zhong Hao until authorization is produced.
 - [汉冲帝 / Emperor Chong of Han](entities/EmperorChongOfHan.md) — Child Eastern Han emperor whose 144 CE crown-prince credential crisis and 145 CE death frame the Liang Na, Li Gu, Liu Suan, and Liu Zuan succession sequence.
@@ -4169,7 +4179,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Green Party of England and Wales](entities/GreenPartyOfEnglandAndWales.md) — British Green Party branch framed through Zack Polanski as shifting from environmental identity toward eco-populist economic grievance.
 - [Andrew Miller](entities/AndrewMiller.md) — The Intelligence reporter whose Zack Polanski profile links biography, performance, controversy, and anti-centrist voter movement.
 - [Kate Adamalla](entities/KateAdamalla.md) — University of Minnesota lab leader credited in the source with creating synthetic spud cells.
-- [University of Minnesota](entities/UniversityOfMinnesota.md) — Institution attached to Kate Adamalla's synthetic-cell lab in the episode.
+- [University of Minnesota](entities/UniversityOfMinnesota.md) — Public university attached to both Kate Adamalla's synthetic-cell lab and Honeycrisp's agricultural commercialization model.
 - [ABTA](entities/ABTA.md) — British travel-industry association cited as evidence that many UK travellers still book through human agents.
 - [American Society of Travel Advisers](entities/AmericanSocietyOfTravelAdvisers.md) — U.S. travel-adviser association cited for membership growth despite AI planning tools.
 - [Fora](entities/Fora.md) — AI-powered travel-agency platform framed as adviser infrastructure rather than a simple replacement for human agents.
@@ -9867,6 +9877,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Branded Produce Differentiation](concepts/BrandedProduceDifferentiation.md) - Fresh-produce market shift where names, protected varieties, visual traits, flavor, and packaging reduce commodity interchangeability.
+- [Plant Variety Intellectual Property](concepts/PlantVarietyIntellectualProperty.md) - Legal and institutional route for crop breeders and universities to capture value from new varieties.
+- [Public Agricultural Research Commercialization](concepts/PublicAgriculturalResearchCommercialization.md) - University research path that turns public breeding work into licensed, branded, and farmer-facing crop products.
+- [Commodity Trap Escape](concepts/CommodityTrapEscape.md) - Strategy of escaping interchangeable price competition through differentiation, quality, branding, or protected supply.
 - [守拙式临事决断 / Shouzhuo Decisive Restraint](concepts/ShouzhuoDecisiveRestraint.md) — Pattern where restrained, non-showy conduct preserves judgment until a high-risk moment requires a firm boundary and verifiable authority.
 - [Anonymous Slander Retaliation / 匿名诬告式报复](concepts/AnonymousSlanderRetaliation.md) — Pattern where injured interests use anonymous accusation to recode cleanup or correction as private factional ambition.
 - [军费贪腐与战力空转 / Military Finance Corruption](concepts/MilitaryFinanceCorruption.md) — Pattern where campaign funds, rations, pay, and bribes become private extraction, leaving soldiers destroyed while coercive capacity hollows out.
@@ -13668,7 +13682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.
 - [Protected Domestic-Market Industrialization](concepts/ProtectedDomesticMarketIndustrialization.md) — Industrial path where sheltered home-market factories grow without enough pressure to become globally competitive.
 - [Premature Deindustrialization](concepts/PrematureDeindustrialization.md) — Pattern where countries lose manufacturing's employment and growth role before reaching high-income status.
-- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Agriculture-as-high-knowledge-sector frame spanning crop adaptation, productivity research, farm digitization, and AI-supported field operations.
+- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Agriculture-as-high-knowledge-sector frame spanning crop adaptation, plant breeding, productivity research, farm digitization, and AI-supported field operations.
 - [Localized Innovation Advantage](concepts/LocalizedInnovationAdvantage.md) — Strategy of escaping middle-income stagnation through local resources, constraints, markets, and knowledge rather than copied factory ladders.
 - [Biodegradable Amazon Plastics](concepts/BiodegradableAmazonPlastics.md) — Tutiplast example of turning Amazon plant waste into material-science innovation rooted in local inputs.
 - [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.

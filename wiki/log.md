@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | Branded fruit: How produce got "Honeycrisp-ified"
+
+Ingested the Planet Money episode on the honeycrispification of produce, using Rutgers' Scarlet Sunrise grape tomato to explain branded fresh produce, plant-variety IP, public-university commercialization, commodity-trap escape, consumer search costs, and compact crop-labor economics. Created the source note, Rutgers University, Scarlet Sunrise, Pete Nitzsche, Tom Orton, Dan Pashman, Miguel Gomez, Honeycrisp, Cosmic Crisp, University of Washington, Branded Produce Differentiation, Plant Variety Intellectual Property, Public Agricultural Research Commercialization, and Commodity Trap Escape pages; updated University of Minnesota, Advanced Agriculture Innovation, index, overview, and downstream synthesis artifacts. No settled contradiction found; taste-test verdicts, university revenue examples, market-saturation judgment, and compact-plant savings remain source-scoped.
+
 ## [2026-08-29] ingest | VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南
 
 Ingested the 这病说来话长 episode on safe exercise for sedentary workers and weekend athletes, including progressive load management, muscle strength for joint protection, running, swimming, cycling, tennis, HYROX, braces, kinesiology tape, exoskeleton devices, stretching, joint popping, knee valgus, and warning signs such as pain, swelling, locking, or acute injury. Created the source note, 刘子明 sports-medicine doctor, Peking University Third Hospital, Exercise Load Management, Strength Training for Joint Protection, Exercise Assistive Gear Boundary, Stretching and Mobility Safety, and Joint Symptom Escalation pages; updated 这病说来话长, 阿汤, HYROX, index, and overview. No settled contradiction found; training structure, support-device use, pain diagnosis, and injury treatment remain source-scoped public education rather than individualized rehabilitation advice.
@@ -13212,6 +13216,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》828丨大将军梁冀：擅权废立的东汉奸臣
 
 Ingested the 芮淇讲透资治通鉴 episode on the 146 CE succession after Emperor Zhi's death, Cao Teng's self-protective advice to Liang Ji, Liu Zhi's accession as Emperor Huan under Liang Na's continued regency, Li Gu and Du Qiao's resistance, Zhu Mu's rejected staffing and emperor-education warning, Huan's ancestral honors, and Teng Fu's eunuch-driven dismissal. Created the source note, Teng Fu, and Self-Protective Accession Choice pages; updated Cao Teng, Hu Guang, Emperor Zhi, Liu Suan, Du Qiao, Li Gu, Empress Dowager Liang Na, Zhu Mu, Liang Ji, Emperor Huan, Outer-Relative Court Power, Corrective Advice Nonconversion, index, and downstream synthesis inputs. No settled contradiction found; minor offices and ritual details remain source-scoped, and Teng Fu is kept distinct from Teng Yan.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] lint | Wiki health check
 

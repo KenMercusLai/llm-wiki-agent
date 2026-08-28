@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
       "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
       "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
@@ -352,11 +353,42 @@
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 350
+    "paragraph_count": 351
   },
-  "overview_commit": "4b66b80d0a26a025e3159a28129d68bef40c6039",
-  "overview_digest": "c130e23c548a147ec065f206029721ac0a7f8a189cfc87d8ca1d5cb00023e160",
+  "overview_commit": "9efd64d91fdd5185b0c595db3fae2c1e79ccc4f1",
+  "overview_digest": "6e20cb69688faa00c3430a908fe74c5fb97f26746b0937d0e26487e7553e6814",
   "paragraphs": [
+    {
+      "id": "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[branded-fruit-how-produce-got-honeycrisp-ified|Branded fruit: How produce got \"Honeycrisp-ified\"]], a [[PlanetMoney]] episode on branded premium produce using [[ScarletSunrise|Scarlet Sunrise]] as the Rutgers tomato case. It adds [[RutgersUniversity|Rutgers University]], [[ScarletSunrise]], [[PeteNitzsche]], [[TomOrton]], [[DanPashman]], [[MiguelGomez]], [[Honeycrisp]], [[CosmicCrisp]], [[UniversityOfWashington|University of Washington]], [[BrandedProduceDifferentiation]], [[PlantVarietyIntellectualProperty]], [[PublicAgriculturalResearchCommercialization]], and [[CommodityTrapEscape]], while extending [[UniversityOfMinnesota|University of Minnesota]] and [[AdvancedAgricultureInnovation]]. Its core synthesis is that fresh produce is becoming a legally protected, branded, and product-designed market rather than only a commodity aisle: plant IP law and university commercialization let new varieties capture value, growers use distinct flavor and appearance to escape price competition, and consumers help pull the system toward premium produce even as apple saturation, search costs, seed access, and expensive production keep the model bounded. No settled contradiction is recorded; the Scarlet Sunrise taste result, Honeycrisp/Cosmic Crisp revenue examples, market-saturation view, and compact-plant labor-savings estimate remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AdvancedAgricultureInnovation",
+        "BrandedProduceDifferentiation",
+        "CommodityTrapEscape",
+        "CosmicCrisp",
+        "DanPashman",
+        "Honeycrisp",
+        "MiguelGomez",
+        "PeteNitzsche",
+        "PlanetMoney",
+        "PlantVarietyIntellectualProperty",
+        "PublicAgriculturalResearchCommercialization",
+        "RutgersUniversity",
+        "ScarletSunrise",
+        "TomOrton",
+        "UniversityOfMinnesota",
+        "UniversityOfWashington",
+        "branded-fruit-how-produce-got-honeycrisp-ified"
+      ]
+    },
     {
       "id": "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
       "primary_topic": "governance-and-institutions",
