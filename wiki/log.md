@@ -12837,6 +12837,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》854丨历史告诉你：选官用官很重要！
+
+Added source page for a 160-161 CE Huan-era backfill on appointment quality, Duan Jiong's Qiang pursuit, Xia Fang's Jiaozhi appointment, Huangfu Gui's Taishan pacification, Liu Ju's Yongqiu mediation, disaster/fire pressure, and rank-sale fiscal measures. Created Xia Fang, Liu Ju, Shusun Wuji, and Appointment Quality as State Capacity; updated Duan Jiong, Huangfu Gui, Zong Zi, Huang Qiong, Liu Chong, Humane Local Governance, Rank Sale Disaster Finance, overview, and index. No settled contradiction found; transcript forms are normalized to 刘矩, 黄琼, 种暠, 虞放, 祝恬, 叔孙无忌, 宗资, and 皇甫规 where the received Tongjian passage supports it.
+
 ## [2026-08-28] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -12896,6 +12900,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Big shot: does a cancer vaccine work?
 
 Added source page for The Intelligence episode on Steve Young's personalized mRNA melanoma-vaccine trial, Canada's oil-sands boom, Trans Mountain capacity, and Dolly Parton's cultural legacy. Created Steve Young (Melanoma Trial Patient), Sarah Larniuk, Cenovus Energy, Canadian Natural Resources Limited, Trans Mountain Expansion, Major Projects Office (Canada), Dolly Parton, Canadian Oil Sands Boom, Cross-Coalition Cultural Icon, and Artist Rights Control pages; updated individualized cancer vaccine, cancer vaccine platform, cancer immune recognition, Moderna, Merck, Canada, Alberta, Mark Carney, American Cultural Exports, overview, and index. No settled contradiction found; the episode qualifies earlier cancer-vaccine optimism by keeping survival, side effects, dropout, cost, access, and tumor-type transferability unresolved.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] lint | Wiki health check
 
