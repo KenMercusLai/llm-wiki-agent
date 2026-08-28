@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
       "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "d4b354158358a7d81ae6b27d3526bcfa170568de59e77b4df39602f70dd7bd7e",
       "87238dd158df612bbcc136fa54dccb214e7b1329d7e5181231d50ea2a55e9e21",
@@ -350,11 +351,37 @@
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 348
+    "paragraph_count": 349
   },
-  "overview_commit": "79a40553ff5495cfb3699a989e531cd09e8efebb",
-  "overview_digest": "f225a3737eef75d02842f91f6207e7383eb1e202b4b980e0ceaecb5e35e3895e",
+  "overview_commit": "53e18f915bff00bc2e9eafebb6d8b2db24906078",
+  "overview_digest": "a923f2e2c51d546c9c0d8990a9f588e935c378940ff56cce611231652dbbbd18",
   "paragraphs": [
+    {
+      "id": "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the 142 CE [[EmperorShunOfHan|汉顺帝]] local-governance layer between [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]]. It adds [[RenJunLuoyangLateHan|任峻]] and [[SuZhangLateHan|苏章]], while extending [[ZhangGangLateHan|张纲]], [[ZhangYingGuanglingLateHan|张婴]], [[WuYouLateHan|吴祐]], [[GuanglingCommandery|广陵郡]], [[RootCausePacification|查因安抚式治理]], and [[HumaneLocalGovernance|仁厚地方治理]]. Its core synthesis is that successful pacification is not only persuasive speech: Zhang Gang converts official-abuse grievance into surrender by combining personal trust, pardon, threatened state force, and concrete housing, land, and office pathways, while Ren Jun, Su Zhang, and Wu You show stricter staffing, public-law impartiality, and humane mercy as adjacent local-official modes. No settled contradiction is recorded; transcript forms 张刚, 张英, 广邻, 梁继, 任郡, 济州刺史, 吴佑, and 孙杏 are normalized to 张纲, 张婴, 广陵, 梁冀, 任峻, 冀州刺史, 吴祐, and 孙性.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "EmperorShunOfHan",
+        "GuanglingCommandery",
+        "HumaneLocalGovernance",
+        "RenJunLuoyangLateHan",
+        "RootCausePacification",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuZhangLateHan",
+        "WuYouLateHan",
+        "ZhangGangLateHan",
+        "ZhangYingGuanglingLateHan",
+        "zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv",
+        "zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2",
+        "zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9"
+      ]
+    },
     {
       "id": "e433733c468b2f627a77f3183baa077dca5130e3e98690479669fd2811587756",
       "primary_topic": "governance-and-institutions",

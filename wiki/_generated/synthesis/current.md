@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-29
-as_of_overview_commit: 79a40553ff5495cfb3699a989e531cd09e8efebb
-summary: "Current synthesis centers on implementation: governed AI workflows, demand proof, institutional controls, late-Han legitimacy, medical boundaries, culture, and human judgment."
-episode_count: 1651
-source_count: 1651
-paragraph_count: 348
+as_of_overview_commit: 53e18f915bff00bc2e9eafebb6d8b2db24906078
+summary: "Current synthesis centers on implementation: governed AI workflows, demand proof, institutional controls, late-Han pacification, medical boundaries, culture, and human judgment."
+episode_count: 1652
+source_count: 1652
+paragraph_count: 349
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture and media use fiction, classical texts, devices, games, sport, brands, a
 
 ### Governance and Institutions
 
-Governance works through enforceable defaults, audits, permits, offices, privacy workflows, markets, palace channels, and responsibility boundaries; Hanji 824 extends the late-Han fragility branch back to Emperor Shun's final-year succession-security layer.
+Governance works through enforceable defaults, audits, permits, offices, privacy workflows, markets, palace channels, and responsibility boundaries; Hanji 823-824 extend the late-Han branch through Shun-era pacification and succession-security fragility.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
