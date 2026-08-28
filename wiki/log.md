@@ -13069,3 +13069,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-28] ingest | Essentials: The Science & Treatment of Bipolar Disorder
 
 Ingested the Huberman Lab Essentials episode on bipolar disorder as a serious psychiatric condition. Created the source note, John Cade, Bipolar Disorder, Bipolar Mania-Hypomania Spectrum, Lithium Bipolar Treatment, Bipolar Interoception Decline, Integrated Bipolar Care, ECT Bipolar Depression Boundary, and Bipolar Creativity Correlation pages; updated Huberman Lab, Andrew Huberman, Psychiatric Medication Supervision Boundary, index, and overview. No settled contradiction found; the source strengthens existing medical-supervision boundaries and keeps lifestyle, supplement, ECT, and creativity claims source-scoped.
+
+## [2026-08-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
