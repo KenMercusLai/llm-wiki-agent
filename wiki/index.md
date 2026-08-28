@@ -45,6 +45,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？](sources/kafeidou-meishi-hanbao-zhaji-zhadui-laihua-kuaican-pinpai-weishenme-you-dingshang-zhongguo-shichang-1009244406.md) — 声动早咖啡 coffee-bean episode on Five Guys queues, U.S. fast-food brands' China expansion, local franchise partners, mall first-store traffic, and premium fast-food repeat-purchase risk.
 - [Selling Before Building: $1M ARR in Six Months](sources/selling-before-building-1m-arr-in-six-months.md) — The SaaS Podcast episode with Julius Kurfgen on Uplane, selling before building, one-week demo sprints, managed-service AI marketing automation, performance-linked ad-spend pricing, and atomic content guardrails.
 - [689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)](sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702.md) — The Rest Is History episode on Crown Prince Rudolf's Habsburg formation, Austria-Hungary's dual-monarchy strains, fin-de-siecle Vienna, and Mary Vetsera's first access to Rudolf.
+- [How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel](sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002.md) — Huberman Lab episode with Alan Castel on reconstructive memory, active retrieval, desirable difficulty, eyewitness contamination, prospective memory, cognitive aging, and successful aging.
 - [Essentials: The Science & Treatment of Bipolar Disorder](sources/essentials-the-science-treatment-of-bipolar-disorder-scim8821948371.md) — Huberman Lab Essentials episode on bipolar I and II, mania, hypomania, lithium, interoception, therapy, ECT, lifestyle supports, supplements, and creativity correlation.
 - [Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood](sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551.md) — Huberman Lab episode with Tommy Wood on adult neuroplasticity, multimodal learning, flow versus clutch states, exercise-specific brain adaptation, nutrient sufficiency, dementia prevention, and concussion recovery.
 - [VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南](sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy.md) — 这病说来话长 episode with 阿汤 and 北医三院 sports-medicine doctors on safe exercise, progressive load, joint-protective strength, running, cycling, tennis, HYROX, braces, stretching, joint popping, and warning signs.
@@ -1758,6 +1759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Elisabeth Marie of Austria](entities/ElisabethMarieOfAustria.md) — Rudolf and Stephanie's daughter, named as the later Red Archduchess and as a dynastic child who does not resolve the male-heir problem.
 - [Georg von Schonerer](entities/GeorgVonSchonerer.md) — Pan-German nationalist and extremist antisemite used as Rudolf's political counterpoint in late-Habsburg Vienna.
 - [Tommy Wood](entities/TommyWood.md) — Huberman Lab guest explaining adult neuroplasticity, learning challenge, exercise, nutrient sufficiency, dementia prevention, concussion recovery, and strongman training.
+- [Alan Castel](entities/AlanCastel.md) — Huberman Lab guest explaining reconstructive memory, retrieval practice, eyewitness error, prospective memory, and cognitive aging.
 - [Better Brain](entities/BetterBrain.md) — Brain-health organization named as Tommy Wood's chief-science-officer context in the Huberman Lab episode.
 - [BrainHQ](entities/BrainHQ.md) — Processing-speed-oriented brain-training platform discussed in Wood's cognitive-aging and dementia-prevention branch.
 - [Maintain Your Brain Trial](entities/MaintainYourBrainTrial.md) — Australian multidomain dementia-prevention intervention combining diet, activity, behavioral therapy, and online brain training in Wood's summary.
@@ -9961,7 +9963,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Psychedelic Ordinary Freedom](concepts/PsychedelicOrdinaryFreedom.md) — Psychedelic-integration frame where peak states can reveal possibilities but the lasting target is ordinary waking freedom.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition, and social connection support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using ambient outdoor light soon after waking to help set circadian timing, daytime alertness, mood, and later sleep.
-- [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, mistakes, correction, and later rest or sleep strengthen memory access.
+- [Self-Testing Memory Practice](concepts/SelfTestingMemoryPractice.md) — Learning method where effortful recall, active noticing, mistakes, correction, and later rest or sleep strengthen memory access.
+- [Reconstructive Memory](concepts/ReconstructiveMemory.md) — Memory model where recall rebuilds past experience from traces, context, schemas, attention, and later information rather than replaying a perfect record.
+- [Prospective Memory](concepts/ProspectiveMemory.md) — Future-action memory problem where intentions must survive distraction, routine, stress, and changed context.
+- [Cognitive Aging](concepts/CognitiveAging.md) — Uneven change in memory, attention, learning, judgment, emotion, purpose, and daily function across later life.
+- [Successful Aging](concepts/SuccessfulAging.md) — Practical aging frame built around attitude, adaptation, balance, connection, purpose, movement, and meaningful challenge.
 - [Olfactory Training](concepts/OlfactoryTraining.md) — Repeated attentive exposure to safe odors as a smell-training and sensory-recovery practice.
 - [Fertility Energy Availability](concepts/FertilityEnergyAvailability.md) — Fertility frame linking adequate calories, body composition, resistance training, nutrition, and hormone-intervention boundaries.
 - [Perioperative Circadian Recovery](concepts/PerioperativeCircadianRecovery.md) — Surgery preparation and recovery frame using fitness, sleep, daylight, darkness, and gradual rebuilding.
@@ -10174,7 +10180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apathy Action Initiation](concepts/ApathyActionInitiation.md) — Apathy frame where desire or enjoyment may remain while voluntary initiation fails without prompting.
 - [Dopamine Inverted U](concepts/DopamineInvertedU.md) — Performance-boundary claim that dopamine or stimulant boosts may help low or medium baselines but impair high baselines.
 - [Attention Capacity Selection](concepts/AttentionCapacitySelection.md) — Attention frame for limited-capacity selection among stimuli, goals, internal thoughts, working-memory load, and distraction.
-- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved daily function despite pathology or risk, shaped by health, engagement, and illness-prevention inputs.
+- [Cognitive Resilience](concepts/CognitiveResilience.md) — Aging and dementia frame for preserved daily function despite pathology or risk, shaped by health, engagement, purpose, connection, and illness-prevention inputs.
 - [Self-Concept Plasticity](concepts/SelfConceptPlasticity.md) — Selfhood frame where biology, memory, attention, roles, and repeated behavior can change identity experience.
 - [Predictive World-Model Anxiety / 预测世界模型焦虑](concepts/PredictiveWorldModelAnxiety.md) — Claim that the brain's simulation capacity enables planning while replaying possible harms as present anxiety.
 - [Mentalizing Projection / 心智化投射](concepts/MentalizingProjection.md) — Social-cognition mechanism where models of other minds borrow from one's own experience, fear, and desire.
@@ -11921,7 +11927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Build vs. Borrow Product Strategy](concepts/BuildVsBorrowProductStrategy.md) — Engineering/product discipline of deciding what must be invented and what should be assembled from existing parts.
 - [Brooks's Law](concepts/BrooksLaw.md) — Project-management warning that adding people to a late or unclear project can increase coordination cost and delay it further.
 - [Additive Bias](concepts/AdditiveBias.md) — Decision tendency to improve by adding more rather than cutting, narrowing, or stopping.
-- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, and reachable adaptation.
+- [Desirable Difficulty](concepts/DesirableDifficulty.md) — Constraint and learning frame where calibrated difficulty preserves focus, tradeoffs, active recall, correction, feedback, and reachable adaptation.
 - [Skimpflation](concepts/Skimpflation.md) — Quality-degradation response to inflation where familiar products keep their surface identity while ingredients, service, or standards quietly weaken.
 - [Chocolate Compound](concepts/ChocolateCompound.md) — Chocolate-like coating that can use chocolate ingredients without meeting legal milk-chocolate standards.
 - [Chocolate Label Standards](concepts/ChocolateLabelStandards.md) — Food-label rules that make distinctions such as milk chocolate, chocolate candy, and peanut butter cream economically meaningful.
@@ -14030,7 +14036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Garage Dragon Test](concepts/GarageDragonTest.md) — Sagan-derived test for whether an unfalsifiable claim makes any detectable difference.
 - [Occam's Razor](concepts/OccamsRazor.md) — Anti-conspiracy reasoning tool that resists unnecessary hidden agents and explanations after observations are checked.
 - [Evidence Over Testimony](concepts/EvidenceOverTestimony.md) — Episode 185 rule of thumb for weighting physical evidence above sincere but fallible human testimony in extraordinary claims.
-- [Memory Contamination Risk](concepts/MemoryContaminationRisk.md) — Risk that suggestion, hypnosis, fear, or cultural templates can alter remembered experience.
+- [Memory Contamination Risk](concepts/MemoryContaminationRisk.md) — Risk that labels, suggestion, hypnosis, fear, lineup identification, or cultural templates can alter remembered experience.
 - [Alien Abduction Narrative](concepts/AlienAbductionNarrative.md) — Modern alien-taking stories read as descendants of older demon, witchcraft, sexual-fear, and reproduction-anxiety narratives.
 - [Crop Circle Debunking](concepts/CropCircleDebunking.md) — Case showing why factual correction can fail socially even after confession and demonstration.
 - [Pseudoscience Fraud Vulnerability](concepts/PseudoscienceFraudVulnerability.md) — Emotional and social conditions that let false healing, qigong, miracle, and paranormal claims persuade people.

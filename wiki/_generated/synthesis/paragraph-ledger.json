@@ -351,12 +351,13 @@
       "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
       "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
-      "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
+      "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf",
+      "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401"
     ],
-    "paragraph_count": 351
+    "paragraph_count": 352
   },
-  "overview_commit": "9efd64d91fdd5185b0c595db3fae2c1e79ccc4f1",
-  "overview_digest": "6e20cb69688faa00c3430a908fe74c5fb97f26746b0937d0e26487e7553e6814",
+  "overview_commit": "5bde19bc47ed09ceda19463d0eb804f709603159",
+  "overview_digest": "ed45ccc7d87d8d5b6d03740982252e971d5c75f08185db7ee564fe5e78be7a35",
   "paragraphs": [
     {
       "id": "ba4b6e07bbc858f1190ceb97b96c4010a664e743420b13749fad4f031bf94171",
@@ -10897,6 +10898,29 @@
         "YinLaoshiZheBing",
         "ZheBingShuoLaiHuaChang",
         "vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec"
+      ]
+    },
+    {
+      "id": "6dd2244cfd82de8e2076d8e2587203e47d3343702b97f83715d88073f28b3401",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002|How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel]], a [[HubermanLab]] episode with [[AndrewHuberman]] and [[AlanCastel]] on memory, learning, and later-life cognition. It adds [[AlanCastel]], [[ReconstructiveMemory]], [[ProspectiveMemory]], [[CognitiveAging]], and [[SuccessfulAging]], while extending [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[MemoryContaminationRisk]], and [[CognitiveResilience]]. Its core synthesis is that memory is selective and reconstructive: passive exposure is weaker than active noticing, recall attempts, errors, curiosity, and corrective feedback; future-action memory needs cues and rehearsal; eyewitness confidence can be contaminated; and aging mixes real memory risks with selectivity, resilience, purpose, balance, connection, and wisdom. No settled contradiction is recorded; the raw title/body name-spelling tension between Castel and Castell is preserved as source-scoped.",
+      "topic_scores": {
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AlanCastel",
+        "AndrewHuberman",
+        "CognitiveAging",
+        "CognitiveResilience",
+        "DesirableDifficulty",
+        "HubermanLab",
+        "MemoryContaminationRisk",
+        "ProspectiveMemory",
+        "ReconstructiveMemory",
+        "SelfTestingMemoryPractice",
+        "SuccessfulAging",
+        "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002"
       ]
     }
   ],

@@ -13252,3 +13252,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-29] ingest | How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel
+
+Ingested the Huberman Lab episode with Alan Castel on reconstructive memory, active retrieval, desirable difficulty, eyewitness contamination, prospective memory, cognitive aging, and successful aging. Created the source note, Alan Castel, Reconstructive Memory, Prospective Memory, Cognitive Aging, and Successful Aging pages; updated Self-Testing Memory Practice, Desirable Difficulty, Memory Contamination Risk, Cognitive Resilience, index, and overview. No settled contradiction found; the raw source's Castel/Castell spelling tension, dementia/pathology examples, walking/balance claims, AI self-testing, and older-adult fraud discussion remain source-scoped.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
