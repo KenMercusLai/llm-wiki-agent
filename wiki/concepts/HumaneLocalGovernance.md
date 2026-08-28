@@ -6,17 +6,20 @@ sources:
   - zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd
   - zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v
   - zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq
+  - zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-Humane local governance / 仁厚地方治理 is the administrative pattern where an official relies on calm conduct, light punishment, moral instruction, and everyday trust-building rather than fear or bodily coercion as the first instrument of local order.
+Humane local governance / 仁厚地方治理 is the administrative pattern where an official relies on reduced burdens, restrained subordinates, calm conduct, light punishment, moral instruction, and everyday trust-building rather than fear or bodily coercion as the first instrument of local order.
 
 ## Current Synthesis
 
-The evidence now has three variants. Hanji 870 grounds the concept through [[LiuKuanLateHan|刘宽]], a commandery official whose style is deliberately mild: he does not shout at subordinates, uses a reed whip so punishment creates shame rather than bodily injury, and adapts instruction to local audiences by encouraging farming, filial piety, sibling affection, and study.
+The evidence now has four variants. [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] grounds the burden-reduction variant through [[LiuChongLateHanMinister|刘宠]] in [[KuaijiCommandery|会稽郡]]: he reduces taxes and levies, restrains subordinate officials, leaves the local population quiet, and refuses to convert popular gratitude into private wealth when elders offer farewell money.
+
+Hanji 870 grounds the temperament-and-punishment variant through [[LiuKuanLateHan|刘宽]], a commandery official whose style is deliberately mild: he does not shout at subordinates, uses a reed whip so punishment creates shame rather than bodily injury, and adapts instruction to local audiences by encouraging farming, filial piety, sibling affection, and study.
 
 Hanji 868 gives a correction-from-harshness variant through [[WangChangShumaoLateHan|王畅]] and [[ZhangChangNanyangLateHan|张厂]]. Wang Chang begins by harshly attacking powerful households in [[NanyangCommandery|南阳郡]], but Zhang Chang persuades him that fear-heavy suppression is not enough for a symbolically important imperial region. The governing center shifts toward德化, trust, and the ruler's own conduct without denying that officials still need enforcement capacity.
 
@@ -25,15 +28,17 @@ Hanji 862 supplies the clearest non-punitive transformation case through [[QiuXi
 ## Key Claims
 
 - Humane local governance treats official temperament as part of administrative capacity.
+- Burden reduction and restraint of subordinate officials can create order before punishment is needed.
 - It starts with diagnosis: officials distinguish bad nature, bad conduct, and insufficient teaching before choosing punishment.
 - Punishment can be designed to signal shame and correction without maximizing bodily pain.
 - Local order can be built through repeated moral instruction to families, elders, youth, and ordinary residents.
 - Leniency is not the same as non-enforcement; Liu Kuan still marks wrongdoing and Qiu Xiang still corrects conduct.
-- Non-punitive transformation can be recognized as stronger than severity when it repairs conduct and relationships.
-- The pattern depends on local trust and may not transfer unchanged to acute rebellion or frontier war.
+- Non-punitive transformation can be recognized as stronger than severity when it repairs conduct, relationships, and trust.
 
 ## Evidence
 
+- Burden reduction and official restraint: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Liu Chong governs Kuaiji by reducing taxes and levies and preventing subordinate officials from disturbing the people.
+- Gratitude without extraction: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Liu Chong accepts only a symbolic coin from each elder at departure, preserving trust without turning public affection into private gain.
 - Diagnosis before punishment: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] has Qiu Xiang distinguish between bad nature, bad conduct, and lack of teaching before deciding how to respond to Chen Yuan.
 - Household transformation: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] presents Qiu Xiang as correcting Chen Yuan through instruction rather than punishment and producing filial repair.
 - Moral-recognition test: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Guo Tai treats Qiu Xiang with reverence after seeing the outcome.
@@ -45,16 +50,18 @@ Hanji 862 supplies the clearest non-punitive transformation case through [[QiuXi
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in three short source notes. It should not be used as proof that mild governance solves every disorder, and it should not be merged with frontier pacification or rebellion response without additional evidence. The stable claim is narrower: local official style can make diagnosis, punishment, and teaching part of everyday administrative legitimacy, and coercive capacity should be governed by proportionality and trust rather than display.
+The concept is grounded in short source notes. It should not be used as proof that mild governance solves every disorder, and it should not be merged with frontier pacification or rebellion response without additional evidence. Hanji 855's Liu Chong case is ordinary local administration, not a claim that tax reduction alone resolves acute war. The stable claim is narrower: local official style can make burden policy, diagnosis, punishment, and teaching part of everyday administrative legitimacy, and coercive capacity should be governed by proportionality and trust rather than display.
 
 ## What Changed
 
-- Hanji 862 adds Qiu Xiang's non-punitive correction of Chen Yuan as a diagnosis-and-transformation case.
-- Hanji 868 adds Wang Chang's Nanyang reversal as a correction-from-harshness variant of humane local governance.
-- Created the concept from Hanji 870's Liu Kuan governance portrait.
+- Added Liu Chong's Kuaiji governance as a burden-reduction and official-restraint variant.
+- Broadened the concept from temperament, punishment, and instruction to include fiscal burden reduction and subordinate-official discipline.
+- Clarified that Liu Chong's farewell-money refusal preserves trust without turning public gratitude into private gain.
 
 ## Related Concepts
 
+- [[LiuChongLateHanMinister|刘宠]] - Kuaiji official whose burden reduction and refusal of farewell wealth exemplify local trust-building.
+- [[KuaijiCommandery|会稽郡]] - local arena where reduced exaction and official restraint produce public attachment.
 - [[QiuXiangLateHan|仇香]] - local official whose handling of Chen Yuan exemplifies non-punitive transformation.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - broader frame where popular trust becomes a practical safety asset.
 - [[RootCausePacification|查因安抚式治理]] - related crisis-governance pattern that asks why disorder arose before choosing force or relief.
