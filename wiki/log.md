@@ -12685,6 +12685,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度
+
+Ingested Hanji 845 as the 159 CE pre-coup Liang Ying and imperial marriage-inspection layer. Created the source note, Empress Liang Ying, and Imperial Marriage Inspection pages; updated Emperor Huan, Liang Ji, Outer-Relative Court Power, Relationship Selection Agency, index, and overview. No settled contradiction found; the modern survey and "first recorded inspected empress" claim are source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始
 
 Ingested Hanji 847 as the 159 CE household, harem-placement, Xuan-trigger, and secret anti-Liang oath layer before Hanji 848. Created source note, Xuan, Bing Zun, and Relationship Selection Agency pages; updated Emperor Huan, Liang Ji, Sun Shou, Empress Deng, Tang Heng, Shan Chao, Five Marquises, Palace Proximity Power, Palace Coup Symbol Control, and Outer-Relative Court Power.
