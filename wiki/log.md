@@ -12781,6 +12781,10 @@ Added source page for a 这病说来话长 episode with 阿汤 and 岳宛柔 on 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-28] ingest | 咖啡豆｜美式汉堡炸鸡扎堆来华，快餐品牌为什么又盯上中国市场？
+
+Added source page for a 声动早咖啡 coffee-bean episode on Five Guys Beijing queues and the renewed China push by U.S. fast-food brands. Created Shake Shack, Wendy's, Popeyes, Texas Chicken / Church's Chicken, Langxing Dingsheng, and U.S. Fast-Food China Expansion pages; updated Five Guys, China Burger Expansion, Shopping-Center Restaurantization, overview, and index. No settled contradiction found; store targets, price figures, sales-pressure claims, and short AI-market claims remain source-scoped.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》866丨真正活明白的人，懂得“三不沾”
 
 Added source page for a 165 CE Huan-era backfill on Yang Yuanqun's bribery reversal against Li Ying, Feng Gun and Liu You's punishment after enforcing against eunuch-linked actors, Yang Bing's clean-office "three refusals," Liu Yu's anti-eunuch/root-cause memorial, and the Zhu Gai-Hu Lan rebellion prelude. Created Yang Yuanqun, Feng Gun, Liu You, Yang Bing (late Han), Zhou Jing, and Three-Refusals Integrity pages; updated Li Ying, Liu Yu, Zhu Gai, Hu Lan, Guan Ba, Su Kang, Eunuch Patronage Violence Shield, Root-Cause Pacification, overview, and index. No settled contradiction found; transcript variants are normalized to late-Han routes.
