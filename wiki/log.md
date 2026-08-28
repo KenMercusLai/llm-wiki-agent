@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-08-28] ingest | 《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上
+
+Added source page for Hanji 838: Liang Ji's 151 CE reward expansion and dissatisfaction, Huang Qiong's partial restraint, Wang Jing's rumor-driven Khotan intervention, Shubo's failed self-enthronement, and Anguo's installation. Created Wang Jing (Western Regions), Jumi Kingdom, King Chengguo, Khotan Kingdom, King Jian, Shubo (Khotan), Anguo, Rumor-Driven Frontier Intervention, and Unbounded Elite Reward Demand pages; updated Liang Ji, Huang Qiong, Emperor Huan, Outer-Relative Court Power, overview, and index. No settled contradiction found; Shubo is disambiguated from the existing AI-founder page.
+
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？
 
 Added source page for Hanji 843: Liu Tao's Taixue memorial rejecting coin-weight reform as a solution to peasant poverty, Zhu Da's corruption-triggered rebellion, Chen Shou/Taishi ling's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier cleanup, official replacement, and Bingzhou/Liangzhou remission program. Created Zhu Da, Chen Shou (Taishi ling), and Agrarian Livelihood Before Currency Reform pages; updated Liu Tao, Chen Gui, Retaliatory Political Terror, overview, and index. No settled contradiction found; the source backfills the 157-158 CE Huan-era layer before Hanji 844 and keeps the Taishi-ling Chen Shou distinct from the Three Kingdoms historian.
