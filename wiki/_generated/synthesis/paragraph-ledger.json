@@ -349,12 +349,13 @@
       "d589a53c87e197a55033f79a64a0ec3a258b8cbc050ee0e70dcc6388df48a243",
       "d1f646e5bf1b4d8ffacc0ab20b061981669bb0224547423965eb90e6e064e966",
       "b7fe88c4a3ea92e3484da7ba393768450cea0ebc036e6acdec39ec881741cf34",
+      "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
       "082a8129ce267d83fa695011e4d1d9ec611a2911fab24932213544b548f520cf"
     ],
-    "paragraph_count": 349
+    "paragraph_count": 350
   },
-  "overview_commit": "53e18f915bff00bc2e9eafebb6d8b2db24906078",
-  "overview_digest": "a923f2e2c51d546c9c0d8990a9f588e935c378940ff56cce611231652dbbbd18",
+  "overview_commit": "4b66b80d0a26a025e3159a28129d68bef40c6039",
+  "overview_digest": "c130e23c548a147ec065f206029721ac0a7f8a189cfc87d8ca1d5cb00023e160",
   "paragraphs": [
     {
       "id": "c321ac52ef2edf748cf684bd1bd8dd6992019c95a79af8c9c795f0aaecffc5e8",
@@ -10809,6 +10810,30 @@
         "ProductionVibeCoding",
         "TechnicalLeadershipForTechnologyCompanies",
         "VibeCoding"
+      ]
+    },
+    {
+      "id": "feea2d50d210e6102662cda44c927b2f7b25d4a9c1910663ab0bf085b4a54550",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy|VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and sports-medicine doctors from [[PekingUniversityThirdHospital|北医三院]], including [[LiuZimingSportsMedicine|刘子明]], on safe exercise for sedentary workers and weekend athletes. It adds [[ExerciseLoadManagement]], [[StrengthTrainingJointProtection]], [[ExerciseAssistiveGearBoundary]], [[StretchingMobilitySafety]], [[JointSymptomEscalation]], [[LiuZimingSportsMedicine]], and [[PekingUniversityThirdHospital]], while extending [[Atang]], [[ZheBingShuoLaiHuaChang]], and [[HYROX]]. Its core synthesis is that exercise becomes protective only when load, muscle capacity, technique, recovery, and warning signs stay aligned: running, cycling, tennis, swimming, gym work, and HYROX each need gradual progression, while braces, tape, exoskeletons, and stretching remain aids rather than substitutes for strength or clinical judgment. No settled contradiction is recorded; training structure, pain diagnosis, support-device use, and injury treatment remain source-scoped public education rather than individualized rehabilitation advice.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Atang",
+        "ExerciseAssistiveGearBoundary",
+        "ExerciseLoadManagement",
+        "HYROX",
+        "JointSymptomEscalation",
+        "LiuZimingSportsMedicine",
+        "PekingUniversityThirdHospital",
+        "StrengthTrainingJointProtection",
+        "StretchingMobilitySafety",
+        "ZheBingShuoLaiHuaChang",
+        "vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy"
       ]
     },
     {

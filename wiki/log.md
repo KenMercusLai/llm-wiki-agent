@@ -13141,6 +13141,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南
+
+Ingested the 这病说来话长 episode on safe exercise for sedentary workers and weekend athletes, including progressive load management, muscle strength for joint protection, running, swimming, cycling, tennis, HYROX, braces, kinesiology tape, exoskeleton devices, stretching, joint popping, knee valgus, and warning signs such as pain, swelling, locking, or acute injury. Created the source note, 刘子明 sports-medicine doctor, Peking University Third Hospital, Exercise Load Management, Strength Training for Joint Protection, Exercise Assistive Gear Boundary, Stretching and Mobility Safety, and Joint Symptom Escalation pages; updated 这病说来话长, 阿汤, HYROX, index, and overview. No settled contradiction found; training structure, support-device use, pain diagnosis, and injury treatment remain source-scoped public education rather than individualized rehabilitation advice.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》823丨兵不血刃收贼寇，他如何做到的？
 
 Ingested the 芮淇讲透资治通鉴 episode on Zhang Gang's 142 CE Guangling pacification of Zhang Ying, grievance-aware surrender negotiation, post-surrender housing/land/office settlement, Ren Jun's Luoyang staffing and deterrence profile, Su Zhang's public-law prosecution of a corrupt old friend, Wu You's humane handling of Sun Xing's confession, and the closing Qiang/personnel notices. Created the source note, Ren Jun (Luoyang), and Su Zhang pages; updated Zhang Gang, Zhang Ying (Guangling), Wu You, Humane Local Governance, Root-Cause Pacification, index, overview, and downstream synthesis. No settled contradiction found; transcript forms 张刚, 张英, 广邻, 梁继, 任郡, 济州刺史, 吴佑, and 孙杏 are normalized to 张纲, 张婴, 广陵, 梁冀, 任峻, 冀州刺史, 吴祐, and 孙性, while Sun Xing, exact descendant-office wording, Huan Yan, Liu Shou, Zhao Jun, Zhang Qiao's garrison, and Qiang group names remain source-scoped.
