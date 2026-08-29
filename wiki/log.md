@@ -13145,6 +13145,10 @@ Ingested the Marketplace Tech episode on Meta's proposed teen-safety settlement,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-29] ingest | 《资治通鉴·汉纪》817丨看似软弱的人，实则活得更通透
+
+Ingested the 芮淇讲透资治通鉴 episode on 135-136 CE Emperor Shun, eunuch adopted-son title inheritance, Zhang Gang's ignored protest, Liang Shang's Grand General appointment, Li Gu's unadopted reform counsel, Ma Xian's earlier Qiang-front success, and prudent non-action under court power balance. Created the source note; updated Emperor Shun, Liang Shang, Li Gu, Zhang Gang, Ma Xian, Prudent Ambiguity Self-Protection, index, and overview. No settled contradiction found; Liang Shang's inner motive, Pang Can, Huan Yan, Yang Lun, Geng Ye, Huyan Wang, Yunzhong, Lanchi, the eunuch adopted-son statute, and exact disaster/omen dates remain source-scoped.
+
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》819丨2人功比4万人，他的权谋令人拍案叫绝！
 
 Ingested the 芮淇讲透资治通鉴 episode on 138 CE Li Gu rejecting a 40,000-soldier Jiaozhi expedition, recommending Zhang Qiao and Zhu Liang, using temporary Rinan retrenchment and reward-backed surrender strategy, and extending Shun-era recommendation accountability through Zhou Ju, Zuo Xiong, and Liang He. Created the source note plus Zhang Qiao, Zhu Liang, Zuo Xiong, and Temporary Frontier Retrenchment pages; updated Li Gu, Emperor Shun, Zhou Ju, Jiaozhi Commandery, Appointment Quality as State Capacity, Bounty-Mobilized Pacification, Frontier Conscription Backfire, index, and overview. No settled contradiction found; transcript forms 交治/交植, 九征, 宾州刺史, and uncertain minor actors remain normalized cautiously or source-scoped.
