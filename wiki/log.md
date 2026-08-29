@@ -13424,3 +13424,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》808丨他究竟是名家还是骗子？
 
 Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated office refusal, Sima Guang's reclusion-authenticity judgment, and ruler self-examination in talent recruitment. Created the source note plus `FanYingLateHan`, `ReclusionAuthenticityAssessment`, and `TalentSummonsRulerSelfExamination`; updated `EmperorShunOfHan`, `ScholarOfficialPublicDuty`, `index`, `overview`, and the Hanji 809 source note. No settled contradiction found; the source's Shun/Yongjian chronology and occasional Emperor An wording are preserved as source-scoped label tension, while Wang Yi and Zhang Kai remain source-scoped due name-collision risk.
+
+## [2026-08-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
