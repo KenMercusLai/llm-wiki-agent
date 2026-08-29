@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi
   - zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0
   - zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7
+  - zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u
 last_updated: 2026-08-30
 ---
 
@@ -19,7 +20,9 @@ Regency under compound crisis is a governance pattern in which a non-ruling empe
 
 ## Current Synthesis
 
-The current evidence centers on [[EmpressDowagerDengLateHan|Empress Dowager Deng]] across the pre-121 CE transition. Hanji 786 now pushes the synthesis back to 110-114 CE: the regency faces pirates, Hanyang/Shanggui rebellion, Qiang-war cost, locusts, drought, landslide, office turnover, and a 112 CE edict restraining fire-warmed and dug-sprouting off-season fresh foods for tomb, temple, and palace offerings. This layer makes [[SeasonalRitualConsumptionRestraint|seasonal ritual consumption restraint]] part of crisis governance rather than a side anecdote.
+The current evidence centers on [[EmpressDowagerDengLateHan|Empress Dowager Deng]] across the pre-121 CE transition. Hanji 785 now pushes the synthesis back to 110-111 CE: the regency faces fires, earthquakes, floods, locusts, [[ZhangBailuLateHan|Zhang Bailu]]'s coastal rebellion, Xianling Qiang pressure, destructive forced relocation, and the death of Deng's mother at the same time that [[DengFamilyAnEraLateHan|Deng-family]] officeholding must be publicly managed. [[BanZhaoLateHan|Ban Zhao]] advises accepting the Deng brothers' mourning withdrawal as a non-monopoly signal, while Deng later preserves consultation through fengchaoqing. [[FaXiongLateHan|Fa Xiong]] adds a local pacification branch, showing that amnesty timing and command synchronization also belong inside the regency's crisis field.
+
+Hanji 786 then extends the early layer through 110-114 CE: pirates are eventually suppressed in Donglai, Hanyang/Shanggui rebellion connects to Qiang forces, Qiang-war cost accumulates, locusts, drought, landslide, and office turnover continue, and a 112 CE edict restrains fire-warmed and dug-sprouting off-season fresh foods for tomb, temple, and palace offerings. This layer makes [[SeasonalRitualConsumptionRestraint|seasonal ritual consumption restraint]] part of crisis governance rather than a side anecdote.
 
 Hanji 788 then makes the crisis visible through appointment and honor management before the better-developed forced-relocation and transfer-risk layers: Deng recognizes [[YuXuEasternHan|Yu Xu]] as a commander and sends him to [[WuduCommanderyLateHan|Wudu]], the court accepts his light-cavalry advice through [[RenShangLateHan|Ren Shang]], and the same source records earthquakes, Wuling unrest, office turnover, and restrained handling of [[DengHongLateHan|Deng Hong]]'s posthumous honors.
 
@@ -32,15 +35,16 @@ Hanji 793 makes the retrospective judgment mixed rather than binary. Deng is cre
 ## Key Claims
 
 - A regency's legitimacy is judged by crisis performance as well as formal authority, gender, or kinship position.
-- Frontier, fiscal, disaster, ritual-consumption, personnel, and family-honor pressures compound each other rather than remaining separate policy boxes.
+- Frontier, fiscal, disaster, rebellion, ritual-consumption, personnel, mourning, and family-honor pressures compound each other rather than remaining separate policy boxes.
 - Personal austerity and restraint matter only when priced beside policy outcomes, including relief, appointments, frontier costs, and family-power concentration.
-- Capable appointments and ritual restraint can coexist with frontier-policy failure; the fresh-food edict and Yu Xu's Wudu success do not erase Qiang-war cost, forced-relocation backfire, or Western Regions underimplementation.
+- Capable appointments, amnesty pacing, and ritual restraint can coexist with frontier-policy failure; Fa Xiong's partial pacification, the fresh-food edict, and Yu Xu's Wudu success do not erase Qiang-war cost, forced-relocation backfire, or Western Regions underimplementation.
 - Internal warning from the regent's own family can reveal transfer risk before the regency formally ends.
 - A regency can be domestically serious and still suffer major legitimacy loss from frontier failure, coerced population policy, and delayed power transfer.
 
 ## Evidence
 
-- Earliest compound layer: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the seasonal fresh-food edict, locusts, drought, landslide, Liu Kai's office appointment, Hanyang/Shanggui rebellion, Anding Qiang operations, and Han-Qiang war cost.
+- Earliest compound layer: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] combines disasters, Zhang Bailu's coastal rebellion, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's Deng-family resignation advice, fengchaoqing retained access, Xianling Qiang pressure, and destructive forced relocation.
+- Seasonal and continued crisis layer: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] combines the seasonal fresh-food edict, locusts, drought, landslide, Liu Kai's office appointment, Hanyang/Shanggui rebellion, Anding Qiang operations, Donglai suppression, and Han-Qiang war cost.
 - Early appointment and honor layer: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] combines Yu Xu's Wudu appointment, Ren Shang's light-cavalry implementation, earthquakes, Wuling unrest, office turnover, and Deng Hong's restrained posthumous settlement.
 - Early compound stress: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] combines Qiang war, forced relocation, Xianbei raids, Yizhou unrest, Yuan Chang's death, and Liu Kai's mourning policy in the 116-117 CE regency field.
 - Frontier and family pressure: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] combines disasters, Qiang-war cost, Deng Zun's reward, Ren Shang's execution, Deng-family education, and Tang Tan's omen refusal.
@@ -49,18 +53,20 @@ Hanji 793 makes the retrospective judgment mixed rather than binary. Deng is cre
 
 ## Counterevidence & Qualifications
 
-The concept should not reduce Deng's regency to failure. The sources preserve real relief, austerity, education, ritual restraint, appointment, and administrative work, and Hanji 788 adds a clear tactical success through Yu Xu. The qualification is that crisis governance must also be priced through coercive frontier implementation, war cost, family-power concentration, transfer risk, and the information channels that make criticism or warnings actionable. Hanji 786's climate-stress explanation remains source-scoped pending follow-up evidence.
+The concept should not reduce Deng's regency to failure. The sources preserve real relief, austerity, education, ritual restraint, appointment, amnesty-pacing judgment, and administrative work, and Hanji 788 adds a clear tactical success through Yu Xu. The qualification is that crisis governance must also be priced through coercive frontier implementation, war cost, family-power concentration, command synchronization failure, transfer risk, and the information channels that make criticism or warnings actionable. Hanji 785's Zhang Bailu/Bolu naming layer and Hanji 786's climate-stress explanation remain source-scoped pending follow-up evidence.
 
 ## What Changed
 
-- Added Hanji 786 as the earliest current layer for seasonal fresh-food restraint, disaster pressure, early Hanyang/Shanggui disorder, Anding Qiang operations, office turnover, and Han-Qiang war cost.
-- Repositioned Hanji 788 as the next layer for Wudu appointment, Yu Xu's cavalry advice, Deng Hong's restrained honor handling, and disaster or office pressure.
-- Expanded the concept beyond disaster, frontier, and transfer risk to include ritual-consumption restraint, family-honor restraint, and capable appointment under crisis.
+- Added Hanji 785 as the earliest current layer for disaster pressure, Zhang Bailu's rebellion, Fa Xiong's amnesty pacing, Deng-family mourning politics, fengchaoqing retained access, and destructive relocation.
+- Repositioned Hanji 786 as the next layer for seasonal fresh-food restraint, early Hanyang/Shanggui disorder, Anding Qiang operations, office turnover, Donglai suppression, and Han-Qiang war cost.
+- Preserved Hanji 788 as the Wudu appointment, Yu Xu cavalry advice, Deng Hong restrained honor handling, and disaster or office pressure layer.
+- Expanded the concept beyond disaster, frontier, and transfer risk to include amnesty timing, command synchronization, family-honor restraint, and capable appointment under crisis.
 - Preserved Hanji 789's coercive relocation and Hanji 792's rejected internal warning as major constraints on the positive Deng-regency record.
 
 ## Related Concepts
 
 - [[CoerciveFrontierRelocationBackfire]] - population-policy failure inside the regency's Qiang response.
+- [[AmnestyTimedPacification]] - rebellion-management branch where Deng-regency policy succeeds only if amnesty and military posture align.
 - [[SeasonalRitualConsumptionRestraint]] - ritual-consumption restraint branch added by the 112 CE fresh-food edict.
 - [[FrontierOfficialAbuseRebellionSpiral]] - broader official-abuse and panic frame for Qiang-war escalation.
 - [[StrategicFrontierAbandonment]] - broader frontier-accounting problem that helps explain the northwest and Western Regions failures.
