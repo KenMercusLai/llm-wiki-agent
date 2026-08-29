@@ -13589,6 +13589,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》780丨最多灾多难的时代：东汉
+
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on Eastern Han disaster pressure, Ban Chao's Western Regions achievement and Deng-era withdrawal, Qiang official-abuse and conscription backlash, Zhongchang Tong's `Changyan` critique of Three Excellencies/Shangshu power mismatch, and Empress Dowager Deng's austerity orders. Created the source note plus `BanChaoEasternHan` and `ZhongchangTongLateHan`; updated `EmpressDowagerDengLateHan`, `RegencyUnderCompoundCrisis`, `StrategicFrontierAbandonment`, `FrontierOfficialAbuseRebellionSpiral`, `FrontierConscriptionBackfire`, `ThreeExcellenciesBlameWithoutAuthority`, `ShangshuTaiImperialAccess`, `index`, and `overview`. No settled contradiction found; dynasty-wide disaster counts, Ma Nu, Xu Fang, Yin Qin, Wang Fu, Cui Shi, and exact Qiang identities remain source-scoped.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶
 
 Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on 106-108 CE Empress Dowager Deng's regency opening, Emperor Shang's infant reign and death, Emperor An's Deng-prepared accession, Zhou Zhang's failed anti-regency coup, refugee reassurance, disaster relief, Fan Zhun's memorial, early Qiang fighting, Xianbei hostage-trade management, and disaster-omen crisis redirection. Created the source note plus `EmperorShangOfHan`, `ZhouZhangLateHan`, `FanZhunLateHan`, and `DisasterOmenCrisisRedirection`; updated `EmpressDowagerDengLateHan`, `EmperorAnOfHan`, `DengFamilyAnEraLateHan`, `RegencyUnderCompoundCrisis`, `BoundarylessKindnessTrap`, `index`, and `overview`. No settled contradiction found; Liu Sheng, Zheng Zhong, Cai Lun, Zhang Yu, Zhang Min, Yanliyang, Liang Jin, Lu Cang, prison details, and exact disaster notices remain source-scoped.
