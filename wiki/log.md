@@ -13672,3 +13672,11 @@ Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-111 CE Deng-rege
 ## [2026-08-30] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》784丨东汉“钓鱼执法”第一人：虞诩
+
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on Yu Xu's Liangzhou-retention argument, elite-hostage proposal, Zhaoge infiltrator and marked-clothing pacification, Southern Xiongnu surrender, and Xianling Qiang pressure. Created the source note plus `ZhaogeCountyLateHan` and `InformationAsymmetricPacification`; updated `YuXuEasternHan`, `DengZhiLateHan`, `PangCanLateHan`, `LiangzhouLateHan`, `StrategicFrontierAbandonment`, `RegencyUnderCompoundCrisis`, `SouthernXiongnu`, `XianlingQiang`, `index`, and `overview`. No settled contradiction found; Ning Ji, the sheep-thief infiltrators, Zheng Qin, Duan Chong, and exact county-level details remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
