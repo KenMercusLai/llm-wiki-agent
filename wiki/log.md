@@ -13585,6 +13585,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan
+
+Ingested the 2026-07-06 Huberman Lab episode with Andrew Huberman and Cesar Millan on dog psychology, calm owner energy, structured walks, greeting and feeding rituals, exercise before affection, puppy selection, barking, spay/neuter context, and end-of-life care. Created the source note plus `CesarMillan` and `CalmAssertiveEnergy`; updated `HubermanLab`, `AndrewHuberman`, `CompanionAnimalHealth`, `AnimalIntelligenceModes`, `index`, and `overview`. No settled contradiction found; Millan's energy, spirituality, pack-position, cold-exposure, and leadership generalizations remain source-scoped practical philosophy rather than veterinary, ethological, clinical, or universal household advice.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》791丨职场上总有人背后阴你？一招应对
 
 Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on the 120 CE Western Regions debate after Northern Xiongnu pressure, Ban Yong's rejection of both Cao Zong's costly expedition and pass-closing abandonment, his Shanshan-forward limited-retention proposal, Empress Dowager Deng's partial Dunhuang-only adoption, and his answer to the impossible frontier guarantee demand. Created the source note plus `AbsoluteGuaranteeTrap`; updated `BanYongLateHan`, `EmpressDowagerDengLateHan`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; Cao Zong, Suo Ban, Qiwu Can, Cui Ju, Mao Zhen, Shanshan king Youhuan, Yumen Pass, Yangguan, Shanshan, Yanqi, Qiuci, and the opening calmness advice remain source-scoped.
