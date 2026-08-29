@@ -13608,3 +13608,11 @@ Ran health, identity validation, and lint. Health passed across 15,988 lint-scan
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？
 
 Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on 118-119 CE Deng-regency crisis pressure, Ren Shang's fatal credit fight with Deng Zun, Deng Zhi's household discipline, Yang Song's Yizhou pacification, and Cao Zong/Suo Ban's Western Regions prelude. Created the source note plus `RenShangLateHan`, `DengZunLateHan`, `DengZhiLateHan`, `YangSongLateHan`, `TangTanLateHan`, `CaoZongLateHan`, `SuoBanLateHan`, and `SuperiorCreditConflictRisk`; updated `MaXianLateHan`, `ZhangQiaoLateHan`, `ShuleKingdom`, `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `RegencyUnderCompoundCrisis`, `YizhouPacificationByLeniency`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; Deng Zun's source spelling, Yang Song's exact character form, and minor Shule succession actors remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
