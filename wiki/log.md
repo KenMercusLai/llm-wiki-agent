@@ -14030,3 +14030,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》752丨失去靠山的人该如何处世？
 
 Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on lost patronage, Liang Guiren's family under Dou jealousy, Ma-family overexposure after Empress Ma, Dou Xian's Qinshui Princess estate seizure and non-punishment, and Zhou Yu's Luoyang enforcement. Created the source note plus `EmpressMaMingdeEasternHan`, `MaLiaoEasternHan`, `MaFamilyZhangEraEasternHan`, `YangZhongEasternHan`, `QinshuiPrincessEasternHan`, `ZhouYuLuoyangEasternHan`, `PatronageLossSelfProtection`, and `KnownMisconductNonPunishment`; updated `EmperorZhangOfHan`, `LiangGuirenHeLateHan`, `EmpressDowagerDouHeLateHan`, `DouXianEasternHan`, `DouDuEasternHan`, `FifthLunEasternHan`, `HouseholdMisconductPoliticalLiability`, `StrategicForbearanceGovernance`, `PowerDesireSelfRestraint`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; transcript-sensitive names are normalized cautiously while Ma Fang, Ma Guang, Ma Yu, Huo Yan, and Liang Song remain source-scoped unless later notes warrant standalone pages.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
