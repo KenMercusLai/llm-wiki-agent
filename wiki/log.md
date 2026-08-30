@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | 《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！
+
+Ingested the 2026-07-02 芮淇讲透资治通鉴 episode backfilling the 93-94 CE Emperor He layer: Cao Bao's Han-rites project being abandoned under Zhang Pu and Zhang Min pressure, Liang King Liu Chang's emperor-making speech case, Guan You's Qiang coalition-splitting campaign against Mi Tang, and An Guo's jealousy-driven failed plot against Shizi in the Southern Xiongnu. Created the source note plus `CaoBaoEasternHan`, `LiuChangLiangKing`, `GuanYouLateHan`, `AnGuoSouthernXiongnu`, `ShiziChanyu`, `HuangfuLengLateHan`, `ZhuHuiHeEraLateHan`, `DuChongProtectorOfXiongnu`, `WeakAuthorityLeadership`, `RoyalUsurpationSpeechTaboo`, and `JealousyAsPoliticalViolence`; updated `ZhangPuEasternHan`, `MiTangQiangLeader`, `CoalitionFractureExploitation`, `EmperorHeOfHan`, `SouthernXiongnu`, `index`, and `overview`. No settled contradiction found; 曹褒 is kept separate from 曹豹, Liang King 刘畅 from modern 刘畅 and Huainan 刘长, and Southern Xiongnu 安国 from Khotan An Guo.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on 94-96 CE Emperor He, Ban Chao's Yanqi campaign, Southern Xiongnu rebellion and An Guo false-report crisis, Chen Chong's tingwei appointment, Huang Xiang's refusal of the Dong Commandery transfer, and the broader claim that proximity to court information and decision makers can outweigh nominal office rank. Created the source note plus `HuangXiangLateHan`, `ChenChongLateHan`, `DengHongHeEraLateHan`, and `PowerCenterProximityAdvantage`; updated `EmperorHeOfHan`, `BanChaoEasternHan`, `YanqiKingdomLateHan`, `SouthernXiongnu`, `ShangshuTaiImperialAccess`, `UnauthorizedFrontierCommandIntervention`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the He-era Deng Hong commander is kept distinct from the existing `DengHongLateHan` page, and minor frontier actors, royal-house notices, exact casualty figures, and modern analogy details remain source-scoped.
