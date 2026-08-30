@@ -13594,6 +13594,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-30] ingest | Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett
+
+Ingested the 2026-07-02 Huberman Lab Essentials episode with Kyle Gillett on male hormone phenotyping, testosterone, SHBG, DHT, IGF-1, lifestyle foundations, exercise load, fertility risk, androgen-support supplements, testosterone therapy, clomiphene, tadalafil, and hair-loss treatment boundaries. Created the source note plus `KyleGillett`, `MaleHormoneHealthPhenotyping`, `AndrogenInterventionClinicalBoundary`, and `AndrogenSupportSupplementBoundary`; updated `HubermanLab`, `AndrewHuberman`, `SustainableHealthOptimization`, `FertilityEnergyAvailability`, `ExerciseLoadManagement`, `ContextDependentBiomedicalInterventions`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; supplement, testosterone-therapy, clomiphene, tadalafil, topical hair-loss, alcohol, and dosing claims remain source-scoped public education rather than individualized medical advice.
+
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！
 
 Ingested the 2026-07-02 芮淇讲透资治通鉴 episode backfilling the 93-94 CE Emperor He layer: Cao Bao's Han-rites project being abandoned under Zhang Pu and Zhang Min pressure, Liang King Liu Chang's emperor-making speech case, Guan You's Qiang coalition-splitting campaign against Mi Tang, and An Guo's jealousy-driven failed plot against Shizi in the Southern Xiongnu. Created the source note plus `CaoBaoEasternHan`, `LiuChangLiangKing`, `GuanYouLateHan`, `AnGuoSouthernXiongnu`, `ShiziChanyu`, `HuangfuLengLateHan`, `ZhuHuiHeEraLateHan`, `DuChongProtectorOfXiongnu`, `WeakAuthorityLeadership`, `RoyalUsurpationSpeechTaboo`, and `JealousyAsPoliticalViolence`; updated `ZhangPuEasternHan`, `MiTangQiangLeader`, `CoalitionFractureExploitation`, `EmperorHeOfHan`, `SouthernXiongnu`, `index`, and `overview`. No settled contradiction found; 曹褒 is kept separate from 曹豹, Liang King 刘畅 from modern 刘畅 and Huainan 刘长, and Southern Xiongnu 安国 from Khotan An Guo.
