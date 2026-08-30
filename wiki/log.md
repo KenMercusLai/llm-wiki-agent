@@ -13865,3 +13865,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-30] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,139 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-28 with 15,429 nodes and 180,855 edges; current graph checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` without a provider-qualified model/key in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-08-30] ingest | 《资治通鉴·汉纪》767丨聪明人，都擅长“演戏”
+
+Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on outer-round inner-square conduct, Li He's delayed gift mission around Dou Xian's fall, Liu Qing's cautious post-Dou favor, Zheng Zhong's trusted eunuch-power opening, Deng Xun's posthumous frontier legitimacy, Nie Shang's failed conciliation of Mi Tang, Yu Chu's destruction, and Xianbei expansion after Northern Xiongnu collapse. Created the source note plus `DouXianEasternHan`, `BanGuEasternHan`, `LiHeEasternHan`, `ZhengZhongEasternHan`, `DengXunEasternHan`, `NieShangLateHan`, `NorthernXiongnuLateHan`, `YuChuNorthernXiongnu`, `OuterRoundInnerSquareConduct`, `WishfulFrontierConciliation`, and `TrustedEunuchPowerFormation`; updated `EmperorHeOfHan`, `BanZhaoLateHan`, `LiuQingQingheKing`, `MiTangQiangLeader`, `RenShangLateHan`, `TacticalDelayRiskTransfer`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Yuan An's son 袁尚 is not merged with the later `YuanShang` page, and Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, Song You, Ren Kui, Yin Mu, southern Man notices, and exact annal dates remain source-scoped.
+
+## [2026-08-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

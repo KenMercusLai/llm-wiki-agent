@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
   - zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q
   - zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna
+  - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
 last_updated: 2026-08-30
 ---
 
 ## Overview
 
-弥唐 / Mi Tang enters the wiki as the [[ShaodangQiang|Shaodang Qiang]] leader whose late Emperor-He-era pressure now begins with [[GuanYouLateHan|Guan You]] splitting his coalition and pushing him away in 93-94 CE. His later sequence runs through a 97 CE Longxi attack, surrender, unstable incorporation, renewed rebellion, defeat, relocation of surrenderers, and the collapse of his remaining group.
+弥唐 / Mi Tang enters the wiki as the [[ShaodangQiang|Shaodang Qiang]] leader whose late Emperor-He-era pressure now begins with [[NieShangLateHan|Nie Shang]]'s failed 92 CE conciliation attempt after [[DengXunEasternHan|Deng Xun]] dies. His later sequence runs through [[GuanYouLateHan|Guan You]] splitting his coalition, a 97 CE Longxi attack, surrender, unstable incorporation, renewed rebellion, defeat, relocation of surrenderers, and the collapse of his remaining group.
 
 ## Current Profile
+
+Hanji 767 now supplies the earliest current Mi Tang layer. After Deng Xun dies, Nie Shang tries to summon Mi Tang back to the large and small Yu valleys through a conciliatory approach. Mi Tang sends his grandmother Bi Que, receives escort support for her return, then rebels again, kills Tian Si and the escort party, and attacks Jincheng. This makes Mi Tang's profile begin not with Guan You's later split-and-attack operation, but with an earlier failed trust test.
 
 Hanji 768 now supplies the earliest current battlefield layer. Guan You sends interpreters and envoys with money to split other Qiang groups from Mi Tang, then attacks in the large and small Yu valley area, kills or captures a reported 800-plus people, seizes wheat, builds fortifications, creates boats, bridges the Fengliu river crossing, and causes Mi Tang to flee farther away.
 
@@ -29,7 +32,7 @@ The settlement fails. Local Qiang groups suspect that Mi Tang's large following 
 
 ## Key Characteristics
 
-- Shaodang Qiang leader whose current profile begins with Guan You's coalition-splitting attack before the later Longxi campaign.
+- Shaodang Qiang leader whose current profile now begins with a failed 92 CE conciliation attempt before Guan You's coalition-splitting attack.
 - Battlefield actor whose force can coerce adjacent Qiang groups and defeat local Han troops before imperial counter-deployment.
 - Surrender figure whose incorporation is unstable because hunger, location, and return orders are unresolved.
 - Tests the limits of imperial incorporation when a frontier group cannot or will not return to its assigned zone.
@@ -39,6 +42,8 @@ The settlement fails. Local Qiang groups suspect that Mi Tang's large following 
 
 ## Evidence
 
+- Failed conciliation prelude: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Nie Shang summons Mi Tang toward the Yu valleys, receives Bi Que, returns her with escorts, and then faces Mi Tang's renewed rebellion.
+- Escort killing and Jincheng attack: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Mi Tang kills Tian Si and the escort party with allied groups and attacks Jincheng.
 - Earlier coalition fracture: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says Guan You sends interpreters and envoys with money to separate Qiang groups from Mi Tang.
 - Earlier attack and displacement: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] reports Guan You's Yu valley attack, wheat seizure, fortifications, boats, bridge work, and Mi Tang's farther withdrawal.
 - Early attack and coalition pressure: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Mi Tang attacks Longxi with more than eight thousand people, coerces other Qiang groups, and defeats local troops.
@@ -52,18 +57,19 @@ The settlement fails. Local Qiang groups suspect that Mi Tang's large following 
 
 ## Qualifications
 
-This page is bounded to Hanji 768, Hanji 770, Hanji 771, and Hanji 772. Guan You, Liu Shang, Zhao Shi, Wang Xin, Geng Tan, Wu Zhi, Zhou Wei, Hou Ba, the Fa Qiang, exact Huangzhong groups, and route geography remain source-scoped here. The current evidence makes Mi Tang important as a frontier-pressure, frontier-incorporation, and policy-prelude case, not as a complete biography of Shaodang leadership.
+This page is bounded to Hanji 767, Hanji 768, Hanji 770, Hanji 771, and Hanji 772. Nie Shang, Guan You, Liu Shang, Zhao Shi, Wang Xin, Geng Tan, Wu Zhi, Zhou Wei, Hou Ba, the Fa Qiang, exact Huangzhong groups, and route geography remain source-scoped here. Bi Que and Tian Si remain source-scoped figures unless additional notes make them durable. The current evidence makes Mi Tang important as a frontier trust, frontier-pressure, frontier-incorporation, and policy-prelude case, not as a complete biography of Shaodang leadership.
 
 ## What Changed
 
-- Added Hanji 768 as the earliest current Mi Tang layer: Guan You's coalition fracture, attack, wheat seizure, and logistical consolidation.
-- Added Hanji 770 as the early attack-and-counterattack layer before Mi Tang's later surrender.
-- Reframed Mi Tang's case as a three-step frontier sequence: costly military pressure, accepted surrender, then unstable return order and renewed rebellion.
-- Preserved Hanji 771 and Hanji 772 as the surrender, failed incorporation, relocation, and collapse evidence set.
+- Added Hanji 767 as the earliest current Mi Tang layer: failed conciliation, escort killing, and Jincheng attack after Deng Xun's death.
+- Repositioned Hanji 768 as the next battlefield layer through Guan You's coalition fracture, attack, wheat seizure, and logistical consolidation.
+- Preserved Hanji 770-772 as the attack, surrender, failed incorporation, relocation, and collapse evidence set.
 
 ## Relationships
 
 - [[ShaodangQiang|烧当羌]] - frontier group Mi Tang leads in the source.
+- [[NieShangLateHan|聂尚]] - Qiang protector whose conciliation attempt Mi Tang destroys.
+- [[DengXunEasternHan|邓训]] - predecessor whose death creates the succession field in which Mi Tang is approached.
 - [[GuanYouLateHan|贯友]] - Han commander who splits Mi Tang's coalition and pushes him away in the earliest current layer.
 - [[EmperorHeOfHan|汉和帝]] - ruler whose campaign order defeats but does not capture Mi Tang and whose later return order fails to stabilize Mi Tang's group.
 - [[LongxiCommandery|陇西郡]] - frontier commandery attacked in the earliest current Mi Tang layer.
@@ -72,4 +78,5 @@ This page is bounded to Hanji 768, Hanji 770, Hanji 771, and Hanji 772. Guan You
 - [[FrontierResourceIntegration|边疆资源整合治理]] - policy frame that responds to the kind of unstable frontier autonomy Mi Tang represents.
 - [[TuntianSystem|屯田制]] - agricultural-logistics tool later proposed for the Qinghai and Huangshui frontier.
 - [[RootCausePacification|查因安抚式治理]] - related governance pattern because Mi Tang's case shows unresolved hunger and settlement conditions undermining surrender.
+- [[WishfulFrontierConciliation|一厢情愿式边疆怀柔]] - related failure pattern because Mi Tang exploits or overturns Nie Shang's soft contact.
 - [[CoerciveFrontierRelocationBackfire|强迁避敌反噬]] - later contrast where state movement of populations worsens frontier trust and rebellion.

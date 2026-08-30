@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-30
-as_of_overview_commit: 8cb5e3622ddc1fe1b7a3697f2e829661d2e432fa
-summary: "Capacity is disciplined translation: authority, evidence, infrastructure, and feedback must stay accountable across domains."
-episode_count: 1730
-source_count: 1730
-paragraph_count: 403
+as_of_overview_commit: a41730dac552dfce14573ae806446634a8e2d2e1
+summary: "Capacity depends on disciplined translation: authority, evidence, infrastructure, feedback, and trust must stay accountable across domains."
+episode_count: 1731
+source_count: 1731
+paragraph_count: 404
 topic_count: 8
 ---
 
@@ -49,7 +49,7 @@ Culture sources use fiction, games, sports, media, devices, folklore, brands, an
 
 ### Governance and Institutions
 
-Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, and bounded responsibility. Hanji 768 adds an [[EmperorHeOfHan]] layer before Hanji 769-773: [[CaoBaoEasternHan]] rites stall under [[ZhangPuEasternHan]] pressure, [[LiuChangLiangKing]] is punished but contained, [[GuanYouLateHan]] splits [[MiTangQiangLeader]]'s coalition, and the An Guo-Shizi crisis shows complaint channels and intervention shaping [[SouthernXiongnu]] succession.
+Governance turns authority into appointment quality, feedback, legitimacy, compliance, frontier control, and bounded responsibility. Hanji 767 adds post-Dou exposure around gift exchange, grievance, Zheng Zhong's eunuch access, Deng Xun/Nie Shang, and Yu Chu/Xianbei; Hanji 768 then adds rites, Liang royalty, Qiang coalition-splitting, and Southern Xiongnu complaint channels.
 
 - The California data-broker branch shows that privacy rights depend on compliance workflows: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], and [[CaliforniaPrivacyProtectionAgency]] connect centralized deletion, broker registration, reporting duties, request friction, agency capacity, and private-lawsuit proposals into one implementation problem. Evidence: [[CaliforniaDeleteAct]], [[DeleteRequestAndOptOutPlatform]], [[ConsumerDataDeletion]], [[DataBrokerComplianceGap]], [[CaliforniaPrivacyProtectionAgency]], [[tech-20260825-mp-tech-pod-128-tech-20260825-mp-tech-pod-128]].
 - The early-Han sequence shows victory turning into governance only through family order, capital choice, exit management, reward ranking, ritual hierarchy, frontier containment, [[HanXiongnuHeqinPolicy|heqin]] diplomacy, vassal rollback, investigation-triggered rebellion risk, and finally the failure of personal trust in [[LuWan|Lu Wan]]'s Yan kingship. Evidence: [[LiuBang]], [[StrategicCapitalRelocation]], [[LiAsPoliticalOrder]], [[BaidengEncirclement]], [[HanXiongnuHeqinPolicy]], [[DifferentSurnameKingSuspicion]], [[HuainanKingdomEarlyHan]], [[InvestigationDrivenRebellionEscalation]], [[LuWan]], [[YanState]].
