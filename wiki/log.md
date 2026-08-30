@@ -14063,6 +14063,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-08-31] ingest | 《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？
+
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode backfilling Yongping 2 / 59 CE: Mingdi's public honoring of Huan Rong through Biyong elder-care ritual, Taichang teacher protocol, sickbed care, mourning, and burial honors, plus source-scoped notices on Zhongshan king Liu Yan, Xiao He/Huo Guang sacrifices, Dou Lin, Yin Feng and Princess Liyi, Five Suburban seasonal rites, and South Xiongnu succession. Created the source note plus `HuanRongEasternHan` and `ImperialTeacherHonorRitual`; updated `EmperorMingOfHan`, `index`, `overview`, and downstream synthesis inputs. No settled contradiction found; minor ritual offices, exact ceremony details, Zhongshan Liu Yan identity, and elite-household notices remain source-scoped.
+
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！
 
 Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Mingde Empress Ma's palace entry, adoption of Liu Da, empress selection, harem generosity, learning, plain conduct, and refusal of natal-family favors; Zhongli Yi's Tianchuan-star remonstrance stopping North Palace construction; Mingdi's harshness, Yao Song's ritual deflection, eclipse self-warning, and public reward for Guo He; Liu Ping's trust-producing Quanjiao governance; and the Shache-Khotan conflict before Hanji 736. Created the source note plus `ZhongliYiEasternHan`, `LiuPingEasternHan`, `YaoSongEasternHan`, and `GuoHeEasternHan`; updated `EmpressMaMingdeEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `MotherhoodBeyondChildbirth`, `ReceptiveRemonstranceGovernance`, `ImperialSelfCriticismEdict`, `HumaneLocalGovernance`, `KhotanKingGuangdeLateHan`, `ShacheKingdomLateHan`, `KhotanKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact dates, and flood details remain source-scoped. 姚松 is routed to the disambiguated Eastern Han page, distinct from modern `YaoSong`.
