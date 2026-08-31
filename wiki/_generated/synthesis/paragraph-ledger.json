@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
       "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
       "4e9ee1c8ae5ee3d05c535b10e120a6ff4df66c9aa8ef620d13490674db349cda",
       "ccaa9d71a4268a8e57a46db28481a0cbbb4a5f8f4b57c007ebfea2724b22d223",
@@ -463,11 +464,37 @@
       "5787672a60beb124c3c6bea58a9c96040e7586622bbbbf661861c1c19ac952b0",
       "620112d656111294ab39ff2692563bd7c87841eee6a7ad9182703ad026e29e2e"
     ],
-    "paragraph_count": 461
+    "paragraph_count": 462
   },
-  "overview_commit": "0ba4d6e9614ef22e4e991d2fb99f30a5dcee337d",
-  "overview_digest": "5ce27ac9c4d24f514c703d64397721acc2adc4fd4b5c0117cec17c76873af765",
+  "overview_commit": "84cfc77f0bfcc53bb881046f9162e2099cd2e48f",
+  "overview_digest": "13cba27c258f31bc62a1a25993edee5bd8b3c8b4835c9dc9921a91f9afc01dfb",
   "paragraphs": [
+    {
+      "id": "cd564f865174393895462c0ee634fb249925bb7b1df949089a1cfe256936399e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianwu 12 / 36 CE immediately before [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]]. It adds [[LiTongEasternHan|李通]] and [[SeparatedCampMutualSupportRisk|分营互援风险]], while extending [[LiuXiu|光武帝刘秀]], [[WuHanEasternHan|吴汉]], [[GongsunShuEasternHan|公孙述]], [[YanCenEasternHan|严岑 / Yan Cen]], [[LiuShangEasternHan|刘尚]], [[ZhangKanEasternHan|张堪]], [[BattlefieldFeintAndLure|声东击西与诱敌]], and [[PowerCompletionRetreat|功成退让]]. Its core synthesis is that Liu Xiu's military reputation is framed as remote structural judgment: he reads Guangdu, Chengdu, the river, camp distance, and enemy initiative before Wu Han's separated-camp crisis unfolds, while Wu Han's recovery depends on re-concentrating with Liu Shang and later accepting Zhang Kan's anti-retreat advice. No settled contradiction is recorded; 严岑 is routed to the existing Yan Cen page and Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BattlefieldFeintAndLure",
+        "GongsunShuEasternHan",
+        "LiTongEasternHan",
+        "LiuShangEasternHan",
+        "LiuXiu",
+        "PowerCompletionRetreat",
+        "RuiqiJiangtouZizhiTongjian",
+        "SeparatedCampMutualSupportRisk",
+        "WuHanEasternHan",
+        "YanCenEasternHan",
+        "ZhangKanEasternHan",
+        "zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn",
+        "zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje"
+      ]
+    },
     {
       "id": "b7def56b675911d97d2e781baf41dd83a81c116080d0b36c42eead1b64898001",
       "primary_topic": "governance-and-institutions",

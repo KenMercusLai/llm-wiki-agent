@@ -14547,3 +14547,11 @@ Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 /
 ## [2026-09-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-01] ingest | 《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？
+
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE immediately before Hanji 713. Created `LiTongEasternHan` and `SeparatedCampMutualSupportRisk`; updated Liu Xiu, Wu Han, Gongsun Shu, Yan Cen, Liu Shang, Zhang Kan, battlefield feint and lure, power completion retreat, overview, and index. No settled contradiction found; 严岑 is normalized to the existing Yan Cen page, Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong, and the episode's ending leaves Zhang Kan's show-weakness plan outcome to the following source.
+
+## [2026-09-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

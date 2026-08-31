@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？](sources/zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn.md) — Jianwu 12 Shu-campaign episode on Liu Xiu's Guangdu order, Wu Han's risky Chengdu advance, separated-camp mutual-support failure, night reunion with Liu Shang, Yan Cen's counterattack, Zhang Kan's anti-retreat advice, and Li Tong's honored withdrawal.
 - [《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！](sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje.md) — Jianwu 12 Shu-conquest episode on Gongsun Shu's final Chengdu defeat, Yan Cen's surrender, Wu Han's post-surrender killing and sack, Liu Xiu's rebuke, coerced scholar summons, and post-Shu local-elite repair.
 - [《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？](sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi.md) — Jianwu 12-13 Guangwu episode on Ma Yuan's Wudu/Qiang victory and horsehide-burial idiom, flexible frontier rules, Dou Rong and Hexi official integration, Kong Fen and Ren Ting, Zhi Yun's gate remonstrance, tribute restraint, and Lu Fang/Sui Yu northern pressure.
 - [《资治通鉴·汉纪》715丨史上最智慧的一次夺权](sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu.md) — 37 CE Guangwu episode on royal-title reduction, founding-merit rewards, military authority recovery through honors without office, Deng Yu/Jia Fu/Geng Yan withdrawal, Wu Han's post-Shu reward, and Dou Rong's refused resignation.
@@ -1822,14 +1823,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
-- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose final Chengdu defeat links battlefield collapse, coerced talent, and post-surrender violence.
-- [颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who surrenders after Gongsun Shu's mortal wound and whose clan is destroyed despite submission.
+- [李通 / Li Tong (Eastern Han)](entities/LiTongEasternHan.md) — Guangwu-era founding-merit figure who returns full office but keeps honored court access, distinct from the later Cao-era Li Tong.
+- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose final Chengdu profile links refused surrender, large counterattacks, battlefield collapse, coerced talent, and post-surrender violence.
+- [严岑 / 颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who urges continued battle, briefly defeats Wu Han through a rear-cavalry feint, then surrenders after Gongsun Shu's mortal wound.
 - [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
 - [乔璇 / Qiao Xuan (Shu Scholar)](entities/QiaoXuanShuScholar.md) — Ba commandery scholar who refuses Gongsun Shu's office-or-poison summons and is later honored and repaid by Liu Xiu.
 - [王浩 / Wang Hao (Shu Scholar)](entities/WangHaoShuScholar.md) — Shu scholar whose refusal of Gongsun Shu's hostage-backed summons ends in suicide and family execution.
 - [王家 / Wang Jia (Shu Scholar)](entities/WangJiaShuScholar.md) — Shu scholar who follows Wang Hao's hostage-backed refusal by killing himself before the envoy arrives.
 - [文齐 / Wen Qi (Yizhou)](entities/WenQiYizhouEasternHan.md) — Yizhou administrator who resists Gongsun Shu's hostage pressure, secretly submits to Liu Xiu, and is later rewarded.
-- [刘尚 / Liu Shang (Eastern Han)](entities/LiuShangEasternHan.md) — Eastern Han commander tied to the Chengdu rebuke, later southwestern campaigning, and fatal Wuling overextension.
+- [刘尚 / Liu Shang (Eastern Han)](entities/LiuShangEasternHan.md) — Eastern Han commander tied to the Chengdu separated-camp risk, surrender rebuke, later southwestern campaigning, and fatal Wuling overextension.
 - [孔奋 / Kong Fen (Eastern Han)](entities/KongFenEasternHan.md) — Clean Hexi official whose poverty amid wealthy Guzang officeholders earns Liu Xiu's praise and Wudu reassignment.
 - [任廷 / Ren Ting (Eastern Han)](entities/RenTingEasternHan.md) — Wuwei governor whose blunt "奉公守法" answer defines loyalty as public duty and law rather than surface harmony.
 - [隋昱 / Sui Yu (Eastern Han)](entities/SuiYuEasternHan.md) — Lu Fang subordinate whose defection plan breaks a Xiongnu-backed attack and earns Wuyuan office and marquis title.
@@ -1837,7 +1839,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杜琳 / Du Lin (Eastern Han)](entities/DuLinEasternHan.md) — Eastern Han official whose objection to rewriting law warns that over-dense penal codes can become unenforceable.
 - [韩歆 / Han Xin (Eastern Han Situ)](entities/HanXinSituEasternHan.md) — Guangwu-era Situ whose blunt famine warning leads to dismissal, imperial rebuke, and forced-suicide pressure.
 - [欧阳歙 / Ouyang Xi (Eastern Han)](entities/OuyangXiEasternHan.md) — Shangshu-lineage Situ punished after Runan degree-field falsification and embezzlement charges.
-- [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Frontier official whose Gaoliu victory and Yuyang tenure pair Xiongnu defense with agricultural local governance.
+- [张堪 / Zhang Kan (Eastern Han)](entities/ZhangKanEasternHan.md) — Eastern Han official whose Chengdu anti-retreat advice, Gaoliu victory, and Yuyang tenure pair battlefield judgment with frontier local governance.
 - [马成 / Ma Cheng (Eastern Han)](entities/MaChengEasternHan.md) — Frontier commander who replaces Du Mao and strengthens border defense with regular beacon stations.
 - [杜茂 / Du Mao (Eastern Han)](entities/DuMaoEasternHan.md) — Frontier commander tied first to northern defensive infrastructure against Lu Fang/Xiongnu pressure and later to removal and troop reuse at Gaoliu.
 - [征侧 / Zheng Ce (Jiaozhi)](entities/ZhengCeJiaozhi.md) — Jiaozhi local elite woman whose 40 CE revolt becomes a female kingship claim before Ma Yuan's suppression.
@@ -7288,7 +7290,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, illness and succession anxiety, capacity-bound Western Regions hostage/refusal tactics, Southern Xiongnu acceptance, Wuling and Wuhuan frontier settlement, court judgment in Ma Yuan's case, Northern Xiongnu restraint and diplomacy, chenwei reliance and control, founding coalition command, personnel recognition, tomb restraint, Taishan refusal and later fengshan, succession handoff, hostage deterrence, and Guangwu ritual memory.
 - [贾复 / Jia Fu (Eastern Han)](entities/JiaFuEasternHan.md) — Eastern Han founding general whose 55 CE death notice preserves battlefield risk, quiet merit, and Liu Xiu's recognition of service.
 - [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
-- [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general whose profile spans Youzhou recruitment, Qinghe operations, battlefield composure, rapid deployment, family-asset restraint, and a deathbed warning against easy pardons.
+- [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general whose profile spans Youzhou recruitment, Qinghe operations, Chengdu overreach and recovery, post-surrender atrocity, later honor, and deathbed discipline.
 - [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
 - [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family figure whose wiki role now spans a court-service loyalty signal and Guangwu-era Southern Xiongnu buffer-policy advice.
 - [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose rebellion tests Geng-family loyalty and founding-coalition trust.
@@ -10519,6 +10521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Separated Camp Mutual Support Risk / 分营互援风险](concepts/SeparatedCampMutualSupportRisk.md) — Command risk where allied camps are close enough for one operation but too separated to reinforce each other under sequential enemy attack.
 - [马革裹尸式边将生死观 / Horsehide Burial Resolve](concepts/HorsehideBurialResolve.md) — Ma Yuan-linked frontier ethos treating death in border service and return wrapped in horsehide as a soldier's fitting end.
 - [弹性边防军法 / Flexible Frontier Military Discretion](concepts/FlexibleFrontierMilitaryDiscretion.md) — Guangwu-era frontier rule pattern allowing defense and pursuit to follow troop capacity and enemy conditions rather than mechanical delay-law fear.
 - [Honors Without Office Settlement / 受爵不受官式功臣安置](concepts/HonorsWithoutOfficeSettlement.md) — Guangwu-era pattern of exchanging titles, stipends, ceremony, and limited access for the withdrawal of founding commanders from command and administrative power.
@@ -10570,8 +10573,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [帝王死因史料推断 / Imperial Death-Cause Inference](concepts/ImperialDeathCauseInference.md) — Historiographic method for reading sparse imperial death notices with supplementary symptom and workload evidence without turning inference into diagnosis.
 - [继位亲族安抚与隔离 / Accession Kinship Containment](concepts/AccessionKinshipContainment.md) — Succession-risk pattern where a new ruler uses privacy, sequencing, reassurance, distance, and ritual order to contain vulnerable or dangerous royal kin.
 - [太子主动辞位自保 / Crown-Prince Voluntary Withdrawal](concepts/CrownPrinceVoluntaryWithdrawal.md) — Succession-risk pattern where an established heir repeatedly asks to leave the crown-prince position after remaining heir becomes more dangerous than yielding the claim.
-- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, feigned retreat, and ambush to move enemies into weaker positions.
-- [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command after the central task is complete.
+- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, concealed movement, frontal displays, feigned weakness, and ambush to move enemies into weaker positions.
+- [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command or office after the central task is complete.
 - [时运制约命运 / Fate Timing External Conditions](concepts/FateTimingExternalConditions.md) — Source-scoped frame where timing and external conditions mediate ability, virtue, ambition, and visible outcomes.
 - [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.
 - [Outsider Experience as Diagnostic Skill](concepts/OutsiderExperienceDiagnosticSkill.md) — Adoption-design concept that people who learned systems from the outside can notice hidden rules, power structures, and workflow barriers insiders miss.
