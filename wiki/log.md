@@ -14238,3 +14238,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-08-31] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-08-31] ingest | 《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军
+
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Geng Yan as an Eastern Han founding general: his Liu Xiu alignment, Youzhou cavalry role, refusal of Peng Chong's pull, suspicion-management signal through Geng Guo, Qinghe and Qi tactical deception, later Longyou support, and post-merit command retreat. Created the source note plus `GengYanEasternHan`, `GengKuangEasternHan`, `GengGuoEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `WangLangHebeiClaimant`, `ZhangBuEasternHan`, `FoundingCommanderSuspicionManagement`, `BattlefieldFeintAndLure`, and `PowerCompletionRetreat`; migrated `LiuXiu` to synthesis-v1. No settled contradiction found; Wang Lang is distinguished from Wang Lang (late Han), and minor Qinghe/Qi names, figures, and host growth readings remain source-scoped.
+
+## [2026-08-31] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

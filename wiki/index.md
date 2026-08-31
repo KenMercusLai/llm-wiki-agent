@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军](sources/zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh.md) — 芮淇讲透资治通鉴 episode on Geng Yan's Eastern Han founding career, Liu Xiu alignment, Youzhou cavalry, Peng Chong suspicion management, Qinghe/Qi campaign tactics, and post-merit retreat.
 - [《资治通鉴·汉纪》733-3丨句句皆是千古名言！淇姐劝你一定要读！](sources/zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey.md) — 芮淇讲透资治通鉴 episode reading 《寒窑赋》 as a fate, timing, life-course reversal, and self-possession text attributed to 吕蒙正.
 - [EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success](sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success.md) — Data Science With Sam episode with Sumayya Shravani on institutional trust, outsider diagnostic skill, cognitive diversity, and behavior-based enterprise AI adoption signals.
 - [《资治通鉴·汉纪》734丨桓荣成大儒，因为明帝是个好捧哏？](sources/zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9.md) — 芮淇讲透资治通鉴 episode on Mingdi's public honoring of Huan Rong through Biyong and Taichang teacher protocol, elder-care ritual, sickbed and funeral honors, royal-kin favor, Dou/Yin elite discipline, and Five Suburban seasonal rites.
@@ -7118,7 +7119,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
-- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through restoration warfare, prophecy control, founding coalition command, hostage deterrence, and later Guangwu ritual memory.
+- [耿弇 / Geng Yan (Eastern Han)](entities/GengYanEasternHan.md) — Eastern Han founding general whose Liu Xiu alignment, Youzhou cavalry role, campaign tactics, and post-merit retreat anchor Hanji 733-2.
+- [吴汉 / Wu Han (Eastern Han)](entities/WuHanEasternHan.md) — Liu Xiu founding general linked to Geng Yan in Youzhou recruitment and Qinghe operations.
+- [耿况 / Geng Kuang (Eastern Han)](entities/GengKuangEasternHan.md) — Geng Yan's father and northern military-family power broker behind the Youzhou cavalry alignment.
+- [耿国 / Geng Guo (Eastern Han)](entities/GengGuoEasternHan.md) — Geng-family court-service figure used as a loyalty signal during the Peng Chong rebellion.
+- [彭宠 / Peng Chong (Eastern Han)](entities/PengChongEasternHan.md) — Former Liu Xiu-side actor whose rebellion tests Geng-family loyalty and founding-coalition trust.
+- [王郎 / Wang Lang (Hebei Claimant)](entities/WangLangHebeiClaimant.md) — Hebei claimant whose uprising redirects Geng Yan toward Liu Xiu, kept distinct from late-Han Wang Lang.
+- [张步 / Zhang Bu (Eastern Han)](entities/ZhangBuEasternHan.md) — Qi-region adversary whose defeat illustrates Geng Yan's feint, lure, and consolidation tactics.
 - [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
 - [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
 - [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
@@ -10339,6 +10347,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founding Commander Suspicion Management / 建国将领消疑](concepts/FoundingCommanderSuspicionManagement.md) — Founding-state trust pattern where powerful military families make loyalty credible before local force becomes rebellion risk.
+- [Battlefield Feint And Lure / 声东击西与诱敌](concepts/BattlefieldFeintAndLure.md) — Tactical pattern using false targets, controlled exits, feigned retreat, and ambush to move enemies into weaker positions.
+- [Power Completion Retreat / 功成退让](concepts/PowerCompletionRetreat.md) — Post-merit restraint pattern where a high-achievement actor reduces visible command after the central task is complete.
 - [时运制约命运 / Fate Timing External Conditions](concepts/FateTimingExternalConditions.md) — Source-scoped frame where timing and external conditions mediate ability, virtue, ambition, and visible outcomes.
 - [Institutional Trust in AI Adoption](concepts/InstitutionalTrustAIAdoption.md) — Enterprise AI adoption condition where users trust the organization enough to change daily work around a tool.
 - [Outsider Experience as Diagnostic Skill](concepts/OutsiderExperienceDiagnosticSkill.md) — Adoption-design concept that people who learned systems from the outside can notice hidden rules, power structures, and workflow barriers insiders miss.
