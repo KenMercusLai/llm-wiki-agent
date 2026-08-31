@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-08-31
-as_of_overview_commit: 8078a8914ea0b70acdd904838921e4c5c03f726a
-summary: "Durable capacity depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, timing, infrastructure, and bounded roles."
-episode_count: 1777
-source_count: 1777
-paragraph_count: 436
+as_of_overview_commit: 308844e1fc126ab4cdfb738edf0a1a9014b0b48f
+summary: "Durable capacity depends on fitting AI, markets, institutions, health, culture, learning, and history to evidence, trust, timing, infrastructure, body context, and bounded roles."
+episode_count: 1778
+source_count: 1778
+paragraph_count: 437
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - [[AIEmpireSovereigntyRisk]] extends the history-and-geopolitics topic into AI-era dependence: [[AlgorithmicTrustMigration]], [[ModelSovereignty]], and [[SovereignAIModels]] show how foreign-controlled AI systems can become cognitive and institutional infrastructure without formal conquest.
 - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] adds a functional emotion-regulation branch: [[EmotionsAsFunctionalControlStates]] treats emotions as useful control states for decision and motivation, while [[EmotionalGranularity]], [[CognitiveReappraisalEarlyIntervention]], [[AutonomicStressTraining]], and [[TaskSwitchingResidue]] frame regulation as monitoring, differentiating, reframing early, shaping environments, respecting body signals, and managing transition costs rather than removing emotion.
-- [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection.
+- [[EnergyBalanceAccounting]], [[ProteinBodyCompositionLever]], [[FoodPleasureEngineering]], [[SweetenerUncertainty]], [[SeedOilEvidenceBoundary]], [[CreatineMonohydrateEvidence]], and [[MuscleAsLongevityInfrastructure]] make body composition an evidence-bounded fundamentals problem: calories matter but are noisy to estimate, protein and minimally processed foods improve satiety and lean-mass support, sweeteners should be judged by what they replace, seed-oil panic needs human evidence and calorie context, creatine monohydrate is a comparatively strong healthy-person supplement case, and hard training still outranks optimization minutiae.
 - Workplace AI adoption depends on trust, participation, and observed behavior: EP43 argues that [[InstitutionalTrustAIAdoption]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[AIOverwriteRate]], and [[QuietAIAdoptionDeparture]] reveal whether tools are changing work beyond deployment activity.
 
 ## Synthesis by Domain
@@ -70,7 +70,7 @@ Personal development evidence treats self-command, emotion regulation, authorshi
 
 ### Science, Health, and Climate
 
-Science and health claims favor measured mechanisms, escalation thresholds, clinical supervision, implementation constraints, and context over headline labels or protocol perfection.
+Science and health claims favor measured mechanisms, clinical supervision, implementation constraints, escalation thresholds, nutrition fundamentals, and context over headline labels or protocol perfection.
 
 - [[PracticalSugarControl]] adds a nutrition-literacy branch: [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], and [[FoodPleasureEngineering]] make sugar control a question of food structure, beverage format, label interpretation, and clinical boundaries rather than blanket avoidance of sweetness or staple foods. Evidence: [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[PracticalSugarControl]], [[AddedFreeSugarDistinction]], [[LiquidSugarRisk]], [[LowGIMarketingTrap]], [[NutritionLabelSugarTraps]], [[SweetenerUncertainty]], [[GlycationSkinAnxiety]], [[FoodPleasureEngineering]], [[LifestyleWeightManagement]], [[MedicalRiskManagement]], [[LifestyleDiseasePrevention]], [[ZheBingShuoLaiHuaChang]], [[Atang]], [[YueWanrou]], [[DaShiHua]].
 - [[SustainableHealthOptimization]] adds a flexible-fundamentals branch: [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], and [[PerioperativeCircadianRecovery]] are useful only when fitted to real constraints and clinical context rather than protocol perfection. Evidence: [[SustainableHealthOptimization]], [[MorningLightCircadianAnchoring]], [[SleepAsDailyHealthAccount]], [[SelfTestingMemoryPractice]], [[OlfactoryTraining]], [[FertilityEnergyAvailability]], [[PerimenopauseBrainMetabolism]], [[MenopauseClinicalSharedDecision]], [[AcetylcholineFocusSupport]], [[PerioperativeCircadianRecovery]], [[your-top-health-questions-answered-scim2882548864]].
