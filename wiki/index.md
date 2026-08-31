@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！](sources/zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje.md) — Jianwu 12 Shu-conquest episode on Gongsun Shu's final Chengdu defeat, Yan Cen's surrender, Wu Han's post-surrender killing and sack, Liu Xiu's rebuke, coerced scholar summons, and post-Shu local-elite repair.
 - [《资治通鉴·汉纪》714丨是谁第一个喊出“男儿当马革裹尸”？](sources/zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi.md) — Jianwu 12-13 Guangwu episode on Ma Yuan's Wudu/Qiang victory and horsehide-burial idiom, flexible frontier rules, Dou Rong and Hexi official integration, Kong Fen and Ren Ting, Zhi Yun's gate remonstrance, tribute restraint, and Lu Fang/Sui Yu northern pressure.
 - [《资治通鉴·汉纪》715丨史上最智慧的一次夺权](sources/zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu.md) — 37 CE Guangwu episode on royal-title reduction, founding-merit rewards, military authority recovery through honors without office, Deng Yu/Jia Fu/Geng Yan withdrawal, Wu Han's post-Shu reward, and Dou Rong's refused resignation.
 - [《资治通鉴·汉纪》716丨乱世之中，律法有多重要？](sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i.md) — 38-39 CE Guangwu episode on Liang Tong and Du Lin's penal-law debate, Western Regions capacity refusal, Han Xin's remonstrance death, Xiongnu pressure, border relocation, and the degree-field disturbance prelude.
@@ -1821,6 +1822,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 
 ## Entities
+- [公孙述 / Gongsun Shu (Eastern Han)](entities/GongsunShuEasternHan.md) — Shu-based rival ruler whose final Chengdu defeat links battlefield collapse, coerced talent, and post-surrender violence.
+- [颜岑 / Yan Cen](entities/YanCenEasternHan.md) — Final Chengdu commander who surrenders after Gongsun Shu's mortal wound and whose clan is destroyed despite submission.
+- [李涅 / Li Nie](entities/LiNieEasternHan.md) — Guanghan scholar who drinks poison rather than accept Gongsun Shu's coerced office summons.
+- [乔璇 / Qiao Xuan (Shu Scholar)](entities/QiaoXuanShuScholar.md) — Ba commandery scholar who refuses Gongsun Shu's office-or-poison summons and is later honored and repaid by Liu Xiu.
+- [王浩 / Wang Hao (Shu Scholar)](entities/WangHaoShuScholar.md) — Shu scholar whose refusal of Gongsun Shu's hostage-backed summons ends in suicide and family execution.
+- [王家 / Wang Jia (Shu Scholar)](entities/WangJiaShuScholar.md) — Shu scholar who follows Wang Hao's hostage-backed refusal by killing himself before the envoy arrives.
+- [文齐 / Wen Qi (Yizhou)](entities/WenQiYizhouEasternHan.md) — Yizhou administrator who resists Gongsun Shu's hostage pressure, secretly submits to Liu Xiu, and is later rewarded.
+- [刘尚 / Liu Shang (Eastern Han)](entities/LiuShangEasternHan.md) — Eastern Han commander tied to the Chengdu rebuke, later southwestern campaigning, and fatal Wuling overextension.
 - [孔奋 / Kong Fen (Eastern Han)](entities/KongFenEasternHan.md) — Clean Hexi official whose poverty amid wealthy Guzang officeholders earns Liu Xiu's praise and Wudu reassignment.
 - [任廷 / Ren Ting (Eastern Han)](entities/RenTingEasternHan.md) — Wuwei governor whose blunt "奉公守法" answer defines loyalty as public duty and law rather than surface harmony.
 - [隋昱 / Sui Yu (Eastern Han)](entities/SuiYuEasternHan.md) — Lu Fang subordinate whose defection plan breaks a Xiongnu-backed attack and earns Wuyuan office and marquis title.
@@ -10626,7 +10635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [知奸不除式威慑失效 / Known-Misconduct Non-Punishment](concepts/KnownMisconductNonPunishment.md) — Deterrence failure where a ruler discovers protected wrongdoing but stops at rebuke or restitution without legal consequence.
 - [人生定位与适配 / Career Positioning Through Fit](concepts/CareerPositioningThroughFit.md) — Career judgment pattern where effort compounds better when ability, temperament, role, and inherited resources fit before commitment.
 - [单人负责式制度编纂 / Single-Author Institutional Codification](concepts/SingleAuthorInstitutionalCodification.md) — Institutional-design tradeoff where one accountable compiler turns inherited precedent into usable rules when broad deliberation may stall.
-- [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Frontier-governance failure where surrender contact is betrayed, producing tactical gain but long-term credibility damage.
+- [受降失信 / Breach of Surrender Trust](concepts/BreachOfSurrenderTrust.md) — Surrender-governance failure where a submitted leader, group, or city is betrayed, producing tactical gain but credibility damage.
 - [祥瑞怀疑式进谏 / Omen Skepticism Remonstrance](concepts/OmenSkepticismRemonstrance.md) — Court-speech pattern where favorable omen narratives are challenged as possible warnings about governance and palace order.
 - [亲情名分边界 / Kinship Protocol Boundary](concepts/KinshipProtocolBoundary.md) — Court-governance principle that royal affection remains safe only when kept inside hierarchy, ritual form, fiscal limits, guest restrictions, office boundaries, and territorial distance.
 - [Office Worker Labor Organizing](concepts/OfficeWorkerLaborOrganizing.md) — Collective conversion of clerical and administrative workplace grievances into demands over pay, promotion, dignity, leave, child care, and bargaining power.
@@ -10988,7 +10997,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Empire Sovereignty Risk](concepts/AIEmpireSovereigntyRisk.md) — Sovereignty risk from dependence on foreign-controlled AI systems embedded in information, infrastructure, and decisions.
 - [Political Accent Prestige](concepts/PoliticalAccentPrestige.md) — How accent, class, and regional speech shape who sounds authoritative or credible in British politics.
 - [Qingyi Reputation Pressure / 清议声誉压力](concepts/QingyiReputationPressure.md) — Late-Han scholar-student praise-and-blame mechanism where Li Ying's "登龙门" recognition, Taixue reputation, and honor lists discipline officials while making networks targetable.
-- [Principled Office Refusal / 原则性拒仕](concepts/PrincipledOfficeRefusal.md) — Late-Han reclusion pattern where capable scholars decline office because timing and court credibility make service morally or politically unsound.
+- [Principled Office Refusal / 原则性拒仕](concepts/PrincipledOfficeRefusal.md) — Scholar-official refusal pattern where capable people decline service because coercion, timing, or court credibility makes office morally unsound.
 - [Reputation List as Persecution Target / 名望榜单迫害目标化](concepts/ReputationListPersecutionTarget.md) — Pattern where public honor categories and reputation lists become target lists when hostile power treats moral reputation as factional danger.
 - [Party Network Treason Framing / 朋党网络谋反化](concepts/PartyNetworkTreasonFraming.md) — Pattern where follower, recommendation, teaching, and reputation networks are explained to a ruler as disorder, rebellion, or throne-security threats.
 - [Guide Robot Dogs](concepts/GuideRobotDogs.md) — Assistive legged robots for visually impaired users, combining navigation, memory, route explanation, haptics, and owner-specific command safety.
@@ -11241,7 +11250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [尚书台近侍权力 / Shangshu Tai Imperial Access](concepts/ShangshuTaiImperialAccess.md) — Eastern and late-Han mechanism where memorial handling, document routing, and ruler access turn a modest office into practical inner-court power and career value.
 - [Palace Envoy Local Extraction / 宫使扰民式地方抽取](concepts/PalaceEnvoyLocalExtraction.md) — An-era pattern where palace-linked missions make local officials mobilize roads, stations, supplies, gifts, and labor because emissary preference looks like imperial will.
 - [Three Excellencies Blame Without Authority / 三公无权背责](concepts/ThreeExcellenciesBlameWithoutAuthority.md) — Late-Han accountability pattern where senior ministers carry disaster and rebellion blame after practical authority has shifted into Shangshu, outer-relative, favorite, and eunuch channels.
-- [Coerced Talent Legitimacy / 胁迫征士合法性](concepts/CoercedTalentLegitimacy.md) — Pattern where a violent powerholder recruits famous scholars to simulate consent and court repair.
+- [Coerced Talent Legitimacy / 胁迫征士合法性](concepts/CoercedTalentLegitimacy.md) — Pattern where violent rulers use threats, hostages, and office honors to simulate elite consent while undermining legitimacy.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Ransom Deterrence / 劫质禁赎威慑](concepts/HostageRansomDeterrence.md) — Hanji 915 rule pattern where refusing ransom and punishing private payments makes hostage-taking less profitable, at severe cost to immediate victims.
 - [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Pattern where protection or recognition secured by placing family under a stronger power risks strategic subordination.

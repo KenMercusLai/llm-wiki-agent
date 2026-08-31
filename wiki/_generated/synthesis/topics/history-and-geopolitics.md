@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-08-31
-as_of_overview_commit: 93f0816658da0ced133101dfe92592deb5427ab2
-input_digest: c658fb04539e1485ec790dd72e479112df434c697f71ec2bfd86eac6a283e0a0
+last_updated: 2026-09-01
+as_of_overview_commit: 0ba4d6e9614ef22e4e991d2fb99f30a5dcee337d
+input_digest: 60e756a9f4c82ca0486e226744c0821a6ee7edf534be4b2fb859a8665f93ea76
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 724 now backfills the late Guangwu historical branch to 47-48 CE: Wuling Man destroys Liu Shang's force, Ma Yuan reenters command, Bi's Southern Xiongnu bloc asks for Han vassalage, Geng Guo frames acceptance as buffer and border-commandery restoration policy, and Zhang Gong's immediate-strike proposal is delayed rather than ordered. Hanji 726 then supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the later 52-54 CE branch before Hanji 730: Ban Biao reads Northern Xiongnu tribute, heqin, music, and Western Regions requests as fear after Southern Xiongnu submission, Liu Xiu adopts a calibrated reply, and the same episode records the 54 CE refusal of Taishan fengshan before the later 56 CE ceremony. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
+Hanji 713 now moves the Eastern Han historical branch back to the Jianwu 12 / 36 CE Shu endgame: Gongsun Shu is fatally wounded at Chengdu, Yan Cen surrenders the city, Wu Han turns victory into a post-surrender atrocity, and Liu Xiu rebuilds rule through rebuke, scholar honors, repayment, and local incorporation. Hanji 724 now backfills the late Guangwu historical branch to 47-48 CE: Wuling Man destroys Liu Shang's force, Ma Yuan reenters command, Bi's Southern Xiongnu bloc asks for Han vassalage, Geng Guo frames acceptance as buffer and border-commandery restoration policy, and Zhang Gong's immediate-strike proposal is delayed rather than ordered. Hanji 726 then supplies the 49 CE Ma Yuan slander, Zhu Bo corrective memorial, Zong Jun surrender settlement, and Wuhuan protector-office layer before Hanji 727. Hanji 729 backfills the later 52-54 CE branch before Hanji 730: Ban Biao reads Northern Xiongnu tribute, heqin, music, and Western Regions requests as fear after Southern Xiongnu submission, Liu Xiu adopts a calibrated reply, and the same episode records the 54 CE refusal of Taishan fengshan before the later 56 CE ceremony. Hanji 730 remains the next late Guangwu layer; Roman Civil War Part 1 adds a Roman-Republic crisis branch; South Africa/Mandela adds a twentieth-century reconciliation-symbol branch; Hanji 733-2 moves the Eastern Han branch back to Liu Xiu founding before Yongping; and Hanji 733-3 adds a classical-text reception branch through HanyaoFu, fate, timing, and reversal.
 
 ## Cross-source Findings
+
+### Early Eastern Han 713 Shu Conquest Chengdu Surrender And Guangwu Repair
+
+[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] moves the Eastern Han history branch back to Jianwu 12 / 36 CE before [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] and [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]]: [[GongsunShuEasternHan]] is fatally wounded in the Chengdu battle, [[YanCenEasternHan]] surrenders Chengdu, [[WuHanEasternHan]] creates a [[BreachOfSurrenderTrust]] through post-surrender killing and sack, and [[LiuXiu]] answers with rebuke plus post-Shu recognition of [[LiNieEasternHan]], [[QiaoXuanShuScholar]], [[WenQiYizhouEasternHan]], [[CoercedTalentLegitimacy]], and [[PrincipledOfficeRefusal]].
+
+**Evidence:** [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje]], [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi]], [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu]], [[GongsunShuEasternHan]], [[YanCenEasternHan]], [[WuHanEasternHan]], [[BreachOfSurrenderTrust]], [[LiuXiu]], [[LiNieEasternHan]], [[QiaoXuanShuScholar]], [[WenQiYizhouEasternHan]], [[CoercedTalentLegitimacy]], [[PrincipledOfficeRefusal]]
+
+**Qualifications:**
+
+- This claim is source-scoped to Hanji 713 and records a chronological backfill rather than a complete biography of Gongsun Shu, Yan Cen, or Wu Han.
+- The Chengdu surrender case qualifies surrender-protection patterns because protection depends on receiver conduct.
+- The later Ma Cheng appointment is retained as next-episode setup rather than a separate historical branch.
 
 ### Early Eastern Han 724 Guangwu Xiongnu Split And Wuling
 
