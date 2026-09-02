@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-03] ingest | 从抢 GPU 到喂 AI，互联网正在悄悄更换主人
+
+Ingested the 2026-09-02 科技乱炖 episode on Nvidia/CUDA moat pressure, GPU scarcity and spot-market verification, domestic GPU/model substitution, model price routing, agent-readable web design, agent payment, MCP-style service access, and AI-assisted infrastructure operations. Created `ba044533d184-ba044533d184`, `GPUSpotMarketTrustFriction`, `AgentReadableWeb`, and `AIAssistedInfrastructureOperations`; updated `AgentPaymentInfrastructure`, `ToAgentDistribution`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; GPU price, model score, margin, domestic compute efficiency, and market-impact claims remain source-scoped.
+
 ## [2026-09-03] ingest | 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
 
 Ingested the 2026-09-02 乱翻书 episode on Doubao Work as ByteDance's Feishu/Doubao/Trae/Coze consolidation and its comparison with WorkBuddy and Qwen Office. Added source `272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp`; created `MarkLuanfanshu`, `ZhongJingwei`, `ZhongTaiAI`, `DoubaoWorkPartner`, `Trae`, `Coze`, `QwenOffice`, `OfficeAgentHarnessDesign`, and `EnterpriseConnectorContextQuality`; updated `DoubaoWork`, `TencentWorkBuddy`, `Feishu`, `EricFeishu`, `AIOfficeAgent`, `ChinaEnterpriseAISystemDebt`, `EnterpriseOperationalMemory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; WorkBuddy/WorkBody identity, product pricing, internal ByteDance organization, connector tests, and winner forecasts remain source-scoped.
@@ -15111,6 +15115,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-03] lint | Wiki health check
 
 Ran health, identity validation, and lint. Health scanned 16,991 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes and 195,431 edges; current graph checks found no hub stubs, one fragile bridge, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest` and no provider model/key variables are configured in this shell. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-03] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-03] lint | Wiki health check
 
