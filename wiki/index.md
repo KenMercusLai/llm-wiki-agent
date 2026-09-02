@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy](sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp.md) — 乱翻书 episode on Doubao Work as ByteDance's Feishu/Doubao/Trae/Coze consolidation, with WorkBuddy and Qwen Office comparisons, connector quality, office-agent harness design, token pricing, FDE, and enterprise AI readiness.
 - [678. Britain: God Save the King (Part 2)](sources/678-britain-god-save-the-king-part-2-glt2603959218.md) — The Rest Is History episode on God Save the King as Britain's ambiguous, Jacobite-to-Hanoverian anthem and on England/Scotland football anthem identity.
 - [Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing](sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468.md) — Huberman Lab Essentials episode on 24-hour sleep timing through morning sunlight, evening darkness, temperature, caffeine, alcohol/THC sleep architecture, supplements, wake consistency, and temperature-minimum clock shifting.
 - [Right in front: AfD could win German state](sources/right-in-front-afd-could-win-german-state-6a97f0a5a4a22c581728b85f.md) — The Intelligence episode on AfD's possible Saxony-Anhalt majority, Palantir's British public-service data tradeoffs, and Chinese premium chocolate localization.
@@ -5412,8 +5413,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tencent WorkBody](entities/TencentWorkBody.md) — Tencent AI office-agent product named by episode 270 as a non-programmer work-agent competitor.
 - [Doubao Enterprise Edition / 豆包企业版](entities/DoubaoEnterpriseEdition.md) — Source-scoped enterprise packaging where Doubao AI is sold through Feishu-like office workflows.
 - [Doubao Work / 豆包工作](entities/DoubaoWork.md) — ByteDance AI-office product named in the 2026 office-agent pivot, kept distinct from Doubao Enterprise Edition until product lineage is clearer.
+- [豆包工作伙伴 / Doubao Work Partner](entities/DoubaoWorkPartner.md) — Feishu AI partner/Ali successor whose ability differs by Feishu versus Doubao Work entry in episode 272.
+- [Trae](entities/Trae.md) — ByteDance developer/coding-agent product folded into the source's AI-work consolidation frame.
+- [Coze / 扣子](entities/Coze.md) — ByteDance agent/workflow product folded into the source's AI-work consolidation frame.
+- [Qwen Office / 千问办公](entities/QwenOffice.md) — Alibaba/Qwen office-agent product used as a comparator to Doubao Work and WorkBuddy.
 - [Eric (Feishu source)](entities/EricFeishu.md) — Source speaker with Feishu commercialization/product background explaining Feishu, Volcano Engine, and Doubao enterprise sales overlap.
 - [雅兰 / Yalan (Luanfanshu)](entities/YalanLuanfanshu.md) — Source speaker summarizing Doubao consumer monetization limits around GMV, ads, and subscription.
+- [Mark (Luanfanshu AI office source)](entities/MarkLuanfanshu.md) — Source speaker interpreting Doubao Work as organizational consolidation and commercial packaging.
+- [钟静伟 / Zhong Jingwei](entities/ZhongJingwei.md) — Source speaker with office-agent product background evaluating Doubao Work's harness and multi-agent design.
+- [钟泰 / Zhong Tai](entities/ZhongTaiAI.md) — AI entrepreneur comparing WorkBuddy, Trae Work, and Doubao Work through context, adoption, and startup defensibility.
 - [Wang Tiezhen / 王铁镇](entities/WangTiezhen.md) — Silicon Valley 101 guest explaining model distillation, scaling efficiency, Kimi K3 licensing, and open-model safety governance.
 - [Keith Zhai](entities/KeithZhai.md) — Silicon Valley 101 guest framing Chinese open-weight models through enterprise adoption, model sovereignty, Silicon Valley reaction, and closed API pressure.
 - [Moonshot AI / 月之暗面](entities/MoonshotAI.md) — Company behind Kimi and Kimi K3, used by E246 as the open-weight release and commercial licensing case.
@@ -12802,6 +12810,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paper Magazine Subscription Ritual / 纸刊订阅仪式](concepts/PaperMagazineSubscriptionRitual.md) — Post-fast-news value of print subscription as rhythm, attention protection, household habit, and physical arrival.
 - [Local Zine Revival / 在地小杂志回潮](concepts/LocalZineRevival.md) — Small place-based print revival using zines and city booklets to preserve local food, walking, taste, memory, and community identity.
 - [AI Office Agent](concepts/AIOfficeAgent.md) — Office/productivity agent category where models, coding-like execution, enterprise data, permissions, and workflows compete to become the work entry point.
+- [Office Agent Harness Design](concepts/OfficeAgentHarnessDesign.md) — Agent orchestration, context, tool, and multi-agent design layer for AI office products.
+- [Enterprise Connector Context Quality](concepts/EnterpriseConnectorContextQuality.md) — Difference between listing connectors and making permissioned enterprise context actually usable.
 - [Model Distillation / 模型蒸馏](concepts/ModelDistillation.md) — Technique and controversy split that distinguishes classic distillation from generated-output training, terms violations, and unsupported copying accusations.
 - [Model Distillation Evidence](concepts/ModelDistillationEvidence.md) — Evidence standard for judging distillation claims through behavior, provenance, and traffic signals rather than model self-identification.
 - [Model Identity Data Pollution / 模型身份数据污染](concepts/ModelIdentityDataPollution.md) — Evidence-quality warning that model self-identification errors can come from mixed public AI-output data rather than proving systematic distillation.
