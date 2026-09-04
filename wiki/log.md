@@ -15203,3 +15203,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-04] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-04] ingest | NYC public schools ban AI through middle school
+
+Ingested the 2026-09-04 Marketplace Tech weekend review with Joanna Stern on Apple's John Ternus transition, Google antitrust remedy limits, New York City public-school AI restrictions, companion-chatbot safety, and shopping-agent benchmarks. Added source `tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128`; created `NewYorkCityPublicSchools`, `SchoolAIBoundaries`, `ConsumerAIShoppingAgentBenchmark`, and `AICompetitionAntitrustRemedy`; updated `JohnTernus`, `TimCook`, `JoannaStern`, `Siri`, `PlatformAntitrust`, `AIGuidedLearningGuardrails`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; John Ternes/Ternus spelling, Google remedy details, NYC policy implementation, and shopping-agent rankings remain source-scoped.
+
+## [2026-09-04] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
