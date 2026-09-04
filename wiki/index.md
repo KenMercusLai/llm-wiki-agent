@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months](sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months.md) — The SaaS Podcast episode on Workshop's pivot from intranet to enterprise internal email, audience-before-product marketing, channel-native internal communications, and audience/channel pricing.
 - [NYC public schools ban AI through middle school](sources/tech-20260904-0904-mp-tech-pod-128-tech-20260904-0904-mp-tech-pod-128.md) — Marketplace Tech episode on Apple succession, Google antitrust remedies, New York City school AI restrictions, companion-chatbot child safety, and shopping-agent benchmarks.
 - [Bargaining chips: Nvidia is the bank of AI](sources/bargaining-chips-nvidia-is-the-bank-of-ai-6a9a86ffe7a9fe2478c4fc41.md) — The Intelligence episode on Nvidia guarantees and AI infrastructure finance, British knife-crime geography, county lines, violence-reduction policy, and Frank Smith's long incarceration.
 - [咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？](sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166.md) — 声动早咖啡 coffee-bean episode on balletcore footwear, thin-sole sneaker revival, ballet-sneaker hybrids, seasonal footwear scene expansion, and short updates on value snacks, Chinese beauty in Korea, Azure disclosure, and Uber restructuring.
@@ -1905,6 +1906,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Rick Knudtson](entities/RickKnudtson.md) — Repeat SaaS founder whose Workshop story shows a customer-signal-driven pivot from intranet to internal email.
+- [Workshop](entities/WorkshopInternalComms.md) — Enterprise internal communications SaaS that found product-market fit around email-centered multi-channel messaging.
+- [Flywheel (WordPress Hosting)](entities/FlywheelWordPressHosting.md) — Rick Knudtson's prior WordPress hosting company and the operating context behind Workshop's origin.
+- [Happy Monday Club](entities/HappyMondayClub.md) — Newsletter and resource channel used by Workshop to build practitioner audience before product maturity.
 - [New York City Public Schools](entities/NewYorkCityPublicSchools.md) — Public-school system used as a policy case for classroom AI restrictions, no-AI grading, and companion-chatbot boundaries.
 - [Miu Miu](entities/MiuMiu.md) — Luxury fashion brand treated as the 2022 catalyst for the current ballet-flat and balletcore footwear revival.
 - [Rockfish Weatherwear](entities/RockfishWeatherwear.md) — Weatherwear and footwear brand used as a case of spring/fall ballet shoes and functional ballet footwear expanding a rain-boot-origin brand.
@@ -10795,6 +10800,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Customer Signal Driven Pivot](concepts/CustomerSignalDrivenPivot.md) — Product-market-fit pattern where repeated customer evidence forces a product or positioning change.
+- [Enterprise Internal Email Infrastructure](concepts/EnterpriseInternalEmailInfrastructure.md) — Enterprise communications frame treating internal email as governed, measurable, deliverable infrastructure.
+- [Channel Native Internal Communication](concepts/ChannelNativeInternalCommunication.md) — Internal communications pattern for publishing through employee channels while preserving governance and analytics.
+- [Audience Before Product Marketing](concepts/AudienceBeforeProductMarketing.md) — Startup marketing pattern where trust and practitioner audience are built before the product is ready to sell.
 - [AI Competition Antitrust Remedy](concepts/AICompetitionAntitrustRemedy.md) — Antitrust-remedy argument that rapid AI competition can affect structural remedies without erasing incumbent platform power.
 - [Consumer AI Shopping Agent Benchmark](concepts/ConsumerAIShoppingAgentBenchmark.md) — Practical agent-evaluation frame using real shopping tasks, budgets, shipping deadlines, clarifying questions, and checkout follow-through.
 - [School AI Boundaries](concepts/SchoolAIBoundaries.md) — School-policy frame for AI access, screen limits, automated grading, companion chatbots, and AI-literacy tradeoffs.
