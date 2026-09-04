@@ -15341,3 +15341,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. Report printed in-session; wiki/lint-report.md was not updated.
+
+## [2026-09-05] ingest | VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区
+
+Ingested the 2023-03-20 这病说来话长 urology episode with 赵医生 on male urinary-health misconceptions, urinary infection sex precautions, mumps-related orchitis risk, cycling pressure, prostate symptoms, PSA interpretation, urinary frequency and urine color, midstream urine tests, kidney stones, renal masses, foreskin hygiene, foreign-body emergencies, and clinical care thresholds. Added source `vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y`; created `ZhaoDoctorUrology`, `MaleUrologicalHealthMisconceptions`, `UrologicalSymptomTriage`, `ProstateScreeningInterpretation`, `RenalFindingTriage`, `ForeskinHygieneSurgeryBoundary`, and `GenitourinaryForeignBodyEscalation`; updated `ZheBingShuoLaiHuaChang`, `index`, and `overview`. No settled contradiction found; symptom interpretation, PSA values, stone and renal-mass management, foreskin choices, and individual treatment decisions remain source-scoped public medical education.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
