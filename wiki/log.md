@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-05] ingest | VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音
+
+Ingested the 2023-03-22 这病说来话长 anesthesia episode with 董心彤 from 深圳市人民医院 on preoperative anesthesia assessment, anesthesia clinics, post-COVID timing, teeth and dentures, pulse-oximetry reliability, infection testing, medication handling, snoring, blood pressure, blood preparation, transfusion/circulation, and fasting to prevent reflux and aspiration. Added source `vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn`; created `PreoperativeAnesthesiaAssessment`; updated `DongXintong`, `ShenzhenPeopleHospital`, `ZheBingShuoLaiHuaChang`, `PerioperativeAnesthesiaSafety`, `OperatingRoomPhysiologyManagement`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; post-COVID timing, medication instructions, infection testing, blood-pressure thresholds, transfusion, fasting, and individual anesthesia decisions remain source-scoped.
+
 ## [2026-09-05] ingest | 316: The First Abolitionist
 
 Ingested the 2023-03-27 The Rest Is History episode on Benjamin Lay, Quaker radicalism, Barbados plantation slavery, ethical-consumption boycott, anti-slavery pamphleteering, public protest stunts, and Philadelphia Friends' discipline against slaveholding. Added source `316-the-first-abolitionist-glt2136062721`; created `BenjaminLay`, `SarahLay`, `Quakers`, `Barbados`, `AbolitionistPublicWitness`, `QuakerInwardEquality`, `PlantationSlaveryMoralShock`, and `SlaveProducedGoodsBoycott`; updated `BenjaminFranklin`, `TheRestIsHistory`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the first-abolitionist label, Barbados violence descriptions, Franklin sympathy, Quaker disciplinary timing, and modern protest comparisons remain source-scoped.
@@ -15333,3 +15337,7 @@ Ingested the 2023-03-23 The Rest Is History episode on Atlantis from Plato throu
 ## [2026-09-05] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-05] lint | Wiki health check
+
+Ran lint. Report printed in-session; wiki/lint-report.md was not updated.
