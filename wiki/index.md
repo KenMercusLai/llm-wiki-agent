@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal](sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250.md) — All-In episode on frontier AI rollouts, AI market euphoria, agent-security narratives, NYC school AI boundaries, SF housing scarcity, data-center politics, and a source-scoped Venezuela oil concession.
 - [Trump drinks Venezuela's milkshake](sources/trump-drinks-venezuelas-milkshake.md) — Planet Money episode on Venezuela's Trump-era oil reopening, José Ángel Pereira, Apertura, PDVSA underinvestment, Citgo imprisonment, and the foreign-capital-versus-national-control cycle.
 - [《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？](sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc.md) — 芮淇讲透资治通鉴 episode on Cao Cao judging Yuan Shang's relief route, defeating the rescue attempt, showing captured spoils to Ye's defenders, Shen Rong opening the east gate, and Shen Pei's execution.
 - [《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？](sources/zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet.md) — 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger infiltration.
@@ -1929,6 +1930,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [ChatGPT 6 / Astra](entities/ChatGPT6Astra.md) — Source-scoped OpenAI frontier-model rollout discussed as a near-AGI trigger in the All-In episode.
+- [Instinct Personal AI](entities/InstinctPersonalAI.md) — Personal-AI private beta whose value depends on user-data access and reliable task execution.
+- [North American Blue Energy Partners](entities/NorthAmericanBlueEnergyPartners.md) — Source-scoped Venezuelan oil-concession vehicle named in the All-In episode.
 - [José Ángel Pereira](entities/JoseAngelPereira.md) — Venezuelan oil executive and former Citgo CEO whose career links Apertura, PDVSA renationalization, and geopolitical imprisonment risk.
 - [曹整 / Cao Zheng (late Han)](entities/CaoZhengLateHan.md) — Cao Cao's son used as the marriage tie that temporarily stabilizes Yuan Tan after Cao detects Yuan Tan's secret seal-lure.
 - [贺齐 / He Qi (late Han)](entities/HeQiLateHan.md) — Sun Quan's pacification officer who suppresses Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, selects troops, and strengthens Jiangdong control.
@@ -10889,6 +10893,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Agent Civilization Narrative](concepts/AgentCivilizationNarrative.md) — Anthropomorphic framing of AI-agent security incidents as emergent agent societies, contested by sandbox and operational-security explanations.
+- [Open-Closed AI Market Structure](concepts/OpenClosedAIMarketStructure.md) — AI competition frame between closed frontier labs, open-weight or open-market alternatives, and cheap commodity-capable models.
+- [AI Wealth Housing Scarcity](concepts/AIWealthHousingScarcity.md) — Dynamic where concentrated AI liquidity events collide with scarce high-end housing supply.
+- [Bloom Two Sigma Problem](concepts/BloomTwoSigmaProblem.md) — Education benchmark in which one-on-one tutoring produces large learning gains but is hard to scale without technology.
 - [Oil Reopening Backlash](concepts/OilReopeningBacklash.md) — Cycle where a weakened oil state reopens to foreign capital and technology, then faces legitimacy backlash when terms look unfair, imposed, or sovereignty-threatening.
 - [Healthspan Three Domains](concepts/HealthspanThreeDomains.md) — Longevity frame distinguishing physical, cognitive, and emotional healthspan from lifespan alone.
 - [ApoB Particle Burden](concepts/ApoBParticleBurden.md) — Cardiovascular-risk frame treating ApoB-containing particle count as the causal lipid burden to manage.
