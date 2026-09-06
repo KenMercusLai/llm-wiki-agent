@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
 - [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
 - [《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！](sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho.md) — 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Gui Lan and Dai Yuan's deaths, and Sun Quan's punitive cleanup.
 - [《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？](sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft.md) — 芮淇讲透资治通鉴 episode on Qian Zhao blocking Yuan Tan's Wuhuan rescue by confronting Liaodong envoy Han Zhong, rejecting Gongsun Kang's chanyu seal, and forcing Wuhuan to dismiss the envoy and disband five thousand cavalry.
@@ -3615,7 +3616,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [臧洪 / Zang Hong](entities/ZangHong.md) — Late-Han official whose 996-997 branch ties old-superior loyalty to failed rescue, East Commandery starvation, final refusal, and emotion-driven political rigidity.
 - [张超 / Zhang Chao (Late Han)](entities/ZhangChaoLateHan.md) — Zang Hong's old Guangling superior, trapped at Yongqiu by Cao Cao, whose death and family destruction become the moral grievance behind Hanji 996-997.
 - [张邈 / Zhang Miao (Late Han)](entities/ZhangMiaoLateHan.md) — Cao Cao's trusted friend turned Yanzhou betrayer, later remembered through Zhang Chao and Zang Hong's failed-rescue grievance.
-- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer who warns He Jin against outside-troop escalation, writes Yuan Shao's Zang Hong persuasion letter, and composes the anti-Cao proclamation before Guandu.
+- [陈琳 / Chen Lin (Late Han)](entities/ChenLinLateHan.md) — Late-Han adviser and writer whose anti-Cao proclamation later becomes a Cao-side talent-conversion case after surrender.
 - [朱治 / Zhu Zhi (Late Han)](entities/ZhuZhiLateHan.md) — Danyang officer in Hanji 996 whose move into Wu shows Jiangdong local authority fragmenting.
 - [严白虎 / Yan Baihu](entities/YanBaihu.md) — Wu-region local strongman who functions as refuge, secondary threat, and defeated remnant in Sun Ce's Jiangdong consolidation.
 - [雍丘 / Yongqiu (Late Han)](entities/YongqiuLateHan.md) — Siege setting where Zhang Chao falls to Cao Cao, triggering Zang Hong's break with Yuan Shao.
@@ -3909,8 +3910,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, outside-aid request, and secret seal-lure make him Cao Cao's useful but distrusted wedge against Yuan Shang.
 - [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, exposed Ye defense, failed relief, and flight under Cao Cao's pressure.
-- [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation with Yuan Shang before the fraternal split hardens.
-- [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai official whose costly loyalty to Yuan Tan survives a Qingzhou defection wave.
+- [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation, buries Yuan Tan, and protects Guan Tong as a loyal former retainer.
+- [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai/Le'an official whose costly loyalty to Yuan Tan survives defection, defeat, and Cao-side pardon.
 - [辛毗 / Xin Pi (late Han)](entities/XinPiLateHan.md) — Xin Ping's younger brother and Yuan Tan envoy who persuades Cao Cao to exploit Yuan-family exhaustion through the Hebei opening.
 - [郑玄 / Zheng Xuan](entities/ZhengXuan.md) — Late-Han Confucian scholar honored by Kong Rong, used in Hanji 1007 to separate scholarly prestige from actual governing capacity.
 - [左承祖 / Zuo Chengzu](entities/ZuoChengzu.md) — Beihai adviser whose realistic advice to rely on a stronger power is rejected and punished by Kong Rong.
@@ -11697,7 +11698,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [派系站队退出资本 / Factional Alignment Exit Capital](concepts/FactionalAlignmentExitCapital.md) — Hanji 1027 workplace frame for reading informal power while building portable professional value and exit options.
 - [骑墙式战略暴露 / Fence-Sitting Strategic Exposure](concepts/FenceSittingStrategicExposure.md) — Wei Xiao and Liu Biao pattern where short-term neutrality becomes exploitable through hostage-only signals, local fissures, external patrons, and envoy loyalty traps.
 - [猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation](concepts/SuspicionDrivenEliteAlienation.md) — Wei Xiao and Liu Biao pattern where insecure handling of adviser exit, duty warnings, and court-facing insiders damages elite confidence.
-- [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Hanji 1028 pattern where Sun Ce turns captured rivals such as Zu Lang and Taishi Ci into visible proof of authority, restraint, and usable talent.
+- [降敌任用式立威 / Captured Opponent Talent Incorporation](concepts/CapturedOpponentTalentIncorporation.md) — Pattern where victors turn captured or hostile defeated-camp talent into visible proof of authority, restraint, and usable capacity.
 - [Rescue Reciprocity Command Trust / 救援互惠式统帅信任](concepts/RescueReciprocityCommandTrust.md) — Command-trust pattern where actual rescue and recognition make endurance rational, while repeated non-rescue makes later relief brittle.
 - [Trade Diversification Stability Paradox](concepts/TradeDiversificationStabilityParadox.md) — Pattern where escaping dependence on a dominant trade partner first requires enough stability with that partner to attract investment.
 - [Entry-Cohort Labor Market Scarring](concepts/EntryCohortLaborMarketScarring.md) — Long-run wage, pension, and housing damage from entering the workforce during a weak hiring regime.
