@@ -15240,6 +15240,10 @@ Ingested the 2026-09-03 The Intelligence episode on Donald Trump's quieter but s
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Qian Zhao's Jian'an 9 Wuhuan mission after Yuan-family collapse around Ye. Added source `zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft`; created `QianZhaoLateHan`, `GongsunKangLateHan`, and `HanZhongLiaodongLateHan`; updated `Wuhuan`, `CoalitionFractureExploitation`, `IrreversibleDefectionBinding`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the unnamed Wuhuan leader is not merged with Tadun, and the Liaodong envoy Han Zhong is kept separate from the Yellow Turban Han Zhong page.
+
 ## [2026-09-05] ingest | 《资治通鉴·汉纪》1062丨山贼的逆袭：盗贼出身的他是如何站队的？
 
 Ingested the 2026-09-04 芮淇讲透资治通鉴 episode on Zhang Yan's Black Mountain alignment with Cao Cao, Cao Cao's moat-and-water siege of Ye, and Li Fu's disguised messenger run into and out of Ye. Added source `zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet`; created `LiFuLateHan`, `MountainBaseStrategicOptionality`, and `AuthorityDisguiseInfiltration`; updated `ZhangYanLateHan`, `HeishanArmy`, `ShenPeiLateHan`, `YuanShang`, `YeLateHan`, `HydraulicSiegeWarfare`, `OfficeBasedRebelIncorporation`, `index`, and `overview`. No settled contradiction found; 夜城/沈佩/李福 are normalized to 邺城/审配/李孚, and the engineering details, starvation scale, Li Fu costume props, Cao Cao's reported reaction, and Zhang Yan title sequence remain source-scoped.
@@ -15409,5 +15413,9 @@ Ran health, identity validation, and lint. Health scanned 17,282 wiki pages with
 Ingested the 2026-09-04 All-In episode on ChatGPT 6/Astra claims, AI market euphoria, Instinct personal AI, agent-security narratives, open-versus-closed AI markets, San Francisco AI wealth and housing scarcity, data-center politics, New York City school AI boundaries, and a source-scoped Venezuelan oil concession. Added source `all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250`; created `ChatGPT6Astra`, `InstinctPersonalAI`, `NorthAmericanBlueEnergyPartners`, `AgentCivilizationNarrative`, `OpenClosedAIMarketStructure`, `AIWealthHousingScarcity`, and `BloomTwoSigmaProblem`; updated `AgentEnvironmentIsolation`, `FrontierModelDuopoly`, `TechBubbleConditions`, `LateStagePrivateCompanyValuationRisk`, `SchoolAIBoundaries`, `NewYorkCityPublicSchools`, `HumanCenteredAIEducation`, `ZohranMamdani`, `OilConcessionBargaining`, `OilReopeningBacklash`, `index`, and `overview`. No settled contradiction found; the ChatGPT 6/Astra rollout, Instinct implementation, OpenAI/Hugging Face incident mechanics, foreign-influence claims around data-center opposition, New York City counts, and Venezuela deal terms remain source-scoped.
 
 ## [2026-09-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
