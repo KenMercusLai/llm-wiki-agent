@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
 - [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
 - [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
 - [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
@@ -1935,6 +1936,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Dwarkesh Patel](entities/DwarkeshPatel.md) — Source-scoped media reference cited for the "agent civilizations" framing in the All-In AI-agent narrative discussion.
+- [Qianling Mountain Macaques / 黔灵山猕猴](entities/QianlingMountainMacaques.md) — Urban-park macaque population used by EP282 to connect tourism feeding, habituation, carrying capacity, bites, and relocation uncertainty.
+- [Nanjing Wild Boars / 南京野猪](entities/NanjingWildBoars.md) — Urban and peri-urban boar case where visibility gaps, crop damage, feeding risk, ecological role, and culling controversy intersect.
+- [Shanghai Raccoon Dogs / 上海貉](entities/ShanghaiRaccoonDogs.md) — Residential wildlife case where old-building shelter, garbage, cat food, health signs, and indirect feeding complicate coexistence.
 - [袁熙 / Yuan Xi (late Han)](entities/YuanXiLateHan.md) — Yuan-family Youzhou refuge figure displaced by Jiao Chu and Zhang Nan into Wuhuan dependence.
 - [刘放 / Liu Fang (late Han)](entities/LiuFangLateHan.md) — Yuyang adviser who persuades Wang Song to submit Zhuo commandery to Cao Cao.
 - [王嵩 / Wang Song (late Han)](entities/WangSongLateHan.md) — Zhuo commandery local holder who submits to Cao Cao after Liu Fang's advice.
@@ -10925,6 +10930,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Urban Wildlife Coexistence / 城市野生动物共存](concepts/UrbanWildlifeCoexistence.md) — City-wildlife frame for animals becoming everyday urban neighbors through habitat change, feeding, affection, fear, planning, and public management.
+- [Wildlife Feeding Feedback Loop / 野生动物投喂反馈回路](concepts/WildlifeFeedingFeedbackLoop.md) — Mechanism where intentional or indirect feeding reduces wildlife avoidance and turns care, content, garbage, and pet food into conflict drivers.
+- [Urban Wildlife Conflict Management / 城市野生动物冲突治理](concepts/UrbanWildlifeConflictManagement.md) — Governance frame for bans, enforcement, relocation, contraception, hunting, welfare, public health, and design responses to city wildlife conflict.
 - [降人传令式安民 / Surrendered Local Messenger Pacification](concepts/SurrenderedLocalMessengerPacification.md) — Post-capture order tactic where a surrendered but locally trusted intermediary carries the victor's commands to calm a newly taken city.
 - [忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal](concepts/LoyalRefusalLegitimacySignal.md) — Pattern where tolerating a loyal refusal during surrender strengthens the victor's legitimacy image.
 - [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Commandery-control problem where route position, local elites, and nearby rebels make governor selection strategic.
