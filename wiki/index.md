@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
 - [《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！](sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho.md) — 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Gui Lan and Dai Yuan's deaths, and Sun Quan's punitive cleanup.
 - [《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？](sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft.md) — 芮淇讲透资治通鉴 episode on Qian Zhao blocking Yuan Tan's Wuhuan rescue by confronting Liaodong envoy Han Zhong, rejecting Gongsun Kang's chanyu seal, and forcing Wuhuan to dismiss the envoy and disband five thousand cavalry.
 - [GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal](sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250.md) — All-In episode on frontier AI rollouts, AI market euphoria, agent-security narratives, NYC school AI boundaries, SF housing scarcity, data-center politics, and a source-scoped Venezuela oil concession.
@@ -1932,6 +1933,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [袁熙 / Yuan Xi (late Han)](entities/YuanXiLateHan.md) — Yuan-family Youzhou refuge figure displaced by Jiao Chu and Zhang Nan into Wuhuan dependence.
+- [刘放 / Liu Fang (late Han)](entities/LiuFangLateHan.md) — Yuyang adviser who persuades Wang Song to submit Zhuo commandery to Cao Cao.
+- [王嵩 / Wang Song (late Han)](entities/WangSongLateHan.md) — Zhuo commandery local holder who submits to Cao Cao after Liu Fang's advice.
+- [焦触 / Jiao Chu (late Han)](entities/JiaoChuLateHan.md) — Yuan-side subordinate who attacks Yuan Xi and coerces Youzhou officials into a Cao-side blood oath.
+- [张南 / Zhang Nan (late Han)](entities/ZhangNanLateHan.md) — Late-Han Yuan-side actor paired with Jiao Chu in the Youzhou reversal against Yuan Xi.
+- [韩恒 / Han Heng (late Han)](entities/HanHengLateHan.md) — Loyal refusal figure who declines Jiao Chu's Cao-side oath and is released.
+- [赵独 / Zhao Du (late Han)](entities/ZhaoDuLateHan.md) — Youzhou rebel suppressed by Cao Cao after the surrender wave.
+- [霍奴 / Huo Nu (late Han)](entities/HuoNuLateHan.md) — Youzhou rebel paired with Zhao Du in killing local officials.
+- [杜畿 / Du Ji (late Han)](entities/DuJiLateHan.md) — Xun Yu-recommended administrator appointed to hold Hedong during western instability.
+- [王邑 / Wang Yi (Hedong administrator)](entities/WangYiHedongLateHan.md) — Outgoing Hedong administrator whose handoff to Du Ji becomes contested.
+- [卫固 / Wei Gu (late Han)](entities/WeiGuLateHan.md) — Hedong local actor whose Wang Yi retention request is linked to Gao Gan.
+- [范先 / Fan Xian (late Han)](entities/FanXianLateHan.md) — Hedong zhonglangjiang paired with Wei Gu in the suspicious Wang Yi retention request.
+- [张盛 / Zhang Sheng (late Han)](entities/ZhangShengLateHan.md) — Henei armed actor active around Xiaoshan and Mianchi in the post-Ye instability chain.
+- [张衍 / Zhang Yan (Hedong-Hongnong actor)](entities/ZhangYanHedongLateHan.md) — Hongnong-area actor rising in response to Zhang Sheng, distinct from Black Mountain Zhang Yan.
 - [ChatGPT 6 / Astra](entities/ChatGPT6Astra.md) — Source-scoped OpenAI frontier-model rollout discussed as a near-AGI trigger in the All-In episode.
 - [Instinct Personal AI](entities/InstinctPersonalAI.md) — Personal-AI private beta whose value depends on user-data access and reliable task execution.
 - [North American Blue Energy Partners](entities/NorthAmericanBlueEnergyPartners.md) — Source-scoped Venezuelan oil-concession vehicle named in the All-In episode.
@@ -10905,6 +10920,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal](concepts/LoyalRefusalLegitimacySignal.md) — Pattern where tolerating a loyal refusal during surrender strengthens the victor's legitimacy image.
+- [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Commandery-control problem where route position, local elites, and nearby rebels make governor selection strategic.
 - [Agent Civilization Narrative](concepts/AgentCivilizationNarrative.md) — Anthropomorphic framing of AI-agent security incidents as emergent agent societies, contested by sandbox and operational-security explanations.
 - [Open-Closed AI Market Structure](concepts/OpenClosedAIMarketStructure.md) — AI competition frame between closed frontier labs, open-weight or open-market alternatives, and cheap commodity-capable models.
 - [AI Wealth Housing Scarcity](concepts/AIWealthHousingScarcity.md) — Dynamic where concentrated AI liquidity events collide with scarce high-end housing supply.

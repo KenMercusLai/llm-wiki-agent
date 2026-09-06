@@ -15427,3 +15427,11 @@ Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Sun Yi's Danyang ass
 ## [2026-09-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

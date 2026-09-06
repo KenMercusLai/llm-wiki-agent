@@ -1,6 +1,34 @@
 {
   "claims": [
     {
+      "global_candidate": false,
+      "id": "late-han-1070-surrender-legitimacy-and-commandery-handoff",
+      "qualifications": [
+        "This is a historical governance synthesis from one Hanji episode, not a general theory of legitimate surrender or commandery administration.",
+        "The blood-oath scene shows coercive public compliance; it does not establish sincere loyalty among all Youzhou officials.",
+        "Hedong elite collusion is treated as suspicion and appointment risk, not as independently proven guilt for every local actor."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] adds a late-Han governance case where conquest becomes an authority-transfer problem: [[JiaoChuLateHan]] uses oath coercion to create a public surrender cascade, [[HanHengLateHan]] and [[LoyalRefusalLegitimacySignal]] show that principled refusal can strengthen legitimacy by being spared, [[ZhangYanLateHan]] shows rebel capacity converted through titles, and [[DuJiLateHan]] plus [[TransitHubCommanderyControl]] make Hedong appointment and seal handoff a test of whether central authority can cross local-elite resistance from [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o",
+        "JiaoChuLateHan",
+        "ZhangNanLateHan",
+        "HanHengLateHan",
+        "LoyalRefusalLegitimacySignal",
+        "ZhangYanLateHan",
+        "GaoGanLateHan",
+        "DuJiLateHan",
+        "TransitHubCommanderyControl",
+        "WangYiHedongLateHan",
+        "WeiGuLateHan",
+        "FanXianLateHan",
+        "ZhaoDuLateHan",
+        "HuoNuLateHan",
+        "RuiqiJiangtouZizhiTongjian"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "venezuela-oil-reopening-shows-resource-sovereignty-legitimacy-risk",
       "qualifications": [
@@ -4273,8 +4301,8 @@
       ]
     }
   ],
-  "input_digest": "a2f9f0d843f543ee73b2b49db3e06f9a3dbf1a7ba9a65fed8b346b107446705c",
-  "summary": "The latest All-In episode extends governance synthesis in two directions: Venezuelan oil reopening now includes a source-scoped U.S.-linked concession whose authority and property-rights durability are central legitimacy tests, while New York City school AI policy shows that protective AI restrictions need supervised literacy and equitable tutor access to avoid becoming defensive bans. The Venezuela oil-reopening episode adds a governance-legitimacy case: state resource ownership, PDVSA operating capacity, foreign capital, constitutional claims, and executive detention risk can collide inside one oil bargain. African Amazons adds a governance case where female authority is institutional rather than merely symbolic: Kushite Kandakes, Asante queen mothers, Njinga, Ranavalona I, and Dahomey's Agojie show offices, councils, diplomacy, coercive sovereignty, military regiments, and source-bias constraints. Existing governance synthesis still centers legitimacy, institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the difference between nominal authority and usable capacity.",
+  "input_digest": "e0d03871260aad4ac784e19062f8d577c67673116f8d64788c8375996dc3bbec",
+  "summary": "Hanji 1070 adds a late-Han governance case in which post-victory rule depends on turning military advantage into credible settlement: coerced oath-taking, loyal refusal, formal title rewards, rebel-force incorporation, renewed Youzhou violence, and Hedong commandery handoff all test whether nominal submission becomes usable authority. The latest All-In episode still extends governance synthesis through Venezuelan oil legitimacy risk and New York City school AI boundaries; broader governance synthesis continues to center institutional capacity, correction mechanisms, office quality, legal boundaries, disaster response, public symbols, and the gap between nominal authority and usable capacity.",
   "title": "Governance and Institutions",
   "topic_id": "governance-and-institutions"
 }
