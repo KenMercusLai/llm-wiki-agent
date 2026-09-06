@@ -15419,3 +15419,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Sun Gao and Fu Ying's loyalist ambush, Gui Lan and Dai Yuan's deaths, and Sun Quan's subsequent punitive cleanup. Added source `zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho`; created `LadyXuSunYi`, `GuiLanLateHan`, `DaiYuanLateHan`, `BianHongLateHan`, `SunGaoLateHan`, `FuYingLateHan`, and `DanyangCoupLateHan`; updated `SunYiLateHan`, `SunHeLateHan`, `DesireDrivenCommandExposure`, `FemaleRevengeAndPoliticalOrder`, `RetainerRevengeMobilization`, `index`, and `overview`. No settled contradiction found; transcript spellings 孙逸/归岚/代元/边红/傅英 are normalized to 孙翊/妫览/戴员/边鸿/傅婴 as source-scoped variants.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

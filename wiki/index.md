@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！](sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho.md) — 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Gui Lan and Dai Yuan's deaths, and Sun Quan's punitive cleanup.
 - [《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？](sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft.md) — 芮淇讲透资治通鉴 episode on Qian Zhao blocking Yuan Tan's Wuhuan rescue by confronting Liaodong envoy Han Zhong, rejecting Gongsun Kang's chanyu seal, and forcing Wuhuan to dismiss the envoy and disband five thousand cavalry.
 - [GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal](sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250.md) — All-In episode on frontier AI rollouts, AI market euphoria, agent-security narratives, NYC school AI boundaries, SF housing scarcity, data-center politics, and a source-scoped Venezuela oil concession.
 - [Trump drinks Venezuela's milkshake](sources/trump-drinks-venezuelas-milkshake.md) — Planet Money episode on Venezuela's Trump-era oil reopening, José Ángel Pereira, Apertura, PDVSA underinvestment, Citgo imprisonment, and the foreign-capital-versus-national-control cycle.
@@ -3079,7 +3080,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
 - [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser whose profile runs from leaving Yuan Shu with Zhou Yu to presenting Sun Quan with the Ta Shang Ce two-part Yangtze strategy.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that supports resistance and later forces Sun Quan into county-level pacification through officers and He Qi.
-- [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son named in Hanji 982 and added by Hanji 1028 to Cao Cao's hostage-like court-service leverage over Sun Ce.
+- [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son later murdered in the Danyang coup, prompting Lady Xu's staged revenge against Gui Lan and Dai Yuan.
+- [徐夫人 / Lady Xu (Sun Yi)](entities/LadyXuSunYi.md) — Sun Yi's wife who uses mourning delay, staged remarriage, and loyalist coordination to avenge his murder; distinct from the Jing Ke dagger-maker Xu Furen.
+- [丹阳郡变 / Danyang Coup (late Han)](entities/DanyangCoupLateHan.md) — Jian'an 9 Danyang assassination-and-revenge event involving Sun Yi, Sun He, Lady Xu, Gui Lan, Dai Yuan, Bian Hong, Sun Gao, and Fu Ying.
+- [妫览 / Gui Lan (late Han)](entities/GuiLanLateHan.md) — Danyang conspirator who helps murder Sun Yi, demands Lady Xu as wife, and is killed in her revenge trap.
+- [戴员 / Dai Yuan (late Han)](entities/DaiYuanLateHan.md) — Gui Lan's Danyang co-conspirator in Sun Yi's murder, killed during Lady Xu's coordinated revenge action.
+- [边鸿 / Bian Hong (late Han)](entities/BianHongLateHan.md) — Sun Yi intimate bought off by Gui Lan and Dai Yuan to carry out the banquet assassination.
+- [孙高 / Sun Gao (late Han)](entities/SunGaoLateHan.md) — Sun Yi loyalist secretly mobilized by Lady Xu and later rewarded by Sun Quan after killing Gui Lan.
+- [傅婴 / Fu Ying (late Han)](entities/FuYingLateHan.md) — Sun Yi loyalist paired with Sun Gao in Lady Xu's room ambush against Gui Lan.
 - [关静 / Guan Jing (Late Han)](entities/GuanJingLateHan.md) — Gongsun Zan adviser whose Yijing warning and final loyalist death expose command trust after the fortress falls.
 - [公孙旭 / Gongsun Xu (Late Han)](entities/GongsunXuLateHan.md) — Gongsun Zan's son sent for Black Mountain help and later tied to the failed fire-signal relief plan at Yijing.
 - [Mark Carney](entities/MarkCarney.md) — Canadian prime minister tied to U.S. tariff response, trade diversification constraints, energy independence, and the Major Projects Office.
@@ -11968,7 +11976,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丧礼化收编 / Mourning-Framed Military Absorption](concepts/MourningFramedMilitaryAbsorption.md) — Hanji 1010 pattern where Liu Biao turns Zhang Ji's death from a victory celebration into mourning language that lets leaderless troops submit without public humiliation.
 - [趁丧不伐 / Mourning Diplomatic Restraint](concepts/MourningDiplomaticRestraint.md) — Hanji 797 norm that rejects attacking a frontier opponent during royal mourning and turns condolence, rebuke, and pardon into statecraft.
 - [保境安民式守成治理 / Defensive Local Governance](concepts/DefensiveLocalGovernance.md) — Hanji 1010 Liu Biao pattern where real local stability, scholar attraction, and ritual restraint protect Jingzhou but do not equal conquest-level strategic capacity.
-- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Hanji 1012-1013 Wancheng pattern where private desire, surrendered-force humiliation, subordinate-poaching anxiety, guard disarming, and night attack become one command-security failure.
+- [Desire-Driven Command Exposure / 私欲驱动的统帅暴露](concepts/DesireDrivenCommandExposure.md) — Pattern where private desire distorts command security or access judgment, from Cao Cao's Wancheng exposure to Gui Lan entering Lady Xu's trap.
 - [Wei-Jin Style Cultural Afterlife / 魏晋风度文化后效](concepts/WeiJinStyleCulturalAfterlife.md) — Hanji 1013 bridge from He Yan's Cao-household position to later Wei-Jin elite style, xuanxue, drug use, fragrance, appearance, and qingtan.
 - [Ten Victories and Ten Defeats / 十胜十败论](concepts/TenVictoriesTenDefeats.md) — Hanji 1014 frame comparing Cao Cao and Yuan Shao by leadership system, legitimacy, discipline, talent use, reward/punishment, and military judgment.
 - [Command Discipline Authority / 军法威严](concepts/CommandDisciplineAuthority.md) — Command-law pattern where high-status disobedience, public contempt, or benevolent non-control can erode enforceable military authority.
@@ -12365,7 +12373,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surveillance-Based Ruler Control / 窥察制衡式君术](concepts/SurveillanceBasedRulerControl.md) — Ruler technique based on hidden observation, staged tests, and counterweights rather than open institutional reform.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
-- [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Wang Sun Gu's conversion of subject-duty shame into a public revenge force against Zhuo Chi.
+- [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Pattern where loyalty to a killed ruler or commander becomes organized revenge, from Wang Sun Gu's public pledge to Lady Xu's covert Sun Gao-Fu Ying ambush.
 - [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where loyalty, duty, refuge, or honor shifts danger onto family, hosts, followers, civilians, or local people.
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
@@ -15263,7 +15271,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Experimental Failure As Knowledge](concepts/ExperimentalFailureAsKnowledge.md) — Pattern where failed, lucky, or inconclusive experiments still clarify limits when interpreted honestly.
 - [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
-- [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern where Medea's revenge exposes real gender injury while destroying family, city, and human relation.
+- [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern sorting women's revenge by its relation to order, from Medea's anti-political rupture and Corday's assassination to Lady Xu's targeted Danyang restoration.
 - [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system centered on Chengdu, huajiao, street food, markets, offal, texture, learned appetite, and internal technical renewal.
 - [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, etiquette, and restaurant-format rules before fair judgment is possible.
 - [Food Texture Aesthetics](concepts/FoodTextureAesthetics.md) — Mouthfeel-centered food value around crunch, bounce, gelatinousness, tenderness, and other texture categories.
