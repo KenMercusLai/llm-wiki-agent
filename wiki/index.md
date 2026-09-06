@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
 - [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
 - [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
 - [《资治通鉴·汉纪》1067丨三国最霸气的女人：为报夫仇，拿自己当诱饵！](sources/zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho.md) — 芮淇讲透资治通鉴 episode on Sun Yi's Danyang assassination, Lady Xu's staged remarriage trap, Gui Lan and Dai Yuan's deaths, and Sun Quan's punitive cleanup.
@@ -1953,6 +1954,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [North American Blue Energy Partners](entities/NorthAmericanBlueEnergyPartners.md) — Source-scoped Venezuelan oil-concession vehicle named in the All-In episode.
 - [José Ángel Pereira](entities/JoseAngelPereira.md) — Venezuelan oil executive and former Citgo CEO whose career links Apertura, PDVSA renationalization, and geopolitical imprisonment risk.
 - [曹整 / Cao Zheng (late Han)](entities/CaoZhengLateHan.md) — Cao Cao's son used as the marriage tie that temporarily stabilizes Yuan Tan after Cao detects Yuan Tan's secret seal-lure.
+- [曹淳 / Cao Chun (late Han)](entities/CaoChunLateHan.md) — Cao-family cavalry commander whose Nanpi tempo advice and pursuit close Yuan Tan's claimant arc.
 - [贺齐 / He Qi (late Han)](entities/HeQiLateHan.md) — Sun Quan's pacification officer who suppresses Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, selects troops, and strengthens Jiangdong control.
 - [吕旷 / Lyu Kuang (late Han)](entities/LyuKuangLateHan.md) — Yuan Shang subordinate who defects to Cao Cao and becomes part of Yuan Tan's secret seal-lure episode.
 - [高翔 / Gao Xiang (late Han)](entities/GaoXiangLateHan.md) — Yuan Shang subordinate paired with Lyu Kuang in the defection and seal-lure episode.
@@ -3551,6 +3553,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
 - [孙河 / Sun He (late Han)](entities/SunHeLateHan.md) — Early Sun Ce companion named with Lu Fan during the Danyang recruitment phase.
+- [孙韶 / Sun Shao (late Han)](entities/SunShaoLateHan.md) — Sun He's young son who gathers remaining troops, defends Jing County, and receives formal command after Sun Quan's readiness test.
 - [陆康 / Lu Kang (late Han)](entities/LuKangLateHan.md) — Clean late-Han official whose Le'an remonstrance against palace-construction taxes precedes his later Lujiang refusal of Yuan Shu's grain demand.
 - [庐江郡 / Lujiang Commandery](entities/LujiangCommandery.md) — Commandery promised to Sun Ce, awarded to Liu Xun, and later exposed when Sun Ce lures Liu Xun out and captures Wan City.
 - [李术 / Li Shu (late Han)](entities/LiShuLateHan.md) — Lujiang administrator whose resistance to Sun Quan ends in the Wan City campaign after Cao Cao declines to rescue him.
@@ -3909,6 +3912,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [洛阳 / Luoyang (late Han)](entities/LuoyangLateHan.md) — Damaged imperial city whose burned palaces, starving officials, weak supplies, and unstable military surroundings make the Xu relocation plausible.
 - [孙静 / Sun Jing (late Han)](entities/SunJingLateHan.md) — Sun Ce's uncle and Kuaiji campaign adviser whose detour-and-rear-attack plan breaks Wang Lang's Guling defense.
 - [袁谭 / Yuan Tan](entities/YuanTan.md) — Yuan Shao son whose Qingzhou base, succession grievance, outside-aid request, and secret seal-lure make him Cao Cao's useful but distrusted wedge against Yuan Shang.
+- [南皮 / Nanpi (late Han)](entities/NanpiLateHan.md) — Yuan Tan's final defensive site, later treated as a post-capture pacification and burial-aftermath setting.
 - [袁尚 / Yuan Shang](entities/YuanShang.md) — Yuan Shao son privately favored and factionally installed, whose rivalry with Yuan Tan turns into retreat, exposed Ye defense, failed relief, and flight under Cao Cao's pressure.
 - [王修 / Wang Xiu (late Han)](entities/WangXiuLateHan.md) — Yuan Tan-side adviser who urges reconciliation, buries Yuan Tan, and protects Guan Tong as a loyal former retainer.
 - [管统 / Guan Tong (late Han)](entities/GuanTongLateHan.md) — Donglai/Le'an official whose costly loyalty to Yuan Tan survives defection, defeat, and Cao-side pardon.
@@ -10921,6 +10925,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [降人传令式安民 / Surrendered Local Messenger Pacification](concepts/SurrenderedLocalMessengerPacification.md) — Post-capture order tactic where a surrendered but locally trusted intermediary carries the victor's commands to calm a newly taken city.
 - [忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal](concepts/LoyalRefusalLegitimacySignal.md) — Pattern where tolerating a loyal refusal during surrender strengthens the victor's legitimacy image.
 - [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Commandery-control problem where route position, local elites, and nearby rebels make governor selection strategic.
 - [Agent Civilization Narrative](concepts/AgentCivilizationNarrative.md) — Anthropomorphic framing of AI-agent security incidents as emergent agent societies, contested by sandbox and operational-security explanations.

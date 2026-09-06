@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-09-06] ingest | 《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？
+
+Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Sun Shao gathering Sun He's remaining troops, Cao Chun urging Cao Cao to finish the deep Nanpi assault, Yuan Tan's flight and death, Li Fu calming the newly captured city through a surrendered local messenger role, and Cao Cao's execution of Guo Tu. Created `zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o`, `CaoChunLateHan`, `SunShaoLateHan`, `NanpiLateHan`, and `SurrenderedLocalMessengerPacification`; updated `YuanTan`, `GuoTu`, `LiFuLateHan`, `SunHeLateHan`, and `index`. No settled contradiction found; the transcript's Nanping/Sun Xuan/Li Fu name forms and Cao Chun battlefield details remain source-scoped.
+
 ## [2026-09-05] ingest | Leverage Dopamine to Overcome Procrastination & Optimize Effort
 
 Ingested the 2023-03-27 Huberman Lab solo episode on dopamine baseline, peaks, troughs, anticipation, reward prediction error, addiction narrowing, baseline maintenance, intrinsic motivation, and procrastination. Created source `leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288` plus `DopaminePeakTroughBaseline`, `RewardPredictionErrorLearning`, `DopamineBaselineMaintenance`, `SafeEffortProcrastinationReset`, and `EffortAsReward`; updated `HubermanLab`, `AndrewHuberman`, `DopamineToolTiming`, `DopamineWantingLoop`, `MotivationRewardEffortCalculation`, `ProcrastinationSelfRegulationFailure`, `ExerciseSelfMasteryForProcrastination`, `MotivationCrowdingOut`, `NeuromodulatorStateToolkit`, `SustainableHealthOptimization`, `index`, and `overview`. No settled contradiction found; addiction recovery, alcohol/opiate withdrawal, prescription stimulants, L-tyrosine, mucuna pruriens, NSDR, cold exposure, and training-timing claims remain source-scoped and medically context-dependent.
@@ -15435,6 +15439,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-06] ingest | 《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操
 
 Ingested the 2026-09-05 芮淇讲透资治通鉴 episode on Yuan Xi and Yuan Shang fleeing toward Wuhuan, Jiao Chu and Zhang Nan coercing Youzhou officials into a Cao-side blood oath, Han Heng refusing the oath, Zhang Yan's formal Black Mountain surrender, Youzhou/Wuhuan instability, Gao Gan's renewed Bingzhou rebellion, and Xun Yu recommending Du Ji for Hedong. Added source `zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o`; created `YuanXiLateHan`, `LiuFangLateHan`, `WangSongLateHan`, `JiaoChuLateHan`, `ZhangNanLateHan`, `HanHengLateHan`, `ZhaoDuLateHan`, `HuoNuLateHan`, `DuJiLateHan`, `WangYiHedongLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `ZhangShengLateHan`, `ZhangYanHedongLateHan`, `LoyalRefusalLegitimacySignal`, and `TransitHubCommanderyControl`; updated `GaoGanLateHan`, `ZhangYanLateHan`, and `index`. No settled contradiction found; 张南/张衍/王邑 are disambiguated from existing routes, and minor official identities, Kuangping geography, and motive readings remain source-scoped.
+
+## [2026-09-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-06] lint | Wiki health check
 
