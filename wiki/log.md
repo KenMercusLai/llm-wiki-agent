@@ -16705,6 +16705,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》617丨王莽毒杀公主历史始末
+
+Added source note for the 3 CE dog-blood aftermath. Key claims: Wang Mang turns Wang Yu's punishment into moral authorization, widens the case through elite relationship networks, forces Jingwu Princess to drink poison under Wang Zhengjun's name, and hides the death's cause to prevent dowager exposure.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》616丨有心机的人有多可怕
 
 Added source note for the 3 CE Wang Mang dog-blood case. Key claims: Wang Yu tried to help Wei Taihou reach Han Pingdi, Wu Zhang proposed a staged anomaly, Lu Kuan's dog-blood act exposed the plan, and Wang Mang converted the case into Wang Yu's forced death, Lu Yan's prison fate, Wu Zhang's execution, Wei-clan destruction, and "大义灭亲" moral capital.
@@ -16821,6 +16825,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

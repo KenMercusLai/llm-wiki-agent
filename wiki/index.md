@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？](sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo.md) — 3 CE Wang Mang backfill on Pingdi's empress selection, divination, ancestral notification, imperial bride-price, Wang Mang's partial acceptance and kin redistribution, social-rank regulation, and Four Offices/Three Excellencies power concentration.
 - [《资治通鉴·汉纪》616丨有心机的人有多可怕](sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc.md) — 3 CE Wang Mang backfill on Wang Yu, Wu Zhang, and Lü Kuan's dog-blood case, Wei Taihou's blocked access to Pingdi, Wang Yu and Lu Yan's punishment, Wu Zhang's execution, and the Wei-clan purge.
+- [《资治通鉴·汉纪》617丨王莽毒杀公主历史始末](sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd.md) — 3 CE Wang Mang backfill on the dog-blood case's widened purge, Wang Zhengjun's edict language, Jingwu Princess's forced poisoning, Liang King Liu Li/Liu Li, Wang-family and ministerial victims, and Feng Meng's flight.
 - [《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？](sources/zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq.md) — 3 CE Wang Mang backfill on adoptive-heir doctrine, the Wei-clan purge justification, Zongbo Feng's public ritual lecture, Jin-family collateral succession, Jin Qing's fatal counter-reading, Zhen Han's rewarded accusation, and Jin Tang's cautious lineage performance.
 - [《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？](sources/zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r.md) — 3-4 CE Han Pingdi backfill on Yan Xu as a "父母官" exemplar, He Bing's harsh Yingchuan succession, detention protections for women, elders, and children, Wang Mang's daughter entering the palace, and the setup for Wang Mang's next political performance.
 - [《资治通鉴·汉纪》620丨史上最传奇的“全民大选”](sources/zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu.md) — 4 CE Wang Mang backfill on an 8,000-person petition, the "宰衡" status package, Wang Zhengjun's personal conferral, family honors, ritual refusal, ministerial counter-petition, and public-refusal status inflation.
@@ -2153,6 +2154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wu Zhang (Western Han) / 吴章](entities/WuZhangWesternHan.md) — Wang Yu's teacher whose staged-anomaly advice in the dog-blood case leads to execution and student禁锢.
 - [Lu Kuan (Dog-Blood Case) / 吕宽](entities/LuKuanDogBloodCase.md) — Wang Yu's wife's brother who spills dog blood at Wang Mang's gate and becomes the case's exposure point.
 - [Lu Yan (Wang Yu's wife) / 吕嫣](entities/LuYanWangYuWife.md) — Wang Yu's pregnant wife imprisoned and condemned after the dog-blood case.
+- [靖武公主 / Jingwu Princess (Western Han)](entities/JingwuPrincessWesternHan.md) — Western Han royal woman forced to drink poison in Hanji 617 after Wang Mang widens the dog-blood case and invokes Wang Zhengjun's name.
 - [Lou Hu (Western Han) / 楼护](entities/LouHuWesternHan.md) — Guanghan governor who arrests Lü Kuan and sends him back to Chang'an in the case variant.
 - [Yun Chang (Western Han) / 云敞](entities/YunChangWesternHan.md) — Wu Zhang's student who acknowledges the teacher tie and buries Wu Zhang after the dog-blood case.
 - [Wei Bao (Western Han) / 卫宝](entities/WeiBaoWesternHan.md) — Wei-clan relative contacted by Wang Yu and punished after the dog-blood case.
@@ -11635,6 +11637,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.
+- [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded case is widened through elite relationship networks, moral authorization, private scandal, and information control into broader political cleanup.
 - [父母官式地方官伦理 / Paternal Local Office Ethic](concepts/PaternalLocalOfficeEthic.md) — Local-office ideal from Hanji 619 where a governor's care, restraint, and people-first obligation are imagined through household ethics.
 - [Face-Project Governance / 面子工程式治理](concepts/FaceProjectGovernance.md) — Political prestige built through visible ritual, educational, expert, or public-works activity before implementation is proven.
 - [西海郡流放和法令增殖 / Xihai Exile Administrative Burden](concepts/XihaiExileAdministrativeBurden.md) — Wang Mang-era pattern where Xihai commandery law and exile policy become mass administrative and social burden.
