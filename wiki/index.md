@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230.md) — All-In episode with Bill Gurley on Anthropic safety rhetoric, Pope Leo XIV's AI intervention, open-source AI restriction risk, enterprise model sovereignty, token-spend ROI, and disputed AI layoff attribution.
+- [《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事](sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql.md) — 2 CE Wang Mang backfill on classics-based single-name reform, Xiongnu chanyu name-change performance, Pingdi empress selection, Wang Zhengjun's misread exclusion of Wang women, and petition pressure to restore Wang Mang's daughter as candidate.
 - [《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？](sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo.md) — 3 CE Wang Mang backfill on Pingdi's empress selection, divination, ancestral notification, imperial bride-price, Wang Mang's partial acceptance and kin redistribution, social-rank regulation, and Four Offices/Three Excellencies power concentration.
 - [《资治通鉴·汉纪》616丨有心机的人有多可怕](sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc.md) — 3 CE Wang Mang backfill on Wang Yu, Wu Zhang, and Lü Kuan's dog-blood case, Wei Taihou's blocked access to Pingdi, Wang Yu and Lu Yan's punishment, Wu Zhang's execution, and the Wei-clan purge.
 - [《资治通鉴·汉纪》617丨王莽毒杀公主历史始末](sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd.md) — 3 CE Wang Mang backfill on the dog-blood case's widened purge, Wang Zhengjun's edict language, Jingwu Princess's forced poisoning, Liang King Liu Li/Liu Li, Wang-family and ministerial victims, and Feng Meng's flight.
@@ -11638,6 +11639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
 - [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.
 - [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded case is widened through elite relationship networks, moral authorization, private scandal, and information control into broader political cleanup.

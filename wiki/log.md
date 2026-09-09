@@ -16705,6 +16705,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事
+
+Added source note for the 2 CE Wang Mang naming and empress-selection setup. Key claims: Wang Mang turns "二名非礼" into a single-name decree; stages the Xiongnu chanyu's name change as Han cultural submission; frames Pingdi's empress selection through ritual and succession anxiety; misfires when Wang Zhengjun excludes Wang women; and then repairs the outcome through mass petition pressure for his daughter.
+
 ## [2026-09-10] ingest | Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?
 
 Added source note for the All-In episode with Bill Gurley on AI power concentration, Pope Leo XIV's AI intervention, Anthropic safety rhetoric, enterprise model sovereignty, open-source AI ban risk, token-spend ROI, and disputed AI layoff attribution.
@@ -16829,6 +16833,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
