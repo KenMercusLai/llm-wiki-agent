@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 10 CE [[WangMang|王莽]] and late-[[WesternHanDynasty|西汉]] institutional layer before the later Xin collapse notes. It uses [[BanGu|班固]]'s comparison of Zhou, Qin, and Han royal-clan arrangements to explain why [[SameSurnameKingEnfeoffment|同姓王分封]] could once protect the dynasty but, after repeated削藩 and declining political capacity, could not stop Liu royal kin from submitting to Wang Mang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 10 CE [[WangMang|王莽]] and late-[[WesternHanDynasty|西汉]] institutional layer before the later Xin collapse notes. It uses [[BanGuEasternHan|班固]]'s comparison of Zhou, Qin, and Han royal-clan arrangements to explain why [[SameSurnameKingEnfeoffment|同姓王分封]] could once protect the dynasty but, after repeated削藩 and declining political capacity, could not stop Liu royal kin from submitting to Wang Mang.
 
 The second half introduces the early form of [[WujunLiuguan|五均]] and 钱府 policy within [[WangMangReforms|王莽改制]]. The source presents price-setting, state purchase of unsold goods, market release during price spikes, and official lending as pro-livelihood design, but warns that officials who both set rules and operate markets can convert reform into rent extraction.
 
@@ -42,7 +42,7 @@ The second half introduces the early form of [[WujunLiuguan|五均]] and 钱府 
 - [[SameSurnameKingEnfeoffment|同姓王分封]], [[CommanderyCountyAntiEnfeoffment|郡县制反分封定局]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - Ban Gu's comparison gives a late-Western-Han endpoint to the earlier Liu-family kingdom settlement.
 - [[WangMangReforms|王莽改制]], [[WujunLiuguan|五均六管]], [[StateResourceMonopoly|state resource monopoly]], and [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - the source adds an early price-equalization, official purchase, reserve-release, and lending mechanism before the later Hanji 653 implementation-capture layer.
 - [[CurrencyCredit|货币信用]] and [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]] - the episode sits near the same 10 CE reform cluster as later currency-credit notes, though it focuses on market and credit controls rather than coin design.
-- [[BanGu|班固]], Zhou royal kin, Qin's isolated imperial house, Han Wen/Jing/Wu-era削藩, and the 推恩令 - historical comparison details are kept source-scoped unless later source notes require focused canonical pages.
+- [[BanGuEasternHan|班固]], Zhou royal kin, Qin's isolated imperial house, Han Wen/Jing/Wu-era削藩, and the 推恩令 - historical comparison details are kept source-scoped unless later source notes require focused canonical pages.
 
 ## Contradictions
 
