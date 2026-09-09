@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？](sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz.md) — 芮淇讲透资治通鉴 short episode on Han Aidi's delayed burial, imperial停灵, corpse washing, wine and fragrant-bath preservation, grave goods, pearls or luminous pearls, charcoal, ash, and coffin sealing.
+- [《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕](sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd.md) — 2 CE Wang Mang-era frontier backfill on Xu Pu's Yumen Pass road, Gougou and Tangdou fleeing to Xiongnu, Han extradition pressure, public execution before Western Regions rulers, and anti-harboring rules.
 - [Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230.md) — All-In episode with Bill Gurley on Anthropic safety rhetoric, Pope Leo XIV's AI intervention, open-source AI restriction risk, enterprise model sovereignty, token-spend ROI, and disputed AI layoff attribution.
 - [《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事](sources/zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql.md) — 2 CE Wang Mang backfill on classics-based single-name reform, Xiongnu chanyu name-change performance, Pingdi empress selection, Wang Zhengjun's misread exclusion of Wang women, and petition pressure to restore Wang Mang's daughter as candidate.
 - [《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？](sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo.md) — 3 CE Wang Mang backfill on Pingdi's empress selection, divination, ancestral notification, imperial bride-price, Wang Mang's partial acceptance and kin redistribution, social-rank regulation, and Four Offices/Three Excellencies power concentration.
@@ -5169,6 +5170,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Chernin](entities/PeterChernin.md) — Media-industry figure Pratt cites to narrow what a Los Angeles mayor can do for independent production.
 - [李牧 / Li Mu](entities/LiMu.md) — Zhao general whose frontier patience, anti-Qin resistance, and later family afterlife extend through Li Zuoche's Jingxing advice.
 - [匈奴 / Xiongnu](entities/Xiongnu.md) — Northern nomadic frontier power whose arc now joins steppe pastoral resource pressure, Li Mu's anti-raiding problem, Modu and early Han heqin, and Han Wudi-era seasonal warfare pressure.
+- [车师后王沽沟 / Gougou](entities/GougouCheshiKing.md) — Later Cheshi ruler whose detention over a road project, flight to Xiongnu, extradition, and public execution ground Hanji 613's frontier deterrence case.
+- [若羌去胡来王唐斗 / Tangdou](entities/TangdouRuoqiangKing.md) — Ruoqiang ruler whose failed protection, blocked Yumen Pass entry, flight to Xiongnu, extradition, and public execution parallel Gougou in Hanji 613.
 - [王翦 / Wang Jian (Qin)](entities/WangJianQin.md) — Qin general whose arc now runs from Zhao campaigns and Yan retaliation to property-request self-protection and fortified attrition against Chu.
 - [郑国 / Zheng Guo (Hydraulic Engineer)](entities/ZhengGuoHydraulicEngineer.md) — Han-sent hydraulic specialist whose exposed canal mission both enlarges Qin's grain base and triggers the guest-expulsion crisis.
 - [郑国渠 / Zhengguo Canal](entities/ZhengGuoCanal.md) — Qin irrigation project promoted by Zheng Guo, exposed as a Han "fatigue Qin" plan, and completed as a major Guanzhong grain-base asset.
@@ -11641,6 +11644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [帝王停灵防腐 / Imperial Funerary Preservation](concepts/ImperialFuneraryPreservation.md) — Ritual-and-material pattern where extended imperial停灵 requires washing, disinfection, fragrant bathing, aromatics, drying agents, grave goods, and coffin sealing before burial.
+- [强制边疆震慑 / Coercive Frontier Deterrence](concepts/CoerciveFrontierDeterrence.md) — Frontier-control pattern where extradition, public execution before dependent rulers, and anti-harboring rules convert a flight case into deterrence with trust costs.
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
 - [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.

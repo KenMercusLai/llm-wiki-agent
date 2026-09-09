@@ -16877,3 +16877,8 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-10] ingest | 《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
