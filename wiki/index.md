@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？](sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw.md) — 2 CE Wang Mang-era court episode on Sun Bao publicly rejecting yellow-dragon praise, naming fiscal and commoner distress, then being removed through Chen Chong's filial-duty impeachment.
 - [《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！](sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi.md) — 2 CE Wang Mang-era disaster-relief backfill on drought and locust displacement, imperial austerity, elite donations, refugee housing, auspicious-sign reporting, vegetarian restraint, early resignations, and bandit resettlement.
 - [《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？](sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz.md) — 芮淇讲透资治通鉴 short episode on Han Aidi's delayed burial, imperial停灵, corpse washing, wine and fragrant-bath preservation, grave goods, pearls or luminous pearls, charcoal, ash, and coffin sealing.
 - [《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕](sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd.md) — 2 CE Wang Mang-era frontier backfill on Xu Pu's Yumen Pass road, Gougou and Tangdou fleeing to Xiongnu, Han extradition pressure, public execution before Western Regions rulers, and anti-harboring rules.
@@ -2115,6 +2116,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
+- [孙宝 / Sun Bao (Western Han)](entities/SunBaoWesternHan.md) — Western Han Grand Minister of Agriculture whose Hanji 611 remonstrance rejects yellow-dragon praise of Wang Mang and is followed by procedural removal.
+- [甄邯 / Zhen Han](entities/ZhenHanXinOfficial.md) — Wang Mang-aligned court actor who stops the yellow-dragon praise discussion after Sun Bao's public objection.
 - [严徐 / Yan Xu (Western Han)](entities/YanXuWesternHan.md) — Western Han Yingchuan governor used by Hanji 619 to explain the "父母官" ideal through filial reputation, restraint, and grief for local people's safety.
 - [何病 / He Bing (Western Han)](entities/HeBingWesternHan.md) — Western Han official whose harsh succession after Yan Xu in Yingchuan serves as Hanji 619's contrast case for local governance as protection or fear.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
@@ -8350,7 +8353,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through imperial marriage, bride-price redistribution, adoptive-lineage doctrine, petition-backed status inflation, sacred legitimacy, moral reputation, rebel-suppression terror, omen politics, and reform overcontrol collapses through rumor suppression, scapegoating, bureaucratic paralysis, spectacle, extraction, frontier overreach, ignored warnings, Kunyang, and Jian Terrace killing.
 - [刘快 / Liu Kuai (Xin rebel)](entities/LiuKuaiXinRebel.md) — Liu-line Quxiang marquis whose failed 9 CE rising against Wang Mang tests early Xin local control.
 - [刘音 / Liu Yin (Fuchong Duke)](entities/LiuYinFuchongDuke.md) — Former Jiaodong king and Fuchong Duke whose refusal to join Liu Kuai shows compliant Liu-kin survival under early Xin.
-- [陈崇 / Chen Chong (Xin official)](entities/ChenChongXinOfficial.md) — Xin official whose Hanji 642 memorial warns that uncontrolled fuming reports let opportunists seek rank and confuse mandate language.
+- [陈崇 / Chen Chong (Wang Mang-era official)](entities/ChenChongXinOfficial.md) — Official whose profile spans Sun Bao's Hanji 611 impeachment and the Hanji 642 warning that uncontrolled fuming reports confuse mandate language.
 - [甄丰 / Zhen Feng (Xin official)](entities/ZhenFengXinOfficial.md) — Early Wang Mang ally whose Hanji 625 accusation work, Hanji 629 regency office, and Hanji 642 fuming backfire show both rewarded access and later disposability.
 - [甄寻 / Zhen Xun (Xin official)](entities/ZhenXunXinOfficial.md) — Xin fuming user whose marriage claim toward Wang Mang's daughter triggers arrest, flight, confession, and purge.
 - [王皇后（汉平帝皇后） / Empress Wang of Han Pingdi](entities/EmpressWangPingdi.md) — Wang Mang's daughter and former Han Pingdi empress whose selection, bride-price, reproductive omen use, remarriage refusal, and self-immolation mark Xin's dynastic identity rupture.
@@ -12693,7 +12696,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Marriage Inspection / 皇室婚前身体检视](concepts/ImperialMarriageInspection.md) — Huan-era marriage-selection procedure where Liang Ying's body, appearance, gait, odor, and voice become court-assessed eligibility criteria.
 - [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is solicited, reduced, or reformatted because eunuch-side access shapes the reward channel.
 - [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
-- [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where proximity-managed praise, compulsory auspicious reporting, and rewarded agreement make silence, skepticism, or disaster talk politically actionable.
+- [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where direct contradiction, silence, skepticism, or distress reporting becomes politically actionable inside rewarded praise and auspicious-reporting environments.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Late-Han succession pattern where Yan, Liang, and Dou powerholders prefer young legitimate rulers because age makes behind-the-throne control easier.
 - [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
 - [Crisis Duty Continuity / 危局职守连续性](concepts/CrisisDutyContinuity.md) — Hanji 880 pattern where public duty continues through succession uncertainty rather than yielding to illness-based risk avoidance.

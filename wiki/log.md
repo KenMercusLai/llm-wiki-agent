@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？
+
+Ingested the 2026-05-29 芮淇讲透资治通鉴 episode backfilling 2 CE Wang Mang praise politics through Sun Bao's public rejection of yellow-dragon celebration, his warning about depleted state resources and commoner hardship, Chen Chong's filial-duty impeachment, Sun Bao's dismissal and death, Pingdi's name change to Liu Kan, Wang Chong's fear-based exit, and Wang Mang's continued personnel and kinship-reward image building. Added source `zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw`; created `SunBaoWesternHan` and `ZhenHanXinOfficial`; updated `ChenChongXinOfficial`, `CoercedPraiseConformityRisk`, `index`, and `overview`. No settled contradiction found; yellow-dragon report details, Chen Chong's private motive, Sun Bao's family logistics, Wang Chong's prior career, royal appointments, and reward lists remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》619丨“父母官”这个词是怎么来的？
 
 Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode backfilling 3-4 CE under Han Pingdi. Key claims: Yan Xu's filial, restrained Yingchuan rule explains the "父母官" local-office ideal; He Bing's harsh succession confirms the people's exposure to appointment fit; the 4 CE court notices add ritual sacrifices, title recoding, detention protections for women, elders, and children, Wang Mang's daughter entering the palace, and the next Wang Mang political-performance setup.
@@ -16886,6 +16890,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
