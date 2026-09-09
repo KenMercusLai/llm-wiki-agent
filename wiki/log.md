@@ -16705,6 +16705,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？
+
+Added source note for the Han Aidi delayed-burial and imperial funerary preservation episode. Key claims: Han Aidi's sixth-month death and tenth-month burial introduce the question of extended imperial停灵; imperial funerals require more time than common three-day or seven-day mourning customs; and preservation practices such as washing, liquor disinfection, fragrant bathing, aromatics, herbs, pearls or luminous pearls, charcoal, ash, and coffin sealing make delayed interment materially and ritually manageable.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》614丨聊聊王莽改名和嫁女的怪诞故事
 
 Added source note for the 2 CE Wang Mang naming and empress-selection setup. Key claims: Wang Mang turns "二名非礼" into a single-name decree; stages the Xiongnu chanyu's name change as Han cultural submission; frames Pingdi's empress selection through ritual and succession anxiety; misfires when Wang Zhengjun excludes Wang women; and then repairs the outcome through mass petition pressure for his daughter.
@@ -16833,6 +16837,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
