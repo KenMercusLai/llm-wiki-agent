@@ -16705,6 +16705,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?
+
+Added source note for the All-In episode with Bill Gurley on AI power concentration, Pope Leo XIV's AI intervention, Anthropic safety rhetoric, enterprise model sovereignty, open-source AI ban risk, token-spend ROI, and disputed AI layoff attribution.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》617丨王莽毒杀公主历史始末
 
 Added source note for the 3 CE dog-blood aftermath. Key claims: Wang Mang turns Wang Yu's punishment into moral authorization, widens the case through elite relationship networks, forces Jingwu Princess to drink poison under Wang Zhengjun's name, and hides the death's cause to prevent dowager exposure.
@@ -16825,6 +16829,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》620丨史上最传奇的“全民大选”
 
 Added source note for the 4 CE Wang Mang petition-and-reward episode. Key claims: more than 8,000 petitioners help make Wang Mang's "宰衡" elevation look publicly demanded; Wang Zhengjun personally confers the package; Wang Mang's refusal of his sons' honors becomes another status-inflation step; and Kong Guang's counter-petition helps summon him back to government.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

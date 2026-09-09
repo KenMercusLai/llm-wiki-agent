@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230.md) — All-In episode with Bill Gurley on Anthropic safety rhetoric, Pope Leo XIV's AI intervention, open-source AI restriction risk, enterprise model sovereignty, token-spend ROI, and disputed AI layoff attribution.
 - [《资治通鉴·汉纪》615丨瞠目结舌！古代彩礼这么高？？？](sources/zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo.md) — 3 CE Wang Mang backfill on Pingdi's empress selection, divination, ancestral notification, imperial bride-price, Wang Mang's partial acceptance and kin redistribution, social-rank regulation, and Four Offices/Three Excellencies power concentration.
 - [《资治通鉴·汉纪》616丨有心机的人有多可怕](sources/zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc.md) — 3 CE Wang Mang backfill on Wang Yu, Wu Zhang, and Lü Kuan's dog-blood case, Wei Taihou's blocked access to Pingdi, Wang Yu and Lu Yan's punishment, Wu Zhang's execution, and the Wei-clan purge.
 - [《资治通鉴·汉纪》617丨王莽毒杀公主历史始末](sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd.md) — 3 CE Wang Mang backfill on the dog-blood case's widened purge, Wang Zhengjun's edict language, Jingwu Princess's forced poisoning, Liang King Liu Li/Liu Li, Wang-family and ministerial victims, and Feng Meng's flight.
@@ -2109,6 +2110,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
 - [严徐 / Yan Xu (Western Han)](entities/YanXuWesternHan.md) — Western Han Yingchuan governor used by Hanji 619 to explain the "父母官" ideal through filial reputation, restraint, and grief for local people's safety.
 - [何病 / He Bing (Western Han)](entities/HeBingWesternHan.md) — Western Han official whose harsh succession after Yan Xu in Yingchuan serves as Hanji 619's contrast case for local governance as protection or fear.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
@@ -11636,6 +11638,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.
 - [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded case is widened through elite relationship networks, moral authorization, private scandal, and information control into broader political cleanup.
 - [父母官式地方官伦理 / Paternal Local Office Ethic](concepts/PaternalLocalOfficeEthic.md) — Local-office ideal from Hanji 619 where a governor's care, restraint, and people-first obligation are imagined through household ethics.
