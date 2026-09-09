@@ -16526,9 +16526,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-09] ingest | 《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？
+
+Added source note for Hanji 640. Key claims: Wang Mang's seal and title downgrades turn symbolic hierarchy into Xiongnu rupture; the Wuhuan-captive dispute and Shuofang troop pressure widen the crisis; Cheshi and Western Regions actors recalculate under expected Xin extraction; Chen Liang and Zhong Dai's mutiny exposes frontier command trust breakdown; Sun Jian converts defection and false Liu-claimant panic into anti-Han symbolic purge; Ding'an Taihou refuses Wang Mang's remarriage and title-recoding pressure.
+
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？
 
 Added source note for the 10 CE Wang Mang backfill on Liu royal-kin submission, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom weakening, and early 五均/钱府 price-credit intervention. Updated focused concept pages for same-surname king enfeoffment, Wang Mang reforms, and 五均六管.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-09] lint | Wiki health check
 
