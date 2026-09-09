@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定](sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a.md) — 罗永浩的十字路口 live panel on emotional stability, trolling, blocking, creator misreading, Smartisan failure reflection, conflict retreat, dissent contact, and public expression.
 - [《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？](sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw.md) — 2 CE Wang Mang-era court episode on Sun Bao publicly rejecting yellow-dragon praise, naming fiscal and commoner distress, then being removed through Chen Chong's filial-duty impeachment.
 - [《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！](sources/zizhi-tongjian-hanji-612-jiemi-gudai-yingxiao-daka-wangmang-llghwpfe5c0ck91vkldmfdjowmqi.md) — 2 CE Wang Mang-era disaster-relief backfill on drought and locust displacement, imperial austerity, elite donations, refugee housing, auspicious-sign reporting, vegetarian restraint, early resignations, and bandit resettlement.
 - [《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？](sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz.md) — 芮淇讲透资治通鉴 short episode on Han Aidi's delayed burial, imperial停灵, corpse washing, wine and fragrant-bath preservation, grave goods, pearls or luminous pearls, charcoal, ash, and coffin sealing.
@@ -2115,6 +2116,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [高涵 / Gao Han](entities/GaoHanStandup.md) — stand-up-related panel participant whose emotional-stability role centers on low retaliation, sleep, and creator misreading.
+- [小块 / Xiao Kuai](entities/XiaoKuaiStandup.md) — stand-up-related panel participant whose role centers on dissent contact, anti-cocoon online hygiene, and happiness-based conflict retreat.
 - [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
 - [孙宝 / Sun Bao (Western Han)](entities/SunBaoWesternHan.md) — Western Han Grand Minister of Agriculture whose Hanji 611 remonstrance rejects yellow-dragon praise of Wang Mang and is followed by procedural removal.
 - [甄邯 / Zhen Han](entities/ZhenHanXinOfficial.md) — Wang Mang-aligned court actor who stops the yellow-dragon praise discussion after Sun Bao's public objection.
@@ -11647,6 +11650,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Block And Dissent Hygiene / 拉黑与异见卫生](concepts/BlockAndDissentHygiene.md) — managing online boundaries by balancing blocking and deletion against deliberate exposure to dissent.
+- [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — separating adult composure, inner emotional fluctuation, scene discipline, and social pressure.
+- [Happiness-Based De-escalation / 幸福者退让原则](concepts/HappinessBasedDeescalation.md) — conflict-retreat frame that treats yielding as preserving one's own state while remaining morally contested.
+- [Public Expression Against Trolls / 面对喷子的公共表达](concepts/PublicExpressionAgainstTrolls.md) — continuing to speak in hostile online spaces so loud antagonistic voices do not define perceived mainstream opinion.
 - [帝王停灵防腐 / Imperial Funerary Preservation](concepts/ImperialFuneraryPreservation.md) — Ritual-and-material pattern where extended imperial停灵 requires washing, disinfection, fragrant bathing, aromatics, drying agents, grave goods, and coffin sealing before burial.
 - [强制边疆震慑 / Coercive Frontier Deterrence](concepts/CoerciveFrontierDeterrence.md) — Frontier-control pattern where extradition, public execution before dependent rulers, and anti-harboring rules convert a flight case into deterrence with trust costs.
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
