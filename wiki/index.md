@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？](sources/zizhi-tongjian-hanji-638-xuemai-qinqing-keyi-you-duo-wuqing-lv-gtknrhlipsmrtt3c4d7gcr-pc.md) — 10 CE Wang Mang backfill on weakened Liu royal kin, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom decline, Liu royal submission, and early 五均/钱府 price-credit intervention risk.
 - [《资治通鉴·汉纪》641丨币制改革，如何导致王莽万劫不复？](sources/zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn.md) — 10 CE Wang Mang backfill on anti-Xiongnu war finance, six-name twenty-eight-rank currency complexity, popular distrust of new money, coercive enforcement, and fuming/omen imitation.
 - [《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？](sources/zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5.md) — 11 CE Wang Mang backfill on coercive Xiongnu titulature, Yan You's Zhou-Han-Qin frontier strategy ranking, Han Wudi war-cost critique, Qin wall overburden, and steppe-expedition logistics.
 - [《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？](sources/zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn.md) — 11 CE Wang Mang backfill on frontier and interior extraction, northern-border collapse, Gong Sheng's fatal refusal of Xin office, Xue Fang's allusive reclusion, and Guo Qin/Jiang Xu's illness-based withdrawal.

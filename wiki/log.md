@@ -16526,3 +16526,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-09] ingest | 《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？
+
+Added source note for the 10 CE Wang Mang backfill on Liu royal-kin submission, Ban Gu's Zhou-Qin-Han enfeoffment comparison, same-surname kingdom weakening, and early 五均/钱府 price-credit intervention. Updated focused concept pages for same-surname king enfeoffment, Wang Mang reforms, and 五均六管.
+
+## [2026-09-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
