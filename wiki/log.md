@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？
+
+Ingested the 2026-05-19 芮淇讲透资治通鉴 episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Added source `zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9`; created `WangGenWesternHan`, `ZhaiFangjinWesternHan`, and `RoleAttachmentPowerExit`; linked the episode to Wang Mang's early reputation construction, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness. No settled contradiction found; Wang Mang's sincerity versus performance, the practical case for州牧, ancient chime-stone provenance, and Taixue policy reversal remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！
 
 Ingested the 2026-05-20 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou after the Zhizhi Chanyu campaign. Added source `zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l`; created `ChenTangWesternHan`, `GanYanshouWesternHan`, `ZhizhiChanyu`, `KuangHengWesternHan`, and `HeroMemoryPoliticalCredibility`; updated `GengYuWesternHan`, `MeritShieldedAccountability`, and `index`. No settled contradiction found; the full campaign chronology, Changling case record, exact reward grading, and Chen Tang's legal culpability remain source-scoped.
@@ -17432,6 +17436,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

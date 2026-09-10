@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？](sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9.md) — 芮淇讲透资治通鉴 episode on Wang Mang's early Da Sima appointment, austerity-and-scholar reputation building, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness.
 - [《资治通鉴·汉纪》564丨古代学术大佬，比想象得更牛！](sources/zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl.md) — 芮淇讲透资治通鉴 episode on Liu Xin's Qilue bibliography, nine-schools synthesis, and Han Aidi's suspended land-and-slave cap reform.
 - [《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？](sources/zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk.md) — 芮淇讲透资治通鉴 episode on Jia Rang's upper, middle, and lower Yellow River flood-control policies, floodplain retreat, levee risk transfer, and long-horizon governance judgment.
 - [Empress Matilda: Civil War and the Fight for the Throne](sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666.md) — The Rest Is History episode on Empress Matilda, Henry I's White Ship succession shock, Stephen's first-mover coronation, the Anarchy, and the gendered constraints on medieval female sovereignty.
@@ -2183,6 +2184,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose recommendation helps Wang Mang succeed him as Da Sima in 8 BCE.
+- [翟方进 / Zhai Fangjin (Western Han)](entities/ZhaiFangjinWesternHan.md) — Western Han chancellor linked to the Chengdi-era刺史-to-州牧 office-rank reform.
 - [刘歆 / Liu Xin (Western Han)](entities/LiuXinWesternHan.md) — Western Han scholar-official who completes Liu Xiang's collation project and compiles Qilue.
 - [《七略》 / Qilue](entities/Qilue.md) — Western Han imperial bibliography whose seven-part classification organizes texts and frames the nine schools.
 - [Jia Rang (Western Han)](entities/JiaRangWesternHan.md) — Western Han proposer of upper, middle, and lower Yellow River flood-control policies.
@@ -11845,6 +11848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Role Attachment and Power Exit / 权力角色依附与退场](concepts/RoleAttachmentPowerExit.md) — Pattern where a temporary office or attention role becomes dangerous when treated as a permanent identity after the power setting changes.
 - [Bibliographic Classification as Statecraft / 目录分类作为治国术](concepts/BibliographicClassificationAsStatecraft.md) — Pattern where state-backed catalogs sort knowledge into politically legible and usable domains.
 - [Hundred Schools Synthesis / 诸子九流综合观](concepts/HundredSchoolsSynthesis.md) — View that rival schools preserve partial insights that can be corrected and used under a wiser ordering center.
 - [Western Han Land and Slave Caps / 西汉限田限奴改革](concepts/WesternHanLimitLandAndSlaves.md) — Late-Western-Han reform attempt to cap landholding and enslaved dependents before elite property pressure suspends it.
