@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命
+
+Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2-3 / 5-4 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp`; created `ZhuBoWesternHan` and `PingDangWesternHan`; updated `FuTaihouWesternHan`, `FuXiWesternHan`, `GoodDeathPoliticalSurvival`, `HighStatusCautionSelfProtection`, and `index`. No settled contradiction found; Kongxiang Hou's identity, Zhao Xuan's full confession, legal charge wording, and the frontier hostage details remain source-scoped.
+
 ## [2026-09-10] ingest | TRAILER: Shire folk
 
 Added source note for the Economist Podcasts trailer introducing Georgia Banjo's Shire/Shia Folk investigation into Tommy Robinson. Key claims: Robinson is framed as a British media-excluded activist promoting a radical-Islam threat narrative; Elon Musk's London rally appearance supplies civil-war threat rhetoric; and the series asks how Robinson became a warning-symbol figure for some powerful Americans. Added `TommyRobinson`, `ShireFolk`, `CivilWarThreatRhetoric`, `BritishMediaExclusionOnlineAmplification`, and `AmericanRightBritainWarningNarrative`; updated `GeorgiaBanjo`, `FarRightNormalization`, and `index`. No settled contradiction found; crowd size, exact rally timing, American influence map, and Shire/Shia spelling remain source-scoped.
@@ -17262,5 +17266,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

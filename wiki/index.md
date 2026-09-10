@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命](sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp.md) — Late-Western-Han court-politics episode on Fu Taihou's failed further attack on Fu Xi through Zhu Bo, Zhu Bo's bundled impeachment and suicide, Wusun-Xiongnu hostage mediation, and Ping Dang's refusal of a deathbed marquisate.
 - [What's so concerning about the Hugging Face hack?](sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128.md) — Marketplace Tech episode with Nate Soares on a reported AI agent-swarm incident, OpenAI responsibility, mandatory incident investigation, advanced AI development pauses, and global frontier compute monitoring.
 - [Founder-Led Sales to $1M ARR With Just 10 Customers](sources/founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047.md) — The SaaS Podcast episode with Felix Hoffman on Seven Learnings, consulting-led data access, paid pilots, retail pricing optimization, founder-led enterprise sales, and why deterministic explainable ML can fit pricing decisions better than LLM wrappers.
 - [SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?](sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150.md) — All-In episode with Gavin Baker on recursive AI, AI backlash, frontier oversight, SpaceX compute and IPO valuation, Nvidia fundamentals and GPU financing, bond stress, and U.S.-China chip strategy.
@@ -2161,6 +2162,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Zhu Bo (Western Han)](entities/ZhuBoWesternHan.md) — Western Han chancellor whose patron-driven bundled impeachment of Fu Xi is exposed and ends in suicide.
+- [Ping Dang (Western Han)](entities/PingDangWesternHan.md) — Western Han chancellor who refuses a deathbed marquisate as a reputation-preserving act of restraint.
 - [Nate Soares](entities/NateSoares.md) — MIRI president and AI safety advocate interviewed about AI control, incident review, development pauses, and compute monitoring.
 - [Machine Intelligence Research Institute](entities/MachineIntelligenceResearchInstitute.md) — AI safety organization represented by Nate Soares in the Marketplace Tech agent-swarm governance discussion.
 - [Felix Hoffman](entities/FelixHoffman.md) — Seven Learnings co-founder/CEO whose interview links pricing consulting, predictive retail decision-making, founder-led enterprise sales, and explainable ML product judgment.
