@@ -16717,6 +16717,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽
+
+Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wang Mang asks that Kong Guang, Wang Shun, Zhen Feng, and Zhen Han be rewarded first; repeated refusal and illness claims let ministers press Wang Zhengjun for Wang Mang's higher grant; and his acceptance of Taifu/Anhan Gong while refusing added households turns humility and welfare language into public status inflation.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -16902,6 +16906,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

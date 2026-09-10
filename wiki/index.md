@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽](sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk.md) — 1 CE Wang Mang reward-refusal loop where staged humility, illness, ministerial pressure, Wang Zhengjun's endorsement, and welfare language turn nonacceptance into Taifu/Anhan Gong status inflation.
 - [《资治通鉴·汉纪》607丨揭秘王莽的权力博弈](sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78.md) — 1 CE Wang Mang-era backfill on Han Pingdi's child accession, Wang Zhengjun's regency, emperor-household control, staged Yuechang white-pheasant tribute, Zhougong precedent, and Anhan Gong title expansion.
 - [《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争](sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq.md) — 1-2 CE Wang Mang-era backfill on Shentu Gang's outer-relative safeguard memorial, punishment of unscripted candor, Confucian honors, female-prisoner release, agricultural exhortation, and Huangzhi rhinoceros tribute theater.
 - [罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定](sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a.md) — 罗永浩的十字路口 live panel on emotional stability, trolling, blocking, creator misreading, Smartisan failure reflection, conflict retreat, dissent contact, and public expression.
