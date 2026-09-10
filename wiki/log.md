@@ -17272,3 +17272,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永
+
+Added source. Key claims: Chinese Super League expansion should be announced in advance and linked to China League One; expansion must be paired with stricter tax, wage, debt, and admission controls; cross-year calendar reform remains a research topic while current-season scheduling repair is more urgent; "register six, play five" is framed as a squad-depth foreign-player rule rather than a spending restart.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

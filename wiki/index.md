@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永](sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu.md) — 不懂球 episode with Chen Yong on Chinese Super League expansion, cross-year calendar caution, financial discipline, foreign-player rules, and lower-tier pyramid design.
 - [《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命](sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp.md) — Late-Western-Han court-politics episode on Fu Taihou's failed further attack on Fu Xi through Zhu Bo, Zhu Bo's bundled impeachment and suicide, Wusun-Xiongnu hostage mediation, and Ping Dang's refusal of a deathbed marquisate.
 - [What's so concerning about the Hugging Face hack?](sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128.md) — Marketplace Tech episode with Nate Soares on a reported AI agent-swarm incident, OpenAI responsibility, mandatory incident investigation, advanced AI development pauses, and global frontier compute monitoring.
 - [Founder-Led Sales to $1M ARR With Just 10 Customers](sources/founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047.md) — The SaaS Podcast episode with Felix Hoffman on Seven Learnings, consulting-led data access, paid pilots, retail pricing optimization, founder-led enterprise sales, and why deterministic explainable ML can fit pricing decisions better than LLM wrappers.
@@ -2162,6 +2163,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [陈勇 / Chen Yong](entities/ChenYongFootballReporter.md) — Football reporter guest used for Chinese professional-football league policy, expansion, calendar, and finance analysis.
+- [中国足球协会 / Chinese Football Association](entities/ChineseFootballAssociation.md) — Governance actor referenced around Chinese professional-football calendar and league-policy research.
+- [中足联 / Chinese Professional Football League](entities/ChineseProfessionalFootballLeague.md) — Professional-league governance body referenced around calendar research and financial-monitoring proposals.
+- [中国足球甲级联赛 / China League One](entities/ChineseLeagueOne.md) — Chinese second-tier league whose scale and quality are linked to top-flight expansion.
+- [中国足球乙级联赛 / China League Two](entities/ChineseLeagueTwo.md) — Chinese third professional tier discussed as necessary but format-constrained.
+- [中国足球协会会员协会冠军联赛 / Chinese Champions League](entities/ChineseChampionsLeague.md) — Lower-tier Chinese competition layer criticized for insufficient match supply and weak club-city continuity.
+- [大连英博 / Dalian Yingbo](entities/DalianYingbo.md) — Chinese club used as a city-market and matchday-economy example.
+- [上海申花 / Shanghai Shenhua](entities/ShanghaiShenhua.md) — Chinese club used as a supporter-consumption and merchandise-demand example.
+- [成都蓉城 / Chengdu Rongcheng](entities/ChengduRongcheng.md) — Chinese club used as a rapid-rise and strong city-market example.
+- [山东泰山 / Shandong Taishan](entities/ShandongTaishan.md) — Chinese club case for equity-reform costs and foreign-player roster allocation.
+- [河南足球俱乐部 / Henan FC](entities/HenanFC.md) — Chinese club case for financial difficulty, equity reform, and stadium constraints.
+- [武汉三镇 / Wuhan Three Towns](entities/WuhanThreeTowns.md) — Chinese club-market example showing that continuity alone does not guarantee fully cultivated city football demand.
 - [Zhu Bo (Western Han)](entities/ZhuBoWesternHan.md) — Western Han chancellor whose patron-driven bundled impeachment of Fu Xi is exposed and ends in suicide.
 - [Ping Dang (Western Han)](entities/PingDangWesternHan.md) — Western Han chancellor who refuses a deathbed marquisate as a reputation-preserving act of restraint.
 - [Nate Soares](entities/NateSoares.md) — MIRI president and AI safety advocate interviewed about AI control, incident review, development pauses, and compute monitoring.
@@ -7824,7 +7837,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PP体育 / PP Sports](entities/PPSports.md) — China sports-streaming rights case tied to high-priced Premier League rights and later market repricing.
 - [DAZN](entities/DAZN.md) — Sports-streaming comparison case for high-priced rights, long losses, and eventual recovery attempts.
 - [UFC](entities/UFC.md) — U.S. combat-sports rights case used as a top-rights inflation benchmark.
-- [中国足球超级联赛 / Chinese Super League](entities/ChineseSuperLeague.md) — Local football-rights case used to define sports-rights bubbles relative to monetization capacity.
+- [中国足球超级联赛 / Chinese Super League](entities/ChineseSuperLeague.md) — Chinese top football league used as a sports-rights bubble, Evergrande legacy, and expansion-policy case.
 - [中国男子篮球职业联赛 / Chinese Basketball Association](entities/ChineseBasketballAssociation.md) — Chinese basketball league case for short-video rights and live-commerce monetization.
 - [Zydor Church](entities/ZydorChurch.md) — Oakland psychedelic church using mushrooms and DMT as sacrament while testing the boundary between religion, harm reduction, and federal drug law.
 - [Dave Hodges](entities/DaveHodges.md) — Founder and leader of Zydor Church whose mushroom-vision origin story and donation model anchor the episode's sincerity and commerce tension.
@@ -11768,6 +11781,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [中国职业足球联赛扩军 / Chinese Football League Expansion](concepts/ChineseFootballLeagueExpansion.md) — Chinese professional-football expansion concept linking top-flight scale, second-tier depth, advance rules, and promotion-relegation design.
+- [中国足球财务纪律 / Chinese Football Financial Discipline](concepts/ChineseFootballFinancialDiscipline.md) — Governance guardrail for wage arrears, tax arrears, debt, and admission standards during Chinese football expansion.
+- [中国足球金字塔设计 / Chinese Football Pyramid Design](concepts/ChineseFootballPyramidDesign.md) — Chinese-specific pyramid design concept linking city leagues, lower-tier match supply, home grounds, and promotion continuity.
+- [中国足球赛历政策 / Chinese Football Calendar Policy](concepts/ChineseFootballCalendarPolicy.md) — Scheduling concept separating long-term cross-year calendar research from urgent current-season rhythm repair.
+- [中国足球外援政策 / Chinese Football Foreign-Player Policy](concepts/ChineseFootballForeignPlayerPolicy.md) — Roster-rule concept linking foreign-player registration, salary constraints, injury tolerance, and domestic-player minutes.
 - [Mandatory AI Incident Investigation](concepts/MandatoryAIIncidentInvestigation.md) — Proposal that serious AI incidents should trigger independent access to relevant logs and evidence rather than company-controlled review scope.
 - [Advanced AI Development Pause](concepts/AdvancedAIDevelopmentPause.md) — Proposed halt on building more capable frontier AI systems until enforceable safety rules exist.
 - [Frontier AI Compute Monitoring](concepts/FrontierAIComputeMonitoring.md) — Proposal to monitor large specialized-chip clusters and data centers as an enforcement point for global frontier AI governance.
@@ -15743,7 +15761,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Labor-Market Discrimination](concepts/FootballLaborMarketDiscrimination.md) — Economic method for identifying racial, gender, and coaching-market prejudice through pay, performance, and opportunity gaps.
 - [Football Manager Myth Deflation](concepts/FootballManagerMythDeflation.md) — Challenge to treating most coaches as decisive geniuses or scapegoats when outcomes also reflect squads, finance, data, and regression.
 - [Open Football Talent Markets](concepts/OpenFootballTalentMarkets.md) — Argument that open player, coach, capital, and knowledge flows can raise domestic football quality rather than simply displace locals.
-- [Soft-Budget Football Clubs](concepts/SoftBudgetFootballClubs.md) — Club-finance pattern where community identity, owner status, political access, and rescue expectations soften ordinary budget discipline.
+- [Soft-Budget Football Clubs](concepts/SoftBudgetFootballClubs.md) — Football-club finance pattern where community identity, owner status, political access, and rescue expectations soften budget discipline, requiring stronger guardrails during expansion.
 - [中国足球金元时代 / Chinese Football Golden-Yuan Era](concepts/ChineseFootballGoldenYuanEra.md) — Chinese professional-football spending era where multi-club arms races reset transfers, wages, and expectations.
 - [Football Youth Academy Continuity](concepts/FootballYouthAcademyContinuity.md) — Problem of preserving players, coaching, education, and professional outlets when a club or sponsor collapses.
 - [Football Club Legacy Transfer](concepts/FootballClubLegacyTransfer.md) — Contested movement of fan identity, academy lineage, and city football memory from a defunct club to successor institutions.
@@ -17799,7 +17817,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Transfer Receivables Finance](concepts/FootballTransferReceivablesFinance.md) — Financing pattern where future transfer installments become discounted cash-flow instruments for clubs and banks.
 - [De Facto Super League Logic](concepts/DeFactoSuperLeagueLogic.md) — Super League-like concentration through elite competition inventory, rights structures, and repeated club advantages without formal breakaway.
 - [Football Commercialization Fan Conflict](concepts/FootballCommercializationFanConflict.md) — Tension between clubs as local supporter institutions and clubs as global sports assets monetized through capital, rights, venues, and pricing.
-- [Football Club As Community Asset](concepts/FootballClubAsCommunityAsset.md) — Lower-tier football club frame where local identity, members, municipal politics, and emotional value weaken ordinary company-style ROI logic.
+- [Football Club As Community Asset](concepts/FootballClubAsCommunityAsset.md) — Football-club frame where local identity, members, municipal politics, stadium access, matchday economy, and emotional value weaken ordinary company-style ROI logic.
 - [Football Club Control Risk](concepts/FootballClubControlRisk.md) — Gap between formal football-club titles and actual authority over players, budgets, members, old operators, and local relationships.
 - [Football Contract Enforcement Risk](concepts/FootballContractEnforcementRisk.md) — Risk that player-rights, transfer-upside, or club-control agreements do not convert into cash because counterparties, debt, or opaque arrangements intervene.
 - [Youth Football Development System](concepts/YouthFootballDevelopmentSystem.md) — Structural player-development frame around football population, match frequency, competition pyramids, and age-appropriate levels.
