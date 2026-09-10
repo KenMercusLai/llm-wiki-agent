@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [672. The First World War: Italy's Doomed Campaign (Part 2)](sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829.md) — The Rest Is History episode on Italy's 1915 intervention, D'Annunzio's nationalist rhetoric, Salandra's bargaining, Cadorna's Isonzo offensives, and war resentment feeding fascist politics.
 - [郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车](sources/zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0.md) — 罗永浩的十字路口 interview with Zheng Zhi on 《身中有林》, Northeast literature, film adaptation, casting, editing, AI-era production cost, debt, family memory, and writer-director career timing.
 - [Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420.md) — Huberman Lab Essentials episode with Eddie Chang on speech versus language, vocal-tract speech production, locked-in syndrome, BRAVO speech neuroprosthetics, augmentation ethics, avatars, and stuttering as speech coordination.
 - [《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？](sources/zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww.md) — 芮淇讲透资治通鉴 episode challenging the simple Zhao Feiyan/Zhao Hede blame story for Han Chengdi's no-heir crisis through evidence gaps, Wang-family incentives, child-survival patterns, and gendered historical memory.
@@ -2175,6 +2176,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Italy](entities/Italy.md) — Recently unified state whose 1915 First World War intervention is framed through irredentism, elite bargaining, Isonzo attrition, and postwar resentment.
+- [Gabriele D'Annunzio](entities/GabrieleDAnnunzio.md) — Poet-nationalist whose pro-war rhetoric and Fiume precedent connect Italian interventionism to later fascist style.
+- [Luigi Cadorna](entities/LuigiCadorna.md) — Italian commander whose frontal-attack doctrine shaped the early Isonzo disasters.
+- [Isonzo Front](entities/IsonzoFront.md) — Italian-Austro-Hungarian mountain front where Italy's intervention aims became attritional warfare.
 - [Eddie Chang](entities/EddieChang.md) — neurosurgeon and speech-neuroscience guest explaining speech production, speech neuroprosthetics, BRAVO, augmentation limits, and stuttering.
 - [BRAVO Trial](entities/BRAVOTrial.md) — speech-neuroprosthetics clinical trial case decoding attempted speech from implanted cortical electrodes for communication restoration.
 - [赵合德 / Zhao Hede (Western Han)](entities/ZhaoHedeWesternHan.md) — Western Han favored consort whose Chengdi heir-killing accusation is treated by Hanji 573 as suspicious but evidentially and politically unstable.
@@ -11813,6 +11818,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Italian Irredentism](concepts/ItalianIrredentism.md) — National-completion claim behind Italy's demands for Habsburg-held and Adriatic territories before entering the First World War.
+- [Nationalist Street Mobilization](concepts/NationalistStreetMobilization.md) — Political-pressure pattern where crowds, sacred national language, and betrayal accusations make institutional opposition harder to sustain.
 - [Northeast Literary Film Authorship / 东北文学影视作者性](concepts/NortheastLiteraryFilmAuthorship.md) — Source-scoped pattern where local memory, dialect, family material, humor, and industrial-era aftereffects become literary and film language.
 - [Author Commercial Film Balance / 作者表达与商业电影平衡](concepts/AuthorCommercialFilmBalance.md) — Negotiation between authorial density and theatrical film constraints such as runtime, casting, investor recovery, genre readability, and publicity.
 - [Creator Late-Cycle Anxiety / 创作者末班车感](concepts/CreatorLateCycleAnxiety.md) — Feeling that a creator enters literature, film, or another cultural field just as its golden age or commercial window is receding.

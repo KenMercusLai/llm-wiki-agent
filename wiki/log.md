@@ -17297,6 +17297,10 @@ Added source. Key claims: Chang separates speech from broader language; speech p
 
 Added source. Key claims: Geng Yu uses Zhou succession precedent to defend Chengdi's choice of Aidi as foresight rather than scandal; the memorial reframes further Zhao Feiyan investigation as damage to Chengdi's reputation and Aidi's filial duty; Aidi stops pursuing the accusation details; Wang Zhengjun and the Wang family resent the closure.
 
+## [2026-09-11] ingest | 672. The First World War: Italy's Doomed Campaign (Part 2)
+
+Added source. Key claims: Italy's 1915 intervention is framed as voluntary and acquisitive rather than defensive; Salandra used neutrality and "sacred egoism" to bargain for Adriatic and Alpine gains; D'Annunzio's pro-war crowds helped turn anti-war politics into alleged betrayal; Cadorna's frontal doctrine, weak mobilization, and Isonzo terrain produced high-casualty attrition; the war's losses and partial postwar settlement fed resentment later available to Italian fascism.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？
 
 Added source. Key claims: Wang Mang survives Zhu Bo and Zhao Xuan's request to strip title and fief because Wang Zhengjun remains his backing; Yang Xuan's secret memorial reframes leniency toward the Wang family as Aidi's Chengdi-linked filial duty; Zhu Bo's州牧-to-刺史 proposal treats lower rank as sharper oversight incentive; Ding Taihou's Dingtao burial shows Aidi's personal-filial ritual concern.
@@ -17364,6 +17368,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
 
 Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
