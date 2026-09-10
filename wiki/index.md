@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！](sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou's Zhizhi Chanyu merit, proportional treatment of flawed heroes, and hero memory as political credibility.
 - [672. The First World War: Italy's Doomed Campaign (Part 2)](sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829.md) — The Rest Is History episode on Italy's 1915 intervention, D'Annunzio's nationalist rhetoric, Salandra's bargaining, Cadorna's Isonzo offensives, and war resentment feeding fascist politics.
 - [郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车](sources/zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0.md) — 罗永浩的十字路口 interview with Zheng Zhi on 《身中有林》, Northeast literature, film adaptation, casting, editing, AI-era production cost, debt, family memory, and writer-director career timing.
 - [Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420.md) — Huberman Lab Essentials episode with Eddie Chang on speech versus language, vocal-tract speech production, locked-in syndrome, BRAVO speech neuroprosthetics, augmentation ethics, avatars, and stuttering as speech coordination.
@@ -2184,7 +2185,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eddie Chang](entities/EddieChang.md) — neurosurgeon and speech-neuroscience guest explaining speech production, speech neuroprosthetics, BRAVO, augmentation limits, and stuttering.
 - [BRAVO Trial](entities/BRAVOTrial.md) — speech-neuroprosthetics clinical trial case decoding attempted speech from implanted cortical electrodes for communication restoration.
 - [赵合德 / Zhao Hede (Western Han)](entities/ZhaoHedeWesternHan.md) — Western Han favored consort whose Chengdi death and heir-killing suspicion now combines Hanji 571's severe Cao Gong case narrative with Hanji 573's evidentiary caution.
-- [耿育 / Geng Yu (Western Han)](entities/GengYuWesternHan.md) — Western Han memorialist whose Chengdi succession defense reframes palace scandal into dynastic foresight and helps Han Aidi close the Zhao Feiyan-linked case.
+- [陈汤 / Chen Tang (Western Han)](entities/ChenTangWesternHan.md) — Western Han frontier commander whose Zhizhi Chanyu victory, later disgrace, and acknowledged Changling-related faults ground a proportional hero-merit case.
+- [甘延寿 / Gan Yanshou (Western Han)](entities/GanYanshouWesternHan.md) — Western Han commander paired with Chen Tang in the Zhizhi Chanyu campaign and Geng Yu's under-reward argument.
+- [郅支单于 / Zhizhi Chanyu](entities/ZhizhiChanyu.md) — Xiongnu ruler whose defeat by Chen Tang and Gan Yanshou anchors Hanji 570's military-merit memory dispute.
+- [匡衡 / Kuang Heng (Western Han)](entities/KuangHengWesternHan.md) — Western Han chancellor figure blamed by Geng Yu for obstructing proportionate recognition of Chen Tang and Gan Yanshou.
+- [耿育 / Geng Yu (Western Han)](entities/GengYuWesternHan.md) — Western Han memorialist whose current profile joins Chen Tang's merit defense with Chengdi succession-defense narrative repair.
 - [赵飞燕 / Zhao Feiyan (Western Han)](entities/ZhaoFeiyanWesternHan.md) — Western Han palace figure whose source-scoped profile now links Cao Gong's palace proximity, Zhao-sister accusation, Aidi-era case closure, Chengdi's reputation, and Wang-family resentment.
 - [曹宫 / Cao Gong (Western Han)](entities/CaoGongWesternHan.md) — Western Han palace woman whose newborn son by Han Chengdi becomes the core missing-infant case in Xie Guang's report.
 - [谢光 / Xie Guang (Western Han)](entities/XieGuangWesternHan.md) — Western Han investigator whose report to Han Aidi preserves the Cao Gong infant case behind the Chengdi heir-killing accusation.
@@ -11821,6 +11826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [英雄记忆与政治信用 / Hero Memory Political Credibility](concepts/HeroMemoryPoliticalCredibility.md) — Political-culture pattern where honoring heroic service affects whether future people trust the state enough to sacrifice or take risks.
 - [Italian Irredentism](concepts/ItalianIrredentism.md) — National-completion claim behind Italy's demands for Habsburg-held and Adriatic territories before entering the First World War.
 - [Nationalist Street Mobilization](concepts/NationalistStreetMobilization.md) — Political-pressure pattern where crowds, sacred national language, and betrayal accusations make institutional opposition harder to sustain.
 - [Northeast Literary Film Authorship / 东北文学影视作者性](concepts/NortheastLiteraryFilmAuthorship.md) — Source-scoped pattern where local memory, dialect, family material, humor, and industrial-era aftereffects become literary and film language.
