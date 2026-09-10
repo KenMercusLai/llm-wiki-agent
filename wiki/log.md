@@ -17344,3 +17344,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？
+
+Added source. Key claims: Fu Taihou's title demand turns ritual status into outer-relative pressure; Shi Dan and Fu Xi are removed or exposed for resisting; Fu Yan and Zhu Bo package flattery as filial-political service and accuse opponents as self-protective or factional; the episode frames the case as bureaucratic reverse selection.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
