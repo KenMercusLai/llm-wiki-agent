@@ -17352,3 +17352,11 @@ Added source. Key claims: Fu Taihou's title demand turns ritual status into oute
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
+
+Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
