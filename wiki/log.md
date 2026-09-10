@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》607丨揭秘王莽的权力博弈
+
+Ingested the 2026-05-28 芮淇讲透资治通鉴 episode backfilling 1 CE Wang Mang regency politics through Han Pingdi's child accession, Wang Zhengjun's formal regency, Wang Mang's control of court affairs and emperor-household appointments, Han Aidi's burial, and the staged Yuechang white-pheasant tribute. Added source `zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78`; updated `WangMang`, `WangZhengjun`, `HanPingdi`, `ZhouGong`, `AuspiciousOmenPolitics`, and `ClassicCitationLegitimationCapture`. No settled contradiction found; unnamed senior official identity, Yuechang geography, local instruction mechanics, ministerial coordination, and Wang Mang's inner motive remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争
 
 Ingested the 2026-05-28 芮淇讲透资治通鉴 short episode backfilling 1-2 CE Wang Mang regency politics through Shentu Gang's memorial for Han Pingdi's outer-relative protection, Wang Mang's punishment of unscripted candid advice, Confucian honor grants, female-prisoner release and agricultural exhortation, and Huangzhi's gift-backed rhinoceros tribute. Added source `zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq`; created `HuangzhiKingdom`, `ScriptedCandorTrap`, and `RemoteTributePrestigeTheater`; updated `ShentuGangEasternHan`, `index`, and `overview`. No settled contradiction found; Zhongshan Empress Dowager, Feng/Wei relatives, Lu and Kong descendant titles, Gushan-money mechanics, Huangzhi geography, and Wang Mang's inner motive remain source-scoped.
@@ -16898,6 +16902,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》607丨揭秘王莽的权力博弈](sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78.md) — 1 CE Wang Mang-era backfill on Han Pingdi's child accession, Wang Zhengjun's regency, emperor-household control, staged Yuechang white-pheasant tribute, Zhougong precedent, and Anhan Gong title expansion.
 - [《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争](sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq.md) — 1-2 CE Wang Mang-era backfill on Shentu Gang's outer-relative safeguard memorial, punishment of unscripted candor, Confucian honors, female-prisoner release, agricultural exhortation, and Huangzhi rhinoceros tribute theater.
 - [罗永浩的X字路口！当一群情绪不稳定的杠精讨论起情绪稳定](sources/luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a.md) — 罗永浩的十字路口 live panel on emotional stability, trolling, blocking, creator misreading, Smartisan failure reflection, conflict retreat, dissent contact, and public expression.
 - [《资治通鉴·汉纪》611丨历史无名的孙宝，有多爷们？](sources/zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw.md) — 2 CE Wang Mang-era court episode on Sun Bao publicly rejecting yellow-dragon praise, naming fiscal and commoner distress, then being removed through Chen Chong's filial-duty impeachment.
@@ -5429,7 +5430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [屈原 / Qu Yuan](entities/QuYuan.md) — Chu anti-Qin statesman-poet whose exclusion helps explain why Chen Zhen's warnings lacked court weight.
 - [陈甲 / Chen Jia (Warring States)](entities/ChenJiaWarringStates.md) — Mencius interlocutor who uses Zhou Gong's mistake to contextualize Qi Xuan Wang's failed Yan policy, prompting the "mistakes must be corrected" lesson.
 - [商汤 / Shang Tang](entities/ShangTang.md) — Mencius's positive punitive-conquest example for relief of suffering people, contrasted with Qi's failed occupation of Yan.
-- [周公 / Duke of Zhou](entities/ZhouGong.md) — Sage example in Chen Jia's question, used by Mencius to distinguish understandable mistakes from refusal to correct errors.
+- [周公 / Duke of Zhou](entities/ZhouGong.md) — Classical sage-regent used both as Mencian correctable-leadership example and as Wang Mang's white-pheasant legitimacy template.
 - [钟离春 / 钟无艳 / Zhongli Chun](entities/ZhongliChun.md) — Legendary Qi Xuan Wang consort in the episode's closing cultural afterlife note, linked to the Zhong Wuyan tradition.
 - [修鱼之战 / Battle of Xiuyu](entities/XiuyuBattle.md) — 317 BCE Qin victory after the failed anti-Qin coalition, with Qin pursuing Han and Wei under Chulizi before continuing to Zhuoze.
 - [樗里子 / Chulizi](entities/Chulizi.md) — Qin royal-family commander and first right chancellor who later becomes part of the court pressure against Gan Mao's Yiyang campaign.
