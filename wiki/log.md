@@ -17273,6 +17273,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？
+
+Added source. Key claims: Gan Zhongke packages Chengdi's no-heir anxiety as a renewed-mandate problem but is blocked by Liu Xiang; Xia Heliang reactivates the Taipingjing method under the ill Han Aidi; Aidi's reign-title, imperial-style, and water-clock changes fail and are mostly revoked; the episode frames the reversal as sacred-legitimacy damage and shows fangshi counsel shifting toward proposed personnel redistribution through Li Xun and Jie Guang.
+
 ## [2026-09-11] ingest | Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永
 
 Added source. Key claims: Chinese Super League expansion should be announced in advance and linked to China League One; expansion must be paired with stricter tax, wage, debt, and admission controls; cross-year calendar reform remains a research topic while current-season scheduling repair is more urgent; "register six, play five" is framed as a squad-depth foreign-player rule rather than a spending restart.
@@ -17280,6 +17284,10 @@ Added source. Key claims: Chinese Super League expansion should be announced in 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
 
 Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

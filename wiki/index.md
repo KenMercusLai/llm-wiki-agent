@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
+- [《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？](sources/zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm.md) — Late-Western-Han court-politics episode on Han Aidi accepting Xia Heliang's Taipingjing renewed-mandate cure, changing reign title, imperial style, and timekeeping, then reversing the edict after the promised relief fails.
 - [Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永](sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu.md) — 不懂球 episode with Chen Yong on Chinese Super League expansion, cross-year calendar caution, financial discipline, foreign-player rules, and lower-tier pyramid design.
 - [《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命](sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp.md) — Late-Western-Han court-politics episode on Fu Taihou's failed further attack on Fu Xi through Zhu Bo, Zhu Bo's bundled impeachment and suicide, Wusun-Xiongnu hostage mediation, and Ping Dang's refusal of a deathbed marquisate.
 - [What's so concerning about the Hugging Face hack?](sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128.md) — Marketplace Tech episode with Nate Soares on a reported AI agent-swarm incident, OpenAI responsibility, mandatory incident investigation, advanced AI development pauses, and global frontier compute monitoring.
@@ -2195,6 +2196,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carla Superana](entities/CarlaSuperana.md) — Source voice explaining queen-ant smuggling from Kenya, collector demand, and ecological risk.
 - [AntsCanada](entities/AntsCanada.md) — YouTube ant-keeping channel cited as an example of social-media demand around ant colonies.
 - [东平王刘云 / Liu Yun, Dongping King (Western Han)](entities/LiuYunDongpingKingWesternHan.md) — Western Han royal kinsman whose worship of the Hu Mountain standing stone is prosecuted as treason under Han Aidi.
+- [夏贺良 / Xia Heliang (Western Han)](entities/XiaHeliangWesternHan.md) — Gan Zhongke disciple whose renewed-mandate advice persuades Han Aidi to change reign title, imperial style, and timekeeping before being executed.
+- [李寻 / Li Xun (Western Han)](entities/LiXunWesternHan.md) — Omen-literate Western Han adviser who helps Xia Heliang reach Han Aidi and is later exiled to Dunhuang.
+- [解光 / Jie Guang (Western Han)](entities/JieGuangWesternHan.md) — Han Aidi adviser tied to the Xia Heliang renewed-mandate episode and later exiled to Dunhuang.
 - [东平王后刘烨 / Liu Ye, Dongping Queen (Western Han)](entities/LiuYeDongpingQueenWesternHan.md) — Dongping queen whose reported confession becomes decisive in Liu Yun's standing-stone treason case.
 - [傅商 / Fu Shang (Western Han)](entities/FuShangWesternHan.md) — Fu-family relative whose enfeoffment triggers Zheng Chong's omen-coded institutional remonstrance.
 - [孙宠 / Sun Chong (Western Han)](entities/SunChongWesternHan.md) — Chang'an co-accuser and reward beneficiary in the Dongping king Liu Yun case.
@@ -5154,6 +5158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《赵正书》 / Zhao Zheng Shu](entities/ZhaoZhengShu.md) — Western Han bamboo manuscript used by Qinji 126 part 2 to support the final-tour-as-fate-change reconstruction.
 - [秦始皇晚年异象危机 / Qin Late Omen Crisis](entities/QinLateOmenCrisis.md) — 211 BCE omen cluster around Qin Shi Huang: 荧惑守心, Dong Commandery meteor inscription, returned jade bi, "今年祖龙死," and the later "游徙吉" response.
 - [扶苏 / Fu Su](entities/FuSu.md) — Qin Shi Huang's eldest son whose unjust death and softer succession image become rebel legitimacy material for Chen Sheng and Wu Guang.
+- [甘忠可 / Gan Zhongke (Western Han)](entities/GanZhongkeWesternHan.md) — Western Han fangshi-style figure who uses Taipingjing renewed-mandate language to approach Han Chengdi through no-heir anxiety.
 - [侯生 / Hou Sheng (Fangshi)](entities/HouShengFangshi.md) — Qin fangshi in Qinji 125-2 whose flight and criticism with Lu Sheng help trigger the坑儒 incident; distinct from Qi chancellor 后胜.
 - [阿房宫 / Afang Palace](entities/AfangPalace.md) — Late Qin palace project south of the Wei River, framed as both capital expansion and unfinished symbolic mega-project.
 - [秦始皇陵 / Qin Shi Huang Mausoleum](entities/QinShiHuangMausoleum.md) — Lishan burial project whose priority after Qin Shi Huang's death redirects labor away from Afang Palace.
@@ -6942,6 +6947,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [千问眼镜 / Qwen Smart Glasses](entities/QwenSmartGlasses.md) — AI glasses example in EP253 where location plus image context improves place recognition.
 - [AWE China / 中国家电及消费电子博览会](entities/AWEChina.md) — Appliance and consumer-electronics expo used in EP253 to discuss uneven AI home-appliance labeling.
 - [王洪杰 / Wang Hongjie](entities/WangHongjie.md) — Historian explaining 五代十国 through 唐宋转型, regime classification, people-centered narrative, and social history.
+- [《太平经》 / Taipingjing](entities/Taipingjing.md) — Textual vehicle in Hanji 581 for Gan Zhongke and Xia Heliang's renewed-mandate promise around heirs, health, disaster relief, and great peace.
 - [《太平年》](entities/Taipingnian.md) — Historical TV drama used as Talk三联's entry point into 五代十国 and the 吴越 perspective.
 - [五代十国 / Five Dynasties and Ten Kingdoms](entities/FiveDynastiesTenKingdoms.md) — Transitional period between late Tang collapse and Northern Song consolidation, read as institutional, regional, and social recomposition.
 - [《新五代史》 / New History of the Five Dynasties](entities/NewFiveDynastiesHistory.md) — Ouyang Xiu history text central to the canonical "十国" category and later loyalty judgments.
@@ -8493,7 +8499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
-- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested early reputation, fabricated Dong Xian merit, Bao Xuan's livelihood critique, succession rupture, and delayed-burial imperial停灵.
+- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested early reputation, illness-driven renewed-mandate reversal, fabricated Dong Xian merit, Bao Xuan's livelihood critique, succession rupture, and delayed-burial imperial停灵.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose fabricated merit, rewards, public-suffering contrast, court visibility, succession failure, and posthumous family cleanup expose the fragility of favor.
 - [武将龙 / Wu Jianglong (Western Han)](entities/WuJianglongWesternHan.md) — Western Han Zhijinwu whose remonstrance against Han Aidi's armory gifts to Dong Xian and Fu Taihou's underpriced official-slave purchase defends public-private resource boundaries.
 - [朱徐 / Zhu Xu (Western Han)](entities/ZhuXuWesternHan.md) — Western Han figure whose burial of Dong Xian after Dong-family collapse turns private gratitude into political exposure.
@@ -13550,6 +13556,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Imperial Construction Overload / 帝国工程过载](concepts/ImperialConstructionOverload.md) — Qinji 125-1 pattern where overlapping imperial mega-projects show state capacity while straining labor, succession timing, and social stability.
 - [Imperial Itinerary Secrecy / 帝王行踪保密](concepts/ImperialItinerarySecrecy.md) — Pattern where immortal-seeking advice turns the emperor's residence and movement into a lethal information-control system.
 - [Fangshi Accountability Trap / 方士问责陷阱](concepts/FangshiAccountabilityTrap.md) — Late-stage risk where fangshi promises gain influence but become dangerous when immortal results never arrive.
+- [Renewed Mandate Ritual Reversal / 再受命改制合法性反噬](concepts/RenewedMandateRitualReversal.md) — Pattern where a ruler tries to repair sacred legitimacy through a public renewed-mandate reset, then weakens authority when the ritual promise fails and is revoked.
+- [Fangshi Power Redistribution / 方士话语推动权力再分配](concepts/FangshiPowerRedistribution.md) — Pattern where fangshi claims about Heaven or omens shift from ritual advice into arguments for replacing officials or reallocating governing authority.
 - [秦代焚书令 / Qin Book-Burning Policy](concepts/QinBookBurningPolicy.md) — Qinji 124 frame for the 213 BCE policy targeting private histories and classics while leaving official and practical exceptions.
 - [学在王官式知识垄断 / Official Learning Monopoly](concepts/OfficialLearningMonopoly.md) — Qinji 124 frame for moving legitimate learning and law study into official channels while suppressing private teaching.
 - [Post-Unification War Inertia / 统一后战争惯性](concepts/PostUnificationWarInertia.md) — Qinji 123-2 frame for why Qin kept launching campaigns after unification because war rewards, status, and social expectations had become institutionalized.
