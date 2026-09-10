@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？](sources/zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk.md) — 芮淇讲透资治通鉴 episode on Jia Rang's upper, middle, and lower Yellow River flood-control policies, floodplain retreat, levee risk transfer, and long-horizon governance judgment.
 - [Empress Matilda: Civil War and the Fight for the Throne](sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666.md) — The Rest Is History episode on Empress Matilda, Henry I's White Ship succession shock, Stephen's first-mover coronation, the Anarchy, and the gendered constraints on medieval female sovereignty.
 - [《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学](sources/zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp.md) — 芮淇讲透资治通鉴 episode on He Wu's symbolic sword-inheritance judgment, Han Wudi's temple-retention debate, He Wu's removal, and Shi Dan's early warnings to Han Aidi.
 - [《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！](sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou's Zhizhi Chanyu merit, proportional treatment of flawed heroes, and hero memory as political credibility.
@@ -2181,6 +2182,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Jia Rang (Western Han)](entities/JiaRangWesternHan.md) — Western Han proposer of upper, middle, and lower Yellow River flood-control policies.
+- [Qian Mu](entities/QianMu.md) — Historian invoked through a five-hundred-year tree story about long-horizon judgment.
+- [Yellow River](entities/YellowRiver.md) — Chinese civilizational river treated here as both mother river and recurring hydraulic-governance challenge.
 - [Italy](entities/Italy.md) — Recently unified state whose 1915 First World War intervention is framed through irredentism, elite bargaining, Isonzo attrition, and postwar resentment.
 - [Gabriele D'Annunzio](entities/GabrieleDAnnunzio.md) — Poet-nationalist whose pro-war rhetoric and Fiume precedent connect Italian interventionism to later fascist style.
 - [Luigi Cadorna](entities/LuigiCadorna.md) — Italian commander whose frontal-attack doctrine shaped the early Isonzo disasters.
@@ -11838,6 +11842,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Floodplain Retreat Governance](concepts/FloodplainRetreatGovernance.md) — Flood-control pattern where authorities reduce recurring risk by giving river space back instead of endlessly defending occupied floodplains.
 - [春秋决狱式意图裁判 / Spring-Autumn Intent Adjudication](concepts/SpringAutumnIntentAdjudication.md) — Han-era legal-interpretive pattern where a judge reads true intent and Confucian ethical meaning beyond literal wording, grounded by He Wu's断剑 case.
 - [英雄记忆与政治信用 / Hero Memory Political Credibility](concepts/HeroMemoryPoliticalCredibility.md) — Political-culture pattern where honoring heroic service affects whether future people trust the state enough to sacrifice or take risks.
 - [Italian Irredentism](concepts/ItalianIrredentism.md) — National-completion claim behind Italy's demands for Habsburg-held and Adriatic territories before entering the First World War.
