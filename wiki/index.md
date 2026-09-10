@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Empress Matilda: Civil War and the Fight for the Throne](sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666.md) — The Rest Is History episode on Empress Matilda, Henry I's White Ship succession shock, Stephen's first-mover coronation, the Anarchy, and the gendered constraints on medieval female sovereignty.
 - [《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学](sources/zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp.md) — 芮淇讲透资治通鉴 episode on He Wu's symbolic sword-inheritance judgment, Han Wudi's temple-retention debate, He Wu's removal, and Shi Dan's early warnings to Han Aidi.
 - [《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！](sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou's Zhizhi Chanyu merit, proportional treatment of flawed heroes, and hero memory as political credibility.
 - [672. The First World War: Italy's Doomed Campaign (Part 2)](sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829.md) — The Rest Is History episode on Italy's 1915 intervention, D'Annunzio's nationalist rhetoric, Salandra's bargaining, Cadorna's Isonzo offensives, and war resentment feeding fascist politics.
@@ -4574,6 +4575,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [CyberCab](entities/CyberCab.md) — Tesla dedicated robotaxi vehicle in the source's Austin rollout discussion.
 - [Gansu / 甘肃](entities/Gansu.md) — Modern rocket-recovery setting and northwest historical-geography corridor around Longshan, Guanlong roads, and Guanzhong ties.
 - [The Rest Is History](entities/TheRestIsHistory.md) — History podcast anchoring selected abolitionist, African female-power, medieval, Elizabethan, Troubles, national-symbol, sport-politics, Habsburg, Odyssey, Founding Fathers, and Roman Civil War branches.
+- [Empress Matilda](entities/EmpressMatilda.md) — Twelfth-century claimant whose hereditary and oath-backed legitimacy collided with Stephen's coronation and gendered warrior-kingship expectations.
+- [Henry I of England](entities/HenryIOfEngland.md) — Anglo-Norman king whose own legitimacy tactics and loss of William Atheling created Matilda's succession crisis.
+- [Stephen of Blois](entities/StephenOfBlois.md) — Rival claimant who converted speed, treasury control, coronation, and anointing into practical kingship against Matilda.
+- [Henry II of England](entities/HenryIIOfEngland.md) — Matilda's son whose recognition as Stephen's heir turned her failed personal bid into dynastic success.
+- [White Ship Disaster](entities/WhiteShipDisaster.md) — 1120 maritime disaster that killed William Atheling and made Matilda Henry I's contested heir.
+- [The Anarchy](entities/AnarchyEnglishCivilWar.md) — Twelfth-century English civil war between Stephen and Matilda over succession legitimacy and royal order.
 - [Benjamin Lay](entities/BenjaminLay.md) — Quaker abolitionist activist whose Barbados experience, boycott discipline, public stunts, and anti-slavery witness anchor episode 316.
 - [Sarah Lay](entities/SarahLay.md) — Benjamin Lay's wife and household partner whose Barbados charity and radical simplicity shape the episode's abolitionist context.
 - [Quakers](entities/Quakers.md) — Religious community whose inward equality, anti-hierarchy, public witness, and slavery contradiction frame Benjamin Lay's activism.
@@ -12955,6 +12962,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Scandal Suppression](concepts/DynasticScandalSuppression.md) — Pattern where a ruling house converts private catastrophe into controlled public story, ritual repair, and asymmetric erasure.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
 - [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
+- [Anglo-Norman Succession Legitimacy](concepts/AngloNormanSuccessionLegitimacy.md) — Multi-source legitimacy field where blood, oath, coronation, anointing, force, presence, and order-making decide twelfth-century English kingship.
+- [Medieval Female Sovereignty Constraint](concepts/MedievalFemaleSovereigntyConstraint.md) — Legitimacy problem where women can transmit or represent royal authority more easily than occupy independent warrior-king sovereignty.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
 - [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, witness suppression, property extraction, servants, guests, or local violence and can turn enforcement against enforcers.
 - [Open Source AI Ban Risk](concepts/OpenSourceAIBanRisk.md) — Risk that model-provenance or national-security concerns become broad restrictions on open-weight AI models.
