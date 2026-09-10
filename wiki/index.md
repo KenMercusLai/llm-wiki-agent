@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
+- [《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？](sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz.md) — 芮淇讲透资治通鉴 episode on Wang Mang surviving title-and-fief removal through Wang Zhengjun's backing, Yang Xuan's secret memorial, Zhu Bo's州牧-to-刺史 reform, and Ding Taihou's Dingtao burial.
 - [《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？](sources/zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm.md) — Late-Western-Han court-politics episode on Han Aidi accepting Xia Heliang's Taipingjing renewed-mandate cure, changing reign title, imperial style, and timekeeping, then reversing the edict after the promised relief fails.
 - [Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永](sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu.md) — 不懂球 episode with Chen Yong on Chinese Super League expansion, cross-year calendar caution, financial discipline, foreign-player rules, and lower-tier pyramid design.
 - [《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命](sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp.md) — Late-Western-Han court-politics episode on Fu Taihou's failed further attack on Fu Xi through Zhu Bo, Zhu Bo's bundled impeachment and suicide, Wusun-Xiongnu hostage mediation, and Ping Dang's refusal of a deathbed marquisate.
@@ -2165,6 +2166,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [杨宣 / Yang Xuan (Western Han)](entities/YangXuanWesternHan.md) — Western Han remonstrant whose secret memorial uses Chengdi's succession choice and Wang Zhengjun's status to limit the anti-Wang-family purge.
+- [赵璇 / Zhao Xuan (Western Han)](entities/ZhaoXuanWesternHan.md) — Western Han Yushi Dafu who joins Zhu Bo's failed request to strip Wang Mang's title and fief.
 - [陈勇 / Chen Yong](entities/ChenYongFootballReporter.md) — Football reporter guest used for Chinese professional-football league policy, expansion, calendar, and finance analysis.
 - [中国足球协会 / Chinese Football Association](entities/ChineseFootballAssociation.md) — Governance actor referenced around Chinese professional-football calendar and league-policy research.
 - [中足联 / Chinese Professional Football League](entities/ChineseProfessionalFootballLeague.md) — Professional-league governance body referenced around calendar research and financial-monitoring proposals.
