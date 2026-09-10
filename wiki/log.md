@@ -16801,6 +16801,10 @@ Added source note for Wang Jia's Jianping 3 / 4 BCE personnel memorial under Han
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?
+
+Added source note for the All-In episode with Gavin Baker on recursive AI, AI backlash, frontier oversight, SpaceX platform and compute-leasing claims, orbital compute timing, Nvidia fundamentals and GPU financing, bond stress, and U.S.-China chip strategy. Updated SpaceBasedAIInfrastructure, OrbitalDataCenterEconomics, and GPUComputeAssetBackedFinancing with source-scoped evidence around terrestrial compute leasing, orbital GPU forecasts, and older-GPU useful-life assumptions.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》587丨谁会把武器当礼物送给爱人？
 
 Added source note for the late-Western-Han Dong Xian reward sequence, covering Han Aidi's repeated armory-weapon gifts, Wu Jianglong's public-private fiscal remonstrance, Fu Taihou's underpriced official-slave purchase, and Aidi's limited demotion punishment. Added WuJianglongWesternHan and PublicArmoryPrivateFavorBoundary; updated HanAidi, DongXian, FuTaihouWesternHan, and ImperialPrivateDesireGovernanceRisk.
@@ -17196,6 +17200,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
