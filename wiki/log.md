@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | TRAILER: Shire folk
+
+Added source note for the Economist Podcasts trailer introducing Georgia Banjo's Shire/Shia Folk investigation into Tommy Robinson. Key claims: Robinson is framed as a British media-excluded activist promoting a radical-Islam threat narrative; Elon Musk's London rally appearance supplies civil-war threat rhetoric; and the series asks how Robinson became a warning-symbol figure for some powerful Americans. Added `TommyRobinson`, `ShireFolk`, `CivilWarThreatRhetoric`, `BritishMediaExclusionOnlineAmplification`, and `AmericanRightBritainWarningNarrative`; updated `GeorgiaBanjo`, `FarRightNormalization`, and `index`. No settled contradiction found; crowd size, exact rally timing, American influence map, and Shire/Shia spelling remain source-scoped.
+
 ## [2026-09-10] ingest | #404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目
 
 Ingested the 2026-09-10 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, Chinese American representation, conservative parental-rights conflicts, homelessness-service siting, 2020 public-safety response, California nonpartisan candidacy, and Chinese American elected officials under U.S.-China tension. Added source `404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231`; created `ShaoYang`, `FremontCalifornia`, `FremontUnifiedSchoolDistrict`, `AlexLeeCalifornia`, `AileenWangArcadia`, `ImmigrantLocalOfficeRepresentation`, `SchoolParentalRightsConflict`, `MunicipalTransparencyCompromise`, `NonpartisanCandidatePartySystemConstraint`, and `DiasporaOfficialGeopoliticalExposure`. No settled contradiction found; claims about curriculum, unions, protests, election dynamics, and foreign-agent legal exposure remain source-scoped.
@@ -17192,6 +17196,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

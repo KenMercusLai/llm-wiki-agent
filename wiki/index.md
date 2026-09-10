@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目](sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231.md) — 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, parental-rights conflict, homelessness-service compromise, California nonpartisan candidacy, and Chinese American officials under U.S.-China tension.
+- [TRAILER: Shire folk](sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md) — Economist Podcasts trailer introducing Georgia Banjo's Shire/Shia Folk investigation into Tommy Robinson, Elon Musk's civil-conflict rally rhetoric, British media exclusion, and Robinson's symbolic value for parts of the American right.
 - [Working through it: the AI jobs boom dawns](sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8.md) — The Intelligence episode on AI job creation counterweights, data-center labor demand, China's fragmented food-safety enforcement, and queen-ant trafficking from Kenya.
 - [《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？](sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs.md) — Late-Western-Han personnel episode on Wang Jia's argument that capable officials with small or past faults can be restored when local authority, tenure stability, and crisis response require usable talent.
 - [《资治通鉴·汉纪》584丨西汉“瓠山立石谋反事件”始末](sources/zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo.md) — Late-Western-Han court-politics episode on Han Aidi's illness and ritual anxiety, the Hu Mountain standing-stone treason case against Dongping king Liu Yun, West Queen Mother token panic, and Zheng Chong's objection to Fu Shang's enfeoffment.
@@ -10722,6 +10723,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to business-hub resilience, oil coordination, Sudan and Syria diplomacy, and Iran sanctions compliance channels.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
 - [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
+- [Shire/Shia Folk](entities/ShireFolk.md) — Economist audio investigation introduced as Georgia Banjo's series on Tommy Robinson's influence, media exclusion, and American right-wing warning narratives about Britain.
+- [Tommy Robinson](entities/TommyRobinson.md) — British activist framed by the Shire/Shia Folk trailer as a media-excluded anti-Islam political figure with transatlantic symbolic influence.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
@@ -12326,6 +12329,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Constituent Nation Sporting Identity](concepts/ConstituentNationSportingIdentity.md) — Pattern where sub-state national teams use sport, anthem choice, and rivalry to express identities that do not map cleanly onto sovereignty.
 - [Brandmauer Cordon Sanitaire](concepts/BrandmauerCordonSanitaire.md) — German coalition-firewall norm meant to keep AfD out of government.
 - [Far-Right State Governance Test](concepts/FarRightStateGovernanceTest.md) — Shift from far-right outsider pressure to the practical test of executive authority, budgets, institutions, and social response.
+- [Civil-War Threat Rhetoric](concepts/CivilWarThreatRhetoric.md) — Political language that casts conflict as imminent, unavoidable, and existential in order to mobilize a fight-back response.
+- [British Media Exclusion Online Amplification](concepts/BritishMediaExclusionOnlineAmplification.md) — Pattern where a figure kept off mainstream British media still gains reach through internet channels, rallies, and foreign validation.
+- [American Right Britain Warning Narrative](concepts/AmericanRightBritainWarningNarrative.md) — Use of Britain by some American right-wing actors as a cautionary tale about civilizational decline, migration, Islam, speech, or the West.
 - [Remigration Politics](concepts/RemigrationPolitics.md) — Removal-oriented immigration politics used by AfD in the Saxony-Anhalt branch.
 - [Public-Service Data Platform Trade-Off](concepts/PublicServiceDataPlatformTradeoff.md) — Tradeoff between joining fragmented public-service data and creating governance, privacy, and legitimacy risks.
 - [Public-Sector Vendor Dependence](concepts/PublicSectorVendorDependence.md) — Risk that public agencies become reliant on hard-to-replace technology suppliers.
