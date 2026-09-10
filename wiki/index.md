@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
 - [Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永](sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu.md) — 不懂球 episode with Chen Yong on Chinese Super League expansion, cross-year calendar caution, financial discipline, foreign-player rules, and lower-tier pyramid design.
 - [《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命](sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp.md) — Late-Western-Han court-politics episode on Fu Taihou's failed further attack on Fu Xi through Zhu Bo, Zhu Bo's bundled impeachment and suicide, Wusun-Xiongnu hostage mediation, and Ping Dang's refusal of a deathbed marquisate.
 - [What's so concerning about the Hugging Face hack?](sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128.md) — Marketplace Tech episode with Nate Soares on a reported AI agent-swarm incident, OpenAI responsibility, mandatory incident investigation, advanced AI development pauses, and global frontier compute monitoring.
@@ -11781,6 +11782,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [官职序列重组式权力再分配 / Office Sequence Power Reallocation](concepts/OfficeSequencePowerReallocation.md) — Pattern where restoring or changing offices reallocates promotion paths, factional placement, and top-office authority.
 - [中国职业足球联赛扩军 / Chinese Football League Expansion](concepts/ChineseFootballLeagueExpansion.md) — Chinese professional-football expansion concept linking top-flight scale, second-tier depth, advance rules, and promotion-relegation design.
 - [中国足球财务纪律 / Chinese Football Financial Discipline](concepts/ChineseFootballFinancialDiscipline.md) — Governance guardrail for wage arrears, tax arrears, debt, and admission standards during Chinese football expansion.
 - [中国足球金字塔设计 / Chinese Football Pyramid Design](concepts/ChineseFootballPyramidDesign.md) — Chinese-specific pyramid design concept linking city leagues, lower-tier match supply, home grounds, and promotion continuity.

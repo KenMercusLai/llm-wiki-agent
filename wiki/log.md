@@ -17277,6 +17277,14 @@ Ran lint. See lint-report.md for details.
 
 Added source. Key claims: Chinese Super League expansion should be announced in advance and linked to China League One; expansion must be paired with stricter tax, wage, debt, and admission controls; cross-year calendar reform remains a research topic while current-season scheduling repair is more urgent; "register six, play five" is framed as a squad-depth foreign-player rule rather than a spending restart.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
+
+Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
