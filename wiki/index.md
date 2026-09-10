@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学](sources/zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp.md) — 芮淇讲透资治通鉴 episode on He Wu's symbolic sword-inheritance judgment, Han Wudi's temple-retention debate, He Wu's removal, and Shi Dan's early warnings to Han Aidi.
 - [《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！](sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou's Zhizhi Chanyu merit, proportional treatment of flawed heroes, and hero memory as political credibility.
 - [672. The First World War: Italy's Doomed Campaign (Part 2)](sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829.md) — The Rest Is History episode on Italy's 1915 intervention, D'Annunzio's nationalist rhetoric, Salandra's bargaining, Cadorna's Isonzo offensives, and war resentment feeding fascist politics.
 - [郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车](sources/zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0.md) — 罗永浩的十字路口 interview with Zheng Zhi on 《身中有林》, Northeast literature, film adaptation, casting, editing, AI-era production cost, debt, family memory, and writer-director career timing.
@@ -8530,12 +8531,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [傅喜 / Fu Xi (Western Han)](entities/FuXiWesternHan.md) — Fu-family figure whose refusal to follow Fu Taihou's title line first exposes him to removal, then helps distinguish him from the Fu/Ding cleanup.
 - [傅太后 / Fu Taihou (Western Han)](entities/FuTaihouWesternHan.md) — Western Han consort-side power figure whose record spans jealousy-backed prosecution, title pressure, personnel retaliation, household privilege, death, and later tomb prosecution.
 - [傅晏 / Fu Yan (Western Han)](entities/FuYanWesternHan.md) — Late-Aidi court actor who flatters Fu Taihou in the title dispute and later joins Xi Fu Gong in merit-making security escalation.
-- [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose mutual recommendation with Gongsun Lu tries and fails to block another outer-relative Da Sima monopoly after Aidi's death.
+- [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose profile now spans the断剑 inheritance judgment, Aidi-era removal, Wang Jia-backed restoration, and failed anti-outer-relative recommendation.
 - [公孙禄 / Gongsun Lu (Western Han)](entities/GongsunLuWesternHan.md) — Western Han left general who first objects to deceptive Xiongnu escalation and later joins He Wu's post-Aidi office-balancing attempt.
 - [息夫躬 / Xi Fu Gong (Western Han)](entities/XiFuGongWesternHan.md) — Late-Aidi adviser rewarded in the Dongping case, later feared as an accuser, whose false-envoy and punitive-border proposal turns a chanyu illness delay into a crisis narrative.
 - [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity used in Hanji 591-1 as the vulnerable hinge in Xi Fu Gong's Xiongnu threat model.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
-- [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
+- [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han elder official whose profile spans early Aidi restraint advice, Dingtao-line ritual opposition, leak exposure, punishment, and later retrospective restoration.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested early reputation, illness-driven renewed-mandate reversal, fabricated Dong Xian merit, Bao Xuan's livelihood critique, succession rupture, and delayed-burial imperial停灵.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose fabricated merit, rewards, public-suffering contrast, court visibility, succession failure, and posthumous family cleanup expose the fragility of favor.
@@ -11826,6 +11827,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [春秋决狱式意图裁判 / Spring-Autumn Intent Adjudication](concepts/SpringAutumnIntentAdjudication.md) — Han-era legal-interpretive pattern where a judge reads true intent and Confucian ethical meaning beyond literal wording, grounded by He Wu's断剑 case.
 - [英雄记忆与政治信用 / Hero Memory Political Credibility](concepts/HeroMemoryPoliticalCredibility.md) — Political-culture pattern where honoring heroic service affects whether future people trust the state enough to sacrifice or take risks.
 - [Italian Irredentism](concepts/ItalianIrredentism.md) — National-completion claim behind Italy's demands for Habsburg-held and Adriatic territories before entering the First World War.
 - [Nationalist Street Mobilization](concepts/NationalistStreetMobilization.md) — Political-pressure pattern where crowds, sacred national language, and betrayal accusations make institutional opposition harder to sustain.
