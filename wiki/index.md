@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车](sources/zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0.md) — 罗永浩的十字路口 interview with Zheng Zhi on 《身中有林》, Northeast literature, film adaptation, casting, editing, AI-era production cost, debt, family memory, and writer-director career timing.
 - [Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420.md) — Huberman Lab Essentials episode with Eddie Chang on speech versus language, vocal-tract speech production, locked-in syndrome, BRAVO speech neuroprosthetics, augmentation ethics, avatars, and stuttering as speech coordination.
 - [《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？](sources/zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww.md) — 芮淇讲透资治通鉴 episode challenging the simple Zhao Feiyan/Zhao Hede blame story for Han Chengdi's no-heir crisis through evidence gaps, Wang-family incentives, child-survival patterns, and gendered historical memory.
 - [EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper](sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper.md) — Data Science With Sam episode with Dan Driver on Case Ready Intake AI, governance-first legal AI, deterministic pre-flight checks, UPL boundaries, audit trails, and human review.
@@ -2641,6 +2642,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
 - [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, engineering-founder, status-signaling, and money-and-debt conversations.
+- [郑执 / Zheng Zhi](entities/ZhengZhiWriter.md) — writer, screenwriter, and director whose interview links Northeast literature, screenwriting survival, family memory, and a first feature film.
+- [《身中有林》 / Shen Zhong You Lin](entities/ShenzhongYoulinFilm.md) — Zheng Zhi's director debut discussed through adaptation, family-crime premise, casting, editing, and theatrical release constraints.
 - [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
 - [Frederick AI](entities/FrederickAI.md) — Wu Hankun's source-reported early agent project for founder task execution.
 - [《粉色悖论》 / Pink Paradox](entities/PinkParadox.md) — Wu Hankun's first AI short-film case, begun as a role-farewell project.
@@ -11810,6 +11813,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Northeast Literary Film Authorship / 东北文学影视作者性](concepts/NortheastLiteraryFilmAuthorship.md) — Source-scoped pattern where local memory, dialect, family material, humor, and industrial-era aftereffects become literary and film language.
+- [Author Commercial Film Balance / 作者表达与商业电影平衡](concepts/AuthorCommercialFilmBalance.md) — Negotiation between authorial density and theatrical film constraints such as runtime, casting, investor recovery, genre readability, and publicity.
+- [Creator Late-Cycle Anxiety / 创作者末班车感](concepts/CreatorLateCycleAnxiety.md) — Feeling that a creator enters literature, film, or another cultural field just as its golden age or commercial window is receding.
 - [Speech-Language Distinction](concepts/SpeechLanguageDistinction.md) — distinction between speech as physical vocal output and language as broader meaning, grammar, pragmatics, sign, and reading.
 - [Vocal-Tract Speech Production](concepts/VocalTractSpeechProduction.md) — mechanism by which breath, vocal-fold voicing, and articulator shaping produce spoken consonants and vowels.
 - [Speech Neuroprosthetics](concepts/SpeechNeuroprosthetics.md) — brain-machine-interface systems that decode attempted speech to restore communication for people who cannot speak.

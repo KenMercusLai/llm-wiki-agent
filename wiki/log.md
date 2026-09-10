@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车
+
+Added source. Key claims: Zheng Zhi's 《身中有林》 becomes a case for balancing author expression, Northeast local memory, and theatrical film constraints; his career crosses youth writing, market writing, literary recognition, screenwriting, and directing; the interview frames AI as a possible film-cost reducer while preserving creator judgment; "last train" anxiety links Zheng's timing to receding literary and film industry cycles.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？
 
 Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2 / 5 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n`; created `DisasterOmenPersonnelAttack`; updated `ZhuBoWesternHan`, `ZhaoXuanWesternHan`, `FuTaihouWesternHan`, `LiXunWesternHan`, `YangXiong`, `ShiDanWesternHan`, and `index`. No settled contradiction found; the physical cause of the palace sound, full Hongfan omen background, Zhao Xuan's name form, and Dong Hong/Shi Dan memorial details remain source-scoped.
@@ -17360,6 +17364,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
 
 Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
