@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
       "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
       "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
       "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
@@ -609,11 +610,40 @@
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4"
     ],
-    "paragraph_count": 607
+    "paragraph_count": 608
   },
-  "overview_commit": "297db04bb1d51d3884eb68144d29c72ae24fc3e5",
-  "overview_digest": "3bff7515ddb7be0a6f11f62117f9a05009bb15bbcfaef32685644a554dd2b589",
+  "overview_commit": "3ebdb3b665291d75edc91737b11db65484e92c78",
+  "overview_digest": "488bdb475239559d316b41260de952faf756f9cab2b8c0f6b545a528ef2b406d",
   "paragraphs": [
+    {
+      "id": "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047|Founder-Led Sales to $1M ARR With Just 10 Customers]], a [[TheSaaSPodcast]] episode with [[FelixHoffman]] on [[SevenLearnings]], retail [[PredictiveDecisionAutomation]], and founder-led enterprise sales. It adds [[FelixHoffman]], [[SevenLearnings]], [[Kearney]], [[Zalando]], [[PredictiveDecisionAutomation]], [[RetailPricingOptimization]], and [[PaidPilotValueProof]], while extending [[FounderLedSales]], [[CustomerValueBasedPricing]], and [[ABTestingForMarketers]]. Its core synthesis is that high-stakes retail decision automation needs data access, explainable forecasts, optimization, paid value proof, customer references, and founder trust before it can scale: Seven Learnings starts from consulting data access, survives a failed first pricing upload, proves profit uplift through A/B tests, and argues that deterministic ML is often a better core fit than LLM wrappers for pricing and marketing optimization. No settled contradiction is recorded; ARR, customer count, headcount, uplift, and technology-fit claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "ABTestingForMarketers",
+        "CustomerValueBasedPricing",
+        "FelixHoffman",
+        "FounderLedSales",
+        "Kearney",
+        "PaidPilotValueProof",
+        "PredictiveDecisionAutomation",
+        "RetailPricingOptimization",
+        "SevenLearnings",
+        "TheSaaSPodcast",
+        "Zalando",
+        "founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047"
+      ]
+    },
     {
       "id": "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
       "primary_topic": "governance-and-institutions",

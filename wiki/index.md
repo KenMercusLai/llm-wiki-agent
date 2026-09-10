@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder-Led Sales to $1M ARR With Just 10 Customers](sources/founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047.md) — The SaaS Podcast episode with Felix Hoffman on Seven Learnings, consulting-led data access, paid pilots, retail pricing optimization, founder-led enterprise sales, and why deterministic explainable ML can fit pricing decisions better than LLM wrappers.
 - [SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?](sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150.md) — All-In episode with Gavin Baker on recursive AI, AI backlash, frontier oversight, SpaceX compute and IPO valuation, Nvidia fundamentals and GPU financing, bond stress, and U.S.-China chip strategy.
 - [#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目](sources/404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231.md) — 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, parental-rights conflict, homelessness-service compromise, California nonpartisan candidacy, and Chinese American officials under U.S.-China tension.
 - [TRAILER: Shire folk](sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md) — Economist Podcasts trailer introducing Georgia Banjo's Shire/Shia Folk investigation into Tommy Robinson, Elon Musk's civil-conflict rally rhetoric, British media exclusion, and Robinson's symbolic value for parts of the American right.
@@ -2159,6 +2160,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Felix Hoffman](entities/FelixHoffman.md) — Seven Learnings co-founder/CEO whose interview links pricing consulting, predictive retail decision-making, founder-led enterprise sales, and explainable ML product judgment.
+- [Kearney](entities/Kearney.md) — Consulting background for Felix Hoffman's pricing work before Seven Learnings.
+- [Seven Learnings](entities/SevenLearnings.md) — Retail predictive decision automation SaaS company using forecasting, optimization, paid pilots, and A/B tests to improve pricing, marketing, and ordering decisions.
+- [Zalando](entities/Zalando.md) — European fashion marketplace context where Felix Hoffman saw predictive retail decision-making before founding Seven Learnings.
 - [邵阳 / Shao Yang](entities/ShaoYang.md) — Chinese American Fremont council member and former school-board official whose source account connects local voting, school governance, city transparency, and California party constraints.
 - [Fremont, California / 福利蒙](entities/FremontCalifornia.md) — Bay Area city used as the episode's setting for technology-industry geography, Chinese American local politics, school-board conflict, homelessness siting, and city council transparency.
 - [Fremont Unified School District](entities/FremontUnifiedSchoolDistrict.md) — School-board setting for Shao Yang's first elected office and the episode's student mental-health, curriculum, parent-rights, and teacher-union conflict claims.
@@ -11757,6 +11762,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Paid Pilot Value Proof](concepts/PaidPilotValueProof.md) — Enterprise-sales pattern where a paid initial deployment and agreed outcome evidence prove whether broader adoption is justified.
+- [Predictive Decision Automation](concepts/PredictiveDecisionAutomation.md) — Forecast-plus-optimization approach to automating operational decisions such as pricing, marketing spend, discounts, and ordering.
+- [Retail Pricing Optimization](concepts/RetailPricingOptimization.md) — Retail pricing frame that models demand, margin, inventory, costs, and competitive behavior instead of only matching competitor prices.
 - [Immigrant Local-Office Representation](concepts/ImmigrantLocalOfficeRepresentation.md) — Shao Yang's frame that immigrant communities become politically visible through local voting, meeting participation, candidate research, and officeholding.
 - [School Parental-Rights Conflict](concepts/SchoolParentalRightsConflict.md) — Education-governance conflict over parent authority, student privacy, curriculum, sex education, teacher speech, unions, and student wellbeing.
 - [Municipal Transparency Compromise](concepts/MunicipalTransparencyCompromise.md) — Fremont governance frame in which public materials, open meetings, service data, siting choices, and safeguards make contested local decisions workable.
