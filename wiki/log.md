@@ -17305,6 +17305,10 @@ Added source. Key claims: the White Ship disaster turns Henry I's succession int
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》564丨古代学术大佬，比想象得更牛！
+
+Added source. Key claims: Liu Xin completes Liu Xiang's imperial collation work and submits Qilue; the Qilue nine-schools account treats rival traditions as partial but usable under a Six Classics-centered order; Han Aidi's court approves limits on land and enslaved dependents, but the policy is suspended after powerful property holders resist.
+
 ## [2026-09-11] ingest | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang
 
 Added source. Key claims: Chang separates speech from broader language; speech production depends on breath, laryngeal voicing, and vocal-tract shaping; locked-in syndrome motivates speech neuroprosthetics; the BRAVO trial decodes attempted speech from implanted cortical activity with machine learning and context correction; augmentation and stuttering claims remain technically and clinically bounded.
@@ -17428,6 +17432,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
