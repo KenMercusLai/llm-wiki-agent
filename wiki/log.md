@@ -17293,6 +17293,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》572丨历史上这男人真够狠
+
+Added source. Key claims: Xie Guang's report continues from Cao Gong into Xu Meiren's child; Zhao Hede's pressure frames the birth as betrayal and succession threat; Chengdi's letter, heavy box, sealed burial, Ji Wu's witness role, and Wu Qiuzun's fear-filled testimony deepen the accusation while the host flags the odd disclosure to Ji Wu as an evidentiary puzzle.
+
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17380,6 +17384,10 @@ Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学
 
 Added source. Key claims: He Wu's断剑 ruling reads a sword bequest as symbolic household authority and illustrates Spring-Autumn-style intent adjudication; Han Wudi's temple survives because Wang Shun and Liu Xin argue that meritorious "zong" temples are exceptions to ordinary removal; Aidi removes He Wu on stepmother-care optics; Shi Dan warns Aidi that early reign kinship, personnel, and policy changes are too rushed.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
