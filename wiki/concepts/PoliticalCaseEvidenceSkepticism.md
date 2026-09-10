@@ -6,6 +6,7 @@ tags: [court-politics, evidence, historiography, legal-process]
 sources:
   - zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww
   - zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6
+  - zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh
 last_updated: 2026-09-11
 ---
 
@@ -15,7 +16,7 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-The Zhao Feiyan/Zhao Hede case shows why politically useful palace accusations need evidence discipline. The Jianping 1 investigation into [[HanChengdi|汉成帝]]'s sudden death and imperial-child deaths is not evidentially sturdy enough to bear a simple moral conclusion. It is said to rely heavily on口供, while expected material evidence such as buried items and notes is missing.
+The Zhao Feiyan/Zhao Hede case shows why politically useful palace accusations need evidence discipline. Hanji 571 supplies the serious accusation layer: [[XieGuangWesternHan|谢光]] reports that [[CaoGongWesternHan|曹宫]]'s newborn son by [[HanChengdi|汉成帝]] was confined, separated from his mother, and removed after Cao Gong and six attendants died. Hanji 573 then argues that the Jianping 1 investigation into Chengdi's sudden death and imperial-child deaths is not evidentially sturdy enough to bear a simple moral conclusion. It is said to rely heavily on口供, while expected material evidence such as buried items and notes is missing.
 
 A political-incentive check sits beside the evidence check. If [[WangZhengjun|王政君]] and the Wang family depended on Chengdi's heir production for their own security, then a story in which [[ZhaoHedeWesternHan|赵合德]] repeatedly kills heirs without serious monitoring becomes less plausible. The concept therefore joins documentary skepticism, motive analysis, and institutional logic.
 
@@ -24,6 +25,7 @@ Hanji 576 adds a different evidence-warning shape. [[ZhangYouWesternHan|张尤]]
 ## Key Claims
 
 - Testimony-heavy palace cases should be treated cautiously when expected objects, documents, or independent checks are absent.
+- A detailed accusation narrative can be historically important without being final proof of every responsibility claim.
 - Political usefulness matters: a case that conveniently explains sudden death, succession failure, and factional cleanup needs stronger evidence, not weaker scrutiny.
 - Institutional incentives can test plausibility; the Wang family's dependence on Chengdi's heirs challenges the idea of years of unchecked palace killing.
 - Evidentiary skepticism does not equal exoneration; it separates suspicion from settled causation.
@@ -32,6 +34,7 @@ Hanji 576 adds a different evidence-warning shape. [[ZhangYouWesternHan|张尤]]
 
 ## Evidence
 
+- Serious accusation record: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] reports a named chain of confinement, handwritten orders, forced deaths, and infant disappearance around Cao Gong's son.
 - Missing evidence: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says the investigation should have produced objects such as buried boxes and Chengdi-Xu Meiren notes but does not.
 - Testimony dominance: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] characterizes the report as almost entirely口供.
 - Incentive test: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] argues that Wang Zhengjun and the Wang family could not be indifferent to Chengdi's heirs.
@@ -41,17 +44,18 @@ Hanji 576 adds a different evidence-warning shape. [[ZhangYouWesternHan|张尤]]
 
 ## Counterevidence & Qualifications
 
-This concept remains narrower than a general legal theory. Hanji 573 challenges the evidentiary strength and narrative simplicity of the Zhao-sisters accusation, but it does not prove what happened to every child, reconstruct the full case file, or establish a medical cause for Chengdi's heir failure. Hanji 576 presents Zhang You's claim as false and politically useful, but the wiki has not reconstructed the complete court record of Feng Yuan's prosecution.
+This concept remains narrower than a general legal theory. Hanji 571 shows why the accusation cannot be dismissed as empty rumor, while Hanji 573 challenges its evidentiary strength and narrative simplicity. Together they do not prove what happened to every child, reconstruct the full case file, or establish a medical cause for Chengdi's heir failure. Hanji 576 presents Zhang You's claim as false and politically useful, but the wiki has not reconstructed the complete court record of Feng Yuan's prosecution.
 
 ## What Changed
 
-- Added Hanji 576 as a second Western Han case where accuser self-protection and patron resentment make weak accusation dangerous.
-- Preserved Hanji 573 as the testimony-heavy and missing-evidence branch.
+- Added Hanji 571 as the detailed accusation record behind Hanji 573's testimony-heavy and missing-evidence critique.
+- Preserved Hanji 576 as a second Western Han case where accuser self-protection and patron resentment make weak accusation dangerous.
 
 ## Related Concepts
 
 - [[EvidenceOverTestimony]] - broader rule that testimony needs grounding in independent evidence.
 - [[PalaceAccusationVerification|宫廷指控核验]] - court-governance pattern for checking high-risk accusations before punishment expands.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - adjacent narrative pattern where uncertain evidence is condensed into blame against favored women.
+- [[SecretImperialInfantSuppression|秘密皇子压制]] - alleged mechanism that creates the politically explosive facts later evidence skepticism must test.
 - [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - legitimacy field that makes heir failure politically explosive.
 - [[HistoricalMemoryContest|历史记忆争夺]] - wider contest over how later narratives preserve or reshape uncertain events.

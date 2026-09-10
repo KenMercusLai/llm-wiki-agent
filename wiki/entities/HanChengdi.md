@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5
   - zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh
   - zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww
+  - zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-Emperor Cheng of Han / 汉成帝 enters this wiki branch through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as the Western Han ruler who summons [[YangXiong|扬雄]] after Yang Xiong's literary reputation becomes visible. [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a separate rhetorical layer: [[WangJiaWesternHan|王嘉]] praises Cheng as an emperor who tolerated sharp criticism and did not permanently protect favorites from official consequence. [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] adds an earlier posthumous-defense layer: [[GengYuWesternHan|耿育]] argues that Cheng's choice of [[HanAidi|汉哀帝]] as heir should be read as foresight against child-ruler, maternal-regency, and ministerial disorder rather than as palace scandal. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] adds the underlying no-heir and death-case skepticism: Chengdi is presented as capable of fathering children, but several children die young and the later accusation against the Zhao sisters is treated as politically and evidentially uncertain.
+Emperor Cheng of Han / 汉成帝 enters this wiki branch through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as the Western Han ruler who summons [[YangXiong|扬雄]] after Yang Xiong's literary reputation becomes visible. [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a separate rhetorical layer: [[WangJiaWesternHan|王嘉]] praises Cheng as an emperor who tolerated sharp criticism and did not permanently protect favorites from official consequence. [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] adds an earlier posthumous-defense layer: [[GengYuWesternHan|耿育]] argues that Cheng's choice of [[HanAidi|汉哀帝]] as heir should be read as foresight against child-ruler, maternal-regency, and ministerial disorder rather than as palace scandal. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] adds the underlying no-heir and death-case skepticism, while [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] supplies the case narrative that skepticism later interrogates: the reported confinement and disappearance of [[CaoGongWesternHan|曹宫]]'s newborn son.
 
 ## Current Profile
 
@@ -23,7 +24,9 @@ Hanji 592 uses Cheng differently, as one part of Wang Jia's praise-before-warnin
 
 Hanji 574 adds a succession-reputation branch. After Cheng's death, Geng Yu defends his designation of Aidi by arguing that Cheng deliberately avoided the dangers of an infant heir, overmighty mother, and unstable ministers. The same source shows how a later court can fight over a deceased ruler's image: continued investigation of Zhao Feiyan-linked palace accusations would make Cheng look captured by beauty and jealousy, while stopping the case can be framed as protecting Cheng's foresight and intention.
 
-Hanji 573 adds why that image fight matters. The episode says Chengdi had reproductive capacity: he had a son before accession through a Xu-family woman, a daughter after accession, and a son through [[BanJieyuWesternHan|班婕妤]], but those children died young. It then questions whether later claims about [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] killing heirs explain too much too neatly. Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, and gendered blame remain contested.
+Hanji 573 adds why that image fight matters. The episode says Chengdi had reproductive capacity: he had a son before accession through a Xu-family woman, a daughter after accession, and a son through [[BanJieyuWesternHan|班婕妤]], but those children died young. It then questions whether later claims about [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] killing heirs explain too much too neatly.
+
+Hanji 571 gives the underlying accusation more concrete shape without resolving it. In [[XieGuangWesternHan|谢光]]'s report, Cao Gong bears a boy by Chengdi in 12 BCE; Chengdi's handwritten order confines mother, infant, and attendants while suppressing questions about the child's identity; Cao Gong is later forced to take pills and die; six attendants hang themselves; and the infant is removed on the eleventh day and disappears. Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, secret infant suppression, and gendered blame remain contested.
 
 ## Key Characteristics
 
@@ -33,7 +36,7 @@ Hanji 573 adds why that image fight matters. The episode says Chengdi had reprod
 - Serves as background for the contrast between cultural talent and limited official advancement.
 - Used by Wang Jia as a precedent for tolerating direct criticism and not letting favorites fully escape consequence.
 - Defended by Geng Yu as a ruler whose unusual succession choice protected dynastic stability.
-- Presented by Hanji 573 as capable of fathering children but unable to produce a surviving heir, making him the center of a posthumous death-and-heir accusation field where the Zhao-sisters explanation remains source-contested.
+- Presented as capable of fathering children but unable to produce a surviving heir, making him the center of a posthumous death-and-heir accusation field where the Cao Gong case is serious and the Zhao-sisters explanation remains source-contested.
 
 ## Evidence
 
@@ -47,14 +50,16 @@ Hanji 573 adds why that image fight matters. The episode says Chengdi had reprod
 - Child survival problem: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says Cheng had children by Xu-family women and Ban Jieyu but those children died young.
 - Death-record skepticism: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] contrasts the claim that Cheng was normally strong and without illness with other signs of poor health.
 - Accusation uncertainty: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] argues that the Zhao-sisters case relies on weak evidence and may convert complex child deaths into personal blame.
+- Cao Gong infant case: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Xie Guang's report described Cao Gong's newborn son being confined, separated from his mother, and removed by edict on the eleventh day.
+- Handwritten-order chain: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Chengdi's handwritten note forbade questioning the infant's sex or parentage and later documents ordered Cao Gong's death.
 
 ## Qualifications
 
-This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, and Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative. The praise in Hanji 592, defense in Hanji 574, and skepticism in Hanji 573 are strategic or interpretive source frames, not complete balanced evaluations of Chengdi's rule.
+This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative, and Hanji 571 supplies one reported missing-son case within that narrative. The praise in Hanji 592, defense in Hanji 574, accusation narrative in Hanji 571, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule or final legal findings.
 
 ## What Changed
 
-- Added Hanji 573's child-survival and death-case skepticism to the existing Geng Yu memorial layer.
+- Added Hanji 571's Cao Gong infant-disappearance case as the concrete accusation layer that Hanji 573 later treats skeptically.
 
 ## Relationships
 
@@ -64,8 +69,11 @@ This page does not synthesize Emperor Cheng's reign, consort politics, or wider 
 - [[GengYuWesternHan|耿育]] - memorialist who defends Cheng's succession decision.
 - [[ZhaoFeiyanWesternHan|赵飞燕]] - palace figure whose case threatens Cheng's posthumous reputation in Hanji 574.
 - [[ZhaoHedeWesternHan|赵合德]] - favored consort and accused figure in the contested heir-killing narrative.
+- [[CaoGongWesternHan|曹宫]] - palace woman whose newborn son becomes the key missing-infant case in Hanji 571.
+- [[XieGuangWesternHan|谢光]] - investigator whose report preserves the Cao Gong case.
 - [[BanJieyuWesternHan|班婕妤]] - consort named in Hanji 573 as mother of one Chengdi son who died young.
 - [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - concept created from doubts about the later palace-case evidence.
+- [[SecretImperialInfantSuppression|秘密皇子压制]] - suppression mechanism made visible by the reported Cao Gong case.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - concept created from the episode's warning against collapsing heir failure into favored-woman blame.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - governance pattern connected to Cheng's quoted tolerance of criticism.
 - [[WesternHanDynasty|西汉]] - dynasty over which Chengdi ruled.

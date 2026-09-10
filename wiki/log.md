@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》571丨汉成帝亲手杀子，是真是假？
+
+Ingested the 2026-05-20 芮淇讲透资治通鉴 episode opening the Han Chengdi heir-killing accusation through Xie Guang's report on Cao Gong's newborn son. Added source `zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh`; created `CaoGongWesternHan`, `XieGuangWesternHan`, and `SecretImperialInfantSuppression`; updated `HanChengdi`, `ZhaoHedeWesternHan`, `ZhaoFeiyanWesternHan`, `PoliticalCaseEvidenceSkepticism`, `GenderedConsortScapegoating`, and `index`. No settled contradiction found; Chengdi's exact responsibility, Zhao Hede's role, the infant's final fate, and witness reliability remain source-scoped.
+
 ## [2026-09-11] ingest | 郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车
 
 Added source. Key claims: Zheng Zhi's 《身中有林》 becomes a case for balancing author expression, Northeast local memory, and theatrical film constraints; his career crosses youth writing, market writing, literary recognition, screenwriting, and directing; the interview frames AI as a possible film-cost reducer while preserving creator judgment; "last train" anxiety links Zheng's timing to receding literary and film industry cycles.
@@ -17368,6 +17372,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
 
 Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
