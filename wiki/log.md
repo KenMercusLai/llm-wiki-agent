@@ -16809,6 +16809,10 @@ Added source note for Wang Jia's Jianping 3 / 4 BCE personnel memorial under Han
 
 Added source note for The SaaS Podcast episode with Felix Hoffman on Seven Learnings, consulting-first data access, retail pricing and decision optimization, founder-led enterprise sales, paid pilots, A/B tests, and explainable ML versus LLM fit. Added FelixHoffman, SevenLearnings, Kearney, Zalando, PredictiveDecisionAutomation, RetailPricingOptimization, and PaidPilotValueProof; migrated FounderLedSales to synthesis-v1 and added the Seven Learnings case.
 
+## [2026-09-11] ingest | EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper
+
+Added source. Key claims: Case Ready Intake AI is framed as a bounded legal intake product that produces narrative, timeline, and evidence rather than legal advice; governance is implemented through a charter, documented decisions, deployment tests, deterministic Python checks, runtime QA, and human review; UPL risk and prompt-injection-style requests are handled through hard workflow boundaries; pre-flight checks can reduce unnecessary LLM cost by stopping out-of-scope cases early.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17292,6 +17296,10 @@ Added source. Key claims: Chinese Super League expansion should be announced in 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
 
 Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

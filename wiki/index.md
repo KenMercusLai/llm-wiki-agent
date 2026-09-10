@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper](sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper.md) — Data Science With Sam episode with Dan Driver on Case Ready Intake AI, governance-first legal AI, deterministic pre-flight checks, UPL boundaries, audit trails, and human review.
 - [《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？](sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n.md) — 芮淇讲透资治通鉴 episode on the Jianping 2 "鼓妖" palace sound, Li Xun and Yang Xiong's omen-coded attack on Zhu Bo's chancellorship, Fu Taihou's title settlement, and Shi Dan's punishment.
 - [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
 - [《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？](sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz.md) — 芮淇讲透资治通鉴 episode on Wang Mang surviving title-and-fief removal through Wang Zhengjun's backing, Yang Xuan's secret memorial, Zhu Bo's州牧-to-刺史 reform, and Ding Taihou's Dingtao burial.
@@ -2167,6 +2168,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Case Ready Intake AI](entities/CaseReadyIntakeAI.md) — legal intake AI product built around narrative, timeline, evidence, UPL boundaries, deterministic checks, and auditability.
+- [Dan Driver](entities/DanDriver.md) — Driver AI Agency founder and Case Ready Intake AI architect.
+- [Driver AI Agency](entities/DriverAIAgency.md) — company behind Case Ready Intake AI.
 - [杨宣 / Yang Xuan (Western Han)](entities/YangXuanWesternHan.md) — Western Han remonstrant whose secret memorial uses Chengdi's succession choice and Wang Zhengjun's status to limit the anti-Wang-family purge.
 - [赵璇 / Zhao Xuan (Western Han)](entities/ZhaoXuanWesternHan.md) — Western Han Yushi Dafu who joins Zhu Bo's failed request to strip Wang Mang's title and fief.
 - [陈勇 / Chen Yong](entities/ChenYongFootballReporter.md) — Football reporter guest used for Chinese professional-football league policy, expansion, calendar, and finance analysis.
@@ -11792,6 +11796,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Deterministic Legal AI Controls](concepts/DeterministicLegalAIControls.md) — non-generative legal AI gates for dates, scope, warnings, refusals, and pass/fail workflow decisions.
+- [Governance-First Legal AI](concepts/GovernanceFirstLegalAI.md) — legal AI architecture pattern that operationalizes compliance, auditability, prohibited behavior, deterministic checks, and human review before generation.
+- [Unauthorized Practice Of Law AI Boundary](concepts/UnauthorizedPracticeOfLawAIBoundary.md) — product-design constraint for legal AI systems that organize information without acting as lawyers.
 - [Disaster-Omen Personnel Attack / 灾异人事攻防](concepts/DisasterOmenPersonnelAttack.md) — Use of disaster or omen language to attack a specific appointment or officeholder.
 - [官职序列重组式权力再分配 / Office Sequence Power Reallocation](concepts/OfficeSequencePowerReallocation.md) — Pattern where restoring or changing offices reallocates promotion paths, factional placement, and top-office authority.
 - [中国职业足球联赛扩军 / Chinese Football League Expansion](concepts/ChineseFootballLeagueExpansion.md) — Chinese professional-football expansion concept linking top-flight scale, second-tier depth, advance rules, and promotion-relegation design.
