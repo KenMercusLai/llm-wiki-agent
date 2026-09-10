@@ -17285,6 +17285,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang
+
+Added source. Key claims: Chang separates speech from broader language; speech production depends on breath, laryngeal voicing, and vocal-tract shaping; locked-in syndrome motivates speech neuroprosthetics; the BRAVO trial decodes attempted speech from implanted cortical activity with machine learning and context correction; augmentation and stuttering claims remain technically and clinically bounded.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》574丨古代的满分作文是什么样子？
 
 Added source. Key claims: Geng Yu uses Zhou succession precedent to defend Chengdi's choice of Aidi as foresight rather than scandal; the memorial reframes further Zhao Feiyan investigation as damage to Chengdi's reputation and Aidi's filial duty; Aidi stops pursuing the accusation details; Wang Zhengjun and the Wang family resent the closure.
@@ -17356,6 +17360,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
 
 Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

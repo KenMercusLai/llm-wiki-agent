@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420.md) — Huberman Lab Essentials episode with Eddie Chang on speech versus language, vocal-tract speech production, locked-in syndrome, BRAVO speech neuroprosthetics, augmentation ethics, avatars, and stuttering as speech coordination.
 - [《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？](sources/zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww.md) — 芮淇讲透资治通鉴 episode challenging the simple Zhao Feiyan/Zhao Hede blame story for Han Chengdi's no-heir crisis through evidence gaps, Wang-family incentives, child-survival patterns, and gendered historical memory.
 - [EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper](sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper.md) — Data Science With Sam episode with Dan Driver on Case Ready Intake AI, governance-first legal AI, deterministic pre-flight checks, UPL boundaries, audit trails, and human review.
 - [《资治通鉴·汉纪》574丨古代的满分作文是什么样子？](sources/zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chengdi's succession choice, reframing Zhao Feiyan-linked palace scandal as dynastic foresight, and giving Han Aidi a rationale to stop the investigation.
@@ -2173,6 +2174,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Eddie Chang](entities/EddieChang.md) — neurosurgeon and speech-neuroscience guest explaining speech production, speech neuroprosthetics, BRAVO, augmentation limits, and stuttering.
+- [BRAVO Trial](entities/BRAVOTrial.md) — speech-neuroprosthetics clinical trial case decoding attempted speech from implanted cortical electrodes for communication restoration.
 - [赵合德 / Zhao Hede (Western Han)](entities/ZhaoHedeWesternHan.md) — Western Han favored consort whose Chengdi heir-killing accusation is treated by Hanji 573 as suspicious but evidentially and politically unstable.
 - [耿育 / Geng Yu (Western Han)](entities/GengYuWesternHan.md) — Western Han memorialist whose Chengdi succession defense reframes palace scandal into dynastic foresight and helps Han Aidi close the Zhao Feiyan-linked case.
 - [赵飞燕 / Zhao Feiyan (Western Han)](entities/ZhaoFeiyanWesternHan.md) — Western Han palace figure whose Aidi-era case closure links crown-prince gratitude, Fu Taihou's friendship, Chengdi's reputation, and Wang-family resentment.
@@ -11807,6 +11810,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Speech-Language Distinction](concepts/SpeechLanguageDistinction.md) — distinction between speech as physical vocal output and language as broader meaning, grammar, pragmatics, sign, and reading.
+- [Vocal-Tract Speech Production](concepts/VocalTractSpeechProduction.md) — mechanism by which breath, vocal-fold voicing, and articulator shaping produce spoken consonants and vowels.
+- [Speech Neuroprosthetics](concepts/SpeechNeuroprosthetics.md) — brain-machine-interface systems that decode attempted speech to restore communication for people who cannot speak.
+- [Stuttering Speech Coordination](concepts/StutteringSpeechCoordination.md) — frame treating stuttering as speech-motor coordination difficulty rather than language or intelligence deficit.
 - [政治案件证据怀疑 / Political Case Evidence Skepticism](concepts/PoliticalCaseEvidenceSkepticism.md) — Interpretive discipline for slowing politically useful accusation records when testimony dominates, expected evidence is missing, institutional incentives distort plausibility, or accuser self-protection meets patron resentment.
 - [红颜祸水式替罪叙事 / Gendered Consort Scapegoating](concepts/GenderedConsortScapegoating.md) — Historiographical pattern where dynastic or succession failure is condensed into blame against a favored woman.
 - [Deterministic Legal AI Controls](concepts/DeterministicLegalAIControls.md) — non-generative legal AI gates for dates, scope, warnings, refusals, and pass/fail workflow decisions.
