@@ -6,7 +6,8 @@ tags: [court-politics, justice, evidence, regency, eastern-han]
 sources:
   - zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs
   - zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6
+last_updated: 2026-09-11
 ---
 
 ## Definition
@@ -17,7 +18,9 @@ Palace Accusation Verification / 宫廷指控核验 is the governance pattern wh
 
 The positive Deng-regency version is preventive. In the jewel theft case, [[EmpressDowagerDengLateHan|Empress Dowager Deng]] avoids dragnet questioning, personally inspects the relevant workers, and narrows the case until the thief confesses. In the Ji Cheng wugu case, she doubts accusations that look clear on the surface because they do not fit Ji Cheng's behavior or position near [[EmperorHeOfHan|Emperor He]], and repeated checking exposes a frame-up.
 
-The Chu-prison material supplies the negative and repair version. [[EmperorMingOfHan|Mingdi]] initially lets the [[LiuYingChuKingEasternHan|Liu Ying]] treason case expand through torture and implication. Verification comes late: [[LuXuEasternHan|Lu Xu]] supplies conduct and family evidence, [[JianLangEasternHan|Jian Lang]] tests whether accusers can describe the people they name, and [[YuanAnEasternHan|Yuan An]] later reviews case files for actual support. The concept therefore now covers both preventive anti-dragnet verification and after-damage correction.
+The Chu-prison material supplies the negative and repair version. [[EmperorMingOfHan|Mingdi]] initially lets the [[LiuYingChuKingEasternHan|Liu Ying]] treason case expand through torture and implication. Verification comes late: [[LuXuEasternHan|Lu Xu]] supplies conduct and family evidence, [[JianLangEasternHan|Jian Lang]] tests whether accusers can describe the people they name, and [[YuanAnEasternHan|Yuan An]] later reviews case files for actual support.
+
+Hanji 576 adds a Western Han failure case. [[ZhangYouWesternHan|张尤]]'s self-protective report against [[FengYuanWesternHan|冯媛]] is not stopped by the first no-result inquiry because [[FuTaihouWesternHan|傅太后]] changes investigators and [[ShiLiWesternHan|史立]] expands the accusation through coercion. [[SunBaoWesternHan|孙宝]] attempts after-damage verification by asking to reopen the case, but the political sponsor is strong enough to have him jailed before other officials secure only his release. The concept therefore covers preventive anti-dragnet verification, late repair, and the failure mode where power blocks repair.
 
 ## Key Claims
 
@@ -27,6 +30,7 @@ The Chu-prison material supplies the negative and repair version. [[EmperorMingO
 - When verification comes late, it can still reduce harm, but it cannot undo deaths, exile, imprisonment, or stigma already produced.
 - Wugu and treason accusations require special caution because both make accusation hard to disprove and easy to weaponize.
 - The pattern strengthens court legitimacy when restraint produces a visible correction rather than a wider case.
+- After-damage review can itself become punishable when reopening a case threatens the powerful figure who benefited from the accusation.
 
 ## Evidence
 
@@ -36,16 +40,18 @@ The Chu-prison material supplies the negative and repair version. [[EmperorMingO
 - Coercive-expansion warning: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says the Liu Ying case expands through torture and implication before serious correction begins.
 - Appearance-test verification: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Jian Lang asks whether accusers can describe the accused men's appearance.
 - File-review verification: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Yuan An releases more than four hundred households after reviewing cases without clear evidence.
+- Investigator substitution failure: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou replaces an inquiry that found no result with Shi Li, whose investigation creates a treason case.
+- Punished review request: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Sun Bao asks to reopen Feng Yuan's case and is jailed after Fu Taihou's anger.
 
 ## Counterevidence & Qualifications
 
-The concept began as a Deng-regency page and should still emphasize restraint before coercion when possible. Hanji 740 broadens it carefully: the Chu-prison evidence shows late verification after an accusation cascade, not a fully successful procedure. Personal observation, appearance testing, and file review are examples of independent checks in these sources, not a complete legal code.
+The concept began as a Deng-regency page and should still emphasize restraint before coercion when possible. Hanji 740 broadens it carefully: the Chu-prison evidence shows late verification after an accusation cascade, not a fully successful procedure. Hanji 576 adds an even weaker repair outcome: Sun Bao survives, but Feng Yuan's case is not truly reversed. Personal observation, appearance testing, file review, and reopening requests are examples of independent checks in these sources, not a complete legal code.
 
 ## What Changed
 
-- Added Hanji 740 to broaden the concept from palace-only prevention to court/palace accusation checking and late repair.
-- Added Mingdi's Chu-prison case as the failure contrast to Deng's cleaner anti-dragnet practice.
-- Added Lu Xu, Jian Lang, and Yuan An as distinct verification methods: conduct evidence, accuser knowledge testing, and unsupported-case file review.
+- Added Hanji 576 as a Western Han failure case where investigator replacement and dowager pressure defeat meaningful verification.
+- Preserved Hanji 740's late-repair branch and Hanji 777's preventive anti-dragnet branch.
+- Added Sun Bao's reopening request as a repair attempt that protects the speaker only partially and does not restore the dead.
 
 ## Related Concepts
 

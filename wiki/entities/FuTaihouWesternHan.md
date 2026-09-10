@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp
   - zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s
   - zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n
+  - zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-傅太后 / Fu Taihou enters the wiki as a late [[HanAidi|汉哀帝]] consort-side power figure whose title demands, anger, household demands, death, and posthumous honors remain politically active. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] adds an earlier active-purge layer: she issues an order barring [[FuXiWesternHan|傅喜]] from seeing Aidi and sending him back to his fief, while her court side attacks [[KongGuangWesternHan|孔光]] with [[ZhuBoWesternHan|朱博]]. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] records the title settlement itself: Aidi adopts Zhu Bo's advice, elevates the Dingtao parental line, and Fu Taihou gets the status she wanted while Ding/Fu relatives rise rapidly. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] then shows her resentment continuing after Fu Xi's dismissal, pushing through Kongxiang Hou for Zhu Bo to seek deprivation of Fu Xi's marquisate. [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] adds a lifetime-adjacent official-property layer: her side uses an envoy to buy Zhijinwu office slaves at a low price, prompting [[WuJianglongWesternHan|武将龙]] to ask that public property be purchased at fair market value. [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] supplies the later death-and-burial layer, and [[zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz|Hanji 626]] shows [[WangMang|王莽]] reopening that status as a 5 CE retrospective prosecution.
+傅太后 / Fu Taihou enters the wiki as a late [[HanAidi|汉哀帝]] consort-side power figure whose jealousy, title demands, anger, household demands, death, and posthumous honors remain politically active. [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] adds the earliest current active-punishment layer: old jealousy of [[FengYuanWesternHan|冯媛]] after the [[HanYuandi|汉元帝]] bear-rescue scene gives [[ZhangYouWesternHan|张尤]]'s false accusation a powerful sponsor, and [[ShiLiWesternHan|史立]] turns it into a deadly case. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] then shows Fu Taihou issuing an order barring [[FuXiWesternHan|傅喜]] from seeing Aidi and sending him back to his fief, while her court side attacks [[KongGuangWesternHan|孔光]] with [[ZhuBoWesternHan|朱博]]. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] records the title settlement itself: Aidi adopts Zhu Bo's advice, elevates the Dingtao parental line, and Fu Taihou gets the status she wanted while Ding/Fu relatives rise rapidly. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] then shows her resentment continuing after Fu Xi's dismissal, pushing through Kongxiang Hou for Zhu Bo to seek deprivation of Fu Xi's marquisate. [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] adds a lifetime-adjacent official-property layer: her side uses an envoy to buy Zhijinwu office slaves at a low price, prompting [[WuJianglongWesternHan|武将龙]] to ask that public property be purchased at fair market value. [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] supplies the later death-and-burial layer, and [[zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz|Hanji 626]] shows [[WangMang|王莽]] reopening that status as a 5 CE retrospective prosecution.
 
 ## Current Profile
+
+Hanji 576 adds the earliest current direct-violence layer. Fu Taihou and Feng Yuan had both been Han Yuandi's consorts, but Feng Yuan's remembered courage in shielding Yuandi from a black bear becomes an old source of jealousy. When Zhang You falsely reports that Feng Yuan is cursing Aidi and Fu Taihou, Fu Taihou rejects an inquiry that finds no result and turns to Shi Li. The case then expands through torture, treason framing, Feng Yuan's suicide, and Feng-family deaths. Sun Bao's request for reexamination angers Fu Taihou enough that Aidi jails him, and his release comes only after wider official pressure.
 
 Hanji 578 shows Fu Taihou as an active pressure source before the later Fu Xi marquisate and property layers. She personally orders the chancellor and Yushi Dafu to keep Fu Xi from seeing Aidi and send him back to his fief. The episode frames this as the near-completion of an anti-Fu-Taihou opposition cleanup: Shi Dan and Fu Xi have fallen, and Kong Guang remains exposed. Fu Taihou-aligned officials and Zhu Bo then attack Kong Guang until Aidi strips him of office and marquis status.
 
@@ -35,16 +38,19 @@ Fu Taihou's wiki role is therefore a posthumous-status case. The episode does no
 
 ## Key Characteristics
 
-- Western Han consort-side figure remembered through household privilege, death, burial, posthumous rank conflict, and later tomb prosecution.
-- Active pressure source against Fu Xi and Kong Guang during Jianping 2 personnel conflict.
+- Western Han consort-side figure remembered through jealousy-backed prosecution, household privilege, death, burial, posthumous rank conflict, and later tomb prosecution.
+- Earlier rival of Feng Yuan whose old resentment can convert a weak accusation into deadly palace violence.
+- Active pressure source against Fu Xi and Kong Guang during Jianping 2 personnel conflict, with later resentment against Fu Xi helping trigger Zhu Bo's failed impeachment campaign.
 - Achieves the Dingtao-line title settlement through Aidi's adoption of Zhu Bo's advice, bringing rapid formal elevation for Ding and Fu relatives while leaving real power more limited than the earlier Wang-family model.
-- Active source of pressure against Fu Xi, whose anger helps trigger Zhu Bo's failed impeachment campaign.
 - Lifetime-adjacent public-property case whose underpriced official-slave purchase triggers fair-value remonstrance.
 - Mother of the Dingtao king and connected to the earlier Ai-era title settlement.
 - Dead political target whose tomb goods and ritual honors are recoded by Wang Mang as improper privilege and grounds for grave violation.
 
 ## Evidence
 
+- Feng Yuan case: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou's old jealousy of Feng Yuan helps make Zhang You's accusation usable.
+- Investigator replacement: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou turns away from Ding Xuan after no result and uses Shi Li's more coercive inquiry.
+- Sun Bao retaliation: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou is angered by Sun Bao's request to reexamine the case and Aidi jails him.
 - Fu Xi access ban: [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] says Fu Taihou orders that Fu Xi not see Aidi under any name and be sent back to his fief.
 - Kong Guang attack field: [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] says Fu Taihou-aligned officials and Zhu Bo attack Kong Guang before Kong loses office and marquis status.
 - Title settlement: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says Aidi adopts Zhu Bo's advice and grants the Dingtao-line titles Fu Taihou sought.
@@ -62,18 +68,21 @@ Fu Taihou's wiki role is therefore a posthumous-status case. The episode does no
 
 ## Qualifications
 
-Fu Taihou is source-bounded here. Hanji 578 supports her order against Fu Xi and the Fu-side attack field around Kong Guang, but not a full faction map or the exact text of every accusation. Hanji 579 supports the title settlement, post-settlement arrogance, and Ding/Fu formal elevation, but not the full legal history of each title or the exact offices held by every relative. Hanji 582 supports her continued hostility to Fu Xi and the Kongxiang Hou/Zhu Bo pressure route, but not her private words. Hanji 587 supports the underpriced official-slave purchase as reported through Wu Jianglong's remonstrance but not Fu Taihou's private intent or the full sale procedure. Hanji 595 supports her death, burial with Han Yuandi, posthumous styling, and later vulnerability, while Hanji 626 supports the later tomb prosecution. The page does not settle the full earlier court dispute over her title, the exact received-text form of her posthumous title, her lifetime agency, or Wang Mang's inner motive.
+Fu Taihou is source-bounded here. Hanji 576 supports the jealousy-backed Feng Yuan prosecution but not Fu Taihou's exact private words, the full legal file, or every death in the Feng family. Hanji 578 supports her order against Fu Xi and the Fu-side attack field around Kong Guang, but not a full faction map or the exact text of every accusation. Hanji 579 supports the title settlement, post-settlement arrogance, and Ding/Fu formal elevation, but not the full legal history of each title or the exact offices held by every relative. Hanji 582 supports her continued hostility to Fu Xi and the Kongxiang Hou/Zhu Bo pressure route, but not her private words. Hanji 587 supports the underpriced official-slave purchase as reported through Wu Jianglong's remonstrance but not Fu Taihou's private intent or the full sale procedure. Hanji 595 supports her death, burial with Han Yuandi, posthumous styling, and later vulnerability, while Hanji 626 supports the later tomb prosecution. The page does not settle the full earlier court dispute over her title, the exact received-text form of her posthumous title, her lifetime agency, or Wang Mang's inner motive.
 
 ## What Changed
 
-- Added Hanji 578's earlier purge layer against Fu Xi and Kong Guang.
-- Added Hanji 579's title-settlement success and Ding/Fu formal elevation layer.
+- Added Hanji 576 as Fu Taihou's earliest current active-punishment layer: jealousy of Feng Yuan becomes a deadly palace accusation.
+- Kept Hanji 578-579's later pressure and title-settlement layers as separate from the Feng Yuan case.
 - Preserved Hanji 582's active resentment layer: Fu Taihou's continued pressure against Fu Xi leads to Zhu Bo's failed impeachment campaign.
 - Preserved Hanji 587's official-property layer, Hanji 595's death-and-burial layer, and Hanji 626's posthumous prosecution.
 
 ## Relationships
 
 - [[WangMang|王莽]] - dominant official who reopens and punishes her posthumous status.
+- [[FengYuanWesternHan|冯媛 / 冯太后]] - old rival whose bear-rescue favor becomes the jealousy background for Hanji 576.
+- [[ShiLiWesternHan|史立]] - investigator whose coercive case serves Fu Taihou's desired outcome.
+- [[SunBaoWesternHan|孙宝]] - official jailed after asking to reopen Feng Yuan's case.
 - [[WangZhengjun|王政君]] - senior dowager whose approval Wang Mang needs and gradually obtains.
 - [[DingJiWesternHan|丁姬]] - parallel dead consort-side target in the same case.
 - [[HanAidi|汉哀帝]] - later imperial context that made Fu Taihou's title and status politically sensitive.

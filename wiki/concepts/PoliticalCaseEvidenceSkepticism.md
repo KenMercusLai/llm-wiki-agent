@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [court-politics, evidence, historiography, legal-process]
 sources:
   - zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww
+  - zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6
 last_updated: 2026-09-11
 ---
 
@@ -18,6 +19,8 @@ The Zhao Feiyan/Zhao Hede case shows why politically useful palace accusations n
 
 A political-incentive check sits beside the evidence check. If [[WangZhengjun|王政君]] and the Wang family depended on Chengdi's heir production for their own security, then a story in which [[ZhaoHedeWesternHan|赵合德]] repeatedly kills heirs without serious monitoring becomes less plausible. The concept therefore joins documentary skepticism, motive analysis, and institutional logic.
 
+Hanji 576 adds a different evidence-warning shape. [[ZhangYouWesternHan|张尤]]'s accusation against [[FengYuanWesternHan|冯媛]] begins as an explanation for his own unauthorized departure, then becomes lethal because [[FuTaihouWesternHan|傅太后]] has an old grudge and [[ShiLiWesternHan|史立]] can force the case into treason language. Here the warning is not only missing physical evidence; it is accuser self-interest plus a powerful sponsor whose desired outcome precedes verification.
+
 ## Key Claims
 
 - Testimony-heavy palace cases should be treated cautiously when expected objects, documents, or independent checks are absent.
@@ -25,6 +28,7 @@ A political-incentive check sits beside the evidence check. If [[WangZhengjun|�
 - Institutional incentives can test plausibility; the Wang family's dependence on Chengdi's heirs challenges the idea of years of unchecked palace killing.
 - Evidentiary skepticism does not equal exoneration; it separates suspicion from settled causation.
 - Historical narration can convert uncertain cases into memorable moral stories when later writers prefer clear culprits.
+- Accuser self-protection and patron resentment are especially dangerous evidence contexts because the accusation's usefulness may arrive before proof.
 
 ## Evidence
 
@@ -32,14 +36,17 @@ A political-incentive check sits beside the evidence check. If [[WangZhengjun|�
 - Testimony dominance: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] characterizes the report as almost entirely口供.
 - Incentive test: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] argues that Wang Zhengjun and the Wang family could not be indifferent to Chengdi's heirs.
 - Non-exoneration boundary: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] still acknowledges that `Han Shu` and `Zizhi Tongjian` make Zhao Hede suspicious.
+- Self-protective accusation: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Zhang You falsely accuses Feng Yuan after leaving Zhongshan without authorization.
+- Patron-useful case: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou's old jealousy makes the accusation politically usable and Shi Li converts it into a treason claim.
 
 ## Counterevidence & Qualifications
 
-This concept is created from one source and should remain narrower than a general legal theory. Hanji 573 challenges the evidentiary strength and narrative simplicity of the Zhao-sisters accusation, but it does not prove what happened to every child, reconstruct the full case file, or establish a medical cause for Chengdi's heir failure.
+This concept remains narrower than a general legal theory. Hanji 573 challenges the evidentiary strength and narrative simplicity of the Zhao-sisters accusation, but it does not prove what happened to every child, reconstruct the full case file, or establish a medical cause for Chengdi's heir failure. Hanji 576 presents Zhang You's claim as false and politically useful, but the wiki has not reconstructed the complete court record of Feng Yuan's prosecution.
 
 ## What Changed
 
-- Created from Hanji 573 as an evidence-and-incentive reading of a politically useful palace accusation.
+- Added Hanji 576 as a second Western Han case where accuser self-protection and patron resentment make weak accusation dangerous.
+- Preserved Hanji 573 as the testimony-heavy and missing-evidence branch.
 
 ## Related Concepts
 
