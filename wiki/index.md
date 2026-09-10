@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper](sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper.md) — Data Science With Sam episode with Dan Driver on Case Ready Intake AI, governance-first legal AI, deterministic pre-flight checks, UPL boundaries, audit trails, and human review.
+- [《资治通鉴·汉纪》574丨古代的满分作文是什么样子？](sources/zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chengdi's succession choice, reframing Zhao Feiyan-linked palace scandal as dynastic foresight, and giving Han Aidi a rationale to stop the investigation.
 - [《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？](sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n.md) — 芮淇讲透资治通鉴 episode on the Jianping 2 "鼓妖" palace sound, Li Xun and Yang Xiong's omen-coded attack on Zhu Bo's chancellorship, Fu Taihou's title settlement, and Shi Dan's punishment.
 - [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
 - [《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？](sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz.md) — 芮淇讲透资治通鉴 episode on Wang Mang surviving title-and-fief removal through Wang Zhengjun's backing, Yang Xuan's secret memorial, Zhu Bo's州牧-to-刺史 reform, and Ding Taihou's Dingtao burial.
@@ -2168,6 +2169,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [耿育 / Geng Yu (Western Han)](entities/GengYuWesternHan.md) — Western Han memorialist whose Chengdi succession defense reframes palace scandal into dynastic foresight and helps Han Aidi close the Zhao Feiyan-linked case.
+- [赵飞燕 / Zhao Feiyan (Western Han)](entities/ZhaoFeiyanWesternHan.md) — Western Han palace figure whose Aidi-era case closure links crown-prince gratitude, Fu Taihou's friendship, Chengdi's reputation, and Wang-family resentment.
 - [Case Ready Intake AI](entities/CaseReadyIntakeAI.md) — legal intake AI product built around narrative, timeline, evidence, UPL boundaries, deterministic checks, and auditability.
 - [Dan Driver](entities/DanDriver.md) — Driver AI Agency founder and Case Ready Intake AI architect.
 - [Driver AI Agency](entities/DriverAIAgency.md) — company behind Case Ready Intake AI.

@@ -17281,6 +17281,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》574丨古代的满分作文是什么样子？
+
+Added source. Key claims: Geng Yu uses Zhou succession precedent to defend Chengdi's choice of Aidi as foresight rather than scandal; the memorial reframes further Zhao Feiyan investigation as damage to Chengdi's reputation and Aidi's filial duty; Aidi stops pursuing the accusation details; Wang Zhengjun and the Wang family resent the closure.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？
 
 Added source. Key claims: Wang Mang survives Zhu Bo and Zhao Xuan's request to strip title and fief because Wang Zhengjun remains his backing; Yang Xuan's secret memorial reframes leniency toward the Wang family as Aidi's Chengdi-linked filial duty; Zhu Bo's州牧-to-刺史 proposal treats lower rank as sharper oversight incentive; Ding Taihou's Dingtao burial shows Aidi's personal-filial ritual concern.
@@ -17296,6 +17300,10 @@ Added source. Key claims: Chinese Super League expansion should be announced in 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
 
 Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
