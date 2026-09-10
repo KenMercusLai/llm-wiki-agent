@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？](sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n.md) — 芮淇讲透资治通鉴 episode on the Jianping 2 "鼓妖" palace sound, Li Xun and Yang Xiong's omen-coded attack on Zhu Bo's chancellorship, Fu Taihou's title settlement, and Shi Dan's punishment.
 - [《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！](sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s.md) — 芮淇讲透资治通鉴 episode on Zhu Bo's restoration of the Yushi Dafu office, Ding Ming's Da Sima appointment, Fu Taihou's pressure against Fu Xi, and Kong Guang's removal.
 - [《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？](sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz.md) — 芮淇讲透资治通鉴 episode on Wang Mang surviving title-and-fief removal through Wang Zhengjun's backing, Yang Xuan's secret memorial, Zhu Bo's州牧-to-刺史 reform, and Ding Taihou's Dingtao burial.
 - [《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？](sources/zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm.md) — Late-Western-Han court-politics episode on Han Aidi accepting Xia Heliang's Taipingjing renewed-mandate cure, changing reign title, imperial style, and timekeeping, then reversing the edict after the promised relief fails.
@@ -11791,6 +11792,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Disaster-Omen Personnel Attack / 灾异人事攻防](concepts/DisasterOmenPersonnelAttack.md) — Use of disaster or omen language to attack a specific appointment or officeholder.
 - [官职序列重组式权力再分配 / Office Sequence Power Reallocation](concepts/OfficeSequencePowerReallocation.md) — Pattern where restoring or changing offices reallocates promotion paths, factional placement, and top-office authority.
 - [中国职业足球联赛扩军 / Chinese Football League Expansion](concepts/ChineseFootballLeagueExpansion.md) — Chinese professional-football expansion concept linking top-flight scale, second-tier depth, advance rules, and promotion-relegation design.
 - [中国足球财务纪律 / Chinese Football Financial Discipline](concepts/ChineseFootballFinancialDiscipline.md) — Governance guardrail for wage arrears, tax arrears, debt, and admission standards during Chinese football expansion.

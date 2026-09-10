@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？
+
+Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2 / 5 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n`; created `DisasterOmenPersonnelAttack`; updated `ZhuBoWesternHan`, `ZhaoXuanWesternHan`, `FuTaihouWesternHan`, `LiXunWesternHan`, `YangXiong`, `ShiDanWesternHan`, and `index`. No settled contradiction found; the physical cause of the palace sound, full Hongfan omen background, Zhao Xuan's name form, and Dong Hong/Shi Dan memorial details remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命
 
 Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2-3 / 5-4 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp`; created `ZhuBoWesternHan` and `PingDangWesternHan`; updated `FuTaihouWesternHan`, `FuXiWesternHan`, `GoodDeathPoliticalSurvival`, `HighStatusCautionSelfProtection`, and `index`. No settled contradiction found; Kongxiang Hou's identity, Zhao Xuan's full confession, legal charge wording, and the frontier hostage details remain source-scoped.
@@ -17288,6 +17292,10 @@ Added source. Key claims: Chinese Super League expansion should be announced in 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
 
 Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
