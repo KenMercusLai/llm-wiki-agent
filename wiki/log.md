@@ -16813,6 +16813,10 @@ Added source note for The SaaS Podcast episode with Felix Hoffman on Seven Learn
 
 Added source. Key claims: Case Ready Intake AI is framed as a bounded legal intake product that produces narrative, timeline, and evidence rather than legal advice; governance is implemented through a charter, documented decisions, deployment tests, deterministic Python checks, runtime QA, and human review; UPL risk and prompt-injection-style requests are handled through hard workflow boundaries; pre-flight checks can reduce unnecessary LLM cost by stopping out-of-scope cases early.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？
+
+Added source. Key claims: the Chengdi death and heir-loss investigation is testimony-heavy and missing expected evidence; Wang Zhengjun and the Wang family had strong incentive to monitor imperial heirs; Chengdi's child deaths predate the Zhao sisters as a complete explanation; Zhao Feiyan and Zhao Hede may function as politically and literarily useful scapegoats rather than settled sole causes.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17300,6 +17304,10 @@ Added source. Key claims: Chinese Super League expansion should be announced in 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
 
 Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
