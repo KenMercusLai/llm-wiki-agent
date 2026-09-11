@@ -2043,6 +2043,7 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
@@ -17540,6 +17541,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE before Hanji 558. Created pages for Chunyu Zhang and Empress Xu; updated Wang Mang, Wang Gen, Wang Li, Han Chengdi, Zhai Fangjin, Role Attachment and Power Exit, Persona-Shielded Political Purge, and Case-Expansion Political Purge. No settled contradiction found; Chunyu Zhang's full legal dossier, Wang Mang's inner motive, Wang Li's knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | AI safety concerns grow as insiders issue urgent warnings
+
+Added Marketplace Tech source on mainstreamed AI-doom concern, independent incident review, congressional pause politics, international coordination, Patagonia and Finland data-center siting, and Amazon Prime Video AI lip-sync dubbing. Updated Maria Curi, Mandatory AI Incident Investigation, Advanced AI Development Pause, Frontier AI Compute Monitoring, AI Dubbing, AI Data Center Site Selection, and Patagonia Region. No settled contradiction found; the OpenAI-Hugging Face incident details, Patagonia projects, Finland investment terms, and Amazon lip-sync economics remain source-scoped.
 
 ## [2026-09-11] lint | Wiki health check
 
