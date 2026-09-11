@@ -17537,3 +17537,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE before Hanji 558. Created pages for Chunyu Zhang and Empress Xu; updated Wang Mang, Wang Gen, Wang Li, Han Chengdi, Zhai Fangjin, Role Attachment and Power Exit, Persona-Shielded Political Purge, and Case-Expansion Political Purge. No settled contradiction found; Chunyu Zhang's full legal dossier, Wang Mang's inner motive, Wang Li's knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

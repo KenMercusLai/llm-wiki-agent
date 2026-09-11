@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量](sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx.md) — 芮淇讲透资治通鉴 episode on Wang Mang's sickbed accusation against Chunyu Zhang, Chunyu's failed restoration bid through Wang Li, Empress Xu's poisoning, and Zhai Fangjin's widened cleanup.
 - [VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差](sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb.md) — 这病说来话长 episode comparing Australian and Chinese healthcare through public/private access, emergency triage, imaging waits, radiographer responsibility, and report-communication boundaries.
 - [免费的权威，付费的体验](sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4.md) — 读报teleread episode connecting modern romance difficulty, premium cinema experience, and digital epistemic authority through the shared burden of individual judgment and trust allocation.
 - [董建華逝世：「愛國者元老」的香港人生](sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e.md) — 端聞 obituary-explainer on Tung Chee-hwa's shipping-family background, Beijing-backed chief-executive selection, Tung-era crises, Article 23, right-of-abode interpretation, mainland integration, public-resource privatization, and post-tenure establishment role.
@@ -2213,6 +2214,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [London](entities/London.md) — United Kingdom capital used as the setting node for the Shire Folk rally scene.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
+- [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose failed attempt to regain office through Wang Li turns Wang Mang's accusation into a fatal palace-scandal case.
+- [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose cold-palace survival ends after Chunyu Zhang's confession makes her a liability in the court case.
 - [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose recommendation helps Wang Mang succeed him as Da Sima in 8 BCE.
 - [翟方进 / Zhai Fangjin (Western Han)](entities/ZhaiFangjinWesternHan.md) — Western Han chancellor linked to the Chengdi-era刺史-to-州牧 reform and later coerced suicide after 荧惑守心.
 - [胡长 / Hu Chang (Western Han)](entities/HuChangWesternHan.md) — Western Han classics figure whose jealousy of Zhai Fangjin is de-escalated by Zhai's visible scholarly respect.

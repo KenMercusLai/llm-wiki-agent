@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c
   - zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0
   - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
+  - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
 last_updated: 2026-09-11
 ---
 
@@ -35,14 +36,16 @@ Hanji 573 adds why that image fight matters. The episode says Chengdi had reprod
 
 Hanji 571 and Hanji 572 give the underlying accusation more concrete shape without resolving it. In [[XieGuangWesternHan|谢光]]'s report, Cao Gong bears a boy by Chengdi in 12 BCE; Chengdi's handwritten order confines mother, infant, and attendants while suppressing questions about the child's identity; Cao Gong is later forced to take pills and die; six attendants hang themselves; and the infant is removed on the eleventh day and disappears. Hanji 572 then adds Xu Meiren's 11 BCE child: Zhao Hede reacts to the pregnancy and birth as a threat, Chengdi sends a letter through 靳严, receives a heavy box, and has it sealed and buried by [[JiWuWesternHan|纪武]] after telling him it contains a child corpse.
 
-Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, a ruler whose own responsibility practice is morally qualified by Zhai Fangjin's coerced death, the deceased emperor whose sudden and embarrassing death invites blame management, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, secret infant suppression, and gendered blame remain contested.
+Hanji 557 adds an earlier case-handling layer. When [[WangMang|王莽]]'s accusation against [[ChunyuZhangWesternHan|淳于长]] reaches Chengdi through [[WangGenWesternHan|王根]] and [[WangZhengjun|王政君]], Chengdi first limits punishment to dismissal because Chunyu Zhang is kin-adjacent and had helped [[ZhaoFeiyanWesternHan|赵飞燕]]. After Chunyu Zhang's gift-backed approach to [[WangLiWesternHan|王立]] exposes private exchange and palace scandal around [[EmpressXuWesternHan|废后许氏]], Chengdi escalates to arrest, Chunyu's prison death, Empress Xu's poisoning, and Wang Li's removal to his fief.
+
+Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, a ruler whose own responsibility practice is morally qualified by Zhai Fangjin's coerced death, a case handler whose leniency can harden when palace dignity is touched, the deceased emperor whose sudden and embarrassing death invites blame management, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, secret infant suppression, and gendered blame remain contested.
 
 ## Key Characteristics
 
-- Western Han emperor who summons Yang Xiong after his literary ability becomes visible, starting Yang's court-service layer in the source frame.
-- Serves as background for the contrast between cultural talent and limited official advancement.
+- Western Han emperor who summons Yang Xiong after his literary ability becomes visible, while also serving as background for the contrast between cultural talent and limited official advancement.
 - Used by Wang Jia as a precedent for tolerating direct criticism and not letting favorites fully escape consequence.
 - Shown in Hanji 559 as redirecting omen responsibility onto a chancellor rather than cleanly accepting imperial accountability.
+- Handles the Chunyu Zhang case first with limited dismissal, then with lethal escalation once attempted restoration and Empress Xu scandal surface.
 - Defended by Geng Yu as a ruler whose unusual succession choice protected dynastic stability.
 - Dies suddenly in 7 BCE under circumstances that create a public-accountability problem and later sensational drug-death traditions.
 - Presented as capable of fathering children but unable to produce a surviving heir, making him the center of a posthumous death-and-heir accusation field where the Cao Gong and Xu Meiren cases are serious and the Zhao-sisters explanation remains source-contested.
@@ -55,6 +58,8 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 - Remonstrance tolerance: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia praises Cheng for not punishing harsh-spoken advisers.
 - Favorite consequence: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia uses Chunyu Zhang, Zhang Fang, and Shi Yu to argue that Cheng did not let private affection permanently override fairness.
 - Omen responsibility transfer: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] says Chengdi turns an 荧惑守心 crisis toward Zhai Fangjin as chancellor.
+- Chunyu Zhang leniency and escalation: [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] says Chengdi first dismisses Chunyu Zhang without further punishment, then orders deeper investigation after Wang Li's suspicious intercession.
+- Empress Xu poisoning: [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] says Chengdi sends Kong Guang with poison after Chunyu Zhang's confession about Empress Xu.
 - Courtesy-coded coercion: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] says Chengdi sends Zhai a condemning document with wine and beef, then conceals the coercive nature of the death through mourning and honors.
 - Sudden death: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] says Chengdi was still conducting court business the previous evening before collapsing while dressing the next morning at Weiyang Palace.
 - Drug-death tradition: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] recounts a later aphrodisiac-pill story but marks the pill-making and overdose details as rumor or non-standard-history material.
@@ -71,17 +76,19 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 
 ## Qualifications
 
-This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death, Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative, and Hanji 571-572 supply two reported missing-son cases within that narrative. The praise in Hanji 592, criticism in Hanji 559, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, or final legal findings.
+This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 557 uses him as the ruler handling Chunyu Zhang and Empress Xu, Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death, Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative, and Hanji 571-572 supply two reported missing-son cases within that narrative. The praise in Hanji 592, criticism in Hanji 559, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, or final legal findings.
 
 ## What Changed
 
-- Added Hanji 561's sudden-death and aphrodisiac-pill tradition as a qualified death-context layer that explains why posthumous blame had political force.
+- Added Hanji 557's Chunyu Zhang and Empress Xu case-handling layer before Chengdi's later death-and-blame episodes.
 
 ## Relationships
 
 - [[YangXiong|扬雄]] - writer summoned during Chengdi's reign.
 - [[WangJiaWesternHan|王嘉]] - later chancellor who invokes Cheng as a favorable precedent.
 - [[ZhaiFangjinWesternHan|翟方进]] - chancellor whose death Chengdi forces under 荧惑守心 pressure.
+- [[ChunyuZhangWesternHan|淳于长]] - dismissed favorite whose case Chengdi later escalates to lethal punishment.
+- [[EmpressXuWesternHan|废后许氏]] - former empress whom Chengdi orders poisoned after the case exposes palace scandal.
 - [[KongGuangWesternHan|孔光]] - official Chengdi was preparing to appoint chancellor before dying.
 - [[SimaGuang|司马光]] - historian whose judgment criticizes Chengdi's handling of Zhai Fangjin.
 - [[HanAidi|汉哀帝]] - ruler pressured by the Chengdi comparison.
