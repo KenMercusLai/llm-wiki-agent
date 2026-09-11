@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌](sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2.md) — 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦》, Jinjiang/Chendai shoe clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning divergence, inventory reform, and sportswear multi-brand strategy.
 - [《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？](sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id.md) — 芮淇讲透资治通鉴 episode on Chunyu Zhang's access-based rise, bribery, exploitation of Empress Xu through restoration promises, sunk-cost entrapment, and Wang Mang's coming attack.
 - [《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望](sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn.md) — 芮淇讲透资治通鉴 episode on Wang Gen's reputation-driven Xiongnu land probe, Xiahou Fan's mishandled imperial claim, Wuzhuliu Chanyu's refusal, and "知足知止" as desire-capacity restraint.
 - [《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！](sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf.md) — 芮淇讲透资治通鉴 episode on Zhang Yu defusing Wang Gen's jealousy, disaster-omen skepticism, and turning workplace envy from factional hostility toward self-awareness.
@@ -2204,6 +2205,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Chendai Town / 陈埭镇](entities/ChendaiTown.md) — Jinjiang footwear-cluster town shaped by diaspora resources, clan trust, township enterprise formation, Nike-linked process learning, and later sportswear brands.
+- [Ding Shizhong / 丁世忠](entities/DingShizhong.md) — Anta founder figure whose early Beijing sales experience, partner ethic, retail reform, and portfolio strategy ground the Jinjiang sportswear source.
+- [Fila](entities/Fila.md) — Anta-operated sports-fashion brand used as the source's acquired-brand proof point for separated team, DTC retail, and multi-brand operation.
+- [Li Honggu / 李洪谷](entities/LiHonggu.md) — Sanlian editor and co-discussant framing the Li-Ning/Anta comparison and keeping Nike/Adidas visible as global coordinates.
+- [《鞋邦：中国运动品牌四十年》](entities/XieBangBook.md) — Huang Ziyi's book on Jinjiang, Chendai, and four decades of Chinese sportswear brand formation.
 - [夏侯藩 / Xiahou Fan (Western Han)](entities/XiahouFanWesternHan.md) — Western Han envoy whose deniable Xiongnu land probe becomes an emperor-backed demand and then a blame-transfer embarrassment.
 - [乌珠留单于 / Wuzhuliu Chanyu](entities/WuzhuliuChanyu.md) — Xiongnu ruler who tests, delays, rejects, and reports Xiahou Fan's Western Han land demand.
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
@@ -11905,6 +11911,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Jinjiang Model / 晋江模式](concepts/JinjiangModel.md) — Reform-era regional industrial pattern mixing diaspora resources, kinship finance, township enterprise forms, local tolerance, subcontracting learning, and sportswear branding.
+- [Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资](concepts/KinshipBasedTownshipEnterpriseFinance.md) — Early enterprise-finance mechanism where relatives, villagers, clan networks, and acquaintance trust pool capital, labor, space, and risk.
+- [Sportswear Multi-Brand Portfolio / 运动品牌集团化组合](concepts/SportswearMultiBrandPortfolio.md) — Sportswear strategy of operating distinct mass, fashion, running, outdoor, and lifestyle brands while sharing selected group back-end capabilities.
 - [沉没成本困局 / Sunk Cost Entrapment](concepts/SunkCostEntrapment.md) — Decision trap in which prior investment makes exit from a losing relationship or strategy feel costlier than continued loss.
 - [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
 - [Disaster-Omen Interpretive Skepticism / 灾异解释怀疑](concepts/DisasterOmenInterpretiveSkepticism.md) — Court-speech pattern resisting shallow disaster readings that turn anomalies into immediate factional blame.

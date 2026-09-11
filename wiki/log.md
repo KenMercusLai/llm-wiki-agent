@@ -17334,6 +17334,10 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+
+Added source page for a 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦：中国运动品牌四十年》, Jinjiang/Chendai sportswear clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning path divergence, inventory reform, and multi-brand portfolio strategy. Created Chendai Town, Ding Shizhong, Fila, Li Honggu, 《鞋邦》, Jinjiang Model, Kinship-Based Township Enterprise Finance, and Sportswear Multi-Brand Portfolio; updated Jinjiang, Anta Sports, Huang Ziyi Manufacturing Reporter, overview, and index. No settled contradiction found; Huang Ziyi title/body spelling variance, Nike timing, Fila store counts, GDP-threshold claims, and acquisition anecdotes remain source-scoped.
+
 ## [2026-09-11] ingest | Out-numbered: AI's contentious maths milestone
 
 Added The Intelligence source on OpenAI's contested Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy. Created Sam Beale, Tristan Buckmaster, Le Van Elgindi, Guo Lanying, The White-Haired Girl, My Motherland, AI-Generated Proof Governance, Post-9/11 Counterterrorism Architecture, Counterterrorism Powers Repurposing, Revolutionary Opera Cultural Memory, and People's Artist State Honor; updated AI For Math, AI Mathematician, and Navier-Stokes Equations. No settled contradiction found; the claimed proof, priority dispute, agent-swarm details, terrorism-law examples, and Guo biographical details remain source-scoped.
@@ -17602,6 +17606,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？
 
 Added source. Key claims: Chunyu Zhang's pre-fall power rests on outer-relative identity, Chengdi access, bribery networks, and exploitation of Empress Xu through false restoration promises; Empress Xu's continued payments are read through sunk-cost entrapment and cold-palace isolation; Wang Mang's monitoring sets up Hanji 557's sickbed accusation. Updated Chunyu Zhang and Empress Xu; created Sunk Cost Entrapment. No settled contradiction found.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
