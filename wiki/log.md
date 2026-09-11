@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 免费的权威，付费的体验
+
+Ingested the 2026-09-11 读报teleread episode on romance slump, premium cinema experience, and epistemic authority. Added source `mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4`; created `ModernRomanceSlump`, `PremiumCinemaExperienceEconomy`, `DigitalPublicSphereEpistemicAuthority`, and `CognitiveTrustAllocation`; updated `DuBaoTeleread`, `IMAX`, `overview`, and `index`. No settled contradiction found; dating, box-office, format, and authority-paper claims remain source-scoped to the episode.
+
 ## [2026-09-11] ingest | 董建華逝世：「愛國者元老」的香港人生
 
 Added source. Key claims: Tung Chee-hwa's path from shipping-family heir to first Hong Kong chief executive is tied to Orient Overseas' debt crisis, Beijing-backed business-elite selection, Tung-era governance shocks, Article 23, right-of-abode interpretation, mainland integration, land and public-resource privatization, and later establishment organization. No settled contradiction found.
@@ -17513,6 +17517,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！
 
 Added source. Key claims: Han Aidi's early Yuefu abolition is framed as a new-leader first-move authority signal; disciplined first moves need target fit, justification, manageable resistance, and public-cost awareness; prestige-driven image projects can become face-project governance.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

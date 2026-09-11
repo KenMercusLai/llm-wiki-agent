@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [免费的权威，付费的体验](sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4.md) — 读报teleread episode connecting modern romance difficulty, premium cinema experience, and digital epistemic authority through the shared burden of individual judgment and trust allocation.
 - [董建華逝世：「愛國者元老」的香港人生](sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e.md) — 端聞 obituary-explainer on Tung Chee-hwa's shipping-family background, Beijing-backed chief-executive selection, Tung-era crises, Article 23, right-of-abode interpretation, mainland integration, public-resource privatization, and post-tenure establishment role.
 - [咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？](sources/kafeidou-cong-feiji-qianting-zoujin-richang-shenghuo-tai-weishenme-chengle-shuibei-remen-cailiao-1013725042.md) — 声动早咖啡 coffee-bean explainer on titanium cups, outdoor lifestyle demand, premium material storytelling, Yongkang manufacturing, and titanium-cup homogenization.
 - [《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？](sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9.md) — 芮淇讲透资治通鉴 episode on Wang Mang's early Da Sima appointment, austerity-and-scholar reputation building, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness.
@@ -11875,6 +11876,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Modern Romance Slump](concepts/ModernRomanceSlump.md) — dating and intimacy difficulty created by weakened repeated-contact scaffolding and individualized relationship work.
+- [Premium Cinema Experience Economy](concepts/PremiumCinemaExperienceEconomy.md) — moviegoing recovery driven by paid format, venue, immersion, quality-control, and participatory-event value.
+- [Digital Public Sphere Epistemic Authority](concepts/DigitalPublicSphereEpistemicAuthority.md) — task-specific authority framework requiring social claim, subjective recognition, and objective justification.
+- [Cognitive Trust Allocation](concepts/CognitiveTrustAllocation.md) — skill of deciding which cognitive tasks to delegate, to whom, and under what risk threshold.
 - [Post-Handover Hong Kong Governance / 回歸後香港管治](concepts/PostHandoverHongKongGovernance.md) — Tung-era frame connecting executive-led rule, Beijing selection, business elites, legal interpretation, Article 23, integration, and public-resource policy.
 - [Hong Kong Chief Executive Legitimacy / 香港特首認受性](concepts/HongKongChiefExecutiveLegitimacy.md) — Legitimacy gap between formal chief-executive authority and public recognition in the Tung source.
 - [Small-Circle Election Legitimacy / 小圈子選舉認受性](concepts/SmallCircleElectionLegitimacy.md) — Narrow-electorate selection problem highlighted by Tung Chee-hwa's 1996 chief-executive win.
