@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差
+
+Added source. Key claims: Australian healthcare access is severity- and channel-triaged through GP referral, public hospitals, private care, and urgent-care clinics; radiographers perform clinical request review, image-quality judgment, urgent finding recognition, and escalation; patient-facing imaging communication must balance reassurance with privacy, professional scope, formal reporting, and follow-up.
+
 ## [2026-09-11] ingest | 免费的权威，付费的体验
 
 Ingested the 2026-09-11 读报teleread episode on romance slump, premium cinema experience, and epistemic authority. Added source `mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4`; created `ModernRomanceSlump`, `PremiumCinemaExperienceEconomy`, `DigitalPublicSphereEpistemicAuthority`, and `CognitiveTrustAllocation`; updated `DuBaoTeleread`, `IMAX`, `overview`, and `index`. No settled contradiction found; dating, box-office, format, and authority-paper claims remain source-scoped to the episode.
@@ -17517,6 +17521,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！
 
 Added source. Key claims: Han Aidi's early Yuefu abolition is framed as a new-leader first-move authority signal; disciplined first moves need target fit, justification, manageable resistance, and public-cost awareness; prestige-driven image projects can become face-project governance.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

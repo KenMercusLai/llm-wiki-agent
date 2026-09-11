@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差](sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb.md) — 这病说来话长 episode comparing Australian and Chinese healthcare through public/private access, emergency triage, imaging waits, radiographer responsibility, and report-communication boundaries.
 - [免费的权威，付费的体验](sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4.md) — 读报teleread episode connecting modern romance difficulty, premium cinema experience, and digital epistemic authority through the shared burden of individual judgment and trust allocation.
 - [董建華逝世：「愛國者元老」的香港人生](sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e.md) — 端聞 obituary-explainer on Tung Chee-hwa's shipping-family background, Beijing-backed chief-executive selection, Tung-era crises, Article 23, right-of-abode interpretation, mainland integration, public-resource privatization, and post-tenure establishment role.
 - [咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？](sources/kafeidou-cong-feiji-qianting-zoujin-richang-shenghuo-tai-weishenme-chengle-shuibei-remen-cailiao-1013725042.md) — 声动早咖啡 coffee-bean explainer on titanium cups, outdoor lifestyle demand, premium material storytelling, Yongkang manufacturing, and titanium-cup homogenization.
@@ -2194,6 +2195,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Lily Radiographer / 澳洲放射师 Lily](entities/LilyRadiographer.md) — Australian radiographer explaining public/private imaging workflow, radiographer scope, urgent image recognition, and patient-result boundaries.
+- [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — China-side clinician voice comparing domestic imaging, emergency, ultrasound, and outpatient workload patterns with Lily's Australian account.
 - [Tung Chee-hwa / 董建華](entities/TungCheeHwa.md) — Hong Kong's first chief executive, synthesized through the Tung obituary as a shipping-family heir, Beijing-backed leader, crisis administrator, and later establishment elder.
 - [Hong Kong Chief Executive / 香港行政長官](entities/HongKongChiefExecutive.md) — Post-1997 office whose early legitimacy limits are examined through Tung Chee-hwa's tenure.
 - [Tung Chao-yung / 董浩雲](entities/TungChaoYung.md) — Shipping magnate father of Tung Chee-hwa and background figure behind the Tung-family business origin.
@@ -11876,6 +11879,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Australian Healthcare Access Triage / 澳洲医疗可及性分诊](concepts/AustralianHealthcareAccessTriage.md) — GP, public/private, urgent-care, emergency, and wait-time routing pattern in Lily's Australian healthcare account.
+- [Radiographer Clinical Responsibility / 放射师临床责任](concepts/RadiographerClinicalResponsibility.md) — Imaging technologist responsibility for request review, protocol adaptation, urgent finding recognition, patient support, and escalation.
+- [Medical Imaging Communication Boundary / 影像检查沟通边界](concepts/MedicalImagingCommunicationBoundary.md) — Boundary separating image acquisition, preliminary observation, formal reporting, privacy, and patient explanation.
 - [Modern Romance Slump](concepts/ModernRomanceSlump.md) — dating and intimacy difficulty created by weakened repeated-contact scaffolding and individualized relationship work.
 - [Premium Cinema Experience Economy](concepts/PremiumCinemaExperienceEconomy.md) — moviegoing recovery driven by paid format, venue, immersion, quality-control, and participatory-event value.
 - [Digital Public Sphere Epistemic Authority](concepts/DigitalPublicSphereEpistemicAuthority.md) — task-specific authority framework requiring social claim, subjective recognition, and objective justification.
