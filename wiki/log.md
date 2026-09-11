@@ -17569,3 +17569,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》552丨通透人性的人，职场平步青云
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Gu Yong (Western Han); updated Kong Guang, Han Chengdi, and Shangshu with the Dingtao-line succession meeting, Kong Guang's Shangshu-backed dissent, and the source's "demotion as exit" reading. No settled contradiction found; the source transcript's "古勇" and "定逃王" forms are normalized to 谷永 and 定陶王刘欣 / Han Aidi with source-scoped caution.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
