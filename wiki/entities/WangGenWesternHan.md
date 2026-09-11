@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9
   - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
   - zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf
+  - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-王根 / Wang Gen is synthesized as the Wang-family elder whose resentment toward [[ZhangYuWesternHan|张瑜 / 张禹]], later illness, anger at [[ChunyuZhangWesternHan|淳于长]], and retirement make him a recurring hinge between outer-relative power, imperial favor, and [[WangMang|王莽]]'s office ascent.
+王根 / Wang Gen is synthesized as the Wang-family elder whose resentment toward [[ZhangYuWesternHan|张瑜 / 张禹]], reputation temptation in a Xiongnu land-demand probe, later illness, anger at [[ChunyuZhangWesternHan|淳于长]], and retirement make him a recurring hinge between outer-relative power, imperial favor, personal desire, and [[WangMang|王莽]]'s office ascent.
 
 ## Current Profile
 
 Wang Gen first appears in this bounded synthesis as a Wang-family powerholder sensitive to visible shifts in [[HanChengdi|汉成帝]]'s favor. When Chengdi awards disputed land to Zhang Yu, Wang Gen reads the decision as a status signal that Zhang Yu is more favored and potentially dangerous to the Wang-family outer-relative position. Zhang Yu later refuses to use earthquake and eclipse accusations against the Wang side, which makes Wang Gen ashamed and turns resentment into friendship.
+
+The frontier-probe layer shows a different temptation from the same late-Chengdi field. Wang Gen hears that a Xiongnu-held tract near Zhangye is useful for wood, arrows, and feathers, and that obtaining it while a new chanyu is unsettled could bring him enduring fame. He and Chengdi keep the attempt deniable by sending [[XiahouFanWesternHan|夏侯藩]] to test [[WuzhuliuChanyu|乌珠留单于]] in Xiahou Fan's own name. [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] treats Wang Gen's vulnerability here as reputation hunger: the problem is not simply wanting useful land, but being moved by "青史留名" before capacity, risk, and diplomatic boundary are clear.
 
 [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] gives Wang Gen's later sickbed role: Wang Mang tells him that Chunyu Zhang is pleased by his illness and expects to replace him, and Wang Gen sends Wang Mang into the palace to report to [[WangZhengjun|王政君]]. [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] then presents Wang Gen as the recommender who turns Chengdi's praise of Wang Mang after the Chunyu Zhang affair into formal succession to the Da Sima office.
 
@@ -24,6 +27,7 @@ Wang Gen first appears in this bounded synthesis as a Wang-family powerholder se
 
 - Wang Gen is a Wang-family senior officeholder whose status can be threatened by imperial favor toward a teacher-adviser outside the Wang side.
 - His resentment toward Zhang Yu is de-escalated when Zhang Yu protects the Wang side during a disaster-omen accusation moment.
+- His desire for lasting reputation makes him receptive to a risky, deniable Xiongnu land-demand probe.
 - His illness becomes the setting where Wang Mang launches the Chunyu Zhang accusation.
 - His recommendation helps convert Wang Mang's recent loyalist reputation into appointment.
 - His role shows outer-relative office power moving through kinship, emotion, and imperial decision.
@@ -36,6 +40,10 @@ Jealousy and de-escalation:
 Sickbed accusation channel:
 - [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] says Wang Mang reports Chunyu Zhang's ambitions to Wang Gen while Wang Gen is ill, prompting Wang Gen to send Wang Mang to the palace.
 
+Reputation-driven frontier probe:
+- [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Wang Gen is moved by the suggestion that acquiring Xiongnu land near Zhangye could make him famous in history.
+- [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Wang Gen instructs Xiahou Fan to test the chanyu personally rather than present an open imperial demand.
+
 Wang-family office transmission:
 - [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] says Wang Gen recommends Wang Mang as his replacement after Chengdi praises Wang Mang's exposure of wrongdoing.
 
@@ -44,11 +52,12 @@ Reputation-to-office conversion:
 
 ## Qualifications
 
-This page is bounded to Hanji 548, Hanji 557, and Hanji 558. It does not reconstruct Wang Gen's full career, relation details within the Wang clan, complete illness context, or later political evaluation beyond these resentment, accusation, and office-transfer roles.
+This page is bounded to Hanji 548, Hanji 554, Hanji 557, and Hanji 558. It does not reconstruct Wang Gen's full career, relation details within the Wang clan, complete illness context, or later political evaluation beyond these resentment, frontier-probe, accusation, and office-transfer roles.
 
 ## What Changed
 
-- Added Hanji 548's earlier jealousy-and-repair layer around Zhang Yu before the later Wang Mang office-transfer sequence.
+- Added Hanji 554's reputation-temptation layer: Wang Gen backs a deniable Xiongnu land-demand probe after being moved by the promise of historical fame.
+- Preserved Hanji 548's earlier jealousy-and-repair layer around Zhang Yu before the later Wang Mang office-transfer sequence.
 
 ## Relationships
 
@@ -58,3 +67,5 @@ This page is bounded to Hanji 548, Hanji 557, and Hanji 558. It does not reconst
 - [[ChunyuZhangWesternHan]] - accusation target whose case begins from Wang Gen's sickbed in the source account.
 - [[HanChengdi]] - ruler whose favor and appointment decisions shape Wang Gen's position.
 - [[MoralReputationPoliticalCapital]] - Wang Mang's reputation becomes office capital through Wang Gen's recommendation.
+- [[XiahouFanWesternHan]] - envoy whom Wang Gen uses for the deniable Xiongnu land probe.
+- [[DesireCapacityFit]] - concept illustrated by Wang Gen's reputation desire outrunning risk and capacity judgment.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望](sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn.md) — 芮淇讲透资治通鉴 episode on Wang Gen's reputation-driven Xiongnu land probe, Xiahou Fan's mishandled imperial claim, Wuzhuliu Chanyu's refusal, and "知足知止" as desire-capacity restraint.
 - [《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！](sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf.md) — 芮淇讲透资治通鉴 episode on Zhang Yu defusing Wang Gen's jealousy, disaster-omen skepticism, and turning workplace envy from factional hostility toward self-awareness.
 - [《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？](sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si.md) — 芮淇讲透资治通鉴 episode on Zhu Yun's broken-balustrade remonstrance, Zhang Yu as the named target, Xin Qingji's intercession, and Chengdi's preserved-railing clemency.
 - [《资治通鉴·汉纪》552丨通透人性的人，职场平步青云](sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw.md) — 芮淇讲透资治通鉴 episode on Gu Yong's patronage stigma, Chengdi's Dingtao-line heir decision, Kong Guang's Shangshu-backed dissent, and demotion as possible succession-risk exit.
@@ -2202,6 +2203,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [夏侯藩 / Xiahou Fan (Western Han)](entities/XiahouFanWesternHan.md) — Western Han envoy whose deniable Xiongnu land probe becomes an emperor-backed demand and then a blame-transfer embarrassment.
+- [乌珠留单于 / Wuzhuliu Chanyu](entities/WuzhuliuChanyu.md) — Xiongnu ruler who tests, delays, rejects, and reports Xiahou Fan's Western Han land demand.
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
 - [Lily Radiographer / 澳洲放射师 Lily](entities/LilyRadiographer.md) — Australian radiographer explaining public/private imaging workflow, radiographer scope, urgent image recognition, and patient-result boundaries.
 - [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — China-side clinician voice comparing domestic imaging, emergency, ultrasound, and outpatient workload patterns with Lily's Australian account.

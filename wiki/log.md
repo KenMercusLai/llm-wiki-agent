@@ -17592,3 +17592,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Xiahou Fan and Wuzhuliu Chanyu; updated Wang Gen, Han Chengdi, Xiongnu, Desire-Capacity Fit, Diplomatic Scapegoat Blame Transfer, Diplomatic Cost-Risk Accounting, and Capacity-Backed Diplomatic Hierarchy. No settled contradiction found; the tract geography, Wang Gen's full motive, Xiahou Fan's intent, Wuzhuliu Chanyu's broader reign, and the complete Han-Xiongnu diplomatic record remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

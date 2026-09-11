@@ -15,6 +15,7 @@ sources:
   - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
   - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
   - zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si
+  - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
 last_updated: 2026-09-11
 ---
 
@@ -42,14 +43,16 @@ Hanji 571 and Hanji 572 give the underlying accusation more concrete shape witho
 
 Hanji 557 adds an earlier case-handling layer. When [[WangMang|王莽]]'s accusation against [[ChunyuZhangWesternHan|淳于长]] reaches Chengdi through [[WangGenWesternHan|王根]] and [[WangZhengjun|王政君]], Chengdi first limits punishment to dismissal because Chunyu Zhang is kin-adjacent and had helped [[ZhaoFeiyanWesternHan|赵飞燕]]. After Chunyu Zhang's gift-backed approach to [[WangLiWesternHan|王立]] exposes private exchange and palace scandal around [[EmpressXuWesternHan|废后许氏]], Chengdi escalates to arrest, Chunyu's prison death, Empress Xu's poisoning, and Wang Li's removal to his fief.
 
-Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, the ruler in the Zhu Yun broken-balustrade clemency story, a ruler whose own responsibility practice is morally qualified by Zhai Fangjin's coerced death, a case handler whose leniency can harden when palace dignity is touched, the deceased emperor whose sudden and embarrassing death invites blame management, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, secret infant suppression, and gendered blame remain contested.
+Hanji 554 adds a frontier-deniability layer. Chengdi recognizes that asking [[Xiongnu|匈奴]] for land cannot be made too publicly, so he and Wang Gen have [[XiahouFanWesternHan|夏侯藩]] test the newly succeeded [[WuzhuliuChanyu|乌珠留单于]] in Xiahou Fan's own name. After Xiahou Fan says the demand is the emperor's will and the chanyu reports the matter back, Chengdi answers that Xiahou Fan falsely invoked an imperial order and moves him away from the Xiongnu channel. The episode therefore adds a diplomatic counterpart to Chengdi's other responsibility cases: deniable probing preserves room for retreat, but also creates a scapegoat when the probe fails.
+
+Chengdi therefore now functions as Yang Xiong career background, Wang Jia's ruler-precedent, the ruler in the Zhu Yun broken-balustrade clemency story, a ruler whose own responsibility practice is morally qualified by Zhai Fangjin's coerced death, a case handler whose leniency can harden when palace dignity is touched, a ruler using deniable frontier probing and later blame transfer, the deceased emperor whose sudden and embarrassing death invites blame management, the defended predecessor in Geng Yu's succession narrative, and the center of a no-heir case where evidence, health, secret infant suppression, and gendered blame remain contested.
 
 ## Key Characteristics
 
-- Western Han emperor who summons Yang Xiong after his literary ability becomes visible, while also serving as background for the contrast between cultural talent and limited official advancement.
-- Used by Wang Jia as a precedent for tolerating direct criticism, with Hanji 549 supplying Zhu Yun's broken-balustrade case as a concrete example of rage turning into clemency.
+- Western Han emperor who summons Yang Xiong after his literary ability becomes visible and is later used by Wang Jia as a precedent for tolerating direct criticism, with Hanji 549 supplying Zhu Yun's broken-balustrade case.
 - Shown as redirecting omen responsibility onto a chancellor and later making the Dingtao-line succession decision over Kong Guang's classical objection.
 - Handles the Chunyu Zhang case first with limited dismissal, then with lethal escalation once attempted restoration and Empress Xu scandal surface.
+- Uses a deniable envoy probe in the Xiongnu land-demand case, then preserves imperial face by blaming Xiahou Fan for falsely invoking his will.
 - Defended by Geng Yu as a ruler whose unusual succession choice protected dynastic stability.
 - Dies suddenly in 7 BCE under circumstances that create a public-accountability problem and later sensational drug-death traditions.
 - Presented as capable of fathering children but unable to produce a surviving heir, making him the center of a posthumous death-and-heir accusation field where the Cao Gong and Xu Meiren cases are serious and the Zhao-sisters explanation remains source-contested.
@@ -82,14 +85,17 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 - Handwritten-order chain: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Chengdi's handwritten note forbade questioning the infant's sex or parentage and later documents ordered Cao Gong's death.
 - Xu Meiren sealed-box case: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Xie Guang's report described Xu Meiren's child, Zhao Hede's pressure, Chengdi's letter, and a sealed box allegedly containing a child corpse.
 - Leaky secrecy problem: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Chengdi had Ji Wu told what was in the box, a detail the host treats as suspicious if the aim was complete concealment.
+- Deniable frontier probe: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Chengdi and Wang Gen choose to have Xiahou Fan test the chanyu personally rather than openly demand land.
+- Diplomatic blame transfer: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Chengdi later replies that Xiahou Fan falsely invoked imperial command and moves him away from Xiongnu-facing duty.
 
 ## Qualifications
 
-This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 549 supplies one concrete direct-speech clemency case, Hanji 557 uses him as the ruler handling Chunyu Zhang and Empress Xu, Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death, Hanji 552 uses him as the ruler making the Dingtao-line heir choice after a contested court discussion, Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative, and Hanji 571-572 supply two reported missing-son cases within that narrative. The praise in Hanji 592, clemency in Hanji 549, criticism in Hanji 559, succession account in Hanji 552, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, or final legal findings.
+This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 654 uses him as Yang Xiong career background, Hanji 592 uses him as Wang Jia's rhetorical precedent, Hanji 549 supplies one concrete direct-speech clemency case, Hanji 557 uses him as the ruler handling Chunyu Zhang and Empress Xu, Hanji 554 uses him as the ruler behind a deniable Xiongnu land probe and later blame-transfer answer, Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death, Hanji 552 uses him as the ruler making the Dingtao-line heir choice after a contested court discussion, Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details, Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu, Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative, and Hanji 571-572 supply two reported missing-son cases within that narrative. The praise in Hanji 592, clemency in Hanji 549, Xiongnu probe in Hanji 554, criticism in Hanji 559, succession account in Hanji 552, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, diplomatic policy, or final legal findings.
 
 ## What Changed
 
-- Added Hanji 552's succession-meeting layer: Chengdi chooses the Dingtao king after rejecting Kong Guang's Zhongshan argument, then compensates the Zhongshan side.
+- Added Hanji 554's Xiongnu land-demand layer: Chengdi authorizes a deniable probe, then shifts blame to Xiahou Fan after the chanyu reports the demand.
+- Preserved Hanji 552's succession-meeting layer: Chengdi chooses the Dingtao king after rejecting Kong Guang's Zhongshan argument, then compensates the Zhongshan side.
 
 ## Relationships
 
@@ -113,6 +119,8 @@ This page does not synthesize Emperor Cheng's reign, consort politics, or wider 
 - [[JiWuWesternHan|纪武]] - witness asked to bury the sealed box and later warned about palace child deaths.
 - [[XieGuangWesternHan|谢光]] - investigator whose report preserves the Cao Gong case.
 - [[BanJieyuWesternHan|班婕妤]] - consort named in Hanji 573 as mother of one Chengdi son who died young.
+- [[XiahouFanWesternHan]] - envoy whose failed Xiongnu land demand Chengdi later disavows as false imperial command.
+- [[WuzhuliuChanyu]] - Xiongnu ruler whose reverse report forces Chengdi's diplomatic answer.
 - [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - concept created from doubts about the later palace-case evidence.
 - [[SecretImperialInfantSuppression|秘密皇子压制]] - suppression mechanism made visible by the reported Cao Gong case.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - concept created from the episode's warning against collapsing heir failure into favored-woman blame.
