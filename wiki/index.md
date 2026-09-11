@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？](sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id.md) — 芮淇讲透资治通鉴 episode on Chunyu Zhang's access-based rise, bribery, exploitation of Empress Xu through restoration promises, sunk-cost entrapment, and Wang Mang's coming attack.
 - [《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望](sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn.md) — 芮淇讲透资治通鉴 episode on Wang Gen's reputation-driven Xiongnu land probe, Xiahou Fan's mishandled imperial claim, Wuzhuliu Chanyu's refusal, and "知足知止" as desire-capacity restraint.
 - [《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！](sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf.md) — 芮淇讲透资治通鉴 episode on Zhang Yu defusing Wang Gen's jealousy, disaster-omen skepticism, and turning workplace envy from factional hostility toward self-awareness.
 - [《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？](sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si.md) — 芮淇讲透资治通鉴 episode on Zhu Yun's broken-balustrade remonstrance, Zhang Yu as the named target, Xin Qingji's intercession, and Chengdi's preserved-railing clemency.
@@ -2224,8 +2225,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [London](entities/London.md) — United Kingdom capital used as the setting node for the Shire Folk rally scene.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
-- [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose failed attempt to regain office through Wang Li turns Wang Mang's accusation into a fatal palace-scandal case.
-- [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose cold-palace survival ends after Chunyu Zhang's confession makes her a liability in the court case.
+- [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose access-based extraction, exploitation of Empress Xu, and failed restoration bid through Wang Li turn Wang Mang's accusation into a fatal palace-scandal case.
+- [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose isolated restoration effort through Chunyu Zhang becomes a fatal liability in the court case.
 - [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose jealousy toward Zhang Yu is de-escalated before his later recommendation helps Wang Mang succeed him as Da Sima.
 - [翟方进 / Zhai Fangjin (Western Han)](entities/ZhaiFangjinWesternHan.md) — Western Han chancellor linked to the Chengdi-era刺史-to-州牧 reform and later coerced suicide after 荧惑守心.
 - [胡长 / Hu Chang (Western Han)](entities/HuChangWesternHan.md) — Western Han classics figure whose jealousy of Zhai Fangjin is de-escalated by Zhai's visible scholarly respect.
@@ -11904,6 +11905,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [沉没成本困局 / Sunk Cost Entrapment](concepts/SunkCostEntrapment.md) — Decision trap in which prior investment makes exit from a losing relationship or strategy feel costlier than continued loss.
 - [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
 - [Disaster-Omen Interpretive Skepticism / 灾异解释怀疑](concepts/DisasterOmenInterpretiveSkepticism.md) — Court-speech pattern resisting shallow disaster readings that turn anomalies into immediate factional blame.
 - [Regional eSIM Constraint](concepts/RegionalESIMConstraint.md) — smartphone purchase friction when eSIM-only hardware meets region-specific carrier and regulatory support.

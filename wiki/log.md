@@ -17599,3 +17599,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？
+
+Added source. Key claims: Chunyu Zhang's pre-fall power rests on outer-relative identity, Chengdi access, bribery networks, and exploitation of Empress Xu through false restoration promises; Empress Xu's continued payments are read through sunk-cost entrapment and cold-palace isolation; Wang Mang's monitoring sets up Hanji 557's sickbed accusation. Updated Chunyu Zhang and Empress Xu; created Sunk Cost Entrapment. No settled contradiction found.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
