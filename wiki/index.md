@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？](sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto.md) — 芮淇讲透资治通鉴 episode on Duan Huizong's small-force punishment of Fanqiu in Wusun, Han precedent-backed deterrence, Kangju protocol disputes, and Liu Xiang's Minshan disaster omen.
 - [500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌](sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2.md) — 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦》, Jinjiang/Chendai shoe clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning divergence, inventory reform, and sportswear multi-brand strategy.
 - [《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？](sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id.md) — 芮淇讲透资治通鉴 episode on Chunyu Zhang's access-based rise, bribery, exploitation of Empress Xu through restoration promises, sunk-cost entrapment, and Wang Mang's coming attack.
 - [《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望](sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn.md) — 芮淇讲透资治通鉴 episode on Wang Gen's reputation-driven Xiongnu land probe, Xiahou Fan's mishandled imperial claim, Wuzhuliu Chanyu's refusal, and "知足知止" as desire-capacity restraint.
@@ -2205,6 +2206,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
+- [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
+- [康居 / Kangju](entities/Kangju.md) — Western Regions/Central Asian polity whose prince-hostage mission and protocol disputes test Han engagement versus status defense.
+- [末振将 / Mozhenjiang](entities/MozhenjiangWusun.md) — Wusun small kunmi installed with Han backing who destabilizes the two-kunmi balance by killing the large kunmi Cilim.
+- [番丘 / Fanqiu](entities/FanqiuWusun.md) — Mozhenjiang's son and punitive target killed by Duan Huizong in Hanji 550.
+- [安犁靡 / Anlimi](entities/AnlimiWusun.md) — Wusun small kunmi whose armed encirclement of Duan Huizong ends after a threat-and-face-saving exchange.
 - [Chendai Town / 陈埭镇](entities/ChendaiTown.md) — Jinjiang footwear-cluster town shaped by diaspora resources, clan trust, township enterprise formation, Nike-linked process learning, and later sportswear brands.
 - [Ding Shizhong / 丁世忠](entities/DingShizhong.md) — Anta founder figure whose early Beijing sales experience, partner ethic, retail reform, and portfolio strategy ground the Jinjiang sportswear source.
 - [Fila](entities/Fila.md) — Anta-operated sports-fashion brand used as the source's acquired-brand proof point for separated team, DTC retail, and multi-brand operation.
