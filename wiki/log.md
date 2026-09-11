@@ -17321,6 +17321,10 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！
+
+Added source. Key claims: Zhai Fangjin answers Hu Chang's jealous public belittlement with visible respect for Hu's scholarship; recognition can defuse status-driven hostility when the other side remains capable of shame and reciprocity; the episode links conflict reduction to disciplined speech and caution against rash judgment.
+
 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？
 
@@ -17509,6 +17513,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！
 
 Added source. Key claims: Han Aidi's early Yuefu abolition is framed as a new-leader first-move authority signal; disciplined first moves need target fit, justification, manageable resistance, and public-cost awareness; prestige-driven image projects can become face-project governance.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
