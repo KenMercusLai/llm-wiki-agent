@@ -2044,6 +2044,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》553丨职场中如何识别明升暗降？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Updated Wang Gen, He Wu, Han Chengdi, and Office Sequence Power Reallocation with the Three Excellencies restoration, Wang Gen's Da Sima formalization, and the "明升暗降" title-resource swap reading. No settled contradiction found; the full Three Excellencies institutional history, Kong Ji genealogy, and Liu Xing death context remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Zhang Yu's de-escalation of Wang Gen's jealousy before Hanji 549. Created Jealousy De-escalation by Rival Protection and Disaster-Omen Interpretive Skepticism; updated Wang Gen, Zhang Yu, and Omen Skepticism Remonstrance. No settled contradiction found; Zhang Yu's 张瑜/张禹 character form and the illustrative Cao Pi/Cao Zhi and Zhou Yu/Zhuge Liang examples remain source-scoped.
@@ -17623,6 +17627,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
