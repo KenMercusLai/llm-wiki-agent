@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》540丨太后的葬礼](sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd.md) — 芮淇讲透资治通鉴 episode on Qiongcheng Taihou's rushed funeral, Xue Xuan's dismissal, Zhai Fangjin's promotion after punishment, and Kong Guang's palace-information discipline.
 - [How to Overcome Social Anxiety | Dr. Nick Epley](sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132.md) — Huberman Lab episode with Nick Epley on social connection, mind reading, voice, strangers, social anxiety, adoption, Down syndrome, and everyday habits that test pessimistic social forecasts.
 - [《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？](sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto.md) — 芮淇讲透资治通鉴 episode on Duan Huizong's small-force punishment of Fanqiu in Wusun, Han precedent-backed deterrence, Kangju protocol disputes, and Liu Xiang's Minshan disaster omen.
 - [500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌](sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2.md) — 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦》, Jinjiang/Chendai shoe clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning divergence, inventory reform, and sportswear multi-brand strategy.
@@ -2211,6 +2212,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
+- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
+- [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han chancellor dismissed after Qiongcheng Taihou's rushed funeral.
 - [Nick Epley](entities/NickEpley.md) — Behavioral scientist and Huberman Lab guest explaining social connection, mind perception, voice, social misprediction, social anxiety exposure, and family personhood beyond diagnosis.
 - [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
 - [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
@@ -11935,6 +11939,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [丧葬礼制责任 / Funeral Ritual Accountability](concepts/FuneralRitualAccountability.md) — pattern where royal funeral handling becomes a test of office duty, ritual respect, public resources, and dynastic memory.
+- [宫廷信息纪律 / Palace Information Discipline](concepts/PalaceInformationDiscipline.md) — pattern where officials treat even small palace details as politically sensitive access information.
 - [Everyday Social Connection](concepts/EverydaySocialConnection.md) — Small repeated greetings, compliments, questions, and conversations as low-pressure well-being practice.
 - [Social Misprediction](concepts/SocialMisprediction.md) — Error pattern where people misforecast others' interest, warmth, intelligence, or willingness to help.
 - [Voice Humanization](concepts/VoiceHumanization.md) — Communication frame where hearing voice makes active thought and personhood more perceptible than text alone.

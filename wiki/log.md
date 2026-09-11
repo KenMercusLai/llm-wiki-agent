@@ -17644,6 +17644,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》540丨太后的葬礼
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 2 / 15 BCE under Han Chengdi. Created Qiongcheng Taihou, Xue Xuan, Xu Pingjun, Funeral Ritual Accountability, and Palace Information Discipline; updated Han Chengdi, Zhai Fangjin, Kong Guang, overview, and index. No settled contradiction found; the transcript's 穷城/邛成 wording, Xue Xuan's full legal record, Zhai Fangjin's private motive, Kong Guang's full early career, and the closing Yongcheng-sacrifice notice remain source-scoped.
+
 ## [2026-09-12] ingest | 671. The First World War: Blood in the Trenches (Part 1)
 
 Added The Rest Is History source page for the opening 1915 Western Front episode. Created Western Front (First World War), Trench Life on the Western Front, Shell Shock, First World War Gas Warfare, Battle of Loos, Robert Graves, Ernst Junger, Rudyard Kipling, and John Kipling; updated First World War and The Rest Is History. No settled contradiction found; casualty rates, national comparisons, gas effectiveness, and Kipling-family details remain source-scoped.
@@ -17651,6 +17655,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

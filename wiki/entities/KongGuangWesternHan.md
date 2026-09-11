@@ -13,14 +13,17 @@ sources:
   - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
   - zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2
   - zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-孔光 / Kong Guang is synthesized as a Western Han senior official whose late-career posture shows formal authority repeatedly serving harder power and whose "worthy official" image is qualified by elite retaliation. [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] now supplies the original succession scene behind his later vulnerability: Kong Guang uses his Yushi Dafu office, Confucius-descendant prestige, and [[Shangshu|《尚书》]] precedent to oppose [[HanChengdi|汉成帝]]'s Dingtao-line heir choice. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] then shows that earlier dissent becoming an Aidi-era liability after Kong Guang collides with [[FuTaihouWesternHan|傅太后]]'s status politics and [[ZhuBoWesternHan|朱博]] helps push him out of office and marquis rank. Hanji 594 adds an advice-filtering layer: after [[DuYeWesternHan|杜邺]]'s sharper omen memorial, [[HanAidi|汉哀帝]] later summons Kong Guang about another solar eclipse and promotes him, which the source reads as Aidi finding counsel he preferred. Hanji 598 adds the pre-Wang-Mang punitive layer: Kong Guang appears among officials who support sending [[WangJiaWesternHan|王嘉]] to Tingwei custody. Hanji 599 shows Aidi restoring Kong Guang after Wang Jia's death, but also portrays Kong Guang as implicated in the punishment of [[BaoXuanWesternHan|鲍宣]] after Bao enforces road rules against his entourage.
+孔光 / Kong Guang is synthesized as a Western Han senior official whose late-career posture shows formal authority repeatedly serving harder power and whose "worthy official" image is qualified by elite retaliation. [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] now supplies his earlier palace-information profile: Kong Guang is promoted to Yushi Dafu after [[QiongchengTaihouWesternHan|邛成太后]]'s funeral case and is characterized by precedent fluency, extreme secrecy, and reluctance to press rejected advice. [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] supplies the original succession scene behind his later vulnerability: Kong Guang uses his Yushi Dafu office, Confucius-descendant prestige, and [[Shangshu|《尚书》]] precedent to oppose [[HanChengdi|汉成帝]]'s Dingtao-line heir choice. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] then shows that earlier dissent becoming an Aidi-era liability after Kong Guang collides with [[FuTaihouWesternHan|傅太后]]'s status politics and [[ZhuBoWesternHan|朱博]] helps push him out of office and marquis rank. Hanji 594 adds an advice-filtering layer: after [[DuYeWesternHan|杜邺]]'s sharper omen memorial, [[HanAidi|汉哀帝]] later summons Kong Guang about another solar eclipse and promotes him, which the source reads as Aidi finding counsel he preferred. Hanji 598 adds the pre-Wang-Mang punitive layer: Kong Guang appears among officials who support sending [[WangJiaWesternHan|王嘉]] to Tingwei custody. Hanji 599 shows Aidi restoring Kong Guang after Wang Jia's death, but also portrays Kong Guang as implicated in the punishment of [[BaoXuanWesternHan|鲍宣]] after Bao enforces road rules against his entourage.
 
 ## Current Profile
+
+Hanji 540 gives Kong Guang his earliest current role. Chengdi promotes him from Guanglu Xun to Yushi Dafu after the Qiongcheng Taihou funeral accountability case. The episode emphasizes why he is usable in court: he knows precedent, answers by law and classics when asked, avoids arguing after rejection, destroys drafts after speaking, hides his role in recommendations, and refuses to discuss palace details even with relatives.
 
 Hanji 552 places Kong Guang at the late-Chengdi succession meeting itself. When most summoned senior officials support the Dingtao king, Kong Guang argues from kinship proximity and Shangshu-linked precedent that the Zhongshan king, Chengdi's younger brother, should be preferred. The episode treats the argument in two layers: it is a defensible ritual-classical dissent by a Confucian lineage figure, and it may also be a self-protective way to step back from a dangerous succession issue. Chengdi rejects the advice and later moves Kong Guang from Yushi Dafu to Tingwei, which the host reads as apparent demotion but possible risk reduction.
 
@@ -38,7 +41,7 @@ Hanji 621 says Kong Guang later has already tried unsuccessfully to resign, and 
 
 ## Key Characteristics
 
-- Western Han senior official active across the late-Chengdi, Aidi, and Wang-Mang transition, with Shangshu-backed succession dissent later becoming Aidi-era exposure.
+- Western Han senior official active across the late-Chengdi, Aidi, and Wang-Mang transition, with early palace-information discipline and Shangshu-backed succession dissent later becoming Aidi-era exposure.
 - Eclipse consultant rewarded by Aidi after Du Ye's harsher disaster-framed memorial.
 - Earlier participant in Wang Jia's Tingwei transfer, then restored after Wang Jia's death as Yushi Dafu and chancellor.
 - "Worthy official" whose later treatment of Bao Xuan qualifies that label.
@@ -48,6 +51,8 @@ Hanji 621 says Kong Guang later has already tried unsuccessfully to resign, and 
 
 ## Evidence
 
+- Early Yushi Dafu promotion: [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Chengdi promotes Kong Guang from Guanglu Xun to Yushi Dafu after the Qiongcheng Taihou funeral case.
+- Palace information discipline: [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Kong Guang destroys drafts, avoids advertising advice, keeps recommendations hidden, and refuses household questions about palace details.
 - Original succession dissent: [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] says Kong Guang opposes the majority preference for the Dingtao king and argues for the Zhongshan king from kinship and classical precedent.
 - Classical authority: [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] says Kong Guang's status as Yushi Dafu and a descendant of Confucius makes his Shangshu-based dissent difficult to dismiss as ordinary factional speech.
 - Transfer after dissent: [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] says Chengdi rejects Kong Guang's advice and later transfers him from Yushi Dafu to Tingwei.
@@ -68,17 +73,20 @@ Hanji 621 says Kong Guang later has already tried unsuccessfully to resign, and 
 
 ## Qualifications
 
-The sources do not provide Kong Guang's full earlier career or a direct statement of his private motives. Hanji 552 supports the succession-meeting dissent, classical-argument frame, and later transfer, but the source's reading that he may have been creating a safe exit from the succession issue remains interpretive rather than a preserved self-explanation. Hanji 578 supports his earlier fall, succession-exposure frame, and Fu-side conflict but not the exact wording of his prior advice or the full legal process behind the removal. Hanji 594 preserves neither Kong's actual eclipse answer nor Aidi's explicit reason for rewarding him, so the "answer Aidi wanted" reading remains the source's inference. Hanji 598 supports his role in Wang Jia's Tingwei transfer but not his full reasoning. Hanji 599 supports both his restoration and the Bao Xuan qualification, but the legal details of Bao Xuan's punishment and Kong Guang's exact role remain source-scoped. Hanji 605 supports the drafted-accusation channel and Zhen Han's intermediary role, but Kong Guang's degree of awareness in each case remains source-scoped. Hanji 606 supports his Wang Li impeachment role and the episode's puppet-like interpretation. Hanji 621 supports fear, illness-based withdrawal, and reduced attendance. Hanji 624 supports death, funeral scale, and succession by Ma Gong.
+The sources do not provide Kong Guang's full earlier career or a direct statement of his private motives. Hanji 540 supports his palace-information discipline, promotion to Yushi Dafu, and non-confrontational conduct, but not a complete career theory. Hanji 552 supports the succession-meeting dissent, classical-argument frame, and later transfer, but the source's reading that he may have been creating a safe exit from the succession issue remains interpretive rather than a preserved self-explanation. Hanji 578 supports his earlier fall, succession-exposure frame, and Fu-side conflict but not the exact wording of his prior advice or the full legal process behind the removal. Hanji 594 preserves neither Kong's actual eclipse answer nor Aidi's explicit reason for rewarding him, so the "answer Aidi wanted" reading remains the source's inference. Hanji 598 supports his role in Wang Jia's Tingwei transfer but not his full reasoning. Hanji 599 supports both his restoration and the Bao Xuan qualification, but the legal details of Bao Xuan's punishment and Kong Guang's exact role remain source-scoped. Hanji 605 supports the drafted-accusation channel and Zhen Han's intermediary role, but Kong Guang's degree of awareness in each case remains source-scoped. Hanji 606 supports his Wang Li impeachment role and the episode's puppet-like interpretation. Hanji 621 supports fear, illness-based withdrawal, and reduced attendance. Hanji 624 supports death, funeral scale, and succession by Ma Gong.
 
 ## What Changed
 
 - Added Hanji 552's original succession-meeting scene: Kong Guang's Shangshu-backed dissent against Chengdi's Dingtao-line heir choice and his later Yushi Dafu-to-Tingwei transfer.
+- Added Hanji 540's earlier promotion and secrecy profile: Kong Guang's court value rests on precedent fluency, discretion, hidden recommendations, and refusal to leak palace detail.
 - Reframed Hanji 578's Aidi-era fall as later exposure from an already visible Chengdi succession position, not only a retrospective notice.
 - Preserved the Bao Xuan countercase as a qualification on the simple "worthy official" label.
 
 ## Relationships
 
 - [[HanChengdi|汉成帝]] - earlier ruler whose heir-selection decision becomes part of Kong Guang's later vulnerability.
+- [[PalaceInformationDiscipline|宫廷信息纪律]] - concept grounded by Kong Guang's secrecy and draft-control habits.
+- [[QiongchengTaihouWesternHan|邛成太后]] - funeral case context after which Kong Guang is promoted.
 - [[Shangshu|《尚书》]] - classical authority Kong Guang uses in Hanji 552's succession argument.
 - [[FuTaihouWesternHan|傅太后]] - dowager figure whose factional field helps expose Kong Guang.
 - [[ZhuBoWesternHan|朱博]] - official who attacks Kong Guang during the Jianping 2 personnel reset.
