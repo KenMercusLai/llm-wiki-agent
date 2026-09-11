@@ -2044,6 +2044,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Zhang Yu's de-escalation of Wang Gen's jealousy before Hanji 549. Created Jealousy De-escalation by Rival Protection and Disaster-Omen Interpretive Skepticism; updated Wang Gen, Zhang Yu, and Omen Skepticism Remonstrance. No settled contradiction found; Zhang Yu's 张瑜/张禹 character form and the illustrative Cao Pi/Cao Zhi and Zhou Yu/Zhuge Liang examples remain source-scoped.
+
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
@@ -17572,6 +17576,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》552丨通透人性的人，职场平步青云
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Gu Yong (Western Han); updated Kong Guang, Han Chengdi, and Shangshu with the Dingtao-line succession meeting, Kong Guang's Shangshu-backed dissent, and the source's "demotion as exit" reading. No settled contradiction found; the source transcript's "古勇" and "定逃王" forms are normalized to 谷永 and 定陶王刘欣 / Han Aidi with source-scoped caution.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

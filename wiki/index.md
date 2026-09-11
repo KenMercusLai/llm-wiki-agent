@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！](sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf.md) — 芮淇讲透资治通鉴 episode on Zhang Yu defusing Wang Gen's jealousy, disaster-omen skepticism, and turning workplace envy from factional hostility toward self-awareness.
 - [《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？](sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si.md) — 芮淇讲透资治通鉴 episode on Zhu Yun's broken-balustrade remonstrance, Zhang Yu as the named target, Xin Qingji's intercession, and Chengdi's preserved-railing clemency.
 - [《资治通鉴·汉纪》552丨通透人性的人，职场平步青云](sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw.md) — 芮淇讲透资治通鉴 episode on Gu Yong's patronage stigma, Chengdi's Dingtao-line heir decision, Kong Guang's Shangshu-backed dissent, and demotion as possible succession-risk exit.
 - [《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量](sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx.md) — 芮淇讲透资治通鉴 episode on Wang Mang's sickbed accusation against Chunyu Zhang, Chunyu's failed restoration bid through Wang Li, Empress Xu's poisoning, and Zhai Fangjin's widened cleanup.
@@ -2221,7 +2222,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
 - [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose failed attempt to regain office through Wang Li turns Wang Mang's accusation into a fatal palace-scandal case.
 - [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose cold-palace survival ends after Chunyu Zhang's confession makes her a liability in the court case.
-- [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose recommendation helps Wang Mang succeed him as Da Sima in 8 BCE.
+- [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose jealousy toward Zhang Yu is de-escalated before his later recommendation helps Wang Mang succeed him as Da Sima.
 - [翟方进 / Zhai Fangjin (Western Han)](entities/ZhaiFangjinWesternHan.md) — Western Han chancellor linked to the Chengdi-era刺史-to-州牧 reform and later coerced suicide after 荧惑守心.
 - [胡长 / Hu Chang (Western Han)](entities/HuChangWesternHan.md) — Western Han classics figure whose jealousy of Zhai Fangjin is de-escalated by Zhai's visible scholarly respect.
 - [刘歆 / Liu Xin (Western Han)](entities/LiuXinWesternHan.md) — Western Han scholar-official who completes Liu Xiang's collation project and compiles Qilue.
@@ -2427,7 +2428,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
 - [Zhu Yun / 朱云 (Western Han)](entities/ZhuYunWesternHan.md) — Former Huaili magistrate whose broken-balustrade remonstrance makes death-facing direct speech a Chengdi-era precedent.
-- [Zhang Yu / 张瑜 (Western Han)](entities/ZhangYuWesternHan.md) — Han Chengdi's teacher and the protected target named in Zhu Yun's Hanji 549 accusation.
+- [Zhang Yu / 张瑜 (Western Han)](entities/ZhangYuWesternHan.md) — Han Chengdi's teacher who defuses Wang Gen's resentment in Hanji 548 and later becomes the protected target named in Zhu Yun's Hanji 549 accusation.
 - [Xin Qingji / 辛庆忌](entities/XinQingjiWesternHan.md) — Western Han left general who saves Zhu Yun through bloody intercession and carries frontier prestige.
 - [范生 / Fan Sheng (Xin official)](entities/FanShengXinOfficial.md) — Late-Xin official whose indirect petition diagnoses domestic grievance while failing to reach policy effect.
 - [韩伯 / Han Bo (Xin official)](entities/HanBoXinOfficial.md) — Late-Xin official whose giant-prodigy satire against Wang Mang is decoded and punished lethally.
@@ -11893,6 +11894,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
+- [Disaster-Omen Interpretive Skepticism / 灾异解释怀疑](concepts/DisasterOmenInterpretiveSkepticism.md) — Court-speech pattern resisting shallow disaster readings that turn anomalies into immediate factional blame.
 - [Regional eSIM Constraint](concepts/RegionalESIMConstraint.md) — smartphone purchase friction when eSIM-only hardware meets region-specific carrier and regulatory support.
 - [Foldable App Adaptation](concepts/FoldableAppAdaptation.md) — software and layout work needed for apps to feel native across folded and unfolded phone states.
 - [Photo Capture Provenance](concepts/PhotoCaptureProvenance.md) — device-side proof that an image was captured by a real camera rather than generated by AI.
