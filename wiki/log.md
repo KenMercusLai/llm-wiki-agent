@@ -17553,3 +17553,11 @@ Added Marketplace Tech source on mainstreamed AI-doom concern, independent incid
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yuanyan 1 / 12 BCE under Han Chengdi. Created Zhu Yun, Zhang Yu, and Xin Qingji pages; updated Han Chengdi with the broken-balustrade direct-speech clemency layer. No settled contradiction found; the episode supports Chengdi's remonstrance-tolerance precedent while remaining qualified by later Zhai Fangjin responsibility-evasion material.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

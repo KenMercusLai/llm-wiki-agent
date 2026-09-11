@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？](sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si.md) — 芮淇讲透资治通鉴 episode on Zhu Yun's broken-balustrade remonstrance, Zhang Yu as the named target, Xin Qingji's intercession, and Chengdi's preserved-railing clemency.
 - [《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量](sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx.md) — 芮淇讲透资治通鉴 episode on Wang Mang's sickbed accusation against Chunyu Zhang, Chunyu's failed restoration bid through Wang Li, Empress Xu's poisoning, and Zhai Fangjin's widened cleanup.
 - [VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差](sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb.md) — 这病说来话长 episode comparing Australian and Chinese healthcare through public/private access, emergency triage, imaging waits, radiographer responsibility, and report-communication boundaries.
 - [免费的权威，付费的体验](sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4.md) — 读报teleread episode connecting modern romance difficulty, premium cinema experience, and digital epistemic authority through the shared burden of individual judgment and trust allocation.
@@ -2418,8 +2419,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
 - [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer used in Hanji 654 as Yang Xiong's admired literary model and comparison point.
+- [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
+- [Zhu Yun / 朱云 (Western Han)](entities/ZhuYunWesternHan.md) — Former Huaili magistrate whose broken-balustrade remonstrance makes death-facing direct speech a Chengdi-era precedent.
+- [Zhang Yu / 张瑜 (Western Han)](entities/ZhangYuWesternHan.md) — Han Chengdi's teacher and the protected target named in Zhu Yun's Hanji 549 accusation.
+- [Xin Qingji / 辛庆忌](entities/XinQingjiWesternHan.md) — Western Han left general who saves Zhu Yun through bloody intercession and carries frontier prestige.
 - [范生 / Fan Sheng (Xin official)](entities/FanShengXinOfficial.md) — Late-Xin official whose indirect petition diagnoses domestic grievance while failing to reach policy effect.
 - [韩伯 / Han Bo (Xin official)](entities/HanBoXinOfficial.md) — Late-Xin official whose giant-prodigy satire against Wang Mang is decoded and punished lethally.
 - [稻草人旅行 / Daocaoren Travel](entities/DaocaorenTravel.md) — Small-group travel operator discussed through route development, leader matching, National Day capacity, and holiday backup systems.

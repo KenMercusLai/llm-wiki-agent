@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-11
-as_of_overview_commit: e17050be33fef52a3ad7147c7f6657ffafb83cf7
+as_of_overview_commit: b40b005b0cd931fcef54fbd63bbb695aeec31312
 summary: "Compact synthesis of podcast evidence across AI, markets, institutions, culture, history, health, psychology, and work."
-episode_count: 2188
-source_count: 2188
+episode_count: 2190
+source_count: 2190
 paragraph_count: 610
 topic_count: 8
 ---
