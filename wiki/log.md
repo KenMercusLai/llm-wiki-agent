@@ -17644,6 +17644,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 3 / 14 BCE under Han Chengdi. Created Mei Fu, Wang Feng, Wang Zhang, and Institutional Loyalty Over Personal Loyalty; updated Han Chengdi, Receptive Remonstrance Governance, Outer-Relative Preventive Restraint, overview, and index. No settled contradiction found; Su Ling, Yan Xin, the full Shanyang revolt, Wang Feng's full power base, and the exact text of Mei Fu's memorial remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》540丨太后的葬礼
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 2 / 15 BCE under Han Chengdi. Created Qiongcheng Taihou, Xue Xuan, Xu Pingjun, Funeral Ritual Accountability, and Palace Information Discipline; updated Han Chengdi, Zhai Fangjin, Kong Guang, overview, and index. No settled contradiction found; the transcript's 穷城/邛成 wording, Xue Xuan's full legal record, Zhai Fangjin's private motive, Kong Guang's full early career, and the closing Yongcheng-sacrifice notice remain source-scoped.
@@ -17655,6 +17659,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
