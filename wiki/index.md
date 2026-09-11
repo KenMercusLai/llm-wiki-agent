@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Overcome Social Anxiety | Dr. Nick Epley](sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132.md) — Huberman Lab episode with Nick Epley on social connection, mind reading, voice, strangers, social anxiety, adoption, Down syndrome, and everyday habits that test pessimistic social forecasts.
 - [《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？](sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto.md) — 芮淇讲透资治通鉴 episode on Duan Huizong's small-force punishment of Fanqiu in Wusun, Han precedent-backed deterrence, Kangju protocol disputes, and Liu Xiang's Minshan disaster omen.
 - [500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌](sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2.md) — 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦》, Jinjiang/Chendai shoe clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning divergence, inventory reform, and sportswear multi-brand strategy.
 - [《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？](sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id.md) — 芮淇讲透资治通鉴 episode on Chunyu Zhang's access-based rise, bribery, exploitation of Empress Xu through restoration promises, sunk-cost entrapment, and Wang Mang's coming attack.
@@ -2209,6 +2210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Nick Epley](entities/NickEpley.md) — Behavioral scientist and Huberman Lab guest explaining social connection, mind perception, voice, social misprediction, social anxiety exposure, and family personhood beyond diagnosis.
 - [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
 - [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
 - [康居 / Kangju](entities/Kangju.md) — Western Regions/Central Asian polity whose prince-hostage mission and protocol disputes test Han engagement versus status defense.
@@ -11926,6 +11928,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Everyday Social Connection](concepts/EverydaySocialConnection.md) — Small repeated greetings, compliments, questions, and conversations as low-pressure well-being practice.
+- [Social Misprediction](concepts/SocialMisprediction.md) — Error pattern where people misforecast others' interest, warmth, intelligence, or willingness to help.
+- [Voice Humanization](concepts/VoiceHumanization.md) — Communication frame where hearing voice makes active thought and personhood more perceptible than text alone.
+- [Real Exposure for Social Anxiety](concepts/RealExposureSocialAnxiety.md) — Social-anxiety practice frame where safe real interaction updates false rejection forecasts.
+- [Diagnosis Personhood Boundary](concepts/DiagnosisPersonhoodBoundary.md) — Disability and parenting caution against letting diagnosis replace attention to the actual person.
 - [Jinjiang Model / 晋江模式](concepts/JinjiangModel.md) — Reform-era regional industrial pattern mixing diaspora resources, kinship finance, township enterprise forms, local tolerance, subcontracting learning, and sportswear branding.
 - [Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资](concepts/KinshipBasedTownshipEnterpriseFinance.md) — Early enterprise-finance mechanism where relatives, villagers, clan networks, and acquaintance trust pool capital, labor, space, and risk.
 - [Sportswear Multi-Brand Portfolio / 运动品牌集团化组合](concepts/SportswearMultiBrandPortfolio.md) — Sportswear strategy of operating distinct mass, fashion, running, outdoor, and lifestyle brands while sharing selected group back-end capabilities.
