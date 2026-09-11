@@ -17334,6 +17334,10 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | Out-numbered: AI's contentious maths milestone
+
+Added The Intelligence source on OpenAI's contested Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy. Created Sam Beale, Tristan Buckmaster, Le Van Elgindi, Guo Lanying, The White-Haired Girl, My Motherland, AI-Generated Proof Governance, Post-9/11 Counterterrorism Architecture, Counterterrorism Powers Repurposing, Revolutionary Opera Cultural Memory, and People's Artist State Honor; updated AI For Math, AI Mathematician, and Navier-Stokes Equations. No settled contradiction found; the claimed proof, priority dispute, agent-swarm details, terrorism-law examples, and Guo biographical details remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！
 
 Added source. Key claims: Zhai Fangjin answers Hu Chang's jealous public belittlement with visible respect for Hu's scholarship; recognition can defuse status-driven hostility when the other side remains capable of shame and reciprocity; the episode links conflict reduction to disciplined speech and caution against rash judgment.
@@ -17576,6 +17580,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》552丨通透人性的人，职场平步青云
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Gu Yong (Western Han); updated Kong Guang, Han Chengdi, and Shangshu with the Dingtao-line succession meeting, Kong Guang's Shangshu-backed dissent, and the source's "demotion as exit" reading. No settled contradiction found; the source transcript's "古勇" and "定逃王" forms are normalized to 谷永 and 定陶王刘欣 / Han Aidi with source-scoped caution.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

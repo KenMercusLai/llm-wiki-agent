@@ -2199,6 +2199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
+- [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
@@ -11892,6 +11893,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sage Ox](entities/SageOx.md) — Source-scoped company or product that turns team meeting recordings into agent-usable memory.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
+- [Sam Beale](entities/SamBeale.md) — The Intelligence correspondent explaining post-9/11 counterterrorism powers and reform pressure.
+- [Tristan Buckmaster](entities/TristanBuckmaster.md) — Mathematician named in the Navier-Stokes priority dispute around OpenAI's claimed AI-generated result.
+- [Le Van Elgindi](entities/LeVanElgindi.md) — Anthropic-linked mathematician named in the episode's Navier-Stokes overlap and attribution dispute.
+- [Guo Lanying](entities/GuoLanying.md) — Chinese opera singer whose legacy connects revolutionary opera, "My Motherland," and state cultural honor.
+- [The White-Haired Girl](entities/TheWhiteHairedGirl.md) — Revolutionary opera central to Guo Lanying's artistic and political identity in the source.
+- [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
 - [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
@@ -18942,5 +18949,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creatine Monohydrate Evidence](concepts/CreatineMonohydrateEvidence.md) — Supplement-evidence frame for creatine monohydrate, dosing, healthy-person safety, tolerance, and cost hierarchy.
 - [Agent Command Center](concepts/AgentCommandCenter.md) — Agent-first coding interface where sessions, instructions, diffs, and review loops replace file-tree-first navigation as the primary surface.
 - [Team Agent Memory](concepts/TeamAgentMemory.md) — Shared memory layer for teams whose humans and agents need access to decisions, meetings, repositories, and coworker-agent context.
+- [AI-Generated Proof Governance](concepts/AIGeneratedProofGovernance.md) — Acceptance, explanation, priority, and authorship problem for AI-produced mathematical proofs.
+- [Post-9/11 Counterterrorism Architecture](concepts/Post911CounterterrorismArchitecture.md) — Durable U.S. security, surveillance, war-power, and financing-law system created after 9/11.
+- [Counterterrorism Powers Repurposing](concepts/CounterterrorismPowersRepurposing.md) — Risk that terrorism-law tools are applied to new criminal, political, or domestic targets.
+- [Revolutionary Opera Cultural Memory](concepts/RevolutionaryOperaCulturalMemory.md) — How revolutionary performance and songs preserve political memory through artistic biography.
+- [People's Artist State Honor](concepts/PeopleArtistStateHonor.md) — State-honor frame for turning a performer into an official cultural symbol.
 
 ## Syntheses
