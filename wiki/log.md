@@ -17558,6 +17558,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yuanyan 1 / 12 BCE under Han Chengdi. Created Zhu Yun, Zhang Yu, and Xin Qingji pages; updated Han Chengdi with the broken-balustrade direct-speech clemency layer. No settled contradiction found; the episode supports Chengdi's remonstrance-tolerance precedent while remaining qualified by later Zhai Fangjin responsibility-evasion material.
 
+## [2026-09-11] ingest | Vol. 174 iPhone Duo买不买？苹果26秋季发布会
+
+Added Fengyan Fengyu source on Apple's 2026 fall event, iPhone Duo, foldable app adaptation, eSIM regional constraints, photo capture provenance, AirPods live translation, and Apple Watch health insights. Created iPhone Duo, Regional eSIM Constraint, Foldable App Adaptation, Photo Capture Provenance, and Wearable Health Insight pages. No settled contradiction found; specs, prices, eSIM rules, benchmark scores, and feature naming remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
