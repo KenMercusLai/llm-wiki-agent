@@ -17632,6 +17632,14 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Liu Xin's post-designation crown-prince status under Han Chengdi. Created Yan Cong; updated Zhao Xuan, Ding Ji, and Adoptive Lineage Ritual Politics with the thank-you memorial, birth-line severance, and Fu Taihou/Ding Ji access distinction. No settled contradiction found; Liu Jing, Yan Cong's full career, Zhao Xuan's office sequence, and the exact memorial wording remain source-scoped.
+
 ## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
