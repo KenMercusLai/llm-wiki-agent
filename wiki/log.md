@@ -17622,3 +17622,8 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
