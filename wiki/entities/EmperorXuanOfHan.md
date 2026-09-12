@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
   - zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt
   - zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292
+  - zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-Emperor Xuan of Han / 汉宣帝 / 刘询 / 刘病已 enters the wiki through [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] as the Western Han ruler whose reign supplies the five-star omen command formula behind [[ZhaoChongguoWesternHan|赵充国]]'s Southern Qiang campaign setting. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds the late Ganlu 3 high-point layer: Xuan protects and provisions [[HuhanyeChanyuWesternHan|呼韩邪单于]], sees broader Western Regions obedience, creates the [[QilinPavilionMeritHonors|麒麟阁功臣荣典]], standardizes parts of Five Classics interpretation, and presides over palace events that introduce [[WangZhengjun|王政君]] and [[HanChengdi|刘骜 / 后来的汉成帝]]. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] adds the broader reign-and-death layer: Xuan is presented as a witchcraft-disaster survivor, prison child, cautious post-Huo-Guang ruler, restorer of Western Han administration, and frontier strategist whose death marks a Western Han turning point.
+Emperor Xuan of Han / 汉宣帝 / 刘询 / 刘病已 enters the wiki through [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] as the Western Han ruler whose reign supplies the five-star omen command formula behind [[ZhaoChongguoWesternHan|赵充国]]'s Southern Qiang campaign setting. [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] adds his Huhanye reception layer: Xuan accepts [[XiaoWangzhiWesternHan|萧望之]]'s guest-rite protocol, reduces domestic burdens through amnesty and poll-tax relief, and stages [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s audience as a major display of Han power. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds the late Ganlu 3 high-point layer: Xuan protects and provisions Huhanye, sees broader Western Regions obedience, creates the [[QilinPavilionMeritHonors|麒麟阁功臣荣典]], standardizes parts of Five Classics interpretation, and presides over palace events that introduce [[WangZhengjun|王政君]] and [[HanChengdi|刘骜 / 后来的汉成帝]]. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] adds the broader reign-and-death layer: Xuan is presented as a witchcraft-disaster survivor, prison child, cautious post-Huo-Guang ruler, restorer of Western Han administration, and frontier strategist whose death marks a Western Han turning point.
 
 ## Current Profile
 
@@ -20,7 +21,7 @@ The current profile has two source layers. Hanji 689-3 is narrow and artifact-li
 
 Hanji 465 broadens the profile from a campaign setting into a reign evaluation. It says Xuan's early life matters to his later rule: rescue by Bing Ji, prison childhood, release under Han Wudi, and time among common people are used to explain why he understands ordinary suffering. After Huo Guang raises him to the throne, Xuan waits cautiously, consolidates after Huo Guang's death, repairs internal administration, disciplines officials, and stabilizes livelihood. The same source credits him with using Xiongnu internal division, supporting the submitted Huhanye side, weakening Zhizhi's position, reducing the Xiongnu threat, incorporating the Western Regions, and establishing the [[WesternRegionsProtectorate|西域都护府]]. His death is therefore framed as a dynastic transition into [[HanYuandi|汉元帝]]'s accession and visible Western Han decline pressure.
 
-Hanji 463 fills the late-reign achievement scene before that death evaluation. Xuan's support for Huhanye is not only ceremonial: the source says Han escorts, protects, and feeds the submitted chanyu, and that Western Regions polities become more obedient after Huhanye's court visit. Xuan then fixes that success into political memory through the Qilin Pavilion portraits and into scholarly administration through court settlement of selected Five Classics interpretations. The same episode also shows the reign's future cost: the entrance of Wang Zhengjun into the crown-prince household and the birth of Liu Ao make Xuan's late court the origin point for later Chengdi and Wang-family politics.
+Hanji 462 and Hanji 463 fill the late-reign achievement scene before that death evaluation. Hanji 462 shows Xuan accepting Xiao Wangzhi's argument that Huhanye should be received above the princes as a guest rather than simply ranked as an internal subject. The resulting audience joins ritual flexibility with spectacle: cavalry line the route, Huhanye receives lavish gifts, and mass crowds at Wei Bridge make submission publicly visible. Hanji 463 then shows that support is not only ceremonial: Han escorts, protects, and feeds the submitted chanyu, and Western Regions polities become more obedient after Huhanye's court visit. Xuan fixes that success into political memory through the Qilin Pavilion portraits and into scholarly administration through court settlement of selected Five Classics interpretations. The same episode also shows the reign's future cost: the entrance of Wang Zhengjun into the crown-prince household and the birth of Liu Ao make Xuan's late court the origin point for later Chengdi and Wang-family politics.
 
 ## Key Characteristics
 
@@ -28,7 +29,7 @@ Hanji 463 fills the late-reign achievement scene before that death evaluation. X
 - Former witchcraft-disaster survivor whose prison and commoner experience is used by Hanji 465 to explain later attention to livelihood.
 - Cautious post-Huo-Guang ruler who consolidates authority before repairing internal governance.
 - Reward-punishment and personnel-assessment ruler praised through Ban Gu's evaluation in Hanji 465.
-- Frontier strategist credited with exploiting Xiongnu division and formalizing Western Regions control.
+- Frontier strategist credited with exploiting Xiongnu division, receiving Huhanye through guest-rite protocol, and formalizing Western Regions control.
 - Late-reign memory maker who turns ministerial service into Qilin Pavilion honor and selected classics interpretation into court orthodoxy.
 - Deathbed and turning-point ruler who entrusts affairs to Shi Gao, Xiao Wangzhi, and Zhou Kan before Han Yuandi's accession opens the Yuan-era decline branch.
 
@@ -47,6 +48,8 @@ Early life and internal rule:
 - [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] invokes Ban Gu's praise that Xuan rewards merit, punishes fault, and assesses whether officials' names match their substance.
 
 Xiongnu, Western Regions, and succession:
+- [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] says Xuan accepts Xiao Wangzhi's protocol and receives Huhanye above the princes while allowing him to call himself subject without giving his personal name.
+- [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] says Xuan sends Han Chang to receive Huhanye, grants lavish material gifts, gathers crowds and rulers at Wei Bridge, and hosts him at Jianzhang Palace.
 - [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Xuan approves Huhanye's request to remain south of the desert, sends escort and protection forces, and supplies grain and dry provisions.
 - [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Western Regions polities from Wusun westward and states near Xiongnu become more obedient to Han command after Huhanye's court visit.
 - [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] says Xuan's court favors Huhanye's envoys over Zhizhi's and describes the Xiongnu as dividing into southern and northern branches.
@@ -60,11 +63,12 @@ Political memory and scholarly standardization:
 
 ## Qualifications
 
-This page is not a full biography of Emperor Xuan. Hanji 689-3 remains narrow to the brocade, omen formula, and Zhao Chongguo campaign interpretation; the brocade's direct relationship to Xuan's court remains interpretive because the source does not prove production date, sender, or recipient. Hanji 463 supplies a compact late-Ganlu scene, not full biographies of all Qilin Pavilion ministers, a full history of Five Classics standardization, or a complete account of Wang Zhengjun's early life. Hanji 465 is a compact reign evaluation and does not reconstruct Xuan's full biography, the Huo-family purge, legal reforms, exact Western Regions administration, or the full original evaluations by Ban Gu and Liu Xiang. Its death-cause claim is deliberately narrow: the episode reports grave illness, entrustment, and death, but not a specific disease or immediate medical cause.
+This page is not a full biography of Emperor Xuan. Hanji 689-3 remains narrow to the brocade, omen formula, and Zhao Chongguo campaign interpretation; the brocade's direct relationship to Xuan's court remains interpretive because the source does not prove production date, sender, or recipient. Hanji 462 supplies a compact Huhanye audience and domestic-notice layer, not full biographies of Xuan's sons, Zhang Lu, Du Yannian, Yu Dingguo, or Zhao Chongguo. Hanji 463 supplies a compact late-Ganlu scene, not full biographies of all Qilin Pavilion ministers, a full history of Five Classics standardization, or a complete account of Wang Zhengjun's early life. Hanji 465 is a compact reign evaluation and does not reconstruct Xuan's full biography, the Huo-family purge, legal reforms, exact Western Regions administration, or the full original evaluations by Ban Gu and Liu Xiang. Its death-cause claim is deliberately narrow: the episode reports grave illness, entrustment, and death, but not a specific disease or immediate medical cause.
 
 ## What Changed
 
 - Added Hanji 465's broader reign-and-death profile to the earlier omen-and-Zhao-Chongguo page.
+- Added Hanji 462's Huhanye reception protocol and spectacle layer to Xuan's frontier-statecraft profile.
 - Added Hanji 463's late-reign achievement layer: Huhanye protection, Western Regions obedience, Qilin Pavilion honors, classics standardization, and Wang Zhengjun/Liu Ao succession setup.
 - Expanded the page from an artifact-linked ruler node into a Western Han turning-point profile while preserving the original Hanji 689-3 evidence.
 
@@ -72,6 +76,7 @@ This page is not a full biography of Emperor Xuan. Hanji 689-3 remains narrow to
 - [[ZhaoChongguoWesternHan]] - commander whose campaign carries the omen formula in Hanji 689-3.
 - [[FiveStarsOutOfTheEastBrocade]] - artifact interpreted through the Emperor Xuan-era formula.
 - [[HuhanyeChanyuWesternHan]] - submitted Xiongnu ruler favored in Xuan's late frontier diplomacy.
+- [[GuestRiteSubmissionDiplomacy]] - protocol pattern Xuan accepts for Huhanye's first Chang'an audience.
 - [[QilinPavilionMeritHonors]] - political-memory honor roll Xuan creates for eleven meritorious ministers.
 - [[ImperialClassicsConsensusBuilding]] - governance pattern extended by Xuan's Five Classics standard-setting scene.
 - [[WangZhengjun]] and [[HanChengdi]] - later dynastic actors whose palace entrance and birth occur under Xuan in Hanji 463.

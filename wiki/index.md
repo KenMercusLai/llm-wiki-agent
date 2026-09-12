@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
 - [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
 - [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主](sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's submission debate, Xieyou Princess's Wusun remarriage crisis, Nimi's failed banquet assassination, and the Chigu City siege setup.
@@ -12227,6 +12228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [宾礼式臣服外交 / Guest-Rite Submission Diplomacy](concepts/GuestRiteSubmissionDiplomacy.md) — Protocol pattern where a strong court receives a submitted foreign ruler with elevated guest rites to display power while preserving diplomatic flexibility.
 - [麒麟阁功臣荣典 / Qilin Pavilion Merit Honors](concepts/QilinPavilionMeritHonors.md) — Western Han political-memory practice where Xuan turns meritorious service into a palace portrait honor roll.
 - [Anticoagulation Self-Medication Boundary / 抗凝自行用药边界](concepts/AnticoagulationSelfMedicationBoundary.md) — Medication-safety boundary distinguishing aspirin, anticoagulation, fibrinolysis, thrombolysis, and clinician-directed prophylaxis.
 - [Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓](concepts/EconomyClassSyndromeTravelThrombosis.md) — Travel-health frame for lower-limb venous thrombosis risk from prolonged immobility, venous stasis, dehydration, and high-risk coagulation contexts.
