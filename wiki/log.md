@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔
+
+Added source note plus synthesis pages for 《西游降魔篇》, Stephen Chow, Chen Xuanzang, Duan Miss, inner-demon symbolic reading, and love-compassion integration. Migrated the relevant Journey to the West, Xuanzang, Sun Wukong, Zhu Bajie, and Sha Wujing pages to synthesis-v1 while adding the film's "一心三藏" symbolic interpretation.
+
 ## [2026-09-13] ingest | Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway
 
 Added Huberman Lab source on Scott Galloway's positive masculinity frame, young men's offline practice, rejection tolerance, digital sexual substitute risk, male mentorship, national service, and intergenerational youth economic burden. No settled contradictions found; alcohol, porn, testosterone, social-media, Big Tech, and policy claims remain source-scoped.
@@ -18603,6 +18607,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
 
 Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

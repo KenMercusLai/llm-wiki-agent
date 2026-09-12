@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
 - [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
 - [《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？](sources/zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb.md) — 芮淇讲透资治通鉴 episode on Zhang Chang, Xu Shun's "five-day Jingzhao" remark, anger-driven legal punishment, Emperor Xuan's dismissal and recall of a flawed but effective official, and talent-virtue judgment.
 - [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
@@ -2329,6 +2330,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [《西游降魔篇》 / Journey to the West: Conquering the Demons](entities/JourneyToTheWestConqueringDemons.md) — Stephen Chow film adaptation read by Hanji 456-4 as a symbolic cultivation story about love, compassion, desire, and heart-demon restraint.
+- [周星驰 / Stephen Chow](entities/StephenChow.md) — Director associated here with 《西游降魔篇》 as tragic-comic Journey-to-the-West adaptation.
+- [陈玄奘（《西游降魔篇》）](entities/ChenXuanzangConqueringDemons.md) — Film protagonist whose universal-love language, romantic evasion, loss, and awakening organize Hanji 456-4's interpretation.
+- [段小姐（《西游降魔篇》）](entities/DuanMissConqueringDemons.md) — Film character whose love, ring, present-tense demand, and death force Chen Xuanzang's compassion test.
 - [Scott Galloway](entities/ScottGalloway.md) — Huberman Lab guest framing masculinity through provision, protection, service, rejection tolerance, platform critique, mentorship, and youth policy.
 - [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat whose mediation helps settle Wujiutu's crisis and whose old-age return supports Xingmi.
 - [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions protector who relieves Chigu City and deploys Feng Liao as mediator in the Wusun crisis.
@@ -12235,6 +12240,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
+- [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
 - [Positive Masculinity Code](concepts/PositiveMasculinityCode.md) — Galloway's source-scoped provider, protector, procreator, service, and surplus-value frame for masculinity as responsibility.
 - [Young Men Offline Practice](concepts/YoungMenOfflinePractice.md) — phone-audit, exercise, outside-work, volunteering, and real-world social exposure bundle for isolated young men.
 - [Rejection Tolerance Practice](concepts/RejectionTolerancePractice.md) — practice of making respectful social and professional approaches where "no" is expected and survivable.
