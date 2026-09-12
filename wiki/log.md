@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？
+
+Added source. Key claims: Han Xuan's Ganlu 3 high point combines Huhanye's protected settlement and provisioning, wider Western Regions obedience, Qilin Pavilion merit honors, selected Five Classics standardization, Xieyou's return and Feng Liao's Wusun mission, and the origin scene for Wang Zhengjun becoming Liu Ao's mother.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？
 
 Added source. Key claims: Han Xuan's death is presented as grave illness, deathbed entrustment, and death at Weiyang Palace rather than a specific medical cause; Huhanye's Han-backed position pressures Zhizhi westward; Xuan's prison-to-emperor biography, administrative repair, Xiongnu policy, and Western Regions achievements frame his death as a Western Han turning point before Han Yuandi's accession.
@@ -18542,6 +18546,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

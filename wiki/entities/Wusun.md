@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a
   - zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto
   - zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv
+  - zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-乌孙 / Wusun is now synthesized as a [[WesternRegionsProtectorate|Western Regions]] polity whose internal succession rules repeatedly turn into Han frontier-management work. [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] adds the earlier [[XieyouPrincessWesternHan|解忧公主]] and [[NimiWusun|狂王泥靡]] crisis, where heqin marriage, succession exclusion, local remarriage custom, assassination, and siege converge. [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] later makes Wusun the direct crisis field for [[DuanHuizongWesternHan|段会宗]]'s punitive mission, while [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] shows Wusun weakness being used inside a Han court threat model about [[Xiongnu|匈奴]].
+乌孙 / Wusun is now synthesized as a [[WesternRegionsProtectorate|Western Regions]] polity whose internal succession rules repeatedly turn into Han frontier-management work. [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] adds the earlier [[XieyouPrincessWesternHan|解忧公主]] and [[NimiWusun|狂王泥靡]] crisis, where heqin marriage, succession exclusion, local remarriage custom, assassination, and siege converge. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds the follow-up: Xieyou returns to Han in old age, while [[FengLiaoWesternHan|冯嫽]] returns to Wusun to help the young Xingmi suppress rebellion and preserve friendly relations. [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] later makes Wusun the direct crisis field for [[DuanHuizongWesternHan|段会宗]]'s punitive mission, while [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] shows Wusun weakness being used inside a Han court threat model about [[Xiongnu|匈奴]].
 
 ## Current Profile
 
 Hanji 460 now supplies the earliest current Wusun layer. After Wengguimi dies, [[XieyouPrincessWesternHan|Xieyou Princess]]'s son Yuanguimi does not inherit. Wusun nobles instead install [[NimiWusun|Nimi]], a ruler tied in the episode to a Xiongnu-consort line and to an older succession instruction. Xieyou is then required to marry Nimi under Wusun custom. The source turns that arrangement into a crisis: Nimi abuses Xieyou, Wusun subjects become disappointed in him, and Xieyou joins Han envoys and dissatisfied Wusun actors in a failed banquet assassination that ends with Chigu City surrounded.
+
+Hanji 463 adds a stabilizing sequel. Xieyou is no longer kept in Wusun; she petitions to return to Han and is brought back to Chang'an. But Wusun succession remains a Han concern after Yuanguimi and Chimi die and Xingmi succeeds while too young to control affairs. Feng Liao's voluntary return, local welcome, and support for Xingmi's rebellion suppression show a softer but still active form of Han-Wusun management through trusted personal networks.
 
 Hanji 550 gives the later large-kunmi/small-kunmi profile. Han authority had earlier split Wusun between large and small kunmi, but that arrangement remains unstable. After the small kunmi Anri is killed, Han Chengdi sends Duan Huizong to install [[MozhenjiangWusun|末振将]] as small kunmi. Mozhenjiang then fears the stronger large kunmi Cilim and has him killed through a feigned-defector plot, turning Han-backed balance into another succession and punishment crisis.
 
@@ -28,6 +31,7 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 - Western Regions polity whose earlier succession custom can override the Han princess line, as Xieyou's son Yuanguimi does not inherit after Wengguimi.
 - Heqin marriage can become local remarriage exposure when a ruler dies and Wusun custom assigns the princess to a new ruler.
+- Trusted frontier intermediaries can remain useful after heqin crisis, as Feng Liao's late mission stabilizes Xingmi.
 - Later structured around a large-kunmi and small-kunmi division that remains unstable.
 - Repeatedly requires Han mediation, installation, and punishment when internal balance breaks.
 - Produces small-force punitive crises and immediate retaliation risk, as Duan Huizong's killing of Fanqiu and Anlimi's encirclement show.
@@ -37,6 +41,8 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 - Heqin succession trap: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says Xieyou's son Yuanguimi does not inherit and Xieyou is required to marry Nimi after Wengguimi's death.
 - Assassination and siege: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says the banquet attack wounds Nimi but fails, after which Nimi's son Xishenshou surrounds Chigu City.
+- Xieyou's return: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Xieyou returns to Chang'an and is received like a true princess.
+- Feng Liao mission: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Feng Liao returns to Wusun in old age, is welcomed, and helps Xingmi pacify rebellion.
 - Split-kunmi structure and intervention: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Han had established large and small kunmi in Wusun and later sends Duan Huizong after small-kunmi succession disorder.
 - Balance failure: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Mozhenjiang fears Cilim and has him killed through Wuriling's feigned surrender.
 - Punitive coercion: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan kills Fanqiu with a small selected party and then survives Anlimi's encirclement.
@@ -46,17 +52,19 @@ Hanji 591-1 adds a later indirect layer. [[XiFuGongWesternHan|息夫躬]] claims
 
 ## Qualifications
 
-This page still does not cover Wusun's full history, geography, or complete Han-Wusun relationship. Hanji 460 grounds the Xieyou-Nimi crisis but does not settle Xieyou's full biography, exact age, Wusun genealogy, or Han authorization for the assassination plot. Hanji 550 grounds the Yuanyan 2 Wusun succession and punishment sequence; Hanji 591-1 grounds the later Aidi-era threat-modeling use. Cilim, Anri, Wuriling, Beiyuanzhi, Yuanguimi, Chigu City, and the full Han princess-marriage context remain source-scoped.
+This page still does not cover Wusun's full history, geography, or complete Han-Wusun relationship. Hanji 460 grounds the Xieyou-Nimi crisis but does not settle Xieyou's full biography, exact age, Wusun genealogy, or Han authorization for the assassination plot. Hanji 463 grounds Xieyou's return and Feng Liao's mission but does not settle Xingmi and Cili Mi's full reigns. Hanji 550 grounds the Yuanyan 2 Wusun succession and punishment sequence; Hanji 591-1 grounds the later Aidi-era threat-modeling use. Cilim, Anri, Wuriling, Beiyuanzhi, Yuanguimi, Chigu City, Xingmi, Cili Mi, and the full Han princess-marriage context remain source-scoped.
 
 ## What Changed
 
 - Added Hanji 460's earlier Xieyou-Nimi layer: heqin succession exclusion, coercive remarriage, failed assassination, and Chigu City siege.
+- Added Hanji 463's stabilizing sequel: Xieyou's return and Feng Liao's late-life mission to support Xingmi.
 - Preserved Hanji 550's direct Wusun crisis layer and Hanji 591-1's later indirect Wusun-Xiongnu threat-modeling branch.
 
 ## Relationships
 
 - [[Xiongnu|匈奴]] - steppe power whose possible Wusun leverage drives the episode's threat model.
 - [[XieyouPrincessWesternHan|解忧公主]] - Han princess whose Wusun marriage becomes a succession and assassination crisis.
+- [[FengLiaoWesternHan|冯嫽]] - trusted Han-Wusun intermediary who returns in old age to stabilize the young ruler.
 - [[NimiWusun|狂王泥靡]] - Wusun ruler installed over Xieyou's son and targeted in the failed assassination.
 - [[HeqinPrincessSuccessionEntrapment|和亲公主继承困局]] - concept grounded by the Xieyou-Nimi case.
 - [[DuanHuizongWesternHan|段会宗]] - Han envoy-commander whose mission makes Wusun the direct crisis field.
