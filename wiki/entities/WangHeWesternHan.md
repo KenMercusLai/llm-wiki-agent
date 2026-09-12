@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Profile
 
-The source profile is genealogical and moral rather than administrative. Hanji 463 says Wang He was ordered to supervise local officials and catch bandits, but unlike harsher officials such as Bao Shengzhi, he spared people when he could. He is dismissed by [[EmperorWuOfHan|汉武帝]] for failing to fulfill the mission properly, yet he later says he saved more than ten thousand lives and therefore expects his descendants to flourish. The host treats that dismissal as paradoxically protective: losing office removes him from harsher killing politics while leaving a family memory of accumulated merit.
+The source profile is genealogical and moral rather than administrative. Hanji 463 says Wang He was ordered to supervise local officials and catch bandits, but unlike harsher officials such as Bao Shengzhi, he spared people when he could. He is dismissed by [[HanWudi|汉武帝]] for failing to fulfill the mission properly, yet he later says he saved more than ten thousand lives and therefore expects his descendants to flourish. The host treats that dismissal as paradoxically protective: losing office removes him from harsher killing politics while leaving a family memory of accumulated merit.
 
 ## Key Characteristics
 

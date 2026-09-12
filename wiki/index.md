@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？](sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm.md) — 芮淇讲透资治通鉴 episode on Yang Yun's fall, Sun Huizong's warning letter, a resentful reply becoming court evidence, Emperor Xuan's severe punishment, and reading history as survival judgment.
 - [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
 - [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
 - [《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？](sources/zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb.md) — 芮淇讲透资治通鉴 episode on Zhang Chang, Xu Shun's "five-day Jingzhao" remark, anger-driven legal punishment, Emperor Xuan's dismissal and recall of a flawed but effective official, and talent-virtue judgment.
@@ -2330,6 +2331,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [杨恽 / Yang Yun](entities/YangYunWesternHan.md) — Western Han official and Sima Qian descendant whose resentful speech and letter after disgrace lead to execution under Emperor Xuan.
+- [孙会宗 / Sun Huizong](entities/SunHuizongWesternHan.md) — Western Han correspondent who warns Yang Yun to perform fear and repentance after disgrace.
+- [杨潭 / Yang Tan](entities/YangTanWesternHan.md) — Yang Yun's nephew and Anping marquis, demoted after warning Yang Yun that future restoration might still be possible.
 - [《西游降魔篇》 / Journey to the West: Conquering the Demons](entities/JourneyToTheWestConqueringDemons.md) — Stephen Chow film adaptation read by Hanji 456-4 as a symbolic cultivation story about love, compassion, desire, and heart-demon restraint.
 - [周星驰 / Stephen Chow](entities/StephenChow.md) — Director associated here with 《西游降魔篇》 as tragic-comic Journey-to-the-West adaptation.
 - [陈玄奘（《西游降魔篇》）](entities/ChenXuanzangConqueringDemons.md) — Film protagonist whose universal-love language, romantic evasion, loss, and awakening organize Hanji 456-4's interpretation.
@@ -12240,6 +12244,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [读史处世智慧 / Historical Reading as Survival Wisdom](concepts/HistoricalReadingAsSurvivalWisdom.md) — Reading-history concept where historical knowledge becomes practical judgment about power, risk, speech, and consequence.
+- [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
 - [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
 - [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
 - [Positive Masculinity Code](concepts/PositiveMasculinityCode.md) — Galloway's source-scoped provider, protector, procreator, service, and surplus-value frame for masculinity as responsibility.
