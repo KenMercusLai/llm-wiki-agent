@@ -18600,6 +18600,14 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 664. Britain in the 70s: Scandal in Downing Street (Part 3)
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
+
+Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

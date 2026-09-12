@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
+- [《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？](sources/zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb.md) — 芮淇讲透资治通鉴 episode on Zhang Chang, Xu Shun's "five-day Jingzhao" remark, anger-driven legal punishment, Emperor Xuan's dismissal and recall of a flawed but effective official, and talent-virtue judgment.
 - [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
 - [《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？](sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq.md) — 芮淇讲透资治通鉴 episode on Feng Liao's Wusun mediation, Zheng Ji's Western Regions response, Nimi's death, Wujiutu's submission, and the large-kunmi/small-kunmi settlement.
 - [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
@@ -2340,7 +2341,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
-- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han official presented as capable but too informal for crown-prince instruction in Hanji 469.
+- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
+- [徐顺 / Xu Shun (Western Han)](entities/XuShunWesternHan.md) — Zhang Chang subordinate whose "five-day Jingzhao" remark triggers a fatal punishment and idiom-origin case.
 - [蔡康永 / Cai Kangyong](entities/CaiKangyong.md) — Host, writer, and Kangxi Laile figure whose interview adds aging, grief, AI-era creativity, and death-facing practice.
 - [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
 - [Herb Morgan](entities/HerbMorgan.md) — California controller candidate Hilton presents as the audit and payment-control partner for CalDOGE.
@@ -13775,6 +13777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [Gift Refusal As Authority / 拒礼立威](concepts/GiftRefusalAsAuthority.md) — Governance pattern where refusing interested gifts preserves clean distance, public trust, and bargaining authority, grounded in Yang Zhen's Four Knows refusal and Zhang Huan's Qiang case.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
+- [五日京兆 / Five-Day Jingzhao](concepts/FiveDayJingzhao.md) — Hanji 458 idiom and office-risk pattern where rumored future dismissal is mistaken for present loss of authority.
 - [武库公器私赏边界 / Public Armory Private Favor Boundary](concepts/PublicArmoryPrivateFavorBoundary.md) — Hanji 587 boundary principle that state weapons and publicly funded military stores belong to public defense and command authority, not favorite gifts.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [征发信号价格垄断 / Procurement Signal Price Cornering](concepts/ProcurementSignalPriceCornering.md) — Hanji 920 pattern where state horse-procurement demand is captured by local strongmen who monopolize supply and inflate prices.
