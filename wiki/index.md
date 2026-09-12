@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
 - [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
 - [《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？](sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq.md) — 芮淇讲透资治通鉴 episode on Feng Liao's Wusun mediation, Zheng Ji's Western Regions response, Nimi's death, Wujiutu's submission, and the large-kunmi/small-kunmi settlement.
 - [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
@@ -2326,6 +2327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Scott Galloway](entities/ScottGalloway.md) — Huberman Lab guest framing masculinity through provision, protection, service, rejection tolerance, platform critique, mentorship, and youth policy.
 - [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat whose mediation helps settle Wujiutu's crisis and whose old-age return supports Xingmi.
 - [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions protector who relieves Chigu City and deploys Feng Liao as mediator in the Wusun crisis.
 - [王贺 / Wang He (Western Han)](entities/WangHeWesternHan.md) — Wang Zhengjun's grandfather and former embroidered-uniform censor whose lenient official service becomes Wang-family prehistory.
@@ -12230,6 +12232,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Positive Masculinity Code](concepts/PositiveMasculinityCode.md) — Galloway's source-scoped provider, protector, procreator, service, and surplus-value frame for masculinity as responsibility.
+- [Young Men Offline Practice](concepts/YoungMenOfflinePractice.md) — phone-audit, exercise, outside-work, volunteering, and real-world social exposure bundle for isolated young men.
+- [Rejection Tolerance Practice](concepts/RejectionTolerancePractice.md) — practice of making respectful social and professional approaches where "no" is expected and survivable.
+- [Digital Sexual Substitute Risk](concepts/DigitalSexualSubstituteRisk.md) — concern that always-available digital sexual stimulation can displace real relationship learning and motivation.
+- [Male Mentorship Responsibility](concepts/MaleMentorshipResponsibility.md) — distributed adult-male obligation to provide ordinary presence and guidance to boys lacking role models.
+- [National Service Social Integration](concepts/NationalServiceSocialIntegration.md) — policy idea that military or civilian service can create structure, cross-class contact, and civic obligation.
+- [Intergenerational Youth Economic Burden](concepts/IntergenerationalYouthEconomicBurden.md) — claim that fiscal, health-care, education, and labor-market structures can shift costs onto younger cohorts.
 - [宾礼式臣服外交 / Guest-Rite Submission Diplomacy](concepts/GuestRiteSubmissionDiplomacy.md) — Protocol pattern where a strong court receives a submitted foreign ruler with elevated guest rites to display power while preserving diplomatic flexibility.
 - [麒麟阁功臣荣典 / Qilin Pavilion Merit Honors](concepts/QilinPavilionMeritHonors.md) — Western Han political-memory practice where Xuan turns meritorious service into a palace portrait honor roll.
 - [Anticoagulation Self-Medication Boundary / 抗凝自行用药边界](concepts/AnticoagulationSelfMedicationBoundary.md) — Medication-safety boundary distinguishing aspirin, anticoagulation, fibrinolysis, thrombolysis, and clinician-directed prophylaxis.

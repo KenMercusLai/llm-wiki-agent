@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway
+
+Added Huberman Lab source on Scott Galloway's positive masculinity frame, young men's offline practice, rejection tolerance, digital sexual substitute risk, male mentorship, national service, and intergenerational youth economic burden. No settled contradictions found; alcohol, porn, testosterone, social-media, Big Tech, and policy claims remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？
 
 Added source. Key claims: Feng Liao's Western Regions reputation, document literacy, and Wusun marriage ties let Zheng Ji use her as mediator while Han force pressures Wujiutu; Nimi's death turns the Wusun crisis into a large-kunmi/small-kunmi settlement; Xieyou's post-siege humiliation shows the failed heqin crisis continuing even after rescue.
@@ -18554,6 +18558,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
