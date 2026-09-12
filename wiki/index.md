@@ -24,6 +24,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
 - [《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？](sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy.md) — 芮淇讲透资治通鉴 episode on Chen Wannian's flattery-based rise, Chen Xian's upright contrast, Zhu Yun's Shi Xian-linked case, and Gong Yu's Yushi Dafu appointment.
 - [《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？](sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by.md) — 芮淇讲透资治通鉴 episode on Gu Ji's fatal escort mission to Zhizhi Chanyu, reckless courage, Kangju's dangerous ally invitation, and crisis opportunity after outside-force disorder.
+- [664. Britain in the 70s: Scandal in Downing Street (Part 3)](sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865.md) — The Rest Is History episode on Harold Wilson's resignation, Britain's 1975-1976 sterling pressure, Labour factionalism, the Lavender List scandal, and punk-era crisis mood.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
@@ -2347,7 +2348,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
-- [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
+- [Denis Healey](entities/DenisHealey.md) — British chancellor who shifted toward cuts as sterling, borrowing, and inflation pressure mounted in 1975-1976.
 - [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
@@ -4973,8 +4974,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
 - [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
 - [Bernadette Devlin](entities/BernadetteDevlin.md) — People's Democracy activist and young Westminster MP tied to Burntollet and radical civil-rights politics.
-- [Harold Wilson](entities/HaroldWilson.md) — British prime minister whose government pressured Stormont and sent troops into Northern Ireland.
-- [Jim Callaghan](entities/JimCallaghan.md) — British home secretary who handled reform pressure and approved troop deployment.
+- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention and the exhausted final months before his 1976 resignation.
+- [Jim Callaghan](entities/JimCallaghan.md) — British Labour crisis manager who moved from Northern Ireland intervention to inheriting Wilson's sterling and IMF crisis.
 - [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
 - [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
 - [Jack Lynch](entities/JackLynch.md) — Irish Taoiseach whose August 1969 statement intensified Catholic hopes and Protestant fears.
@@ -12257,11 +12258,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [California Homelessness Enforcement Treatment](concepts/CaliforniaHomelessnessEnforcementTreatment.md) — Hilton's statewide homelessness frame combining encampment enforcement, addiction treatment, mental-health capacity, sober-service rules, and jail fallback.
 - [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
 - [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
-- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, IMF, austerity, and Labour cabinet crisis treated as a turning point in British economic governance.
+- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, inflation, IMF, austerity, Labour factionalism, and cabinet crisis treated as a British economic-governance turning point.
 - [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
 - [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.
 - [Cabinet Exhaustion Management](concepts/CabinetExhaustionManagement.md) — Crisis-leadership pattern where repeated cabinet argument is used to exhaust alternatives before a decision.
-- [Punk Economic Crisis Symbolism](concepts/PunkEconomicCrisisSymbolism.md) — Reading punk's 1976 media explosion as a cultural sign of unemployment, moral panic, and national decline.
+- [Punk Economic Crisis Symbolism](concepts/PunkEconomicCrisisSymbolism.md) — Reading punk and darker mid-1970s pop culture as signs of unemployment, moral panic, authoritarian anxiety, and national decline.
 - [立身之本保全 / Core Standing-Ground Preservation](concepts/CoreStandingGroundPreservation.md) — Strategy for protecting the skill, income, reputation, lineage, or institutional identity that gives durable footing.
 - [高位拒受式避险 / High-Office Refusal as Risk Avoidance](concepts/HighOfficeRefusalAsRiskAvoidance.md) — Pattern where a prestigious office is refused because its factional, identity, or retaliation exposure outweighs rank benefits.
 - [留面子式进谏包装 / Face-Saving Remonstrance](concepts/FaceSavingRemonstrance.md) — corrective speech that preserves the listener's dignity while still delivering substantive advice.

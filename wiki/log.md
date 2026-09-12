@@ -18598,3 +18598,8 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-13] ingest | 664. Britain in the 70s: Scandal in Downing Street (Part 3)
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
