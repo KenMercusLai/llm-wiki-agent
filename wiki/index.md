@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
+- [《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？](sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq.md) — 芮淇讲透资治通鉴 episode on Feng Liao's Wusun mediation, Zheng Ji's Western Regions response, Nimi's death, Wujiutu's submission, and the large-kunmi/small-kunmi settlement.
 - [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
 - [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主](sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's submission debate, Xieyou Princess's Wusun remarriage crisis, Nimi's failed banquet assassination, and the Chigu City siege setup.
@@ -2325,7 +2326,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
-- [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat who returns in old age to support Xingmi and preserve Han-Wusun stability.
+- [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat whose mediation helps settle Wujiutu's crisis and whose old-age return supports Xingmi.
+- [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions protector who relieves Chigu City and deploys Feng Liao as mediator in the Wusun crisis.
 - [王贺 / Wang He (Western Han)](entities/WangHeWesternHan.md) — Wang Zhengjun's grandfather and former embroidered-uniform censor whose lenient official service becomes Wang-family prehistory.
 - [陈斌 / Chen Bin (Vascular Surgery)](entities/ChenBinVascularSurgery.md) — Zhejiang University Second Affiliated Hospital vascular-surgery guest explaining economy-class syndrome, thrombosis risk, pulmonary embolism, emergency routing, and anticoagulation boundaries.
 - [冯燕飞 / Feng Yanfei (Vascular Surgery)](entities/FengYanfeiVascularSurgery.md) — Vascular-surgery guest explaining thrombosis risk factors, ordinary travel prevention, hydration, ankle-pump movement, and swelling-pattern distinctions.

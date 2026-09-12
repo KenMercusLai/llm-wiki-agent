@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？
+
+Added source. Key claims: Feng Liao's Western Regions reputation, document literacy, and Wusun marriage ties let Zheng Ji use her as mediator while Han force pressures Wujiutu; Nimi's death turns the Wusun crisis into a large-kunmi/small-kunmi settlement; Xieyou's post-siege humiliation shows the failed heqin crisis continuing even after rescue.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？
 
 Added source. Key claims: Huhanye Chanyu's first Chang'an audience is framed through Xiao Wangzhi's guest-rite protocol rather than ordinary vassal ranking; Han Xuan turns the submission into a cavalry, gift, crowd, and palace spectacle while preserving future diplomatic flexibility; Xun Yue's later critique keeps the ritual-order tension visible.
@@ -18550,6 +18554,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
