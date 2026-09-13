@@ -19248,6 +19248,10 @@ Added source `zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhon
 
 Added source `zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj`; created `LateHanWudiDisplacementCrisis` and `SaltAndIronConference`; updated `DuYannianWesternHan` and `SangHongyangWesternHan` with the late Han Wudi displacement crisis, Luntai self-criticism turn, Du Yannian's Wen-era recovery advice to Huo Guang, Sang Hongyang's defense of the Wudi fiscal program, and Huo Guang's limited rollback through the Salt and Iron Conference. No settled contradiction found; displacement counts, detailed economic mechanics, abolished iron-office scope, and full Yantielun proceedings remain source-scoped.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？
+
+Added source `zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv`; updated `SaltAndIronConference` and `StateCommercialMonopolyExtraction` with the episode's war-finance background, salt and iron monopoly burdens, cash-only sales friction, forced purchases, quota pressure, official harassment, and flight risk. No settled contradiction found; full Yantielun proceedings, regional enforcement variation, and quantitative fiscal impact remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子
 
 Added source `zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja`; created `LoulanKingAnguiWesternHan` and `WeiTuqiWesternHan`; updated `FuJieziWesternHan`, `LoulanKingdomWesternHan`, `CoerciveFrontierDeterrence`, `AssassinationAccessCredential`, and `FrontierProxyConquestStrategy` with Fu Jiezi's Loulan assassination, Angui head-display deterrence, Wei Tuqi hostage succession, Loulan/Shanshan renaming, Yixun屯田 support, and Sima Guang's trust-cost criticism. No settled contradiction found; Angui's motives, Yixun geography, Western Regions submission response, and the Fu Jiezi-to-Ban Chao influence frame remain source-scoped.
@@ -19369,6 +19373,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
