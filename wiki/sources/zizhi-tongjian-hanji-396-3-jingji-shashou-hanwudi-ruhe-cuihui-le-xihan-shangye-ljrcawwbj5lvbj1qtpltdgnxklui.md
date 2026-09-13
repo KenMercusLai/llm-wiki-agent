@@ -16,7 +16,7 @@ last_updated: 2026-09-14
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode argues that [[HanWudi|汉武帝]] damaged Western Han commerce by combining state monopoly, merchant taxation, property reporting, and rewarded denunciation. It treats the禁榷-style control of profitable goods, 算缗-style assessment of merchants and related operators, and 告缗-style informant rewards as mutually reinforcing fiscal tools that financed war while eroding commercial security.
 
-The episode then uses the [[SongDynasty|宋代]] and [[WangAnshi|王安石]] as a later comparison: even when commerce produced substantial state revenue, political elites could still mistrust merchants as market manipulators and social threats. The source therefore strengthens the wiki's thread linking [[HeavyAgricultureLightCommercePolicy|重农轻商政策]], [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]], and property insecurity.
+The episode then uses the [[NorthernSong|宋代]] and [[WangAnshi|王安石]] as a later comparison: even when commerce produced substantial state revenue, political elites could still mistrust merchants as market manipulators and social threats. The source therefore strengthens the wiki's thread linking [[HeavyAgricultureLightCommercePolicy|重农轻商政策]], [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]], and property insecurity.
 
 ## Key Claims
 
@@ -41,7 +41,7 @@ The episode then uses the [[SongDynasty|宋代]] and [[WangAnshi|王安石]] as 
 - [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] - new concept for property-confiscation enforcement through informant rewards.
 - [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - longer anti-merchant hierarchy behind the episode's opening and Song comparison.
 - [[MerchantExchangeInfrastructure|商人交换基础设施]] and [[PowerDominatedWealthInsecurity|权力笼罩下的财富不安全]] - adjacent concepts from Hanji 396-5 that this source supplies with a Han Wudi-era coercive mechanism.
-- [[WangAnshi|王安石]] and [[SongDynasty|宋代]] - later comparison showing that fiscal reliance on commerce did not remove elite suspicion of merchants.
+- [[WangAnshi|王安石]] and [[NorthernSong|宋代]] - later comparison showing that fiscal reliance on commerce did not remove elite suspicion of merchants.
 - [[LateHanWudiDisplacementCrisis|汉武帝晚年流民危机]] and [[SaltAndIronConference|盐铁会议]] - downstream wiki context where Han Wudi-era extraction becomes politically debated.
 
 ## Contradictions

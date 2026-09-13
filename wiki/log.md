@@ -2181,6 +2181,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | EP94 穿越周金涛：人生发财靠康波，守住家底靠少错
+
+Added source `ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8`; created `InventoryCycle`, `JuglarCycle`, `TechnologyProfitLag`, `CycleStockValuationTrap`, `SupplyContractionRebound`, and `HousingLeverageRisk`; updated `ZhouJintao`, `KondratievCycle`, `CycleWorldview`, and `OrdinaryInvestorMacroBoundary`. Core synthesis: cycle frameworks help explain environment and timing pressure, but ordinary investors must still start from capital duration, liquidity, leverage, cash flow, and fewer catastrophic mistakes. No settled contradiction found; the episode is a dramatized reconstruction rather than Zhou Jintao's verbatim speech.
+
 ## [2026-09-13] ingest | 662. Britain in the 70s: The Rise of Thatcher (Part 1)
 
 Added source note plus Keith Joseph, Airey Neave, Conservative Leadership Election 1975, Conservative Party Class Realignment, and Thatcherite Moral-Market Politics. Key claims: Thatcher's 1975 victory was contingent on Joseph's collapse, Heath's weakness, and Neave's tactics, but it also revealed a deeper Conservative shift toward middle-class, free-market, morally charged politics.
@@ -19373,6 +19377,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
