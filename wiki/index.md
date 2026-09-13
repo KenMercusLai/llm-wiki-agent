@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样49 | 为什么律师按小时收费？](sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821.md) — 商业就是这样 short episode on billable hours as professional-services pricing, law-firm utilization, fixed-fee alternatives, and AI pressure on hourly legal work.
 - [《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘](sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9.md) — 芮淇讲透资治通鉴 episode on Han Wudi's "独尊儒术," Dong Zhongshu's remade official Confucianism, Heaven-response ideology, and outer-Confucian inner-Legalist imperial rule.
 - [Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson](sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944.md) — Huberman Lab Essentials episode with David Anderson on emotions as internal states, VMH aggression and fear hierarchy, mating-circuit crosstalk, PAG routing, tachykinins, social isolation, and vagal brain-body signaling.
 - [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
@@ -19782,6 +19783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
+- [Professional Services Billable Hour](concepts/ProfessionalServicesBillableHour.md) — Pricing and management mechanism using recorded expert time as a proxy for uncertain professional value, now pressured by AI.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
 - [Pyramiding](concepts/Pyramiding.md) — Position-sizing rule that adds smaller increments only after an existing trade is profitable and trend-confirmed.
