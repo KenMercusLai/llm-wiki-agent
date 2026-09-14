@@ -19254,6 +19254,10 @@ Added source `shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821`
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人
+
+Added source `zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9`; created `DongfangShuo` and `HumorousRemonstrance` for the episode's comic-corrective opening; connected the source to Han Wudi's Ban Gu/Sima Guang evaluation contrast and the early Han Zhao-Huo Guang regency transition. No settled contradiction found; the fangshi anecdote, Peng Zu logic, seal-scare details, Jibei king case, and Xiongnu notice remain source-scoped.
+
 ## [2026-09-14] ingest | 705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)
 
 Added source `705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296`; created Abyssinian Expedition, Teodros II, Abyssinia, Magdala, Queen Victoria, Hormuzd Rassam, Diplomatic Neglect Escalation, and Hostage Mission Dependency Trap pages. No settled contradiction found; Teodros's motives, mental state, later Magdala campaign, and restitution after the storming remain source-scoped.
@@ -19478,6 +19482,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
