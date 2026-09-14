@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？](sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166.md) — 声动早咖啡 episode on U.S. university logo licensing, CLC/Fanatics infrastructure, NCAA fandom demand, standardized school-logo apparel, and China's campus cultural-creative contrast.
 - [《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？](sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa.md) — 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma.
 - [《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”](sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm.md) — 芮淇讲透资治通鉴 short episode on Han Wudi naming Liu Fuling heir and entrusting Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang with the child-regency arrangement.
 - [Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race](sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740.md) — All-In interview with Josh Shapiro on Pennsylvania execution governance, permitting, fraud enforcement, public safety, Democratic strategy, Trump tariffs and Medicaid cuts, Iran war objectives, Israel, Netanyahu, and antisemitism.
@@ -2449,6 +2450,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Collegiate Licensing Company / CLC](entities/CollegiateLicensingCompany.md) — U.S. collegiate trademark-licensing intermediary that screens brand proposals and reduces school-brand transaction costs.
+- [National Collegiate Athletic Association / NCAA](entities/NationalCollegiateAthleticAssociation.md) — U.S. college-sports organization used here as the demand ecosystem behind school-logo merchandise.
+- [Fanatics](entities/Fanatics.md) — Sports-merchandise operator linked to collegiate production, wholesale, ecommerce, venue retail, and licensing management.
+- [Fabletics](entities/Fabletics.md) — Apparel brand used as the source's example of reusing existing styles for licensed university-logo products.
+- [Home Field Apparel](entities/HomeFieldApparel.md) — Collegiate apparel company using archival school marks and campus stories as a nostalgia-rich licensing strategy.
+- [Hypen Vice](entities/HypenVice.md) — Women's collegiate apparel brand combining school marks with fashion and streetwear.
 - [子路 / Zilu / Zhong You](entities/Zilu.md) — Confucius disciple used in Hanji 391-4 as a death-facing ritual dignity example.
 - [赵平君 / Zhao Pingjun](entities/ZhaoPingjunWesternHan.md) — Western Han royal relative whose execution despite close kinship extends the law-over-kinship pattern.
 - [隆虑公主 / Longlü Princess](entities/LongluePrincessWesternHan.md) — Han Wudi's sister whose protective payment for Zhao Pingjun frames the episode's law-versus-affection dilemma.
@@ -12514,6 +12521,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [College Logo Licensing Merchandise / 大学校名校徽授权商品](concepts/CollegeLogoLicensingMerchandise.md) — Retail system turning university marks into approved apparel and goods through licensing agents, sports fandom, and standardized production.
+- [College Sports Fandom Demand / 大学体育球迷需求](concepts/CollegeSportsFandomDemand.md) — Merchandise demand created when university teams become symbols for students, alumni, families, and local communities.
+- [Logo-Swap Merchandise Standardization / 标识替换式商品标准化](concepts/LogoSwapMerchandiseStandardization.md) — Operating model that reuses apparel bases while swapping licensed names, colors, logos, or mascots.
+- [Campus Cultural-Creative Commercialization / 高校文创商业化](concepts/CampusCulturalCreativeCommercialization.md) — Effort to turn university symbols, stores, souvenirs, IP, and partner products into ongoing retail or licensing businesses.
 - [Aristocratic Spirit Consumption Boundary / 贵族精神消费边界](concepts/AristocraticSpiritConsumptionBoundary.md) — distinguishes noble spirit as self-command and ethical conduct from luxury consumption as status display.
 - [Pennsylvania Execution Governance](concepts/PennsylvaniaExecutionGovernance.md) — Shapiro's model of Democratic governance built around visible state execution, faster permits, tax cuts, public safety, workforce pathways, housing repair, and fraud enforcement.
 - [Service Delivery Democratic Trust](concepts/ServiceDeliveryDemocraticTrust.md) — Claim that responsive everyday government services can rebuild trust and reduce cynicism toward democratic institutions.

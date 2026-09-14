@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？
+
+Added source `tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166`; created `CollegiateLicensingCompany`, `NationalCollegiateAthleticAssociation`, `Fanatics`, `Fabletics`, `HomeFieldApparel`, `HypenVice`, `CollegeLogoLicensingMerchandise`, `CollegeSportsFandomDemand`, `LogoSwapMerchandiseStandardization`, and `CampusCulturalCreativeCommercialization`. Core synthesis: U.S. university logo merchandise scales through licensing intermediaries, NCAA-driven fandom, and standardized apparel bases, while demand remains concentrated around sports-power schools. No settled contradiction found; market-size, fan-count, sales, and China cultural-creative comparison claims remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？
 
 Added source page for the 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma. Created `AristocraticSpiritConsumptionBoundary`; updated `SongXiangGong`, `SpringAutumnWarfareRitual`, overview, and index. No direct contradiction found; the source is transcript-limited and works as the setup for Hanji 391-4's more affirmative noble-spirit conclusion.
@@ -19553,6 +19557,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740`; created `JoshShapiro`, `PennsylvaniaExecutionGovernance`, `ServiceDeliveryDemocraticTrust`, `ExecutiveWarPowersBreakdown`, `UndefinedWarObjectives`, and `AntisemitismIsraelCriticismBoundary`; updated `Pennsylvania` with Shapiro's state-execution, permitting, public-safety, and workforce-development frame. No settled contradiction found; Pennsylvania performance figures, Medicaid-loss claims, price increases, gas prices, corruption examples, and Iran-war casualty framing remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
