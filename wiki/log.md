@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！
+
+Added source page for the 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn aristocratic war etiquette, Zilu fixing his cap before death, and noble spirit in Chinese culture. Created pages for Zilu and Aristocratic Death Dignity; migrated and updated Song Xiang Gong and Spring-Autumn Warfare Ritual to `synthesis-v1`; updated overview and index. No direct contradiction found; the episode's European chivalry and French Revolutionary comparisons are kept as source-scoped analogies rather than full institutional equivalence.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘
 
 Added source `zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9`; created `OuterConfucianInnerLegalistGovernance`; updated `DongZhongshu`, `HanWudi`, and `ConfucianLegalistGovernanceBalance` with the episode's Dong Zhongshu-centered "外儒内法" reading. No settled contradiction found; claims about original Confucianism, Han Fei, "三纲," and two-millennium political continuity remain source-scoped.
@@ -19482,6 +19486,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

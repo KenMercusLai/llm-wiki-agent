@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！](sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds.md) — 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn war etiquette, Zilu fixing his cap before death, and Chinese aristocratic spirit.
 - [《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人](sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9.md) — 芮淇讲透资治通鉴 episode on Dongfang Shuo's comic remonstrance, Ban Gu and Sima Guang's split Han Wudi evaluations, and Han Zhao's early regency under Huo Guang.
 - [《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？](sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0.md) — 芮淇讲透资治通鉴 episode on early Confucian resistance politics, Legalist-leaning ruler protection, Yuan Gusheng and Huang Sheng's Tang-Wu revolution debate, and Han founding legitimacy becoming a scholarly taboo.
 - [705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)](sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296.md) — The Rest Is History episode on Teodros II, Abyssinia, neglected British correspondence, hostage-taking at Magdala, Rassam's failed rescue mission, and the road to the 1868 expedition.
@@ -2444,6 +2445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [子路 / Zilu / Zhong You](entities/Zilu.md) — Confucius disciple used in Hanji 391-4 as a death-facing ritual dignity example.
 - [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han wit whose fangshi story grounds humorous remonstrance through absurd extrapolation.
 - [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian disputant whose defense of Tang-Wu revolution exposes the self-reference problem in Han founding legitimacy.
 - [黄生 / Huang Sheng (Western Han)](entities/HuangShengWesternHan.md) — Huang-Lao-side disputant who defends fixed ruler-minister hierarchy against Yuan Gusheng's people-based mandate argument.
@@ -12503,6 +12505,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Aristocratic Death Dignity / 贵族式临终尊严](concepts/AristocraticDeathDignity.md) — Dignity pattern where bodily composure, ritual form, and courtesy at the edge of death express noble spirit.
 - [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Corrective speech that uses wit, comic reversal, and absurd extrapolation to expose flattery or false logic near power.
 - [Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区](concepts/TangWuRevolutionLegitimacyTaboo.md) — Political boundary where anti-tyrant revolution legitimates a dynasty's founding but threatens later rulers if treated as repeatable doctrine.
 - [Diplomatic Neglect Escalation](concepts/DiplomaticNeglectEscalation.md) — Pattern where an ignored diplomatic response becomes a crisis amplifier because recognition and status are at stake.
