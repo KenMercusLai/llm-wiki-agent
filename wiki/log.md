@@ -19262,6 +19262,10 @@ Added source `shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821`
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”
+
+Added source `zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm`; updated `HuoGuangWesternHan`, `HanWudi`, `EmperorZhaoOfHan`, `JinMidiWesternHan`, `ShangguanJieWesternHan`, and `SangHongyangWesternHan` with the Han Wudi sickbed succession and entrusted-minister origin layer. No settled contradiction found; the exact legal form of the testamentary arrangement and ASR name variants remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？
 
 Added source. Key claims: Han Wudi refuses to let Longlü Princess's paid plea exempt Zhao Pingjun from execution; the case extends law-over-kinship governance, creates the parental indulgence blindness concept, and adds Dongfang Shuo's praise of punishment that does not spare kin.
@@ -19549,6 +19553,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740`; created `JoshShapiro`, `PennsylvaniaExecutionGovernance`, `ServiceDeliveryDemocraticTrust`, `ExecutiveWarPowersBreakdown`, `UndefinedWarObjectives`, and `AntisemitismIsraelCriticismBoundary`; updated `Pennsylvania` with Shapiro's state-execution, permitting, public-safety, and workforce-development frame. No settled contradiction found; Pennsylvania performance figures, Medicaid-loss claims, price increases, gas prices, corruption examples, and Iran-war casualty framing remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
