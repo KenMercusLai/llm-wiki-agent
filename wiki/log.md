@@ -19542,3 +19542,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740`; created `JoshShapiro`, `PennsylvaniaExecutionGovernance`, `ServiceDeliveryDemocraticTrust`, `ExecutiveWarPowersBreakdown`, `UndefinedWarObjectives`, and `AntisemitismIsraelCriticismBoundary`; updated `Pennsylvania` with Shapiro's state-execution, permitting, public-safety, and workforce-development frame. No settled contradiction found; Pennsylvania performance figures, Medicaid-loss claims, price increases, gas prices, corruption examples, and Iran-war casualty framing remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

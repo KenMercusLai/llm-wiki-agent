@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race](sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740.md) — All-In interview with Josh Shapiro on Pennsylvania execution governance, permitting, fraud enforcement, public safety, Democratic strategy, Trump tariffs and Medicaid cuts, Iran war objectives, Israel, Netanyahu, and antisemitism.
 - [《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！](sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds.md) — 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn war etiquette, Zilu fixing his cap before death, and Chinese aristocratic spirit.
 - [《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？](sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa.md) — 芮淇讲透资治通鉴 episode on Han Wudi executing Zhao Pingjun despite Longlü Princess's paid plea, turning kinship-law conflict into a family-education warning and Dongfang Shuo praise scene.
 - [《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人](sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9.md) — 芮淇讲透资治通鉴 episode on Dongfang Shuo's comic remonstrance, Ban Gu and Sima Guang's split Han Wudi evaluations, and Han Zhao's early regency under Huo Guang.
@@ -3042,6 +3043,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dave McCormick](entities/DaveMcCormick.md) — Pennsylvania Republican senator tying bipartisan cooperation, AI and energy infrastructure, community commitments, blue-collar opportunity, and campaign-finance realism together.
 - [Graham Platner](entities/GrahamPlatner.md) — Source-scoped candidate figure used by All-In as a primary-extremism and candidate-vetting example.
 - [Pennsylvania](entities/Pennsylvania.md) — Swing-state and energy-manufacturing setting for the All-In Senate, AI infrastructure, and blue-collar growth discussion.
+- [Josh Shapiro](entities/JoshShapiro.md) — Pennsylvania governor presenting execution-oriented Democratic governance, service delivery, anti-fraud enforcement, public safety, and institutional foreign-policy critique in the All-In interview.
 - [United States Senate](entities/UnitedStatesSenate.md) — Institutional setting for the episode's shutdown, filibuster, bipartisan cooperation, and high-cost statewide race claims.
 - [杜吾 / Du Wu (Wang Mang killer)](entities/DuWuWangMangKiller.md) — Butcher-soldier in Hanji 667 who kills Wang Mang at Jian Terrace, making the emperor's death a status-reversal scene.
 - [王晶 / Wong Jing](entities/WongJing.md) — Hong Kong commercial-film director and industry witness connecting TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, piracy, and AI-era performance limits.
@@ -12510,6 +12512,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Pennsylvania Execution Governance](concepts/PennsylvaniaExecutionGovernance.md) — Shapiro's model of Democratic governance built around visible state execution, faster permits, tax cuts, public safety, workforce pathways, housing repair, and fraud enforcement.
+- [Service Delivery Democratic Trust](concepts/ServiceDeliveryDemocraticTrust.md) — Claim that responsive everyday government services can rebuild trust and reduce cynicism toward democratic institutions.
+- [Executive War Powers Breakdown](concepts/ExecutiveWarPowersBreakdown.md) — Shapiro's institutional critique that Congress abandons constitutional responsibility when it rubber-stamps presidential war, tariff, and emergency action.
+- [Undefined War Objectives](concepts/UndefinedWarObjectives.md) — Strategic failure mode where military action proceeds without clear goals, success criteria, rationale, or exit strategy.
+- [Antisemitism Israel Criticism Boundary](concepts/AntisemitismIsraelCriticismBoundary.md) — Distinction between legitimate criticism of Israeli government policy and identity-based blame or dual-loyalty claims directed at Jews.
 - [Aristocratic Death Dignity / 贵族式临终尊严](concepts/AristocraticDeathDignity.md) — Dignity pattern where bodily composure, ritual form, and courtesy at the edge of death express noble spirit.
 - [溺爱不明 / Parental Indulgence Blindness](concepts/ParentalIndulgenceBlindness.md) — Parenting and family-education pattern where love blinds caregivers to faults and turns protection into exemption from limits.
 - [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Corrective speech that uses wit, comic reversal, and absurd extrapolation to expose flattery or false logic near power.
