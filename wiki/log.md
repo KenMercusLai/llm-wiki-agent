@@ -19270,6 +19270,10 @@ Added source `zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？
+
+Added source `zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m`; created `MaHeluoWesternHan`, `MaTongWesternHan`, and `PalaceProximityVigilance`; updated `JinMidiWesternHan` and `WuguIncidentWesternHan` with the Lingguang Palace assassination attempt, Jin Midi's close-protection rescue, and the Ma-family Wugu-aftershock branch. No settled contradiction found; Ma-family prosecution details, Lingguang Palace geography, and Jin Midi motive claims remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”
 
 Added source `zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm`; updated `HuoGuangWesternHan`, `HanWudi`, `EmperorZhaoOfHan`, `JinMidiWesternHan`, `ShangguanJieWesternHan`, and `SangHongyangWesternHan` with the Han Wudi sickbed succession and entrusted-minister origin layer. No settled contradiction found; the exact legal form of the testamentary arrangement and ASR name variants remain source-scoped.
@@ -19585,6 +19589,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

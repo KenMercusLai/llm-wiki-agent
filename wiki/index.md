@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？](sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m.md) — 芮淇讲透资治通鉴 episode on Ma Heluo's attempted assassination of Han Wudi, Jin Midi's close-protection rescue, and Jin's loyalty, filial discipline, and palace-boundary severity.
 - [《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？](sources/zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt.md) — 芮淇讲透资治通鉴 episode on Han Wudi's trust in Jin Midi, the Ma Wangye "third eye" folklore layer, and Liu Dan/Liu Xu's exclusion from late-Wudi succession.
 - [图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？](sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166.md) — 声动早咖啡 episode on U.S. university logo licensing, CLC/Fanatics infrastructure, NCAA fandom demand, standardized school-logo apparel, and China's campus cultural-creative contrast.
 - [《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人](sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg.md) — 芮淇讲透资治通鉴 episode on Han Wudi killing Lady Gouyi before making Liu Fuling heir, linking mother-regent fear, Wugu blame, and legitimacy protection.
@@ -2476,6 +2477,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
 - [Nagasaki Atomic Bombing](entities/NagasakiAtomicBombing.md) — Second atomic-bombing memory case in Hanji 394-3's nuclear-disaster sequence.
 - [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose trust value, vigilance folklore, regency deflection, cautious marquisate handling, and family discipline shape his profile.
+- [马何罗 / Ma Heluo (Western Han)](entities/MaHeluoWesternHan.md) — Western Han palace insider whose fear after the Wugu purge leads to the failed Lingguang Palace assassination attempt stopped by Jin Midi.
+- [马通 / Ma Tong (Western Han)](entities/MaTongWesternHan.md) — Ma Heluo's brother whose earlier anti-Liu-Ju reward becomes later political exposure after Han Wudi turns against Jiang Chong's side.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
@@ -12554,7 +12557,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Border Crime Sanctuary / 跨境犯罪庇护地](concepts/CrossBorderCrimeSanctuary.md) — Borderland governance pattern where fragmented authority, terrain, and jurisdictional friction help organized crime cluster.
 - [Geopolitical Criminal Deterrence / 地缘犯罪威慑](concepts/GeopoliticalCriminalDeterrence.md) — Source-scoped theory that criminal groups price victim nationality by expected state retaliation and local influence.
 - [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
-- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma used for Lady Gouyi's source-scoped hidden-guilt branch and the later false Liu Ju return crisis.
+- [Palace Proximity Vigilance / 近侍警觉](concepts/PalaceProximityVigilance.md) — Close-servant security pattern where quiet observation, threshold access, and boundary discipline protect a ruler from hidden palace danger.
+- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma used for Lady Gouyi's source-scoped hidden-guilt branch, Ma-family purge aftershock, and the later false Liu Ju return crisis.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.
 - [General Model Robot Boundary](concepts/GeneralModelRobotBoundary.md) — Boundary between general foundation-model semantic/spatial gains and robot-specific continuous sensing, contact, and physical execution.
 - [Robot Deployment Success Economics](concepts/RobotDeploymentSuccessEconomics.md) — Commercial test combining high success rate, fast deployment, ROI, low adaptation cost, and sustained customer payment.
