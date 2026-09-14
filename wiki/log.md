@@ -2213,6 +2213,12 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 在科技时代，重新理解我们的爱、工作与生活
+
+Added source `zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu`; created `WangXiaowei`, `ReEnteringLifeTechEraBook`, `TechnologyPhilosophy`, `AIJudgmentInfrastructure`, `LifeTimeVsMachineTime`, and `PsychiatricEverydayLanguage`; updated `BuHeShiYi`, `AICompanionAuthenticityBoundary`, and `RelationshipTechnologyEthics` with Wang Xiaowei's technology-philosophy frame for AI intimacy, work rhythm, model-mediated judgment, and returning to ordinary life. No settled contradiction found; the source remains a public philosophical conversation rather than empirical evidence about AI companion outcomes, model effects, or education policy.
+
+Post-ingest validation also repaired two pre-existing broken Shapiro-source links by adding source-scoped `JoeBiden` and `TimWalz` entity pages.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？
 
 Added source `zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0`; created `YuanGusheng`, `HuangShengWesternHan`, and `TangWuRevolutionLegitimacyTaboo`; updated early Confucian resistance, Mencian people-based legitimacy, outer-Confucian inner-Legalist governance, and Han Jingdi with the Tang-Wu debate and Han founding self-reference problem. No settled contradiction found; the "法先王/法今王" contrast and post-debate scholarly taboo remain source-scoped.
@@ -19589,6 +19595,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

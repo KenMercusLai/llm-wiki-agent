@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [在科技时代，重新理解我们的爱、工作与生活](sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu.md) — 不合时宜 interview with Wang Xiaowei on technology philosophy, AI intimacy, work fatigue, psychiatricized language, AI governance, judgment infrastructure, and returning to daily life.
 - [《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？](sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m.md) — 芮淇讲透资治通鉴 episode on Ma Heluo's attempted assassination of Han Wudi, Jin Midi's close-protection rescue, and Jin's loyalty, filial discipline, and palace-boundary severity.
 - [《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？](sources/zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt.md) — 芮淇讲透资治通鉴 episode on Han Wudi's trust in Jin Midi, the Ma Wangye "third eye" folklore layer, and Liu Dan/Liu Xu's exclusion from late-Wudi succession.
 - [图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？](sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166.md) — 声动早咖啡 episode on U.S. university logo licensing, CLC/Fanatics infrastructure, NCAA fandom demand, standardized school-logo apparel, and China's campus cultural-creative contrast.
@@ -2453,6 +2454,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Joe Biden](entities/JoeBiden.md) — Source-scoped Democratic national-politics reference in the Josh Shapiro All-In interview.
+- [Tim Walz](entities/TimWalz.md) — Source-scoped Democratic running-mate reference in the Josh Shapiro All-In interview.
+- [王小伟 / Wang Xiaowei](entities/WangXiaowei.md) — Renmin University philosophy professor and AI governance researcher interviewed by 不合时宜 on technology philosophy, AI intimacy, judgment, and ordinary life.
+- [《重新回到生活：科技时代的工作、情绪、爱情和死亡》](entities/ReEnteringLifeTechEraBook.md) — Wang Xiaowei book used by 不合时宜 to discuss AI-era work, emotion, love, death, and returning to daily life.
 - [Collegiate Licensing Company / CLC](entities/CollegiateLicensingCompany.md) — U.S. collegiate trademark-licensing intermediary that screens brand proposals and reduces school-brand transaction costs.
 - [National Collegiate Athletic Association / NCAA](entities/NationalCollegiateAthleticAssociation.md) — U.S. college-sports organization used here as the demand ecosystem behind school-logo merchandise.
 - [Fanatics](entities/Fanatics.md) — Sports-merchandise operator linked to collegiate production, wholesale, ecommerce, venue retail, and licensing management.
@@ -12529,6 +12534,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [AI Judgment Infrastructure / AI判断基础设施](concepts/AIJudgmentInfrastructure.md) — Large models becoming routine advice and value-framing infrastructure for family, relationship, educational, and moral judgment.
+- [Life Time Versus Machine Time / 生命时间与机器时间](concepts/LifeTimeVsMachineTime.md) — AI-era tension between human rhythms of body, rest, waiting, conversation, and machine-paced continuous output loops.
+- [Psychiatric Everyday Language / 日常话语的精神病学化](concepts/PsychiatricEverydayLanguage.md) — Spread of clinical mental-health vocabulary into everyday self-description and relationship interpretation, with both stigma-reducing and label-closing effects.
+- [Technology Philosophy / 技术哲学](concepts/TechnologyPhilosophy.md) — Inquiry into how technologies mediate life-worlds, agency, intimacy, judgment, values, and social institutions rather than staying neutral tools.
 - [College Logo Licensing Merchandise / 大学校名校徽授权商品](concepts/CollegeLogoLicensingMerchandise.md) — Retail system turning university marks into approved apparel and goods through licensing agents, sports fandom, and standardized production.
 - [College Sports Fandom Demand / 大学体育球迷需求](concepts/CollegeSportsFandomDemand.md) — Merchandise demand created when university teams become symbols for students, alumni, families, and local communities.
 - [Logo-Swap Merchandise Standardization / 标识替换式商品标准化](concepts/LogoSwapMerchandiseStandardization.md) — Operating model that reuses apparel bases while swapping licensed names, colors, logos, or mascots.
