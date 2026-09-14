@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)](sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296.md) — The Rest Is History episode on Teodros II, Abyssinia, neglected British correspondence, hostage-taking at Magdala, Rassam's failed rescue mission, and the road to the 1868 expedition.
 - [商业小样49 | 为什么律师按小时收费？](sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821.md) — 商业就是这样 short episode on billable hours as professional-services pricing, law-firm utilization, fixed-fee alternatives, and AI pressure on hourly legal work.
 - [《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘](sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9.md) — 芮淇讲透资治通鉴 episode on Han Wudi's "独尊儒术," Dong Zhongshu's remade official Confucianism, Heaven-response ideology, and outer-Confucian inner-Legalist imperial rule.
 - [Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson](sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944.md) — Huberman Lab Essentials episode with David Anderson on emotions as internal states, VMH aggression and fear hierarchy, mating-circuit crosstalk, PAG routing, tachykinins, social isolation, and vagal brain-body signaling.
@@ -2441,6 +2442,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Abyssinian Expedition of 1868](entities/AbyssinianExpedition1868.md) — British hostage-rescue campaign opened through Teodros II, Magdala, failed diplomacy, and Victorian imperial calculation.
+- [Teodros II](entities/TeodrosII.md) — Abyssinian emperor whose modernizing ambitions and hostage-taking lead toward the 1868 British expedition.
+- [Abyssinia / Ethiopia](entities/Abyssinia.md) — Ancient Christian kingdom and nineteenth-century setting for Teodros II, Magdala, and the Abyssinian Expedition branch.
+- [Magdala](entities/Magdala.md) — Mountain citadel where Teodros II holds European hostages before the British expedition.
+- [Queen Victoria](entities/QueenVictoria.md) — British monarch whose delayed reply to Teodros II becomes a symbolic trigger in the Abyssinian hostage crisis.
+- [Hormuzd Rassam](entities/HormuzdRassam.md) — Assyrian-born British political agent sent to carry Victoria's reply before becoming a hostage himself.
 - [Fukushima Daiichi Nuclear Power Plant](entities/FukushimaDaiichiNuclearPowerPlant.md) — Japan nuclear-accident and wastewater-discharge case used by Hanji 394-3 to frame nuclear risk externalization.
 - [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
 - [Nagasaki Atomic Bombing](entities/NagasakiAtomicBombing.md) — Second atomic-bombing memory case in Hanji 394-3's nuclear-disaster sequence.
@@ -12491,6 +12498,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Diplomatic Neglect Escalation](concepts/DiplomaticNeglectEscalation.md) — Pattern where an ignored diplomatic response becomes a crisis amplifier because recognition and status are at stake.
+- [Hostage Mission Dependency Trap](concepts/HostageMissionDependencyTrap.md) — Crisis pattern where rescue envoys and support missions become additional hostage leverage.
 - [Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理](concepts/OuterConfucianInnerLegalistGovernance.md) — Concept for imperial rule that uses Confucian moral language and Heaven-response ideology as the surface over Legalist hierarchy and centralized control.
 - [Periaqueductal Gray](concepts/PeriaqueductalGray.md) — Disambiguated brain-region page for PAG as a downstream routing hub for innate behavior, posture, and pain modulation.
 - [Social Isolation Tachykinin](concepts/SocialIsolationTachykinin.md) — Animal-model concept linking social isolation, tachykinin-family neuropeptides, aggression, fear, and anxiety-like behavior.
