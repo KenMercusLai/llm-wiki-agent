@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？](sources/zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt.md) — 芮淇讲透资治通鉴 episode on Han Wudi's trust in Jin Midi, the Ma Wangye "third eye" folklore layer, and Liu Dan/Liu Xu's exclusion from late-Wudi succession.
 - [图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？](sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166.md) — 声动早咖啡 episode on U.S. university logo licensing, CLC/Fanatics infrastructure, NCAA fandom demand, standardized school-logo apparel, and China's campus cultural-creative contrast.
 - [《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人](sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg.md) — 芮淇讲透资治通鉴 episode on Han Wudi killing Lady Gouyi before making Liu Fuling heir, linking mother-regent fear, Wugu blame, and legitimacy protection.
 - [《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？](sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa.md) — 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma.
@@ -2474,7 +2475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fukushima Daiichi Nuclear Power Plant](entities/FukushimaDaiichiNuclearPowerPlant.md) — Japan nuclear-accident and wastewater-discharge case used by Hanji 394-3 to frame nuclear risk externalization.
 - [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
 - [Nagasaki Atomic Bombing](entities/NagasakiAtomicBombing.md) — Second atomic-bombing memory case in Hanji 394-3's nuclear-disaster sequence.
-- [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose cautious marquisate handling, funeral honors, and family discipline are backfilled by Hanji 394-1.
+- [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose trust value, vigilance folklore, regency deflection, cautious marquisate handling, and family discipline shape his profile.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
@@ -2492,7 +2493,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐仁 / Xu Ren (Western Han)](entities/XuRenWesternHan.md) — Shaofu and Tian Qianqiu's son-in-law whose Hou Shiwu judgment leads to imprisonment and suicide.
 - [刘碧江 / Liu Bijiang (Western Han)](entities/LiuBijiangWesternHan.md) — Western Han royal-kin appointee used by Huo Guang to signal inclusive regency benefit sharing.
 - [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
-- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant in the anti-Huo conspiracy whose coalition misreading, imperial rebuke, and suicide frame Sang Hongyang's final case.
+- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant whose late-Wudi succession ambition, Han Zhao legitimacy attack, anti-Huo coalition role, and suicide frame his rebellion arc.
+- [马王爷 / Ma Wangye](entities/MaWangye.md) — three-eyed horse deity figure used by Hanji 390-2 to explain folklore around Jin Midi's palace vigilance.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose accession follows Lady Gouyi's death and whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
 - [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.
@@ -2578,7 +2580,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official whose tact links Huo-era petition review, Hou Shiwu case boundary-setting, Liu Bingyi's accession, and later yushi dafu appointment.
 - [广川王刘去 / Liu Qu, Guangchuan King (Western Han)](entities/LiuQuGuangchuanKingWesternHan.md) — Western Han royal prince whose tomb-robbing, household violence, removal, exile, and suicide make him a royal-kin desecration and cruelty case.
 - [楚王刘延寿 / Liu Yanshou, Chu King (Western Han)](entities/LiuYanshouChuKingWesternHan.md) — Western Han royal kinsman who tries to use Liu Xu as a closer succession claimant and kills himself after the plot is exposed.
-- [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose throne ambition becomes repeated curse-based succession fantasy and ends in exposure, witness killing, and suicide.
+- [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose early unfitness, later succession plausibility, curse-based ambition, and final exposure define his arc.
 - [耿寿昌 / Geng Shouchang (Western Han)](entities/GengShouchangWesternHan.md) — Western Han grain official whose proposals combine nearer capital provisioning with Changping granaries for public price stabilization.
 - [杨恽 / Yang Yun](entities/YangYunWesternHan.md) — Western Han official and Sima Qian descendant whose resentful speech and letter after disgrace lead to execution under Emperor Xuan.
 - [戴长乐 / Dai Changle (Western Han)](entities/DaiChangleWesternHan.md) — Western Han counter-accuser whose report against Yang Yun turns default suspicion and ominous speech framing into Yang's first disgrace.

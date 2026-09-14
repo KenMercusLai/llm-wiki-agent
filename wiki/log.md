@@ -19581,3 +19581,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
+
+Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
