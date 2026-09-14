@@ -2201,6 +2201,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？
+
+Added source `zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0`; created `YuanGusheng`, `HuangShengWesternHan`, and `TangWuRevolutionLegitimacyTaboo`; updated early Confucian resistance, Mencian people-based legitimacy, outer-Confucian inner-Legalist governance, and Han Jingdi with the Tang-Wu debate and Han founding self-reference problem. No settled contradiction found; the "法先王/法今王" contrast and post-debate scholarly taboo remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？
 
 Added source `zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr`; created `DingWairenWesternHan` and `LadyGouyiWesternHan`; updated `ShangguanTaihouWesternHan`, `ShangguanJieWesternHan`, `ShangguanAnWesternHan`, `GaiChanggongzhuWesternHan`, `HuoGuangWesternHan`, and `EmperorZhaoOfHan` with Shangguan Shi's six-year-old palace entry, Huo Guang's refusal, Ding Wairen's princess-access brokerage, and the early Huo-Shangguan rupture. No settled contradiction found; Ding Wairen's full career, Zhouyang Shi's identity, and the later empress-installation procedure remain source-scoped.
@@ -19474,6 +19478,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
