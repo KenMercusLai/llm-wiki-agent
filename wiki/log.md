@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？
+
+Added source page for the 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma. Created `AristocraticSpiritConsumptionBoundary`; updated `SongXiangGong`, `SpringAutumnWarfareRitual`, overview, and index. No direct contradiction found; the source is transcript-limited and works as the setup for Hanji 391-4's more affirmative noble-spirit conclusion.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！
 
 Added source page for the 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn aristocratic war etiquette, Zilu fixing his cap before death, and noble spirit in Chinese culture. Created pages for Zilu and Aristocratic Death Dignity; migrated and updated Song Xiang Gong and Spring-Autumn Warfare Ritual to `synthesis-v1`; updated overview and index. No direct contradiction found; the episode's European chivalry and French Revolutionary comparisons are kept as source-scoped analogies rather than full institutional equivalence.
@@ -19545,6 +19549,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740`; created `JoshShapiro`, `PennsylvaniaExecutionGovernance`, `ServiceDeliveryDemocraticTrust`, `ExecutiveWarPowersBreakdown`, `UndefinedWarObjectives`, and `AntisemitismIsraelCriticismBoundary`; updated `Pennsylvania` with Shapiro's state-execution, permitting, public-safety, and workforce-development frame. No settled contradiction found; Pennsylvania performance figures, Medicaid-loss claims, price increases, gas prices, corruption examples, and Iran-war casualty framing remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
