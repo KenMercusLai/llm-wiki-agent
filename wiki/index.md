@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？](sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166.md) — 声动早咖啡 episode on U.S. university logo licensing, CLC/Fanatics infrastructure, NCAA fandom demand, standardized school-logo apparel, and China's campus cultural-creative contrast.
+- [《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人](sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg.md) — 芮淇讲透资治通鉴 episode on Han Wudi killing Lady Gouyi before making Liu Fuling heir, linking mother-regent fear, Wugu blame, and legitimacy protection.
 - [《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？](sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa.md) — 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma.
 - [《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”](sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm.md) — 芮淇讲透资治通鉴 short episode on Han Wudi naming Liu Fuling heir and entrusting Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang with the child-regency arrangement.
 - [Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race](sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740.md) — All-In interview with Josh Shapiro on Pennsylvania execution governance, permitting, fraud enforcement, public safety, Democratic strategy, Trump tariffs and Medicaid cuts, Iran war objectives, Israel, Netanyahu, and antisemitism.
@@ -2476,7 +2477,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose cautious marquisate handling, funeral honors, and family discipline are backfilled by Hanji 394-1.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
-- [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose presumed death after the Wugu affair makes later impersonation politically explosive.
+- [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
+- [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whom Hanji 391-1 distinguishes from its source-scoped Lady Gouyi hidden-mover explanation.
+- [苏文 / Su Wen (Western Han)](entities/SuWenWesternHan.md) — visible Wugu accusation actor paired with Jiang Chong in Hanji 391-1's source-scoped explanation of Liu Ju's destruction.
 - [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
 - [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
@@ -2490,7 +2493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘碧江 / Liu Bijiang (Western Han)](entities/LiuBijiangWesternHan.md) — Western Han royal-kin appointee used by Huo Guang to signal inclusive regency benefit sharing.
 - [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
 - [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant in the anti-Huo conspiracy whose coalition misreading, imperial rebuke, and suicide frame Sang Hongyang's final case.
-- [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose childless death creates the succession vacuum managed by Huo Guang.
+- [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose accession follows Lady Gouyi's death and whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
 - [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.
 - [“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook](entities/RiliBaqianwanBeltHook.md) — Guizhou-excavated fish-shaped bronze belt hook used by Hanji 410-2 to read visible Han wealth aspiration and merchant-culture imagination.
@@ -2513,7 +2516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上官安 / Shangguan An (Western Han)](entities/ShangguanAnWesternHan.md) — Shangguan-family conspirator who plans to use and then kill Liu Dan before installing Shangguan Jie.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
-- [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death helps explain the princess-caregiver setup around the child emperor.
+- [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death is framed through mother-regent risk, source-scoped Wugu guilt, and the later princess-caregiver setup.
 - [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose anti-Xiongnu campaign anchors the Wuhuan relocation context in Hanji 402-2.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
@@ -7932,7 +7935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, and expensive anti-Xiongnu warfare including Western Regions-Hexi strategy, fiscal extraction, and a source-scoped spring reproductive-attrition reading.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes final mother-risk succession design, calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, anti-Xiongnu warfare, and fiscal extraction.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -12549,7 +12552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Border Crime Sanctuary / 跨境犯罪庇护地](concepts/CrossBorderCrimeSanctuary.md) — Borderland governance pattern where fragmented authority, terrain, and jurisdictional friction help organized crime cluster.
 - [Geopolitical Criminal Deterrence / 地缘犯罪威慑](concepts/GeopoliticalCriminalDeterrence.md) — Source-scoped theory that criminal groups price victim nationality by expected state retaliation and local influence.
 - [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
-- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Narrow background concept for the late-Wudi succession trauma that makes the false Liu Ju return claim politically explosive.
+- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma used for Lady Gouyi's source-scoped hidden-guilt branch and the later false Liu Ju return crisis.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.
 - [General Model Robot Boundary](concepts/GeneralModelRobotBoundary.md) — Boundary between general foundation-model semantic/spatial gains and robot-specific continuous sensing, contact, and physical execution.
 - [Robot Deployment Success Economics](concepts/RobotDeploymentSuccessEconomics.md) — Commercial test combining high success rate, fast deployment, ROI, low adaptation cost, and sustained customer payment.
@@ -12737,7 +12740,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [新君清算中的责任安排 / Court Transition Blame Management](concepts/CourtTransitionBlameManagement.md) — New-ruler pattern for limiting accountability claims when cleanup threatens court stability, predecessor dignity, senior-office continuity, or future blame absorption.
 - [传话式信息权力 / Message Relay Political Power](concepts/MessageRelayPoliticalPower.md) — Inner-court information mechanism where relay work gains power by filtering what reaches the ruler and by pairing information access with private trust.
 - [Nine Purple Fire Luck Action Frame](concepts/NinePurpleFireLuckActionFrame.md) — source-scoped frame for converting 九紫离火运 language into women's self-positioning, deliberate practice, self-management, relationships, and health routines.
-- [Harem Succession Risk Control](concepts/HaremSuccessionRiskControl.md) — Attempts to manage ruler desire, consort hierarchy, and heir production before harem politics becomes succession disorder.
+- [Harem Succession Risk Control](concepts/HaremSuccessionRiskControl.md) — Attempts to manage ruler desire, consort hierarchy, maternal power, and heir production before harem politics becomes succession disorder.
 - [官员弹劾公开复核 / Bureaucratic Impeachment Review](concepts/BureaucraticImpeachmentReview.md) — Procedural pattern for testing impeachment against public record, private grievance, and accuser responsibility.
 - [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.
 - [AI Data Leakage](concepts/AIDataLeakage.md) — risk that prompts, logs, de-identified data, or usage patterns expose proprietary insight through hosted model systems.
@@ -14774,7 +14777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moralized Shi Identity / 士的道德化身份](concepts/MoralizedShiIdentity.md) — Warring States shift where士 is judged by conduct and worth rather than inherited rank or visible occupation.
 - [Merchant-Aristocratic Value Conflict / 贵族-商人义利冲突](concepts/MerchantAristocraticValueConflict.md) — Contrast between aristocratic义-based honor and merchant利-based calculation before Lu Buwei enters politics.
 - [Political Venture Investment / 政治风险投资](concepts/PoliticalVentureInvestment.md) — Lu Buwei's source-scoped treatment of a neglected royal hostage as a high-risk, high-upside political asset.
-- [Maternal Status Succession Leverage / 子以母贵式继承杠杆](concepts/MaternalStatusSuccessionLeverage.md) — Succession mechanism where biological, adoptive, or foster maternal affiliation can raise one heir's value, lower an established heir's security, or expose rival maternal lines.
+- [Maternal Status Succession Leverage / 子以母贵式继承杠杆](concepts/MaternalStatusSuccessionLeverage.md) — Succession mechanism where maternal affiliation can raise an heir's value, lower heir security, expose rival maternal lines, or invert into mother-removal risk.
 - [弱小即政治原罪 / Weakness as Political Liability](concepts/WeaknessAsPoliticalLiability.md) — Court-politics pattern where weak backing and low retaliation capacity make an actor easier to attack despite thin accusations.
 - [负臣 / Corrective Disobedient Minister](concepts/FuChen.md) — Ruler-minister pattern where a subject overrides command to correct a ruler's mistake, saving the state while becoming hard for the ruler to tolerate.
 - [汤沐邑 / Tangmu Yi](concepts/TangmuYi.md) — Polite reward form whose tax-revenue grant lets gratitude be expressed without over-elevating a guest's political rank.
