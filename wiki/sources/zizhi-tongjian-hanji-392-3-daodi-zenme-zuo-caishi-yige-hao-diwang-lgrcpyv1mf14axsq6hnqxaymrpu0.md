@@ -40,7 +40,7 @@ The episode's central case is the debate before [[HanJingdi|汉景帝]] between 
 - [[HanWudi|汉武帝]] - ruler whose later "独尊儒术" is introduced as a problem needing explanation.
 - [[HanJingdi|汉景帝]] - ruler before whom the Tang-Wu debate becomes too sensitive to continue.
 - [[YuanGusheng|袁固生]] and [[HuangShengWesternHan|黄生]] - disputants who embody people-based revolution legitimacy versus fixed ruler-minister hierarchy.
-- [[LiuBang|刘邦]], [[QinDynasty|秦朝]], [[ShangTang|商汤]], [[ZhouWuwang|周武王]], and [[MandateOfHeavenLegitimacy|天命合法性]] - historical and conceptual references that make the debate politically explosive.
+- [[LiuBang|刘邦]], [[QinState|秦朝]], [[ShangTang|商汤]], [[ZhouWuwang|周武王]], and [[MandateOfHeavenLegitimacy|天命合法性]] - historical and conceptual references that make the debate politically explosive.
 - [[EarlyConfucianResistancePolitics|早期儒家的反抗政治]], [[MencianPeopleBasedLegitimacy|孟子的民本合法性]], and [[TangWuRevolutionLegitimacyTaboo|汤武革命合法性禁区]] - main concepts extended or created by the source.
 - [[OuterConfucianInnerLegalistGovernance|外儒内法式帝国治理]] and [[ConfucianLegalistGovernanceBalance|儒法互补治理]] - sequel frames sharpened by this episode's early-Confucian versus Legalist contrast.
 

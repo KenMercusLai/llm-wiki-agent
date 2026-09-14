@@ -13,7 +13,7 @@ last_updated: 2026-09-14
 # 商业小样49 | 为什么律师按小时收费？
 
 ## Summary
-This [[ShangyeJiushiZheyang|商业就是这样]] short episode explains why lawyers and other professional-services providers often use [[ProfessionalServicesBillableHour|billable hours]] rather than fixed outcomes as the pricing unit. It traces the U.S. legal billable hour from an internal efficiency record at the Boston Legal Aid Society into client invoices, law-firm management, utilization metrics, and profit allocation. The episode then argues that [[AI]] pressures this model by making some contract review, research, and diligence faster and more predictable, while leaving complex litigation and high-uncertainty negotiations more likely to retain time-based or hybrid fees.
+This [[ShangyeJiushiZheyang|商业就是这样]] short episode explains why lawyers and other professional-services providers often use [[ProfessionalServicesBillableHour|billable hours]] rather than fixed outcomes as the pricing unit. It traces the U.S. legal billable hour from an internal efficiency record at the Boston Legal Aid Society into client invoices, law-firm management, utilization metrics, and profit allocation. The episode then argues that [[LegalServicesAIEconomics|AI]] pressures this model by making some contract review, research, and diligence faster and more predictable, while leaving complex litigation and high-uncertainty negotiations more likely to retain time-based or hybrid fees.
 
 ## Key Claims
 - The episode frames lawyers, consultants, accountants, architects, and some IT services as professions where scope, complexity, and outcome are difficult to estimate in advance, making time a practical proxy for price.
@@ -23,7 +23,7 @@ This [[ShangyeJiushiZheyang|商业就是这样]] short episode explains why lawy
 - By the 1980s, billable hours had become a law-firm operating metric for evaluating lawyers, building budgets, allocating profit, and distinguishing billable from non-billable work.
 - [[ProfessionalServicesBillableHour|Billable hours]] help service providers survive scope creep and give clients a visible ledger, but they also shift uncertainty to clients who cannot easily know the final cost before hiring experts.
 - Fixed fees, capped fees, subscriptions, packages, and hybrid pricing become more attractive when a task is standardized or when clients demand budget certainty.
-- The episode says [[AI]] challenges hourly pricing because it can compress junior, mechanical, and repeatable cognitive work; a contract review that once took 10 hours but now takes one hour exposes the "efficiency lowers revenue" problem under pure hourly billing.
+- The episode says [[LegalServicesAIEconomics|AI]] challenges hourly pricing because it can compress junior, mechanical, and repeatable cognitive work; a contract review that once took 10 hours but now takes one hour exposes the "efficiency lowers revenue" problem under pure hourly billing.
 - The cited 2026 legal-industry survey says 62% of legal practitioners reported AI saving 6% to 20% of weekly time, and 62% of corporate legal respondents expected AI to reduce the importance of traditional hourly billing.
 - The episode's final distinction is that clients are buying judgment, experience, supervision, and responsibility, not only labor time; AI therefore forces professional services to state what part of value deserves the fee.
 

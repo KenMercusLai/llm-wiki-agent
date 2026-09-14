@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！](sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds.md) — 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn war etiquette, Zilu fixing his cap before death, and Chinese aristocratic spirit.
+- [《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？](sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa.md) — 芮淇讲透资治通鉴 episode on Han Wudi executing Zhao Pingjun despite Longlü Princess's paid plea, turning kinship-law conflict into a family-education warning and Dongfang Shuo praise scene.
 - [《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人](sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9.md) — 芮淇讲透资治通鉴 episode on Dongfang Shuo's comic remonstrance, Ban Gu and Sima Guang's split Han Wudi evaluations, and Han Zhao's early regency under Huo Guang.
 - [《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？](sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0.md) — 芮淇讲透资治通鉴 episode on early Confucian resistance politics, Legalist-leaning ruler protection, Yuan Gusheng and Huang Sheng's Tang-Wu revolution debate, and Han founding legitimacy becoming a scholarly taboo.
 - [705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)](sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296.md) — The Rest Is History episode on Teodros II, Abyssinia, neglected British correspondence, hostage-taking at Magdala, Rassam's failed rescue mission, and the road to the 1868 expedition.
@@ -2446,6 +2447,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [子路 / Zilu / Zhong You](entities/Zilu.md) — Confucius disciple used in Hanji 391-4 as a death-facing ritual dignity example.
+- [赵平君 / Zhao Pingjun](entities/ZhaoPingjunWesternHan.md) — Western Han royal relative whose execution despite close kinship extends the law-over-kinship pattern.
+- [隆虑公主 / Longlü Princess](entities/LongluePrincessWesternHan.md) — Han Wudi's sister whose protective payment for Zhao Pingjun frames the episode's law-versus-affection dilemma.
+- [陈蟜 / 陈娇](entities/ChenJiaoWesternHan.md) — Western Han royal-affinal figure used as family background for Zhao Pingjun's upbringing and legal case.
+- [夷安公主 / Yian Princess](entities/YianPrincessWesternHan.md) — Han Wudi's daughter whose marriage to Zhao Pingjun intensifies the kinship pressure around his execution.
 - [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han wit whose fangshi story grounds humorous remonstrance through absurd extrapolation.
 - [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian disputant whose defense of Tang-Wu revolution exposes the self-reference problem in Han founding legitimacy.
 - [黄生 / Huang Sheng (Western Han)](entities/HuangShengWesternHan.md) — Huang-Lao-side disputant who defends fixed ruler-minister hierarchy against Yuan Gusheng's people-based mandate argument.
@@ -12506,6 +12511,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Aristocratic Death Dignity / 贵族式临终尊严](concepts/AristocraticDeathDignity.md) — Dignity pattern where bodily composure, ritual form, and courtesy at the edge of death express noble spirit.
+- [溺爱不明 / Parental Indulgence Blindness](concepts/ParentalIndulgenceBlindness.md) — Parenting and family-education pattern where love blinds caregivers to faults and turns protection into exemption from limits.
 - [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Corrective speech that uses wit, comic reversal, and absurd extrapolation to expose flattery or false logic near power.
 - [Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区](concepts/TangWuRevolutionLegitimacyTaboo.md) — Political boundary where anti-tyrant revolution legitimates a dynasty's founding but threatens later rulers if treated as repeatable doctrine.
 - [Diplomatic Neglect Escalation](concepts/DiplomaticNeglectEscalation.md) — Pattern where an ignored diplomatic response becomes a crisis amplifier because recognition and status are at stake.
@@ -14433,7 +14439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
-- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
+- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, with Hanji 968 Mao Jie/Qingzhou prehistory and Hanji 1008 Zao Zhi/Ren Jun formal implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.
