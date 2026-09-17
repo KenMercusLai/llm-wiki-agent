@@ -19938,3 +19938,7 @@ Added source note for the How I Built This Advice Line episode where Guy Raz and
 ## [2026-09-17] ingest | 706. Queen Victoria's Revenge: Storming the Citadel (Part 2)
 
 Added source note for the second half of the The Rest Is History Abyssinian sequence, covering the 19 August 1867 cabinet decision, Robert Napier's command, the Anersley Bay landing, the engineered march to Magdala, the Ras Kassa supply bargain, the Battle of Magdala, the release of Hormuzd Rassam and the other hostages, the death of Theodros II with Queen Victoria's gift pistol, the looting and auction of the citadel, and the withdrawal that left Abyssinia leaderless for about twenty years. Created entity pages for Robert Napier, Ras Kassa, Henry Morton Stanley, Charles Duncan Cameron, Menelik II, the Maria Theresa taler, and Flashman on the March, plus concept pages for imperial prestige vindication, imperial logistical spectacle, industrial firepower asymmetry, imperial spoils auction, and punitive expedition power vacuum. Extended Teodros II, Magdala, Abyssinia, Queen Victoria, Hormuzd Rassam, the Abyssinian Expedition of 1868, diplomatic neglect escalation, and the hostage mission dependency trap. No settled contradiction found; Part 2 completes the arc Part 1 deferred, while casualty figures, the roughly £10M cost, the twenty-year chaos, and the prestige-first reading of the cabinet remain source-scoped.
+
+## [2026-09-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
