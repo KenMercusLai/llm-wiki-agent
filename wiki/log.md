@@ -20238,3 +20238,7 @@ Added source `zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhe
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？
 
 Added source `zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i`; updated `KongRong`, migrated and extended `PrestigeCapacityGap`, and updated `index.md` and `overview.md`. Core synthesis: the liquor-ban retort, campaign mockery, and fabricated King Wu-Daji analogy supply the public-provocation prelude to Hanji 1090, showing that cultural prestige and verbal brilliance do not automatically become calibrated dissent or survival capacity under concentrated coercive power. No settled contradiction found; the awakening frame and arrogance diagnosis remain source interpretations, the 2008 date is corrected to 208 CE, and corrupt transcript names, exact wording, household details, motives, and campaign identity remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
