@@ -2539,6 +2539,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
+- [#405 从地理边界到思维边界：我们如何被「划界」塑造？](sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc.md) — 声东击西 conversation with Song Nianshen on relational borders, Northeast Asian mobility, modern identity hardening, colonial inheritance, international law, and disciplinary boundaries.
+
 ## Entities
 - [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
 - [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
@@ -12797,6 +12799,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏飞 / Su Fei (late Han)](entities/SuFeiLateHan.md) — 黄祖旧部，因早年帮助甘宁而在孙权战后处置中获得甘宁以性命担保的赦免。
 - [凌操 / Ling Cao (late Han)](entities/LingCaoLateHan.md) — 凌统之父，其被甘宁射杀的旧怨成为孙权阵营内部必须压制和隔离的血仇风险。
 
+- [宋念申](entities/SongNianshen.md) — Historian connecting Northeast Asian border life and archives to modernity, colonialism, political economy, and question-led interdisciplinary research.
+
 ## Concepts
 - [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
 - [Disorder Stabilization by Stillness / 以静制乱式识别](concepts/DisorderStabilizationByStillness.md) — 通过要求未参与者保持静止来降低混乱、识别主动扰乱者的危机指挥模式。
@@ -20366,5 +20370,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ingredient-Flavor Label Transparency / 食材与风味标签透明度](concepts/IngredientFlavorLabelTransparency.md) — Consumer-information boundary between named-ingredient content and flavor delivered through compound systems.
 - [私人担保式赦免 / Personal-Guarantee Clemency](concepts/PersonalGuaranteeClemency.md) — 可信中介以自身可受追责的承诺承担被赦者风险，使私人信用成为例外宽宥的执行保障。
 - [暴力资本的体制化转换 / Violence-to-Institutional-Legitimacy Conversion](concepts/ViolenceToInstitutionalLegitimacy.md) — 将私人武力、组织与威望转入提供军队、后勤、官位和政治授权的制度平台，同时保留其旧有社会负债。
+
+- [Relational Border / 关系性边界](concepts/RelationalBorder.md) — Border understood as a changing zone of separation, contact, movement, identity, and negotiation rather than only a fixed line.
+- [Modern Boundary Hardening / 现代边界硬化](concepts/ModernBoundaryHardening.md) — Process through which states, markets, and empires make territorial, legal, property, and identity categories more exclusive.
+- [Colonial Category Afterlife / 殖民分类遗产](concepts/ColonialCategoryAfterlife.md) — Persistence of colonial partitions, classifications, institutions, and economic positions after formal decolonization.
+- [Historical International Law / 国际法历史化](concepts/HistoricalInternationalLaw.md) — Method that reconstructs a legal rule's historical problem and power relations before applying it as a present standard.
+- [Problem-Led Interdisciplinarity / 真问题驱动的跨学科](concepts/ProblemLedInterdisciplinarity.md) — Research crossing disciplines because the underlying problem requires it rather than for interdisciplinary branding.
 
 ## Syntheses

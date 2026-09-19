@@ -20266,3 +20266,7 @@ Added source `zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-wei
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | #405 从地理边界到思维边界：我们如何被「划界」塑造？
+
+Added source `405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc`; created `SongNianshen`, `RelationalBorder`, `ModernBoundaryHardening`, `ColonialCategoryAfterlife`, `HistoricalInternationalLaw`, and `ProblemLedInterdisciplinarity`; updated `XuTao`, `ShengdongJixi`, `NortheastModernityTestSite`, and `index.md`. Core synthesis: borders remain relational and porous in lived practice even when modern states, documents, property systems, imperial competition, and colonial categories make them more exclusive; inherited law and disciplinary categories should be historicized rather than treated as neutral starting points. No settled contradiction found; the episode qualifies the “empires have frontiers, nation-states have borders” shorthand with early Tumen-Yalu demarcation, while claims about colonial partitions, Rwanda, international law, Russia-NATO relations, and capitalist expansion remain source-scoped.
