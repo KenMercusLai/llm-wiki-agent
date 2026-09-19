@@ -2505,6 +2505,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 - [《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？](sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc.md) — Post-Red-Cliffs Jiangling and Yiling episode comparing Gan Ning's surprise seizure with Alexander's Sogdian Rock ascent.
+- [《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？](sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr.md) — Red Cliffs episode on Huang Gai's fire attack, Cao Cao's retreat and defensive line, and his post-defeat attempt to reallocate cause and credit.
 
 ## Entities
 - [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
@@ -12713,8 +12714,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
 - [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
+- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river battle whose fire-attack, retreat, corridor-defense, and disputed-credit aftermath reshape the Jingzhou contest.
 
 ## Concepts
+- [Post-Defeat Narrative Counterattack / 败后叙事反击](concepts/PostDefeatNarrativeCounterattack.md) — Reallocating the causes, agency, and credit of a loss to limit political damage and amplify tensions among the victors.
 - [Earned Reward Refusal / 有功辞赏](concepts/EarnedRewardRefusal.md) — Tension between a contributor's principled refusal of deserved reward and an organization's need to keep merit recognition credible.
 - [Catastrophic Failure Root-Cause Investigation](concepts/CatastrophicFailureRootCauseInvestigation.md) — Independent, overlapping inquiry into technical and institutional causes before corrective and preventive action.
 - [CAPA / Corrective and Preventive Action](concepts/CAPACorrectivePreventiveAction.md) — Failure-response sequence of detection, investigation, root-cause confirmation, correction, and prevention.
