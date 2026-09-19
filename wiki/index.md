@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？](sources/zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i.md) — 从禁酒辩难、征讨嘲讽到甄氏信件，呈现孔融如何把文化名望与口才转成对曹操政策、家事和合法性的连续公开挑战。
 - [《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？](sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj.md) — 孔融之死中的政治触发、路粹弹劾、“不孝”污名、子女株连与脂习哭尸，呈现政治清除如何借道德指控获得正当性。
 - [《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？](sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq.md) — 刘琦以“上屋抽梯”逼问诸葛亮后出镇江夏，将继承危机中的退让转成保命、保兵与后续联盟价值。
 - [《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？](sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs.md) — 刘琮在荆州士族推动下降曹、娄圭以符节判断真降，以及财富与猜忌交织下的死亡。
@@ -5765,7 +5766,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏馥 / Xia Fu (late Han)](entities/XiaFuLateHan.md) — Critic of Zhang Jian's collateral flight who hides by disguise, rough labor, and refusal of implicated aid.
 - [杜根 / Du Gen (late Han)](entities/DuGenLateHan.md) — Return-power remonstrant and persecution survivor whose feigned death, fifteen-year concealment, and later memory show non-implicating withdrawal under political danger.
 - [谭嗣同 / Tan Sitong](entities/TanSitong.md) — Qing reformer invoked through a prison-poem allusion pairing Zhang Jian and Du Gen as persecution-memory figures.
-- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose early Zhang Jian sheltering, Xuzhou support, Beihai failure, Mi Heng recommendation, Yuan Shao mission, and Yang Biao challenge show moral courage and prestige-capacity limits.
+- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose moral courage and cultural prestige coexist with Beihai governing failure, escalating satire of Cao Cao, and a politically constructed death case.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official whose welcome-the-emperor argument, adviser recommendation channel, later strategic sequencing, and court-risk interventions shape Cao Cao's early order.
 - [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
@@ -14877,7 +14878,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [领导者轻身涉险 / Leader Personal Exposure](concepts/LeaderPersonalExposure.md) — Sun Ce pattern where solo hunting, weak guard preparation, and final fatal separation from guards turn personal freedom into leader-security and succession risk.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
-- [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
+- [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — 孔融案例中血统、文名与道德声望未能转化为治理、纳谏、权力判断或生存校准能力的落差。
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, distinguishing 192 CE Qingzhou population conversion from 196 CE Xudu institutional implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
