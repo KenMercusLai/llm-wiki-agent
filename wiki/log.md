@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
+
+Added source `tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4`; created `YangYangTelecomResearcher`, `MobileTechnologyConvergence`, `Industrial5GDeploymentConstraint`, `MobileNetworkEnergyTradeoff`, `CellularSatelliteComplementarity`, and `AmbientVoiceAgentInterface`; migrated and updated `GSMStandardization`, `FiveG`, and `SmartphoneAIHub`; updated `FoldablePhoneProductivity`, `FoldableAppAdaptation`, `overview.md`, and `index.md`. Core synthesis: mobile systems become useful only when networks, standards, chips, batteries, spectrum, software ecosystems, form factors, and ownership models align; future interaction may distribute the hub across a phone, body-worn microphone, edge nodes, and cloud services. No settled contradiction found; the microphone endpoint qualifies rather than eliminates the phone-hub thesis, while Xiaomi-sponsored foldable forecasts and quantitative specifications remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？
 
 Added source `zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz`; created `InstitutionalExitEscalation`; migrated and updated `CaoCao`, `CaoSong`, and `Chenliu`; and updated `CaoTengLateHan`, `index.md`, and `overview.md`. Core synthesis: Cao Cao's first return to Qiao was an imposed dismissal by association, his second is interpreted as preventive resignation under eunuch and local-elite retaliation risk, and his final break from Dong Zhuo became viable through Zhang Miao's protection and Chenliu's geography and resources. No settled contradiction found; Jinan motive, simplified appointment mechanics, and Cao Song's possible financing of the first army remain source-scoped.

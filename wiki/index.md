@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
 - [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
 - [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
@@ -2544,6 +2545,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 
 ## Entities
+- [杨旸 / Yang Yang (Telecommunications Researcher)](entities/YangYangTelecomResearcher.md) — 移动通信与物联网研究者，连接航空、工业、水利、5G/6G与边缘智能终端实践。
 - [Deloitte](entities/Deloitte.md) — Professional-services firm cited for a source-scoped forecast of the emerging AI-insurance market.
 - [Corgi (AI insurance)](entities/CorgiAIInsurance.md) — Technology-company insurer offering explicit coverage for AI-caused statements, calculations, and outages.
 - [Claimy](entities/Claimy.md) — AI-insurance startup linking adversarial agent tests, remediation, and scores to premiums.
@@ -12816,6 +12818,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [Ambient Voice Agent Interface](concepts/AmbientVoiceAgentInterface.md) — Microphone-centered natural-language endpoint backed by personalized edge and cloud agents.
+- [Cellular-Satellite Complementarity](concepts/CellularSatelliteComplementarity.md) — Coverage model where cellular dominates dense areas and satellites extend remote and emergency service.
+- [Industrial 5G Deployment Constraint](concepts/Industrial5GDeploymentConstraint.md) — Spectrum, ownership, cost, and private-network barriers between industrial 5G capability and adoption.
+- [Mobile Network Energy Tradeoff](concepts/MobileNetworkEnergyTradeoff.md) — Power and coverage costs associated with bandwidth, frequency, site density, and multi-antenna systems.
+- [Mobile Technology Convergence](concepts/MobileTechnologyConvergence.md) — Mobile-device development as joint maturity across networks, chips, batteries, materials, software, and form factor.
 - [AI Liability Insurance](concepts/AILiabilityInsurance.md) — Explicit financial coverage for defined harms caused by AI system outputs or actions.
 - [AI Agent Risk Testing](concepts/AIAgentRiskTesting.md) — Claim-oriented agent testing linked to remediation, retesting, and insurance pricing.
 - [AI Insurance Data Scarcity](concepts/AIInsuranceDataScarcity.md) — Lack of stable historical loss evidence for modeling AI claim frequency and severity.

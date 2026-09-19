@@ -648,12 +648,13 @@
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
-      "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc"
+      "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
+      "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 648
+    "paragraph_count": 649
   },
-  "overview_commit": "2c853c500824df5c6b1bd8004a8f36ef71530f7f",
-  "overview_digest": "4b979f1a74496a8825ac15be21154238127bb7745f1ea2d98d9c15eeae5d8d1f",
+  "overview_commit": "5134baf8391745438ac57f3298af8c231dd367b0",
+  "overview_digest": "313e56a6b0212eb405705899b959508a9c604485c1ff965d0a3b558451505938",
   "paragraphs": [
     {
       "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
@@ -19673,6 +19674,36 @@
         "SunQuan",
         "ViolenceToInstitutionalLegitimacy",
         "zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf"
+      ]
+    },
+    {
+      "id": "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4|特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年]], a [[HuzuoHuyou|忽左忽右]] conversation with [[YangYangTelecomResearcher|杨旸]] on mobile communication as the convergence of networks, chips, batteries, materials, software, and industrial design. It adds [[YangYangTelecomResearcher]], [[MobileTechnologyConvergence]], [[Industrial5GDeploymentConstraint]], [[MobileNetworkEnergyTradeoff]], [[CellularSatelliteComplementarity]], and [[AmbientVoiceAgentInterface]], while extending [[GSMStandardization]], [[FiveG|5G]], [[FoldablePhoneProductivity]], [[FoldableAppAdaptation]], and [[SmartphoneAIHub]]. Its core synthesis is that technical capability becomes useful only when standards, terminals, energy, spectrum, business ownership, software ecosystems, and form factor align; the likely future terminal may distribute identity and compute across a phone, body-worn microphone, edge nodes, and cloud services rather than choosing one device. No settled contradiction is recorded; the microphone endpoint qualifies but does not erase the phone-hub thesis, while the Xiaomi-sponsored foldable forecast, product specifications, network counts, frequency examples, hinge durability, historical dates, and 6G timing remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AmbientVoiceAgentInterface",
+        "CellularSatelliteComplementarity",
+        "FiveG",
+        "FoldableAppAdaptation",
+        "FoldablePhoneProductivity",
+        "GSMStandardization",
+        "HuzuoHuyou",
+        "Industrial5GDeploymentConstraint",
+        "MobileNetworkEnergyTradeoff",
+        "MobileTechnologyConvergence",
+        "SmartphoneAIHub",
+        "YangYangTelecomResearcher",
+        "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4"
       ]
     }
   ],
