@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
       "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
       "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
@@ -647,11 +648,35 @@
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
     ],
-    "paragraph_count": 645
+    "paragraph_count": 646
   },
-  "overview_commit": "820446de71e1473c7a21a0a979b8cbc60be0d8e8",
-  "overview_digest": "464d9ad4ddf8b6dff50411b706ad0f751fc16718434303eb6181cad94ca6889b",
+  "overview_commit": "539307352e93e6371b0413efa7c4079b167a21f7",
+  "overview_digest": "0e4e37094f1fe733fe7095798df7124e381c4a00b4469e97fdd607a2ab23edc7",
   "paragraphs": [
+    {
+      "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing [[KongRong|孔融]]'s 208 CE death branch. It adds [[ZhiXiLateHan|脂习]], [[LuCuiLateHan|路粹]], and [[KongRongChildren|孔融子女]], while extending [[MoralSlanderReframing|道德诬陷焦点转移]] and [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]]. Its core synthesis is that a political challenge can be converted into a publicly defensible death case by bundling security, association, hierarchy, and private-morality charges: the “unfilial” label is qualified by Kong Rong's earlier responsibility-taking and reported mourning, his children's deaths expose the household reach of punishment, and Zhi Xi's surviving act of mourning shows that terror can isolate a body without fully controlling reputation. No settled contradiction is recorded; the proposal wording, charge text, sayings, children's details, dialogue, and Cao Cao's motive remain source-scoped, while “希律” is normalized to the received Lu Cui identity.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "FuneraryDefianceUnderPoliticalTerror",
+        "KongRong",
+        "KongRongChildren",
+        "LuCuiLateHan",
+        "MoralSlanderReframing",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhiXiLateHan",
+        "zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj"
+      ]
+    },
     {
       "id": "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "primary_topic": "governance-and-institutions",

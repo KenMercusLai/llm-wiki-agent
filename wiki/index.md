@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？](sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj.md) — 孔融之死中的政治触发、路粹弹劾、“不孝”污名、子女株连与脂习哭尸，呈现政治清除如何借道德指控获得正当性。
 - [《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？](sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq.md) — 刘琦以“上屋抽梯”逼问诸葛亮后出镇江夏，将继承危机中的退让转成保命、保兵与后续联盟价值。
 - [《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？](sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs.md) — 刘琮在荆州士族推动下降曹、娄圭以符节判断真降，以及财富与猜忌交织下的死亡。
 - [《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？](sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o.md) — 荆州百姓以刘备仁德与曹操屠城声誉比较风险，十余万人追随又成为撤退负担和可见政治资本的长坂坡前因。
@@ -2535,6 +2536,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
+- [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
+- [孔融子女 / Kong Rong's children](entities/KongRongChildren.md) — “覆巢之下，安有完卵”场景中的两名未具名幼子女，体现政治追诉向家庭毁灭的扩张。
 - [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 黄祖死后由刘琦出镇的荆州东部要地，使继承危机中的离开同时保留兵力与战略价值。
 - [娄圭 / Lou Gui (Late Han)](entities/LouGuiLateHan.md) — 以符节判断刘琮真降、富于曹操却缺乏相应势力，后因歧义言论遭告发处死的曹营谋士。
 - [张允 / Zhang Yun (Late Han)](entities/ZhangYunLateHan.md) — 与蔡瑁共同阻止刘琦探视刘表、支持刘琮继位的荆州官员。
@@ -14435,7 +14439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [权力欲自律 / Power Desire Self-Restraint](concepts/PowerDesireSelfRestraint.md) — Pattern where holding authority requires restraining the urge to convert access, property pressure, procedure, or proximity into private revenge and maximum personal power.
 - [农本民生优先于币制调整 / Agrarian Livelihood Before Currency Reform](concepts/AgrarianLivelihoodBeforeCurrencyReform.md) — Liu Tao's Hanji 843 poverty-diagnosis pattern where food, cloth, farming damage, official extraction, and rest-for-recovery outrank coin-weight reform.
 - [报复性政治恐怖 / Retaliatory Political Terror](concepts/RetaliatoryPoliticalTerror.md) — Late-Han pattern where Dou Xian and Liang Ji convert public refusal, warning, omission, lawful enforcement, property resistance, mourning, and partial compliance into accusation, death, exile, torture, confiscation, or household liability.
-- [Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命](concepts/FuneraryDefianceUnderPoliticalTerror.md) — Pattern where mourning, guarding, and returning bodies under a mourning ban preserve reputation and expose the limits of intimidation.
+- [Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命](concepts/FuneraryDefianceUnderPoliticalTerror.md) — Mourning, guarding, or recovering politically exposed bodies preserves reputation and tests the practical limits of intimidation.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
@@ -14989,7 +14993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [信任型宦官权力形成 / Trusted Eunuch Power Formation](concepts/TrustedEunuchPowerFormation.md) — Eunuch influence formation through competence, affective access, information channels, crisis usefulness, ruler trust, reward restraint, and inner-court consultation.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
-- [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
+- [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Defensive return from private scandal to relevant evidence, and the inverse use of moral stigma to make political punishment publicly defensible.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
 - [Crisis Withdrawal Self-Protection / 危局抽身自保](concepts/CrisisWithdrawalSelfProtection.md) — Late-Han pattern where actors preserve life and moral autonomy by lowering exposure, guarded speech, feigned death, withdrawal, or avoiding contacts who would become collateral targets.
 - [Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险](concepts/FugitiveShelterCollateralRisk.md) — Pattern where hiding a politically pursued person can save them but transfer danger to hosts, kin, friends, local officials, and helpers.

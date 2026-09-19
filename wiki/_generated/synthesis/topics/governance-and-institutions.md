@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: bc6128fbdb91d357e4f71da4e1e46f2efec20f8b
-input_digest: 72f0cd3d67c474435b15a7969b0232bb9e855031215625d090b4457456166641
+as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
+input_digest: 0d6d97a2368b4fa76b9370151c8687413a33049ff53daefda059121daf159869
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Hanji 1098 adds the complementary weak-actor mechanism: Liu Bei converts repeated dependence, Xinye dormancy, reputation, and adviser planning into portable organizational capacity. Hanji 1092 adds the succession boundary between them: elite dependence shapes a weak ruler's surrender incentives, a costly token makes submission credible, and private wealth remains unsafe without autonomy from ruler power. Across these cases, institutional judgment must distinguish visible evidence from inferred motive, formal designation from publicly contested authority, costly commitment from certainty, and borrowed platforms or wealth from protected independent capacity.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity.
 
 ## Cross-source Findings
 
@@ -2304,3 +2304,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The claim is source-scoped to one popular-history episode and does not independently verify exact dialogue, the tally's legal form, the seven-commandery outcome, elite private motives, or the formal mode of Lou Gui's execution.
 - Fu Xun's forecast about Liu Bei after victory is counterfactual, while Lou Gui's wealth source and Cao Cao's alleged prior murderous intent are not established.
 - A costly surrender token updates credibility but does not guarantee compliance by every official, garrison, or local elite.
+
+### Moralized Political Prosecution Bundles Public And Private Charges
+
+[[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] presents [[KongRong|Kong Rong]]'s death as moralized political prosecution: [[LuCuiLateHan|Lu Cui]] bundles security, association, hierarchy, and allegedly unfilial speech into a public case, [[KongRongChildren|Kong Rong's children]] expose its household reach, and [[ZhiXiLateHan|Zhi Xi]] shows through surviving mourning that coercive power does not fully control reputation.
+
+**Evidence:** [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj]], [[KongRong]], [[LuCuiLateHan]], [[KongRongChildren]], [[ZhiXiLateHan]], [[MoralSlanderReframing]], [[FuneraryDefianceUnderPoliticalTerror]]
+
+**Qualifications:**
+
+- The episode is a popular-history interpretation and does not independently verify the proposal wording, charge text, sayings, children's details, dialogue, or Cao Cao's motive.
+- Biographical counterevidence qualifies the unfilial label but does not prove that every attributed saying is false.
+- The transcript name 希律 is normalized to Lu Cui and remains a source-critical correction.

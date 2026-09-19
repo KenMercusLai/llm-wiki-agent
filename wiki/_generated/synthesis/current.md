@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: bc6128fbdb91d357e4f71da4e1e46f2efec20f8b
+as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
 summary: "Durable value across the wiki depends on evidence, operational capacity, trusted relationships, explicit boundaries, and the ability to convert change into usable systems."
-episode_count: 2524
-source_count: 2524
-paragraph_count: 645
+episode_count: 2526
+source_count: 2526
+paragraph_count: 646
 topic_count: 8
 ---
 
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-AI capability becomes useful through workflows, verification, context, permissions, economics, infrastructure, and grounded human responsibility.
+AI capability becomes useful through grounded workflows, verification, context, permissions, infrastructure, economics, and retained human responsibility.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
 - [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] adds a staged AI-industrialization frame: [[AIIndustrializationThreeStages]] treats tokenized model access as infrastructure, [[AgentEntryPoint]] treats the next layer as agent discovery and invocation, and [[ModelCompaniesAsAIInfrastructure]] qualifies [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] by separating AI-cloud providers from future native application winners; [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] make outcome feedback, task-centered work, and contrarian strategy part of AI capability capture. Evidence: [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p]], [[ZengMing]], [[AIIndustrializationThreeStages]], [[ModelCompaniesAsAIInfrastructure]], [[AgentEntryPoint]], [[ModelAsOperatingSystem]], [[FrontierModelDuopoly]], [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], [[StrategicGeneration]], [[OpenAI]], [[Anthropic]].
@@ -50,21 +50,21 @@ Cultural form acts as infrastructure: medium, material, audience practice, prove
 
 ### Governance and Institutions
 
-Authority depends on rules plus control of appointments, information, symbols, blame, credible commitments, and capacity protected beyond borrowed platforms or private wealth.
+Authority depends on rules plus control of information, symbols, blame, evidence, credible commitments, and capacity protected from concentrated power.
 
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence. Evidence: [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]].
 - [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems. Evidence: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]].
 
 ### History and Geopolitics
 
-Usable state capacity joins legitimacy, routes, logistics, organization, credibility, coalition sequencing, and post-conquest personnel transfer.
+Usable state capacity joins legitimacy, routes, logistics, organization, credibility, coalition sequencing, personnel transfer, and control of public memory.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 
-Growth evidence emphasizes embodied regulation, relational safety, calibrated action, careful self-interpretation, and firm clinical boundaries.
+Growth evidence emphasizes embodied regulation, relational safety, calibrated action, contextual self-interpretation, and firm clinical boundaries.
 
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 - [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].

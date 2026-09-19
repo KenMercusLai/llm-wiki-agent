@@ -20230,3 +20230,7 @@ Added source `zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-s
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？
+
+Added source `zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj`; created `ZhiXiLateHan`, `LuCuiLateHan`, and `KongRongChildren`; updated `KongRong`, `MoralSlanderReframing`, `FuneraryDefianceUnderPoliticalTerror`, `index.md`, and `overview.md`. Core synthesis: Kong Rong's capital-region challenge is followed by a charge bundle that joins political security, association, hierarchy, and “unfilial” stigma; earlier responsibility-taking and reported mourning qualify the moral label, his children's deaths expose household-level punishment, and Zhi Xi's public mourning preserves reputation under fear. No settled contradiction found; “希律” is normalized to 路粹, while proposal wording, charge text, sayings, children's ages and genders, dialogue, and Cao Cao's motive remain source-scoped.
