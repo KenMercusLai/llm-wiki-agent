@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
 - [《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？](sources/zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i.md) — 从禁酒辩难、征讨嘲讽到甄氏信件，呈现孔融如何把文化名望与口才转成对曹操政策、家事和合法性的连续公开挑战。
 - [《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？](sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj.md) — 孔融之死中的政治触发、路粹弹劾、“不孝”污名、子女株连与脂习哭尸，呈现政治清除如何借道德指控获得正当性。
 - [《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？](sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq.md) — 刘琦以“上屋抽梯”逼问诸葛亮后出镇江夏，将继承危机中的退让转成保命、保兵与后续联盟价值。
@@ -2537,6 +2538,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
+- [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
 - [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
 - [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
 - [孔融子女 / Kong Rong's children](entities/KongRongChildren.md) — “覆巢之下，安有完卵”场景中的两名未具名幼子女，体现政治追诉向家庭毁灭的扩张。
@@ -2561,7 +2564,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
-- [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
+- [马超 / Ma Chao](entities/MaChao.md) — 马腾入朝后承接西部兵权、其后起兵并在渭南败于曹操的关中联盟核心人物。
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
@@ -5632,7 +5635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
 - [华阴 / Huayin (late Han)](entities/HuayinLateHan.md) — Corridor site where Emperor Xian reaches Duan Wei's supplies and where route control, rumor, and survival politics converge.
 - [杜袭 / Du Xi (late Han)](entities/DuXiLateHan.md) — Yingchuan refugee who warns that Liu Biao's hospitality should not become premature talent exposure or final allegiance.
-- [赵俨 / Zhao Yan (late Han)](entities/ZhaoYanLateHan.md) — Yingchuan refugee turned Cao official whose profile now joins Langling law-over-kinship enforcement with Yang'an fiscal-risk mediation.
+- [赵俨 / Zhao Yan (late Han)](entities/ZhaoYanLateHan.md) — 从朗陵执法、阳安财政风险调解延伸到于禁乐进两军协调的颍川官员。
 - [阳安 / Yang'an (late Han)](entities/YangAnLateHan.md) — Loyal but exposed late-Han locality where Zhao Yan and Li Tong pause cotton-silk collection to preserve stability.
 - [繁钦 / Fan Qin (late Han)](entities/FanQinLateHan.md) — Talented Yingchuan refugee whose visible brilliance before Liu Biao becomes the cautionary side of concealed capability timing.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general who resists Yang Ding while feeding Emperor Xian, later serving as Jia Xu's suspicious host before Jia Xu joins Zhang Xiu.
@@ -5675,7 +5678,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family resource contributor and battlefield rescuer whose later client network tests law over kinship.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
-- [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader whose profile moves from Liangzhou rebel formation and Guanzhong conflict into Fu Gan-framed cooperation with Zhong Yao against Guo Yuan.
+- [马腾 / Ma Teng](entities/MaTeng.md) — 从凉州起兵、关中博弈和曹方合作走向208年入朝、兵权交子与家属迁邺的西部军事领袖。
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
@@ -12790,6 +12793,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Disorder Stabilization by Stillness / 以静制乱式识别](concepts/DisorderStabilizationByStillness.md) — 通过要求未参与者保持静止来降低混乱、识别主动扰乱者的危机指挥模式。
 - [外镇避祸式生存 / Peripheral Command Exit Strategy](concepts/PeripheralCommandExitStrategy.md) — 暴露于继承斗争的内部人以外镇拉开距离，同时保留兵权、地盘、名义或结盟价值的生存策略。
 - [Surrender-Token Credibility / 降服凭证式可信度](concepts/SurrenderTokenCredibility.md) — 通过交出稀缺政治凭证削弱自身继续独立行动的能力，从而让投降比口头承诺更可信。
 - [Civilian Followership as Political Capital / 百姓追随型政治资本](concepts/CivilianFollowershipPoliticalCapital.md) — 百姓基于安全判断主动追随时，同一群体既构成军事后勤负担，也成为可见的信任与合法性资产。
@@ -15293,7 +15297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
 - [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Pattern where loyalty to a killed ruler or commander becomes organized revenge, from Wang Sun Gu's public pledge to Lady Xu's covert Sun Gao-Fu Ying ambush.
-- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where loyalty, duty, refuge, or honor shifts danger onto family, hosts, followers, civilians, or local people.
+- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — 忠义、职责、庇护或他人后续行动把风险转嫁给家属、主人、追随者与地方共同体的模式。
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where victory inflates confidence, relaxes discipline, exhausts support, kills corrective feedback, or invites tactical reversal.

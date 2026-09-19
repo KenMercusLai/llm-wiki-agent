@@ -20242,3 +20242,7 @@ Added source `zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？
+
+Added source `zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil`; created `ZhangJiCaoOfficialLateHan`, `LeJinLateHan`, and `DisorderStabilizationByStillness`; updated `ZhangLiao`, `ZhaoYanLateHan`, `MaTeng`, `MaChao`, `LoyaltyCollateralDilemma`, `index.md`, and `overview.md`. Core synthesis: Zhang Liao contains a minority night mutiny by making stillness an identification rule, Zhao Yan coordinates rival commands through delegated authority, and Zhang Ji turns Ma Teng's promised court journey into a public commitment before office, command, and household are separated. No settled contradiction found; transcript names are normalized where context is clear, while quotations, exact numbers, motives, genealogy, office mechanics, institutional-precursor claims, household timing, and the hostage maxim remain source-scoped.
