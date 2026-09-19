@@ -20298,3 +20298,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战
+
+Added source `no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748`; created `Tonglu`, `ChinaPost`, `NieTengfei`, `ChenDejun`, `YuWeijiao`, `LaiMeisong`, `WangWeiSF`, `LiJieJAndT`, `STOExpress`, `YTOExpress`, `ZTOExpress`, `YundaExpress`, `JAndTExpress`, `Cainiao`, `TongluExpressCluster`, `PostalMonopolyPrivateExpressLegalization`, `ChinaExpressFranchiseModel`, `ExpressNetworkInfrastructureCentralization`, `PlatformExpressInterdependence`, `EcommerceExpressPriceWar`, `LastMileCourierCompensation`, and `ExpressAntiInvolutionPriceFloor`; and updated `index.md` and `overview.md`. Core synthesis: hometown trust and franchise capital enabled fast national coverage, platform demand and centralized logistics infrastructure made low-cost scale possible, and volume incentives transferred price-war pressure to outlets and couriers until regional cost-floor regulation created a partial pricing reset. No settled contradiction found; origin stories, legal details, transaction values, operating metrics, and 2025-2026 figures remain source-scoped.

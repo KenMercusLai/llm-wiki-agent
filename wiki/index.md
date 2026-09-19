@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
 - [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
@@ -2545,6 +2546,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 
 ## Entities
+- [桐庐](entities/Tonglu.md) — Zhejiang county whose hometown trust network produced several national express carriers and later became a logistics-cluster development strategy.
+- [中国邮政](entities/ChinaPost.md) — universal-service postal system and historical reserved-letter institution in the private-express legalization story.
+- [聂腾飞](entities/NieTengfei.md) — early Hangzhou-Shanghai document-delivery entrepreneur and founder of the business that became 申通.
+- [陈德军](entities/ChenDejun.md) — early Shanghai network builder and later leader of 申通.
+- [喻渭蛟](entities/YuWeijiao.md) — founder of 圆通 and early adopter of the Taobao price-for-volume bargain.
+- [赖梅松](entities/LaiMeisong.md) — founder of 中通 and advocate of scheduled trunk infrastructure before demand fully arrived.
+- [王卫（顺丰）](entities/WangWeiSF.md) — SF founder associated with the shift from franchising to direct operation.
+- [李杰（极兔）](entities/LiJieJAndT.md) — J&T founder who transferred a regional-agent model from Indonesia into China.
+- [申通快递](entities/STOExpress.md) — early Tonglu franchise carrier descended from the 盛彤 document-delivery business.
+- [圆通速递](entities/YTOExpress.md) — major franchise carrier and early Taobao logistics partner.
+- [中通快递](entities/ZTOExpress.md) — infrastructure-led franchise carrier known for trunk routes, hub control, and paid delivery settlement.
+- [韵达快递](entities/YundaExpress.md) — family-split branch of the early Tonglu express network and major ecommerce carrier.
+- [极兔速递](entities/JAndTExpress.md) — Indonesia-founded, capital-backed entrant that accelerated Chinese express consolidation.
+- [菜鸟网络](entities/Cainiao.md) — Alibaba-led logistics data platform associated with electronic waybills and platform-carrier coordination.
 - [杨旸 / Yang Yang (Telecommunications Researcher)](entities/YangYangTelecomResearcher.md) — 移动通信与物联网研究者，连接航空、工业、水利、5G/6G与边缘智能终端实践。
 - [Deloitte](entities/Deloitte.md) — Professional-services firm cited for a source-scoped forecast of the emerging AI-insurance market.
 - [Corgi (AI insurance)](entities/CorgiAIInsurance.md) — Technology-company insurer offering explicit coverage for AI-caused statements, calculations, and outages.
@@ -12818,6 +12833,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [桐庐快递产业集群](concepts/TongluExpressCluster.md) — trust-based founder and operator network later institutionalized as a place-based logistics cluster.
+- [邮政专营与民营快递合法化](concepts/PostalMonopolyPrivateExpressLegalization.md) — transition from reserved-letter conflict to licensed private express operation.
+- [中国快递加盟制](concepts/ChinaExpressFranchiseModel.md) — split between headquarters-controlled brand and trunk systems and locally funded outlets bearing operating risk.
+- [快递网络基础设施收权](concepts/ExpressNetworkInfrastructureCentralization.md) — headquarters control of hubs, routes, settlement, automation, and routing data.
+- [电商平台与快递网络互相依赖](concepts/PlatformExpressInterdependence.md) — reciprocal dependence between platform order/data scale and cheap nationwide fulfillment.
+- [电商快递价格战](concepts/EcommerceExpressPriceWar.md) — volume-, capacity-, and market-share-driven parcel price competition.
+- [快递末端派费与劳动压力](concepts/LastMileCourierCompensation.md) — network settlement and courier pay through which price pressure reaches the last mile.
+- [快递反内卷与区域成本底线](concepts/ExpressAntiInvolutionPriceFloor.md) — regulatory use of regional cost baselines against below-cost competition.
 - [Ambient Voice Agent Interface](concepts/AmbientVoiceAgentInterface.md) — Microphone-centered natural-language endpoint backed by personalized edge and cloud agents.
 - [Cellular-Satellite Complementarity](concepts/CellularSatelliteComplementarity.md) — Coverage model where cellular dominates dense areas and satellites extend remote and emergency service.
 - [Industrial 5G Deployment Constraint](concepts/Industrial5GDeploymentConstraint.md) — Spectrum, ownership, cost, and private-network barriers between industrial 5G capability and adoption.
