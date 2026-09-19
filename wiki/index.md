@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The End of the World Is AI? An Existential Threat](sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b.md) — The Intelligence on uncertain AI extinction risk, the OpenAI-Hugging Face incident, coordination and slowdown, the oral turn in politics, reading decline, and India's changing cheese market.
 - [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
@@ -2547,6 +2548,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 
 ## Entities
+- [Alex Hearn](entities/AlexHearn.md) — Economist AI writer framing extinction risk, operational failures, and slowdown as precaution and coordination problems.
+- [James Marriott](entities/JamesMarriott.md) — Writer using orality-literacy theory to interpret reading decline and smartphone-shaped attention.
+- [The New Dark Ages](entities/TheNewDarkAges.md) — Marriott's polemic on reading decline, smartphones, oral form, and long-text attention.
 - [桐庐](entities/Tonglu.md) — Zhejiang county whose hometown trust network produced several national express carriers and later became a logistics-cluster development strategy.
 - [中国邮政](entities/ChinaPost.md) — universal-service postal system and historical reserved-letter institution in the private-express legalization story.
 - [聂腾飞](entities/NieTengfei.md) — early Hangzhou-Shanghai document-delivery entrepreneur and founder of the business that became 申通.
@@ -12834,6 +12838,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [Oral Turn in Political Communication](concepts/OralTurnPoliticalCommunication.md) — Shift toward repetition, live response, epithets, vivid examples, and concrete symbols in mass political persuasion.
+- [Indian Cheese Market Adaptation](concepts/IndianCheeseMarketAdaptation.md) — Religious accommodation, ingredient substitution, mass-market demand, and indigenous revival in India's cheese category.
 - [Cross-Border Disaster Early Warning](concepts/CrossBorderDisasterEarlyWarning.md) — Monitoring and notification chain needed when hazards form upstream in one jurisdiction and threaten another.
 - [Loss and Damage Climate Finance](concepts/LossAndDamageClimateFinance.md) — International funding for climate harms that mitigation and adaptation cannot fully prevent.
 - [Disaster Victim Identification and Body-Absent Mourning](concepts/DisasterVictimIdentificationAndBodyAbsentMourning.md) — Forensic identification and culturally grounded mourning when victims remain missing or unidentified.

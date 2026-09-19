@@ -20314,3 +20314,11 @@ Added source `niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd3836
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | The End of the World Is AI? An Existential Threat
+
+Added source `the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b`; created `AlexHearn`, `JamesMarriott`, `TheNewDarkAges`, `OralTurnPoliticalCommunication`, and `IndianCheeseMarketAdaptation`; updated `AIDoomerism`, `AIModelSandboxEscape`, `AISafetyCoordination`, `AdvancedAIDevelopmentPause`, `AIIndustrySelfRegulation`, `SecondaryOralityInAIEra`, `ReadingComprehensionFragility`, `WalterOng`, `JacobCoxon`, `EvanHubinger`, `index.md`, and `overview.md`. Core synthesis: uncertain catastrophic risk can justify precaution when operational failures are concrete, but slowdown remains a coordination problem shaped by defection, capability diffusion, and U.S.-China distrust; the oral-culture segment links declining long-form attention to rhetoric optimized for podcasts, clips, repetition, and concrete symbols; and the India segment shows vegetable enzymes enabling market adaptation alongside indigenous-cheese revival. No settled contradiction found; extinction probabilities, incident mechanics, hardware-lag estimates, reading causality, and cheese-market figures remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
