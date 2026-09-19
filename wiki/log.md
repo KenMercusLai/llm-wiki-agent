@@ -20254,3 +20254,7 @@ Ran lint after health and identity validation passed across 20,342 wiki pages. D
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？
 
 Added source `zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq`; created `SimaYi` and `SelectionDrivenVirtueSignaling`; updated `CuiYanLateHan` and migrated `MaoJie` to `synthesis-v1`; and updated `index.md` and `overview.md`. Core synthesis: Cui Yan and Mao Jie's selection criteria make visible frugality into a political safety and advancement signal without proving inner virtue, while Sima Yi's claimed illness fails as refusal once Cao Cao threatens arrest. No settled contradiction found; the awakening opening is unrelated framing, while the reform's strategic purpose, elite sincerity, great-clan displacement, later punishments, exact recruitment dialogue, illness truth, motives, Cao Shuang comparison, and *Book of Jin* intent remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
