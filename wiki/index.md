@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
 - [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
 - [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
 - [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
@@ -2543,6 +2544,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 
 ## Entities
+- [Deloitte](entities/Deloitte.md) — Professional-services firm cited for a source-scoped forecast of the emerging AI-insurance market.
+- [Corgi (AI insurance)](entities/CorgiAIInsurance.md) — Technology-company insurer offering explicit coverage for AI-caused statements, calculations, and outages.
+- [Claimy](entities/Claimy.md) — AI-insurance startup linking adversarial agent tests, remediation, and scores to premiums.
+- [Gallagher](entities/GallagherInsurance.md) — Traditional insurance brokerage perspective on AI policy wording, exclusions, and modeling limits.
+- [Nico Lacqua](entities/NicoLacqua.md) — Corgi chief executive associated with its AI liability product and San Francisco cafe.
+- [Ines Butemacha](entities/InesButemacha.md) — Claimy representative explaining test-linked AI underwriting and premium incentives.
+- [John Farley (Gallagher)](entities/JohnFarleyGallagher.md) — Cyber-risk executive describing insurers' move from silence to scrutiny on AI.
 - [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
 - [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
 - [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
@@ -12808,6 +12816,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [AI Liability Insurance](concepts/AILiabilityInsurance.md) — Explicit financial coverage for defined harms caused by AI system outputs or actions.
+- [AI Agent Risk Testing](concepts/AIAgentRiskTesting.md) — Claim-oriented agent testing linked to remediation, retesting, and insurance pricing.
+- [AI Insurance Data Scarcity](concepts/AIInsuranceDataScarcity.md) — Lack of stable historical loss evidence for modeling AI claim frequency and severity.
 - [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
 - [Disorder Stabilization by Stillness / 以静制乱式识别](concepts/DisorderStabilizationByStillness.md) — 通过要求未参与者保持静止来降低混乱、识别主动扰乱者的危机指挥模式。
 - [外镇避祸式生存 / Peripheral Command Exit Strategy](concepts/PeripheralCommandExitStrategy.md) — 暴露于继承斗争的内部人以外镇拉开距离，同时保留兵权、地盘、名义或结盟价值的生存策略。

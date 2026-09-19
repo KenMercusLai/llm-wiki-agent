@@ -4950,9 +4950,25 @@
         "MoralSlanderReframing",
         "FuneraryDefianceUnderPoliticalTerror"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "ai-insurance-governs-through-wording-testing-and-price",
+      "qualifications": [
+        "The episode does not establish settled liability doctrine, approved exclusion language, independent test calibration, or actual claims outcomes.",
+        "Insurance can allocate financial risk without resolving safety, accountability, or reputational harm."
+      ],
+      "statement": "[[AILiabilityInsurance]] is also a governance mechanism: explicit policy wording allocates responsibility, [[AIAgentRiskTesting]] creates pre-loss evidence, and score-linked premiums can reward remediation, while possible exclusions show how institutions may instead contain uncertainty.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128",
+        "AILiabilityInsurance",
+        "AIAgentRiskTesting",
+        "GallagherInsurance"
+      ]
     }
   ],
-  "input_digest": "7d34eabc89227dd64876d9972bcb9c2320ced152c786f1ad25526ef80d3348dd",
-  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity.",
+  "input_digest": "3b0e72f30eb9744f8c4924250b41d049b6904e879bd8a484031f22265e5d4ccc",
+  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity. The newest AI-insurance branch adds private governance through policy wording and underwriting: coverage, exclusions, testing, and premium incentives allocate responsibility, but thin loss data and unsettled legal boundaries require validation and regulatory scrutiny.",
   "topic_id": "governance-and-institutions"
 }

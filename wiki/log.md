@@ -20282,3 +20282,7 @@ Added source `rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd`; cre
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Insurers race to cover AI errors
+
+Added source `tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128`; created `CorgiAIInsurance`, `Claimy`, `GallagherInsurance`, `Deloitte`, `NicoLacqua`, `InesButemacha`, `JohnFarleyGallagher`, `AILiabilityInsurance`, `AIAgentRiskTesting`, and `AIInsuranceDataScarcity`. Core synthesis: explicit AI coverage and possible traditional-policy exclusions are diverging responses to thin historical loss data, while claim-oriented agent tests can link remediation to lower premiums and turn underwriting into a pre-loss safety incentive. No settled contradiction found; adoption, market-size, policy-language, pricing, regulatory-approval, and claims-performance claims remain source-scoped.

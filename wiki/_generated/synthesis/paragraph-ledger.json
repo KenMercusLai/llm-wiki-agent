@@ -642,6 +642,7 @@
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
       "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
       "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
+      "22ddf6968275a870f4bf0648208ddef9e9562574b7c95264f146ff0a5a1038f9",
       "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
@@ -649,10 +650,10 @@
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc"
     ],
-    "paragraph_count": 647
+    "paragraph_count": 648
   },
-  "overview_commit": "b925bcb222d0725ad6133688c149149f32781a34",
-  "overview_digest": "4cdbf7e477ff9031b2777f7e54e6545beb9ea3759755974db34abb84151a07af",
+  "overview_commit": "2c853c500824df5c6b1bd8004a8f36ef71530f7f",
+  "overview_digest": "4b979f1a74496a8825ac15be21154238127bb7745f1ea2d98d9c15eeae5d8d1f",
   "paragraphs": [
     {
       "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
@@ -19512,6 +19513,35 @@
         "FlockSafety",
         "MarketplaceTech",
         "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "22ddf6968275a870f4bf0648208ddef9e9562574b7c95264f146ff0a5a1038f9",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128|Insurers race to cover AI errors]], a [[MarketplaceTech]] episode on insurance as infrastructure for enterprise AI adoption. It adds [[CorgiAIInsurance|Corgi]], [[Claimy]], [[GallagherInsurance|Gallagher]], [[Deloitte]], [[NicoLacqua]], [[InesButemacha]], [[JohnFarleyGallagher|John Farley]], [[AILiabilityInsurance]], [[AIAgentRiskTesting]], and [[AIInsuranceDataScarcity]]. Its core synthesis is that AI coverage is splitting into explicit specialist products and possible legacy-policy exclusions while sparse loss history makes pricing unstable; Claimy's testing-remediation-premium loop shows how underwriting can also create pre-loss safety incentives. No settled contradiction is recorded; adoption, market-size, policy-language, pricing, regulatory-approval, and claims-performance assertions remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AIAgentRiskTesting",
+        "AIInsuranceDataScarcity",
+        "AILiabilityInsurance",
+        "Claimy",
+        "CorgiAIInsurance",
+        "Deloitte",
+        "GallagherInsurance",
+        "InesButemacha",
+        "JohnFarleyGallagher",
+        "MarketplaceTech",
+        "NicoLacqua",
+        "tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128"
       ]
     },
     {

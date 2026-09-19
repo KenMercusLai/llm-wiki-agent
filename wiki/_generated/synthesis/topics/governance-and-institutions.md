@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: 7a09b8667758c4bb22546dc0800e0ca27e199a85
-input_digest: 7d34eabc89227dd64876d9972bcb9c2320ced152c786f1ad25526ef80d3348dd
+as_of_overview_commit: 2c853c500824df5c6b1bd8004a8f36ef71530f7f
+input_digest: 3b0e72f30eb9744f8c4924250b41d049b6904e879bd8a484031f22265e5d4ccc
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity. The newest AI-insurance branch adds private governance through policy wording and underwriting: coverage, exclusions, testing, and premium incentives allocate responsibility, but thin loss data and unsettled legal boundaries require validation and regulatory scrutiny.
 
 ## Cross-source Findings
 
@@ -2328,3 +2328,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The episode is a popular-history interpretation and does not independently verify the proposal wording, charge text, sayings, children's details, dialogue, or Cao Cao's motive.
 - Biographical counterevidence qualifies the unfilial label but does not prove that every attributed saying is false.
 - The transcript name 希律 is normalized to Lu Cui and remains a source-critical correction.
+
+### Ai Insurance Governs Through Wording Testing And Price
+
+[[AILiabilityInsurance]] is also a governance mechanism: explicit policy wording allocates responsibility, [[AIAgentRiskTesting]] creates pre-loss evidence, and score-linked premiums can reward remediation, while possible exclusions show how institutions may instead contain uncertainty.
+
+**Evidence:** [[tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128]], [[AILiabilityInsurance]], [[AIAgentRiskTesting]], [[GallagherInsurance]]
+
+**Qualifications:**
+
+- The episode does not establish settled liability doctrine, approved exclusion language, independent test calibration, or actual claims outcomes.
+- Insurance can allocate financial risk without resolving safety, accountability, or reputational harm.
