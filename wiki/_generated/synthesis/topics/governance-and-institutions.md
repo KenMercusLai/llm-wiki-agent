@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
-input_digest: 0d6d97a2368b4fa76b9370151c8687413a33049ff53daefda059121daf159869
+as_of_overview_commit: 7a09b8667758c4bb22546dc0800e0ca27e199a85
+input_digest: 7d34eabc89227dd64876d9972bcb9c2320ced152c786f1ad25526ef80d3348dd
 ---
 
 # Governance and Institutions
@@ -15,6 +15,18 @@ input_digest: 0d6d97a2368b4fa76b9370151c8687413a33049ff53daefda059121daf159869
 Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity.
 
 ## Cross-source Findings
+
+### Personal Guarantee Clemency Combines Mercy With Accountability
+
+[[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|Hanji 1086]] adds a governance case where [[GanNing|Gan Ning]] turns remembered aid into [[PersonalGuaranteeClemency|personal-guarantee clemency]] for [[SuFeiLateHan|Su Fei]], while [[SunQuan|Sun Quan]] contains the feud with [[LingTong|Ling Tong]] through prohibition and separation; [[ViolenceToInstitutionalLegitimacy]] shows useful irregular capacity being absorbed without erasing prior liabilities.
+
+**Evidence:** [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf]], [[GanNing]], [[PersonalGuaranteeClemency]], [[SuFeiLateHan]], [[SunQuan]], [[LingTong]], [[ViolenceToInstitutionalLegitimacy]]
+
+**Qualifications:**
+
+- This is source-scoped to one short popular-history episode, not a general late-Han clemency institution.
+- The boxes, dialogue, kowtow injury, revenge attempts, reassignment, and motives require textual verification.
+- Access to a credible intermediary makes this mechanism unequal.
 
 ### Dirty Work Delegation Separates Ruler Demand From Visible Blame
 

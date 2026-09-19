@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
 - [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
 - [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
 - [《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？](sources/zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i.md) — 从禁酒辩难、征讨嘲讽到甄氏信件，呈现孔融如何把文化名望与口才转成对曹操政策、家事和合法性的连续公开挑战。
@@ -12793,6 +12794,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Campari](entities/Campari.md) — Drinks company using draft Aperol spritz to contest beer-dominated venues during weaker alcohol demand.
 - [Gloria Steinem](entities/GloriaSteinem.md) — American journalist and feminist organizer who moved from undercover reporting and newsroom exclusion to co-founding Ms. magazine.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
+- [苏飞 / Su Fei (late Han)](entities/SuFeiLateHan.md) — 黄祖旧部，因早年帮助甘宁而在孙权战后处置中获得甘宁以性命担保的赦免。
+- [凌操 / Ling Cao (late Han)](entities/LingCaoLateHan.md) — 凌统之父，其被甘宁射杀的旧怨成为孙权阵营内部必须压制和隔离的血仇风险。
 
 ## Concepts
 - [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
@@ -20361,5 +20364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Premium Ingredient Halo Marketing / 高端食材光环营销](concepts/PremiumIngredientHaloMarketing.md) — Using an ingredient's inherited scarcity and status to elevate ordinary consumer products.
 - [Retail Hit Template Diffusion / 零售爆款模板扩散](concepts/RetailHitTemplateDiffusion.md) — Influential retail success reducing demand uncertainty and triggering cross-brand or cross-category imitation.
 - [Ingredient-Flavor Label Transparency / 食材与风味标签透明度](concepts/IngredientFlavorLabelTransparency.md) — Consumer-information boundary between named-ingredient content and flavor delivered through compound systems.
+- [私人担保式赦免 / Personal-Guarantee Clemency](concepts/PersonalGuaranteeClemency.md) — 可信中介以自身可受追责的承诺承担被赦者风险，使私人信用成为例外宽宥的执行保障。
+- [暴力资本的体制化转换 / Violence-to-Institutional-Legitimacy Conversion](concepts/ViolenceToInstitutionalLegitimacy.md) — 将私人武力、组织与威望转入提供军队、后勤、官位和政治授权的制度平台，同时保留其旧有社会负债。
 
 ## Syntheses

@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
-input_digest: 4f67131e94e933385b0664930c32ea5d750c805d8ebdbdb6e78b267e4773e64d
+as_of_overview_commit: 7a09b8667758c4bb22546dc0800e0ca27e199a85
+input_digest: 5a91fe4d9f5de09e8a53d91a2938af0b010fe43510ddfea84ebd1f921b98097a
 ---
 
 # History and Geopolitics
@@ -15,6 +15,18 @@ input_digest: 4f67131e94e933385b0664930c32ea5d750c805d8ebdbdb6e78b267e4773e64d
 The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1090 adds Kong Rong\u0027s 208 CE death as a bounded late-Han case where a political challenge becomes an accusation bundle, punishment reaches young household members, and loyal mourning survives intimidation. Across the corpus, exact motives, dialogues, totals, and retrospective causal claims remain bounded to their sources rather than treated as settled history.
 
 ## Cross-source Findings
+
+### Hanji 1086 Clemency Feud And Institutional Absorption
+
+[[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|Hanji 1086]] adds an earlier [[SunQuan|Sun Quan]]-[[GanNing|Gan Ning]] layer: debt to [[SuFeiLateHan|Su Fei]] produces a life-backed pardon plea, [[LingCaoLateHan|Ling Cao]]'s death leaves [[LingTong|Ling Tong]] with an internal feud, and [[ViolenceToInstitutionalLegitimacy]] describes irregular force becoming authorized command.
+
+**Evidence:** [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf]], [[SunQuan]], [[GanNing]], [[SuFeiLateHan]], [[LingCaoLateHan]], [[LingTong]], [[ViolenceToInstitutionalLegitimacy]]
+
+**Qualifications:**
+
+- This short popular-history episode is not an independent reconstruction of the Huang Zu campaign.
+- The boxes, dialogue, kowtow injury, revenge attempts, reassignment, and motives remain source-scoped.
+- Violence-to-legitimacy conversion is the host's interpretation, not Gan Ning's proven self-understanding.
 
 ### Hanji 1095 Jingzhou Transfer Reclassifies Loyalty As Capacity
 
