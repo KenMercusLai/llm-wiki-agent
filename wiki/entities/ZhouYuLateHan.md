@@ -27,7 +27,7 @@ The current synthesis presents Zhou Yu as an elite local ally who turns personal
 
 Hanji 1058 adds a diplomatic-strategic layer after the initial transition. Cao Cao demands that Sun Quan send a younger brother or son to court service. Zhou Yu argues that Jiangdong's six commanderies, soldiers, grain, wealthy land, and stable population let Sun Quan refuse, and that sending a hostage would bind Sun Quan to Cao Cao's commands. [[LadyWuSunJian|吴夫人]] endorses Zhou Yu's analysis and tells Sun Quan to honor him like an elder brother, giving Zhou Yu a household-authorized advisory role as well as a military one.
 
-Hanji 1107-1108 extend the profile through the [[RedCliffsBattle|赤壁之战]] and into the post-battle campaign. Hanji 1107 credits [[HuangGaiLateHan|黄盖]]'s feigned-surrender fire attack and Zhou Yu's follow-on assault with forcing Cao Cao's retreat, then records Cao Cao's attempt to minimize Zhou Yu's fame in a message to Sun Quan. Hanji 1108 places Zhou Yu and Cheng Pu opposite [[CaoRen|曹仁]] and [[XuHuangCaoGeneral|徐晃]] around Jiangling, where Zhou Yu accepts [[GanNing|甘宁]]'s proposal to seize [[YilingLateHan|夷陵]] with a selected force.
+Hanji 1107-1108 extend the profile through the [[RedCliffsBattle|赤壁之战]] and into the post-battle campaign. Hanji 1107 credits [[HuangGai|黄盖]]'s feigned-surrender fire attack and Zhou Yu's follow-on assault with forcing Cao Cao's retreat, then records Cao Cao's attempt to minimize Zhou Yu's fame in a message to Sun Quan. Hanji 1108 places Zhou Yu and Cheng Pu opposite [[CaoRen|曹仁]] and [[XuHuangCaoGeneral|徐晃]] around Jiangling, where Zhou Yu accepts [[GanNing|甘宁]]'s proposal to seize [[YilingLateHan|夷陵]] with a selected force.
 
 ## Key Characteristics
 - Serves as a chronological bridge from the Sun Jian generation into the later Sun-Ce Jiangdong branch.
@@ -71,7 +71,7 @@ This page remains bounded to the listed sources and is not a complete Zhou Yu bi
 - [[LuFan|吕范]] - office-title comparator used to avoid retrojecting later Wu titles.
 - [[CaoCao|曹操]] - outside power whose hostage demand Zhou Yu advises Sun Quan to refuse.
 - [[RedCliffsBattle|赤壁之战]] - victory in which Zhou Yu receives operational credit and becomes the target of Cao Cao's counter-narrative.
-- [[HuangGaiLateHan|黄盖]] - commander whose feigned surrender enables the fire attack Zhou Yu follows.
+- [[HuangGai|黄盖]] - commander whose feigned surrender enables the fire attack Zhou Yu follows.
 - [[JianglingLateHan|江陵]] - strongpoint Zhou Yu pressures after Red Cliffs.
 - [[GanNing|甘宁]] - subordinate whose Yiling proposal Zhou Yu accepts.
 - [[YilingLateHan|夷陵]] - forward position opened during the campaign.

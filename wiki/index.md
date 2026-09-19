@@ -2506,6 +2506,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？](sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc.md) — Post-Red-Cliffs Jiangling and Yiling episode comparing Gan Ning's surprise seizure with Alexander's Sogdian Rock ascent.
 - [《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？](sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr.md) — Red Cliffs episode on Huang Gai's fire attack, Cao Cao's retreat and defensive line, and his post-defeat attempt to reallocate cause and credit.
+- [《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？](sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv.md) — Red Cliffs prelude and retreat episode on Cao Cao's readiness misjudgment, disease and river-war constraints, linked ships, Huang Gai's fire plan, and the Huarong mobility crisis.
 
 ## Entities
 - [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
@@ -5217,7 +5218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太史慈 / Taishi Ci](entities/TaishiCi.md) — Donglai military talent whom Liu Yao under-authorizes before Shentingling and whom Sun Ce later trusts with the Yuzhang mission after Liu Yao's death.
 - [神亭岭之战 / Shentingling Battle](entities/ShentinglingBattle.md) — Late-Han encounter where Taishi Ci scouts with one rider and fights Sun Ce despite Sun Ce's stronger retinue.
 - [韩当 / Han Dang](entities/HanDang.md) — Veteran rider named among Sun Ce's thirteen followers at Shentingling in Hanji 993.
-- [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
+- [黄盖 / Huang Gai](entities/HuangGai.md) — Jiangdong veteran who moves from Sun Ce's Shentingling retinue to diagnosing the linked-fleet vulnerability and designing the Red Cliffs fire approach.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
@@ -12714,7 +12715,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
 - [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
-- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river battle whose fire-attack, retreat, corridor-defense, and disputed-credit aftermath reshape the Jingzhou contest.
+- [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
+- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 
 ## Concepts
 - [Post-Defeat Narrative Counterattack / 败后叙事反击](concepts/PostDefeatNarrativeCounterattack.md) — Reallocating the causes, agency, and credit of a loss to limit political damage and amplify tensions among the victors.

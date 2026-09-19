@@ -16,7 +16,7 @@ Post-defeat narrative counterattack / 败后叙事反击 is the attempt to limit
 ## Current Synthesis
 [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] supplies the initial case after the [[RedCliffsBattle|赤壁之战]]. [[CaoCao|曹操]] tells [[SunQuan|孙权]] that disease forced the withdrawal and that he burned the ships himself, reducing [[ZhouYuLateHan|周瑜]]'s victory to undeserved fame. The message does not reverse the battlefield result; it tries to weaken the result's reputational ownership.
 
-The episode also links that reputational move to a real alliance problem. Once the common battle ends, Sun Quan, Zhou Yu, and [[LiuBei|刘备]] have different interests in [[JingzhouLateHan|荆州]]. Narrative attack becomes more plausible when it attaches to an existing distribution conflict rather than inventing one from nothing.
+The episode also links that reputational move to a real alliance problem. Once the common battle ends, Sun Quan, Zhou Yu, and [[LiuBei|刘备]] have different interests in [[Jingzhou|荆州]]. Narrative attack becomes more plausible when it attaches to an existing distribution conflict rather than inventing one from nothing.
 
 ## Key Claims
 - Battlefield defeat does not automatically settle public explanation, causal attribution, or ownership of credit.

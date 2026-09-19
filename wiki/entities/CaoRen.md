@@ -19,7 +19,7 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 Hanji 974 uses Cao Ren as evidence that [[CaoCao|曹操]] keeps decisive force near clan figures such as Cao Ren and [[XiahouDun|夏侯惇]] after the [[YanzhouLateHan|兖州]] betrayal. Hanji 1047 makes that trust operational: Cao Ren judges that [[LiuBei|刘备]] cannot control newly assigned Yuan-side troops, defeats him with cavalry, and recovers counties around [[RunanCommanderyLateHan|汝南]].
 
-Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao Cao leaves Cao Ren at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] supporting the wider line from [[FanchengLateHan|樊城]]; Hanji 1108 then emphasizes how Jiangling's loss would damage Cao-side military reach, political influence, economic access, and counterattack options. [[GanNing|甘宁]]'s seizure of [[YilingLateHan|夷陵]] turns that responsibility into a flank crisis.
+Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao Cao leaves Cao Ren at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] supporting the wider line from 樊城; Hanji 1108 then emphasizes how Jiangling's loss would damage Cao-side military reach, political influence, economic access, and counterattack options. [[GanNing|甘宁]]'s seizure of [[YilingLateHan|夷陵]] turns that responsibility into a flank crisis.
 
 ## Key Characteristics
 - Trusted clan commander used to secure core military power.
@@ -50,7 +50,6 @@ This is not a full biography. Hanji 974 is retrospective, Hanji 1047 gives one o
 - [[LiuBei|刘备]] - opponent defeated in the Guandu prelude.
 - [[JianglingLateHan|江陵]] - corridor position Cao Ren holds.
 - [[RedCliffsBattle|赤壁之战]] - defeat that produces Cao Ren's defensive assignment.
-- [[FanchengLateHan|樊城]] - paired defensive position associated with Xu Huang in Hanji 1107.
 - [[GanNing|甘宁]] - commander creating flank pressure.
 - [[YilingLateHan|夷陵]] - forward position lost during the defense.
 - [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geographic logic behind Jiangling's value.

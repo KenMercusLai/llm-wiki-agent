@@ -13,9 +13,9 @@ last_updated: 2026-09-19
 # 《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes the immediate [[RedCliffsBattle|赤壁之战]] sequence. [[HuangGaiLateHan|黄盖]]'s feigned surrender lets fire ships reach the Cao fleet, after which [[ZhouYuLateHan|周瑜]] presses the attack and [[CaoCao|曹操]] retreats, burns remaining ships and supplies, and leaves [[CaoRen|曹仁]] at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] at [[FanchengLateHan|樊城]] to slow the victors.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes the immediate [[RedCliffsBattle|赤壁之战]] sequence. [[HuangGai|黄盖]]'s feigned surrender lets fire ships reach the Cao fleet, after which [[ZhouYuLateHan|周瑜]] presses the attack and [[CaoCao|曹操]] retreats, burns remaining ships and supplies, and leaves [[CaoRen|曹仁]] at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] at 樊城 to slow the victors.
 
-The episode's distinctive contribution is the post-battle information struggle. Cao Cao tells [[SunQuan|孙权]] that disease forced the withdrawal and that he burned the ships himself, minimizing Zhou Yu's role; the host interprets this as [[PostDefeatNarrativeCounterattack|败后叙事反击]] aimed at reputational damage and at sharpening the already real interest tension between Sun Quan, Zhou Yu, and [[LiuBei|刘备]] over [[JingzhouLateHan|荆州]].
+The episode's distinctive contribution is the post-battle information struggle. Cao Cao tells [[SunQuan|孙权]] that disease forced the withdrawal and that he burned the ships himself, minimizing Zhou Yu's role; the host interprets this as [[PostDefeatNarrativeCounterattack|败后叙事反击]] aimed at reputational damage and at sharpening the already real interest tension between Sun Quan, Zhou Yu, and [[LiuBei|刘备]] over [[Jingzhou|荆州]].
 
 ## Key Claims
 - Huang Gai approaches with ten ships under the cover of surrender, ignites them near Cao Cao's fleet, and the wind carries the fire into ships and the Wulin-side camp.
@@ -34,9 +34,9 @@ The episode's distinctive contribution is the post-battle information struggle. 
 > "虚获此名。" - the phrase used to minimize Zhou Yu's battlefield credit.
 
 ## Connections
-- [[RedCliffsBattle|赤壁之战]], [[HuangGaiLateHan|黄盖]], and [[ZhouYuLateHan|周瑜]] - feigned surrender, fire attack, and follow-on pressure produce Cao Cao's retreat.
-- [[CaoCao|曹操]], [[CaoRen|曹仁]], [[XuHuangCaoGeneral|徐晃]], [[JianglingLateHan|江陵]], and [[FanchengLateHan|樊城]] - destruction of remaining resources and construction of a post-defeat defensive line.
-- [[SunQuan|孙权]], [[LiuBei|刘备]], [[JingzhouLateHan|荆州]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - the common enemy remains, but control of the postwar prize creates divergent incentives.
+- [[RedCliffsBattle|赤壁之战]], [[HuangGai|黄盖]], and [[ZhouYuLateHan|周瑜]] - feigned surrender, fire attack, and follow-on pressure produce Cao Cao's retreat.
+- [[CaoCao|曹操]], [[CaoRen|曹仁]], [[XuHuangCaoGeneral|徐晃]], [[JianglingLateHan|江陵]], and 樊城 - destruction of remaining resources and construction of a post-defeat defensive line.
+- [[SunQuan|孙权]], [[LiuBei|刘备]], [[Jingzhou|荆州]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - the common enemy remains, but control of the postwar prize creates divergent incentives.
 - [[PostDefeatNarrativeCounterattack|败后叙事反击]] - reframing the cause, ownership, and credit of defeat so military loss does not settle political interpretation.
 - [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] - continuation into the Jiangling-Yiling campaign.
 

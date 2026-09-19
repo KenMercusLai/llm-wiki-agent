@@ -22,7 +22,7 @@ Xu Huang therefore enters the wiki not through a full military biography, but th
 
 Hanji 1061 adds a non-battlefield judgment. When [[HanFanLateHan|韩范]] and [[LiangQiLateHan|梁岐]] surrender county cities while the Yuan brothers remain undefeated, Xu Huang advises Cao Cao to reward them because other counties are watching. Cao accepts the advice and grants them Guannei Hou titles, turning surrender treatment into campaign psychology.
 
-Hanji 1107 moves Xu Huang into post-[[RedCliffsBattle|赤壁之战]] damage control. After Cao Cao's retreat, Xu Huang is stationed at [[FanchengLateHan|樊城]] while [[CaoRen|曹仁]] holds [[JianglingLateHan|江陵]], making him part of the defensive line intended to slow further Sun-Liu expansion.
+Hanji 1107 moves Xu Huang into post-[[RedCliffsBattle|赤壁之战]] damage control. After Cao Cao's retreat, Xu Huang is stationed at 樊城 while [[CaoRen|曹仁]] holds [[JianglingLateHan|江陵]], making him part of the defensive line intended to slow further Sun-Liu expansion.
 
 ## Key Characteristics
 - Cao-side general in the Guandu logistics struggle.
@@ -59,5 +59,4 @@ The current page is not a complete Xu Huang biography. It exists to prevent a ro
 - [[YeLateHan|邺城]] - campaign context for the surrender-reward signal.
 - [[PoliticalSurrenderCascade|招降示范级联]] - broader mechanism Xu Huang's advice activates.
 - [[RedCliffsBattle|赤壁之战]] - defeat after which Xu Huang receives a defensive assignment.
-- [[FanchengLateHan|樊城]] - position Xu Huang holds in the immediate post-battle line.
 - [[CaoRen|曹仁]] - paired defender holding Jiangling in the same deployment.
