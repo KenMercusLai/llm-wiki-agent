@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-20",
   "corpus": {
-    "episode_count": 2531,
-    "source_count": 2531
+    "episode_count": 2532,
+    "source_count": 2532
   },
   "generated": true,
   "global": {
@@ -16,14 +16,14 @@
     "output_digest": "d6b2409447935fe536539cd7a2e4fc6498fa5839a9736c7091703808148f2e33",
     "overview_commit": "539307352e93e6371b0413efa7c4079b167a21f7",
     "overview_digest": "0e4e37094f1fe733fe7095798df7124e381c4a00b4469e97fdd607a2ab23edc7",
-    "pending_ingests": 4,
+    "pending_ingests": 6,
     "pending_topics": [
       "governance-and-institutions",
       "history-and-geopolitics"
     ]
   },
-  "overview_commit": "85f17c6f99937d081db674c06ed3a020a61059f5",
-  "overview_digest": "1509442e9a37c5fee357f6f3700e391049eef0cab2b49db42ad8ac4e9bb4ba12",
+  "overview_commit": "b925bcb222d0725ad6133688c149149f32781a34",
+  "overview_digest": "4cdbf7e477ff9031b2777f7e54e6545beb9ea3759755974db34abb84151a07af",
   "paragraph_count": 647,
   "schema_version": 1,
   "topics": {

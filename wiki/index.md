@@ -2540,6 +2540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 - [#405 从地理边界到思维边界：我们如何被「划界」塑造？](sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc.md) — 声东击西 conversation with Song Nianshen on relational borders, Northeast Asian mobility, modern identity hardening, colonial inheritance, international law, and disciplinary boundaries.
+- [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 
 ## Entities
 - [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
@@ -12091,7 +12092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
-- [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
+- [Moeka Iida](entities/MoekaIida.md) — The Intelligence reporter connecting Japanese family law, housing stigma, cohort scarring, and Okinawan base politics to lived experience.
 - [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds nostalgia tourism and whose America-at-250 dispatch frames American cultural exports.
 - [Nicholas Pelham](entities/NicholasPelham.md) — The Intelligence contributor explaining renewed U.S.-Iran strikes, stalled diplomacy, Hormuz pressure, and post-Khamenei hardline politics.
 - [Farah Chia](entities/FarahChia.md) — The Intelligence contributor explaining Asian filial-piety laws and elder-care state-capacity pressure.
@@ -12524,7 +12525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William McChesney Martin](entities/WilliamMcChesneyMartin.md) — Fed chair used as the positive historical precedent for resisting presidential pressure from Lyndon B. Johnson.
 - [Arthur Burns](entities/ArthurBurns.md) — Fed chair used as the negative Nixon-era cautionary tale about presidential pressure, rate cuts, and inflationary outcomes.
 - [Burton Abrams](entities/BurtonAbrams.md) — Economist comparing Powell with Martin and Burns while explaining inflation bias and central-bank independence.
-- [Kevin Warsh](entities/KevinWarsh.md) — Incoming Trump-nominated Fed chair in the source, used as the next leadership test for Fed independence.
+- [Kevin Warsh](entities/KevinWarsh.md) — Fed chair whose first rate increase tests competing claims about political flexibility, market constraint, and institutional independence.
 - [Lisa Cook](entities/LisaCook.md) — Fed board member whose attempted removal becomes the source's case for the undefined "for cause" standard.
 - [Stephen Miran](entities/StephenMiran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
 - [United States Congress](entities/UnitedStatesCongress.md) — Legislative guardrail in the Powell episode, tied to Fed mandate, chair confirmation, and possible clarification of for-cause removal.
@@ -12800,6 +12801,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [凌操 / Ling Cao (late Han)](entities/LingCaoLateHan.md) — 凌统之父，其被甘宁射杀的旧怨成为孙权阵营内部必须压制和隔离的血仇风险。
 
 - [宋念申](entities/SongNianshen.md) — Historian connecting Northeast Asian border life and archives to modernity, colonialism, political economy, and question-led interdisciplinary research.
+- [Okinawa](entities/Okinawa.md) — Strategic Japanese prefecture where concentrated U.S.-base burdens, Ryukyuan history, and economic marginalization shape local politics.
+- [Koja Gentar](entities/KojaGentar.md) — Okinawa governor-elect whose economic campaign and support for Henoko produced a record-vote landslide.
+- [Tamaki Denny](entities/TamakiDenny.md) — Outgoing Okinawa governor whose dignity-centered opposition to Henoko lost to economic and base-fatigue priorities.
+- [Henoko](entities/Henoko.md) — Contested Okinawa base-relocation site linking national defense policy to prefectural consent.
+- [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
 - [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
@@ -19396,7 +19402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Russian Elite Discontent](concepts/RussianEliteDiscontent.md) — Insider-pressure pattern where sanctioned or threatened Russian elites treat the Ukraine war as a survival and state-direction problem.
 - [Authoritarian War Exit Dilemma](concepts/AuthoritarianWarExitDilemma.md) — Trap where a ruler who started a costly war must choose between escalation and repression or a scaled-back exit that risks looking like defeat.
 - [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
-- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes, removal rules, and dissent.
+- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle shaped by legal guardrails, credible targets, public reasoning, committee norms, market pressure, and resistance to electoral demands.
 - [Inflation Bias](concepts/InflationBias.md) — Monetary-policy problem where governments pressure central banks toward short-term stimulus and later inflation costs.
 - [For-Cause Removal Standard](concepts/ForCauseRemovalStandard.md) — Legal boundary around when a president may remove a Fed board member, central to the Lisa Cook case in the Powell source.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
@@ -20376,5 +20382,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Colonial Category Afterlife / 殖民分类遗产](concepts/ColonialCategoryAfterlife.md) — Persistence of colonial partitions, classifications, institutions, and economic positions after formal decolonization.
 - [Historical International Law / 国际法历史化](concepts/HistoricalInternationalLaw.md) — Method that reconstructs a legal rule's historical problem and power relations before applying it as a present standard.
 - [Problem-Led Interdisciplinarity / 真问题驱动的跨学科](concepts/ProblemLedInterdisciplinarity.md) — Research crossing disciplines because the underlying problem requires it rather than for interdisciplinary branding.
+- [Okinawa Base Politics](concepts/OkinawaBasePolitics.md) — Conflict among alliance strategy, unequal local military burdens, historical memory, consent, and economic priorities in Okinawa.
+- [Climate-Altered Summer](concepts/ClimateAlteredSummer.md) — Warming-driven reshaping of calendars, travel, hazards, outdoor life, and seasonal culture.
 
 ## Syntheses

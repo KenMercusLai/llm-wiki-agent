@@ -20274,3 +20274,7 @@ Added source `405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suza
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Rise and shine: Warsh's Fed rate test
+
+Added source `rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd`; created `ArchieHall`, `Okinawa`, `KojaGentar`, `TamakiDenny`, `Henoko`, `OkinawaBasePolitics`, and `ClimateAlteredSummer`; migrated and updated `KevinWarsh`, `CentralBankIndependence`, and `MoekaIida`; and updated `index.md` and `overview.md`. Core synthesis: Warsh's first increase is evidence against mechanical presidential obedience but not proof of a settled doctrine because markets and committee unanimity also constrained him; Okinawa's landslide reprioritized income and delivery over failed Henoko resistance without eliminating mixed base sentiment; and warming is reshaping seasonal calendars, tourism, hazards, and outdoor culture. No settled contradiction found; economic data, election implications, name spelling, and climate projections remain source-scoped.
