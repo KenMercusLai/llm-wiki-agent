@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
 - [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
 - [《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？](sources/zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i.md) — 从禁酒辩难、征讨嘲讽到甄氏信件，呈现孔融如何把文化名望与口才转成对曹操政策、家事和合法性的连续公开挑战。
 - [《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？](sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj.md) — 孔融之死中的政治触发、路粹弹劾、“不孝”污名、子女株连与脂习哭尸，呈现政治清除如何借道德指控获得正当性。
@@ -2538,6 +2539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
 - [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
 - [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
 - [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
@@ -4595,7 +4597,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
 - [雷波 / Lei Bo (Yuan Shu retainer)](entities/LeiBoYuanShuRetainer.md) — Yuan Shu old retainer whose refusal marks the collapse of Yuan Shu's usable refuge network.
 - [耿包 / Geng Bao (late Han)](entities/GengBaoLateHan.md) — Yuan Shao subordinate whose imperial-title proposal becomes a title-test casualty after official rejection.
-- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — Severe late-Han remonstrator who warns Yuan Shao on Xudu legitimacy and later rebukes Cao Cao's Jizhou conscription priority.
+- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — 从许都合法性警告、冀州民生进谏到与毛玠共同选官，并因赞许司马懿把他带入曹操视野的汉末官员。
 - [徐秋 / Xu Qiu (Guangling late Han)](entities/XuQiuGuanglingLateHan.md) — Former Guangling administrator who returns the Heirloom Imperial Seal to the court after Yuan Shu's death.
 - [Jennifer King](entities/JenniferKing.md) — Stanford HAI privacy researcher explaining California data-broker compliance failures, deletion friction, enforcement limits, and AI data-broker demand.
 - [Stanford Institute for Human-Centered AI](entities/StanfordInstituteForHumanCenteredAI.md) — Stanford policy and research context for Jennifer King's data-broker compliance report.
@@ -5685,7 +5687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-side officer who kills Guo Yuan in the Pingyang campaign and triggers Zhong Yao's kinship-versus-public-duty response.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
-- [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
+- [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
@@ -12793,6 +12795,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
 - [Disorder Stabilization by Stillness / 以静制乱式识别](concepts/DisorderStabilizationByStillness.md) — 通过要求未参与者保持静止来降低混乱、识别主动扰乱者的危机指挥模式。
 - [外镇避祸式生存 / Peripheral Command Exit Strategy](concepts/PeripheralCommandExitStrategy.md) — 暴露于继承斗争的内部人以外镇拉开距离，同时保留兵权、地盘、名义或结盟价值的生存策略。
 - [Surrender-Token Credibility / 降服凭证式可信度](concepts/SurrenderTokenCredibility.md) — 通过交出稀缺政治凭证削弱自身继续独立行动的能力，从而让投降比口头承诺更可信。
