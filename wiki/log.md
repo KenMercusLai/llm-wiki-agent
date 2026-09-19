@@ -19998,3 +19998,7 @@ Added source `zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！
+
+Added source `zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt`; created `XiZaochi`, `ZhangSongLateHan`, `XiSuLateHan`, `LiuQiLateHan`, `ZhaoYun`, and `LingTong`; updated `LyuMeng`, `GanNing`, `LiuZhang`, and `PostSuccessArrogance`; and updated `index.md` and `overview.md`. Core synthesis: the post-Red-Cliffs order rewards actors who convert battlefield change into trusted incorporation, protected rear areas, territorial legitimacy, administration, and revenue, while Cao Cao's cold reception of Zhang Song compounds military reversal by closing a possible Yizhou alignment channel. No settled contradiction found; Xi Zaochi's pride-caused-tripartition judgment is preserved but qualified by military, geographic, fiscal, and multi-actor causes, and the siege scene, horse count, Zhang Song characterization, and Huang Ming figures remain source-scoped.
