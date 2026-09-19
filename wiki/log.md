@@ -20262,3 +20262,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？
 
 Added source `zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf`; created `SuFeiLateHan`, `LingCaoLateHan`, `PersonalGuaranteeClemency`, and `ViolenceToInstitutionalLegitimacy`; updated `GanNing`, `LingTong`, `SunQuan`, and `index.md`. Core synthesis: Gan Ning converts remembered aid into a life-backed guarantee that secures Su Fei's pardon, while Sun Quan retains Gan Ning and Ling Tong by prohibiting revenge and separating them; the host also interprets Gan Ning's career as an institutional conversion of irregular force into authorized command. No settled contradiction found; the boxes, dialogue, kowtow injury, feud attempts, exact reassignment, motives, and chancellor-office interpretation remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
