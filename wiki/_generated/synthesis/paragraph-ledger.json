@@ -120,6 +120,7 @@
       "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
+      "34646cc677e178ec72b7fc957163cf9fee15d3004172ca39c26fc2fca7bf4394",
       "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
       "6902b71eeb8b569ec8dc66b8118010ab7186921134cad8cf1b3f70919826a14a",
       "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
@@ -651,10 +652,10 @@
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 649
+    "paragraph_count": 650
   },
-  "overview_commit": "51fd4525b3d7b33a834ba8cfcd2336b0fc65e509",
-  "overview_digest": "e21d4df4cef83d98e388c721ff0e0d2c2d189863b79f33116f2086b529d9059f",
+  "overview_commit": "78e312c45a7026f9bbb12584e48ef44e30677aa8",
+  "overview_digest": "0fd6ccecfe5fa7ad72a61c9f7062e127bc362898e242d3801cb9eb958e364d44",
   "paragraphs": [
     {
       "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
@@ -4119,6 +4120,32 @@
         "Nepal",
         "TheIntelligence",
         "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+      ]
+    },
+    {
+      "id": "34646cc677e178ec72b7fc957163cf9fee15d3004172ca39c26fc2fca7bf4394",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "science-health-and-climate"
+      ],
+      "text": "[[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504|尼泊爾特大洪災現場：一場沒有遺體的葬禮]] deepens the same August 26 flood through [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] field reporting. It adds [[CrossBorderDisasterEarlyWarning]], [[LossAndDamageClimateFinance]], and [[DisasterVictimIdentificationAndBodyAbsentMourning]], while extending [[Nepal]], [[HinduKushHimalaya]], [[HimalayanGlacialFloodRisk]], [[HydropowerConcentrationRisk]], and [[ClimateAidRetrenchment]]. Its core synthesis is that disaster harm continues through institutional time: failed upstream warning compresses evacuation, incomplete earthquake reconstruction preserves exposure, dispersed remains make identification part of grief care, hydropower damage widens the economic shock, and climate finance can exist without arriving when survivors need it. The source extends rather than overturns the earlier account; casualty, missing-person, loss, translated-name, and fund figures remain provisional, and its funding arithmetic is internally inconsistent.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ClimateAidRetrenchment",
+        "CrossBorderDisasterEarlyWarning",
+        "DisasterVictimIdentificationAndBodyAbsentMourning",
+        "DuanwenNewsPodcast",
+        "HimalayanGlacialFloodRisk",
+        "HinduKushHimalaya",
+        "HydropowerConcentrationRisk",
+        "LossAndDamageClimateFinance",
+        "Nepal",
+        "niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504"
       ]
     },
     {

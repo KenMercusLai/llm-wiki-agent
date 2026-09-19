@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
@@ -3614,7 +3615,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [花园饭店 / Garden Hotel Shanghai](entities/GardenHotelShanghai.md) — Former French Club building used as evidence of Lai An's durable construction and mixed classical/Art Deco design.
 - [盖斯康公寓 / Gascoigne Apartments](entities/GascoigneApartments.md) — Lai An apartment example showing modern form, high-end residential hierarchy, and service circulation.
 - [迈奇公寓 / Majestic Apartments (Shanghai)](entities/MajesticApartmentsShanghai.md) — Lai An apartment example tied to rounded balcony and curved-corner design vocabulary.
-- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers and first-person experiments to examine civic action, platform incentives, and journalism ethics.
+- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers, field reporting, and first-person experiments to connect lived cases with institutional systems.
 - [小薇 / Xiaowei (Duanwen reporter)](entities/XiaoweiDuanwenReporter.md) — Reporter whose simulated Polymarket month tests whether news judgment can become prediction-market edge.
 - [PolySimulator](entities/PolySimulator.md) — Polymarket-linked simulation tool used for virtual prediction-market trading in the Duanwen episode.
 - [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
@@ -12833,6 +12834,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [Cross-Border Disaster Early Warning](concepts/CrossBorderDisasterEarlyWarning.md) — Monitoring and notification chain needed when hazards form upstream in one jurisdiction and threaten another.
+- [Loss and Damage Climate Finance](concepts/LossAndDamageClimateFinance.md) — International funding for climate harms that mitigation and adaptation cannot fully prevent.
+- [Disaster Victim Identification and Body-Absent Mourning](concepts/DisasterVictimIdentificationAndBodyAbsentMourning.md) — Forensic identification and culturally grounded mourning when victims remain missing or unidentified.
 - [桐庐快递产业集群](concepts/TongluExpressCluster.md) — trust-based founder and operator network later institutionalized as a place-based logistics cluster.
 - [邮政专营与民营快递合法化](concepts/PostalMonopolyPrivateExpressLegalization.md) — transition from reserved-letter conflict to licensed private express operation.
 - [中国快递加盟制](concepts/ChinaExpressFranchiseModel.md) — split between headquarters-controlled brand and trunk systems and locally funded outlets bearing operating risk.
