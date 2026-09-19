@@ -19983,6 +19983,10 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-go
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？
+
+Added source `tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497`; created `BlackTruffleMassMarketization`, `SyntheticFlavorScalability`, `PremiumIngredientHaloMarketing`, `RetailHitTemplateDiffusion`, and `IngredientFlavorLabelTransparency`; migrated and updated `ShengdongZaokafei`; and updated `index.md` and `overview.md`. Core synthesis: black truffle's mass-market spread combines cheaper Chinese supply, scalable oils and flavor systems, inherited premium meaning, broad savory/fatty product fit, and Sam's Club-style demand validation, while ingredient-versus-flavor ambiguity creates a trust boundary. No settled contradiction found; price, volume, launch-growth, repurchase, and formulation figures remain source-scoped.
+
 ## [2026-09-19] ingest | Bill Gurley: Searching for Feynman
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628`; created `RichardFeynman`, `KiyoshiKurokawa`, `DRASTIC`, `CatastrophicFailureRootCauseInvestigation`, `CAPACorrectivePreventiveAction`, `InvestigationConflictOfInterest`, and `COVIDOriginsInvestigationUncertainty`; migrated and updated `BillGurley`; and updated `AnthonyFauci` and `ScienceTrustPoliticization`. Core synthesis: Gurley uses CAPA and five disaster comparisons to argue that prevention requires independent root-cause investigation and conflict safeguards, but explicitly declines to choose between animal spillover and a laboratory accident. No settled contradiction found; allegations about blockers, research conflicts, DEFUSE, private-public inconsistency, early cases, animal testing, institutional resistance, and pandemic costs remain source-scoped because the episode is an advocacy presentation without detailed responses from the criticized scientists or institutions.
