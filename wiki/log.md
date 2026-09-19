@@ -20070,3 +20070,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-19] ingest | Drone truth: Russia has the upper hand
 
 Added source `drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e`; created `AlexTurnerEconomist`, `NemesisDroneUnit`, `Campari`, `GloriaSteinem`, `MsMagazine`, `CivilianInfrastructureAirCampaign`, `UkrainianDefenseIndustrialScaling`, `AlcoholDemandReset`, `PremiumReadyToDrinkAlcohol`, and `FeministMediaInstitutionBuilding`; migrated and updated `Shahed136`, `CounterDroneLayeredDefense`, and `NonAlcoholicBeerGrowth`; and updated `index.md` and `overview.md`. Core synthesis: scaling and institutions connect the episode's three strands—Russia holds a temporary long-range strike-production advantage despite frontline balance, Ukrainian prototypes need direct procurement and production volume, drinks firms need credible new formats as alcohol demand weakens, and Steinem converted newsroom exclusion and shared testimony into durable media and organizing capacity. No settled contradiction found; infrastructure-damage estimates, drone production and deployment counts, beverage-market figures, and forecasts remain source-scoped, while the obituary is not treated as a complete history of Steinem, feminism, or *Ms.*
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
