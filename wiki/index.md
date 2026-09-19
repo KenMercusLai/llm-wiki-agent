@@ -2546,6 +2546,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [#405 从地理边界到思维边界：我们如何被「划界」塑造？](sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc.md) — 声东击西 conversation with Song Nianshen on relational borders, Northeast Asian mobility, modern identity hardening, colonial inheritance, international law, and disciplinary boundaries.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
+- [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
 ## Entities
 - [Alex Hearn](entities/AlexHearn.md) — Economist AI writer framing extinction risk, operational failures, and slowdown as precaution and coordination problems.
@@ -11084,7 +11085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shodan](entities/Shodan.md) — Internet-connected device search engine used in Marketplace Tech's exposed Flock Safety camera episode.
 - [404 Media](entities/404Media.md) — Technology publication that received Flock Safety's limited-misconfiguration response in the exposed-camera story.
 - [ParkMobile](entities/ParkMobile.md) — Parking-service company named as a breach-data source that could be cross-referenced with exposed license-plate footage.
-- [Amy Webb](entities/AmyWebb.md) — Futurist whose Marketplace Tech interview frames 2026 technology around AI convergence across search, robotics, materials, and biology.
+- [Amy Webb](entities/AmyWebb.md) — Futurist connecting AI convergence forecasting with accountable, incentive-compatible safety governance and startup participation.
 - [BlueJ](entities/BlueJ.md) — Amazon package-handling robotics example used by Marketplace Tech to connect physical AI with warehouse labor automation.
 - [Penn State](entities/PennState.md) — Research institution cited by Marketplace Tech for zero-resistance room-temperature materials inside the programmable-matter forecast.
 - [University of Pittsburgh](entities/UniversityOfPittsburgh.md) — Research institution cited by Marketplace Tech for a self-powered spinal implant example inside the programmable-matter forecast.
@@ -14628,7 +14629,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans pre-imperial Liu Xiu formation, Shun-era decay and repair, Mingjing selection pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.
 - [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and great-clan/士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
-- [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
+- [Pacing the Frontier](concepts/PacingTheFrontier.md) — Frontier-AI slowdown proposal tested against self-restraint, international participation, accountability, and incumbent-moat risk.
 - [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
 - [Promotion Position Fit / 升职位置匹配](concepts/PromotionPositionFit.md) — Career strategy frame for testing whether a role is visible, solves superior demand, fits trust and risk expectations, and sits with organizational momentum.
 - [党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing](concepts/PartyProhibitionKinshipNarrowing.md) — Late-Han legal repair that narrows party-prohibition collateral punishment by excluding more distant kin.
@@ -16362,7 +16363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Safety Ideal Fatal Contradiction](concepts/SafetyIdealFatalContradiction.md) — Pattern where a space organized around protection produces a fatal outcome against someone it claimed to protect.
 - [Chatbot Memory Salience Failure](concepts/ChatbotMemorySalienceFailure.md) — Failure mode where a chatbot remembers a fact but misjudges its importance, sensitivity, timing, or conversational relevance.
 - [AI Lab Safety Report Cards](concepts/AILabSafetyReportCards.md) — External scorecard approach for comparing frontier AI labs' model testing, whistleblower policies, current harms, military posture, and safety commitments.
-- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on specificity, independence, accountability, and resistance to competitive pressure.
+- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on observable action, independent access, consequences, and feasible participation.
 - [Unilateral AI Pause Commitments](concepts/UnilateralAIPauseCommitments.md) — Stronger pause pledges that should trigger at dangerous capability thresholds even if competitors keep developing.
 - [Tool AI Human Control](concepts/ToolAIHumanControl.md) — Safety-governance path where AI systems remain tools under human direction rather than treating superintelligence as necessary or inevitable.
 - [Physical Intelligence System Stack](concepts/PhysicalIntelligenceSystemStack.md) — Yao Song's definition of physical intelligence as data, compute, models, software, hardware, scenes, solutions, and remote systems working together.
@@ -19459,8 +19460,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
-- [AI Regulatory Capture Risk](concepts/AIRegulatoryCaptureRisk.md) — Risk that frontier AI safety rules become incumbent-friendly barriers when leading labs help define standards, thresholds, release procedures, or verified-access gates.
-- [AI Industry Self-Regulation](concepts/AIIndustrySelfRegulation.md) — Debate over voluntary AI standards, ratings, and information-sharing versus quasi-governmental pre-release model checkpoints.
+- [AI Regulatory Capture Risk](concepts/AIRegulatoryCaptureRisk.md) — Risk that AI safety rules become incumbent barriers through self-defined thresholds, disproportionate costs, or closed-lab assumptions.
+- [AI Industry Self-Regulation](concepts/AIIndustrySelfRegulation.md) — Industry-led AI standards and review tested against evaluator plurality, outside enforcement, durability, and startup affordability.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
 - [Recursive Self-Improvement Regulation Paradox](concepts/RecursiveSelfImprovementRegulationParadox.md) — Governance problem where approval gates may slow compliant AI labs while distributed model-improvement loops continue elsewhere.
 - [Affordability-Driven Socialism](concepts/AffordabilityDrivenSocialism.md) — Political pattern where high housing, healthcare, education, energy, and childcare costs push voters toward state intervention or DSA-style ideas.
@@ -20435,5 +20436,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Problem-Led Interdisciplinarity / 真问题驱动的跨学科](concepts/ProblemLedInterdisciplinarity.md) — Research crossing disciplines because the underlying problem requires it rather than for interdisciplinary branding.
 - [Okinawa Base Politics](concepts/OkinawaBasePolitics.md) — Conflict among alliance strategy, unequal local military burdens, historical memory, consent, and economic priorities in Okinawa.
 - [Climate-Altered Summer](concepts/ClimateAlteredSummer.md) — Warming-driven reshaping of calendars, travel, hazards, outdoor life, and seasonal culture.
+- [Incentive-Compatible AI Safety](concepts/IncentiveCompatibleAISafety.md) — AI-safety design principle aligning accountable conduct, cross-border participation, and feasible burdens for differently resourced actors.
 
 ## Syntheses

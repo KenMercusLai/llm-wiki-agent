@@ -20322,3 +20322,7 @@ Added source `the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | AI safety requires action, not promises
+
+Added source `tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128`; created `IncentiveCompatibleAISafety`; updated `AmyWebb`, `PacingTheFrontier`, `VoluntaryAISafetyCommitments`, `AIIndustrySelfRegulation`, `AIRegulatoryCaptureRisk`, `index.md`, and `overview.md`. Core synthesis: AI-safety commitments need accountable action, durable independent review, cross-border incentives, and participation costs that smaller developers can bear; otherwise sincere safety measures can still become an artificial moat. No settled contradiction found; institutional analogies, leader agreement, compliance costs, and policy mechanics remain source-scoped.
