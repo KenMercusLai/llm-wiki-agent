@@ -5,6 +5,7 @@ tags: [person, strategist, late-han, three-kingdoms, jingzhou]
 sources:
   - zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj
   - zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd
+  - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
 last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Hanji 1027 introduces Pang Tong as part of the younger Jingzhou talent field that Liu Biao's weak correction and retention channels fail to convert into durable service. Hanji 1084 supplies the reputational prehistory: [[PangDegongLateHan|庞德公]] and [[SimaHuiLateHan|司马徽]] make Pang Tong legible through elite appraisal, while the host points to his later strategic proposals as evidence that endorsement amplified preparation rather than replacing it.
+Hanji 1027 introduces Pang Tong as part of the younger Jingzhou talent field that Liu Biao's weak correction and retention channels fail to convert into durable service. Hanji 1083-1084 supply the reputational prehistory: [[PangDegongLateHan|庞德公]] and [[SimaHuiLateHan|司马徽]] make Pang Tong legible through elite appraisal, while the hosts point to sustained conversation and later strategic proposals as evidence that endorsement amplified preparation rather than replacing it.
 
 The resulting profile is bounded. Pang Tong is visible as a recognized but initially underused talent whose later service gives some retrospective support to the evaluator chain; the current sources do not yet provide a full career narrative.
 
@@ -32,16 +33,18 @@ The resulting profile is bounded. Pang Tong is visible as a recognized but initi
 - Regional talent loss: [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] places Pang Tong among younger Jingzhou talents used to illustrate Liu Biao's weak correction and retention channel.
 - Evaluator chain: [[zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd|Hanji 1084]] attributes his early recognition to Pang Degong and Sima Hui.
 - Capacity qualification: [[zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd|Hanji 1084]] invokes his later proposals to argue that elite praise had to be backed by knowledge and preparation.
+- Initially hidden capacity: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] says Pang Tong's plain presentation leaves him underestimated locally while Pang Degong and Sima Hui recognize unusual ability.
 
 ## Qualifications
 
-Both sources use Pang Tong partly as a retrospective example rather than narrating his career in sequence. Kinship details, evaluator wording, the role of Lu Su, the precise route into Sun Quan's or Liu Bei's service, and the later “three plans” remain source-scoped pending narrower evidence.
+The sources use Pang Tong partly as a retrospective example rather than narrating his career in sequence. Kinship details, evaluator wording, the exact “南州士之冠冕” exchange, the role of Lu Su, the precise route into Sun Quan's or Liu Bei's service, and the later “three plans” remain source-scoped pending narrower evidence. Hanji 1083's “近日不错” explanation is textually unstable and is not treated as a verified idiom claim.
 
 ## What Changed
 
 - Added the Pang Degong-Sima Hui appraisal chain before the existing talent-flow consequence.
 - Distinguished early reputation certification from demonstrated later capacity.
 - Migrated the page to the synthesis-first schema.
+- Added the initially underestimated presentation and sustained Sima Hui conversation while preserving textual uncertainty.
 
 ## Relationships
 

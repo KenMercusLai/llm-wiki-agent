@@ -20346,3 +20346,11 @@ Added source `zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-d
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？
+
+Added source `zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3`; created `StrategicExclusionAndFocus` and `TaoKan`; updated `LiuBei`, `ZhugeLiang`, `LongzhongPlan`, `PangTong`, `SimaHuiLateHan`, `PangDegongLateHan`, `EliteEndorsementReputationMaking`, and `index.md`. Core synthesis: strong execution does not create a durable position without a strategy that excludes premature fights, concentrates scarce resources on a base and coalition path, and adapts sequence when conditions change. No settled contradiction found; “no prior strategy” is narrowed to absence of an integrated territorial program, while founder-adviser suspicion, factional explanations of Guan Yu's death, exact dialogue, motives, and the “近日不错” textual claim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

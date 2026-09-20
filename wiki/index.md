@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？](sources/zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3.md) — 刘备早期的执行力与根据地困境、隆中对的战略排除和聚焦，以及襄阳识人网络与陶侃自律故事。
 - [The End of the World Is AI? An Existential Threat](sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b.md) — The Intelligence on uncertain AI extinction risk, the OpenAI-Hugging Face incident, coordination and slowdown, the oral turn in politics, reading decline, and India's changing cheese market.
 - [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
@@ -2551,6 +2552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
 ## Entities
+- [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
 - [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
 - [司马徽 / Sima Hui (late Han)](entities/SimaHuiLateHan.md) — 以“卧龙、凤雏”推荐把荆州本地声誉传递给刘备的人才评价者。
 - [Alex Hearn](entities/AlexHearn.md) — Economist AI writer framing extinction risk, operational failures, and slowdown as precaution and coordination problems.
@@ -12845,6 +12847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。
 - [Oral Turn in Political Communication](concepts/OralTurnPoliticalCommunication.md) — Shift toward repetition, live response, epithets, vivid examples, and concrete symbols in mass political persuasion.
 - [Indian Cheese Market Adaptation](concepts/IndianCheeseMarketAdaptation.md) — Religious accommodation, ingredient substitution, mass-market demand, and indigenous revival in India's cheese category.
 - [Cross-Border Disaster Early Warning](concepts/CrossBorderDisasterEarlyWarning.md) — Monitoring and notification chain needed when hazards form upstream in one jurisdiction and threaten another.
