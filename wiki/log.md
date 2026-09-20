@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力
+
+Added source `zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x`; updated `CaoCao` and `TianFengLateHan`; migrated and updated `ConstructiveDissent`; and updated `index.md` and `overview.md`. Core synthesis: a favorable result does not retroactively prove that a high-risk decision was sound, and Cao Cao's visible reward of prior objectors protects future criticism in contrast with Yuan Shao's punishment of Tian Feng. No settled contradiction found; exact dialogue, march figures, the unidentified loyalist, literary interpretation, and the Guo Jia career-divide claim remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃
 
 Added source `zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u`; updated `GuoJia`; updated and migrated `CuiZhouping` and `AdviserStateArchitecture`; updated `index.md` and `overview.md`. Core synthesis: losing Guo Jia raises a capability-continuity problem inside Cao Cao's adviser system, but does not prove that one survivor would have prevented Red Cliffs or the tripartite order. No settled contradiction found; the Red Cliffs counterfactual, exact dialogue and timing, burial details, location conclusion, and management statistic remain source-scoped.
