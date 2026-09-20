@@ -11,6 +11,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
+- [《资治通鉴·汉纪》1085丨东吴拿下江夏，等于剜了刘表的心？](sources/zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u.md) — 甘宁建议先取黄祖，董袭、凌统、吕蒙突破沔口水障，东吴攻陷夏口并取得江夏的人口、船舶与长江通道能力。
 - [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
 - [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
 - [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
@@ -2580,7 +2581,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
 - [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
 - [孔融子女 / Kong Rong's children](entities/KongRongChildren.md) — “覆巢之下，安有完卵”场景中的两名未具名幼子女，体现政治追诉向家庭毁灭的扩张。
-- [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 黄祖死后由刘琦出镇的荆州东部要地，使继承危机中的离开同时保留兵力与战略价值。
+- [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 兼具河流门户、人口与水军资源的荆州东部要地，黄祖死后又成为刘琦的外镇生存基地。
+- [沔口 / Mian Kou (late Han)](entities/MianKouLateHan.md) — 江夏战役中以锚定战船封锁、又被董袭与凌统突破的汉水—长江汇流要冲。
+- [陈就 / Chen Jiu (late Han)](entities/ChenJiuLateHan.md) — 黄祖麾下水军都督，在沔口水障被破后迎战并被吕蒙斩杀。
 - [娄圭 / Lou Gui (Late Han)](entities/LouGuiLateHan.md) — 以符节判断刘琮真降、富于曹操却缺乏相应势力，后因歧义言论遭告发处死的曹营谋士。
 - [张允 / Zhang Yun (Late Han)](entities/ZhangYunLateHan.md) — 与蔡瑁共同阻止刘琦探视刘表、支持刘琮继位的荆州官员。
 - [傅巽 / Fu Xun (Late Han)](entities/FuXunLateHan.md) — 以刘备胜败皆不能保全刘琮的两难分析推动荆州降曹的官员。
@@ -2620,7 +2623,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘琦 / Liu Qi (Late Han)](entities/LiuQiLateHan.md) — Liu Biao heir whose Jingzhou-inspector title gives Liu Bei's southern expansion a legitimacy channel.
 - [赵云 / Zhao Yun](entities/ZhaoYun.md) — 在长坂坡救回刘禅、战后又受命治理桂阳的刘备部将。
 - [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
-- [凌统 / Ling Tong](entities/LingTong.md) — Wu officer trusted to hold the rear while Zhou Yu and Lyu Meng relieve Gan Ning.
+- [凌统 / Ling Tong](entities/LingTong.md) — 东吴将领，先参与突破沔口水障，后在甘宁血仇未解时仍承担掩护救援的留守任务。
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
@@ -5284,9 +5287,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马日磾 / Ma Ridi (late Han)](entities/MaRidiLateHan.md) — Court official, Cai Yong warning voice, and Yuan Shu-humiliated envoy whose returned body triggers a funeral-honor dispute.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
-- [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
+- [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — 从孙策死后的军事支持者，发展为江夏战役中砍断沔口缆绳、打开主力通道的突击将领。
 - [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through hedged coalition testing and adversarial questioning to a resourced anti-Cao commitment.
-- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
+- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获孙权识拔，后在江夏斩陈就，并以降将整合和分兵救援展现判断力的吴将。
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
@@ -5327,7 +5330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Jiangdong veteran who moves from Sun Ce's Shentingling retinue to diagnosing the linked-fleet vulnerability and designing the Red Cliffs fire approach.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
-- [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
+- [甘宁 / Gan Ning](entities/GanNing.md) — 从益州人才流失者转为东吴将领，以先取黄祖的长江战略建议、旧恩担保、地形判断与临敌镇定见长。
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer whose later surrender case is coherent but rejected after Lu Su and Zhou Yu reframe the crisis.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
@@ -14780,7 +14783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.
 - [Merit Concealment Self-Protection](concepts/MeritConcealmentSelfProtection.md) — Hanji 967 pattern where dangerous public credit is left unclaimed so survival and clan continuity are protected.
 - [Executor Character Advice Risk](concepts/ExecutorCharacterAdviceRisk.md) — Hanji 967 pattern where sound survival advice becomes destructive when violent executors gain coercive power.
-- [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — Hanji 969 frame for judging Yangzhou, Jingzhou, and Yizhou as route, resource, and state-building bases along the Yangtze.
+- [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — 以省郡资源、江河通道、关口汇流与地方控制共同衡量长江沿线根据地价值的战略框架。
 - [Courtesy-Covered Elimination / 礼遇包装式清除](concepts/CourtesyCoveredElimination.md) — Pattern where public honor, appointment, or escort protocol conceals a secret removal attempt, as in Yuan Shao's failed strike against Lü Bu.
 - [Benevolent Command Execution Gap / 仁厚指挥执行缺口](concepts/BenevolentCommandExecutionGap.md) — Hanji 972 command-failure pattern where humane restraint is stated but not made executable through discipline, tactics, and siege design.
 - [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.
@@ -15289,7 +15292,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
 - [武装部众整合成本 / Armed Follower Integration Cost](concepts/ArmedFollowerIntegrationCost.md) — Hanji 1037 pattern where followers gained after an armed leader's death become food, discipline, and command costs rather than free strength.
-- [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — Source-scoped Hanji 1038 frame treating war as forcible transfer of territory, people, resources, and other survival space.
+- [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — 以庐江和江夏为例，将战争理解为领土、人口、船舶、生产与训练能力的强制转移。
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.

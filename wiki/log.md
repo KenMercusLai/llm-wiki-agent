@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1085丨东吴拿下江夏，等于剜了刘表的心？
+
+Added source `zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u`; created `ChenJiuLateHan` and `MianKouLateHan`; updated `HuangZu`, `JiangxiaCommanderyLateHan`, `DongXiLateHan`, `LingTong`, `LyuMeng`, `GanNing`, `RiverCorridorStrategicBase`, `WarAsViolentRedistribution`, `index.md`, and `overview.md`. Core synthesis: Wu's 208 CE victory at Jiangxia combined a river-barrier breach with transfer of population, ships, shipbuilding, trained naval capacity, and corridor access. No settled contradiction found; exact numbers, naval details, shipyard claims, revenge framing, and the Red Cliffs relative-year statement remain source-scoped.
+
 ## [2026-09-20] ingest | 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
 
 Added source `tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4`; created `YangYangTelecomResearcher`, `MobileTechnologyConvergence`, `Industrial5GDeploymentConstraint`, `MobileNetworkEnergyTradeoff`, `CellularSatelliteComplementarity`, and `AmbientVoiceAgentInterface`; migrated and updated `GSMStandardization`, `FiveG`, and `SmartphoneAIHub`; updated `FoldablePhoneProductivity`, `FoldableAppAdaptation`, `overview.md`, and `index.md`. Core synthesis: mobile systems become useful only when networks, standards, chips, batteries, spectrum, software ecosystems, form factors, and ownership models align; future interaction may distribute the hub across a phone, body-worn microphone, edge nodes, and cloud services. No settled contradiction found; the microphone endpoint qualifies rather than eliminates the phone-hub thesis, while Xiaomi-sponsored foldable forecasts and quantitative specifications remain source-scoped.
