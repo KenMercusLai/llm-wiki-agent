@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth
+
+Added source `essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631`; created `KarlDeisseroth`, `ProjectionsBook`, `PsychiatryMeasurementGap`, `SelectiveNeuralStimulationPrecision`, `PsychiatricStigmaTreatmentDelay`, and `TherapeuticStateLearning`; and updated `CircuitBasedPsychiatry`, `DeepBrainStimulationPsychiatry`, `PsychedelicClinicalSupervisionBoundary`, `MDMA`, overview, and index. Core synthesis: psychiatry's interview-based evidence can coexist with a physical circuit account, but future precision depends on target knowledge, while psychedelic and MDMA learning claims remain supervision-bound hypotheses. No settled contradiction found; EEG biomarkers, optogenetic psychiatric use, brain-machine interfaces, psychedelic mechanisms, and MDMA learning remain emerging or source-scoped.
+
 ## [2026-09-21] ingest | Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools
 
 Added source `essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382`; created `DailyCircadianPerformanceRoutine` and `UltradianDeepWorkBlock`; and updated `AndrewHuberman`, `HubermanLab`, `MorningLightCircadianAnchoring`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, `TemperatureMinimumClockShifting`, `SleepTemperatureToolkit`, and `SleepSupplementBoundary`. Core synthesis: daily performance and sleep form one timing system coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and darkness, while personal function takes precedence over copying one host routine. No settled contradiction found; optic-flow, fasting, ultradian, meal, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped.
