@@ -20694,3 +20694,7 @@ Added source `564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662
 ## [2026-09-21] ingest | Essentials: How Hearing & Balance Enhance Focus & Learning
 
 Added source `essentials-how-hearing-balance-enhance-focus-learning-scim1135697510`; created `SoundBasedStateRegulation`, `SelectiveAuditoryAttention`, and `VestibularLearningActivation`; and updated `AndrewHuberman`, `HubermanLab`, overview, and index. Core synthesis: auditory localization and selective listening can improve encoding conditions, while binaural beats, low-level adult white noise, and safe dynamic balance practice are conditional state tools rather than universal learning protocols. No settled contradiction found; anxiety, pain, dopamine, infant tonotopic-map, mood, and post-movement learning claims remain source-scoped because the condensed episode omits study sizes, effect magnitudes, and full methods.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
