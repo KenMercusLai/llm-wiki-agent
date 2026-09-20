@@ -20338,3 +20338,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！
+
+Added source `zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd`; created `PangDegongLateHan` and `SimaHuiLateHan`; updated and migrated `PangTong` and `ZhaoWenLateHan`; updated `ZhugeLiang`, `GanNing`, `EliteEndorsementReputationMaking`, `index.md`, and `overview.md`. Core synthesis: evaluator standing makes prepared talent legible, Zhao Wen's formal recruitment authority collides with Cao Cao's concentrated control, and Gan Ning turns underuse plus direct knowledge of Huang Zu into a specific westward proposal. No settled contradiction found; modern personal-brand analogies, appraisal wording, motives, institutional claims, speech, chronology, and internal-condition details remain source-scoped, while “2010年／囚嫌令” is normalized cautiously to 210 CE and 《求贤令》.

@@ -11,6 +11,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
+- [《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！](sources/zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd.md) — 庞德公、司马徽为诸葛亮与庞统提供名士背书，赵温征辟曹丕后被免，甘宁凭黄祖内部经验向孙权提出西进方案。
 - [《资治通鉴·汉纪》1085丨东吴拿下江夏，等于剜了刘表的心？](sources/zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u.md) — 甘宁建议先取黄祖，董袭、凌统、吕蒙突破沔口水障，东吴攻陷夏口并取得江夏的人口、船舶与长江通道能力。
 - [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
 - [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
@@ -2550,6 +2551,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
 ## Entities
+- [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
+- [司马徽 / Sima Hui (late Han)](entities/SimaHuiLateHan.md) — 以“卧龙、凤雏”推荐把荆州本地声誉传递给刘备的人才评价者。
 - [Alex Hearn](entities/AlexHearn.md) — Economist AI writer framing extinction risk, operational failures, and slowdown as precaution and coordination problems.
 - [James Marriott](entities/JamesMarriott.md) — Writer using orality-literacy theory to interpret reading decline and smartphone-shaped attention.
 - [The New Dark Ages](entities/TheNewDarkAges.md) — Marriott's polemic on reading decline, smartphones, oral form, and long-text attention.
@@ -4815,7 +4818,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
-- [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
+- [庞统 / Pang Tong](entities/PangTong.md) — 经庞德公、司马徽评价而获得声誉，又体现刘表未能整合荆州人才的谋士。
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
 - [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
 - [蔡阳 / Cai Yang (late Han)](entities/CaiYangLateHan.md) — Cao-side commander sent against Liu Bei after the Gong Du connection and killed in the Runan branch.
@@ -5330,7 +5333,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Jiangdong veteran who moves from Sun Ce's Shentingling retinue to diagnosing the linked-fleet vulnerability and designing the Red Cliffs fire approach.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
-- [甘宁 / Gan Ning](entities/GanNing.md) — 从益州人才流失者转为东吴将领，以先取黄祖的长江战略建议、旧恩担保、地形判断与临敌镇定见长。
+- [甘宁 / Gan Ning](entities/GanNing.md) — 从益州与荆州人才流失者转为东吴将领，以黄祖内部经验、长江战略建议、旧恩担保、地形判断与临敌镇定见长。
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer whose later surrender case is coherent but rejected after Lu Su and Zhou Yu reframe the crisis.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
@@ -5757,7 +5760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong whose direct Emperor Ling-Huan comparison triggers a Yang Zhen family taunt, and who later urges Emperor Xian to suppress anger under Li Jue.
 - [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
 - [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Late-Han official whose career now spans 181 Jiaozhi suppression, Yellow Turban campaigns, anti-Dong-Zhuo posture, and later death after Guo Si's ministerial hostage-taking.
-- [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
+- [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — 先在李傕挟帝时冒险进谏，后因征辟曹丕与曹操的人事控制发生冲突而被免的司徒。
 - [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
 - [王畅 / Wang Chang (Shumao, late Han)](entities/WangChangShumaoLateHan.md) — Late-Han official whose profile spans Nanyang governance reversal, Taixue reputation as 王叔茂, sikong office notice, and later high-office recommendation politics.
 - [张厂 / Zhang Chang (Nanyang, late Han)](entities/ZhangChangNanyangLateHan.md) — Nanyang gongcao whose advice turns Wang Chang away from harsh powerful-household punishment toward humane governance.
@@ -6373,7 +6376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
-- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Liu Bei strategist framed as a state-system builder, morally ambiguous adviser, and direct advocate for the pre-Red-Cliffs coalition.
+- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — 经荆州名士评价获得早期可见性，后成为刘备的政权架构者与赤壁前联盟倡议者。
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [燕武成王 / King Wucheng of Yan](entities/YanWuchengwang.md) — Yan ruler installed after Gongsun Cao kills Yan Huiwang amid Yan's post-Qi-collapse weakness.
