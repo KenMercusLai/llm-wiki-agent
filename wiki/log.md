@@ -20434,3 +20434,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？
+
+Added source `zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu`; created `DistributedLocalResilience`; updated `DuJiLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `HedongCommandery`, `MaTeng`, `ZhangJiCaoOfficialLateHan`, `XunYue`, and `TransitHubCommanderyControl`. Core synthesis: Du Ji survives the Hedong coalition through county defense, local trust, grain denial, and Ma Teng-associated relief, then combines lenient administration, agriculture, schooling, fortification, arms, and training into a durable strategic base. No settled contradiction found; the transcript-uncertain 张琰/张衍 identity, exact military mechanics, force and household totals, resources, quotations, genealogy, and modern governance analogies remain source-scoped.
