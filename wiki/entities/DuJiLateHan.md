@@ -6,6 +6,7 @@ tags: [person, late-han, official, hedong, cao-cao]
 sources:
   - zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o
   - zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu
+  - zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk
 last_updated: 2026-09-20
 ---
 
@@ -13,11 +14,13 @@ last_updated: 2026-09-20
 
 ## Overview
 
-杜畿 / Du Ji is the [[XunYu|荀彧]]-recommended administrator who enters a contested [[HedongCommandery|河东郡]], survives a local-rebel coalition through dispersed defense and outside reinforcement, and then turns the commandery into a prosperous and defensible Cao-side base during a sixteen-year governorship.
+杜畿 / Du Ji is the [[XunYu|荀彧]]-recommended administrator who enters a contested [[HedongCommandery|河东郡]] alone, disperses hostile local capacity through calibrated concession, survives the resulting coalition through distributed defense and outside reinforcement, and then turns the commandery into a prosperous and defensible Cao-side base.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] establishes the appointment problem. [[CaoCao|曹操]] needs a reliable governor for a traffic hub exposed to [[GaoGanLateHan|高干]], [[ZhangShengLateHan|张盛]], and suspicious local action by [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]]. Xun Yu recommends Du Ji, but outgoing administrator [[WangYiHedongLateHan|王邑]] resists the handoff and carries the seal to Xudu.
+
+[[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] supplies the missing entry and preparation phase. Du Ji argues that a large punitive force could frighten undecided households into rebellion, crosses alone by an alternate route, and remains outwardly composed when Fan Xian kills more than thirty officials. Once accepted, he grants Wei Gu and Fan Xian visible authority, replaces mass conscription with voluntary recruitment, and proposes rotating leave. The episode reads the resulting personnel dispersal as deliberate: trustworthy people become an external support network while hostile capacity ceases to remain concentrated.
 
 [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] supplies the outcome. When the rebel coalition attacks, Du Ji gives up the commandery seat without surrendering the wider region. County defenses, a previously cultivated support network, and denial of grain prevent the attackers from converting pressure into control. Outside forces associated with [[MaTeng|马腾]] then defeat the rebel side.
 
@@ -26,7 +29,8 @@ The same source extends Du Ji from crisis administrator into long-term governor.
 ## Key Characteristics
 
 - Selected by Xun Yu for a route-critical commandery with local-elite defection risk.
-- Enters office through a resisted handoff rather than a routine succession.
+- Enters alone after judging that a punitive army could manufacture broader rebellion.
+- Uses composure, apparent concession, office grants, recruitment design, and leave to buy time and disperse hostile capacity.
 - Relinquishes the administrative center tactically while preserving county-level defense and support.
 - Uses accumulated local trust and food denial to prevent rebels from consolidating.
 - Depends on Cao-side coordination and western reinforcement to finish the military crisis.
@@ -35,19 +39,20 @@ The same source extends Du Ji from crisis administrator into long-term governor.
 ## Evidence
 
 - Appointment fit and contested entry: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] gives Xun Yu's recommendation, Hedong's route importance, local collusion risk, and Wang Yi's resisted handoff.
+- Entry and capacity dispersal: [[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] gives Du Ji's civilian-risk argument, solo crossing, response to Fan Xian's killings, delegation to hostile elites, recruitment redesign, and rotating leave.
 - Distributed survival: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] says Du Ji abandons the commandery seat while county defenses, a four-thousand-person support network, and his camp remain effective.
 - Logistics and reinforcement: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] says rebels fail to obtain grain and are later defeated by outside forces linked to Ma Teng.
 - Long-term governance: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] credits Du Ji's sixteen-year administration with leniency, agriculture, sericulture, schooling, fortification, arms production, and training.
 
 ## Qualifications
 
-The two source notes move from appointment to outcome but remain short podcast syntheses rather than a complete institutional biography. Hanji 1072's “distributed warfare,” voluntary-choice, psychological-reading, and world-leading-performance language is interpretive. Exact force numbers, the mechanics of every county defense, and the allocation of credit between Du Ji's internal holding action and Ma Teng-associated reinforcement remain source-scoped.
+The three source notes now cover appointment, entry, defense, and settlement but remain short podcast syntheses rather than a complete institutional biography. Hanji 1071's motive-reading, office mechanics, alternate route, official and troop totals, and claim that personnel sorting worked exactly as intended require textual corroboration. Hanji 1072's “distributed warfare,” voluntary-choice, psychological-reading, and performance language is interpretive; the allocation of credit between Du Ji's internal holding action and Ma Teng-associated reinforcement also remains source-scoped.
 
 ## What Changed
 
-- Replaced the appointment-only profile with the revolt outcome and sixteen-year governance synthesis.
-- Added the distinction between local staying power and the outside force required for final victory.
-- Integrated livelihood policy and defense preparation as mutually reinforcing parts of Du Ji's rule.
+- Added the missing solo-entry and pre-revolt preparation phase.
+- Reframed Du Ji's apparent surrender of authority as a qualified capacity-dispersal strategy rather than passivity.
+- Connected the support network visible in Hanji 1072 to Hanji 1071's recruitment and leave design.
 
 ## Relationships
 
@@ -59,3 +64,4 @@ The two source notes move from appointment to outcome but remain short podcast s
 - [[MaTeng|马腾]] and [[ZhangJiCaoOfficialLateHan|张既]] - outside support channel used to break the rebel coalition.
 - [[TransitHubCommanderyControl|交通枢纽郡控制]] - explains why Du Ji's office has regional strategic weight.
 - [[DistributedLocalResilience|分布式地方韧性]] - abstracts the county-defense, supply-denial, and livelihood-security pattern.
+- [[LayeredLocalEliteDemobilization|分层式地方武力拆解]] - captures Du Ji's lower-coercion sequence of office grants, recruitment redesign, and personnel dispersal.
