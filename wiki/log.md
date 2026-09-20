@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools
+
+Added source `essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382`; created `DailyCircadianPerformanceRoutine` and `UltradianDeepWorkBlock`; and updated `AndrewHuberman`, `HubermanLab`, `MorningLightCircadianAnchoring`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, `TemperatureMinimumClockShifting`, `SleepTemperatureToolkit`, and `SleepSupplementBoundary`. Core synthesis: daily performance and sleep form one timing system coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and darkness, while personal function takes precedence over copying one host routine. No settled contradiction found; optic-flow, fasting, ultradian, meal, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped.
+
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ## [2026-09-21] ingest | PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血
