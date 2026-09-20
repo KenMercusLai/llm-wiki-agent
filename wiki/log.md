@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃
+
+Added source `zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u`; updated `GuoJia`; updated and migrated `CuiZhouping` and `AdviserStateArchitecture`; updated `index.md` and `overview.md`. Core synthesis: losing Guo Jia raises a capability-continuity problem inside Cao Cao's adviser system, but does not prove that one survivor would have prevented Red Cliffs or the tripartite order. No settled contradiction found; the Red Cliffs counterfactual, exact dialogue and timing, burial details, location conclusion, and management statistic remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了
 
 Added source `zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh`; created `XuShuLateHan`; updated `LiuBei`, `ZhugeLiang`, `SimaHuiLateHan`, `LongzhongPlan`, `TaShangCeBipartiteStrategy`, `index.md`, and `overview.md`. Core synthesis: repeated recommendation and patron deference turn local reputation into strategic access, while the Longzhong Plan joins opponent choice, alliance, territorial sequence, frontier accommodation, domestic administration, talent, and Han-restoration legitimacy; Lu Su's earlier diagnosis and Zhuge Liang's later formula are preserved as different political scripts. No settled contradiction found; exact dialogue, visit count, private beliefs, the “strategic double helix,” and veteran-jealousy claims remain source-scoped.
