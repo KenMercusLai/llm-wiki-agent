@@ -21107,3 +21107,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | EP 20: Understanding AI Agents: From Basics to Future Potential
 
 Added source `ep-20-understanding-ai-agents-from-basics-to-future-potential`; created `UcheAgbosi`, `RockyMountainAIInterestGroup`, and `LLMOps`; updated and migrated `MultiAgentCollaboration` and `AIAlignmentGovernance` to synthesis-v1; updated the index. Core synthesis: agents extend models through tools, APIs, external memory, storage, orchestration, and quality controls, while multi-agent reliability depends on explicit roles, intent preservation, external verification, and accountable governance rather than agent count. No settled contradiction found; the guest biography, community membership count, constitutional-AI framing, labor effects, and future agent potential remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
