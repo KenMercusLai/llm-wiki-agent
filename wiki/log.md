@@ -20860,3 +20860,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？
 
 Added source `zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz`; created `ShiXie`, `ShiHui`, `LyuDai`, `Jiaozhou`, and `PersonalizedLocalAutonomySuccession`; and updated `JiaozhiCommandery`, `HostageBackedDependencyTrap`, `LayeredLocalEliteDemobilization`, overview, and index. Core synthesis: Shi Xie's local roots, scholarship, family office network, formal submission, hostage, and tribute preserved a personal bargain with outside authority but did not establish hereditary rule; after Sun Quan appointed replacements, Shi Hui's resistance and Lyu Dai's induced surrender converted administrative centralization into the destruction of the leading Shi branch. No settled contradiction found; the episode's father-son prudence contrast is qualified by structural centralization pressure, while cultural claims, tribute detail, administrative motives, surrender terms, and later family deaths remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
