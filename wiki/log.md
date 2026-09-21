@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 552. The Last Viking: The Saga of Harald Hardrada (Part 1)
+
+Added source `552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160`; created `OlafIIOfNorway`, `YaroslavTheWise`, `KievanRus`, `BattleOfStiklestad`, and `VikingEasternRoutes`; and updated `HaraldHardrada`, `VarangianGuard`, `SagaSourceCriticism`, and index. Core synthesis: Stiklestad transformed a teenage dynast into an exile, Rus service supplied an initial military apprenticeship, and the eastern Viking routes connected Harald's search for wealth and reputation to the Varangian Guard and future kingship. No settled contradiction found; Olaf's conversion policy remains disputed, while childhood portents, stature, eclipse timing, magical protection, battle scenes, exact route, ranks, ages, force numbers, marriage dialogue, party size, and “Northbright” remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-21] ingest | 《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？
 
 Added source `zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs`; created `TongquePlatform`, `SelfClarificationEdict`, and `PowerRetentionSelfJustification`; and updated `CaoCao`, `YeLateHan`, and index. Core synthesis: Tongque Platform projects Cao Cao's northern victory into monumental political memory while its post-Red-Cliffs chronology makes the “locking the Two Qiaos” persuasion scene literary fiction; the *Self-Clarification Edict* combines retrospective merit, public loyalty, partial fief concession, and an explicit refusal to surrender the command Cao Cao presents as protection for family and order. The chronology conflicts with a literal reading of the novel, not with existing wiki history; the bronze-bird legend, modern edict paraphrase, motives, dialogue, and comparative evaluations remain source-scoped.
