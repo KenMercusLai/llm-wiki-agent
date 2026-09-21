@@ -21299,6 +21299,10 @@ Added source `vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-22] ingest | How to Make Better Decisions | Dr. Michael Platt
+
+Added source `how-to-make-better-decisions-dr-michael-platt-scim9606820714`; created `MichaelPlatt`, `AttentionForagingModel`, `SocialValueAccounting`, `ContextDependentSocialHormoneEffects`, `InterpersonalSynchronyAndRapport`, `DecisionSpeedAccuracyControl`, `SocialImitationMarketBubbles`, and `BiologicalRationalityMismatch`; migrated and updated `LossAversion`; updated `BrandBelief`; and updated the index. Core synthesis: attention, social valuation, physiology, arousal, fatigue, imitation, and environmental fit shape decisions before or alongside conscious reasoning. No settled contradiction found; monkey-to-human transfer, hormone generalization, synchrony causality, visual framing ethics, market extrapolation, and neuroimaging interpretations remain explicitly bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
