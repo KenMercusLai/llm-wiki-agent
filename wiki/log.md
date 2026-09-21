@@ -20980,3 +20980,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman
 
 Added source `how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582`; created `MarkHyman`, `FunctionalMedicineSystemsModel`, `FoodAsMultiSystemIntervention`, and `TestInterveneRetestLoop`; updated the index. Core synthesis: functional medicine is most useful here as a revisable systems hypothesis connecting interacting biological and environmental inputs, food and lifestyle can affect several systems at once without replacing necessary care, and individualized baselines plus retesting can identify benefit or harm. No settled contradiction found; elimination-diet cases, policy history, detoxification, advanced screening, peptides, ketogenic disease treatment, NAD/NMN, exosomes, and stem-cell claims remain source-scoped and evidence-bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
