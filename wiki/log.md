@@ -21186,3 +21186,7 @@ Ran lint. See lint-report.md for details.
 
 - Ingested `/home/ken/repos/podcastatlas/content/episodes/GLT3779628370 [GLT3779628370].md`.
 - Added the source note and canonical pages for Valmy, Dumouriez, Saint-Just, the Montagnards, unsettled republican founding, factional outflanking, and ideological war; refreshed the connected French Revolution, Convention, Girondin, Robespierre, Louis XVI, and regicide syntheses.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
