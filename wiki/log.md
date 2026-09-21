@@ -20840,3 +20840,6 @@ Added source `275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijin
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？
+
+Added source `zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3`; created `ProvokedRebellionLegitimacyTransfer`; and updated `MaChao`, `WeinanBattleLateHan`, `HostageBackedDependencyTrap`, overview, and index. Core synthesis: Cao Cao's announced Hanzhong movement places coercive pressure on Guanzhong without first declaring its commanders enemies; the episode interprets Ma Chao and Han Sui's first move as a transfer of public legitimacy to suppression, while Ma Teng's household exposure raises the cost but fails to deter resistance. No settled contradiction found; deliberate provocation, hidden priorities, force and household numbers, dialogue, appointments, and analogy remain source-scoped, with a security-dilemma reading preserved.
