@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave
+
+Added source `tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523`; created `RyanSoave`, `AddictionAsAttemptedRelief`, `RecoveryDistressTolerance`, `EmotionalWeatherForecast`, `RecoveryCommunityConnection`, and `SelfDirectedStateShifting`; and updated `DigitalSexualSubstituteRisk`, overview, and index. Core synthesis: addiction can begin as short-term relief from stress, pain, loneliness, shame, trauma, or dysregulation and then create a self-reinforcing burden; recovery therefore moves from stabilization to distress tolerance, anticipatory emotional inventory, alternative state shifts, community, purpose, and connection. No settled contradiction found. “Ryan Suave” is normalized to Ryan Soave from the source metadata and official episode title; diagnostic, withdrawal, GLP-1, psychedelic, nervous-system, prevalence, and tool-effectiveness claims remain medically bounded or source-scoped.
+
 ## [2026-09-21] ingest | 559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)
 
 Added source `559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077`; created `TheRollingStones`, `MickJagger`, `KeithRichards`, `BrianJones`, `RedlandsDrugCase`, `AltamontFreeConcert`, `CelebrityFolkDevilMoralPanic`, and `PopToAlbumRockTransition`; and updated overview and index. Core synthesis: celebrity imagery magnified Redlands into conflict over drugs, class, youth, and social order, while album rock let the Stones survive rupture and convert rebellion into a durable institution; Altamont became symbolic without single-handedly ending the 1960s. No settled contradiction found; motives, character judgments, crowd figures, murder allegations, and periodization remain source-scoped.
