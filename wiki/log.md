@@ -21128,6 +21128,10 @@ Added source `essentials-supercharge-exercise-performance-recovery-with-cooling-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-22] ingest | EP 19: Navigating the Future of Workplace Health and Benefits with AI
+
+Added source `ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai`; created `JocelynJiang`, `MultiPlan`, `EmployeeHealthBenefitsAI`, `DeidentifiedEmployerHealthAnalytics`, `PopulationHealthRiskPrediction`, `AIHealthBenefitPlanOptimization`, and `OptInWorkplaceHealthMonitoring`; migrated and updated `DataScienceWithSam` and `SamDataScienceWithSam`; and updated the index. Core synthesis: AI can expand population-risk detection and benefit-plan scenario testing only when employers receive appropriately de-identified insight, identifiable outreach stays with authorized partners, fairness and affordability are explicit constraints, wearable programs preserve employee agency, and humans retain final responsibility. No settled contradiction found; model performance, optimizer objectives, compliance implementation, employee trust, and health or cost outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-22] ingest | 549. The Road to 1066: Revenge of the Vikings (Part 2)
 
 Added source `549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985`; created six ruler pages and three concept pages; updated `EmmaOfNormandy`, the index, and the overview. Core synthesis: Scandinavian Christian kingship increased state capacity without ending coercion, repeated Danegeld weakened Æthelred's legitimacy, and Cnut turned the 1016 conquest into durable rule by combining violent consolidation with English institutions and dynastic marriage. No settled contradiction found; legendary episodes, royal motives, military and fiscal quantities, and the state-formation interpretation remain source-scoped.
