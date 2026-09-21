@@ -21250,3 +21250,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态
 
 Added source `vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho`; created `SuJianxin`; migrated and updated `BehaviorChangeBabySteps`; updated `ZheBingShuoLaiHuaChang` and the index. Core synthesis: very small, low-aversion actions can make exercise startable, but they should later scale with repetition, capability, feedback, and recovery. No settled contradiction found; meal timing, fasting, black coffee, swimming, visceral-fat, lung-capacity, and “selective memory” claims remain source-scoped personal practice rather than general health guidance. The metadata/body 苏见信/苏建信 inconsistency is recorded without creating a duplicate identity. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
