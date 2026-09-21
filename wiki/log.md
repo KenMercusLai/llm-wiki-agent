@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)
+
+Added source `559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077`; created `TheRollingStones`, `MickJagger`, `KeithRichards`, `BrianJones`, `RedlandsDrugCase`, `AltamontFreeConcert`, `CelebrityFolkDevilMoralPanic`, and `PopToAlbumRockTransition`; and updated overview and index. Core synthesis: celebrity imagery magnified Redlands into conflict over drugs, class, youth, and social order, while album rock let the Stones survive rupture and convert rebellion into a durable institution; Altamont became symbolic without single-handedly ending the 1960s. No settled contradiction found; motives, character judgments, crowd figures, murder allegations, and periodization remain source-scoped.
+
 ## [2026-09-21] ingest | Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth
 
 Added source `essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631`; created `KarlDeisseroth`, `ProjectionsBook`, `PsychiatryMeasurementGap`, `SelectiveNeuralStimulationPrecision`, `PsychiatricStigmaTreatmentDelay`, and `TherapeuticStateLearning`; and updated `CircuitBasedPsychiatry`, `DeepBrainStimulationPsychiatry`, `PsychedelicClinicalSupervisionBoundary`, `MDMA`, overview, and index. Core synthesis: psychiatry's interview-based evidence can coexist with a physical circuit account, but future precision depends on target knowledge, while psychedelic and MDMA learning claims remain supervision-bound hypotheses. No settled contradiction found; EEG biomarkers, optogenetic psychiatric use, brain-machine interfaces, psychedelic mechanisms, and MDMA learning remain emerging or source-scoped.
