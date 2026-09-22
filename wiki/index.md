@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [512. America in '68: The Chicago Riots (Part 5)](sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495.md) — The Rest Is History episode on the 1968 Democratic convention, Yippie spectacle, police violence, party collapse, television framing, and law-and-order fallout.
 - [How Relationships Shape Your Brain | Dr. Allan Schore](sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719.md) — Huberman Lab interview on early attachment as affect regulation, self- and interactive regulation, misattunement repair, implicit communication, and therapeutic synchrony.
 - [VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？](sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf.md) — Ultrasound explainer covering modes, first-line limits, intervention, preparation, endocavitary safety, and pregnancy concerns.
 - [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
@@ -2686,6 +2687,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
 
 ## Entities
+- [1968 Democratic National Convention in Chicago](entities/Chicago1968DemocraticConvention.md) — Convention crisis joining Democratic division, anti-war protest, police violence, and television politics.
+- [Abbie Hoffman](entities/AbbieHoffman.md) — Yippie organizer who made theatrical provocation and television visibility central to protest.
+- [Richard J. Daley](entities/RichardJDaley.md) — Chicago mayor whose defense of civic order shaped the 1968 convention crisis.
 - [Allan Schore](entities/AllanSchore.md) — Clinician and psychoanalytic theorist presenting attachment as affect regulation, implicit relational communication, and repair.
 - [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
 - [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
@@ -13188,6 +13192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George Wallace](entities/GeorgeWallace.md) — Third-party 1968 candidate and explicit-rhetoric contrast for Nixon's more coded racial appeal.
 
 ## Concepts
+- [Protest Media Spectacle](concepts/ProtestMediaSpectacle.md) — Use of symbolic, camera-ready protest whose visibility can outrun organizers' control of interpretation.
 - [Attachment as Affect Regulation](concepts/AttachmentAffectRegulation.md) — Model of attachment as flexible self- and interactive emotion regulation built through nonverbal caregiving and repair.
 - [Right-Hemisphere Relational Processing](concepts/RightHemisphereRelationalProcessing.md) — Source-bounded framework for implicit, contextual, bodily, and nonverbal relational information.
 - [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
