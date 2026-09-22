@@ -2685,6 +2685,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Hormones Shape Sexual Development](sources/essentials-how-hormones-shape-sexual-development-scim8971920142.md) — Huberman Lab Essentials episode on layered sexual differentiation, DHT and aromatase pathways, receptor-dependent effects, puberty, and evidence boundaries for environmental endocrine-disruption claims.
 
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
+- [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
 - [1968 Democratic National Convention in Chicago](entities/Chicago1968DemocraticConvention.md) — Convention crisis joining Democratic division, anti-war protest, police violence, and television politics.
@@ -13184,12 +13185,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
-- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Close Nixon-Humphrey-Wallace contest shaped by Vietnam, disorder, racial signaling, campaign control, and a late Democratic recovery.
+- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Three-candidate contest shaped by Vietnam, disorder, racial signaling, Wallace's leverage strategy, campaign control, and a late Democratic recovery.
 - [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
 - [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
 - [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control, staged television, and racially calculated messaging.
 - [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
-- [George Wallace](entities/GeorgeWallace.md) — Third-party 1968 candidate and explicit-rhetoric contrast for Nixon's more coded racial appeal.
+- [George Wallace](entities/GeorgeWallace.md) — Alabama segregationist who nationalized anti-government and law-and-order grievance in a consequential 1968 third-party campaign.
+- [Lurleen Wallace](entities/LurleenWallace.md) — Alabama proxy governor whose election preserved George Wallace's control despite term limits.
+- [Curtis LeMay](entities/CurtisLeMay.md) — Wallace running mate whose nuclear-weapons remarks created a campaign credibility crisis.
+- [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
 - [Protest Media Spectacle](concepts/ProtestMediaSpectacle.md) — Use of symbolic, camera-ready protest whose visibility can outrun organizers' control of interpretation.
@@ -21060,7 +21064,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Political Comeback Groundwork](concepts/PoliticalComebackGroundwork.md) — Party service, local obligations, and primary proof that rebuild viability after electoral defeat.
 - [Controlled Television Campaign](concepts/ControlledTelevisionCampaign.md) — Staged media format that simulates voter access while reducing candidate risk and controlling visual argument.
-- [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework separating general public-safety language, coded racial cues, policy signals, and audience reception.
+- [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework joining public-safety language, biography, coded racial cues, policy signals, and audience reception.
+- [Segregationist Populist Translation](concepts/SegregationistPopulistTranslation.md) — Reframing explicit segregation through anti-government, local-control, class, and cultural-grievance language without erasing racial meaning.
+- [Grievance Rally Performance](concepts/GrievanceRallyPerformance.md) — Participatory campaign style combining entertainment, repetition, enemies, hecklers, crowd response, and conflict.
+- [Third-Party Electoral College Leverage](concepts/ThirdPartyElectoralCollegeLeverage.md) — Strategy of using concentrated regional electoral votes to deny a majority and seek House-election bargaining power.
+- [Southern Conservative Realignment Signal](concepts/SouthernConservativeRealignmentSignal.md) — Wallace's coalition as early evidence of white Southern and working-class movement toward later Republican strength.
 - [Electoral Backchannel Causation Boundary](concepts/ElectoralBackchannelCausationBoundary.md) — Test separating contact and impropriety from recipient response, policy effect, and decisive electoral causation.
 - [Diagnostic Ultrasound Modality Selection / 诊断超声方式选择](concepts/DiagnosticUltrasoundModalitySelection.md) — Functional map of ultrasound modes, routes, first-line strengths, operator dependence, and multimodal diagnostic limits.
 - [Interventional Ultrasound Safety / 介入超声安全边界](concepts/InterventionalUltrasoundSafety.md) — Image-guided procedure boundary requiring target visibility, safe access, appropriate indication, and acceptable risk.
