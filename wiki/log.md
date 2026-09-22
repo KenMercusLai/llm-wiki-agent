@@ -21354,3 +21354,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | 512. America in '68: The Chicago Riots (Part 5)
 
 Added source `512-america-in-68-the-chicago-riots-part-5-glt9860410495`; created `RichardJDaley`, `AbbieHoffman`, `Chicago1968DemocraticConvention`, and `ProtestMediaSpectacle`; and updated `HubertHumphrey`, `UnitedStatesPresidentialElection1968`, `LawAndOrderRacialSignaling`, and the index. Core synthesis: the convention joined Democratic succession conflict, anti-war theatre, municipal order politics, police violence, and television framing; Humphrey won the nomination but lost control of the public narrative, while visible repression did not automatically create majority sympathy for protesters. No settled contradiction found; crowd sizes, polling, police demographics, motives, chronology, and the convention's independent electoral effect remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
