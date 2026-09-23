@@ -21932,3 +21932,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | The beauty industry is betting big on AI
 
 Added source `tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128`; created `ConversationalBeautyAdvising`; updated `GenerativeEngineOptimization`, `AgenticCommerce`, `LOreal`, and the index. Core synthesis: beauty is well suited to iterative AI advice because product choice is personal, visual, and context dependent, but medical authority, sponsored ranking, appearance pressure, facial-data consent, and credentialed checkout are distinct trust boundaries; consumers may accept recommendation before transaction authority, while brands need richer product evidence without assuming that machine legibility guarantees neutral advice. No settled contradiction found; market size, referral share, conversation duration, partnership scope, lawsuit allegations, product changes, and adoption claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
