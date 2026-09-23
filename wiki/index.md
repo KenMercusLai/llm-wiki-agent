@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？](sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19.md) — 端聞 explainer on Gyirong's trade and border role, cumulative river-valley development risk, strategic corridor dependence, and cross-border warning limits.
 - [National front-runner: who can beat Le Pen?](sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60.md) — The Intelligence episode on Le Pen's polling lead and fragmented opposition, identity-proxied enforcement along the India-Bangladesh border, and Argentina's polo cluster.
 - [Is our national debt finally too much? (update)](sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319.md) — Planet Money update on the failed search for a universal debt threshold, the Reinhart-Rogoff controversy, rising debt service, and U.S. fiscal capacity.
 - [479. The French Revolution: The Storming of the Bastille (Part 5)](sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441.md) — The Rest Is History episode on hunger, Necker's dismissal, Parisian arming, the Bastille's fall, revolutionary mythmaking, and post-surrender vengeance.
@@ -2760,6 +2761,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
 
 ## Entities
+- [Gyirong Port](entities/GyirongPort.md) — Historic China-Nepal trade route and modern strategic border crossing exposed to recurrent valley hazards.
 - [Raphael Glucksmann](entities/RaphaelGlucksmann.md) — French contender with more outsider distance than former senior officeholders but weaker polling in the episode's fragmented field.
 - [Bruno Retailleau](entities/BrunoRetailleau.md) — French center-right contender whose senior-government record complicates outsider positioning.
 - [Argentine Polo](entities/ArgentinePolo.md) — Elite sporting, breeding, technology, and infrastructure ecosystem behind Argentina's global polo advantage.
@@ -13396,6 +13398,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Cumulative River-Valley Development Risk](concepts/CumulativeRiverValleyDevelopmentRisk.md) — Combined exposure created when separately assessed infrastructure and settlements cluster in one narrow hazard corridor.
+- [Strategic Border-Corridor Dependence](concepts/StrategicBorderCorridorDependence.md) — Trade diversification that also creates unequal dependence on cross-border infrastructure, access decisions, and political priorities.
 - [Conversational Beauty Advising](concepts/ConversationalBeautyAdvising.md) — AI-assisted beauty consultation whose usefulness is bounded by medical authority, sponsorship, appearance pressure, facial-data consent, and payment trust.
 - [Centrist Fragmentation Runoff Risk](concepts/CentristFragmentationRunoffRisk.md) — Risk that compatible candidates split first-round support until none reaches a decisive runoff.
 - [Identity-Proxied Border Enforcement](concepts/IdentityProxiedBorderEnforcement.md) — Use of language, religion, names, or ethnicity as practical stand-ins for nationality or immigration status.
