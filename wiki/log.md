@@ -21833,3 +21833,7 @@ Added source `276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-we
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393`; updated `SteveHilton`, `SpencerPratt`, `CaliforniaAffordabilityGovernanceReset`, `BallotHarvestingTrustRisk`, `CaliforniaPostFireRebuildingDelay`, and the index. Core synthesis: Hilton expands his affordability campaign from a $100,000 to a $150,000 income-tax exemption and adds staffing, regulatory, energy, rail, vehicle-fee, and new-city proposals, while implementation and fiscal authority remain unresolved. Pratt distinguishes legal ballot harvesting from fake-ballot allegations and explicitly concedes he lacks evidence that fraud caused his loss; his fire account adds alleged prevention and water failures, mass-tort litigation, insurance constraints, and continued rebuilding delay. No settled contradiction found beyond the unreconciled tax-plan revision; electoral, fiscal, regulatory, fire-causation, negligence, lawsuit, reservoir, insurance, and polling claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
