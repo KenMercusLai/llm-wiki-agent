@@ -21900,3 +21900,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 479. The French Revolution: The Storming of the Bastille (Part 5)
 
 Added source `479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441`; created `StormingOfTheBastille`, `JacquesNecker`, `CamilleDesmoulins`, `BernardReneDeLaunay`, `FrenchNationalGuard`, `BastilleRevolutionaryMythmaking`, and `RevolutionaryCrowdVengeance`; updated `FrenchRevolution`, `LouisXVI`, `MarquisDeLafayette`, `JeanSylvainBailly`, `RevolutionaryHungerStreetMobilization`, and the index. Core synthesis: the Bastille was both a practical gunpowder target and a real symbol of arbitrary rule, while military unreliability, civic arming, immediate myth production, and post-surrender lynching made national liberation and political violence parts of the same regime break. No settled contradiction found; the violence-first interpretation does not make later Terror inevitable, and prices, crowd and troop totals, first-fire responsibility, private motives, dialogue, prisoner conditions, and atrocity details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
