@@ -21755,3 +21755,7 @@ Added source `487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt75549
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 486. Henry IV: Warrior Princes and Fat Knights (Part 2)
+
+Added source `486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611`; created `BattleOfShrewsbury`, `HenryPercyHotspur`, `OwainGlyndwr`, `JohnOldcastle`, `Falstaff`, and `Lollardy`; updated `HenryIVOfEngland`, `HenryVOfEngland`, and the index. Core synthesis: Prince Henry's Welsh command and survival at Shrewsbury replace a simple wayward-youth story with an apprenticeship in battle, finance, logistics, and government, while Henry IV's victory, coercive survival, illness, and family rule secured a contested dynasty. Falstaff's critique of honour and Oldcastle's Lollard career complicate heroic and religious memory without proving the prince's private heterodoxy. No settled contradiction found; rebel motives, the Tripartite Indenture, illness diagnosis, providential explanations, battlefield totals, and inner belief remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
