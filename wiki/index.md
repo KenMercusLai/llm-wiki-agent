@@ -2757,6 +2757,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 - [The cost of digitally disconnecting](sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128.md) — Marketplace Tech episode on luxury digital-detox retreats, practical routine substitution, rapid screen-time rebound, offline status performance, and the need for workplace and cultural boundaries.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
+- [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
 
 ## Entities
 - [Raphael Glucksmann](entities/RaphaelGlucksmann.md) — French contender with more outsider distance than former senior officeholders but weaker polling in the episode's fragmented field.
@@ -13395,6 +13396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Conversational Beauty Advising](concepts/ConversationalBeautyAdvising.md) — AI-assisted beauty consultation whose usefulness is bounded by medical authority, sponsorship, appearance pressure, facial-data consent, and payment trust.
 - [Centrist Fragmentation Runoff Risk](concepts/CentristFragmentationRunoffRisk.md) — Risk that compatible candidates split first-round support until none reaches a decisive runoff.
 - [Identity-Proxied Border Enforcement](concepts/IdentityProxiedBorderEnforcement.md) — Use of language, religion, names, or ethnicity as practical stand-ins for nationality or immigration status.
 - [Border Buffer-Zone Civilian Burden](concepts/BorderBufferZoneCivilianBurden.md) — Movement, time, access, livelihood, and displacement costs imposed on citizens living inside controlled border space.
