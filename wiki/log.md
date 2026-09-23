@@ -22004,3 +22004,7 @@ Added source `475-the-french-revolution-marie-antoinette-part-1-glt3119389535`; 
 ## [2026-09-24] ingest | 474. The Road to The Great War: The Lights Go Out (Part 6)
 
 Added source `474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702`; created `EdwardGrey`, `HHAsquith`, and `JulyCrisis`; updated `FirstWorldWar`, `Belgium`, `KaiserWilhelmII`, and the index. Core synthesis: the final crisis joined conscious choice to perceived obligation, mobilisation rigidity, strategic fear, miscommunication, domestic politics, and fatalism; Belgium gave Britain the decisive legal-moral frame, but French naval expectations, Channel security, honour, and party arithmetic were already active. No settled contradiction found. The episode qualifies literal sleepwalking and uniform war-enthusiasm narratives without erasing uncertainty, patriotic mobilisation, or responsibility. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
