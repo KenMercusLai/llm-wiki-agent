@@ -22120,3 +22120,11 @@ Added source `build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455`; c
 ## [2026-09-24] lint | Wiki lint check
 
 Ran lint after health and identity validation passed. Deterministic checks found one orphan page, two broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware checks used the stale 2026-09-02 graph snapshot and provisionally found no hub stubs, one fragile bridge, and no isolated communities. Semantic lint was unavailable because `LLM_MODEL` was unset and the fallback LiteLLM model was not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-24] ingest | 469. The Road to The Great War: Countdown to Armageddon (Part 1)
+
+Added source `469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632`; created `FranzConradVonHotzendorf`; updated `AlexanderHoyos`, `LeopoldBerchtold`, `IstvanTisza`, `Serbia`, `FranzJosephI`, `AustriaHungary`, `FranzFerdinand`, `KaiserWilhelmII`, `JulyCrisis`, and the index. Core synthesis: the opening July Crisis combined genuine grief and Serbian-linked security fears with prestige, time pressure, a removed anti-war heir, and Serbia-focused tunnel vision; Wilhelm's volatile personality mattered, but his constrained authority and habitual rhetoric resist a one-man inevitability story. No settled contradiction found; Serbian state responsibility, public war enthusiasm, character-based causation, and counterfactual restraint remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
