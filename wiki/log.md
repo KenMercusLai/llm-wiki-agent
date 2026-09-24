@@ -21945,6 +21945,10 @@ Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-24] ingest | Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit`; created `LucaFerrari`, `AcquiredProductMarketFit`, and `SoftwareAcquisitionOperatingPlatform`; migrated and updated `BendingSpoons` and `LongTermPrivateOwnership`; and updated the index. Core synthesis: Bending Spoons separates demand discovery from post-acquisition execution by buying products with existing users, then applying shared technology, small teams, selective hiring, and permanent-ownership integration; the strategy depends on transferable operating capability rather than capital or cost cutting alone. No settled contradiction found; an earlier Airtable cost-reset frame is broadened rather than rejected, while returns, leverage, valuation, staffing, hiring, portfolio scale, customer outcomes, restructuring effects, and failed integrations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
