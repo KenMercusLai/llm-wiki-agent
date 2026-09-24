@@ -22112,3 +22112,7 @@ Added source `duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengcha
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Build a Strong, Pain-Proof Back | Dr. Stuart McGill
+
+Added source `build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455`; created `StuartMcGill`, `MechanismBasedBackPainAssessment`, `AnatomyConstrainedExerciseSelection`, `SpineLoadTippingPoint`, and `SpineSparingCoreStability`; rewrote `SymptomDrivenSpineCare`, `LumbarDiscHerniation`, `LumbarNeutralPosition`, and `SpineRehabilitationProgression` from their complete bounded source sets; and updated the index. Core synthesis: back pain is a multi-mechanism symptom, so anatomy, goals, triggers, neurological status, load dose, recovery, and pain behavior should govern exercise and rehabilitation rather than universal prescriptions. No settled contradiction found; provocative-testing limits, virtual-surgery outcomes, athlete-body patterns, PRP judgments, and named protocols remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
