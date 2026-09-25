@@ -22571,3 +22571,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation
 
 Added source `guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288`; created `SleepMentalHealthBidirectionality`, `SleepLossEmotionalReactivity`, `DeepNonREMSleepAnxietyRegulation`, and `SleepDisruptionSuicideRiskSignal`; and updated `MatthewWalker`, `REMEmotionalMemorySeparation`, and `SubstanceSleepArchitectureBoundary` from their complete bounded source sets. Core synthesis: sleep and mental health interact bidirectionally through distinct acute, REM, deep non-REM, circadian, and substance-sensitive mechanisms, while sleep disruption and nightmares can function only as qualified risk signals rather than deterministic predictions. No settled contradiction found. Prazosin replication is mixed, sleep-deprivation antidepressant effects are temporary and inconsistent, and the amygdala, anxiety, relapse, PTSD, suicide-risk, chronotype, light, and substance claims remain source-scoped public education rather than individualized psychiatric care. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis-refresh workflow only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
