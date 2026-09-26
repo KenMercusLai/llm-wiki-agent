@@ -23015,6 +23015,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | 418. Britain in 1974: The Crisis Election (Part 2)
+
+Added a source page for The Rest Is History on the M62 bombing, the February 1974 election, Heath's failed mandate gamble, Wilson's return, Labour's radical manifesto, Liberal vote-seat disproportionality, Powell's Europe intervention, and failed Heath-Thorpe coalition talks. Created Enoch Powell, Jeremy Thorpe, and February 1974 UK General Election; updated Edward Heath, Harold Wilson, Tony Benn, Denis Healey, Provisional IRA, The Troubles, Terrorism Pressure and Wrongful Conviction, and British EC Referendum 1975. No settled contradiction found; Wilson's possible early decline, causal campaign effects, and responsibility for specific attacks remain qualified.
+
 ## [2026-09-27] ingest | 419. Britain in 1974: Countdown to a Coup (Part 3)
 
 Added source `419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212`; created `MarciaWilliams`, `WalterWalker`, `DavidStirling`, `SocialContractUK1970s`, `SunningdalePowerSharingCollapse`, and `BritishCoupParanoia1974`; and updated `HaroldWilson`, `TonyBenn`, `DenisHealey`, `October1974UKGeneralElection`, and `Britain1976IMFCrisis` from their complete bounded source sets. Core synthesis: Wilson's March minority government ended the miners' confrontation but could not enforce voluntary restraint evenly; Sunningdale's collapse and real security suspicion, military emergency precedent, and retired-officer organizing made coup fear intelligible without proving an operational plot. No settled contradiction found. The Marcia Williams portrait remains qualified because it relies heavily on hostile male aides, while tax rates, pay settlements, private dialogue, and conspiracy allegations remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
