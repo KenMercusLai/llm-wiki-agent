@@ -23022,3 +23022,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 423. Carthage vs. Rome: The Wolf at the Gates (Part 3)
 
 Added source `423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613`; created `Pyrrhus` and `RomanCivicMilitaryIncorporation`; and updated `RomanRepublic`, `Carthage`, `Samnites`, and `FirstPunicWar` from their complete bounded source sets. Core synthesis: Rome's pre-Punic strength lay less in uninterrupted victory than in coercive incorporation, civic honor, citizen service, allied manpower, and continued mobilization after defeat, while Carthage remained the older maritime-commercial treaty partner until Roman control of Italy shifted both powers toward Sicily. No settled contradiction found. Early republican narratives, treaty dating, the Gallic sack's causal role, battle details, reported speeches and prophecies, and the citizen-versus-mercenary contrast remain source-scoped or qualified. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
