@@ -23092,3 +23092,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 416. The Canterbury Tales (Part 4)
 
 Added source `416-the-canterbury-tales-part-4-glt1956280616`; created `GeoffreyChaucer`, `TheCanterburyTales`, `WifeOfBath`, `AliceChaucer`, `LiteratureAsSocialHistory`, `PostPlagueSocialMobility`, `VernacularLiteraryLegitimacy`, and `PilgrimageAsSocialReconnection`; and updated `TheRestIsHistory`, the canonical index, and overview. Core synthesis: Chaucer's career and pilgrims make literature a qualified window onto plague-era mobility, commerce, hierarchy, gender, pilgrimage, and the cosmopolitan rise of literary English. No settled contradiction found. The Cecily Champagne reinterpretation, April plague-season claim, breadth of women's post-plague autonomy, and Chaucer's dialect influence remain source-scoped.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
