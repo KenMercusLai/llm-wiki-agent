@@ -2,34 +2,43 @@
 title: "AI Search Analytics"
 type: concept
 tags: [ai, search, analytics, marketing]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+sources:
+  - tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128
+  - ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing
+  - he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months
+  - tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128
+knowledge_schema: synthesis-v1
 last_updated: 2026-07-12
 ---
 
 # AI Search Analytics
 
-AI search analytics is the product category for measuring how brands, products, or companies appear in AI answer and search tools. In [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]], [[PeakAI]] is presented as an analytics product for visibility across [[ChatGPT]], [[Perplexity]], [[Gemini]], and similar systems.
+## Definition
+AI search analytics measures whether and how a brand, school or product appears in generated answers: mentions, rank or position, cited sources, answer accuracy and sometimes sentiment. It is measurement, not proof of recommendation, purchase or causal effect. [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]]
 
-[[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]] adds a service-delivery contrast through [[Responna]]. [[FarzadRashidi]] says Responna can track AI visibility, but the main offer is helping brands get mentioned on publisher pages that AI systems cite. This makes analytics one input into [[AIVisibilityService]], not always the final product.
-
-[[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the advertising version of the measurement problem. [[GarrettJohnson]] argues that AI ad systems need scale, advertiser onboarding, and conversion feedback; analytics therefore shifts from measuring organic answer presence toward measuring whether sponsored or commerce-linked answers actually create value.
-
-[[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds the higher-education version through [[HigherEducationAIDiscoverability]]. Colleges may need to test what AI tools say about programs, cost, culture, career outcomes, and student fit, then decide whether outdated or ranker-heavy answers require content updates.
+## Current Synthesis
+One company sells dashboards, another uses monitoring to deliver publisher outreach as a service, and a college example checks answer accuracy; advertising adds a separate sponsored-placement and conversion question. The accounts are founder and expert reports, not independent efficacy trials. [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]] [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]]
 
 ## Key Claims
-- AI search analytics treats AI-mediated answers as a marketing channel that can shape buyer research and product recommendations.
-- The basic measurement problem includes whether a brand appears, whether it is cited, which sources support the answer, and what sentiment the answer expresses.
-- The category connects marketing analytics to [[GenerativeEngineOptimization]] because measurement can guide where brands should create or influence public information.
-- Early category timing matters because expert discussion among SEO professionals can precede broader buyer awareness.
-- Measurement can expose citation gaps, but closing those gaps may require publisher outreach, content placement, and service operations.
-- AI-search advertising adds conversion and sponsored-placement measurement to the earlier visibility and citation problem.
-- Higher-education analytics can include prompt-testing a school's own AI description and checking whether answers reflect current information.
+- Answer presence and supporting citations can be monitored across models, but outputs vary with prompt and system. [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]]
+- Measurement may reveal a citation gap without closing it; publisher relationships and editorial content are a separate operation. [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]]
+- Paid placements and organic mentions require separate attribution and conversion measurement. [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]]
+- In education, prompt tests should check program, cost, culture and outcomes against current facts instead of just seeking a mention. [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]]
 
-## Connections
-- [[PeakAI]] and [[MariusMiners]] - company and founder case.
-- [[ChatGPT]], [[Perplexity]], and [[Gemini]] - monitored answer surfaces in the source.
-- [[AIDiscoverySEO]] - broader distribution concept already present in the wiki.
-- [[DistributionLedProductBuilding]] - strategic frame where discoverability can determine what is worth building.
-- [[Responna]], [[AIVisibilityService]], and [[PublisherRelationshipMoat]] - service-led counterpart to pure analytics.
-- [[AISearchAdvertising]], [[Walmart]], and [[Shopify]] - commerce and conversion-data context added by Marketplace Tech.
-- [[HigherEducationAIDiscoverability]], [[AICollegeSearch]], and [[AIRankingReinforcement]] - college-search measurement and accuracy context added by Marketplace Tech.
+## Evidence
+- **Dashboard instrumentation.** A founder interview presents [[PeakAI]] and [[MariusMiners]] as tracking visibility across [[ChatGPT]], [[Perplexity]] and [[Gemini]] when SEO experts may discuss a category before broader buyers recognize it; appearing in answers, citation sources and answer framing are different observables. This links to [[GenerativeEngineOptimization]] without proving SEO interventions cause model recommendations. [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]]
+- **Service versus software.** [[FarzadRashidi]] says [[Responna]] tracks AI visibility but sells help gaining mentions on the publisher pages models cite. [[AIVisibilityService]] depends on [[PublisherRelationshipMoat|publisher relationships]], execution and content quality, not only a ranking dashboard. [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]]
+- **Channel and downstream value.** [[GarrettJohnson]] notes that an AI ad system needs advertiser onboarding, scale and purchase/conversion feedback; [[Walmart]] and [[Shopify]] commerce partnerships might improve that loop, but [[AISearchAdvertising]] paid exposure cannot be blended with organic citation measurement. [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]]
+- **Sector-specific audit.** A Marketplace Tech higher-education account proposes that colleges query AI tools about program offerings, fees, student fit and career outcomes and fix stale public information. [[HigherEducationAIDiscoverability]], [[AICollegeSearch]] and [[AIRankingReinforcement]] point to accuracy as well as visibility. [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]]
+
+## Counterevidence & Qualifications
+- The interviewed vendors' ARR or growth is not evidence that analytics improves clients' revenue; a mention can be wrong or negative. [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]]
+- Changing public pages does not guarantee inclusion or stable positioning in a generated answer; attribution needs controlled measurement. [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]]
+
+## What Changed
+- Split dashboard measurement, publisher-execution service and sponsored conversion into different products.
+- Added institutional answer-accuracy checks rather than treating all use as brand promotion.
+
+## Related Concepts
+- [[AIDiscoverySEO]] - broad discoverability strategies use measurements as feedback.
+- [[DistributionLedProductBuilding]] - answer discovery may be a channel but does not replace customer demand.
