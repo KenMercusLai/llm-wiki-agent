@@ -23079,6 +23079,7 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-27] ingest | 403. The Mystery of the Pregnant Pope
 
 Added source `403-the-mystery-of-the-pregnant-pope-glt1981561492`; created `PopeJoan`, `JeanDeMailly`, `MartinOfPoland`, `GuglielmaOfMilan`, `MaifredaDaPirovano`, `GregorianReform`, `LegendAsInstitutionalAnxiety`, `RitualObjectLegendFormation`, and `FemaleSacredAuthorityConstraint`; and updated `GregoryVII`, the canonical index, and overview from the complete bounded source set. Core synthesis: Pope Joan is historically unsupported but institutionally revealing, because late detail, ritual attachment, repetition, and polemic made the legend consequential; the real Guglielma-Maifreda movement shows that imagined female papal authority could provoke violent suppression. No settled contradiction found. The legend's origin remains multi-causal and interpretive, while hostile inquisitorial evidence limits reconstruction of Guglielma's own claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23685,3 +23686,7 @@ Added source `381-captain-cook-to-the-ends-of-the-earth-part-2-glt6950185057`; c
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙
+
+Added source `vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox`; created `HairLossDiagnosticTriage`; and updated `LuluPlasticSurgeon`, `Minoxidil`, `Dafeixin`, `HairLossFollicleCycle`, and the canonical index from their complete bounded source sets. Core synthesis: women's hair loss should be separated by pattern, timing, triggers, shaft variation, examination, dermoscopy, and sometimes biopsy before treatment; minoxidil is a long-term, diagnosis-sensitive treatment whose adherence, early shedding, unwanted hair growth, application, pregnancy, and breastfeeding boundaries matter. No settled contradiction found. Pull-test thresholds, mechanisms, concentration choices, regulatory descriptions, treatment effects, and all Dafeixin product, service, comfort, price, and promotion claims remain source-scoped public education or sponsorship rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
