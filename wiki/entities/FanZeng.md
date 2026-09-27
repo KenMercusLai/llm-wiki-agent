@@ -2,53 +2,77 @@
 title: "范增 / Fan Zeng"
 type: entity
 tags: [strategist, chinese-history, power]
-sources: [zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e, zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]
+sources:
+  - zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc
+  - zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo
+  - zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q
+  - zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2
+  - zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r
+  - zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy
+  - zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e
+  - zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662
+  - zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx
+  - zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw
+  - zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz
+  - 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576
 last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
 ---
 
 # 范增 / Fan Zeng
 
-Fan Zeng is [[XiangYu|项羽]]'s adviser in the episode's reading of [[HongmenYan|《鸿门宴》]] in [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]]. The source grants him strategic insight: he sees that [[LiuBang|刘邦]] is dangerous and wants Xiang Yu to remove him.
+## Overview
+范增是楚军谋士，先建议恢复楚王室名义，后识别刘邦威胁；这些节目特别关注其准确判断为何未变成项羽能够持续执行的政治决策。
 
-[[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz|Qinji 130-3]] adds his earlier Qin-collapse role. After [[ChenSheng|陈胜]]'s death is confirmed, Fan Zeng tells [[XiangLiang|项梁]] that Chen Sheng's failure followed from not restoring a [[ChuState|楚国]] royal descendant. He invokes [[ChuHuaiwang|楚怀王]]'s death in Qin captivity and [[ChuThreeHouseholdsAntiQinMemory|楚虽三户式反秦记忆]], giving Xiang Liang the argument for installing [[MiXin|芈心 / 楚怀王]].
+## Current Profile
+他的角色横跨反秦联盟合法性、巨鹿救援军位次、鸿门宴决策及荥阳疑间；把“看见威胁”与“能说服主君、提供公开理由”分开，是理解成功与失败的关键。
 
-This makes Fan Zeng's page less narrowly a Hongmen Banquet warning case. In the earlier anti-Qin field, his insight is constructive: he understands that a military coalition needs [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] before Xiang Liang can plausibly claim succession to the anti-Qin cause.
+## Key Characteristics
+- 借复立楚王后裔为反秦军事联盟提供合法性叙事。
+- 在巨鹿救援序列中有正式军职，但并非宋义之死的直接行动者。
+- 从刘邦入关后的克制识别竞争威胁，却缺可公开辩护的灭刘路径。
+- 鸿门宴以玉玦和项庄剑舞促杀，顾问与君主权责产生冲突。
+- 将威胁判断转入三秦地理围堵，并在荥阳坚决拒和。
+- 陈平离间利用项营裂缝，范增失去信任、离职而死。
 
-His failure is a political-handling failure. QinZong argues that Fan Zeng cannot move Xiang Yu because he does not manage pride, recognition, and the emotional situation; smashing the jade dipper and insulting Xiang Yu after the escape only deepens the gap between correct judgment and effective influence.
+## Evidence
+- **王室名义：** [[zizhi-tongjian-qinji-130-3-weihe-li-mutong-wei-chuwang-limian-dayou-wenzhang-lmcuvrxer-cou6gmlppqwhb3n4vz]]记[[ChenSheng|陈胜]]死后范增劝[[XiangLiang|项梁]]寻楚宗室后裔、立牧羊人[[MiXin|芈心]]为新楚怀王；所援旧[[ChuHuaiwang|楚怀王]]被秦拘死及“楚虽三户”记忆服务于[[RestoredRoyalFigureheadLegitimacy]]，新旧怀王不可混称。
+- **救赵军位：** [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]]与[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx]]述[[HuaiwangAgreement]]下[[SongYi|宋义]]为上将、[[XiangYu|项羽]]为次将、范增为末将救[[Julu|巨鹿]]；在[[AnyangQinRebellion|安阳]]宋义停军、范增与项羽着急，直接诛宋义的是项羽而非范增。
+- **入关威胁判断：** [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662]]与[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e]]记他由[[LiuBang|刘邦]]在[[GuanzhongRegion|关中]]不取财色的反常克制推断其志不小；[[XiangBo|项伯]]以刘邦先入关有功护刘，主持人批评范增没拿出能说服项羽的公开[[MoralizedWarPretext]]，不能只凭后来胜负断言当时杀刘合法。
+- **鸿门宴：** [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy]]记范增多次示玉玦、项羽不应，遂叫[[XiangZhuang|项庄]]舞剑，项伯以身护刘；[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]]记刘邦脱身至[[Bashang|霸上]]后，范增击破玉斗并称夺项氏天下者必沛公。[[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]]从[[PowerEtiquetteReading]]分析其未顾及项羽面子/承认需求；“谋士越位”（[[AdvisorRoleBoundary]]）是节目政治解释，不是官制明文。
+- **地理与和议：** [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]]称范增与项羽担忧刘邦，汉王封地周围安排[[ZhangHanQin|章邯]]、[[SimaXin|司马欣]]、[[DongYiQin|董翳]]为[[ThreeQinContainment]]；[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q]]记[[XingyangStandoff|荥阳]]刘邦求和、项伯劝和而范增催趁困灭刘，成为[[ChenPing|陈平]]离间对象。
+- **失信退场与后见评价：** [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo]]记陈平先以待范增使者的好酒食招待项羽使者，再假装发现来的是项羽使者而撤换，触发项羽猜疑；节目以项氏亲族与楚旧功臣裂隙（[[XiangCampFactionalCleavage]]）解释疑心，而非证明范增真欲投汉：他此前屡催杀刘，叛投与过往立场也不合。范增请退、因背疽病死于到达彭城之前的归途；[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc]]记刘邦称项羽有范增而不能用，反衬自己用[[ZhangLiang|张良]]、[[XiaoHe|萧何]]与[[HanXin|韩信]]的[[SpecialistDelegationLeadership]]。
 
-[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] places Fan Zeng inside the command structure after [[XiangLiang|项梁]]'s death. Under [[HuaiwangAgreement|怀王之约]], [[MiXin|芈心 / 楚怀王]] sends [[SongYi|宋义]] as chief general, [[XiangYu|项羽]] as second general, and Fan Zeng as last general to rescue [[Julu|巨鹿]]. The source does not yet give Fan Zeng an active decision in this campaign; it mainly marks his formal place in the army that will lead into Xiang Yu's Julu branch.
+## Qualifications
+- 新楚怀王芈心不等于先前被秦拘死的楚怀王；军中名位不等于参与刺杀宋义。
+- 公开灭刘借口、谋士越位及人格/礼仪失配都是主持人的政治和文学解读。陈平使者宴的具体史实节目自身有质疑，离间生效不等于范增叛汉。
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q]]的剪辑先跃至退场与病死，具体中间过程以第二部分补足，不把缺口冒充第一部分的独立证明。[[WangAnshi|王安石]]关于好意而缺政治手腕的比较是后世评论，非范增参与者证词（[[GoodIntentionsPoliticalLimits]]）。
 
-[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] keeps Fan Zeng inside that stalled command. The source says Xiang Yu and Fan Zeng are anxious when Song Yi stops at [[AnyangQinRebellion|安阳]], but it gives the direct confrontation and later killing to Xiang Yu. Fan Zeng's role here is therefore mainly positional: he belongs to the same relief army whose formal hierarchy collapses before [[Julu|巨鹿]].
+## What Changed
+- 将王室合法性建构与鸿门宴及荥阳的权力边界连成多阶段画像，不再只以“忠言未纳”概括。
 
-[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] gives Fan Zeng his pre-[[HongmenYan|鸿门宴]] threat diagnosis. He warns [[XiangYu|项羽]] that [[LiuBang|刘邦]]'s restraint in [[GuanzhongRegion|关中]] is suspicious because Liu Bang had been known as greedy for wealth and women in the east but now refuses treasure and beauties. The host credits the insight but criticizes Fan Zeng for not turning it into a public [[MoralizedWarPretext|pretext]] or legitimate sequence that an aristocratic commander could use.
-
-[[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] makes Fan Zeng the representative of the "灭刘派" by contrast with [[XiangBo|项伯]]'s "存刘派." The source notes that later hindsight makes eliminating Liu Bang look strategically correct, but it keeps the in-the-moment problem from part 1: Fan Zeng has not yet supplied a convincing public reason that can outweigh Xiang Bo's claim that Liu Bang's prior entry into Guanzhong was meritorious and should be treated kindly.
-
-[[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]] carries that failure into the banquet. Fan Zeng repeatedly signals Xiang Yu with a jade ring, but Xiang Yu refuses to respond. Fan Zeng then leaves the tent, summons [[XiangZhuang|项庄]], and tells him to kill Liu Bang through a sword-dance performance. The episode treats this as [[AdvisorRoleBoundary|谋士越位]]: Fan Zeng may be right about Liu Bang's long-term danger, but he acts without Xiang Yu's clear decision, without a legitimate public sequence, and without a plan for the consequences.
-
-[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] gives the aftermath of that failure. After [[ZhangLiang|张良]] returns with Liu Bang's gifts and confirms Liu Bang has escaped to [[Bashang|霸上]], Fan Zeng smashes the jade dipper and says the person who will take Xiang Yu's empire must be Liu Bang. The source again credits his threat judgment while stressing his influence failure: public rage and humiliation of [[XiangYu|项羽]] do not repair the missed decision window.
-
-[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] adds Fan Zeng to the settlement design rather than only the assassination branch. The episode says Xiang Yu and Fan Zeng both fear [[LiuBang|刘邦]], so Liu Bang's Han kingship is paired with [[ThreeQinContainment|三秦压制]]: [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]] are placed across the Qin core to block Liu Bang's return route. Fan Zeng's threat reading therefore survives Hongmen, but is translated into geography and enfeoffment rather than immediate killing.
-
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] returns Fan Zeng to the anti-Liu decision point at Xingyang. When [[LiuBang|刘邦]] asks for peace and [[XiangBo|项伯]] persuades [[XiangYu|项羽]] to consider it, Fan Zeng insists that Liu Bang should be finished while trapped. This makes him the main obstacle to peace and one of the first figures [[ChenPing|陈平]] identifies for separation from Xiang Yu through [[CounterintelligenceRumorWedge|反间流言楔入]]. The transcript then jumps to Fan Zeng leaving Xiang Yu and dying on the road to Pengcheng; the wiki keeps that as the episode's implied result without filling in omitted steps as settled narrative.
-
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] fills in that missing middle. Chen Ping stages a reception for Xiang Yu's envoy as if the visitor had come from Fan Zeng, then withdraws the good food once he "learns" the envoy is Xiang Yu's. The reported insult makes Fan Zeng look like a separate power center in Han's eyes, and Xiang Yu's suspicion means Fan Zeng's later attack advice now meets resistance rather than trust.
-
-The episode also complicates the famous story. The host says Fan Zeng was the last Chu figure likely to defect to Liu Bang because he had repeatedly urged Liu Bang's death, so the suspicion is not rational on the facts alone. It becomes plausible through [[XiangCampFactionalCleavage|项羽阵营派系裂缝]]: Fan Zeng stands with the old Chu merit-command group, while Xiang Yu leans emotionally toward Xiang-family figures such as [[XiangBo|项伯]].
-
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] makes Fan Zeng the negative comparison inside [[LiuBang|刘邦]]'s South Palace explanation. Liu Bang says [[XiangYu|项羽]] had only Fan Zeng and still could not use him, while Liu Bang could use [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]]. Fan Zeng's page therefore now connects his earlier correct-but-ineffective advice to the broader [[SpecialistDelegationLeadership|专才分工式领导力]] contrast.
-
-## Connections
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]], [[SpecialistDelegationLeadership|专才分工式领导力]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] - negative comparison: Xiang Yu has Fan Zeng but cannot use him.
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[XiangYu|项羽]], and [[XiangBo|项伯]] - envoy-feast wedge, factional isolation, retirement request, and death before Pengcheng.
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[ChenPing|陈平]], [[XiangBo|项伯]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - peace rejection, target status, and source-scoped departure/death transition.
-- [[HongmenYan|《鸿门宴》]] - central source scene.
-- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[FanKuai|樊哙]] - figures in the power field.
-- [[PowerEtiquetteReading]] and [[MoralFaceUnderPowerCompetition]] - concepts sharpened through his failure.
-- [[WangAnshi|王安石]] and [[GoodIntentionsPoliticalLimits]] - comparison branch around insight without enough political hand.
-- [[XiangLiang|项梁]], [[MiXin|芈心 / 楚怀王]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[RestoredRoyalFigureheadLegitimacy|复国王室名义合法性]] - Qinji 130-3 old-Chu legitimacy argument.
-- [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[SongYi|宋义]], [[XiangYu|项羽]], [[Julu|巨鹿]], and [[HuaiwangAgreement|怀王之约]] - formal place in the Chu relief command.
-- [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[AnyangQinRebellion|安阳]], and [[WartimeCommandDecapitation|战时统帅斩首]] - same command crisis, though the source gives the decisive action to Xiang Yu.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]], [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]], [[GuanzhongRegion|关中]], [[CaoWushang|曹无伤]], [[XiangBo|项伯]], [[MoralizedWarPretext|道德化战争借口]], and [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]] - correct Liu Bang threat read paired with a failed public-justification strategy and the resulting 灭刘/存刘 split.
-- [[zizhi-tongjian-hanji-141-huanyuan-lishi-zhong-de-hongmenyan-lpmb-bcoocngtqjvtnpj0elm-siy|Hanji 141]], [[XiangZhuang|项庄]], [[AdvisorRoleBoundary|谋士越位]], and [[PowerEtiquetteReading|权力礼仪细读]] - jade-ring signals, sword-dance workaround, and adviser authority failure inside the banquet.
-- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Bashang|霸上]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - smashed jade dipper, correct long-term threat read, and public rebuke after the escape.
+## Relationships
+- [[XiangLiang]] - 接受楚王室复立建议的领袖。
+- [[MiXin]] - 被拥立的新楚怀王。
+- [[ChuHuaiwang]] - 被援引的旧楚王历史记忆，非芈心本人。
+- [[ChuState]] - 反秦联盟的王室名义来源。
+- [[RestoredRoyalFigureheadLegitimacy]] - 其早期政治建议的机制。
+- [[SongYi]] - 巨鹿救援军的上将。
+- [[Julu]] - 救援军的预定战场。
+- [[XiangYu]] - 采纳或拒绝其谋略的主君。
+- [[LiuBang]] - 被他识为长期竞争者的汉方领袖。
+- [[HongmenYan]] - 剑舞谋刺发生的宴会。
+- [[XiangBo]] - 鸿门宴护刘、荥阳劝和的项氏成员。
+- [[XiangZhuang]] - 奉召舞剑者。
+- [[FanKuai]] - 鸿门宴刘方入席救援者。
+- [[ChenPing]] - 在荥阳实施离间者。
+- [[CounterintelligenceRumorWedge]] - 离间使者接待的策略。
+- [[XiangCampFactionalCleavage]] - 节目解释信任坍塌的阵营裂缝。
+- [[ThreeQinContainment]] - 对汉王封地的地理压制。
+- [[AdvisorRoleBoundary]] - 鸿门宴未经主君许可刺杀的解读框架。
+- [[PowerEtiquetteReading]] - 面子与等级礼仪的文学分析。
+- [[WangAnshi]] - 后世评论的相邻参照，非当事人。
+- [[CaoWushang]] - Han-camp informant whose leak fed the pre-banquet crisis.
+- [[ChuThreeHouseholdsAntiQinMemory]] - old Chu grievance used to justify royal restoration.
+- [[MoralFaceUnderPowerCompetition]] - host's interpretation of why killing Liu Bang lacked public legitimacy.
+- [[WartimeCommandDecapitation]] - Xiang Yu's action against Song Yi, not Fan Zeng's.
