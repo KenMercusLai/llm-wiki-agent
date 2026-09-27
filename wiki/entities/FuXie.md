@@ -2,37 +2,45 @@
 title: "傅燮 / Fu Xie"
 type: entity
 tags: [person, late-han, official, liangzhou]
-sources: [zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
+sources:
+  - zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr
+  - zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8
+  - zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar
+  - zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 傅燮 / Fu Xie
 
-[[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]] adds an earlier Fu Xie branch before the Liangzhou and Hanyang episodes. The transcript renders him as "傅解"; because the role, eunuch conflict, Yellow Turban merit, and later Zhao Zhong branch align with this page, the wiki normalizes the actor to Fu Xie while keeping the rendering source-scoped.
+## Overview
+傅燮是东汉末官员；四段《汉纪》讲述把他从黄巾之乱时的谏言、凉州弃守争论、拒绝宦官私惠，接续至汉阳守城赴死。其言行同时涉及朝廷反馈、边防战略、军纪与守官责任。
 
-In the source, Fu Xie warns [[EmperorLingOfHan|汉灵帝]] that [[YellowTurbansLateHan|Yellow Turban]] disorder grows from internal court failure rather than from bandits alone. He says loyal and wicked officials cannot coexist, warns that slander can make false accusations credible, and exposes eunuch power as the root of the crisis. [[ZhaoZhongLateHan|赵忠]] sees the memorial, resents him, and later helps block his reward despite Yellow Turban merit, setting up the patronage-refusal branch in Hanji 936.
+## Current Profile
+他并非只是一位殉城者：在被围以前，他已经批评朝政失序、反对放弃西部屏障，并向仓促出兵的上司提出可操作的整军建议；最后在地方军民尊重和自身守土责任之间选择不降。
 
-[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Fu Xie's earlier court-remonstrance branch before his later patronage refusal and Hanyang death. When [[CuiLieLateHan|崔烈]] proposes abandoning [[LiangzhouLateHan|凉州]], Fu Xie answers that killing the situ would make the realm safe, because giving up the western shield would let enemy forces grow stronger and move the danger toward the core.
+## Key Characteristics
+- 对黄巾危机追问宫廷内因和忠臣被谗的风险。
+- 把凉州视作西部屏障，激烈反对以财政负担为由弃边。
+- 拒绝赵忠方面以私人关系换取黄巾战功的封赏。
+- 对耿鄙主张先立威、整军、明赏罚，再等待叛军内部分化。
+- 汉阳受围时让儿子脱险而自己拒降，守官赴死。
 
-The episode makes Fu Xie's vehemence strategic rather than merely personal. He invokes earlier Han frontier policy under [[LiuBang|刘邦]] and [[HanWudi|汉武帝]], treating Liangzhou as a traffic corridor, western gate, and long-term anti-Xiongnu security layer. This makes him the source case for [[StrategicFrontierAbandonment|弃边失屏]].
+## Evidence
+- **谏言与报复：**[[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr]]记184年他向[[EmperorLingOfHan|汉灵帝]]指出[[YellowTurbansLateHan|黄巾]]动乱与宫廷宦官失政相关，以曾参被谤、“三人成虎”、白起遭谗警告忠奸不两立；[[ZhaoZhongLateHan|赵忠]]见奏章怀恨，后来阻挠功赏，体现[[CourtFeedbackCollapse|朝廷反馈失灵]]。
+- **弃边之争：**[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8]]记[[CuiLieLateHan|崔烈]]主张放弃[[LiangzhouLateHan|凉州]]，傅燮以“斩司徒，天下乃安”反驳；他援引[[LiuBang|刘邦]]时期边防安排与[[HanWudi|汉武帝]]河西开拓，强调交通要冲、西门屏障及养大敌军的长期风险。灵帝在该次讨论中接受了他的理由；“斩”是奏议，非实际处决。
+- **拒私惠：**[[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar]]记赵忠遣弟赵延以侯爵私路招揽，傅燮宁认功不获赏也不接受宦官恩惠，后外任[[HanyangCommanderyLateHan|汉阳郡]]；其名望令赵忠怨而仍有所忌。
+- **战前判断：**[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]]记他劝[[GengBiLateHan|耿鄙]]不要凭新集六郡兵和失民心的[[ChengQiu|程球]]仓促攻[[HanSui|韩遂]]，应整纪律、明奖惩并等叛军分裂；耿鄙未从，程球和耿鄙在[[DiDaoLateHan|狄道]]兵变中被杀，属于[[WarCostTempoDiscipline|战争时机与军纪]]的具体反例。
+- **守城抉择：**[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]]记汉阳粮兵不足、北地胡骑虽在叛军中仍跪请护他归乡；[[FuGan|傅干]]劝生，他将儿子托给[[YangHuiLateHan|杨晖]]（以程婴作比），自己拒绝[[WangGuoLateHan|王国]]所遣[[HuangYanLateHan|黄衍]]劝降，率残兵战死。此处的[[OfficeDutyMartyrdom|守官赴死]]与[[MoralReputationPoliticalCapital|声望]]并存，并不要求儿子一起殉死；节目亦将其死视为东汉朝廷在凉州失去实际控制的标记，而非傅燮个人所能逆转的战局。
 
-[[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] adds the patronage-refusal prelude before Fu Xie's Hanyang death branch. After his Yellow Turban merit is not properly rewarded, [[ZhaoZhongLateHan|赵忠]] sends his brother Zhao Yan to offer a marquis route through private relationship; Fu Xie refuses, treating unrewarded merit as fate rather than a reason to accept eunuch favor.
+## Qualifications
+- [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr]]的转写作“傅解”；身份依据奏章、黄巾功劳与赵忠后续情节归一为傅燮，仍属转写判断。
+- [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]]关于边章是被韩遂杀害还是病死有异说，不能据此改变傅燮的劝军与守城事实。各段是节目对史书的讲解，不等同独立原始史料校勘。
 
-That refusal gives [[ZhaoZhongLateHan|赵忠]] reason to resent him while still fearing his reputation. The source then moves Fu Xie outward to [[HanyangCommanderyLateHan|汉阳郡]], setting up the office-duty and siege material developed in Hanji 937.
+## What Changed
+- 将谏言、边防、拒私惠、战前建议和殉城合为连续的官员画像，明确激烈奏议与实际行动之别。
 
-傅燮 / Fu Xie enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] as the [[HanyangCommanderyLateHan|汉阳郡]] administrator whose death marks the Eastern Han court's loss of practical control in Liangzhou.
-
-Before the collapse, Fu Xie warns [[GengBiLateHan|耿鄙]] not to rush against [[HanSui|韩遂]]. He argues that Geng Bi has not yet established local credibility, that the six-commandery army is newly assembled, and that a premature offensive will unite the rebels. His advice is a local version of [[WarCostTempoDiscipline|战争成本与速决纪律]]: discipline the army, clarify rewards and punishments, build awe, and wait for the enemy coalition to split.
-
-After [[ChengQiu|程球]] and Geng Bi are killed in the [[DiDaoLateHan|狄道]] mutiny, rebels besiege Hanyang. Beidi Hu cavalry serving with the rebels still respect Fu Xie enough to kneel outside the city and offer him safe passage home. His son [[FuGan|傅干]] also urges him to survive, but Fu Xie treats his office as a death-bound duty once he cannot defend the commandery and cannot surrender.
-
-Fu Xie sends Fu Gan away under [[YangHuiLateHan|杨晖]]'s protection, comparing Yang Hui to Cheng Ying. When [[HuangYanLateHan|黄衍]] comes on behalf of [[WangGuoLateHan|王国]] to urge surrender, Fu Xie condemns him as a former Han official now speaking for rebels, fights with the remaining troops, and dies.
-
-## Connections
-- [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]], [[EmperorLingOfHan|汉灵帝]], [[ZhaoZhongLateHan|赵忠]], [[YellowTurbansLateHan|黄巾军]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - memorial against internal court roots of rebellion and unrewarded merit.
-- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[CuiLieLateHan|崔烈]], [[LiangzhouLateHan|凉州]], and [[StrategicFrontierAbandonment|弃边失屏]] - frontier-abandonment remonstrance.
-- [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]], [[ZhaoZhongLateHan|赵忠]], and [[HanyangCommanderyLateHan|汉阳郡]] - refused eunuch patronage before the Hanyang appointment.
-- [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] - source case.
-- [[FuGan|傅干]], [[YangHuiLateHan|杨晖]], and [[HuangYanLateHan|黄衍]] - family-survival and surrender-test branch.
-- [[GengBiLateHan|耿鄙]], [[ChengQiu|程球]], [[DiDaoLateHan|狄道]], and [[HanyangCommanderyLateHan|汉阳郡]] - failed expedition and siege setting.
-- [[OfficeDutyMartyrdom|守官赴死]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - concept frames for Fu Xie's reputation and death choice.
+## Relationships
+- [[StrategicFrontierAbandonment]] - 傅燮反对放弃凉州的战略理由。
+- [[PeopleBasedPoliticalSecurity]] - 地方名望与军民信任解释围城时仍有人愿护其脱险。
+- [[HanyangCommanderyLateHan]] - 最后任地与守城场景。
