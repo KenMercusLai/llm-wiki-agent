@@ -2,60 +2,54 @@
 title: "孟尝君 / Tian Wen"
 type: entity
 tags: [person, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources:
+  - zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k
+  - zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j
+  - zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin
+  - zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff
+  - zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix
+  - zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf
+  - zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4
+  - zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t
 last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
 ---
 
 # 孟尝君 / Tian Wen
 
-孟尝君 / Tian Wen is introduced in [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] as the son of [[TianYing|田婴]] and the later famous Mengchang Jun. [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] resolves that cliffhanger by showing how Tian Wen turns the recognition crisis into household power.
+## Overview
+孟尝君 / 田文 is the [[QiState|Qi]] aristocrat, fief holder and retainer patron in the cited episodes, **not** the earlier [[TianWenWeiChancellor]] of the Wu Qi branch. His household ascent, contested Qin office, reputation for hospitality and eventual rupture with Qi form the profile.
 
-The source distinguishes him from [[TianWenWeiChancellor|田文 / Tian Wen (Wei chancellor)]], the earlier Wei chancellor in the Wu Qi branch. This Tian Wen belongs to the [[QiState|齐国]] Tian-family line and is tied to Tian Ying's household, [[XueWarringStates|薛地]], and later retainer culture.
+## Current Profile
+His large retainer network could create reputation, tactical rescue and political independence; the same accounts include violence, patronage-quality criticism and a fatal succession dispute among his sons. These are ancient anecdotes as interpreted by a modern presenter, not simple management prescriptions.
 
-In this episode, Tian Wen's initial problem is exclusion. [[TianYing|田婴]] has more than forty sons, Tian Wen's mother is a low-status concubine, and Tian Wen is born on the fifth day of the fifth lunar month. Tian Ying therefore orders the mother not to raise him, but she secretly keeps him alive.
+## Key Characteristics
+- Exclusion on a [[BirthTabooSuccessionExclusion|fifth-day-of-fifth-month birth taboo]] preceded his recognition and inheritance.
+- Hospitality mobilized a broad and uneven retainer network around the Xue fief.
+- Diplomatic influence and a short Qin chancellorship coexist with suspicion and escape.
+- His later exile, anti-Qi alignment and sons' [[PatronSuccessionExposure|conflict]] complicate heroic retellings.
 
-When Tian Wen grows up and appears before his father, he does not retreat into ritual submission. He directly asks why a May-fifth-born child should not be raised, forcing Tian Ying to state the taboo that such a child will harm the parents once he grows as tall as the door. The episode stops there, making Tian Wen's questioning the first sign that he will try to argue his way into recognition.
+## Evidence
+- **Household ascent and patronage:** [[TianYing]] reportedly had over forty sons and ordered the low-status mother not to raise Tian Wen because of the May-fifth birth taboo; she secretly did so. Tian Wen challenges the door-height omen with a heaven-versus-door argument, then earns household and guest-management responsibility through patient service. Courteous use of Tian Ying's wealth builds reputation and support for inheritance of [[XueWarringStates]], where he lodges and supports large numbers of wandering retainers and their families. [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]]
+- **Merits and dangers of receiving advice:** [[SimaGuang]] faults indiscriminate hospitality to worthy and unworthy alike and private power built from state-derived resources in the [[TianFamilyReplacementOfQi|Tian-family state]], but praises [[ContentOverMotiveRemonstrance|acceptance of advice]] from [[GongsunXu]] to decline an ivory bed from [[ChuHuaiwang|the Chu ruler]] in [[ChuState]] even after [[DengTuzhi]]'s private reward motive is discovered. In another [[Zhanguoce]] story about [[RetainerReciprocityEthic]], Tian Wen declines immediate punishment after a retainer's affair with his wife and later sends him with introductions to [[WeyState]] as [[RetainerRiskConversion|retainer risk conversion]], where he reportedly dissuades an anti-Qi move. Yet retainers visiting [[Pingyuanjun]] in Zhao allegedly kill hundreds of people after locals in [[ZhaoState]] mock Tian Wen's height; [[AristocraticHonorOverLife]] is a description of that honor code, not its endorsement. [[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]]
+- **Coalition, Qin and escape:** Qi formally backs the 318 BCE [[HezongAlliance|five-state]] anti-[[QinState]] attack, but Tian Wen reportedly slows Qi's army, exemplifying [[CoalitionSelfPreservationFailure]]. A later episode corrects [[ZizhiTongjian]]'s [[ChronicleChronologyDrift|Qin chancellor order]] against [[Shiji]]: [[Chulizi]] is followed by [[WeiRan]], Tian Wen, [[LouHuan]] and Wei Ran again including Tian Wen in 298 BCE within the 300–295 BCE sequence. After Qin sends a royal brother as hostage to Qi, Tian Wen goes to Xianyang as chancellor at [[Xianyang]]; [[QinZhaoxiangwang]] suspects Qi loyalties, replaces and imprisons him. A retainer steals back the gifted white fox-fur robe for a favorite's intercession, and another imitates a rooster to open a pass before pursuers arrive. [[WangAnshi]] interprets [[JimingGoudaoTalentCritique|“鸡鸣狗盗”]] as evidence that clever rescue is not the same as high-level statecraft talent in [[TalentVirtueDistinction]]. [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]]
+- **Political end and retrospective judgment:** [[Xunzi]]'s [[XunzianWangbaThreePaths|Wangba discussion]] treats Tian Wen and [[QiMinWang]] as negative examples of powerful Qi elites failing to turn strength into [[ConfucianIdealGovernance|durable ritual]], education and public credibility; it does not make Tian Wen sole cause of Qi's fall. After Qi Min Wang moves against him, Tian Wen flees to [[WeiState]], serves as chancellor and joins an anti-Qi alignment; after [[QiXiangWang]]'s restoration he returns to Xue, described as independent of any single lord. His sons' succession fight lets Qi and Wei destroy his line. [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]]
 
-[[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] gives his answer: he asks whether human life comes from heaven or from the household door. If it comes from heaven, the door taboo has no force; if it comes from the door, the door can simply be raised. The episode treats the argument as a clever rhetorical reversal that reveals his膽識 and intelligence to Tian Ying.
+## Qualifications
+The Qin chancellor order is an explicit chronicle correction rather than an uncontested appointment chronology. The robe, rooster, affair and birth-omen episodes are source-mediated stories; the host's and Wang Anshi's talent criticism, Sima Guang's mixed judgment and Xunzi's political assessment must not be conflated. The claimed 318 BCE delay is a tactical report, not proof Qi never supported the coalition. [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] [[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]]
 
-After recognition, Tian Wen does not immediately challenge his more than forty brothers. The episode emphasizes patience, close observation, and reliable service until Tian Ying lets him manage household affairs and receive guests. Tian Wen uses that office to spend Tian Ying's accumulated wealth with careful礼数, preserving guests' dignity and turning generosity into reputation.
+## What Changed
+- Organized origin, patronage, interstate action and ending as a connected but qualified profile.
+- Retained both positive advice-taking and negative violence/talent-selection evidence.
 
-That reputation eventually makes outsiders recommend Tian Wen as heir. After Tian Ying dies, Tian Wen inherits [[XueWarringStates|薛地]] and becomes Mengchang Jun. The same source then presents him as a major patron in [[WarringStatesRetainerPatronage|战国养士]], housing and feeding large numbers of wandering士人, retainers, and fugitives while extending support to their relatives.
-
-[[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] adds [[SimaGuang|司马光]]'s two-sided judgment of that fame. Sima Guang criticizes Mengchang Jun's养士 when it gathers贤愚善恶 indiscriminately and converts state-derived resources into private power, but he does not treat Mengchang Jun as all fault.
-
-The same episode gives Mengchang Jun a positive advice-taking case. In [[ChuState|楚国]], the source says the Chu king offers him an ivory bed; in this chronological branch the wiki links that ruler to [[ChuHuaiwang|楚怀王]]. [[GongsunXu|公孙须]] advises him to refuse it after [[DengTuzhi|邓图直]] privately asks for help, and Mengchang Jun accepts the argument even after learning the adviser had a private reward motive. The episode therefore makes him the central example of [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]].
-
-[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds two darker tests of the same retainer order. When [[Pingyuanjun|平原君]] receives Mengchang Jun in [[ZhaoState|赵国]], locals mock Mengchang Jun's short stature and his retainers respond by killing hundreds of people. The episode reads this through [[AristocraticHonorOverLife|贵族名誉高于生命]], while also judging the violence unacceptable by modern standards.
-
-The same source adds a [[Zhanguoce|《战国策》]] story in which one retainer has an affair with Mengchang Jun's wife. Mengchang Jun does not punish him immediately; a year later he sends the man to [[WeyState|卫国]] with resources and introductions. When the retainer later persuades Wey's ruler not to join an attack on [[QiState|齐国]], Mengchang Jun becomes the source's example of [[RetainerRiskConversion|门客风险转化]].
-
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds a compact diplomatic role in the failed 318 BCE anti-Qin campaign. [[QiState|齐国]] says it will support the five-state attack on [[QinState|秦国]], but Tian Wen's strategy is to make the Qi army move as slowly as possible. The episode uses this as part of [[CoalitionSelfPreservationFailure|联盟自保失灵]]: formal alliance support can coexist with self-preserving delay.
-
-[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] adds a later source-critical office notice. While correcting the Qin chancellor sequence after [[Chulizi|樗里疾 / 樗里子]]'s death, the episode says [[Shiji|《史记》]] places Mengchangjun Tian Wen as Qin chancellor in 298 BCE, after [[WeiRan|魏冉]] and before [[LouHuan|楼缓]]. This page keeps the notice as chronology correction rather than expanding it into a full Qin career narrative.
-
-[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] turns that corrected office notice into the next narrative setup. After the [[ChuHuaiwang|楚怀王]] detention and [[MiHeng|芈横]] succession branch, the episode says [[QinZhaoxiangwang|秦昭襄王]] admires Mengchangjun's reputation, sends a royal brother to [[QiState|齐国]] as hostage, and brings Tian Wen to [[Xianyang|咸阳]] to serve as Qin chancellor. The episode ends by asking whether a Qi aristocrat can actually hold that Qin office.
-
-[[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] answers that setup negatively. Someone warns Qin Zhaoxiang Wang that Mengchangjun will still favor Qi because he is a Qi aristocrat, so Qin replaces him with [[LouHuan|楼缓]], imprisons him, and nearly executes him. Mengchangjun survives through the famous chicken-crow and dog-theft retainers: one steals back the white fox-fur robe needed to win a palace favorite's intercession, and another imitates roosters so the pass will open before Qin's pursuers arrive.
-
-The same source makes this rescue a criticism rather than simple vindication. Following [[WangAnshi|王安石]], the host argues that Mengchangjun's broad养士 reputation may show a failure to distinguish real statecraft talent from low-level tricks. The episode therefore adds [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] to Mengchangjun's page: his network is useful enough to save him, but its composition may explain why stronger talent would avoid his门下.
-
-[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] places Mengchangjun beside [[QiMinWang|齐湣王]] as a negative Qi example in [[Xunzi|荀子]]'s Wangba frame. The point is not that Mengchangjun personally caused Qi's collapse in this episode; it is that elite control of a strong state and a famous private following did not become durable [[ConfucianIdealGovernance|ritual order]], political education, or credible public rule. That extends the earlier Wang Anshi critique from retainer quality into the larger question of what state power is for.
-
-[[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] adds the closing outcome of Mengchangjun's branch. After Qi Min Wang moves to expel him in the post-Song overreach period, Mengchangjun flees to [[WeiState|魏国]], serves as Wei chancellor, and joins the alignment that attacks [[QiState|齐国]]. After [[QiXiangWang|齐襄王]] is restored, he returns to [[XueWarringStates|薛地]] and is described as independent from any single lord. His sons later fight over succession, and Qi plus Wei use the division to destroy his descendants. The source turns the earlier private-patronage warning into a dynastic end state: a powerful fief can outlive central loyalty for a while, but household succession failure can make it destroyable.
-
-## Connections
-- [[TianYing|田婴]] - father, gatekeeper to recognition, and source of the household office that lets Tian Wen build reputation.
-- [[QiState|齐国]] and [[TianFamilyReplacementOfQi|田氏代齐]] - dynastic and state context.
-- [[XueWarringStates|薛地]] - inherited fief and later retainer-patronage base.
-- [[BirthTabooSuccessionExclusion|出生日禁忌与继承排斥]] - source concept explaining his initial rejection.
-- [[WarringStatesRetainerPatronage|战国养士]], [[RetainerReciprocityEthic|士为知己者死]], [[AristocraticHonorOverLife|贵族名誉高于生命]], and [[RetainerRiskConversion|门客风险转化]] - later patronage,士人 dignity, violence, and redeployment context.
-- [[Pingyuanjun|平原君]], [[ZhaoState|赵国]], and [[WeyState|卫国]] - Zhouji 43 insult, retaliation, and retainer-redeployment branch.
-- [[SimaGuang|司马光]], [[GongsunXu|公孙须]], [[DengTuzhi|邓图直]], and [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - Zhouji 42 criticism and advice-taking branch.
-- [[TianWenWeiChancellor|田文 / Tian Wen (Wei chancellor)]] - disambiguation from an earlier different Tian Wen.
-- [[QinState|秦国]], [[HezongAlliance|合纵]], and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - Zhouji 45 slow-support role in the five-state attack.
-- [[WeiRan|魏冉]], [[LouHuan|楼缓]], [[Chulizi|樗里疾 / 樗里子]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 Qin chancellor-sequence correction.
-- [[QinZhaoxiangwang|秦昭襄王]], [[QiState|齐国]], [[Xianyang|咸阳]], and [[PatronSuccessionExposure|靠山更替暴露风险]] - Zhouji 62 setup for Mengchangjun's Qin chancellorship.
-- [[LouHuan|楼缓]], [[WangAnshi|王安石]], [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]], [[TalentVirtueDistinction|才德之分]], and [[WarringStatesFourLords|战国四公子]] - Zhouji 63 removal, escape, Wang Anshi critique, and four-lords comparison.
-- [[QiMinWang|齐湣王]], [[Xunzi|荀子]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - Zhouji 71 Qi power used as a negative political-philosophy example.
-- [[QiXiangWang|齐襄王]], [[WeiState|魏国]], [[YanState|燕国]], and [[XueWarringStates|薛地]] - Zhouji 81 part 2 final exile, semi-independent fief, and lineage-destruction branch.
+## Relationships
+- [[WarringStatesFourLords]] - later category placing him beside other retainer patrons, not an identity for the earlier namesake.
+- [[MiHeng]] - adjacent Chu-succession context in the episode setting up his Qin office, not his direct sponsor.
+- [[YanState]] - state in the broader anti-Qi alignment of his exile period; no claim he personally ruled it.
+- [[TianYing]] - father whose household and guest-management role enabled Tian Wen's ascent.
+- [[TianWenWeiChancellor]] - different earlier namesake requiring disambiguation.
+- [[WarringStatesRetainerPatronage]] - network supporting both his reputation and contested private power.
+- [[LouHuan]] - successor in the source-corrected Qin chancellorship account.
+- [[XueWarringStates]] - inherited fief and later semi-independent refuge.
