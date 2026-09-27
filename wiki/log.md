@@ -23531,3 +23531,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 390. The Fall of the Aztecs: War to the Death (Part 7)
 
 Added source `390-the-fall-of-the-aztecs-war-to-the-death-part-7-glt1796642529`; created `SiegeOfTenochtitlan`; and updated `HernanCortes`, `Malinche`, `Cuauhtemoc`, `MexicaEmpire`, `SpanishConquestOfMexico`, `ColumbianExchange`, `HistoricalCatastropheNarrativeEthics`, and the canonical index from their complete bounded source sets. Core synthesis: Tenochtitlan fell through a coalition system joining brigantines, Indigenous allies, blockade, causeway warfare, disease, starvation, reinforcement, and systematic demolition, while Mexica tactical adaptation imposed losses but could not prevent civilian displacement, enslavement, and cultural catastrophe. No settled contradiction with Part 8 was found. Captive sacrifice, ritual-war contrast, the Quetzal Owl Warrior's meaning, Cortes's motives, remembered dialogue, omens, and casualty details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
