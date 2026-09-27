@@ -2,38 +2,56 @@
 title: "Analog Media Preservation"
 type: concept
 tags: [media, preservation, analog, culture, magazines, print]
-sources: [socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216, ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu, tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]
+sources:
+  - socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216
+  - ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu
+  - tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128
+  - tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128
 last_updated: 2026-08-08
+knowledge_schema: synthesis-v1
 ---
 
 # Analog Media Preservation
 
-[[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]] adds postcards as an analog medium worth preserving beyond sentiment. The source links [[PostcardMediaDecline]] to [[RoyalMail]] letter decline and [[EnglishHeritage]] survey data, while [[PostcardIntelligenceInfrastructure]] shows that postcard images once had military value for [[DDay|D-Day]] planning.
+## Definition
+Analog media preservation maintains access to works and evidence carried by physical formats while retaining, where possible, the material and social context of their use. Reissue, continued circulation, documentation, and digitization can all help, but none removes the need for rights, readable technology, or ongoing care.
 
-[[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]] adds a magazine and zine version. Print preservation here is not only archival storage; it includes keeping the social form of a magazine recognizable: issue rhythm, covers, inserts, kiosks, subscriptions, reader memory, and local booklets that can be kept after feed posts disappear.
-
-Analog media preservation is the effort to keep culturally relevant works and contexts accessible through physical or analog formats, especially when digital platforms do not reliably carry them. In [[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]], the concept appears through [[LunchMeetVHS]], where [[JoshSchaeffer]] buys rights to videotape-only B-movies and produces VHS reprints.
-
-The concept extends [[GamePreservation]] beyond playable software into video media. It keeps attention on rights, formats, packaging, circulation, and social history: preserving a work can mean preserving how people found it, rented it, talked about it, and valued it in [[VideoStoreCulture]].
-
-[[tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128]] adds a public-broadcasting bridge from analog originals into digital recovery. [[WIPR]]'s quarter-inch reel-to-reel recordings were digitized, but the later archive problem moved into [[PreservationTechnicalEnvironment]] because the LTO3 tapes required old backup knowledge and compatible systems before the recordings could reach the [[AmericanArchiveOfPublicBroadcasting]].
+## Current Synthesis
+The sources distinguish saving scarce works, sustaining the spaces and routines in which physical media acquired meaning, recognizing historical uses of everyday artifacts, and keeping digitized copies recoverable. Preservation is not a blanket preference for analog over digital: both physical objects and digital surrogates can become inaccessible for different reasons.
 
 ## Key Claims
-- Magazine and zine preservation includes social context: how an issue arrived, circulated, aged, and became part of a reader's memory.
-- Analog preservation matters most when works are rare, obscure, tape-only, or absent from official digital catalogs.
-- Reprints require rights work as well as technical copying, connecting preservation to [[IPOwnership]].
-- Physical media preserves more than audiovisual content; it can preserve format aesthetics, collector meaning, store memory, and subcultural circulation.
-- The analog approach does not reject streaming wholesale, but it answers gaps created by platform catalogs and [[SubscriptionFatigue]].
-- Digitizing analog media is not the end of preservation if the resulting digital files depend on undocumented backup systems or obsolete storage media.
-- Postcard preservation includes travel imagery, handwriting, postal marks, jokes, place-marketing conventions, and possible historical intelligence value.
+- Access to obscure or tape-only video can require lawful reissue and venues that keep physical circulation viable.
+- Magazines and zines preserve recurring rhythms, reader relationships, and local memory in addition to article text.
+- Postcards document a former visual and postal social medium with uses beyond personal nostalgia.
+- A digitized analog recording remains at risk if the resulting data is locked in obsolete media or undocumented software.
 
-## Connections
-- [[PostcardMediaDecline]], [[PostcardIntelligenceInfrastructure]], [[RoyalMail]], [[EnglishHeritage]], and [[DDay|D-Day]] - postcard-history branch added by The Intelligence.
-- [[MagazineReadingEcology]], [[PaperMagazineSubscriptionRitual]], and [[LocalZineRevival]] - EP272's print-periodical and local-booklet branch.
-- [[LunchMeetVHS]] and [[JoshSchaeffer]] - source case.
-- [[PhysicalVideoMediaRevival]] - market and cultural revival pattern.
-- [[VideoStoreCulture]] - social context preserved alongside media.
-- [[GamePreservation]] - adjacent digital/physical preservation branch.
-- [[IPOwnership]] - rights layer behind lawful reprints.
-- [[SubscriptionFatigue]] - streaming-market context.
-- [[WIPR]], [[DigitalPreservation]], and [[PreservationTechnicalEnvironment]] - analog-to-digital recovery branch added by the Marketplace Tech WIPR case.
+## Evidence
+### Claim 1 — works, rights, and circulation
+- Lunch Meet VHS buys rights to videotape-only films and issues new tapes; Vidiots pairs rentals with a nonprofit theater and reports local rental growth. The cases show access depends on licensing, format, and a social venue as well as copying a video signal. [[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]]
+
+### Claim 2 — periodical ecology
+- The magazine discussion recalls classroom sharing, covers, kiosks, subscriptions, scheduled arrival, and local zines, while noting e-magazines and mobile feeds as successor forms. What is at stake is partly a recurring social practice, not solely a paper container. [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]]
+
+### Claim 3 — historically useful ephemera
+- The postcard segment describes British collection of postcard images and photographs for D-Day landing-ground analysis alongside postcards' travel and correspondence role and declining British letter use. It establishes historical information value and media decline, not a documented postcard-conservation program. [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]]
+
+### Claim 4 — readability after digitization
+- WIPR's quarter-inch radio reels had already been digitized onto LTO3 tapes; years later, missing project knowledge and obsolete NT Backup tooling made those digital copies hard to retrieve. Digital Bedrock's recovery enabled the recordings to reach the American Archive of Public Broadcasting. [[tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128]]
+
+## Counterevidence & Qualifications
+- Vidiots' rental growth is one reported venue's experience, not evidence of a general market-wide physical-media revival; reissues depend on the rights actually secured. [[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]]
+- The magazine speakers value print without denying the roles of e-magazines, email, public accounts, and video. Preservation need not mean restoring the former mass-print market. [[ep272-shui-de-qingchun-li-meiyou-yi-ben-bei-chuanyue-dao-juanbian-de-zazhi-lmwyj84wfdgnlgsovkihulfailu]]
+- WIPR illustrates failure and recovery of *digital copies of analog originals*, not a proof that analog storage solved the problem; the postcard story documents history and decline rather than an active preservation project. [[tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128]] [[socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216]]
+
+## What Changed
+- Distinguished preservation of a work from preservation of its circulation, routines, and historical context.
+- Added rights-cleared reissue and institutional venue models without projecting local growth onto the whole market.
+- Integrated analog-to-digital recovery as a continuing readability problem, not a triumph of one storage medium.
+
+## Related Concepts
+- [[VideoStoreCulture]] - social circulation alongside physical video access.
+- [[IPOwnership]] - rights prerequisite for lawful reissue.
+- [[MagazineReadingEcology]] - periodical context beyond isolated article text.
+- [[PostcardMediaDecline]] - erosion of a visual postal medium.
+- [[PreservationTechnicalEnvironment]] - hardware, software, and documentation required to read surviving files.
+- [[DigitalPreservation]] - stewardship of surrogates created from analog originals.
