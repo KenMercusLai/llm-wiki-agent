@@ -23792,3 +23792,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | How to Succeed at Hard Conversations | Chris Voss
 - Added the source note, Chris Voss entity, and five negotiation and crisis concepts.
 - Revised negotiation bargaining, interest-based negotiation, and ego-depletion synthesis with diagnostic, verification, and agreement-durability qualifications.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
