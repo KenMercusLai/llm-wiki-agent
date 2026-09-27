@@ -2,58 +2,60 @@
 title: "齐威王 / King Wei of Qi"
 type: entity
 tags: [person, ruler, pre-qin, qi-state, warring-states]
-sources: [zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t, zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources:
+  - zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t
+  - zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv
+  - zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8
+  - zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb
+  - zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij
+  - zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4
+  - zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada
+  - zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof
+  - zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr
+  - zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi
 last_updated: 2026-08-20
+knowledge_schema: synthesis-v1
 ---
 
 # 齐威王 / King Wei of Qi
 
-齐威王 / King Wei of Qi appears in [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] in two linked ways. First, the episode quotes [[ZizhiTongjian|《资治通鉴》]] saying he comes to the Zhou court and gains a reputation for virtue. Second, it immediately questions the chronology, arguing that the surrounding annalistic position is probably too early for Qi Wei Wang.
+## Overview
+Qi Wei Wang is depicted in the source sequence as a ruler who tested officials, used strategic talent and pursued elevated interstate status.
 
-The same source then uses Qi Wei Wang's investigation of [[JimoDafu|即墨大夫]] and [[AyiDafu|阿邑大夫]] as a governance case. He does not accept court reputation at face value; he secretly checks local conditions, rewards the official with bad court gossip but strong local performance, and punishes the official praised by courtiers but failing in practice.
+## Current Profile
+The official-audit and “一鸣惊人” accounts sit beside Guiling and Maling decisions, court rivalry and Xuzhou diplomacy, but the early chronicle misplaces parts of his reign and succession.
 
-[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] makes that chronology warning more explicit. The episode says Qi records were especially thin, that Qi Wei Wang's accession was probably placed twenty-one years too early, and that 357 BCE is more plausible as the accession year with 356 BCE as the first regnal year. It also points out that a 370 BCE visit to [[ZhouLiewang|周烈王]] cannot be literal because Zhou Lie Wang had already died; if the visit happened, the Zhou ruler should be [[ZhouXianwang|周显王]].
+## Key Characteristics
+- A local-audit narrative accompanies a disputed early date.
+- The king is shown choosing advisers and campaign timing.
+- Victories exposed court rivalry and status backlash.
+- Chronicle dates must not be collapsed into one smooth reign.
 
-The same source retells the "一鸣惊人" narrative. Qi Wei Wang neglects government, leaves affairs to [[ChenLiao|陈聊]], receives [[ChunyuKun|淳于髡]]'s [[AllusiveRemonstrance|隐语进谏]], then turns to official audits, military reform, and territorial recovery. The episode also records a bounded possibility that his earlier decadence was deliberate feigning, which the wiki keeps as [[QiWeiwangPoliticalTurnaround|source-scoped interpretation]] rather than fact.
+## Evidence
+- **Chronology and governance:** The episodes say sparse Qi records placed Qi Wei Wang's accession about 21 years early: 357 BCE is judged likelier for accession, 356 BCE for his first regnal year; a purported 370 BCE visit to [[ZhouLiewang|周烈王]] would instead require [[ZhouXianwang|周显王]] if it happened ([[ChronicleChronologyDrift]]). The “一鸣惊人” story has [[ChunyuKun|淳于髡]] use [[AllusiveRemonstrance|隐语进谏]] after the ruler leaves affairs to [[ChenLiao|陈聊]]; he then tests reputation against local performance, rewarding [[JimoDafu|即墨大夫]] despite court slander and punishing praised but failing [[AyiDafu|阿邑大夫]]. Deliberate feigning of decadence remains a [[QiWeiwangPoliticalTurnaround|source-scoped possibility]], not an established motive. [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]]
+- **Talent and military choice:** In a hunting exchange with [[LiangHuiWang|魏惠王]], he counters boasts of luminous pearls with [[TanZi|檀子]] and other capable officers of [[QiState|Qi]] as [[TalentAsStateTreasure|state treasures]]. He appoints [[TianJi|田忌]] to command with [[SunBin|孙膑]] advising the [[EncirclingWeiToRescueZhao|围魏救赵]] operation; after Wei's [[XianglingWarringStates|襄陵]] victory he seeks peace through [[Jingshe|景舍]] in a [[ZhushuJinian|《竹书纪年》]] account. When [[ZouJi|邹忌]] opposes rescuing [[HanState|韩国]] and Tian Ji urges immediacy, he follows Sun Bin's [[DelayedRescueStatecraft|delayed-rescue]] plan, reassuring Han while waiting for Han and Wei to exhaust each other. At [[MalingBattle|马陵]], Qi defeats [[WeiState|魏国]], [[PangJuan|庞涓]] dies and [[PrinceShenWei|太子申]] is captured. [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]]
+- **Victory, suspicion and kingship:** [[ZouJi|邹忌]]'s planted divination accusation against Tian Ji reaches the king, and investigating or ignoring it both risk mistrust. [[TianYing|田婴]] uses post-Maling prestige for [[XuzhouMutualKingship|徐州相王]], reciprocal recognition from Liang Hui Wang, while [[ZhangChou|张丑]] warns against the status gift and [[ChuWeiwang|楚威王]] attacks Qi at [[Xuzhou|徐州]] ([[StatusOrderBacklash]]). A 321 BCE notice depicts Tian Ying taking administrative work as the ruler tires; whether Tian Ying is son or younger brother remains disputed in the source. [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]]
+- **Corrected succession:** The [[ZizhiTongjian|《资治通鉴》]] places his death and [[QiXuanWang|齐宣王]]'s accession amid [[SuQin|苏秦]]'s [[HezongAlliance|合纵]] in 333 BCE, but the episodes reject that early placement: Qi Wei Wang dies in 320 BCE and Qi Xuan's first regnal year is 319. This correction is kept alongside the earlier [[TianYingqi|田英齐]] succession material, not imposed on every annalistic episode as a seamless timeline. [[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]]
 
-[[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] follows that corrected early-reign branch with Qi Wei Wang's hunting dialogue with [[LiangHuiWang|魏惠王]]. When Wei Hui Wang boasts of luminous pearls, Qi Wei Wang defines his treasures as officials such as [[TanZi|檀子]] who defend borders, keep order, and attract people to [[QiState|齐国]]. The episode therefore turns his post-turnaround ruler image into [[TalentAsStateTreasure|以贤臣为宝]] rather than only a sudden-reform anecdote.
+## Qualifications
+The received 370 BCE court-visit notice names a Zhou ruler already dead; the episode proposes 357 BCE accession, 356 first year, 320 death and 319 BCE Qi Xuan first year. Deliberate feigning of decadence is only a possibility; Tian Ying’s son/brother status is disputed.
 
-[[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr]] adds his role as a user of strategic talent. Qi Wei Wang asks [[SunBin|孙膑]] how to break a battlefield stalemate, initially considers making him commander for the Zhao rescue, and then accepts the arrangement in which [[TianJi|田忌]] commands while Sun Bin advises the [[EncirclingWeiToRescueZhao|围魏救赵]] campaign.
+## What Changed
+- The 357/356 BCE accession and 320/319 BCE succession corrections qualify the official-audit, battle and title accounts.
 
-[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] adds a diplomatic aftermath through [[ZhushuJinian|《竹书纪年》]]. After [[LiangHuiWang|魏惠王]] uses Han forces to defeat a coalition at [[XianglingWarringStates|襄陵]], Qi Wei Wang seeks peace with Wei through [[Jingshe|景舍]].
-
-[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] makes him the ruler choosing rescue timing before [[MalingBattle|马陵之战]]. He hears [[ZouJi|成侯邹忌]] argue against rescue, [[TianJi|田忌]] argue for early rescue, and [[SunBin|孙膑]] argue for [[DelayedRescueStatecraft|delayed rescue]]. He accepts Sun Bin's plan, privately reassures [[HanState|韩国]], and waits until Han and Wei are both committed before sending Qi's army.
-
-[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] shows the delayed-rescue decision paying off militarily. Qi breaks [[WeiState|魏国]] at Maling, [[PangJuan|庞涓]] dies, and [[PrinceShenWei|太子申]] is captured. The source then turns the victory back toward Qi court politics because [[TianJi|田忌]]'s success may unsettle [[ZouJi|成侯邹忌]].
-
-[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] puts Qi Wei Wang inside the accusation aftermath. The planted divination request reaches him through arrested participants, so even disbelief cannot fully repair trust: if he examines the case, Tian Ji receives it as suspicion; if he ignores it, court rivalry remains unresolved. The episode therefore links Qi Wei Wang's Maling success to internal ruler-minister mistrust.
-
-[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] moves Qi Wei Wang from post-Maling victory and court risk into title diplomacy. [[TianYing|田婴]] uses Qi's victory prestige to push a Qi-centered order, and [[XuzhouMutualKingship|徐州相王]] lets Qi receive explicit recognition from [[LiangHuiWang|魏惠王 / 梁惠王]] while returning enough respect for Wei to save face. The episode also records Yang Kuan's doubt about whether Tian Ying is Qi Wei Wang's younger son or younger brother, so the wiki keeps the genealogy source-scoped.
-
-[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] shows the cost of that title diplomacy. [[ZhangChou|张丑]] warns [[TianYing|田婴]] against accepting the royal-status gift, and [[ChuWeiwang|楚威王]] later attacks Qi at [[Xuzhou|徐州]]. The episode treats Qi Wei Wang's new title recognition as a status success that also provokes [[StatusOrderBacklash|名分秩序反弹]].
-
-[[zizhi-tongjian-zhouji-29-suqin-lizhi-shuangwen-zhishi-gaibian-mingyun-lrf5cqvoriyep2lkbozju-lyjaxv]] tightens the chronology warning around his death. The episode says [[ZizhiTongjian|《资治通鉴》]] places Qi Wei Wang's death and [[QiXuanWang|齐宣王]]'s succession in the same 333 BCE cluster as [[SuQin|苏秦]]'s [[HezongAlliance|合纵]] success, but the host rejects that placement. In the source's correction, Qi Wei Wang is still alive, and Qi Xuan Wang's first year belongs at 319 BCE.
-
-[[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] is consistent with that correction by keeping a long-reigning Qi ruler in the 321 BCE background. The episode uses the ruler's fatigue with administration to explain how [[TianYing|田婴]] comes to handle Qi affairs; the political focus is Tian Ying's dependence on [[QiState|齐国]] rather than a new Qi Wei Wang biography.
-
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] gives the corrected branch its death/accession endpoint by placing Qi Wei Wang's death in 320 BCE and [[QiXuanWang|齐宣王]]'s succession after him. This fits the existing wiki caution that Qi Xuan Wang's first regnal year should be treated as 319 BCE rather than the earlier 333 BCE chronicle placement.
-
-This page is deliberately source-scoped. It keeps the episode's "齐威王" story visible while marking its own [[ChronicleChronologyDrift|chronology drift]] warning and connecting it to the earlier [[TianYingqi|田英齐]] Tian-family succession branch without forcing a clean timeline.
-
-## Connections
-- [[QiState|齐国]] - polity he rules in the source's story.
-- [[ZhouLiewang|周烈王]] and [[ZizhiTongjian|《资治通鉴》]] - annalistic frame being questioned.
-- [[TianYingqi|田英齐]] - related Tian-family Qi ruler branch already in the wiki.
-- [[JimoDafu|即墨大夫]], [[AyiDafu|阿邑大夫]], and [[IndependentOfficialAudit]] - official-evaluation branch.
-- [[ChunyuKun|淳于髡]], [[ChenLiao|陈聊]], [[AllusiveRemonstrance]], and [[QiWeiwangPoliticalTurnaround]] - Zhouji 14 remonstrance and turnaround branch.
-- [[TanZi|檀子]], [[LiangHuiWang|魏惠王]], and [[TalentAsStateTreasure|以贤臣为宝]] - Zhouji 15 state-treasure dialogue branch.
-- [[QiChronologyDispute]], [[ChronicleChronologyDrift]], and [[ChronicleSourceGaps]] - historiographical caution around the date.
-- [[SunBin|孙膑]], [[TianJi|田忌]], [[LureEnemyOutOfPosition]], [[EncirclingWeiToRescueZhao]], and [[GuilingBattle|桂陵之战]] - Zhouji 16 military-talent and rescue campaign branch.
-- [[LiangHuiWang|魏惠王]], [[XianglingWarringStates|襄陵]], [[Jingshe|景舍]], and [[ZhushuJinian|《竹书纪年》]] - Zhouji 17 peace-seeking branch.
-- [[ZouJi|成侯邹忌]], [[HanState|韩国]], [[MalingBattle|马陵之战]], [[DelayedRescueStatecraft]], and [[DecreasingStovesDeception]] - Zhouji 19-20 rescue-timing and victory branch.
-- [[TreasonAccusationTrap]], [[TianJi|田忌]], [[SunBin|孙膑]], and [[ChuState|楚国]] - Zhouji 21 accusation and exile branch.
-- [[XuzhouMutualKingship|徐州相王]], [[TianYing|田婴]], [[HuiShi|惠施]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 title-recognition and diplomatic-posture branch.
-- [[ZhangChou|张丑]], [[ChuWeiwang|楚威王]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 backlash against Qi's accepted title elevation.
-- [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 29 death and alliance-placement correction.
-- [[TianYing|田婴]], [[XueWarringStates|薛地]], and [[FiefSecurityIllusion|封地筑城安全幻觉]] - Zhouji 40 late-reign delegation and Tian Ying security warning.
-- [[QiXuanWang|齐宣王]] and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 45 death/accession endpoint compatible with the corrected chronology.
+## Relationships
+- [[IndependentOfficialAudit]] - official-evaluation branch.
+- [[QiChronologyDispute]] - historiographical caution around the date.
+- [[ChronicleSourceGaps]] - historiographical caution around the date.
+- [[LureEnemyOutOfPosition]] - Zhouji 16 military-talent and rescue campaign branch.
+- [[GuilingBattle]] - Zhouji 16 military-talent and rescue campaign branch.
+- [[DecreasingStovesDeception]] - Zhouji 19-20 rescue-timing and victory branch.
+- [[TreasonAccusationTrap]] - Zhouji 21 accusation and exile branch.
+- [[ChuState]] - Zhouji 21 accusation and exile branch.
+- [[HuiShi]] - Zhouji 27 title-recognition and diplomatic-posture branch.
+- [[LowPostureStatecraft]] - Zhouji 27 title-recognition and diplomatic-posture branch.
+- [[XueWarringStates]] - Zhouji 40 late-reign delegation and Tian Ying security warning.
+- [[FiefSecurityIllusion]] - Zhouji 40 late-reign delegation and Tian Ying security warning.
