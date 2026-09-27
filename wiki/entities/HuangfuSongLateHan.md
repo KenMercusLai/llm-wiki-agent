@@ -2,58 +2,62 @@
 title: "皇甫嵩 / Huangfu Song (late Han)"
 type: entity
 tags: [late-han, official, military, chang-an]
-sources: [zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8, zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]
+sources:
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o
+  - zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3
+  - zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8
+  - zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z
+  - zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh
+  - zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf
+  - zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf
+  - zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q
+  - zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-25
 ---
 
 # 皇甫嵩 / Huangfu Song (late Han)
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] backfills Huangfu Song at the opening of the 184 CE [[YellowTurbansLateHan|Yellow Turban]] battlefield sequence. After [[ZhuJunLateHan|朱儁]] first loses to [[BoCaiLateHan|波才]], Huangfu Song retreats into [[ChangsheBattleLateHan|长社]], keeps Zhu Jun hidden nearby, wears down Bo Cai's camp, and then uses a night fire attack before [[CaoCao|曹操]] joins the pursuit.
+## Overview
+皇甫嵩是东汉末年平定黄巾及防御西部叛军的将领；战术判断与同僚协作并未免除宦官谗毁及董卓、李傕郭汜控制朝廷时的政治风险。
 
-The episode makes Huangfu Song's retreat active rather than timid. His visible weakness protects the weaker Han force long enough to convert Bo Cai's confidence, poor night watch, grass-and-tree camp, and fatigue into a strike window, extending [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[LureEnemyOutOfPosition|诱敌离位]], and [[BattlefieldInformationControl|战场信息控制]].
+## Current Profile
+184年的长社、汝南—陈国、广宗—曲阳战役展现其示弱、等待敌疲与择机攻击；188—189年的陈仓再现先守后追。185年宫廷罢黜与董卓时代的拒绝起兵和自保答话，则说明军事能力、朝廷名义与强制力分离。董卓死后的安抚兵众方案只是他人提议，非皇甫嵩实际统兵行动。
 
-[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Huangfu Song immediately before the larger Hanji 929 Yellow Turban victory sequence. He and [[ZhuJunLateHan|朱儁]] continue suppressing the [[YellowTurbansLateHan|黄巾军]] around Runan and [[ChenStateLateHan|陈国]], defeating Bo Cai around Yangdi and Peng Tuo at Xihua.
+## Key Characteristics
+- 善于固守、隐藏协同与择时攻击，区分疲敌前不可出击与撤围后可追击。
+- 平黄巾时与朱儁协同并奏报其功，主持人还以士卒后食后息解释其士气治理。
+- 拒绝宫廷索钱并弹劾奢建，战功仍遭宦官诬陷与帝王削夺。
+- 面对董卓握朝廷名义，拒绝高风险军事反击，却能以条件式言辞化解直接威胁。
+- 董卓死后仍具安抚军队的象征价值；李傕郭汜控制长安时高官名位可被撤销。
 
-The source also gives Huangfu Song a credit-sharing branch. After the Runan-Chen victories, he reports Zhu Jun's merit to the court, helping Zhu Jun receive a marquis title and a new campaign command. This makes Huangfu Song's early 184 profile not only battlefield competence, but also the political handling of colleague merit before later episodes show how court favorites can still damage his own record.
+## Evidence
+- **战术等待：**[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]]记184年[[ZhuJunLateHan|朱儁]]初败于[[BoCaiLateHan|波才]]后，皇甫嵩退守[[ChangsheBattleLateHan|长社]]，藏朱儁于附近，趁草木营垒、夜间警戒松懈和疲惫纵火，[[CaoCao|曹操]]随后参与追击。[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z]]记朝廷以左将军配[[DongZhuo|董卓]]、四万兵面对[[WangGuoLateHan|王国]]围[[ChenCang|陈仓]]：不急援，围城八十余日后敌退才追，董卓先主张急援、后又反对追击；胜利也留下私人怨隙。
+- **战功与部属：**[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]]记汝南、[[ChenStateLateHan|陈国]]一带阳翟败波才、西华败彭脱后奏朱儁功，使其封侯受命；[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3]]记仓亭俘卜巳、广宗晨袭[[ZhangLiangYellowTurban|张梁]]、张角病逝后曲阳击[[ZhangBaoYellowTurban|张宝]]，主力平定而余部延续；官赏左车骑将军、冀州牧、槐里侯，士卒先食先息为主持人所强调的[[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]]。
+- **宫廷代价：**[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8]]记185年[[EmperorLingOfHan|汉灵帝]]召他守[[ChangAnHanCapital|长安]]以对[[BeigongBoyuLateHan|北宫伯玉]]等威胁；他拒[[ZhangRangLateHan|张让]]五千万钱要求、劾[[ZhaoZhongLateHan|赵忠]]邺旁奢宅，两人遂以败军、无功、耗费弹劾，帝收印并减食邑六千户。
+- **合法性与防御言辞：**[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh]]记[[GeXunLateHan|葛勋]]、[[LiangYanLateHan|梁衍]]建议扶风兵迎[[EmperorXianOfHan|汉献帝]]并联[[YuanShao|袁绍]]攻董卓，皇甫嵩因董卓仍握正式朝廷权位及家属部众风险拒绝；[[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf]]只铺垫长安董卓问惧；[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]]记其答以董卓若德辅朝廷则不惧，若滥刑则天下惧，将私威转作公义判断。
+- **未实行方案与官职：**[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]]记有人提议让他统摄董卓旧部以安[[LiangzhouWarlordClique|凉州兵]]，[[WangYunLateHan|王允]]否决；[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]]记李傕郭汜控朝时期他以太尉身份被免，同时[[LiuBiao|刘表]]受征南将军、荆州牧、成武侯之封，呈现[[MingqiLegitimacy|名器合法性]]与实际兵权之别。
 
-[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] backfills Huangfu Song's decisive 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign. After defeating the rebels at Cangting and capturing Bo Si, he studies [[ZhangLiangYellowTurban|张梁]] at Guangzong, waits for camp laxness, attacks at dawn, and then turns to [[ZhangBaoYellowTurban|张宝]] at Quyang after [[ZhangJiaoLateHan|张角]] has already died.
+## Qualifications
+上述战役与朝廷情节来自《资治通鉴》播客转述，主持人对董卓怨恨、皇甫嵩不敢行动的心理解释不可当作直接史料；陈仓的战术争执不证明后续所有政治行为的单一原因。965的统兵是未实施的建议；967的免官简述不提供完整履历。955的“关羽斩华雄”小说/史事争论仅是该集背景，不构成皇甫嵩战功。
 
-The same source gives Huangfu Song a leadership frame before later court vulnerability. He is rewarded as Left Chariot-and-Cavalry General, Jizhou shepherd, and Huaili marquis, while the host stresses that he rests and eats after ordinary soldiers do. This makes his early page role a combination of operational patience and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] before later episodes show how court politics can still strip his merit.
+## What Changed
+- 长社和陈仓两场战役显示等待敌疲不是消极退避，而可与出击、追击相连。
+- 军功既未阻止185年宦官报复，也未消除董卓掌权及长安失守后的政治风险。
 
-[[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]] adds Huangfu Song's 185 CE court-vulnerability branch before the later Chen Cang and Dong Zhuo scenes. [[EmperorLingOfHan|汉灵帝]] recalls him to guard [[ChangAnHanCapital|长安]] against [[BeigongBoyuLateHan|北宫伯玉]] and related Sanfu pressure, showing that the court still needs his military capacity.
-
-The same episode then shows why merit does not protect him. Huangfu Song refuses [[ZhangRangLateHan|张让]]'s fifty-million-cash demand and memorializes against [[ZhaoZhongLateHan|赵忠]]'s overbuilt residence near Ye. Zhang Rang and Zhao Zhong answer with accusations of defeat, lack of merit, and wasted supplies; Emperor Ling believes them, recalls Huangfu Song, strips his Left Chariot-and-Cavalry General seal, and cuts six thousand households from his fief.
-
-[[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]] backfills the old military grievance behind later [[DongZhuo|董卓]]-Huangfu Song scenes. Recalled as Left General and paired with Dong Zhuo against [[WangGuoLateHan|王国]], Huangfu Song refuses immediate relief of [[ChenCang|陈仓]] because he judges the city can hold and the besieger will tire.
-
-When Wang Guo withdraws after more than eighty days, Huangfu Song reverses into pursuit despite Dong Zhuo's objection. The victory makes him a case of [[FortifiedAttritionPatience|坚壁耗敌式耐心]] and [[WarCostTempoDiscipline|战争成本与速决纪律]], but it also humiliates Dong Zhuo, turning tactical correctness into later political exposure.
-
-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] backfills the missed anti-[[DongZhuo|董卓]] opening before Huangfu Song's later Chang'an survival scene. While he holds a large force at Fufeng, [[GeXunLateHan|葛勋]] and [[LiangYanLateHan|梁衍]] suggest using those troops to welcome [[EmperorXianOfHan|汉献帝]], claim imperial authority, and attack Dong Zhuo in coordination with [[YuanShao|袁绍]] from the east.
-
-Huangfu Song refuses. The source treats the refusal as a high-risk [[MingqiLegitimacy|名器合法性]] problem: Dong Zhuo remains the formal representative of the court, failure would expose Huangfu Song's family and followers, and the cost of moving from legitimate opposition into open military action is too high for him to accept.
-
-[[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] adds the cliffhanger setup for Huangfu Song's Hanji 956 survival scene. After [[DongZhuo|董卓]] reaches [[ChangAnHanCapital|长安]], the officials come out to greet him and he asks Huangfu Song whether he is afraid, activating an old grievance that the next episode develops into [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]].
-
-[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] adds Huangfu Song's earlier survival scene under [[DongZhuo|董卓]]. Dong Zhuo asks whether Huangfu Song now fears him, converting old command history into public intimidation; Huangfu Song answers by making his own fear depend on whether Dong Zhuo assists the court with virtue or abuses punishment. The reply turns a personal threat into a legitimacy test and belongs to [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]].
-
-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] gives Huangfu Song a practical reassurance role before the later title-removal note. Someone proposes that he command or settle Dong Zhuo's old troops near Shan County so Liangzhou soldiers feel safer and the court retains a guard against Guandong uncertainty. [[WangYunLateHan|王允]] rejects the plan, turning Huangfu Song into a missed stabilizing channel rather than an active executor.
-
-Huangfu Song appears in [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] as the taiwei removed during the post-[[DongZhuo|Dong Zhuo]] Chang'an reshuffle. The episode does not develop his biography; his significance here is structural, marking how the court under [[LiJueLateHan|Li Jue]] and [[GuoSiLateHan|Guo Si]] control could still issue and revoke high offices.
-
-His dismissal appears beside [[LiuBiao|Liu Biao]]'s promotion to Zhengnan general, Jingzhou governor, and Chengwu marquis. Together, these details show the court's symbolic authority still mattered even while the capital was militarily captured.
-
-## Connections
-
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[ChangsheBattleLateHan|长社之战]], [[BoCaiLateHan|波才]], [[CaoCao|曹操]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], [[LureEnemyOutOfPosition|诱敌离位]], and [[BattlefieldInformationControl|战场信息控制]] - first Yellow Turban victory through retreat, fatigue, night fire, and pursuit.
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen victories and credit-sharing report before the main Guangzong/Quyang sequence.
-- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[YellowTurbansLateHan|黄巾军]], [[ZhangJiaoLateHan|张角]], [[ZhangLiangYellowTurban|张梁]], [[ZhangBaoYellowTurban|张宝]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - 184 CE main Yellow Turban suppression and leadership-morale branch.
-- [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8|Hanji 934]], [[BeigongBoyuLateHan|北宫伯玉]], [[ZhangRangLateHan|张让]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - earlier Sanfu assignment, refused bribery, anti-corruption memorial, and slander-driven demotion.
-- [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], [[WangGuoLateHan|王国]], [[ChenCang|陈仓]], [[ChenCangBattleLateHan|陈仓之战]], [[DongZhuo|董卓]], [[FortifiedAttritionPatience|坚壁耗敌式耐心]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - delay-then-pursue victory and its resentment cost.
-- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[GeXunLateHan|葛勋]], [[LiangYanLateHan|梁衍]], [[EmperorXianOfHan|汉献帝]], [[YuanShao|袁绍]], and [[MingqiLegitimacy|名器合法性]] - refused opportunity to escort the emperor and attack Dong Zhuo.
-- [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]], [[DongZhuo|董卓]], and [[ChangAnHanCapital|长安]] - cliffhanger setup for the fear question.
-- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[DongZhuo|董卓]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - intimidation question answered through public legitimacy.
-- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[WangYunLateHan|王允]], and [[LiangzhouWarlordClique|凉州系军阀]] - proposed reassurance channel for Dong Zhuo's old troops.
-- [[EmperorXianOfHan]] - the imperial court remains the formal source of titles and removals.
-- [[ChangAnHanCapital]] - Huangfu Song's removal belongs to the court reshuffle after Chang'an's capture.
-- [[LiuBiao]] - Liu Biao's appointment is paired with Huangfu Song's removal in the source sequence.
-- [[MingqiLegitimacy]] - the episode preserves the distinction between symbolic office and coercive control.
+## Relationships
+- [[YellowTurbansLateHan]] - 184年平定主力但未消灭全部余部。
+- [[ZhuJunLateHan]] - 长社协同与汝南战功奏报对象。
+- [[FortifiedAttritionPatience]] - 长社和陈仓两次主动等待的战法。
+- [[LureEnemyOutOfPosition]] - 长社诱敌松懈的战术解释。
+- [[BattlefieldInformationControl]] - 夜袭隐蔽协同的条件。
+- [[ChenCangBattleLateHan]] - 等敌撤围后追击的具体战役。
+- [[WarCostTempoDiscipline]] - 陈仓战场的等待与追击时点。
+- [[PalaceAccessMonopoly]] - 张让赵忠谗毁压倒军功的宫廷渠道。
+- [[DongZhuo]] - 旧日战术分歧及后来政治威胁。
+- [[DefensiveSpeechUnderTyranny]] - 面对董卓威吓的条件式答话。
+- [[WangYunLateHan]] - 否决借皇甫嵩安抚董卓旧部的方案。
+- [[LiJueLateHan]] - 控制朝廷时期皇甫嵩被免官的权力背景。
+- [[GuoSiLateHan]] - 同为长安朝廷强制力背景。
+- [[ZhangJiaoLateHan]] - 其病逝后皇甫嵩继续平定张梁、张宝所部，不是直接交战的主角。

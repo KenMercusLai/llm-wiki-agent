@@ -2,42 +2,54 @@
 title: "会稽郡 / Kuaiji Commandery"
 type: entity
 tags: [commandery, qin-state, pre-qin, warring-states, southern-china, late-han]
-sources: [zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio, zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2, zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1, zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy, zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]
+sources:
+  - zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom
+  - zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k
+  - zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94
+  - zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4
+  - zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio
+  - zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2
+  - zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1
+  - zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy
+  - zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 会稽郡 / Kuaiji Commandery
 
-会稽郡 / Kuaiji Commandery enters the wiki through [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] as the commandery Qin establishes after [[WangJianQin|王翦]] pacifies Jiangnan and subdues [[Baiyue|百越]]. The source treats it as an administrative marker showing Qin converting the old Wu-Yue region into commandery rule after Chu's destruction.
+## Overview
+会稽郡在来源中既是秦征服旧吴越地区后的东南行政标记，也是反秦起兵可夺取的郡级资源；至东汉末年又成为争夺的富庶地区、孙策的郡守职位。不要把这些相隔数百年的角色写成一个不变政权。
 
-The page is source-scoped because the episode itself narrows the claim. Kuaiji anchors Qin's reach into the southeast, but the host cautions that full Lingnan incorporation is a later post-unification campaign, not necessarily something completed in this notice.
+## Current Profile
+从王翦平江南后的置郡，到殷通被杀后的八千人起兵，再到许生动乱、刘繇避让与孙策夺郡，页面重点是地域行政与军事动员如何在不同政治秩序下转换。会稽与秦后来所设岭南三郡不是同一个南进阶段。
 
-[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] supplies the later contrast named above. Qin now pushes deeper into Lingnan and creates [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]], so Kuaiji remains the earlier southeastern commandery marker rather than the endpoint of southern incorporation.
+## Key Characteristics
+- 秦的东南郡县化：王翦平江南、服百越后设郡，标记旧吴越地区纳入秦的行政体系。
+- 与岭南后续扩张有边界：214 BCE另立桂林、南海、象郡，不能把这次深入岭南也归于会稽郡初设。
+- 秦末反抗的现成组织资源：项梁、项羽杀郡守殷通、取印，聚近八千兵；昭平假传陈胜任命促军西渡。
+- 东汉局部动乱与地缘价值：句章许生自称阳明皇帝、聚众数万；许劭又以富庶、近海、孙策觊觎劝刘繇避此就豫章。
+- 孙策夺取、任官与合法性：王朗据固陵防守失败，孙策取郡守职并留用虞翻，后获曹操以献帝名义承认该职。
 
-[[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1|Qinji 128-7]] gives Kuaiji a new role after Qin's collapse begins. Its governor [[YinTong|殷通]] wants to answer [[ChenSheng|陈胜]]'s uprising and asks [[XiangLiang|项梁]] to help lead the move, but Xiang Liang and [[XiangYu|项羽]] instead kill Yin Tong, seize the commandery seal, and gather nearly eight thousand troops. The commandery therefore shifts from Qin administrative consolidation to rebel infrastructure through [[KuaijiCommanderyCoup|会稽郡守府夺权]].
+## Evidence
+- **秦建置**：[[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]]称[[WangJianQin|王翦]]平江南、降[[Baiyue|百越]]后设会稽郡；“百越”是多族群/政体的概称，非一个国家。[[WuState|吴国]]、[[YueState|越国]]是旧地区背景。
+- **行政阶段区分**：[[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]]叙214 BCE深进岭南另设[[GuilinCommandery|桂林郡]]、[[NanhaiCommandery|南海郡]]、[[XiangCommandery|象郡]]，不能据此倒推王翦时期岭南已完全纳入。
+- **夺郡转起兵**：[[zizhi-tongjian-qinji-128-7-liubang-he-xiangyu-youhe-butong-llwcqatndck4zita2piufwhjpxp1]]记[[YinTong|殷通]]本欲响应[[ChenSheng|陈胜]]，[[XiangLiang|项梁]]和[[XiangYu|项羽]]反而杀之夺印、聚近八千兵（节目置于209 BCE）；[[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2]]记[[ZhaoPingRebel|昭平]]假称陈胜授命，以江东已平定为由促会稽楚军渡江向西伐秦；“已平定”是该节目对当时局势的记述，并非全江东永久安定。
+- **东汉区域风险**：[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom]]记[[XuShengLateHan|许生]]在句章称帝、聚众数万，朝廷派扬州刺史张旻与[[DanyangCommandery|丹阳郡]]太守陈寅应对。[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]]中[[XuShao|许劭]]认为会稽虽富、靠海却易受[[SunCe|孙策]]争夺，劝[[LiuYaoLateHan|刘繇]]改往[[YuzhangCommandery|豫章郡]]保留汉承认的地位。
+- **夺郡后的任官与承认**：[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]]记孙策不先清严白虎而直攻会稽，[[WangLangLateHan|王朗]]固陵抗拒，[[SunJingLateHan|孙静]]献绕后、火营疑兵之计；[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]]记孙策自任郡守、留[[YuFan|虞翻]]，虞翻劝其勿单骑轻出。 [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio]]记[[CaoCao|曹操]]借[[EmperorXianOfHan|汉献帝]]名义承认孙策会稽太守等称号；这是既有地方实力的正式名号，不是该郡新设。
 
-[[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]] turns that seized commandery force into a westward army. [[ZhaoPingRebel|昭平]] tells [[XiangLiang|项梁]] that Jiangdong has already been pacified and that the Kuaiji Chu troops should cross the Yangtze to attack Qin, giving the commandery's eight thousand men a wider anti-Qin role.
+## Qualifications
+- 秦末殷通自己也考虑反秦，项氏后来称其夺权是义举不能掩盖对另一潜在反秦者的先发杀害；昭平授命是伪托，不是陈胜真实任命。
+- 东汉许生动乱、195 CE左右刘繇路线选择、196 CE孙策夺郡与稍后朝廷任命各属不同事件，不可压缩为同一场接管。孙策性格导致其早逝是节目解释，非地理事实。
+- “百越”不等于同质政治实体；秦郡具体边界和岭南整合程度不由这些播客材料完整确定。
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds a much later Kuaiji disorder branch before the Sun Ce material. [[XuShengLateHan|许生]] rises in Juzhang county, proclaims himself Yangming emperor, and gathers tens of thousands, forcing the court to send the Yangzhou inspector Zhang Ming and the [[DanyangCommandery|丹阳郡]] administrator Chen Yin. Kuaiji therefore appears as a southeastern crisis zone before later pages make it Sun Ce's target and office base.
+## What Changed
+- 区分秦东南置郡、秦末夺郡、东汉地缘判断及孙策官号的不同制度角色。
+- 将岭南三郡单列为后续对照，而非会稽郡的别称。
 
-[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] adds a late-Han route-choice warning before Sun Ce's own Kuaiji campaign. [[LiuYaoLateHan|刘繇]] considers moving to Kuaiji, but [[XuShao|许劭]] argues that the commandery is too tempting and exposed: it is wealthy, close to the sea, and also desired by [[SunCe|孙策]]. Xu Shao therefore recommends [[YuzhangCommandery|豫章郡]] as the safer route for preserving Liu Yao's Han-recognized position.
-
-[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] adds the late-Han campaign that precedes Sun Ce's governorship. [[SunCe|孙策]] chooses Kuaiji as his next target, while [[WangLangLateHan|王朗]] holds Guling and [[YuFan|虞翻]] warns that Sun Ce is too skillful to meet directly. [[SunJingLateHan|孙静]]'s rear-attack plan then helps Sun Ce break the defense and force Wang Lang's surrender.
-
-[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] adds the late-Han local takeover before the later Cao-backed title branch. [[SunCe|孙策]] defeats [[WangLangLateHan|王朗]], takes the Kuaiji governorship himself, and retains [[YuFan|虞翻]] from Wang Lang's staff. Kuaiji therefore becomes not only a formal title marker, but also the local setting where Sun Ce's personnel absorption and personal-security habits are tested.
-
-[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] adds a late-Han administrative-title use. [[CaoCao|曹操]] has [[SunCe|孙策]] recognized as Kuaiji commandery governor as part of a broader title package under [[EmperorXianOfHan|汉献帝]]'s name. In this source, Kuaiji matters less as a detailed administrative unit than as a formal status marker for Sun Ce's regional power.
-
-## Connections
-- [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]], [[XuShengLateHan|许生]], and [[DanyangCommandery|丹阳郡]] - late-Han Juzhang uprising and initial suppression setting.
-- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]], [[LiuYaoLateHan|刘繇]], [[XuShao|许劭]], [[SunCe|孙策]], and [[YuzhangCommandery|豫章郡]] - late-Han route-choice warning.
-- [[QinState|秦国]] - state establishing the commandery.
-- [[WangJianQin|王翦]] - commander associated with the pacification notice.
-- [[Baiyue|百越]] - southern peoples and polities named in the source.
-- [[WuState|吴国]] and [[YueState|越国]] - old regional frame around the area first subdued.
-- [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - broader Qin pattern of turning conquest into commandery administration.
-- [[GuilinCommandery|桂林郡]], [[NanhaiCommandery|南海郡]], and [[XiangCommandery|象郡]] - later Lingnan commanderies contrasted in Qinji 123-2.
-- [[YinTong|殷通]], [[XiangLiang|项梁]], [[XiangYu|项羽]], and [[KuaijiCommanderyCoup|会稽郡守府夺权]] - Qinji 128-7 commandery takeover after the anti-Qin wave begins.
-- [[zizhi-tongjian-qinji-130-1-guailaotou-yiqiao-san-shua-zhangliang-chuanshou-shenshu-lqwjo13zzfgtndpajzpuvrb2h4l2|Qinji 130-1]], [[ZhaoPingRebel|昭平]], and [[ChenSheng|陈胜]] - false appointment and westward mobilization.
-- [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[WangLangLateHan|王朗]], [[SunJingLateHan|孙静]], [[YuFan|虞翻]], and [[LeaderPersonalExposure|领导者轻身涉险]] - Sun Ce's campaign, local takeover, and risk-warning setting.
-- [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], [[SunCe|孙策]], [[CaoCao|曹操]], and [[EmperorXianOfHan|汉献帝]] - late-Han title-recognition branch.
+## Relationships
+- [[QinState]] - 初设郡的政权；[[ConquestCommanderyTransition]] - 征服转郡县的制度过程。
+- [[KuaijiCommanderyCoup]] - 殷通被杀后的郡府夺权；[[ChenSheng]] - 秦末起事及伪任命被借用的名义。
+- [[SunCe]] - 东汉末攻取并自任太守者；[[WangLangLateHan]] - 其攻取时的守方。
+- [[LeaderPersonalExposure]] - 虞翻针对孙策轻出而作的后续警告，不是郡县制度特点。
+- [[YuzhangCommandery]] - 许劭给刘繇的安全替代目的地；[[DanyangCommandery]] - 许生事件的朝廷应对官员所辖邻郡。

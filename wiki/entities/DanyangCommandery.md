@@ -2,33 +2,55 @@
 title: "丹阳郡 / Danyang Commandery"
 type: entity
 tags: [place, commandery, late-han, jiangdong]
-sources: [zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]
+sources:
+  - zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu
+  - zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1
+  - zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s
+  - zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
-# 丹阳郡 / Danyang Commandery
+## Overview
+丹阳郡 was a late-Han commandery whose offices, soldiers and mountain communities figure in both Xuzhou military patronage and the Sun family's Jiangdong expansion. The six registered notes are episodes of one historical retelling, not six independent documentary witnesses; their episodes describe distinct times and uses of the same regional resource.
 
-[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] backfills Danyang before the later Sun-family recruitment branches. In the 174 CE campaign against [[XuShengLateHan|许生]], the Danyang administration is part of the suppression force, while [[SunJianLateHan|孙坚]]'s locally recruited fighters make Danyang-linked disorder an early stage for his military reputation.
+## Current Profile
+Its commandery administration participated in suppressing a 174 CE rebellion; later Danyang soldiers strengthened [[LiuBei|刘备]] in Xuzhou, while [[WuJingLateHan|吴景]], [[SunBenLateHan|孙贲]] and [[ZhouShangLateHan|周尚]] helped turn local appointments into [[SunCe|孙策]]'s recruitment and logistics. That value did not imply uniform control: [[ZuLangLateHan|祖郎]], [[TaishiCi|太史慈]] and [[Shanyue|山越]] communities contested the mountainous interior.
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds a late-Han Xuzhou use of Danyang troops before the later Sun-family branch. [[TaoQianLateHan|陶谦]] gives [[LiuBei|刘备]] four thousand Danyang soldiers after asking [[TianKaiLateHan|田楷]] and Liu Bei for help against [[CaoCao|曹操]], turning Danyang manpower into Liu Bei's first substantial Xuzhou military base.
+## Key Characteristics
+- An established commandery administration could mobilize against local revolt; the region also supplied fighters who gained reputations in suppression campaigns.
+- Danyang troops could be transferred across theaters: Tao Qian's grant gave Liu Bei a substantial Xuzhou foothold.
+- Family alliances and appointed offices made Danyang manpower and supply available to Sun Ce, even under Yuan Shu's indirect control.
+- Recruitment needed terrain access and local cooperation; armed resistance near Jing County exposed the limits of nominal commandery authority.
+- Zhou Yu's ships, troops, food and funds converted Danyang-linked relationships into a viable Yangtze crossing.
+- Later consolidation required incorporating captured local rivals rather than merely occupying counties.
 
-[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds a pre-Hanji-983 family-resource layer. The episode treats Danyang soldiers as part of [[QiantangWuClan|钱塘吴氏]] and [[WuJingLateHan|吴景]]'s practical value to the Sun household: [[SunCe|孙策]]'s later access to several thousand Danyang troops is not only recruitment luck but a kinship-and-local-office resource.
+## Evidence
+- **Early administration:** [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu]] places the Danyang administration with Zang Min against [[XuShengLateHan|许生]] in 174 CE; [[SunJianLateHan|孙坚]] recruited more than 1,000 local fighters and gained an early reputation. The host frames this as [[CrisisOpportunityConversion|危机机会转化]], not a general rule of local history.
+- **Exported troops:** [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet]] says [[TaoQianLateHan|陶谦]] gave Liu Bei 4,000 Danyang soldiers after seeking aid from him and [[TianKaiLateHan|田楷]] against [[CaoCao|曹操]], recommending Liu Bei for Yuzhou inspector and stationing him at Xiao Pei in [[Xuzhou|徐州]]. This is not Sun Ce's later recruitment force.
+- **Kin and office:** [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1]] connects [[LadyWuSunJian|吴夫人]] and the [[QiantangWuClan|钱塘吴氏]] to Wu Jing's later reported 4,000 Danyang soldiers for Sun Ce, an interpretation of [[KinshipResourceStateBuilding|姻亲资源建构]]. [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s]] describes [[YuanShu|袁术]] placing Wu Jing over the commandery and Sun Ben in a local military post; Sun Ce initially received several hundred recruited troops, then over a thousand of [[SunJianLateHan|孙坚]]'s old troops after an ambush. These figures are episode-specific, not additive inventories.
+- **Resistance and geography:** Hanji 983's [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s]] quotes “丹阳山险，民多果劲” and records Zu Lang attacking Sun Ce near [[JingCountyLateHan|泾县]]. The terrain and local power explain why appointment alone did not pacify the interior; the phrase is a historical characterization in the show, not an essential property of a population.
+- **Campaign logistics:** [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]] says [[ZhouYuLateHan|周瑜]] brought 2,000 troops, 50 boats, grain and money and access through his uncle Zhou Shang's Danyang office; Sun Ce's force had reached roughly 5,000–6,000 by Liyang before taking [[HengjiangLateHan|横江]] and nearby crossings. Personnel attraction and operational resupply work together, rather than the commandery alone causing victory.
+- **Contested consolidation:** [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x]] describes western counties near Jing still beyond easy control. Yuan Shu furnished Zu Lang with a seal to mobilize Shanyue; Taishi Ci *claimed* the Danyang administrator title and drew mountain support. Sun Ce captured both, released them and appointed Zu Lang `门下贼曹` and Taishi Ci `门下督`, illustrating [[CapturedOpponentTalentIncorporation|降敌任用式立威]].
 
-[[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] first frames Danyang as a strategic recruitment and supply base before [[SunCe|孙策]]'s later crossing. The episode quotes the region's mountains and tough population, then shows [[YuanShu|袁术]] trying to control it indirectly by backing [[WuJingLateHan|吴景]] and [[SunBenLateHan|孙贲]]. It also adds the local-resistance side through [[ZuLangLateHan|祖郎]]'s attack near [[JingCountyLateHan|泾县]].
+## Qualifications
+- The 174 CE suppression, Liu Bei's grant and Sun Ce's recruitment refer to different episodes and forces. A commandery, a county within it and its contested uplands should not be collapsed into one battlefield or stable allegiance.
+- Hanji 982's Wu Jing figure and Hanji 983's early smaller troop count occupy different narrative stages; they do not prove two separately delivered grants of 4,000. Hanji 983 opens with a 196 CE date while narrating setup before the 195 crossing, a compression left unresolved in the source.
+- Taishi Ci's administrator title is a claim in a contested region, not proof of effective court appointment. The episodes' evaluations of Sun Ce's talent absorption and local courage are interpretive, not independent corroboration.
 
-丹阳郡 / Danyang Commandery enters the wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] as the official and recruitment base behind [[ZhouYuLateHan|周瑜]]'s support for [[SunCe|孙策]]. [[ZhouShangLateHan|周尚]] holds the commandery, and Zhou Yu's access to that channel helps Sun Ce with soldiers, ships, grain, funds, and a broader manpower pipeline.
+## What Changed
+- The profile separates Danyang's administration, portable military manpower, kinship-based recruitment and still-contested local control rather than treating each appearance as evidence of a single unified base.
 
-The source therefore treats Danyang as more than geography. It is the place where elite office, local recruitment, and personal alliance combine to make Sun Ce's [[HengjiangLateHan|横江]] and Jiangdong campaign operational.
-
-[[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] adds Danyang's unsettled interior after Sun Ce has taken the eastern side. [[JingCountyLateHan|泾县]] and the six counties west of it are still outside easy control; [[ZuLangLateHan|祖郎]] receives [[YuanShu|袁术]]'s seal to stir [[Shanyue|山越]] resistance, while [[TaishiCi|太史慈]] claims the Danyang administrator title and draws mountain support. Danyang therefore becomes the local-force setting for [[CapturedOpponentTalentIncorporation|降敌任用式立威]], because Sun Ce has to absorb enemy leaders as well as occupy terrain.
-
-## Connections
-- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[XuShengLateHan|许生]], [[SunJianLateHan|孙坚]], and [[CrisisOpportunityConversion|危机机会转化]] - 174 CE suppression branch and early Sun Jian reputation setting.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TaoQianLateHan|陶谦]], [[LiuBei|刘备]], [[TianKaiLateHan|田楷]], and [[Xuzhou|徐州]] - Danyang troops as Liu Bei's early Xuzhou capacity.
-- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[QiantangWuClan|钱塘吴氏]], [[LadyWuSunJian|吴夫人]], [[WuJingLateHan|吴景]], and [[KinshipResourceStateBuilding|姻亲资源建构]] - maternal-family route into Danyang military resources.
-- [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]], [[WuJingLateHan|吴景]], [[SunBenLateHan|孙贲]], [[ZuLangLateHan|祖郎]], and [[JingCountyLateHan|泾县]] - Danyang as recruitment base and contested local terrain.
-- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], [[Shanyue|山越]], [[TaishiCi|太史慈]], and [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - unsettled western counties, mountain support, and captured-opponent incorporation.
-- [[ZhouShangLateHan|周尚]] - commandery governor in the source.
-- [[ZhouYuLateHan|周瑜]] - actor converting the Danyang channel into support.
-- [[SunCe|孙策]], [[WuJingLateHan|吴景]], and [[HengjiangLateHan|横江]] - Jiangdong campaign opening.
-- [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - talent and support-network concepts attached to the source.
+## Relationships
+- [[SunCe]] - mobilized regional and kinship resources, then incorporated local opponents.
+- [[LiuBei]] - received a distinct Danyang contingent for his Xuzhou foothold.
+- [[WuJingLateHan]] - commandery office and kinship route for Sun-family recruitment.
+- [[ZhouYuLateHan]] - supplied soldiers, boats and grain through Zhou Shang's commandery access.
+- [[YuanShu]] - used appointments and later a seal for Zu Lang to exert indirect influence.
+- [[JingCountyLateHan]] - local point of resistance and western interior contest.
+- [[Shanyue]] - mountain groups drawn into the later campaign; not a synonym for all Danyang inhabitants.
+- [[CapturedOpponentTalentIncorporation]] - Sun Ce's response after capturing Zu Lang and Taishi Ci.
+- [[TalentAsStateTreasure]] - adjacent interpretive frame for retaining useful opponents and allies.
+- [[TalentAttractionThroughRespect]] - adjacent interpretation of the Sun-Zhou support network.
