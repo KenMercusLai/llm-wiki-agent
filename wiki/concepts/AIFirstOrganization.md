@@ -2,44 +2,47 @@
 title: "AI-First Organization"
 type: concept
 tags: [ai, organizations, management]
-sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2, reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]
+sources:
+  - openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z
+  - e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923
+  - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
+  - youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2
+  - reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk
 last_updated: 2026-08-08
+knowledge_schema: synthesis-v1
 ---
 
 # AI-First Organization
 
-An AI-first organization is a company designed so AI systems drive much of the daily production loop, while humans define direction, architecture, values, review standards, and responsibility. In [[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]], [[ChenKaiCreo|陈凯]] says the important shift is not that every employee uses AI tools, but that workflows and organization form are rebuilt around AI capability.
+## Definition
+An AI-first organization redesigns work around agents executing parts of production and coordination, rather than attaching chat tools to unchanged human handoffs. Human staff still specify goals, permissions, standards, and accountability.
 
-The source presents [[Creo]] as an internal case: engineering, testing, go-to-market, data analysis, and decision loops are reorganized around [[HarnessEngineering]] so agents can propose, execute, test, repair, and learn from feedback. The human role moves upward into architecture, market judgment, value definition, ethical boundaries, and final review.
-
-[[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] adds [[Sheet0]] as another small-team case. [[WangWenfeng]] says the company stays at seven people while using high-intensity AI coding, and its new product direction tries to make [[AIManagingAI]] operational: agents pick up tasks, implement and test code, submit PRs, and leave humans with product definition and final quality review.
-
-[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]] as a many-agent AI-first organization case. [[RC]] says the company uses about forty agents around seven people, which makes [[AgentDynamics]], [[AgentTaskClaiming]], shared memory, and model-specific roles part of the operating model rather than auxiliary tooling.
-
-[[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] adds [[Albert]]'s stricter new-project experiment: no human-written code, with engineering work pushed into AI execution and humans responsible for requirements, review, and organization logic. The source reinforces that AI-first organization is not only adoption of tools; it changes who writes specifications and where human judgment sits.
-
-[[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] adds [[WangTianfan]]'s investor view. He treats AI-native organization design as a growth driver for model companies because shared organizational context can reduce collaboration friction and make the company itself use AI more deeply than ordinary tool adoption.
+## Current Synthesis
+Founder interviews describe several operational variants: Creo's test-and-repair harness, Sheet0's task-to-PR loop, Slock's shared multi-agent workspace, and Albert's no-human-written-code experiment. The common mechanism is explicit context and feedback, not a universal staffing ratio. Investor commentary extends the thesis to accumulated organizational context, but remains a forecast.
 
 ## Key Claims
-- AI-first work changes trust: the organization has to decide when to trust AI planning, execution, and recommendations, then add guardrails that make that trust inspectable.
-- Implementation speed can reverse old bottlenecks. Engineering may produce more features than go-to-market can position, sell, or time for the market.
-- Product managers, engineers, designers, and marketers can blend into broader roles because AI absorbs some translation, implementation, and coordination work.
-- Generalists with architecture ability, product taste, implementation literacy, and market sense may become more valuable than narrowly specialized executors.
-- Smaller, less regulated companies may adopt AI-first workflows faster, while large companies face legacy data, compliance, permission, and human-resistance constraints.
-- AI-first organization design does not remove humans; it concentrates human responsibility around direction, review, trust, and value choices.
-- Small AI-first teams may treat token budget as a substitute for some hiring, but only if [[AICodingVerification]] and human product judgment keep output useful.
-- An AI-first organization may have to manage an agent workforce directly, with norms, task ownership, shared context, and identity cues for nonhuman coworkers.
-- A zero-human-code project is possible only if requirements, architecture, testing, and review become explicit enough for agents to carry implementation.
-- An AI-native organization can become a company-level growth driver when internal context, AI use, and feedback loops make coordination faster than a traditional organization.
+- Harnesses make delegated work inspectable through task state, tests, permissions, and human review.
+- Faster implementation shifts the constraint toward product choice, market narrative, quality and deployment judgment.
+- Multi-agent teams need task ownership, shared memory, identity and context boundaries rather than merely more parallel calls.
+- Internal context can compound collaboration benefits, but token expense, security, and legacy constraints bound the small-team thesis.
 
-## Connections
-- [[AIOrganizationDesign]] - broader organization-design field this concept specializes.
-- [[HarnessEngineering]] and [[AgentHarness]] - technical system that makes AI-first work operational.
-- [[HumanJudgmentUnderAI]] - human responsibility after AI takes over more execution.
-- [[HumanAgentCollaboration]], [[AICoworkers]], and [[DigitalEmployees]] - adjacent metaphors for human-agent work.
-- [[AgentPermissionBoundaries]] and [[EnterpriseAgentGovernance]] - governance needed before an organization can trust agents with broad data or actions.
-- [[OrganizationalContext]], [[AgentFacingInterfaces]], and [[GeneratedWorkInterfaces]] - information and interface substrate needed for agents to coordinate work.
-- [[Sheet0]], [[WangWenfeng]], [[AIManagingAI]], and [[AIInferenceCostStructure]] — high-token small-team case added by the 42章经 source.
-- [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], and [[AgentOrganizationalCulture]] — many-agent operating case added by the RC episode.
-- [[Albert]], [[CodingDemocratization]], and [[TheoreticalOperatingStandard]] — zero-human-code and operating-standard branch added by the Albert episode.
-- [[WangTianfan]], [[AIForAI]], [[AIDataFlywheel]], and [[AINativeInvestingWorkflow]] — investment framing of AI-first organizations as a growth driver.
+## Evidence
+- **From tool use to accountable production.** [[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] describes [[Creo]]'s [[HarnessEngineering]] around sandboxing, latency, CI/CD, bug triage, Playwright tests and fallback; [[ChenKaiCreo]] distinguishes rebuilt workflows from ordinary adoption. Its roughly 25 employees, 99% AI-written code and one-day idea-to-A/B loop are company self-reports, not a population benchmark. Architecture, security, ethics and [[HumanJudgmentUnderAI]] remain human review gates; [[AgentHarness]] is the mechanism, not an autonomous company.
+- **Small-team execution and its new bottleneck.** [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] says [[WangWenfeng]]'s seven-person [[Sheet0]] uses [[AIManagingAI]] to turn tasks into code, tests, screenshots and PRs before product-owner review, spending about $20,000 on coding tokens in the preceding month. Output speed moved his bottleneck from months of implementation toward weeks of product definition. [[youhua-shenglv-erfei-peilv-ba-yi-jian-shi-zuodao-lilun-shang-gaiyou-de-yangzi-duitan-lianxu-chuangyezhe-albert-lu0vamaawctwva3qblnsf99esar2]] describes [[Albert]]'s zero-human-code project as a requirement, architecture and review discipline under [[TheoreticalOperatingStandard]], not zero human labor; [[AICodingVerification]] determines whether token spending substitutes for useful execution.
+- **Agent workforce coordination.** [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] says seven people at [[SlockAI]] work with about forty agents; [[RC]] identifies [[AgentDynamics]], [[AgentTaskClaiming]], memory, channel summaries, model-specific roles and agent identity as solutions to duplicated tasks and disconnected findings. [[AICoworkers]] and [[DigitalEmployees]] are metaphors only where ownership and permission boundaries can be made operational.
+- **Organizational context as a prospective asset.** [[reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk]] attributes to [[WangTianfan]] the investment thesis that [[OrganizationalContext]], [[AIDataFlywheel]], and [[AIForAI]] could reduce coordination friction and become growth drivers. This does not establish that every incumbent can or should move at startup speed; [[AINativeInvestingWorkflow]] is his investor framing, not a measured organizational outcome.
+
+## Counterevidence & Qualifications
+- Creo, Sheet0, Slock and Albert are founder-reported, heterogeneous experiments; their headcounts and code percentages do not imply broad labor replacement. In regulated or legacy firms, [[AgentPermissionBoundaries]] and [[EnterpriseAgentGovernance]] may dominate the timetable.
+- [[ContextEngineering]] and [[AgentFacingInterfaces]] can make instructions legible, but decisions about value, customer need and responsibility remain human; [[GeneratedWorkInterfaces]] and [[HumanAgentCollaboration]] do not automatically resolve trust. Creo's guests argue that product, engineering, design and marketing roles can blur and reward generalists with architecture, product taste and market judgment; this is their organizational prediction, not evidence that specialist work has disappeared.
+
+## What Changed
+- Distinguishes a feedback-controlled operating loop from generic AI-tool adoption.
+- Adds task-claiming and organizational memory as separate constraints from coding throughput.
+
+## Related Concepts
+- [[AIOrganizationDesign]] - broader redesign of roles and handoffs within which AI-first operations are one approach.
+- [[AgentHarness]] - the execution and feedback substrate required by the operating model.
+- [[AgentOrganizationalCulture]] - norms and identity cues needed when many agents share work.
+- [[CodingDemocratization]] - widens who can initiate builds, without eliminating review.
+- [[AIInferenceCostStructure]] - token budgets limit when agent-heavy staffing substitutes for hiring.
