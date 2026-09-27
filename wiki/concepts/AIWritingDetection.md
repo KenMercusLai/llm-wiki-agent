@@ -2,45 +2,50 @@
 title: "AI Writing Detection"
 type: concept
 tags: [ai, writing, detection, editing]
-sources: [ep-9-chatgpt-and-education-systems, tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128, tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]
+knowledge_schema: synthesis-v1
+sources:
+  - ep-9-chatgpt-and-education-systems
+  - tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128
+  - tech-20260814-tech-pod-128-tech-20260814-tech-pod-128
+  - tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128
+  - taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7
 last_updated: 2026-08-24
 ---
 
 # AI Writing Detection
 
-[[ep-9-chatgpt-and-education-systems]] adds an early school-response example. [[JosephStrader]] mentions a Princeton student's "Chat Zero" detector as a way to check whether text came from [[ChatGPT]], but the episode's broader frame treats detection as only one part of [[AIAcademicIntegrity]].
+## Definition
+AI writing detection evaluates whether prose may involve a model through statistical classifiers, stylistic comparison, provenance signals and editorial inquiry; none alone establishes a person's authorship or intent.
 
-[[tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128]] adds the named [[NegativeParallelism]] branch through [[WillOremus]] of [[TheAtlantic|The Atlantic]]. The episode treats "not X, but Y" writing as a useful AI tell because [[Pangram]] found it much more often in AI-generated prose, while still warning that the pattern has ordinary human and literary history.
-
-[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds the watermarking version through [[Anthropic]] and [[Claude]]. Instead of inferring authorship from style or detector scores, [[AITextWatermarking]] embeds a signal in generated or copied text. The source still keeps detection uncertain in practice because human writing edited through Claude may receive a watermark.
-
-AI writing detection is the attempt to identify machine-generated prose through detectors, stylistic traces, source comparison, or editorial judgment. [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds the concept through [[CaitlinTalbot]]'s segment on why AI writing is becoming harder to identify.
-
-The source distinguishes detector scores from writing analysis. Tools such as [[Pangram]] can produce false positives and give little explanation, while The Economist's comparison of human and model-generated prose looks for patterns across word choice, punctuation, sentence structure, and formulaic rhetoric.
-
-[[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] adds the platform-integrated detector version through [[Substack]]. [[ChrisBest]] says Substack's [[Pangram]]-powered feature gives users an estimate of human versus AI-written text and lets users report mistakes or remove clearly wrong detections.
-
-The source also adds a behavior risk. Public detector scores can push writers to revise for the detector rather than for readers, so detection can distort writing norms even when its goal is transparency.
+## Current Synthesis
+Platform detector scores and model-side watermarks offer different evidence. Repeated style patterns raise suspicion but are shared by human writers; disclosure, correction and fair review matter more than a binary label.
 
 ## Key Claims
-- Detection is a moving target because models are trained on human writing and improved by human feedback.
-- EP9 shows that detector hopes appeared immediately in school contexts, but the integrity problem also required teacher literacy and assignment redesign.
-- A detector result should be treated as a signal for review, not as standalone proof of authorship.
-- Platform-integrated detectors can make AI authorship more legible to readers, but they also create product responsibilities around false positives, appeals, and correction.
-- Detector visibility can change writer incentives if authors start optimizing to avoid being publicly labeled as AI-generated.
-- The Economist's comparison found AI prose using more polysyllabic, rare, or scientific-sounding words.
-- AI prose in the source tends to use less varied punctuation and more long sentences joined by "and."
-- Repeated rhetorical shapes such as "not X but Y," "not only but also," and rules of three can make generated prose feel formulaic.
-- Named tics such as [[NegativeParallelism]] can support media literacy, but they cannot prove authorship because people can use, parody, or absorb the same style.
-- Heavy AI use may blur authorship signals if human writers begin adopting recognizable AI constructions.
-- The strongest practical response is not only better detection; it is better editing, audience awareness, detail, and distinctive style.
-- Watermarks can identify model involvement more directly than style detectors, but they cannot by themselves distinguish AI authorship from AI-assisted editing.
+- Classifier output and recognizable stylistic tics are review signals, not standalone proof of AI authorship.
+- Watermarking can indicate model involvement but cannot decide how much a human authored or edited.
+- Public detection can create false-positive harms and perverse incentives to write for a detector.
+- Education and publishing need task-specific integrity and disclosure standards rather than universal bans.
 
-## Connections
-- [[CaitlinTalbot]], [[Pangram]], [[ChatGPT]], [[Claude]], [[Gemini]], and [[Grok]] - source speaker, detector, and model examples.
-- [[WillOremus]], [[TheAtlantic|The Atlantic]], and [[NegativeParallelism]] - Marketplace Tech branch on AI-writing tics.
-- [[JosephStrader]], [[AIAcademicIntegrity]], and [[TeacherAILiteracy]] - school-detection context added by Data Science With Sam EP9.
-- [[Substack]] and [[ChrisBest]] - publishing-platform detector and disclosure case.
-- [[AIWritingPedagogy]] and [[AIDetectorBias]] - education-policy and fairness context.
-- [[HumanAuthorshipPremium]], [[HumanJudgmentUnderAI]], and [[AIContentProvenance]] - adjacent trust and authorship concepts.
-- [[AITextWatermarking]], [[Anthropic]], [[Claude]], and [[EuropeanUnionAIAct]] - model-side detection branch added by Marketplace Tech.
+## Evidence
+- **Style and statistical comparison.** [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] reports [[CaitlinTalbot]]'s discussion of [[Pangram]] and an Economist comparison finding longer, rarer or scientific-sounding words, less varied punctuation, long “and”-linked sentences, rules of three and formulae such as “not X, but Y.” [[tech-20260824-mp-tech-pod-128-tech-20260824-mp-tech-pod-128]] has [[WillOremus]] of [[TheAtlantic|The Atlantic]] identify [[NegativeParallelism]] as about three times as frequent in Pangram's AI prose sample, yet [[WilliamShakespeare|Shakespeare]]'s [[JuliusCaesarPlay|Julius Caesar]] demonstrates its human pedigree; “delve,” disclaimers and em dashes are likewise fallible tells. Synthetic feedback could amplify model tics, and frequent users may absorb them too.
+- **Platform signals and appeal.** [[tech-20260810-0810-mp-tech-pod-128-tech-20260810-0810-mp-tech-pod-128]] describes [[Substack]]'s [[Pangram]]-powered website/iOS estimate and its “how I make this” author statement. [[ChrisBest]] frames it as reader transparency, not an AI ban; users can report errors and remove clearly wrong detections. The Derek Thompson example warns that public scores can encourage detector-optimized prose instead of writing for readers. False accusations of a human writer are especially costly.
+- **Model signals and school use.** [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] reports [[Anthropic]] adding invisible [[Claude]] text watermark signals through copy/paste metadata and encoded output patterns, partly framed around [[EuropeanUnionAIAct]] compliance. Editing a human draft through Claude can still mark it: a signal of processing does not assign credit or prove cheating. [[ep-9-chatgpt-and-education-systems]] recalls [[JosephStrader]]'s early school discussion of a Princeton student's “Chat Zero” response to [[ChatGPT]], while arguing that [[AIAcademicIntegrity]] also requires [[TeacherAILiteracy]] and assignment design.
+
+## Counterevidence & Qualifications
+- Pangram comparisons are sample-dependent and cannot identify a particular writer with certainty; pattern frequency is not a universal base rate. Watermark availability varies by model, copy route and editing history, and the source's legal framing is time-specific. Some writing is legitimately AI-assisted; stylistic convergence complicates both human and machine detection.
+
+## What Changed
+- Consolidated style tests, public detector estimates and model-origin signals into different evidentiary classes.
+- Made false positives, mixed authorship and appeals explicit.
+
+## Related Concepts
+- [[NegativeParallelism]] - a recognizable but non-exclusive rhetorical clue.
+- [[AITextWatermarking]] - model-side signals have different failure modes from style inference.
+- [[AIDetectorBias]] - false positive rates can distribute harm unevenly.
+- [[AIContentProvenance]] - disclosure and origin records complement detector estimates.
+- [[AIAcademicIntegrity]] - school rules must decide acceptable assistance before sanctions.
+- [[HumanAuthorshipPremium]] - readers' expectation of a human viewpoint motivates transparency.
+- [[AIWritingPedagogy]] - assignment and editing design reduce reliance on binary detection.
+- [[HumanJudgmentUnderAI]] - editors must evaluate provenance signals and context before accusing a writer.
+- [[Gemini]] - one of the model outputs compared in the Economist writing-style discussion, not a reliable authorship fingerprint.
+- [[Grok]] - another model in that stylistic comparison; its text cannot be identified by a single rhetorical tic.
