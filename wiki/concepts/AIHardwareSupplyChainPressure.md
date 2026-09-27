@@ -2,77 +2,63 @@
 title: "AI Hardware Supply Chain Pressure"
 type: concept
 tags: [ai, semiconductors, supply-chain, infrastructure]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128, fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677, tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources:
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128
+  - fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677
+  - tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128
+  - tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128
+  - tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128
+  - e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b
+  - tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128
+  - tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128
+  - tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci
+  - e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149
+  - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
+
 # AI Hardware Supply Chain Pressure
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a handset-margin signal through [[Xiaomi]]. The source says AI data-center demand is squeezing traditional memory capacity and raising storage prices, which can hurt phone makers that sell across broad price bands. This reinforces the idea that AI infrastructure demand can show up as ordinary consumer-electronics margin pressure, not only cloud capex pressure.
+## Definition
+AI hardware supply-chain pressure is the redistribution of manufacturing, memory, storage, networking and delivery capacity toward AI infrastructure, with effects on deployment and adjacent consumer markets.
 
-[[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] adds a downstream substitution case. The episode says PC vendors are testing [[ChangXinMemory|ChangXin Memory]] DRAM in limited low-end laptops as global memory tightness and AI demand make supply relationships more valuable, while established suppliers [[Samsung]], [[SKHynix|SK Hynix]], and [[MicronTechnology|Micron]] still dominate the market.
-
-[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds a market-structure layer to the hardware-pressure branch. The episode links AI training and inference demand to [[SKHynix|SK Hynix]], [[Samsung]], and [[ChangXinMemory|CXMT / ChangXin Memory]], while also showing that investor confidence depends on whether memory suppliers avoid the overbuild pattern embedded in [[StorageIndustryCyclicality]].
-
-[[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] adds the Apple-device pricing version. The [[MarketplaceTech]] source says expected iPhone price increases are connected to a global memory shortage, with memory manufacturers diverting resources toward AI data centers; that makes [[AppleDeviceLeasing]] partly a financing response to component inflation.
-
-AI hardware supply chain pressure is the pattern where AI data-center demand for chips, memory, storage, power, and facilities redirects supply, pricing, and product priorities across adjacent markets. [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds the memory version of this pattern through [[MicronTechnology]], [[HighBandwidthMemory]], [[SKHynix]], and [[Samsung]].
-
-[[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds the consumer-PC allocation layer. [[TomMinelli]] of [[IDC]] says AI data centers have created a major new memory demand source, making large PC vendors better positioned than smaller vendors while consumers face higher prices, longer waits, or lower-spec tradeoffs.
-
-[[tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]] extends the concept from AI memory suppliers into [[MemoryChipShortage]], hard-drive availability, and preservation work. [[IDC]] is cited on data-center demand driving prices and shortage conditions, while [[WesternDigital]] is used as evidence that hard-drive supply can tighten enough to affect [[DigitalPreservation]] and [[PersonalDigitalArchiving]].
-
-The episode makes the consumer spillover visible. It says demand for AI memory and solid-state storage is putting pressure on consumer markets, with Micron exiting consumer drives and a Samsung drive described as rising from about $7 to $20 in recent months. That connects AI infrastructure buildout to ordinary PC builders and consumers, not only to cloud companies.
-
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds a deeper memory-allocation mechanism. The source argues that AI server buyers are less price-sensitive than phone and PC makers, so DRAM, HBM, NAND, packaging, and supply agreements can be redirected toward infrastructure customers even before ordinary users see better AI products.
-
-[[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds the accelerator-choice layer. [[ChristopherMiller]] frames [[GPU|GPUs]], [[TPU|TPUs]], and [[NeuralProcessingUnits]] as different points in [[AIChipSpecialization]], where speed, power consumption, flexibility, and software ecosystems shape which suppliers capture demand.
-
-[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds the manufacturing-stack version of the pressure. AI chips depend on [[ElectronicDesignAutomation|EDA]], [[PhotolithographyBottleneck|lithography]], materials, process equipment, cleanrooms, packaging, testing, HBM, power, and software ecosystems, so component pressure can surface as yield, cost, tool access, or capacity rather than only visible chip shortage.
-
-[[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds a near-term Nvidia roadmap stress test. The episode asks whether [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]] demand can be met when CoWoS-style [[AdvancedPackaging]], [[HighBandwidthMemory|HBM4/HBM4e]], interconnect, switches, supporting CPUs, memory, SSDs, and cooling equipment can all tighten together.
-
-[[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] adds the [[Google]] [[TPU]] version of the same pressure. [[HenryTPUEngineer|Henry]] says TPU scaling depends on [[HighBandwidthMemory]] from [[SKHynix]], [[Samsung]], and [[MicronTechnology]], CoWoS-style [[AdvancedPackaging]] at [[TSMC]], yield, pod-level consistency, and [[Broadcom]]'s connectivity work. This makes specialized-chip competition a supply-chain contest before it becomes a clean price/performance comparison.
-
-[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the Chinese supernode supply-chain layer. Domestic systems need not only accelerators, but also [[ScaleUpAIInterconnect|Scale Up interconnect]], switches, optical/copper links, power distribution, liquid cooling, and enough chip capacity to satisfy large model and cloud customers.
-
-[[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] adds a security and logistics layer through [[AIDataCenterCargoTheft]]. [[PareshDave]] says thieves are targeting not only chips and servers but also copper, liquid-cooling parts, network cabling, fiber optic cables, batteries, and crypto-mining machines connected to AI data-center construction. That makes supply-chain pressure partly a freight, paperwork, and port-control problem rather than only a manufacturing-capacity problem.
+## Current Synthesis
+The constraint is a layered system, not a single GPU shortage: HBM competes for capacity and packaging, memory hierarchies need different technologies, integrated racks require power and interconnect, and logistics may fail after equipment is manufactured. Consumer PC, phone and archive prices can respond to these allocations, but company earnings and specific price moves have multiple causes and are dated observations.
 
 ## Key Claims
-- AI demand can reprice components that consumers previously treated as ordinary PC or storage parts.
-- Supply-chain pressure can appear before end users see better AI products, because suppliers respond first to data-center demand.
-- The same AI boom can help semiconductor suppliers while worsening affordability or availability for consumer hardware buyers.
-- AI demand can also affect archive work when hard drives and storage media become scarce or expensive.
-- Supply pressure can push smaller organizations toward cloud dependence if hyperscalers absorb more of the available storage and processing capacity.
-- Hardware bottlenecks connect to [[AIComputeContinuity]] because model services depend on durable supplies of memory, accelerators, storage, power, and facility capacity.
-- Supply pressure is not only a memory problem; it also depends on whether workloads stay on general-purpose GPUs or move toward specialized chips such as TPUs and NPUs.
-- Supply pressure can become contractual when customers use [[MemoryCapacityLockIn]] to reserve future output through deposits, long agreements, or capex participation.
-- Workarounds such as [[CXLMemoryPooling]], [[HighBandwidthFlash]], and NAND+DPU prefetching reduce bottlenecks but add their own supply chains and thermal constraints.
-- Domestic replacement can increase pressure on older tools and process routes if advanced equipment access is limited, because extra process steps can reduce yield and raise cost.
-- AI hardware supply pressure can include data-center execution components such as switchgear, CPUs, cooling distribution units, and firmware-supported operations, not only accelerators or HBM.
-- Supply pressure can change competitive structure in consumer hardware when large vendors can secure allocations that smaller regional vendors and custom builders cannot.
-- Specialized-chip challengers face the same component pressure as GPU incumbents: HBM, packaging, yield, interconnect, and deployment consistency can decide whether a promising accelerator becomes available capacity.
-- Consumer-device makers can respond to AI-driven component inflation not only by raising prices but also by changing financing, leasing, and upgrade-cycle design.
-- Supernode supply pressure includes switching chips, interconnect protocols, liquid-cooling equipment, power modules, and large-system assembly, not only AI accelerator chips.
-- Memory tightness can create limited openings for alternative suppliers in entry-level products before those suppliers become broad replacements.
-- High-value AI infrastructure creates theft pressure during transport, so secure logistics can become a deployment constraint alongside manufacturing allocation and component availability.
-- Handset makers with wide price coverage can face margin pressure when AI buyers bid up memory and storage components.
+- Data-center memory demand can displace or reprice consumer DRAM, SSDs and HDDs, advantaging larger buyers.
+- HBM, packaging, interconnect and system consistency constrain accelerator deliveries even when individual chips exist.
+- Specialized GPUs, TPUs, NPUs and domestic supernodes trade flexibility against workload efficiency and require full software and manufacturing stacks.
+- Long supply contracts, investment cycles and alternative architectures may soften bottlenecks without eliminating cyclical overbuild risk.
+- Freight theft and component loss create a separate last-mile deployment risk.
 
-## Connections
-- [[HighBandwidthMemory]] - memory category that anchors the source.
-- [[MicronTechnology]], [[SKHynix]], and [[Samsung]] - suppliers named in the episode.
-- [[IDC]], [[WesternDigital]], and [[MemoryChipShortage]] - market and hard-drive availability branch added by the March 3, 2026 Marketplace Tech episode.
-- [[DigitalPreservation]] and [[PersonalDigitalArchiving]] - archival spillovers from AI-driven storage pressure.
-- [[Nvidia]] - AI accelerator context for memory intensity.
-- [[DataCenterDebtRisk]], [[AIEnergyBottleneck]], and [[DataCenterBacklash]] - adjacent infrastructure limits beyond component supply.
-- [[AIComputeContinuity]] - reliability frame that depends on available hardware.
-- [[GPU]], [[TPU]], [[NeuralProcessingUnits]], and [[AIChipSpecialization]] - accelerator-specialization branch added by Marketplace Tech.
-- [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], and [[MemoryCapacityLockIn]] - memory-cycle and architecture branch added by What's Next.
-- [[SemiconductorSupplyChain]], [[DomesticAIChipCatchUp]], [[ASML]], [[SMIC]], and [[AdvancedPackaging]] — semiconductor-chain pressure branch added by EP270.
-- [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[GMICloud]], [[GPUCloudOperations]], and [[DataCenterPowerBottleneck]] - E230's order-delivery and deployment-pressure branch.
-- [[TomMinelli]], [[AIPCMemoryDemand]], [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], and [[Apple]] - consumer PC allocation branch added by Marketplace Tech.
-- [[Google]], [[TPU]], [[Broadcom]], [[TPUPodSystemOptimization]], and [[IronwoodTPU]] - E228's TPU ramp and supply-chain branch.
-- [[Apple]], [[Klarna]], [[AppleDeviceLeasing]], and [[MemoryChipShortage]] - Apple hardware pricing and leasing branch added by Marketplace Tech.
-- [[ChangXinMemory]], [[HPInc]], [[Asus]], and [[Acer]] - limited PC DRAM adoption branch added by 声动早咖啡.
-- [[AIAcceleratorSupernode]], [[HuaweiCM384]], [[Sugon]], [[ZTE]], [[H3C]], and [[XizhiTechnology]] - supernode supply-chain branch added by S10E23.
-- [[AIDataCenterCargoTheft]], [[DataCenterPhysicalResilience]], [[AIExportControls]], and [[DataCenterThermalManagement]] - logistics-theft branch added by Marketplace Tech Bytes.
-- [[Xiaomi]] - consumer-device margin pressure branch added by 声动早咖啡.
+## Evidence
+- **Memory allocation and consumer spillover.** [[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] cites [[TomMinelli]] of [[IDC]] on [[HighBandwidthMemory]] demand, AI-PC RAM needs and large [[HPInc]], [[DellTechnologies]], [[Lenovo]] and [[Apple]] allocation advantages over small builders; his shortage-through-2026/possibly-2027 horizon is conditional. [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] reports [[MicronTechnology]]'s memory exposure, a cited GB200 192 GB versus roughly 16–20 GB consumer laptop comparison, and a Samsung drive's reported $7-to-$20 price move; these are source-dated examples. [[tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128]] relates Apple pricing and possible [[AppleDeviceLeasing]] to component inflation; [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] links [[Xiaomi]] phone margins to memory prices without attributing all revenue decline to AI. [[fuzhuang-pinpai-a-f-xunzhao-zhongguo-hezuo-huoban-fufei-tiqian-kan-telangpu-tiewen-fuwu-shangxian-1004810677]] reports limited low-end DRAM trials from [[ChangXinMemory]] at [[HPInc]], [[Asus]] and [[Acer]], not broad replacement of [[Samsung]], [[SKHynix]] and Micron.
+- **Hierarchy, contracts and archives.** [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] separates SRAM, [[HighBandwidthMemory]], DRAM, NAND and hard drives in the [[AIDataCenterMemoryHierarchy]]: long context/KV cache intensifies the [[MemoryWall]], while [[MemoryCapacityLockIn]] via deposits or volume commitments shifts who secures future output. [[CXLMemoryPooling]] and [[HighBandwidthFlash]] may help utilization but cannot simply replace HBM given heat, endurance and latency. [[tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]] has [[LindaTodich]] of [[DigitalBedrock]] describe HDD scarcity for [[DigitalPreservation]] and [[PersonalDigitalArchiving]], with a risk of hyperscaler dependence. [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] stresses [[StorageIndustryCyclicality]] despite current [[AIStorageSupercycle]] hopes; no perpetual shortage is established.
+- **Full-system delivery.** [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] tests [[JensenHuang]]'s at-least-$1-trillion orders-by-2027 statement against [[NvidiaBlackwellPlatform]]/[[NvidiaVeraRubinPlatform]] availability: [[AdvancedPackaging]], HBM4/HBM4e, switches, CPUs, cooling and [[GPUCloudOperations]] must all work together before orders become deployed capacity. [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] distinguishes tape-out and [[ElectronicDesignAutomation]] from [[PhotolithographyBottleneck]], yield and packaging; producing a chip is not the same as cheap, stable volume. [[e228-guge-tpu-neng-handong-yingweida-ma-qian-tpu-gongchengshi-shouci-jiemi-fd17090c-0d72-4c0d-aa3e-9b00bc062149]] says [[Google]] [[TPU]] pods require [[Broadcom]] links, [[TSMC]] CoWoS packaging, yield and HBM supply alongside [[TPUPodSystemOptimization]]. [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] describes [[HuaweiCM384]] supernodes and [[ScaleUpAIInterconnect]] as a possible response to per-chip gaps; power, liquid cooling, software and customer orders are still the test. [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] explains [[GPU]] flexibility versus workload-specific [[TPU]] or [[NeuralProcessingUnits]], so substitution is not one-to-one.
+- **Delivery after manufacture.** [[tech-20260821-mp-tech-pod-128-tech-20260821-mp-tech-pod-128]] reports [[PareshDave]]'s [[Wired]] account of stolen chips, servers, copper, fiber and cooling components, including suspected port diversion via false paperwork. [[AIDataCenterCargoTheft]] can interrupt installation, but the link from export controls to theft is an incentive hypothesis, not a demonstrated sole cause.
+
+## Counterevidence & Qualifications
+- [[MemoryChipShortage]] names the dated allocation effect, and [[AIPCMemoryDemand]] adds the simultaneous device-side RAM demand; neither proves all device inflation came from AI. [[WesternDigital]] appears in the archival HDD case, while [[Klarna]] belongs to the adjacent consumer-financing discussion of leasing rather than semiconductor production. [[MarketplaceTech]] aired several observations across different dates rather than a unified price series.
+- NAND-plus-DPU prefetching, CXL pooling and memory compression can move work across the hierarchy, but data movement, endurance, heat and packaging remain constraints. Long-term volume reservation need not fix price, and more efficient inference can increase aggregate memory demand rather than simply free capacity.
+- [[AIAcceleratorSupernode]] encompasses the [[HuaweiCM384]] systems case; named makers [[Sugon]], [[ZTE]], [[H3C]] and [[XizhiTechnology]] represent possible domestic supply-chain participants, not evidence that each independently solves the full stack. [[HenryTPUEngineer]] explains pod consistency and [[IronwoodTPU]] as a reported generation, not a blanket TPU substitute. [[GMICloud]] illustrates the operational bottleneck after card procurement; [[DataCenterPowerBottleneck]] still constrains usable racks.
+- The manufacturing chain in the EP270 explanation includes [[ASML]] equipment and [[SMIC]] fabrication as well as design tools; [[ChristopherMiller]] describes accelerator specialization in the Marketplace Tech comparison. Mentioning each actor does not imply their capacity or performance has been independently verified here.
+- Shortage, memory prices, investor confidence and [[StorageIndustryCyclicality]] change over time; no quoted component price is current guidance. Strong [[Nvidia]] orders are expectations, not proof of delivered revenue. The [[DomesticAIChipCatchUp]] case needs stable software, yield and buyer validation; higher aggregate supernode performance is not a full-stack victory.
+- [[AIComputeContinuity]] also needs energy and operations. [[DataCenterDebtRisk]], [[AIEnergyBottleneck]] and [[DataCenterBacklash]] are independent limits, not evidence of component shortage.
+
+## What Changed
+- Integrates consumer price effects, memory hierarchy, manufacturing, system assembly and freight as distinct transmission paths.
+- Separates alternative-chip promise from verified deployable capacity.
+
+## Related Concepts
+- [[SemiconductorSupplyChain]] - design, fabrication, packaging and testing stages behind system capacity.
+- [[AIChipSpecialization]] - workload-specific alternatives change which components face pressure.
+- [[DataCenterPhysicalResilience]] - secures equipment during transport and installation.
+- [[AIExportControls]] - can affect lawful chip routes and suspected diversion incentives.
+- [[DataCenterThermalManagement]] - cooling is a deployable rack constraint rather than an afterthought.
+- [[AIInfrastructureSupplyChainBullwhip]] - capital-intensive delayed expansion can overshoot as demand changes.
+- [[AIInfrastructureFullStackMoat]] - product advantages depend on assembling constrained layers together.
