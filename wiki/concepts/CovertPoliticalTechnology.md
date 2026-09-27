@@ -2,65 +2,53 @@
 title: "Covert Political Technology / 阴谋式政治技术"
 type: concept
 tags: [strategy, intelligence, statecraft, chu-han, ethics]
-sources: [zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9, zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym, zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo, zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]
+sources:
+  - zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9
+  - zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym
+  - zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv
+  - zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo
+  - zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-23
 ---
 
-# Covert Political Technology / 阴谋式政治技术
+## Definition
+Covert political technology is a ruler-backed use of concealed money, misinformation, social signals or trusted procedure to change another actor's incentives or expose them to coercion without a straightforward public contest.
 
-Covert political technology / 阴谋式政治技术 is the frame [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] uses to explain [[ChenPing|陈平]]'s uncomfortable intelligence. The episode says Chen Ping's "智谋" often appears as "阴谋": bribery, rumor, inducement, information gathering, and enemy-side division rather than upright remonstrance or open military command.
-
-The point is not simple condemnation. The host calls Chen Ping a dangerous, morally ambiguous operator, but also argues that this hidden work was effective in the Chu-Han field. Covert technique can destroy enemy cohesion and help a ruler see internal risks, while also making the actor hard to praise in the same moral language used for figures such as [[ZhangLiang|张良]].
-
-This concept is adjacent to [[MachiavellianRealism]] because it looks at power as it works, not as it describes itself. It differs from a general realism page by focusing on non-public operations: the political value comes precisely from actions that cannot be advertised as normal virtue.
-
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] adds the trust-and-budget side of the concept. [[LiuBang|刘邦]] gives Chen Ping large funds for enemy-side inducement and does not require detailed accounting, making covert technique a ruler-authorized instrument rather than only Chen Ping's private habit. The same source narrows the role through [[SecondInCommandRoleFit|二把手角色适配]]: hidden work can be valuable while still needing boundaries around independent authority.
-
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] adds the [[BaidengEncirclement|白登之围]] version. Chen Ping's reported solution to [[MaoDunChanyu|冒顿单于]]'s encirclement reaches the chanyu's favored woman, using her fear of displacement as the lever that changes the military situation. The concept therefore includes indirect household and status incentives, not only bribes, rumors, and enemy-camp division.
-
-[[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] gives that Baideng case more detail while narrowing what can be claimed. [[ChenPing|陈平]] approaches [[YanzhiXiongnuConsort|阏氏]] with gifts and an image of a Han beauty, turning possible replacement inside [[MaoDunChanyu|冒顿单于]]'s household into pressure for release. At the same time, the source says Chen Ping's full stratagem was secret and that Modu's final decision also depended on [[EncirclementReleaseCalculus|围困开口式风险权衡]], so covert leverage is a channel inside a broader strategic decision rather than the sole cause.
-
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] gives the concept its central Chu-Han battlefield case. With [[LiuBang|刘邦]] trapped at [[XingyangStandoff|荥阳]], [[ChenPing|陈平]] asks for tens of thousands in gold to send agents into Chu and separate [[XiangYu|项羽]] from [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]]. Liu Bang gives forty thousand gold without auditing the outflow, showing covert political technique as funded, deniable, ruler-sponsored counter-cohesion work.
-
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] adds the execution detail. Chen Ping uses ritual reception, food quality, and a staged correction of status to make Xiang Yu's own envoy transmit the damaging signal. The operation shows covert political technology as social theater backed by intelligence about [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], not only as bribery or anonymous rumor.
-
-[[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] adds Chen Ping's post-founding use of the same hidden-technique repertoire. Instead of rumor inside the enemy camp, the tool is a false imperial itinerary: a claimed tour to [[Yunmengze|云梦泽]] and vassal gathering at [[ChenCountyChuHan|陈县]] makes [[HanXin|韩信]] vulnerable without open battle. The episode therefore extends covert political technology from wartime counterintelligence into early imperial control of an overmighty contributor.
-
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] adds a Liu Bang-directed suppression case outside Chen Ping's immediate authorship. During [[ChenXiRebellion|陈豨之乱]], Liu Bang asks about [[ChenXi|陈豨]]'s major generals, learns that many come from merchant backgrounds, and sends heavy bribes to induce surrender. The concept therefore includes ruler-sponsored financial defection operations as a rebellion-breaking tool, not only Chen Ping's rumor and protocol manipulations.
-
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] extends the same repertoire in two directions. In the field, bounties for [[WangHuang|王黄]] and [[ManqiuChen|曼丘臣]] make their own men deliver them to Liu Bang. In the capital, [[LuZhi|吕雉]] and [[XiaoHe|萧何]] use false victory news and court congratulations to lure [[HanXin|韩信]] into [[ChanglePalace|长乐宫]], making protocol, trust, and misinformation part of the same hidden coercive toolkit.
-
-[[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] adds a Three Kingdoms-themed overview branch through [[JiaXu|贾诩]]. The episode's account of false information turning Ma Chao and [[HanSui|韩遂]] against each other is not treated as a fully verified campaign reconstruction here; it is useful as a source-scoped example of the same mechanism: covert technique changes the enemy's internal relation before direct force has to decide the issue. The source also pushes beyond this concept into [[DarkAdviserCraft|毒士灰度谋略]], where hidden information work is bundled with moral language, law-like action, and reputational risk management.
+## Current Synthesis
+The [[ChenPing|Chen Ping]] episodes separate a hidden operator's skill from the sponsor's resources and risk appetite. At Xingyang [[LiuBang|Liu Bang]] funded inducement and rumors against Xiang Yu's few trusted men; staged envoy hospitality made an internal split legible to Xiang Yu. After founding, a false imperial tour drew [[HanXin|Han Xin]] into arrest; later rebellion suppression used bribes and bounties against Chen Xi's lieutenants and court congratulations to lure Han Xin into the palace. Baideng is more uncertain: contact with the chanyu's consort may have mattered, but the full plan is unrecoverable and Modu had strategic reasons to release Liu Bang. Efficacy and moral legitimacy must be judged separately.
 
 ## Key Claims
-- Hanji 977 adds that false intelligence can be remembered as part of a wider "dark adviser" repertoire, but its dramatic Three Kingdoms examples should remain source-scoped until separately grounded.
-- Hanji 182 part 2 adds bounty-induced capture and false-victory court protocol as two linked covert techniques during one rebellion crisis.
-- Hanji 182 adds that covert political technology can target rebel subordinates' material incentives directly through bribery and defection.
-- Hanji 172 adds that covert technique can be routed through official protocol itself: an ordinary-looking itinerary and summons can carry the hidden coercive work.
-- Some political work is effective because it is hidden, deniable, or routed through rumor and inducement.
-- The same skills that protect a ruler or break an enemy can damage a figure's moral reputation.
-- Covert political technique is not identical to wisdom as public advice; it belongs to intelligence, surveillance, and counter-cohesion work.
-- Chen Ping's case keeps the wiki from treating political skill only as charisma, battlefield command, or principled counsel.
-- Covert work often requires a sponsor willing to tolerate ambiguity in spending, means, and reputation.
-- The usefulness of covert technique does not remove the need for role limits and political accountability.
-- Covert technique can operate through private status anxiety around a decision-maker when open force is unavailable.
-- Hanji 178 narrows the Baideng case: Chen Ping's Yanzhi channel matters, but the full hidden stratagem is unrecoverable and Modu's release also follows strategic risk calculation.
-- In the Xingyang case, covert technique turns reward dissatisfaction and ruler suspicion inside the enemy camp into a substitute for direct battlefield relief.
-- In the Fan Zeng case, covert technique can turn protocol and hospitality into an information weapon, especially when the operator understands the target camp's factional structure.
+- Covert work requires sponsorship and discretion, but opaque budgets and ambiguous roles make political accountability important.
+- Money and reward grievances can turn an enemy's reliable core or rebel officers against their leader before open battle settles the issue.
+- Social protocol can carry a hidden message: staged reception or a routine-looking summons can redirect trust into suspicion or detention.
+- Indirect access through a ruler's household can provide leverage, but should not be mistaken for the sole cause of a strategic decision.
+- A tactic useful against an enemy can be reused against one's own powerful contributors, making the technology politically and ethically double-edged.
+- Metaphorical “poison adviser” portraits are interpretive framing, not independently verified reconstructions of every alleged operation.
 
-## Connections
-- [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]], [[JiaXu|贾诩]], [[HanSui|韩遂]], and [[DarkAdviserCraft|毒士灰度谋略]] - source-scoped Three Kingdoms false-intelligence branch.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[WangHuang|王黄]], [[ManqiuChen|曼丘臣]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], [[HanXin|韩信]], and [[CelebratorySummonsEntrapment|报捷祝贺式诱捕]] - bounty capture and false-victory summons as hidden coercive technique.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[LiuBang|刘邦]], [[ChenXi|陈豨]], and [[ChenXiRebellion|陈豨之乱]] - bribery of rebel generals as coalition-breaking suppression.
-- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[LiuBang|刘邦]], [[HanXin|韩信]], and [[ChenCountyChuHan|陈县]] - false itinerary and summons as covert coercion.
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy protocol as faction-aware information weapon.
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[CounterintelligenceRumorWedge|反间流言楔入]], [[ZhongliMo|钟离眜]], and [[ZhouYin|周殷]] - funded rumor operation against Xiang Yu's trusted core.
-- [[ChenPing|陈平]] - source case.
-- [[LiuBang|刘邦]] and [[XiangYu|项羽]] - later beneficiary and earlier patron field.
-- [[ZhangLiang|张良]] - contrast figure whose strategy is often presented through clearer adviser craft.
-- [[VeteranMeritCliqueSupervision|功臣旧将监督]] - internal-use side of covert information work.
-- [[PoliticalSurvivalFirst|安全第一政治生存]] and [[SecondInCommandRoleFit|二把手角色适配]] - part 3 extensions around survival discipline and bounded authority.
-- [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]], [[YanzhiXiongnuConsort|阏氏]], [[BaidengEncirclement|白登之围]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - detailed but bounded Baideng household-status channel.
-- [[BaidengEncirclement|白登之围]], [[MaoDunChanyu|冒顿单于]], and [[Xiongnu|匈奴]] - part 4 frontier case for indirect relationship leverage.
-- [[TacticalDelayRiskTransfer|延时转责式政治化解]] - adjacent part 4 maneuver that solves danger through timing rather than open opposition.
-- [[MachiavellianRealism]], [[InformerSourceProtection|告密者来源保护]], and [[YinmouYangmouConversion|阴谋阳谋转换]] - adjacent frames for realism, information discipline, and hidden/open strategy conversion.
+## Evidence
+- Sponsorship and bounded role: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]] contrasts Chen Ping's “智谋多为阴谋” with open counsel: as an outsider to Liu Bang's old generals he could report on them, the concrete [[VeteranMeritCliqueSupervision|veteran-supervision]] use of an intelligence officer. [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]] compares his discretion and risk control with the different founding-minister value of [[ZhangLiang|Zhang Liang]], describes Liu Bang's funding without itemized accounts, and adds “智有余，然难以独任.” [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]] places the separate [[TacticalDelayRiskTransfer|delay-and-custody maneuver]] beside, not inside, his covert intelligence work: Chen Ping and Zhou Bo arrested Fan Kuai rather than executing Liu Bang's order immediately, retaining the ruler's final decision as circumstances changed. His low profile under Lu Zhi illustrates [[PoliticalSurvivalFirst|survival-first politics]], not proof that every survival tactic is covert intelligence.
+- Enemy cohesion: [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q]] places Liu Bang's forty-thousand-gold backing at the [[XingyangStandoff|Xingyang siege]] after the loss of Aocang and a rejected peace proposal. Agents spread the specific claim that under-rewarded [[ZhongliMo|Zhongli Mo]] and other Chu commanders would turn on Xiang Yu for kingships; [[LongJuChuGeneral|Long Ju]] and [[ZhouYin|Zhou Yin]] were named among Chen Ping's intended trusted-core targets, not documented defectors. [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo]] recounts the staged lavish-then-downgraded reception of [[XiangYu|Xiang Yu]]'s envoy as an insinuation about [[FanZeng|Fan Zeng]], who subsequently left and died on his return journey; [[XiangBo|Xiang Bo]] and Fan Zeng had already disagreed over sparing Liu Bang, an existing kin/old-Chu fault line rather than a split created from nothing.
+- Protocol and internal control: [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv]] attributes a fake tour to [[Yunmengze|Yunmeng]] and a gathering of vassals at [[ChenCountyChuHan|Chen County]] to Chen Ping's advice in the 201 BCE Han Xin arrest, after Zhongli Mo's suicide; refusing the summons would itself deepen suspicion. During the separate [[ChenXiRebellion|Chen Xi rebellion]], [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9]] records Liu Bang's bribes to [[ChenXi|Chen Xi]]'s merchant-background generals; [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]] adds bounties that induced the men of [[WangHuang|Wang Huang]] and [[ManqiuChen|Manqiu Chen]] to deliver them. In the capital [[LuZhi|Lu Zhi]] and [[XiaoHe|Xiao He]] announced false victory news and invoked Xiao He's old trust with Han Xin to draw him into [[ChanglePalace|Changle Palace]] for arrest; this is not the earlier Yunmeng trap nor an operation attributed to Chen Ping.
+- Household channel and limit: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]] sketches Chen Ping's [[BaidengEncirclement|Baideng encirclement]] strategy against the [[Xiongnu|Xiongnu]] army, while [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym]] describes gifts and an image of a Han beauty offered to [[YanzhiXiongnuConsort|Modu's consort]] to raise her fear of replacement. The secret method is unrecoverable; [[MaoDunChanyu|Modu]] also weighed the non-arrival of Wang Huang and Zhao Li, approaching Han reinforcements and the cost of ruling Han territory. Consort influence is a possible channel, not the sole explanation for release.
+- Broader but weaker analogy: [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee]] sketches [[JiaXu|Jia Xu]]'s false-intelligence reputation within [[DarkAdviserCraft|the morally ambiguous adviser repertoire]], not a fully reconstructed operation or a source for specific Ma Chao–Han Sui campaign details.
+
+## Counterevidence & Qualifications
+All ten notes belong to the same interpretive history-series cluster, not independent corroboration. [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo]] acknowledges skepticism about the envoy feast; [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q]] alone omits the intermediate Fan Zeng sequence. [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym]] rejects consort persuasion as a sole explanation for Baideng. Han Xin's alleged later conspiracy appears as an episode accusation and should not be upgraded to independently established motive. Bribing rebel subordinates, offering bounties and deceiving a courtier are related but not identical acts; Chen Ping did not personally conduct every one. [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee]]'s Jia Xu material is a thematic overview, not verified campaign evidence.
+
+## What Changed
+- Distinguished sponsorship, coalition fracture, protocol traps and household persuasion within the hidden-work repertoire.
+- Replaced the simple Baideng rescue story with an uncertain, multi-cause account.
+
+## Related Concepts
+- [[CounterintelligenceRumorWedge]] - targeted rumor mechanism at Xingyang.
+- [[XiangCampFactionalCleavage]] - pre-existing split exploited by envoy theater.
+- [[RitualTourSummonsEntrapment]] - Yunmeng travel pretext used against Han Xin.
+- [[CelebratorySummonsEntrapment]] - false court celebration that drew Han Xin into Changle Palace.
+- [[EncirclementReleaseCalculus]] - Modu's independent strategic reasons for opening Baideng.
+- [[SecondInCommandRoleFit]] - bounds the trust placed in a useful covert operator.
