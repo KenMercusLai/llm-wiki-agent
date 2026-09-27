@@ -2,27 +2,57 @@
 title: "Paramount"
 type: entity
 tags: [company, media, streaming, entertainment]
-sources: [zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+sources:
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128
 last_updated: 2026-08-16
+knowledge_schema: synthesis-v1
 ---
 
 # Paramount
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a theatrical-window bargaining update. The source says Paramount reportedly offered [[AMCTheatres|AMC]] and [[RegalCinemas|Regal]] a three-year agreement if it completed a [[WarnerBrosDiscovery|Warner Bros. Discovery]] acquisition, promising 30 theatrical releases per year, at least 45 days of theatrical exclusivity, and streaming availability only after 90 days.
+## Overview
+Paramount appears as a studio/distribution company in a changing ownership, streaming, theater-window and AI-rights environment; bids and conditional commitments are not completed transactions.
 
-Paramount appears in [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] as the [[DavidEllison]]-led bidder making a hostile offer for [[WarnerBrosDiscovery]] after [[Netflix]] had agreed to buy much of Warner Bros. Discovery's studio and streaming assets.
+## Current Profile
+Skydance’s relationship with Paramount moved from distribution to ownership in the cited account. Warner bids remain separate from the reported, conditional theater-release terms; studio objections to AI-video uses are a third issue involving copyright and labor rather than transaction completion.
 
-[[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds Paramount as part of the Hollywood copyright-objection context around [[ByteDance]] video generation. The source uses Paramount with [[TheWaltDisneyCompany]] and [[MotionPictureAssociation]] to show that [[VideoModels]] are becoming an IP, likeness, and creative-labor issue for major studios, not only a creator-tool novelty.
+## Key Characteristics
+- Skydance/Paramount corporate alignment.
+- Theater release bargaining.
+- AI-video rights objections.
 
-In the wiki, Paramount is part of the [[StreamingConsolidation]] branch. The episode frames the bid through consumer experience: consolidation could reduce search and app management for subscribers, but fewer large players could also reduce competition.
+## Evidence
+- **发行伙伴到所有权、再到竞购：** [[Skydance]]先借Paramount发行成熟IP，《[[TopGunMaverick|壮志凌云2]]》为[[DavidEllison]]带来业内信誉；随后两家公司合并、David担任领导，[[LarryEllison]]的Oracle财富与担保被节目描述为重要资金背景。节目还将CBS和监管审批与[[MediaOwnershipIndependenceRisk|媒体独立性]]相连，但不能据此断定政治利益交换。2025年12月[[Netflix]]同意购买[[WarnerBrosDiscovery]]部分影业及流媒体资产时，David领导的Paramount提出敌意竞购；消费者可能少切换应用，也可能面临更少竞争，当时竞购不是已经完成的Warner收购。[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]]
+- **院线窗口附条件承诺：** 报道称Paramount仅在完成对[[WarnerBrosDiscovery]]收购的条件下，向[[AMCTheatres]]和[[RegalCinemas]]提出三年协议：每年30部院线片、至少45天院线独占、90天后才可上流媒体。这是与院线的[[TheatricalWindowBargaining|窗口期议价]]方案，不是已履行的发行纪录。[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]]
+- **生成视频与版权：** 在[[ByteDance]]视频生成讨论中，Paramount与[[TheWaltDisneyCompany]]、[[MotionPictureAssociation]]被列为好莱坞权利方对IP、肖像与创作劳动使用提出异议的背景；这是[[VideoModels|视频模型]]的版权争议，不证明其Warner竞购或院线承诺已有结果。[[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]]
 
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the [[Skydance]] merger and political-regulatory layer. The episode says [[DavidEllison]]'s company first used Paramount as a distribution partner, then moved to acquire and combine with it, giving Ellison formal leadership while [[LarryEllison]] retained major economic influence. The source also treats the Paramount approval process, CBS settlement context, and later [[WarnerBrosDiscovery]] bid as a [[MediaOwnershipIndependenceRisk]] case.
+## Qualifications
+- The 2025 hostile bid, later ownership account and 2026 theater offer reflect different dated reports. Warner acquisition and theatrical commitments remain conditional; political-access causation is an episode interpretation, not proof of an exchange.
 
-## Connections
+## What Changed
+- Skydance ownership, Warner bidding, and proposed theater windows are separated by actor and transaction stage.
+- AI-video copyright objections form a distinct studio-rights issue rather than proof of a merger outcome.
+
+## Relationships
 - [[DavidEllison]] - leader named in the source.
-- [[WarnerBrosDiscovery]] and [[Netflix]] - target and rival bidder.
-- [[StreamingConsolidation]] and [[SubscriptionFatigue]] - deal and consumer-friction concepts.
+- [[WarnerBrosDiscovery]] - target and rival bidder.
+- [[Netflix]] - target and rival bidder.
+- [[StreamingConsolidation]] - deal and consumer-friction concepts.
+- [[SubscriptionFatigue]] - deal and consumer-friction concepts.
 - [[VerticalMediaDistribution]] - adjacent media-control concept.
-- [[Skydance]], [[LarryEllison]], [[CBS]], [[FederalCommunicationsCommission]], and [[MediaOwnershipIndependenceRisk]] - ownership and approval branch added by 商业就是这样.
-- [[ByteDance]], [[TheWaltDisneyCompany]], [[MotionPictureAssociation]], [[VideoModels]], and [[CreativeLaborAIBacklash]] - AI-video rights-conflict branch added by E234.
-- [[AMCTheatres]], [[RegalCinemas]], [[TheatricalWindowBargaining]], and [[StreamingConsolidation]] - theater-release commitment branch added by 声动早咖啡.
+- [[Skydance]] - investor, property or regulator in the Skydance-Paramount ownership account.
+- [[LarryEllison]] - investor, property or regulator in the Skydance-Paramount ownership account.
+- [[CBS]] - investor, property or regulator in the Skydance-Paramount ownership account.
+- [[FederalCommunicationsCommission]] - investor, property or regulator in the Skydance-Paramount ownership account.
+- [[MediaOwnershipIndependenceRisk]] - investor, property or regulator in the Skydance-Paramount ownership account.
+- [[ByteDance]] - actor or issue in Hollywood generative-video rights objections.
+- [[TheWaltDisneyCompany]] - actor or issue in Hollywood generative-video rights objections.
+- [[MotionPictureAssociation]] - actor or issue in Hollywood generative-video rights objections.
+- [[VideoModels]] - actor or issue in Hollywood generative-video rights objections.
+- [[CreativeLaborAIBacklash]] - actor or issue in Hollywood generative-video rights objections.
+- [[AMCTheatres]] - theater counterpart or conditional release-window mechanism.
+- [[RegalCinemas]] - theater counterpart or conditional release-window mechanism.
+- [[TheatricalWindowBargaining]] - theater counterpart or conditional release-window mechanism.
