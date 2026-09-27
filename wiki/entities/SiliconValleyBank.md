@@ -2,30 +2,46 @@
 title: "Silicon Valley Bank"
 type: entity
 tags: [company, banking, startups, fintech]
-sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarsseason2-dimitri-final, socialradarspod-brianarmstrong-final]
+sources:
+  - tsr-s5-ronconway-v5-tsr-s5-ronconway-v5
+  - tsr-s4-gusto-v3-tsr-s4-gusto-v3
+  - tsr-s4-ericm-v2-tsr-s4-ericm-v2
+  - socialradarsseason2-dimitri-final
+  - socialradarspod-brianarmstrong-final
+knowledge_schema: synthesis-v1
 last_updated: 2026-07-25
 ---
 
 # Silicon Valley Bank
 
-Silicon Valley Bank appears in [[socialradarspod-brianarmstrong-final]] as the bank [[BrianArmstrong]] approached when [[Coinbase]] wanted to add bank transfers. The call exposed Armstrong's lack of knowledge about [[AntiMoneyLaundering]] at the time and made clear that a crypto startup needed compliance policy before it could deliver the user-facing buy feature.
+## Overview
+Silicon Valley Bank（SVB）在受访者回忆中既是创业公司银行业务及风险债提供者，也是2023年3月挤兑危机的中心。其倒闭对支付与工资发放的影响，不能简化为投资者获救。
 
-The source uses the bank less as a full institutional history and more as a forcing function. Coinbase's product depended on banking access, and banking access depended on credible [[BankingKYCCompliance]] and [[RegulatedCryptoTrustStrategy]].
+## Current Profile
+Coinbase的接入谈判展示受监管支付入口的合规门槛；Modern Treasury的合作及危机应对展示多银行安排；Pebble的债务则揭示融资约束。Gusto和Ron Conway分别提供工资连续性与存款担保周末的参与者视角。
 
-[[socialradarsseason2-dimitri-final]] adds a second Silicon Valley Bank role through [[ModernTreasury]]. First, SVB was an obvious early bank partner because many [[YCombinator]] startups used it, and its willingness to work with Modern Treasury helped a young company earn customer trust. Later, the March shutdown made SVB the crisis case for [[FinancialOperationsResilience]]: customers with only one bank relationship faced urgent payment, payroll, and reporting risk, while customers with multi-bank setups already connected to Modern Treasury had more options.
+## Key Characteristics
+- 创业生态银行接口可迫使企业补齐反洗钱和客户识别机制。
+- 早期银行合作能帮助金融软件建立信任，但单一银行依赖也造成运营风险。
+- 风险债不是无约束营运资金；贷款条款会限制硬件公司的现金灵活性。
+- 2023年利率及资产期限风险遇上高速提款，银行危机外溢到薪资和支付，并促成存款担保争论。
 
-The Dadiomov source also reframes SVB through [[AcceleratedBankRuns]]. The episode argues that texts, social media, mobile apps, and online transfers shortened the bank-run feedback loop, making backup banking less theoretical and more like operational disaster recovery.
+## Evidence
+- **合规入口：** [[BrianArmstrong]]回忆[[Coinbase]]为实现银行转账与买币功能联系SVB，才认识到[[AntiMoneyLaundering]]及[[BankingKYCCompliance]]是接入前提；这属于[[RegulatedCryptoTrustStrategy]]而非仅靠一个“购买”按钮。[[socialradarspod-brianarmstrong-final]]
+- **合作与备用通道：** [[DimitriDadiomov]]说SVB因服务大量[[YCombinator]]公司成为[[ModernTreasury]]早期合作银行，有助于[[TrustHeavyInfrastructureSales]]；2023年倒闭时，该公司检查ACH、电汇和报表，并帮助已有多银行接入者安排备用流量。[[SignatureBank]]亦进入接管，说明[[FinancialOperationsResilience]]与[[AcceleratedBankRuns]]的风险不止一家银行。[[socialradarsseason2-dimitri-final]]
+- **风险债约束：** [[EricMigicovsky]]称[[Pebble]]从SVB借约2000万美元风险债以支付薪资、运营；2016年前后的库存与经营压力下，贷款契约和现金余额要求降低灵活度。这是[[VentureDebtOperationalRisk]]、[[HardwareInventoryRisk]]和[[StartupRunwayDiscipline]]的受访者反省，不把经营失败全归于债务。[[tsr-s4-ericm-v2-tsr-s4-ericm-v2]]
+- **工资外溢：** [[Gusto]]创始人称近1万家Gusto客户公司在SVB开户，危机时员工工资承压；Gusto动用自身资本维持支付，属[[PayrollInfrastructureTrust]]与[[CrisisStakeholderLeadership]]案例，不能由此推论所有客户资金都获公司承担。[[JoshReeves]]是受访创始人之一。[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]]
+- **利率、挤兑与担保：** [[RonConway]]忆述SVB持有低利率时期国债与抵押贷款证券，升息后因对利率风险对冲不足而贬值；2023年3月8日披露约18亿美元损失及筹资方案，据其说约八小时流出420亿美元。手机转账与创投网络压缩挤兑时程，风险波及创业公司及当地小企业，而非只有投资基金。Conway与[[SVAngel]]通过[[WallyAdeyemo]]、[[GrahamSteele]]向[[USTreasury]]争取“guarantee deposits”；[[NancyPelosi]]、[[BarackObama]]讨论道德风险与蔓延，[[YCombinator]]整理工资影响，[[FederalDepositInsuranceCorporation]]亦在寻求接管或买家。他担心[[FirstRepublicBank]]及其他银行受波及；[[SystemicRiskException]]下的[[DepositGuaranteeCrisisResponse]]须权衡[[MoralHazardContagionTradeoff]]。[[CivicRelationshipsAsCrisisInfrastructure]]是参与者对多人协调的解释，并非将最终政策归功于一人。[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]]
 
-[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds a payroll-continuity role through [[Gusto]]. The source says almost 10,000 Gusto customer companies banked with SVB during the March 2023 crisis, leaving their employees' payroll at risk. Gusto's decision to put substantial capital at risk turns SVB into a [[PayrollInfrastructureTrust]] and [[CrisisStakeholderLeadership]] case as well as a bank-resilience case.
+## Qualifications
+- 利率、提款速度及谈判细节来自Conway的参与者访谈；未以监管原始档案独立核验。42 **billion** 美元提款不同于4.2 billion；18亿美元是损失披露，而不是提款额。
+- 存款保障针对存款人及支付连续性，并非保全银行股东或让贷款契约失效。多银行连接要预先配置、测试，不能在挤兑周末凭空建立。
 
-[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds [[RonConway]]'s participant chronology of the same weekend. Conway says SVB's Treasury and mortgage-backed-security exposure became dangerous after rate increases, that roughly $42 billion left the bank in about eight hours, and that the central policy question became whether to guarantee deposits before panic spread to [[FirstRepublicBank]] and global markets. The episode extends the page into [[DepositGuaranteeCrisisResponse]], [[MoralHazardContagionTradeoff]], [[SystemicRiskException]], and [[CivicRelationshipsAsCrisisInfrastructure]].
+## What Changed
+- 从银行接入的单一故事扩展为合规、合作、风险债、工资外溢与担保危机的分组画像。
 
-[[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds a pre-bank-run venture-debt role through [[Pebble]]. [[EricMigicovsky]] says Pebble took about $20 million in venture debt from Silicon Valley Bank and that using debt for salaries and operations was a mistake because covenants and cash-balance requirements reduced flexibility during the 2016 tailspin.
-
-## Connections
-- [[Coinbase]] and [[BrianArmstrong]] - product and founder context.
-- [[AntiMoneyLaundering]], [[BankingKYCCompliance]], and [[RegulatedCryptoTrustStrategy]] - compliance concepts surfaced by the bank-transfer episode.
-- [[ModernTreasury]], [[DimitriDadiomov]], [[SignatureBank]], [[FinancialOperationsResilience]], [[AcceleratedBankRuns]], and [[TrustHeavyInfrastructureSales]] - banking infrastructure and crisis-resilience branch added by the Dadiomov episode.
-- [[Gusto]], [[JoshReeves]], [[PayrollInfrastructureTrust]], and [[CrisisStakeholderLeadership]] - payroll-continuity branch added by the Gusto episode.
-- [[RonConway]], [[SVAngel]], [[FederalDepositInsuranceCorporation|FDIC]], [[USTreasury|U.S. Treasury]], [[FirstRepublicBank]], [[DepositGuaranteeCrisisResponse]], and [[MoralHazardContagionTradeoff]] - weekend deposit-guarantee branch added by the Season Five Conway episode.
-- [[Pebble]], [[EricMigicovsky]], [[VentureDebtOperationalRisk]], [[HardwareInventoryRisk]], and [[StartupRunwayDiscipline]] - venture-debt caution added by the Eric Migicovsky episode.
+## Relationships
+- [[Coinbase]] - 早期银行转账能力受SVB合规门槛影响。
+- [[ModernTreasury]] - 早期银行合作与倒闭后跨银行应对的参与者。
+- [[Gusto]] - SVB客户的工资支付连续性案例。
+- [[FinancialOperationsResilience]] - 单一银行集中风险要求预先准备备用支付渠道。
