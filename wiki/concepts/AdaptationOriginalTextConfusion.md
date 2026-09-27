@@ -2,41 +2,47 @@
 title: "Adaptation Original-Text Confusion"
 type: concept
 tags: [adaptation, literature, media, interpretation]
-sources: [122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources:
+  - 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172
+  - in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e
+  - 64-bawangbieji-fengmo-yu-chenghuo-656094350
+  - 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306
+  - 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182
 last_updated: 2026-07-24
+knowledge_schema: synthesis-v1
 ---
 
 # Adaptation Original-Text Confusion
 
-Adaptation original-text confusion is the pattern where a famous adaptation becomes so culturally dominant that readers or viewers mistake its character design, plot emphasis, or moral structure for the literary original. In [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]], [[MihuanChishu|蜜獾吃书]] uses the [[TheWaltDisneyCompany|Disney]] Little Mermaid debate as the case: some self-described "原著党" objections are read as loyalty to the 1989 animated Ariel rather than to [[HansChristianAndersen|安徒生]]'s [[TheLittleMermaid|《海的女儿》]].
+## Definition
+Confusion between an original text and the character, plot or moral structure made familiar by a prominent adaptation; it must be diagnosed case by case, not presumed of every remake.
 
-The concept is not a blanket defense of every adaptation choice. The episode allows aesthetic preference and criticism, but asks critics to separate personal taste, Disney's industrial family-film formula, actual Andersen textual details, and attacks on the actor. It also notes that Disney's 1989 version already transformed the story substantially by shifting a tale about freedom, pain, and immortal soul toward a safer romance plot.
-
-[[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] adds the [[AdventuresOfPinocchio|Pinocchio]] version of the same confusion. The episode says many listeners remember [[Pinocchio]] through [[TheWaltDisneyCompany|Disney]]: the long nose, whale, school lesson, and fairy reward. Returning to [[CarloCollodi|Collodi]]'s original reveals a harsher road story organized by hunger, hanging, prison, animal transformation, shark-belly darkness, and [[GrowthAsProtectorRole]].
-
-[[64-bawangbieji-fengmo-yu-chenghuo-656094350]] extends the adaptation branch through [[FarewellMyConcubine|《霸王别姬》]]. The episode compares the film's self-killing ending with the novel's later Hong Kong encounter, creating [[AdaptationEndingEthics]]: the question is not only whether an adaptation is accurate, but how a changed ending reshapes cruelty, romance, survival, and public memory.
-
-[[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds a Chinese television-memory case through [[JourneyToTheWest|《西游记》]]. The episode does not attack adaptation itself; it argues that the TV version can become so familiar that readers forget the original novel's stranger structure, authorship problems, religious images, monster genealogies, and [[AccretiveTextFormation|accretive formation]].
-
-[[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] adds a Homeric film case through [[ChristopherNolan]]'s [[TheOdyssey]]. The source is less about one dominant earlier adaptation and more about [[HomericAdaptationModernization]]: a new version can trigger arguments over casting, armor, language, psychology, and moral flattening because viewers are defending different objects at once: ancient epic, schoolbook memory, trailer imagery, modern identity politics, or a director's prestige style.
+## Current Synthesis
+Rereading separates text, translation, earlier screen memory and the new work. Fidelity debates also ask how changes alter ethical emphasis, not just which scene is retained.
 
 ## Key Claims
-- A popular adaptation can become the remembered "original" for later audiences.
-- Accuracy debates need to identify which source is being defended: the literary text, a translation, an earlier adaptation, or a character image.
-- Criticism of adaptation can be legitimate while still being weakened by poor source knowledge or personal attacks.
-- The more globally powerful an adaptation is, the more important [[ClassicReadingComplexity]] becomes.
-- A changed ending can become the dominant emotional memory of a work, making adaptation ethics a problem of effect as well as fidelity.
-- Long-running television familiarity can flatten a novel even when viewers love the work; affection and source knowledge are separate things.
-- A family-friendly adaptation can preserve a classic's cultural visibility while narrowing its remembered emotional range.
+- An adaptation can displace readers’ memory of a darker or more complex original.
+- Textual return changes the moral stakes, not merely the amount of plot detail.
+- Changes of ending and medium affect the audience’s ethical interpretation.
+- Disputes over modernization are adjacent but not necessarily evidence of a prior adaptation replacing the original.
 
-## Connections
-- [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] - central case.
-- [[AdventuresOfPinocchio|《木偶奇遇记》]], [[Pinocchio]], and [[CarloCollodi]] - episode 122's Disney-versus-original-text case.
-- [[TheWaltDisneyCompany]] - adaptation context.
-- [[HansChristianAndersen|安徒生 / Hans Christian Andersen]] - literary original context.
-- [[ClassicReadingComplexity]] - discipline for keeping text, memory, label, and adaptation separate.
-- [[AdultFairyTaleReading]] - rereading the original changes what adaptation arguments can responsibly claim.
-- [[FarewellMyConcubine|《霸王别姬》]] and [[AdaptationEndingEthics]] - episode 64's film/novel ending comparison.
-- [[JourneyToTheWest|《西游记》]], [[AccretiveTextFormation]], and [[ClassicReadingComplexity]] - episode 43's return from television memory to textual, religious, and folkloric layers.
-- [[EntertainmentIPFlywheel]] and [[IPOwnership]] - adjacent media concepts explaining why adapted characters can become dominant cultural memory.
-- [[TheOdyssey]], [[Homer]], [[Odysseus]], [[ChristopherNolan]], and [[HomericAdaptationModernization]] - later Homeric adaptation branch.
+## Evidence
+- In [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]], the [[MihuanChishu]] hosts contrast [[TheWaltDisneyCompany]]’s 1989 Ariel romance with [[HansChristianAndersen]]’s [[TheLittleMermaid]]: pain, lost voice, freedom, the human world and an immortal soul exceed the “恋爱脑” label. Their distinction between taste-based criticism, a claim of fidelity to Andersen and attacks on an actor is an attributed reading, not proof about every audience member. [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] contrasts familiar long nose, whale, school and fairy reward with [[CarloCollodi]]’s [[AdventuresOfPinocchio]], whose hunger, hanging, prison, animal changes and shark-belly rescue resist that simplified recollection.
+- [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] reads [[Pinocchio]]’s maturation through [[GrowthAsProtectorRole]]—he supports [[Geppetto]] and aids the fairy rather than simply obeying school rules; its mother-symbol and dream readings remain the host’s interpretations. [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] says familiarity with televised [[JourneyToTheWest]] need not imply knowledge of its layered novel, religious imagery, monster genealogies and [[AccretiveTextFormation]]; conjectures about authorship or hidden ciphers are not established history. [[ClassicReadingComplexity]] means returning to the respective text, not declaring screen enjoyment invalid.
+- [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] compares [[FarewellMyConcubine]]’s film suicide with the novel’s later Hong Kong meeting: [[AdaptationEndingEthics]] describes how romance, survival and cruelty are differently weighted. The episode reads the emotional consequence rather than proving one version inherently more moral.
+- [[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] reports [[CatherineNixie]] on [[ChristopherNolan]]’s [[TheOdyssey]]: armor, casting, psychology and the modernized [[Odysseus]] activate arguments over ancient epic, school memory and film prestige. [[HomericAdaptationModernization]] is a comparison about authenticity and modernization, not a demonstrated instance of one earlier screen adaptation being mistaken for [[Homer]]’s text.
+
+## Counterevidence & Qualifications
+Fidelity and aesthetic preference are different judgments. Disney’s visibility does not prove universal confusion; a television work may remain valuable despite masking features of a novel. Pinocchio’s psychological reading and Journey’s cipher/author theories are source-scoped, not settled textual history.
+
+## What Changed
+- Separates memory substitution (Disney, television) from ending ethics and the Odyssey modernization dispute.
+
+## Related Concepts
+- [[AdultFairyTaleReading]] - recovers darker Andersen and Collodi material beyond family-film recollections
+- [[TheLittleMermaid]] - provides the romance-versus-freedom-and-soul textual comparison
+- [[AdventuresOfPinocchio]] - provides a childhood-memory-versus-protector-role comparison
+- [[JourneyToTheWest]] - tests television familiarity against layered literary sources
+- [[FarewellMyConcubine]] - shows changed endings shifting an adaptation’s ethical effect
+- [[HomericAdaptationModernization]] - is a related authenticity debate without demonstrated memory substitution
+- [[TheWaltDisneyCompany]] - is the visible adaptation context in the Andersen and Collodi examples
