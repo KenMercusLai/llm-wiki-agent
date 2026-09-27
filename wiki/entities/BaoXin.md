@@ -2,40 +2,53 @@
 title: "鲍信 / Bao Xin"
 type: entity
 tags: [person, late-han, yanzhou, military, cao-cao]
-sources: [zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources:
+  - zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl
+  - zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1
+  - zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr
+  - zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo
+  - zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 鲍信 / Bao Xin
 
-[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] adds Bao Xin's first appearance in the He Jin crisis before his Hanji 947 warning to [[YuanShao|袁绍]]. [[HeJin|何进]] sends Bao Xin and [[WangKuangLateHan|王匡]] to raise troops as part of the outside-force pressure campaign against the [[TenAttendantsLateHan|十常侍]].
+## Overview
+鲍信 is portrayed in five late-Han history-podcast notes as a troop raiser, early critic of [[DongZhuo]], strategic backer of [[CaoCao]] and adviser in the [[YanzhouLateHan]] crisis. The episodes' praise for his timing and foresight remains their retrospective judgment.
 
-The source does not yet make Bao Xin an adviser; it makes him part of the mobilization that creates [[ExternalTroopInvitationRisk|外兵入京升级风险]]. This helps explain why his later warning against [[DongZhuo|董卓]] matters: he is already inside the military response triggered by He Jin's summons.
+## Current Profile
+His trajectory links a court-ordered mobilization that helped create a dangerous outside-force field to his later warning to strike Dong Zhuo while newly arrived, advice on how Cao Cao might establish a base, and a proposed defense against the [[QingzhouYellowTurbans|Qingzhou Yellow Turbans]]. The sources do not say Bao Xin warned against He Jin's original summons; he died saving Cao Cao in the later campaign.
 
-[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds Bao Xin's earliest anti-Dong-Zhuo timing judgment before the coalition and Cao-side branches. Returning with troops raised from Taishan, he warns [[YuanShao|袁绍]] that [[DongZhuo|董卓]] has strong soldiers and dangerous intent but can still be attacked while newly arrived and tired.
+## Key Characteristics
+- Raised troops under He Jin during the anti-eunuch escalation, then assessed the newly arrived Dong Zhuo as a threat.
+- Urged a strike against newly arrived, tired Dong Zhuo that Yuan Shao did not take.
+- Distinguished Cao Cao's possible executive capacity from Yuan Shao's higher coalition prestige.
+- Proposed a positional East Commandery base for Cao Cao against Yuan Shao's northern expansion.
+- Offered defensive attrition against the Qingzhou force and died in the later Cao Cao campaign.
 
-Yuan Shao's refusal makes Bao Xin a positive assessment figure in a failed decision environment. His later preference for [[CaoCao|曹操]] is therefore consistent: this source already shows him valuing quick execution and concrete timing over prestige-backed hesitation.
+## Evidence
+- **Mobilization:** [[HeJin|何进]] sends Bao Xin and [[WangKuangLateHan|王匡]] to recruit troops against the [[TenAttendantsLateHan|十常侍]]; this is participation in the summons, not yet the advisory role later episodes give him. [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl]]
+- **Timing:** Returning from Taishan with recruits, he warns [[YuanShao|袁绍]] that Dong Zhuo has strong men and dangerous intent but is vulnerable before settling his tired force. Yuan hesitates; the episode later describes Dong Zhuo cycling roughly 3,000 men by night/day to suggest reinforcements and absorbing rival troops, making the earlier window intelligible without proving it was guaranteed to succeed. [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1]]
+- **Recognition:** At the coalition's formation, Yuan Shao holds the public盟主 role through family standing while Bao Xin privately regards Cao Cao as likelier to plan recovery; coalition prestige, grain and command do not automatically align. [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]]
+- **Base strategy:** After Yuan takes [[JizhouLateHan|冀州]], Bao Xin advises Cao Cao to occupy [[DongCommandery|东郡]], link west with [[ZhangMiaoLateHan|张邈]], maintain a northern connection to [[GongsunZan|公孙瓒]] and wait for Yuan's conflicts. The episode then narrates Cao Cao's entry against Black Mountain forces and his recommendation as commandery administrator by Yuan. [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]]
+- **Yanzhou defense and death:** Bao Xin advises [[LiuDaiLateHan|刘岱]] to close gates, improve moats, exhaust the raiders' food and strike stragglers rather than face them in the field. Liu Dai dies after rejecting this. Bao Xin and [[WanQianLateHan|万潜]] invite Cao Cao into Yanzhou; Bao Xin dies saving him near Shouzhang, and Cao Cao reportedly buries a wooden likeness when his body cannot be found. The provincial appointment was contested by the court's choice of Jin Shang. [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]]
 
-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] gives Bao Xin an earlier recognition role inside the first [[AntiDongZhuoCoalition|反董卓联盟]]. While [[YuanShao|袁绍]] receives the public盟主 position, Bao Xin privately identifies [[CaoCao|曹操]] as the figure most likely to plan great affairs and restore order.
+## Qualifications
+- The “only chance” against Dong Zhuo, Mao-like judgment of Cao Cao, and Liu Dai's status-driven motive are the show's interpretations, not independent proof of counterfactual victory or inner psychology.
+- The Hanji 964 note has an unstable transcription for the separate [[ChenGongLateHan|陈宫]] invitation channel; it does not establish a definite Bao Xin–Chen Gong collaboration. Bao Xin and Wan Qian are the actors explicitly named in this profile.
+- Advising defensive delay and later dying during Cao Cao's assault are separate moments, not contradictory tactical instructions to one commander at one time.
 
-This makes Bao Xin's later support for Cao Cao less sudden. Before he urges Cao Cao toward [[DongCommandery|东郡]] in Hanji 957 and helps bring him into [[YanzhouLateHan|兖州]] in Hanji 964, the source already shows Bao Xin valuing executable judgment over inherited prestige.
+## What Changed
+- Early troop raising and coalition judgments are connected to, but not collapsed into, the later Yanzhou defense and sacrifice.
 
-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] gives Bao Xin an earlier strategic role before his later [[YanzhouLateHan|兖州]] death branch. After [[YuanShao|袁绍]] takes [[JizhouLateHan|冀州]], Bao Xin tells [[CaoCao|曹操]] that Yuan Shao is using anti-Dong-Zhuo prestige to build a northern base and should be watched.
-
-Bao Xin's answer is positional. He urges Cao Cao to occupy [[DongCommandery|东郡]], connect west with [[ZhangMiaoLateHan|张邈]], keep contact north toward [[GongsunZan|公孙瓒]], and wait for Yuan Shao's conflicts to create opportunity. The episode therefore makes Bao Xin one of Cao Cao's early base-opening supporters before Hanji 964 shows him inviting Cao Cao into Yanzhou and dying in the Qingzhou Yellow Turban campaign.
-
-鲍信 / Bao Xin enters the wiki through [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] as the [[YanzhouLateHan|兖州]] actor who first warns [[LiuDaiLateHan|刘岱]] not to attack the [[QingzhouYellowTurbans|青州黄巾军]] in the field. His proposed response is defensive attrition: seal the city, improve the moat, force the raiding army to face its food problem, and then strike stragglers.
-
-After Liu Dai dies, Bao Xin and [[WanQianLateHan|万潜]] ask [[CaoCao|曹操]] to take over Yanzhou. The episode then makes Bao Xin's loyalty costly and concrete: when Cao Cao fights the Qingzhou Yellow Turbans near Shouzhang, Bao Xin is killed while saving him. Cao Cao cannot find his body, so he has a wooden image buried and mourns him.
-
-## Connections
-
-- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[WangKuangLateHan|王匡]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - troop-raising order inside the anti-eunuch escalation.
-- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[YuanShao|袁绍]], [[DongZhuo|董卓]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - missed preemptive-strike advice while Dong Zhuo is newly arrived and not yet consolidated.
-- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - early judgment that Cao Cao matters despite Yuan Shao's public leadership.
-- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[CaoCao|曹操]], [[YuanShao|袁绍]], [[DongCommandery|东郡]], [[ZhangMiaoLateHan|张邈]], and [[GongsunZan|公孙瓒]] - early base-opening strategy before Cao Cao's Yanzhou branch.
-- [[LiuDaiLateHan|刘岱]] - Yanzhou inspector who rejects Bao Xin's advice.
-- [[CaoCao|曹操]] - leader Bao Xin helps bring into Yanzhou and dies saving.
-- [[WanQianLateHan|万潜]] - fellow official in the invitation to Cao Cao.
-- [[QingzhouYellowTurbans|青州黄巾军]] and [[YanzhouLateHan|兖州]] - military crisis in which Bao Xin acts.
-- [[ResourceAsymmetryAttrition|资源不对称消耗战]] and [[RootBasePriority|根本根据地优先]] - strategy frames linked by the source.
+## Relationships
+- [[XingshiqingStrategicAssessment]] - strategic reading of the political and military situation in the host's interpretation of Bao Xin's advice, not an independent measure of his foresight.
+- [[CaoCao]] - early candidate Bao Xin backed for base building, later leader he helped install and died saving.
+- [[YuanShao]] - recipient of the anti-Dong-Zhuo warning and object of later East Commandery containment.
+- [[DongZhuo]] - arriving armed actor Bao Xin urged confronting; [[ExternalTroopInvitationRisk]] frames the preceding summons.
+- [[AntiDongZhuoCoalition]] - context where public prestige and Bao Xin's assessment of executive capacity diverged; [[PrestigeBasedCoalitionLeadership]] names that tension.
+- [[DongCommandery]] - proposed Cao Cao foothold before [[YanzhouLateHan]] control.
+- [[LiuDaiLateHan]] - rejected defensive advice against [[QingzhouYellowTurbans]]; [[ResourceAsymmetryAttrition]] describes the recommended tactic.
+- [[WanQianLateHan]] - co-inviter of Cao Cao after Liu Dai's death.
+- [[RootBasePriority]] - later strategic reading of Cao Cao's Yanzhou foothold, not a quoted doctrine of Bao Xin.
