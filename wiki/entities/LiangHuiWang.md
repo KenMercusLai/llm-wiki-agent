@@ -2,71 +2,77 @@
 title: "梁惠王 / King Hui of Liang"
 type: entity
 tags: [person, ruler, china, warring-states]
-sources: [zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x, zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8, zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf, zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada, zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof, zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv, zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources:
+  - zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x
+  - zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil
+  - zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn
+  - zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz
+  - zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8
+  - zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb
+  - zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn
+  - zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf
+  - zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi
+  - zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4
+  - zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada
+  - zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof
+  - zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv
+  - zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5
+  - 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
 last_updated: 2026-08-20
+knowledge_schema: synthesis-v1
 ---
 
 # 梁惠王 / King Hui of Liang
 
-梁惠王 / King Hui of Liang is one of [[Mengzi|孟子 / Mencius]]'s major interlocutors in [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]]. The episode identifies him with Wei Hui Wang after the move to Daliang and places his questions against Wei's post-Maling decline, military humiliation, and urgent desire for national advantage.
+## Overview
+本页按主题区分有出处的事件、解释及其局限。 魏罃在未明确指定继承人的争位、浊泽败战和韩赵分歧后取得魏国王位；齐国来攻时优先稳定内部。
 
-In the source, Liang Hui Wang is not treated as a cartoon villain. He undertakes relief and water works, but Mencius's replies argue that partial benevolence is not enough. The opening "何必曰利" exchange becomes the source's cleanest case for [[RighteousnessOverProfit]], while "五十步笑百步" and the starvation analogies become arguments for more thorough [[MencianBenevolentGovernment]].
+## Current Profile
+魏罃在未明确指定继承人的争位、浊泽败战和韩赵分歧后取得魏国王位；齐国来攻时优先稳定内部。 从公叔痤举荐公孙鞅、邯郸围攻到马陵败北和割河西迁大梁，魏廷失去战略纵深。 徐州相王是马陵之后的权宜外交；卫国使者事件及张仪、惠施的政策之争显示晚期决策压力。 对孟子询问利国之道是败后求策而非无知；仁义之辩与319 BCE魏襄王继位应分别看待。
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] adds an earlier succession layer under his personal name 魏罃 / Wei Ying. The source says [[WeiWuhou|魏武侯]] dies without clearly designating an heir, leaving Wei Ying and [[GongzhongHuan|公中缓]] to fight for power; this becomes the episode's main [[SuccessionNonDesignationRisk]] case.
+## Key Characteristics
+- 魏罃在未明确指定继承人的争位、浊泽败战和韩赵分歧后取得魏国王位；齐国来攻时优先稳定内部。
+- 从公叔痤举荐公孙鞅、邯郸围攻到马陵败北和割河西迁大梁，魏廷失去战略纵深。
+- 徐州相王是马陵之后的权宜外交；卫国使者事件及张仪、惠施的政策之争显示晚期决策压力。
+- 对孟子询问利国之道是败后求策而非无知；仁义之辩与319 BCE魏襄王继位应分别看待。
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] continues that earlier layer. Wei Ying is defeated by [[HanState|韩国]] and [[ZhaoState|赵国]] at [[ZhuozeBattle|浊泽之战]] and besieged in [[Anyi|安邑]], but survives because Han and Zhao split over the postwar settlement. After the coalition withdraws, he kills [[GongzhongHuan|公中缓]] and becomes the Wei ruler later known as Liang Hui Wang.
+## Evidence
+- **Succession and stabilization:** The future 梁惠王 was 魏罃: [[WeiWuhou|魏武侯]] died without a clearly designated heir, leaving him and [[GongzhongHuan|公中缓]] in a [[SuccessionNonDesignationRisk|succession dispute]]. In 369 BCE, [[HanState|韩国]] and [[ZhaoState|赵国]] defeated him at [[ZhuozeBattle|浊泽]] and besieged [[Anyi|安邑]], but disagreement over the settlement saved him; after their withdrawal he killed Gongzhong Huan and secured [[WeiState|魏国]]. When [[QiState|齐国]] attacked in 368 BCE, the host says [[Shiji|《史记》]] depicts him seeking peace with funds rather than extending a war before consolidating rule. [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] [[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]]
+- **Military attrition and missed talent:** At [[GongshuWeiChancellor|公叔痤]]'s deathbed, Wei Ying rejected both advice to employ [[ShangYang|公孙鞅]] and the alternative to kill him before a rival state could use him, dismissing it as illness-confused; the later defeat grounds his regret. Under [[QinEastwardPressure|Qin's eastward pressure]], after Qin defeated Han at West Mountain in 358 BCE he tasked [[LongJia|龙甲]] with a western wall, then probably met [[HanZhaohou|韩昭侯]] the next year. In 355 BCE he boasted of ten luminous pearls to [[QiWeiwang|齐威王]], who instead praised [[TalentAsStateTreasure|useful officials]] such as [[TanZi|檀子]]; in the 354 BCE [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] narrative, [[ChuXuanwang|楚宣王]]'s attack on [[LuState|鲁国]] gave Wei its opening to besiege [[Handan|邯郸]]. [[zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]] [[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]]
+  Qin's [[ShangYang|商鞅]] pressured Anyi and [[Guyang|固阳]]; Wei returned Handan to Zhao in the [[ZhangshuiAlliance|漳水之盟]], while a [[ZhushuJinian|《竹书纪年》]] account has Liang Hui Wang use Han troops against a coalition at [[XianglingWarringStates|襄陵]] before Qi sought peace via [[Jingshe|景舍]]. At [[MalingBattle|马陵]], as detailed in [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]], Wei raised another force under [[PrinceShenWei|太子申]] as Qi threatened [[Daliang|大梁]]; the episode calls the [[CrownPrinceCommandRisk|choice risky]], and [[PangJuan|庞涓]]'s death, Wei's defeat and the prince's capture made subsequent Qin pressure harder to withstand. Liang then sent [[GongziAng|公子卬]] against Shang Yang. After Shang Yang's victory, he ceded Hexi for peace, shifted from Anyi to Daliang and regretted rejecting Gongshu's advice. [[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] [[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] [[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]]
+- **Accommodation and court politics:** After Maling, he wanted revenge on Qi, but [[HuiShi|惠施]] proposed [[LowPostureStatecraft|buying time]] through [[XuzhouMutualKingship|徐州相王]] and recognition of Qi Wei Wang instead of another all-out attack; Chu's subsequent attack on Qi and Wei's failure to rescue it at [[Xuzhou|徐州]] show the [[StatusOrderBacklash|wider title-order backlash]]. Later he withheld a skilled Wey fugitive until [[WeySijun|卫嗣君]]'s [[NoSmallMattersInGovernance|no-small-matters]] argument induced his return without ransom; a [[Zhanguoce|《战国策》]] supplement has [[WuxiaWarringStates|武夏]] use Qin priorities to secure an audience for a [[WeyState|卫国]] envoy. [[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] [[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] [[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]]
+  Weakened on Qin's [[QinState|秦国]] frontier, he employed both [[GongsunYan|公孙衍]] and [[ZhangYiStrategist|张仪]] despite their Qin connections. When Liang rejected Zhang's proposal to lead the lords in serving Qin, Qin seized [[QuwoWarringStates|曲沃]] and [[PingzhouWarringStates|平州]]. Zhang's proposal to join Qin and Han against Qi and Chu clashed with Hui Shi's preference for alignment with Qi and Chu; Hui Shi left under threat, and Zhang framed [[ChenZhenWarringStates|陈枕]] as pro-Chu before he could gain the king's trust. The host reads the hiring as pragmatic use of mobile expertise, not verified confidence in either minister's loyalty. [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] [[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]]
+- **Mencius and succession:** [[MenciusText|《孟子》]] portrays 梁惠王, the Wei ruler after the move to Daliang, asking [[Mengzi|孟子]] how to benefit his battered state; the episodes treat the question as a search for usable policy after defeat, not foolishness. One reading acknowledges relief and water works yet argues that partial benevolence cannot excuse starvation; “何必曰利”, “五十步笑百步” and the hunger analogies articulate [[RenyiBenefitOrdering|仁义先于利的秩序]], [[RighteousnessOverProfit|仁义 over narrow profit]] and [[MencianBenevolentGovernment|more complete benevolent government]]. These are textual interpretations, distinct from the 319 BCE death notice, when [[WeiXiangwang|魏襄王]] succeeded and Mencius's next dialogue turned to killing and durable unity. [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]]
 
-[[zizhi-tongjian-zhouji-11-shijie-fengqi-yunyong-1-lt60b2gddiosf5kade35uopwohi5]] shows the first pressure after that consolidation. When [[QiState|齐国]] attacks [[WeiState|魏国]] in 368 BCE, the host says [[Shiji|《史记》]] presents Wei Ying as preferring peace with Qi because internal stabilization mattered more than another extended war.
+## Qualifications
+The Mencius dialogues are textual portrayals; the Zhang Yi account draws on chronicle and Zhanguoce layers with chronology drift. Do not equate the king’s motive with a verified interior state.
 
-[[zizhi-tongjian-zhouji-12-gongsunyang-qiuzhi-lu-shang-de-la-guanxi-zou-houmen-lvv4-bz8sm9scezci-o-msapkvil]] gives Liang Hui Wang one of the source chain's pivotal missed-recognition moments. At [[GongshuWeiChancellor|公叔痤]]'s deathbed, he hears that the young [[ShangYang|公孙鞅 / 商鞅]] should either be entrusted with government or killed before another state can use him. Liang Hui Wang accepts neither branch, judging Gongshu's advice as illness-confused, and the later Wei defeats make this failure the backstory for his Zhouji 23 regret.
+## What Changed
+- 更早的魏罃争位与更晚的卫国使者、张仪惠施之争，扩充了只从孟子对话理解梁惠王的范围。
 
-[[zizhi-tongjian-zhouji-14-qiweiwang-buming-zeyi-yiming-jingren-lrs6rbifyiqrojxg0mccpg7sf9rv]] keeps him in the [[QinEastwardPressure|Qin pressure]] field. After Qin defeats Han at West Mountain, Wei Hui Wang sends [[LongJia|龙甲]] to build a western wall, and the following year's Wei-Han meeting is presented as probably involving him and [[HanZhaohou|韩昭侯]].
-
-[[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] gives him two linked roles in the 355-354 BCE cluster. First, he boasts to [[QiWeiwang|齐威王]] that Wei has ten luminous pearls, which lets the source contrast display wealth with [[TalentAsStateTreasure|talent as state treasure]]. Second, after [[ChuXuanwang|楚宣王]] is occupied attacking [[LuState|鲁国]], Wei Hui Wang reads the distraction as an opportunity to besiege [[Handan|邯郸]], making him the decision point in the [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] chain.
-
-[[zizhi-tongjian-zhouji-17-hanzhaohou-he-shenbuhai-lghjmjhq9qs4se96c5ofgz6caqof]] shows Liang Hui Wang trading tactical pride for strategic relief. Under pressure from [[ShangYang|公孙鞅 / 商鞅]] at [[Anyi|安邑]] and [[Guyang|固阳]], Wei returns [[Handan|邯郸]] to [[ZhaoState|赵国]] and joins the [[ZhangshuiAlliance|漳水之盟]]. The episode also uses [[ZhushuJinian|《竹书纪年》]] to say he used Han forces to defeat a coalition at [[XianglingWarringStates|襄陵]], after which Qi sought peace through [[Jingshe|景舍]].
-
-[[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] adds a new stress point in his reign through [[PrinceShenWei|太子申]]. When [[QiState|齐国]] attacks toward [[Daliang|大梁]] during the [[MalingBattle|马陵之战]] setup, Wei raises another army under the crown prince. The episode treats that choice as puzzling and uses it to explain [[CrownPrinceCommandRisk|太子挂帅风险]].
-
-[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] gives the outcome that the Mencius branch remembers as post-Maling humiliation. [[PangJuan|庞涓]] dies, [[WeiState|魏国]]'s army is broken, and [[PrinceShenWei|太子申]] is captured. The source frames this as the point after which Wei can no longer contend with the other lords as before.
-
-[[zizhi-tongjian-zhouji-22-gongsunyang-zha-wei-gongzi-ang-lss1l7lojfwgwdtcje7m5ijodpxi]] continues that post-Maling vulnerability. When [[QinState|秦国]] attacks under [[ShangYang|公孙鞅 / 商鞅]], Liang Hui Wang sends [[GongziAng|公子卬 / 公子昂]] to meet the threat. The source presents this as another painful royal-family exposure after Prince Shen: Wei can still send commanders, but its strategic room has narrowed and Qin can exploit the moment.
-
-[[zizhi-tongjian-zhouji-23-weihuiwang-hui-buyong-gongshu-zhi-yan-lveaqklo7oncmqudgmdk7l03qhsf]] gives Liang Hui Wang the regret named in the episode title. After Shang Yang breaks Wei, he offers Hexi territory to Qin for peace, leaves [[Anyi|安邑]] for [[Daliang|大梁]], and laments that he did not follow [[GongshuWeiChancellor|公叔痤]]'s earlier advice about Shang Yang. The source turns that regret into a long-tail cost of failing to retain or remove a dangerous talent.
-
-[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] then shows the famous intellectual afterlife of the same ruler. Wei Hui Wang asks [[Mengzi|孟子 / Mencius]] what will benefit his state, and the episode reads the question as practical rather than foolish: after military defeat and capital relocation, he wants usable statecraft. Mencius's answer becomes the case for [[RenyiBenefitOrdering|仁义优先的利益秩序]] rather than a denial that rulers should care about outcomes.
-
-[[zizhi-tongjian-zhouji-27-weiguan-weihuiwang-he-qiweiwang-shi-za-shangye-hupeng-lminlxhrm5bethub9kyy-8blimrb]] returns him to post-Maling diplomacy. The episode says Wei Hui Wang hates [[QiState|齐国]] after the defeat and wants revenge, but [[HuiShi|惠施]] argues that another all-out attack would expose [[WeiState|魏国]] again. Hui Shi's alternative is [[LowPostureStatecraft|low-posture statecraft]]: Wei proposes honoring [[QiWeiwang|齐威王]] as king at [[XuzhouMutualKingship|徐州相王]], gaining time and face rather than immediate revenge.
-
-[[zizhi-tongjian-zhouji-28-hanzhaohou-de-kuaile-ni-xiangxiang-budao-ln2tbxniz4kvwogbwp32exmdokz8]] supplies the sequel to that tactic. The Chu attack on Qi shows that Hui Shi's expected pressure materializes, while Wei itself does not rescue Qi at [[Xuzhou|徐州]]. The source makes Liang Hui Wang's posture part of a broader [[StatusOrderBacklash|status-order backlash]] rather than only a personal revenge problem.
-
-[[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] gives Liang Hui Wang two late-reign scenes with [[WeyState|卫国]]. First, he refuses to return a Wey fugitive with medical skill until [[WeySijun|卫嗣君]]'s [[NoSmallMattersInGovernance|治无小乱无大]] reasoning reaches him, after which he sends the prisoner back without ransom. Second, a [[Zhanguoce|《战国策》]] supplement has [[WuxiaWarringStates|武夏]] persuade him to receive a Wey envoy by comparing the neglected audience to Wei's need to stay attentive to [[QinState|秦国]].
-
-[[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] returns Liang Hui Wang to the central Wei problem: after years of pressure from [[QiState|齐国]] and [[QinState|秦国]], he is willing to accept both [[GongsunYan|犀首公孙衍]] and [[ZhangYiStrategist|张仪]] despite their Qin-linked records. The episode reads this as hard pragmatism rather than simple forgetfulness. Wei has lost western strategic depth, so the king may need mobile specialists who know Qin even when their loyalties remain suspect.
-
-[[zizhi-tongjian-zhouji-39-lishishang-zhangyi-shi-zenyang-nudui-qiangdi-de-lv2gc2wtcxuhugfgixk7rbbhpa6x]] shows the domestic cost of that pragmatism. Zhang Yi and [[HuiShi|惠施 / 惠师]] fight over Wei's direction: Zhang wants Wei to join Qin and Han against Qi and Chu, while Hui Shi wants Wei aligned with Qi and Chu and quiet. The court tilts toward Zhang Yi, Hui Shi leaves under threat, and Zhang Yi then frames [[ChenZhenWarringStates|陈枕]] as pro-Chu before Chen can establish trust with Liang Hui Wang.
-
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] closes his reign with the 319 BCE death notice. His son [[WeiXiangwang|魏襄王]] succeeds, and [[Mengzi|孟子 / Mencius]]'s next Wei dialogue shifts from Liang Hui Wang's benefit-and-renyi question to the problem of unity, killing, and durable rule.
-
-## Connections
-- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
-- [[Mengzi|孟子 / Mencius]] and [[MenciusText|《孟子》]] - dialogue context.
-- [[WarringStatesPeriod|战国时期]] - political-military background.
-- [[RighteousnessOverProfit]] - central exchange over "利" and "仁义."
-- [[MencianBenevolentGovernment]] and [[MencianIdealismLimits]] - benevolence and its practical test.
-- [[WeiWuhou|魏武侯]], [[WeiState|魏国]], [[GongzhongHuan|公中缓]], and [[SuccessionNonDesignationRisk]] - earlier Wei succession-disorder branch.
-- [[ZhuozeBattle|浊泽之战]], [[Anyi|安邑]], [[SuccessionCrisisIntervention]], and [[CoalitionSettlementFailure]] - Zhouji 10 part 3 crisis outcome.
-- [[QiState|齐国]], [[Shiji|《史记》]], [[EarlyWarringStatesInterstateWar]], and [[TerritorialControlChurn]] - Zhouji 11 post-succession peace branch.
-- [[GongshuWeiChancellor|公叔痤]], [[ShangYang|公孙鞅 / 商鞅]], [[TalentReferralQuality|荐才层级质量]], and [[PrivateAccessTalentChannel|私人进身通道]] - Zhouji 12 missed talent-retention branch.
-- [[LongJia|龙甲]], [[HanZhaohou|韩昭侯]], [[WeiGreatWallAntiQinDefense]], and [[QinEastwardPressure]] - Zhouji 14 defensive and diplomatic response branch.
-- [[QiWeiwang|齐威王]], [[TanZi|檀子]], [[TalentAsStateTreasure|以贤臣为宝]], [[LuWineHandanWarCascade|鲁酒薄而邯郸围]], and [[Handan|邯郸]] - Zhouji 15 treasure contrast and opportunistic siege branch.
-- [[ShangYang|公孙鞅 / 商鞅]], [[Anyi|安邑]], [[Guyang|固阳]], [[Handan|邯郸]], [[ZhangshuiAlliance|漳水之盟]], [[XianglingWarringStates|襄陵]], and [[Jingshe|景舍]] - Zhouji 17 pressure and reconciliation branch.
-- [[PrinceShenWei|太子申]], [[MalingBattle|马陵之战]], [[Daliang|大梁]], [[CrownPrinceCommandRisk]], and [[DecreasingStovesDeception]] - Zhouji 19-20 crown-prince command and Maling defeat branch.
-- [[GongziAng|公子卬 / 公子昂]], [[PeaceParleyEntrapment|和谈诱捕]], [[GongshuWeiChancellor|公叔痤]], [[TacticalCredibilityCost|战术信用成本]], and [[QinEastwardPressure]] - Zhouji 22-23 post-Maling Qin attack, regret, and capital-shift branch.
-- [[Zisi|子思]], [[SimaGuang|司马光]], and [[RenyiBenefitOrdering|仁义优先的利益秩序]] - Zhouji 26 reading of the opening Mencius exchange.
-- [[HuiShi|惠施]], [[QiWeiwang|齐威王]], [[XuzhouMutualKingship|徐州相王]], and [[LowPostureStatecraft|低姿态权宜]] - Zhouji 27 post-Maling deference and title-recognition branch.
-- [[ChuWeiwang|楚威王]], [[Xuzhou|徐州]], and [[StatusOrderBacklash|名分秩序反弹]] - Zhouji 28 consequence of the title-recognition tactic.
-- [[WeySijun|卫嗣君]], [[WeyState|卫国]], [[WuxiaWarringStates|武夏]], [[NoSmallMattersInGovernance|治无小乱无大]], and [[Zhanguoce|《战国策》]] - Zhouji 36 prisoner-return and neglected-envoy branch.
-- [[ZhangYiStrategist|张仪]], [[GongsunYan|犀首公孙衍]], [[WarringStatesCareeristMobility|乱世职业经理人式流动]], [[QuwoWarringStates|曲沃]], and [[PingzhouWarringStates|平州]] - Zhouji 38 mobile talent and Qin pressure around Zhang Yi's Wei post.
-- [[HuiShi|惠施 / 惠师]], [[ChenZhenWarringStates|陈枕]], [[LianhengStrategy|连横]], and [[SituationalPoliticalPivot|因事立道式政治转身]] - Zhouji 39 court struggle and blocked office-seeking branch.
-- [[WeiXiangwang|魏襄王]] and [[NonKillingUnification|不爱杀人者能一之]] - Zhouji 45 death, succession, and Mencius sequel.
+## Relationships
+- [[ChuWeiwang]] - 楚威王攻齐是惠施劝梁惠王暂缓报复齐国、转行徐州相王之后出现的外部压力；不等于两王结盟。
+- [[CoalitionSettlementFailure]] - 韩赵浊泽获胜却因战后分配意见相左撤围，使争位中的魏罃得以守住安邑。
+- [[DecreasingStovesDeception]] - 孙膑减灶诱庞涓是梁惠王遣太子申出兵后魏军马陵败亡的齐方战术，非梁本人所施。
+- [[EarlyWarringStatesInterstateWar]] - 他即位初期齐攻魏而魏求和，体现诸侯伺机进攻的格局；该概念的380年代案例不是其本人战役。
+- [[LianhengStrategy]] - 梁廷张仪主张联秦韩攻齐楚，与惠施亲齐楚路线相争，令梁惠王面临秦向外交抉择。
+- [[MencianIdealismLimits]] - 梁惠王虽谈救济与水利，孟子仍以饥民质问局部仁政；此处是劝政的实践限度，不是后来伐燕的案例。
+- [[MenciusText]] - 保存梁惠王问利、孟子答以仁义和“五十步笑百步”的文本对话；其动机须与史实推断区分。
+- [[NonKillingUnification]] - 梁惠王死后魏襄王与孟子谈“不嗜杀人者能一之”，是其问利对话的继位者续篇，不是梁的主张。
+- [[PeaceParleyEntrapment]] - 梁派公子卬抵御商鞅，公子被和谈设局俘虏，魏王随后割河西求和。
+- [[PingzhouWarringStates]] - 梁拒张仪事秦建议后秦从魏夺取平州，是其晚期外交压力的边地结果。
+- [[PrivateAccessTalentChannel]] - 公叔痤临终向梁荐公孙鞅未获采纳，是私人荐才抵达君前却仍未转为任用的反例。
+- [[QuwoWarringStates]] - 梁拒张仪事秦建议后秦夺魏曲沃，与平州同属对魏施压的领土损失。
+- [[SituationalPoliticalPivot]] - 张仪在梁廷预先指陈枕亲楚，陈须改换求见策略；梁是被争取信任的魏王，不是转身策略的发起者。
+- [[SuccessionCrisisIntervention]] - 魏罃与公中缓争位给韩赵干预魏国内政的入口，浊泽战败一度危及其王位。
+- [[TacticalCredibilityCost]] - 商鞅以旧交和议诱捕梁所派公子卬；信用代价属于商鞅的战术，梁承受的是军事败局。
+- [[TalentReferralQuality]] - 公叔痤提出重用或除去公孙鞅的两案，梁惠王皆不从，后因魏败而悔。
+- [[TanZi]] - 齐威王以檀子等能臣回应梁惠王夸示明珠，将两王对国宝的判断作对照。
+- [[TerritorialControlChurn]] - 从安邑受围、归还邯郸到割河西，梁在持续的城土争夺中被迫调整魏的控制范围，并非一城反复易手的原例。
+- [[WarringStatesCareeristMobility]] - 梁任用与秦有牵连的公孙衍、张仪，显示魏廷对跨国流动策士的依赖与忠诚疑虑。
+- [[WarringStatesPeriod]] - 梁惠王治魏时的诸侯争土、人才争夺和孟子游说，是战国政治竞争的具体场景。
+- [[WeiGreatWallAntiQinDefense]] - 秦败韩于西山后，梁惠王命龙甲在魏西部筑防线以应对秦东进。
