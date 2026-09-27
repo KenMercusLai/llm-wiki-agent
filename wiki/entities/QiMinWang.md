@@ -2,56 +2,58 @@
 title: "齐湣王 / King Min of Qi"
 type: entity
 tags: [person, ruler, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j, zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md, zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]
+sources:
+  - zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo
+  - zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19
+  - zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi
+  - zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u
+  - zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28
+  - zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j
+  - zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md
+  - zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13
+  - zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt
+  - zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff
+  - zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1
+  - zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8
+  - zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn
 last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
 ---
 
 # 齐湣王 / King Min of Qi
 
-齐湣王 / King Min of Qi appears in [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] as the Qi ruler whose hatred of [[ZhangYiStrategist|张仪]] becomes the lever in Zhang Yi's plan. Zhang Yi tells [[QinWuwang|秦武王]] that Qi will attack whichever state accepts him, so his move to [[WeiState|魏国]] can provoke a Qi-Wei conflict useful to [[QinState|秦国]].
+## Overview
+Qi Min Wang (Tian Di) ruled [[QiState|Qi]] as the sources narrate its conquest of Song, subsequent diplomatic overreach and destruction by an anti-Qi coalition.
 
-The source later has Qi attack Wei and then withdraw after [[FengXiWarringStates|冯喜]] reveals Zhang Yi's earlier pitch to Qin. Qi Min Wang therefore functions less as a developed biography than as the counterparty whose suspicion makes [[YinmouYangmouConversion|阴谋阳谋转换]] work: once the hidden plan is made visible, continuing the campaign looks like cooperating with Zhang Yi.
+## Current Profile
+His succession chronology is disputed in early annals; later episodes place accession in 301 BCE, while subsequent accounts follow Song, the coalition, his flight and death, royal restoration and retrospective warnings.
 
-Because the episode places this Qi Min Wang material inside a 322 BCE frame, this page should remain source-scoped and linked to [[ChronicleChronologyDrift|编年错位]] rather than treated as a fully reconciled Qi chronology.
+## Key Characteristics
+- The sources dispute the early succession chronology.
+- Song’s conquest strengthened Qi while increasing its enemies.
+- Military defeat exposed a prior collapse of support.
+- Later thinkers redeployed his fate as a warning.
 
-[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds another source-scoped notice. The episode says [[ZizhiTongjian|《资治通鉴》]] records [[QiXuanWang|齐宣王]]'s death and Tian Di's succession as Qi Min Wang, but immediately flags the notice as too early because Qi Xuan Wang should die about twelve years later. This page therefore keeps the succession notice under [[QiChronologyDispute|齐威王编年争议]] rather than treating the date as settled.
+## Evidence
+- **Succession and interstate diplomacy:** An early [[ZizhiTongjian|《资治通鉴》]] notice of [[QiXuanWang|齐宣王]]'s death and Tian Di's accession is rejected as premature; a later episode places succession in 301 BCE ([[QiChronologyDispute]], [[ChronicleChronologyDrift]]). In a separately unstable 322 BCE frame, [[ZhangYiStrategist|张仪]] tells [[QinWuwang|秦武王]] that Qi Min Wang's hatred will induce an attack on [[WeiState|魏国]] if Zhang Yi goes there; [[FengXiWarringStates|冯喜]] exposes this Qin-serving maneuver and Qi withdraws, an [[YinmouYangmouConversion|exposed-plot reversal]] benefiting [[QinState|Qin]]. Later the king releases [[MiHeng|芈横 / 楚顷襄王]] after [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]]: holding him for [[ChuState|楚国]] land north of the Huai risks losing leverage if Chu installs someone else. [[zizhi-tongjian-zhouji-38-gao-jianzhi-de-zhangyi-bu-yiban-lobhcpz679psy54k0iduccqkfcrn]] [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]]
+- **Song and overreach:** Offered an eastern-emperor title opposite Qin's western one, the king followed [[SuDai|苏代]] in dropping it, trying [[HezongAlliance|合纵]] pressure and prioritizing [[SongState|宋国]] ([[EastWestEmperorDiplomaticProbe]]). The Song campaign spread cruelty stories about [[SongJunYan|宋康王 / 宋君偃]] and coordinated with Chu and Wei, combining territorial aims with [[MoralizedWarPretext|moral pretext]]. After conquest he attacked Chu and the Three Jin, contemplated East and West Zhou, and executed remonstrants [[HuYanQiMinister|胡衍]] and [[ChenJuQiMinister|陈举]]; the episode treats this [[VictoryOverreachFailure|overreach]] as an opening for [[YanZhaowang|燕昭王]] and [[LeYi|乐毅]] to assemble a [[CommonEnemyAlliance|coalition]]. [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] [[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]]
+- **Defeat, refuge and succession:** In 284 BCE Le Yi's coalition defeated Qi west of the Ji River and took [[Linzi|临淄]]. The king sought refuge in [[WeyState|卫国]], [[ZouState|邹国]] and [[LuState|鲁国]], alienated hosts, then reached [[JuWarringStates|莒城 / 城阳]] where [[ZhuoChi|卓齿 / 淖齿]] seized and killed him; the episodes use this as a [[PeopleBasedPoliticalSecurity|loss-of-support]] and [[RulerNonNaturalDeathTypology|violent-death]] case. [[WangZhu|王蠋]] had withdrawn after ignored advice yet refused Yan service; son [[TianFazhang|田法章]] hid. [[WangSunGu|王孙古]], reproached by his mother, gathered more than four hundred avengers and killed Zhuo Chi; ministers installed Tian Fazhang as [[QiXiangWang|齐襄王]]. [[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]]
+- **Retrospective readings, not fresh events:** [[SimaGuang|司马光]]'s [[Xunzi|荀子]]-based [[XunzianWangbaThreePaths|ruler lesson]] contrasts military success with absent trust and legitimacy. [[FanJu|范雎]] later uses Qi's distant Chu campaigns against holdable-land logic to argue [[YuanjiaoJingongStrategy|远交近攻]], and cites Zhuo Chi's seizure to warn Qin Zhaoxiang Wang about overmighty ministers; neither warning reveals Qi Min Wang's own motives. [[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]]
 
-[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] gives the later placement. In 301 BCE, Qi Xuan Wang dies and Tian Di succeeds as Qi Min Wang. The source directly refers back to the earlier Zhouji 49 problem, so Qi Min Wang's accession can now be filed as a corrected 301 BCE notice while the earlier page remains a record of [[ChronicleChronologyDrift|编年错位]].
+## Qualifications
+The 322 BCE Zhang Yi strand and early death/accession notice are chronologically unstable against the later 301 BCE placement. The tyrant portrait, motives assigned to Zhuo Chi, and Fan Ju’s retrospective use of his fate are not independent confirmation.
 
-[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] gives Qi Min Wang a hostage-decision scene. After [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]] asks Qi to return [[MiHeng|芈横 / 楚顷襄王]] by falsely claiming the old king has died. Qi Min Wang hears arguments for holding Mi Heng to demand Chu land north of the Huai River and arguments that holding him may leave Qi with a useless hostage if Chu installs another ruler. He finally releases Mi Heng, letting him return and succeed in Chu.
+## What Changed
+- The 301 BCE succession correction is held apart from the unstable early Zhang Yi account and later strategic uses of the king’s fate.
 
-[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] shows Qi Min Wang before the final Song campaign, when Qin offers him the eastern-emperor title while Qin Zhaoxiang Wang claims the western-emperor title. Under [[SuDai|苏代]]'s advice, Qi treats the title as expendable, lets Qin test the legitimacy risk, drops the title, uses [[HezongAlliance|合纵]] pressure against Qin, and keeps the real objective on [[SongState|宋国]]. The episode therefore frames Qi Min Wang's Song policy as a material-gain calculation hidden behind [[EastWestEmperorDiplomaticProbe|东西二帝试探]].
-
-[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] makes Qi Min Wang the destroyer of [[SongState|宋国]]. The source says Qi agents spread [[SongJunYan|宋康王 / 宋君偃]]'s cruelty stories inside Song and across the interstate field, then Qi coordinates with [[ChuState|楚国]] and [[WeiState|魏国]] to attack. Qi Min Wang therefore becomes a case where strategic revenge and territorial interest are packaged through [[MoralizedWarPretext|道德化战争借口]].
-
-[[zizhi-tongjian-zhouji-69-bikan-gudai-diwang-qipa-sifa-da-pandian-lukvjsktg-pgfjhizvypwmdmw-13]] turns that triumph into the beginning of reversal. After Song falls, Qi Min Wang keeps expanding against Chu and the Three Jin, imagines swallowing East and West Zhou, and executes [[HuYanQiMinister|胡衍]] and [[ChenJuQiMinister|陈举]] when they remonstrate. The episode makes him the source case for [[VictoryOverreachFailure|数胜必亡式胜利反噬]]: Qi has reached a peak, but ruler arrogance and dead feedback make [[YanZhaowang|燕昭王]] and [[LeYi|乐毅]] able to assemble a [[CommonEnemyAlliance|common-enemy coalition]] against him.
-
-[[zizhi-tongjian-zhouji-70-xihuan-huayang-zuosi-de-qiguo-junzhu-luuyasp5-nhnikdcozzaueosb-md]] completes the fall. In 284 BCE, Le Yi commands the coalition that defeats Qi west of the Ji River and takes [[Linzi|临淄]], after which Qi Min Wang flees through [[WeyState|卫国]], [[ZouState|邹国]], and [[LuState|鲁国]] but keeps behaving as if submission is owed to him. The source makes that failed refuge sequence part of [[PeopleBasedPoliticalSecurity|民心型政治安全]]: by the time he reaches Ju and relies on [[ZhuoChi|卓齿]], he has lost the social and interstate protection that might make a defeated ruler survivable. Zhuo Chi's seizure and execution of him fulfills the prior [[RulerNonNaturalDeathTypology|帝王非命死法类型]] preview.
-
-[[zizhi-tongjian-zhouji-71-xunzide-xingbenelun-lnyfxoxauexhwbrwkdevs8m4mr2j]] turns the completed death story into [[SimaGuang|司马光]]'s [[Xunzi|荀子]]-based ruler lesson. Qi Min Wang becomes the negative case in [[XunzianWangbaThreePaths|荀子王霸三分法]]: he held a powerful state and won conspicuous victories, but did not use that power to build ritual order, credible trust, or public legitimacy. The episode therefore treats his fall as more than battlefield defeat; it is the collapse of a ruler whose power had stopped generating protection.
-
-[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds two aftershocks of that collapse. First, [[WangZhu|王蠋]] had withdrawn from Qi office because Qi Min Wang would not accept remonstrance, but still refuses to serve Yan after the state is broken. Second, Qi Min Wang's son [[TianFazhang|田法章]] hides his identity and flees, showing that the king's violent death has become a survival crisis for the next royal generation.
-
-[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] turns the death aftermath into revenge and succession. [[WangSunGu|王孙古]], rebuked by his mother for failing his subject duty, gathers more than four hundred men and kills [[ZhuoChi|淖齿 / 卓齿]] to avenge Qi Min Wang. Qi ministers then find [[TianFazhang|田法章]] at [[JuWarringStates|莒城]] and install him as [[QiXiangWang|齐襄王]], so Qi Min Wang's death no longer closes the royal line.
-
-[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-2-lpzyziww177yvvjksmuioa-p-1qi]] adds Qi Min Wang as Fan Ju's negative strategic example rather than as a new biographical event. Fan Ju cites Qi's distant attack on [[ChuState|楚国]] to argue that remote victories can exhaust armies and enrich intermediate states without producing holdable land. In the episode, the case helps justify [[YuanjiaoJingongStrategy|远交近攻]] for Qin.
-
-[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] reuses Qi Min Wang's death as a court-power warning. Fan Ju cites [[ZhuoChi|卓齿]] seizing power and killing him to make [[QinZhaoxiangwang|秦昭襄王]] see overmighty ministers as an immediate ruler-security danger, not just an abstract moral problem.
-
-## Connections
-- [[ZhangYiStrategist|张仪]] - target of Qi hatred and manipulator of Qi's response.
-- [[FengXiWarringStates|冯喜]] - emissary who reveals Zhang Yi's Qin pitch.
-- [[QiState|齐国]], [[WeiState|魏国]], and [[QinState|秦国]] - states implicated by the attack and withdrawal.
-- [[YinmouYangmouConversion|阴谋阳谋转换]] and [[ChronicleChronologyDrift|编年错位]] - concept frames attached to the episode.
-- [[QiXuanWang|齐宣王]], [[ZizhiTongjian|《资治通鉴》]], and [[QiChronologyDispute|齐威王编年争议]] - Zhouji 49 early death/accession warning.
-- [[ChronicleChronologyDrift|编年错位]] - Zhouji 61 corrected 301 BCE accession placement after the earlier warning.
-- [[MiHeng|芈横 / 楚顷襄王]], [[ChuState|楚国]], [[ChuHuaiwang|楚怀王]], and [[HostageDiplomacyRupture|质子外交破裂]] - Zhouji 62 hostage-return and succession calculation.
-- [[QinZhaoxiangwang|秦昭襄王]], [[SuDai|苏代]], [[SongState|宋国]], [[HezongAlliance|合纵]], and [[EastWestEmperorDiplomaticProbe|东西二帝试探]] - Zhouji 68 part 1 emperor-title probe and Song-facing strategy.
-- [[SongJunYan|宋康王 / 宋君偃]], [[SongState|宋国]], [[ChuState|楚国]], [[WeiState|魏国]], and [[MoralizedWarPretext|道德化战争借口]] - Zhouji 68 anti-Song campaign and reputation-pretext branch.
-- [[HuYanQiMinister|胡衍]], [[ChenJuQiMinister|陈举]], [[YanZhaowang|燕昭王]], [[LeYi|乐毅]], [[VictoryOverreachFailure|数胜必亡式胜利反噬]], and [[RulerNonNaturalDeathTypology|帝王非命死法类型]] - Zhouji 69 post-Song overreach, killed remonstrants, coalition setup, and death-preview branch.
-- [[ZhuoChi|卓齿]], [[Linzi|临淄]], [[WeyState|卫国]], [[ZouState|邹国]], [[LuState|鲁国]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[CommonEnemyAlliance|共同敌人联盟]] - Zhouji 70 defeat, failed refuge, and violent death branch.
-- [[Xunzi|荀子]], [[XunzianWangbaThreePaths|荀子王霸三分法]], [[SmallTrustBuildsLargeTrust|小信诚则大信立]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 71 political-philosophy reflection after the death story.
-- [[WangZhu|王蠋]], [[TianFazhang|田法章]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 loyal refusal after failed remonstrance and royal-line flight after the king's death.
-- [[WangSunGu|王孙古]], [[QiXiangWang|齐襄王]], [[JunWangHou|君王后]], [[JuWarringStates|莒城]], and [[RetainerRevengeMobilization|臣下复仇动员]] - Zhouji 73 revenge, restored succession, and crisis-marriage sequel.
-- [[FanJu|范雎]], [[ChuState|楚国]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 88 part 2 distant-attack caution used in Fan Ju's Qin strategy.
-- [[QinZhaoxiangwang|秦昭襄王]], [[QinFourNoblesCourtPower|秦国四贵权力结构]], and [[ForeignRelativeCourtPolitics|楚系外戚政治]] - Zhouji 89 precedent use in Fan Ju's warning against court-power overgrowth.
+## Relationships
+- [[QiState]] - states implicated by the attack and withdrawal.
+- [[HostageDiplomacyRupture]] - Zhouji 62 hostage-return and succession calculation.
+- [[SmallTrustBuildsLargeTrust]] - Zhouji 71 political-philosophy reflection after the death story.
+- [[ConfucianIdealGovernance]] - Zhouji 71 political-philosophy reflection after the death story.
+- [[LoyaltyCollateralDilemma]] - Zhouji 72 loyal refusal after failed remonstrance and royal-line flight after the king's death.
+- [[JunWangHou]] - Zhouji 73 revenge, restored succession, and crisis-marriage sequel.
+- [[RetainerRevengeMobilization]] - Zhouji 73 revenge, restored succession, and crisis-marriage sequel.
+- [[FanJu]] - Zhouji 88 part 2 distant-attack caution used in Fan Ju's Qin strategy.
+- [[QinFourNoblesCourtPower]] - Zhouji 89 precedent use in Fan Ju's warning against court-power overgrowth.
+- [[ForeignRelativeCourtPolitics]] - Zhouji 89 precedent use in Fan Ju's warning against court-power overgrowth.
