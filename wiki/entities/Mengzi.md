@@ -2,47 +2,53 @@
 title: "孟子 / Mencius"
 type: entity
 tags: [person, philosopher, chinese-classics, pre-qin, confucianism]
-sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
+sources:
+  - zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt
+  - zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p
+  - zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj
+  - zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt
+  - zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41
+  - zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn
+  - 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646
+  - 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138
 last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
 ---
 
 # 孟子 / Mencius
 
-孟子 / Mencius is the central figure in [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]], where [[MihuanChishu|蜜獾吃书]] rereads him as a sharp Warring States political thinker rather than a tame emblem of obedience. The episode stresses that many famous sayings in [[MenciusText|《孟子》]] are already culturally familiar, but their original force lies in arguments about renyi, ruler accountability, common people's livelihood, and resistance to unjust power.
+## Overview
+孟子 / Mencius is a [[WarringStatesPeriod|Warring States]] thinker associated with [[ZouState]] and the arguments collected in [[MenciusText|《孟子》]]. Episodes reconstruct his ruler-facing politics, moral psychology and later reception; they do not turn every cited saying into a securely dated biographical event.
 
-The source places Mencius in the [[WarringStatesPeriod|战国时期]], with [[ZouState|邹国]] origins, likely exposure to [[JixiaAcademy|稷下学宫]], rivalry with [[Mozi|墨子]] and [[YangZhu|杨朱]], and an active choice to extend [[Confucius|孔子]]'s renyi path. His conversations with [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] let the episode show him as rhetorically aggressive, morally demanding, and politically idealistic.
+## Current Profile
+His [[EarlyConfucianResistancePolitics|renyi-centered advocacy]] joins livelihood to political legitimacy and challenges rulers who rely on status, profit or conquest alone. The sources also use him as a foil for practical limits of benevolent governance and for later family and elder-care debates.
 
-[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Mencius as a reference point in the show's [[RespectForEldersTradition]] branch. The episode uses "老吾老以及人之老" and the idea that 70-year-olds should be able to eat meat to connect Mencian care to elder dignity, social provision, and concern for people beyond one's own household.
+## Key Characteristics
+- Argued with Liang Hui Wang, Wei Xiang Wang and Qi Xuan Wang about benefit, rule and war.
+- Associated moral beginnings with cultivable compassion, shame, respect and judgment.
+- Distinguished personal kindness from public provision and demanded correction of ruler errors.
+- His “大丈夫” standard tests resistance to wealth, poverty and coercion.
 
-[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds Mencius's first appearance inside the [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] Zhouji sequence. The episode narrows in on his meeting with [[LiangHuiWang|魏惠王 / 梁惠王]] and argues that "何必曰利" should be read through [[RenyiBenefitOrdering|仁义优先的利益秩序]]: Mencius resists profit-first language, not the idea that renyi should benefit the people.
+## Evidence
+- **Intellectual setting and human nature:** A [[MihuanChishu|modern reading]] places him in mobile [[WangdaoVsBadao|Warring States debates]] against [[Mozi]] and [[YangZhu]], extending [[Confucius]]'s renyi path; possible study at [[JixiaAcademy]] is conjectural. Another episode explains [[XingShanTheory]] through compassion, shame, respect and right/wrong as sprouts of ren, yi, li and zhi, then stresses [[HumanNaturePlasticity]]: circumstances and cultivation can preserve or damage them, and rulers he visited did not basically adopt his program. [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]]
+- **Ruler dialogues and livelihoods:** In the source's 336 BCE chronology [[LiangHuiWang]] asks for benefit; the [[RuiqiJiangtouZizhiTongjian|host]] uses [[Zisi]] and [[SimaGuang]] to distinguish Mencius's “何必曰利” in [[MenciusSongReception|later Song reception]] from rejection of real benefit in [[RenyiBenefitOrdering]] and [[RighteousnessOverProfit]]. [[WeiXiangwang]] hears the ideal that a ruler who does not love killing can unify in [[NonKillingUnification]]; the host's Qin/[[XiangYu]]/[[LiuBang]] analogy is a later test, not Mencius's prediction of those dynasties. With [[QiXuanWang]], he measures the [[YanState]] conquest by the population's welcome and [[MencianPeopleBasedLegitimacy]] and [[PeopleBasedPoliticalSecurity]] rather than speed or claimed Heaven's favor, proposes freeing detained people, ceasing treasure seizures, consulting Yan and withdrawing after installing a ruler; [[ChenJiaWarringStates]]'s question invoking [[ZhouGong]] and [[CorrectableLeadershipError]] becomes a call to correct errors instead of excusing them. “以羊易牛,” partial disaster relief and [[ConstantPropertyConstantHeart]] connect limited compassion to livelihood-supporting [[MencianBenevolentGovernment]]. [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]]
+- **Political versus personal virtue:** In the [[ZiChan]] river-ferry example, “惠而不知为政” means a bridge and [[LocalGovernanceAsCare|regular access]] in [[ZhengState]] would outlast a kindly official's carriage rides; this is [[GoodIntentionsPoliticalLimits]], not contempt for care. Against [[GongsunYan]] and [[ZhangYiStrategist]], rhetorical impact and rulers' fear do not suffice for “大丈夫”; standing with the people and holding the right way under wealth, poverty and force do. The account of [[TengState]] as unusually willing to try his agrarian benevolent governance is the host's Confucian memory frame for its destruction by [[SongJunYan]]. [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]]
+- **Later textual and social uses:** A 2025 discussion borrows “老吾老以及人之老” and the 70-year-old meat benchmark for [[RespectForEldersTradition]], [[ElderCareStateCapacity|elder dignity and provision]] beyond one's family. A different chronicle episode quotes marriage procedures in 《孟子》 to contextualize [[TaishiJiao]]'s [[MarriageRitualOrthodoxy|ritual refusal]] to accept [[JunWangHou]] and [[TianFazhang]]'s [[CrisisAutonomousMarriage|crisis relationship]]. [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]]
 
-[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] returns Mencius to the same show as the representative of [[XingShanTheory|性善论]]. The episode summarizes his moral-sprout account and connects it to [[MencianBenevolentGovernment|孟子仁政]] and [[MencianPeopleBasedLegitimacy|民贵君轻]], while also placing it inside [[HumanNaturePlasticity|人性可变性]]: good beginnings can be preserved, lost, or reshaped by later environment and cultivation.
+## Qualifications
+The approximate Jixia link remains speculative, and textual dialogue is not the same as independently verified personal itinerary. The Qinji nature debate contrasts him with [[Xunzi]] and [[XingETheory]] and does not prove [[FixedHumanNaturePolitics|innate virtue]] always prevails. Teng's later destruction as a retrospective [[ConfucianIdealGovernance]] case is a source-framed reception of Mencian politics, not proof his institutional experiment was fully implemented. A family-ritual quotation speaks to later application of the text, not to Mencius personally intervening in that marriage. [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]]
 
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] returns Mencius to the Zhouji sequence through his meeting with [[WeiXiangwang|魏襄王]]. After judging the new Wei ruler as lacking kingly presence, Mencius says the realm can be settled only through unity and that the ruler able to unify will be one who does not love killing. The episode uses this exchange to add [[NonKillingUnification|不爱杀人者能一之]] to the wiki's Mencian legitimacy cluster.
+## What Changed
+- Separated person, text, later analogy and uncertain biographical claims.
+- Reconciled ideal political language with the episodes' stated practical limitations.
 
-[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] develops Mencius's [[QiXuanWang|齐宣王]] branch through the conquest of [[YanState|燕国]]. Mencius judges the campaign by whether Yan's people are relieved, not by Qi's speed or by the king's claim of heavenly favor. The episode also uses his answer to [[ChenJiaWarringStates|陈甲]] to turn saintly fallibility into [[CorrectableLeadershipError|犯错能改的领导力]]: a mistake may be understandable, but failing to correct it becomes a deeper political fault.
-
-[[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] adds Mencius's direct judgment of [[GongsunYan|犀首公孙衍]] and [[ZhangYiStrategist|张仪]]. Asked whether such men are "大丈夫" because rulers fear them, Mencius denies that fear and diplomatic impact are enough. The episode turns his answer into [[MencianGreatManCriterion|孟子大丈夫标准]]: the real test is moral place, correct way, solidarity with the people, and steadiness under wealth, poverty, and force.
-
-[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] adds Mencius indirectly through [[TengState|滕国]]. The episode frames Teng as the rare Warring States polity willing to try Mencian benevolent-government ideas and to restore an older agrarian order. [[SongJunYan|宋康王 / 宋君偃]]'s destruction of Teng therefore becomes a Confucian memory wound as well as a territorial conquest.
-
-[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds Mencius through the [[ZiChan|子产]] river-crossing story. The episode highlights his judgment that Zi Chan's kindness was "惠而不知为政": a caring official should not only carry people across a cold river, but should create the public works and regular access that remove the need for such personal intervention.
-
-[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds a family-ritual use of Mencius rather than a ruler-advice scene. The episode cites the marriage-procedure norm in [[MenciusText|《孟子》]] to explain why [[TaishiJiao|太史敫 / 太史角]] rejects [[JunWangHou|君王后]]'s earlier autonomous relationship with [[TianFazhang|田法章]], creating a contrast between [[CrisisAutonomousMarriage|crisis autonomous marriage]] and [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]].
-
-## Connections
-- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode.
-- [[MenciusText|《孟子》]] - text preserving the dialogue material used by the episode.
-- [[Confucius|孔子]] - intellectual ancestor whose renyi path Mencius actively amplifies.
-- [[WarringStatesPeriod|战国时期]], [[ZouState|邹国]], and [[JixiaAcademy|稷下学宫]] - historical and intellectual setting.
-- [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - central ruler interlocutors.
-- [[EarlyConfucianResistancePolitics]], [[RighteousnessOverProfit]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], [[ConstantPropertyConstantHeart]], and [[MencianPeopleBasedLegitimacy]] - main concept cluster.
-- [[RespectForEldersTradition]] and [[ElderCareStateCapacity]] - elder-care extension added by episode 165.
-- [[Zisi|子思]], [[SimaGuang|司马光]], [[RenyiBenefitOrdering|仁义优先的利益秩序]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26's renyi-benefit and Song-reception extension.
-- [[XingShanTheory|性善论]], [[HumanNaturePlasticity|人性可变性]], [[XingETheory|性恶论]], and [[FixedHumanNaturePolitics]] - Qinji 101-2 human-nature comparison and anti-fixity frame.
-- [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - Zhouji 45's unity, killing, and popular-attraction extension.
-- [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49's conquest-legitimacy and mistake-correction extension.
-- [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], [[SuQin|苏秦]], and [[MencianGreatManCriterion|孟子大丈夫标准]] - Zhouji 56's moral evaluation of zonghengjia greatness.
-- [[TengState|滕国]], [[SongJunYan|宋康王 / 宋君偃]], [[MencianBenevolentGovernment|孟子仁政]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 68's Teng-as-experiment branch.
-- [[ZiChan|子产]], [[ZhengState|郑国]], [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]], and [[LocalGovernanceAsCare|Local Governance As Care]] - Zhouji 75-1 public-infrastructure version of Mencian governance.
-- [[JunWangHou|君王后]], [[TaishiJiao|太史敫 / 太史角]], [[CrisisAutonomousMarriage|患难自主婚姻]], and [[MarriageRitualOrthodoxy|婚姻礼法正当性]] - Zhouji 79 marriage-ritual branch.
+## Relationships
+- [[ShangTang]] - rescue model invoked in later reading of the Yan conquest dialogue, not a contemporary of Mengzi.
+- [[SuQin]] - adjacent diplomat compared in the later discussion of “大丈夫,” not an attested interlocutor.
+- [[MenciusText]] - attributed collection of his arguments, distinct from this person page.
+- [[QiXuanWang]] - ruler in compassion and Yan-conquest exchanges.
+- [[ZiChan]] - official whose personal kindness becomes a test of public governance.
+- [[XingShanTheory]] - moral-sprout account attributed to Mencius.
+- [[MencianGreatManCriterion]] - normative standard applied to diplomats.
