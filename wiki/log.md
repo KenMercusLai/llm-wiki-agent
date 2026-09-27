@@ -23690,3 +23690,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.80整形科｜秃头姐妹不要慌 自救干货帮你忙
 
 Added source `vol-80-zhengxingke-tutou-jiemei-buyao-huang-zijiu-ganhuo-bang-ni-mang-li5aqx1zugvobfuifx7hkhyvevox`; created `HairLossDiagnosticTriage`; and updated `LuluPlasticSurgeon`, `Minoxidil`, `Dafeixin`, `HairLossFollicleCycle`, and the canonical index from their complete bounded source sets. Core synthesis: women's hair loss should be separated by pattern, timing, triggers, shaft variation, examination, dermoscopy, and sometimes biopsy before treatment; minoxidil is a long-term, diagnosis-sensitive treatment whose adherence, early shedding, unwanted hair growth, application, pregnancy, and breastfeeding boundaries matter. No settled contradiction found. Pull-test thresholds, mechanisms, concentration choices, regulatory descriptions, treatment effects, and all Dafeixin product, service, comfort, price, and promotion claims remain source-scoped public education or sponsorship rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
