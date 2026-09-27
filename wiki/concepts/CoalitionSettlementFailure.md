@@ -1,65 +1,59 @@
 ---
 title: "Coalition Settlement Failure / 联军战后安排失败"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [warfare, diplomacy, statecraft, coalition, warring-states, qin]
-sources: [zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw, zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r, zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo, zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources:
+  - zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu
+  - zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn
+  - zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw
+  - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
+  - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu
+  - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb
+  - zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2
+  - zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r
+  - zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo
+  - zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
 last_updated: 2026-08-22
 ---
 
 # Coalition Settlement Failure / 联军战后安排失败
 
-Coalition settlement failure / 联军战后安排失败 is the pattern [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] identifies after [[HanState|韩国]] and [[ZhaoState|赵国]] defeat [[WeiState|魏国]] at [[ZhuozeBattle|浊泽]]. The coalition can win the battle and besiege [[Anyi|安邑]], but it fails because Han and Zhao disagree on the settlement.
+## Definition
+Coalition settlement failure is a victorious alliance's inability to agree or enforce the distribution of territory, titles, security and obligations after fighting, so its battlefield gain does not become stable joint rule.
 
-In the source, [[ZhaoChenghou|赵成侯]] wants to kill [[LiangHuiWang|魏罃]], install [[GongzhongHuan|公中缓]], and take land. [[HanYihou|韩懿侯]] rejects that as reputationally costly and strategically inadequate, preferring to split Wei into two smaller states so it cannot recover as a great threat.
-
-[[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]] adds a Qin-collapse version after [[JuluBattle|巨鹿之战]]. [[XiangYu|项羽]] accepts [[ZhangHanQin|章邯]]'s surrender for practical reasons, but then makes him 雍王. The episode criticizes this as a settlement failure because 雍州 represents the Qin/[[GuanzhongRegion|关中]] heartland and overlaps the reward logic of the [[HuaiwangAgreement|怀王之约]]. Xiang Yu wins the battlefield and gains submission, but the postwar order he sketches cannot clearly reconcile surrendered Qin commanders, old-state rulers, and the public Guanzhong promise.
-
-[[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] extends the failure from title allocation to surrendered-force management. Xiang Yu's camp fears that surrendered Qin troops resent forced service east of [[HanguPass|函谷关]] and may rebel, so [[YingBu|英布]] and [[PuGeneral|蒲将军]] kill them at [[XinanMassacre|新安坑降]] while sparing [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], and [[DongYiQin|董翳]]. The settlement preserves useful elite collaborators but destroys the mass of surrendered soldiers, revealing how a coalition victory can lack a durable integration plan for the people and forces it has just absorbed.
-
-[[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] extends the failure into capital and base selection. After [[HongmenYan|鸿门宴]], [[XiangYu|项羽]] controls the field strongly enough to enter [[Xianyang|咸阳]], but he kills [[ZiyingQin|子婴]], burns and plunders the capital, and rejects [[HanSheng|韩生]]'s advice to hold [[GuanzhongRegion|关中]] as a defensible, wealthy base. The problem is no longer only how to treat surrendered troops or allocate titles; it is whether battlefield supremacy can become an order with a center.
-
-[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] adds the formal partition layer. Xiang Yu solves the immediate "who divides the world" problem by overriding [[MiXin|芈心 / 楚怀王]] and applying a military-merit story, but the settlement still carries failure risks: [[LiuBang|刘邦]] is confined rather than reconciled, surrendered Qin leaders become the [[ThreeQinContainment|Three Qin]] blocking layer, old kings and new commanders are rearranged, and excluded figures such as [[TianRong|田荣]] and [[ChenYu|陈馀]] remain outside the reward consensus. This extends the concept from plunder-and-depart failure into over-engineered but brittle partition.
-
-[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] adds the backlash mechanism inside that brittle partition. The episode argues that Xiang Yu's settlement does not fail only because some enemies are left alive; it fails because the allocation itself creates [[RewardAllocationBacklash|分配反噬]]. Old kings are demoted, rival claimants are excluded, symbolic authority around [[MiXin|芈心 / 楚怀王]] is handled by force, and Xiang Yu's own commanders are not properly rewarded, so both "倒项" and under-rewarded "拥项" actors have reasons to doubt the order.
-
-[[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] shows the failure converting into operational overload. The settlement generates simultaneous Qi, Peng Yue, and Zhao-side rebellions through [[TianRong|田荣]], [[PengYue|彭越]], and [[ChenYu|陈馀]], while [[LiuBang|刘邦]] uses [[BurningGalleryRoads|burned gallery roads]] to make his Hanzhong retreat look final. A coalition settlement has failed when the ruler must spend his first months defending the allocation itself instead of consolidating the victory.
-
-[[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] adds the next-stage overload after [[HanXin|韩信]] breaks the Three Qin position. [[XiangYu|项羽]] cannot immediately focus on Liu Bang because the settlement is still producing fires in Qi, Chu borderlands, Yan, and around [[MiXin|芈心 / 楚怀王]]. The failed settlement therefore becomes a time-allocation problem: the hegemon has more urgent claimants than he can answer at once.
-
-[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]] adds the failure of symbolic cleanup. Xiang Yu tries to solve the Mi Xin problem by killing the Yi Emperor through [[YingBu|英布]], [[WuRui|吴芮]], and [[GongAo|共敖]], but that action turns into Liu Bang's public justification for assembling lords. A settlement has failed at this point not only because claimants rebel, but because the attempted removal of one legitimacy problem creates a larger coalition argument against the remover.
-
-[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds the territorial unraveling. [[ShenYang|申阳]]'s Henan kingdom, [[ZhengChangHanKing|郑昌]]'s Han kingship, [[WeiBao|魏豹]]'s West Wei position, and [[SimaAng|司马卬]]'s Yin kingship either surrender or are captured as Liu Bang advances. At the same time, Xiang Yu's Qi campaign shows that even a military victory over [[TianRong|田荣]] cannot repair the settlement when punitive occupation turns local submission into renewed resistance.
-
-[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] shows the failure reaching the [[PengchengBattle|彭城之战]] setup. Xiang Yu is not away from [[Xuzhou|彭城]] by accident: [[TianHeng|田横]] and [[TianGuangQiKing|田广]] keep Qi in revolt, [[ChenYu|陈馀]] can be induced to join Liu Bang because Zhao settlement grievances are still alive, and Liu Bang can style the campaign through Yi Emperor [[MiXin|芈心 / 楚怀王]]'s murder. The failed settlement has become a strategic time window in which the capital itself is exposed.
+## Current Synthesis
+At the 369 BCE [[ZhuozeBattle|浊泽]] intervention, Han and Zhao defeated Wei and besieged [[Anyi|安邑]] but disagreed about replacing [[LiangHuiWang|魏罃]]: [[ZhaoChenghou|赵成侯]] favored killing him, installing [[GongzhongHuan|公中缓]] and taking land; [[HanYihou|韩懿侯]] instead proposed dividing Wei to weaken it longer term. Both withdrew, and Wei罃 survived. The anti-Qin settlement poses a different scale of problem. [[ZhangHanQin|章邯]] was offered 雍王 despite an earlier promise about the first entry to 关中; [[XiangYu|项羽]] later allocated [[LiuBang|刘邦]] to 汉中、巴蜀, installed three surrendering Qin generals in 关中 as a [[ThreeQinContainment|blocking layer]] and made competing kings while favoring his own network. Killing surrendered soldiers, burning and plundering [[Xianyang|咸阳]], failing to govern 关中, and eventually killing the nominal 义帝 [[MiXin|芈心]] multiplied legitimacy and security costs. Unrewarded generals and displaced old kings, especially 田荣、彭越、陈馀, reopened fronts; 刘邦 used 义帝's death as a rallying claim and moved against Xiang Yu while eastern rebellions tied him down. Military victory, occupation, promised reward and durable legitimacy did not automatically coincide.
 
 ## Key Claims
-- A coalition's battlefield interests can diverge from its postwar design interests.
-- Short-term extraction and long-term threat removal can point to incompatible settlement plans.
-- A defeated state may survive if its enemies cannot coordinate after victory.
-- Reputation, cruelty, greed, land, puppet rulers, and partition all belong to the settlement calculation, not just the battle outcome.
-- A commander who wins coalition authority can still fail by allocating titles in a way that undercuts the promise system that helped coordinate the coalition.
-- Hanji 139 adds that coalition settlement can fail at the troop-integration level even before the formal division of territory.
-- Preserving surrendered commanders while killing surrendered troops creates a narrow elite bargain and a broad legitimacy deficit.
-- Hanji 142 adds that refusing to build from the conquered center can turn coalition command into plunder-and-depart rule rather than durable settlement.
-- Hanji 144 adds that a settlement can be territorially strong on paper while politically weak because disappointed stakeholders keep comparing rank, land quality, and recognition.
-- Hanji 144 part 2 adds an operational test: a settlement is failing when its enforcement fights create openings for rivals outside the rebellion theater.
-- Hanji 148-2 adds that settlement failure can become a response-lag problem after a rival makes a breakthrough elsewhere.
-- Hanji 149 adds that murdering a residual symbolic ruler can convert settlement enforcement into a coalition-building accusation.
-- Hanji 149 part 2 adds that settlement failure becomes territorial unraveling when rewarded kings and peripheral lords can be absorbed by a rival's commandery system.
-- Hanji 151 part 1 adds that unresolved settlement fires can expose the hegemon's own capital: Qi resistance, Zhao grievance, and Yi Emperor legitimacy combine into Liu Bang's Pengcheng opening.
+- Han and Zhao's different preferred treatment of defeated Wei turned an actual victory into withdrawal without an enforceable settlement.
+- Zhang Han's surrender and title created potential conflict with 怀王之约 before Xiang Yu's larger post-Qin allocation.
+- Xiang Yu's western and eastern grants tried to reward a coalition but displaced old rulers, excluded commanders and constrained Liu Bang; formal titles could produce [[RewardAllocationBacklash|reward backlash]] rather than settle loyalty.
+- Treatment of surrendered Qin troops and occupied Guanzhong damaged integration and local legitimacy independent of the title allocation itself.
+- Eastern uprisings, western reversals and the 义帝 legitimacy dispute interacted; no one settlement error alone explains the eventual outcome.
 
-## Connections
-- [[HanState|韩国]], [[HanYihou|韩懿侯]], and [[GongsunQi|公孙齐]] - Han side of the coalition.
-- [[ZhaoState|赵国]] and [[ZhaoChenghou|赵成侯]] - Zhao side of the coalition.
-- [[WeiState|魏国]], [[LiangHuiWang|魏罃 / 梁惠王]], [[GongzhongHuan|公中缓]], and [[Anyi|安邑]] - target state and claimants.
-- [[ZhuozeBattle|浊泽之战]] - military victory that the coalition fails to exploit.
-- [[SuccessionCrisisIntervention]] and [[EarlyWarringStatesInterstateWar]] - adjacent patterns.
-- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj|Qinji 137]], [[XiangYu|项羽]], [[ZhangHanQin|章邯]], [[HuaiwangAgreement|怀王之约]], and [[GuanzhongRegion|关中]] - post-Julu surrender settlement and 雍王 title problem.
-- [[XiangYu|项羽]], [[XinanMassacre|新安坑降]], [[SimaXin|司马欣]], [[DongYiQin|董翳]], [[YingBu|英布]], and [[PuGeneral|蒲将军]] - Hanji 139's surrendered-force settlement failure.
-- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]], [[Xianyang|咸阳]], [[GuanzhongRegion|关中]], [[HanSheng|韩生]], and [[ZiyingQin|子婴]] - capital destruction, rejected base advice, and the post-Hongmen settlement failure.
-- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]], [[RewardAllocationBacklash|分配反噬]], [[HanGuang|韩广]], [[HanCheng|韩成]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - partition backlash and Liu Bang's base-building response.
-- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]], [[TianRong|田荣]], [[PengYue|彭越]], [[ChenYu|陈馀]], [[BurningGalleryRoads|烧栈道]], and [[GuanzhongRegion|关中]] - rebellion cascade and western opening.
-- [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[HanXin|韩信]], [[WangLingHanMinister|王陵]], [[HanGuang|韩广]], and [[MiXin|芈心 / 楚怀王]] - breakthrough in the west plus unresolved settlement fires elsewhere.
-- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149]], [[YingBu|英布]], [[WuRui|吴芮]], [[GongAo|共敖]], and [[LiuBang|刘邦]] - failed symbolic cleanup and Liu Bang's anti-Xiang call.
-- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[ShenYang|申阳]], [[ZhengChangHanKing|郑昌]], [[WeiBao|魏豹]], [[SimaAng|司马卬]], [[TianRong|田荣]], and [[AtrocityBackfireMobilization|暴行反噬式动员]] - surrender/capture of settlement lords plus failed Qi pacification.
-- [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]], [[PengchengBattle|彭城之战]], [[TianHeng|田横]], [[TianGuangQiKing|田广]], [[ChenYu|陈馀]], [[DongGongXincheng|董公]], and [[Xuzhou|彭城]] - unresolved Qi, Zhao, and Yi Emperor problems opening the Chu capital.
+## Evidence
+### Victory without common terms
+- [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] recounts Han and Zhao's victory over Wei, siege of 安邑, incompatible plans for 魏罃 and 公中缓, night withdrawal and Wei罃's eventual killing of his rival. 司马迁's explanation is attributed to the episode.
+### Surrender and partition
+- [[zizhi-tongjian-qinji-137-shendu-jiedu-zhiluweima-zhong-de-quanli-boyi-lgkjmddvrcelw2ltdwt92e4poguj]] reports Chen Yu's appeal and Xiang Yu's logistical incentive to accept Zhang Han's surrender, then the proposed 雍王 title against the earlier 关中 promise. [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]] traces Liu Bang's 汉中/巴蜀 assignment, three surrendered Qin generals in 关中 and nominal displacement of 芈心; it does not say 芈心 was already killed.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo]] contrasts 刘邦's preservation of Qin administrative records and local offices with Xiang Yu's [[XinanMassacre|killing of surrendered soldiers at 新安]] while sparing 张邯、[[SimaXin|司马欣]]、[[DongYiQin|董翳]]. [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r]] records the later destruction and plunder of 咸阳 and a failure to establish Guanzhong governance.
+### Rebellion, legitimacy and opportunity
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]] and [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu]] describe the grievances of displaced rulers and unrecognized commanders, including [[TianRong|田荣]], [[PengYue|彭越]] and [[ChenYu|陈馀]], producing multiple eastern fronts. [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm]] describes their human and political repercussions; [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]] describes [[ShenYang|申阳]] and [[WeiBao|魏豹]] surrendering to Liu Bang, [[ZhengChangHanKing|郑昌]]'s surrender and [[SimaAng|司马卬]]'s capture, alongside renewed [[AtrocityBackfireMobilization|resistance to abusive occupation in Qi]]. This is the defection channel, distinct from general [[HanXin|韩信]] breaking the three Qin kings and from [[HanWangXin|韩王信]], installed after Zheng Chang.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw]] records Xiang Yu ordering [[YingBu|英布]], [[WuRui|吴芮]] and [[GongAo|共敖]] against 芈心; the note says all three initially hesitated and Ying Bu ultimately killed him. 刘邦 later adopted the killing as a legitimacy grievance. [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu]] records the pre-[[PengchengBattle|彭城之战]] window: [[TianHeng|田横]] installed [[TianGuangQiKing|田广]] in Qi and kept Xiang Yu's army away from 彭城, while the 义帝 slogan and Zhao enmities altered Liu Bang's opportunity; this installment does not narrate the battle tactics.
+
+## Counterevidence & Qualifications
+- The 浊泽 of Han-Zhao intervention is not the later anti-Qin withdrawal's 浊泽. Han's reputation concern and long-term Wei division plan differed from Zhao's immediate territorial plan.
+- The Xiang Yu notes are one program's linked interpretation, not independent corroboration. Claimed totals, e.g. surrendered troop numbers and nineteen kings, and speculative motives or 刘邦's maneuvering remain attributed to the speaker.
+- 刘邦's policies were not simply nonviolent; coalition instability also involved supply, war losses and control capacity. 韩王信 and general 韩信 are different people.
+
+## What Changed
+- Distinguished a winning alliance unable to agree on terms from an imposed but unstable imperial partition and its separate occupation and legitimacy costs.
+
+## Related Concepts
+- [[CoalitionSelfPreservationFailure]] - refusal to bear joint wartime cost, as distinct from post-victory distribution.
+- [[HuaiwangAgreement]] - prior 关中 promise against which the new kingship was judged.
+- [[AntiQinCoalitionFragmentation]] - regional claims and unrewarded allies undermined the partition.
+- [[SuccessionCrisisIntervention]] - Wei's internal succession created the initial Han-Zhao opportunity.
+- [[GuanzhongRegion]] - strategically important territory whose occupation and title allocation clashed.
