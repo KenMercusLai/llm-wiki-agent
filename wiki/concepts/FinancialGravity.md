@@ -2,45 +2,52 @@
 title: "Financial Gravity"
 type: concept
 tags: [startup, governance, power, incentives]
-sources: [serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
+sources:
+  - serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66
+  - eric-ries-on-how-founders-quietly-lose-their-company
+  - eric-ries-incorruptible-by-design-wrgromn5peq
+  - justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b
+  - e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e
+  - shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306
+  - e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2
+  - advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-08
 ---
 
 # Financial Gravity
 
-Financial gravity is [[EricRies]]'s term for the pull created by economic or status disparities between people and institutions. In [[eric-ries-on-how-founders-quietly-lose-their-company]], he argues that founders, employees, boards, customers, investors, and acquirers can gradually change behavior around powerful actors until those adaptations become internal company values. [[eric-ries-incorruptible-by-design-wrgromn5peq]] sharpens the definition: financial gravity is a hidden force that aligns companies toward similar values and behaviors, especially extraction, short-term thinking, bureaucracy, and mission loss, unless institutions are designed to withstand it. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds [[JustinsNutButter]] as a concrete acquisition case where [[Hormel]] gave the team life-changing liquidity but also changed [[JustinGold]]'s relationship to the brand. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where [[TSGConsumerPartners]], a failed [[LOreal]] process, and [[TPG]] each changed the founder's options and control context. [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]] adds [[Shopify]], where Silicon Valley term sheets were attractive but came with relocation expectations, and later venture funding pushed the company toward IPO-or-sale logic.
+## Definition
+Financial gravity is [[EricRies]]'s metaphor for wealth and status asymmetries pulling companies toward the priorities of investors, major customers, acquirers or market norms without an explicit mission reversal.
 
-[[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] adds the finance-platform version through [[YouzhiYouxing]]. The pressure is not only investor or acquirer power; it is also the everyday availability of higher take rate, paid exposure, product expansion, bull-market conversion, and talent-cost pressure inside a trust-heavy wealth-management business.
-
-[[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds a smaller CPG version through [[JajuPierogi]]. [[CaseyWhite]] faces the industry assumption that grocery growth eventually requires outside capital, while [[JeniBritton]] reframes capital as a power tradeoff that should be delayed or bounded when loans, grants, friends-and-family funding, or advisors can solve the immediate operating need.
-
-[[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]] adds [[SerenaAndLily|Serena & Lily]] as a high-growth consumer-brand version. [[LilyKanter]] and [[SerenaDugan]] had demand and fast DTC growth, but urgent working-capital needs made the company vulnerable to [[BadMoney]], board conflict, and a [[LiquidationPreferenceStack]] that shaped acquisition choices after the cash was spent.
+## Current Synthesis
+The Ries talks give a theory and proposed governance defenses; founder accounts illustrate how cash needs, financing terms and exit expectations change options, while other cases show that outside capital can also enable growth or liquidity.
 
 ## Key Claims
-- Financial pressure can redirect a company without anyone explicitly deciding to abandon the mission.
-- Investor expectations, major customers, public-market norms, and acquirer incentives can become de facto vetoes inside a company.
-- Ries compares institutional failure to bridge failure: gravity is real, but design, materials, load, and corrosion still determine whether the structure holds.
-- [[CustomerConcentrationRisk]] is one concrete SaaS version of financial gravity because a large customer can distort the roadmap even through implied preferences.
-- Trustworthy mission-driven companies are especially exposed because the trust they create becomes valuable to outside actors.
-- [[StartupGovernance]], [[StewardOwnership]], and benefit-trust structures are Ries's proposed defenses: make mission, authority, board structure, ownership, and stakeholder commitments explicit before pressure intensifies.
-- Founder identity can amplify financial gravity when the company brand is personally tied to the founder and local values.
-- Capital can reshape location, pace, and exit expectations even before an investor actually closes a round.
-- Financial platforms face a direct version of gravity when higher-margin revenue paths are available but would weaken [[TrustAsBusinessAsset]] or [[InvestmentForBetterLife]].
-- CPG capital can exert gravity by making fundraising feel like the normal status path even when the company needs a narrower financing or advisory solution.
-- Inventory-heavy brand growth can strengthen financial gravity because the company needs cash most visibly when orders, catalogs, and stores are already expanding.
+- Unequal resources can redirect a roadmap and behavior through implied customer or investor preferences.
+- Inventory-heavy growth and financing terms can convert strong demand into weakened negotiating power and constrained exits.
+- Financing and acquisition can create useful scale or founder liquidity without by themselves proving mission corruption.
+- Location, managerial pace and expected exit path can change before or after a venture round.
+- Purpose, board authority, ownership and deliberate revenue restraint may resist drift, but none guarantees it.
 
-## Connections
-- [[EricRies]] - source of the term in this wiki.
-- [[StartupGovernance]] - structural response to financial gravity.
-- [[StewardOwnership]] and [[LongTermBenefitTrust]] - alternative structures discussed in the Long Now talk.
-- [[TrustAsBusinessAsset]] - reason mission-driven companies can become attractive targets for capture.
-- [[CustomerConcentrationRisk]] - customer-side version of the pressure.
-- [[ShareholderPrimacy]] - legal and market version of the pressure.
-- [[LongTermStockExchange]] - example of an organization resisting pressure to conform.
-- [[SaaSTrustMoat]] - related idea that trust can be both a moat and a valuable asset others try to capture.
-- [[JustinGold]], [[JustinsNutButter]], [[Hormel]], and [[PostAcquisitionFounderIdentity]] - acquisition case where financial success and identity loss coexist.
-- [[JoeyShamah]], [[ELFCosmetics]], [[TSGConsumerPartners]], [[LOreal]], and [[TPG]] - staged capital and acquisition context from the e.l.f. episode.
-- [[Shopify]], [[TobiasLutke]], and [[BessemerVenturePartners]] - venture-scale case where funding expectations changed the company's path.
-- [[YouzhiYouxing]], [[FinancialPlatformIncentives]], [[InvestorSuitabilityFriction]], and [[KnowingEnough]] - finance-platform version added by E44.
-- [[JajuPierogi]], [[CaseyWhite]], [[StartupGovernance]], and [[SustainableGrowthPace]] - CPG growth-financing case where outside capital can change control before it solves the operating problem.
-- [[SerenaAndLily|Serena & Lily]], [[LilyKanter]], [[SerenaDugan]], [[InventoryHeavyConsumerBrandFinancing]], [[BadMoney]], and [[LiquidationPreferenceStack]] - consumer-brand case where growth and weak financing terms pulled against founder optionality.
+## Evidence
+- [[eric-ries-on-how-founders-quietly-lose-their-company]] explains Ries's [[CustomerConcentrationRisk]] example: one dominant SaaS customer can bend a roadmap even without a formal veto; he proposes mission-bearing charters and board authority. [[eric-ries-incorruptible-by-design-wrgromn5peq]]'s [[Incorruptible]] talk extends the analogy to [[TrustAsBusinessAsset]], [[ShareholderPrimacy]] and externality-blind profit, while offering [[StewardOwnership]] and [[LongTermBenefitTrust]] as designs. Both sources are Ries's own framework; his [[LongTermStockExchange]] is one self-reported institutional design case, not independent empirical confirmations.
+- [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]]'s [[LilyKanter]] and [[SerenaDugan]] recall [[SerenaAndLily|Serena & Lily]] seeking 50% retailer deposits on early orders around $100,000, then DTC revenue growing about $5m, $10m and $20m in successive years while inventory and catalogs consumed cash. A family-office dispute led to a buyout with 50% return funded by 2x participating preferred, complicating later raises and earnout acquisition offers: [[InventoryHeavyConsumerBrandFinancing]], [[BadMoney]] and [[LiquidationPreferenceStack]] explain the mechanism, not just investor character.
+- [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] recounts [[JustinGold]] receiving [[VMG]] investment around $47m and [[Hormel]]'s 2016 $280m acquisition of [[JustinsNutButter]], after which he described both financial success and identity tension; it does not prove product mission destruction. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] recounts [[JoeyShamah]]'s [[ELFCosmetics]] accepting a 49% minority investment from [[TSGConsumerPartners]], a failed [[LOreal]] sale process, and a later [[TPG]] majority stake plus a new CEO—a staged capital and control transition rather than a categorical failure.
+- [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]] says [[TobiasLutke]]'s [[Shopify]] team resisted Silicon Valley term sheets contingent on moving from Canada; later [[BessemerVenturePartners]] financing and a repeatable marketing pattern made the IPO-or-sale route more salient, while Lütke intentionally moderated growth as he learned the CEO role. [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]]'s [[JeniBritton]] advises [[CaseyWhite]] at [[JajuPierogi]] to consider loans, grants, friends-and-family and advisers before selling ownership; this is counsel, not an observed loss of control.
+- [[e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]] attributes to [[MengYan]] a [[YouzhiYouxing]] refusal of paid homepage slots or fund exposure and [[InvestorSuitabilityFriction|user questionnaires]] that lower conversion. [[FinancialPlatformIncentives]] can pull toward higher take rates, but this is a founder's stated restraint; durable [[KnowingEnough|restraint]] and [[StartupGovernance]] still depend on ownership, board and successors.
+
+## Counterevidence & Qualifications
+- Capital need not corrupt: [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] and [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] include beneficial funding or exits, and [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] is prospective advice. [[serena-lily-serena-dugan-and-lily-kanter-they-built-a-20m-brand-then-one-investor-almost-destroyed-it-31a4ddcd-1cc1-48d0-9369-fd85e8714e66]] and other founder accounts are retrospectives; preferences, litigation and causal outcomes were not independently adjudicated here. [[eric-ries-on-how-founders-quietly-lose-their-company]] and [[eric-ries-incorruptible-by-design-wrgromn5peq]] repeat the same speaker's theory; bridge/gravity language is analogy, not a physical law.
+
+## What Changed
+- Kept Ries's definition distinct from case evidence and made positive capital outcomes and prospective advice explicit.
+
+## Related Concepts
+- [[StartupGovernance]] - formal authority may set limits before financial pressure rises.
+- [[FundholderMutualOwnership]] - ownership design can change where surplus flows.
+- [[PostAcquisitionFounderIdentity]] - liquidity and a founder's continuing bond to a brand can diverge.
+- [[SustainableGrowthPace]] - choosing narrower financing may preserve operating options.
+- [[FinancialPlatformIncentives]] - channel fees and take rate are a finance-service version of the pull.
+- [[SaaSTrustMoat]] - an enterprise's customer trust can defend retention yet also attract capture by powerful buyers.
+- [[InvestmentForBetterLife]] - Meng Yan's user-outcome principle provides a concrete test of revenue restraint.
