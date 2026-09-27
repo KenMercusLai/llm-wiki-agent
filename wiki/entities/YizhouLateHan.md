@@ -2,39 +2,47 @@
 title: "益州 / Yizhou (Late Han)"
 type: entity
 tags: [place, province, late-han, china]
-sources: [zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2, zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]
 last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2
+  - zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5
+  - zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy
+  - zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j
+  - zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth
+knowledge_schema: synthesis-v1
 ---
 
 # 益州 / Yizhou (Late Han)
 
-[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] adds a short 176 CE marker in the broader Yizhou field. The annal says Yizhou Commandery Yi cavalry rebelled and were suppressed by administrator Li Yong, so this page keeps the notice source-scoped rather than creating a standalone Li Yong page. It is an early southwest disorder marker before the later Bandun Man, Liu Yan, and Liu Zhang branches.
+## Overview
+益州的州牧权力与地理屏障不能消除外来军队和本土士族的内部裂缝。
 
-[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] adds an earlier Yizhou disorder marker before the Liu Yan provincial-shepherd branch. The episode reports the inspector's inability to suppress the [[BandunMan|板楯蛮]] rebellion, making Yizhou part of the late-Han regional-pressure field before Hanji 939-940 develop destination choice, inspector corruption, and local revolt.
+## Current Profile
+东汉末益州作为州域，不同于其中的益州郡；先有边地与地方失序，刘焉借州牧制度入主后隔绝通道并建地方军政，继任的刘璋仍需平衡东州兵和本土豪族。西部盆地的防御地理不是内部统合的证明。
 
-[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] adds Yizhou's selection prehistory before the revolt and pacification branch. [[LiuYanLateHan|刘焉]] seeks a safer provincial post after proposing stronger provincial shepherds; [[DongFuLateHan|董扶]] then says [[YizhouLateHan|益州]] has imperial qi, while [[XiJianLateHan|郗俭 / 郤俭]]'s corrupt reputation makes the province a plausible crisis destination.
+## Key Characteristics
+- 早期益州郡与板楯蛮事件仅提示不同层级的西南压力，不能直接解释刘焉政权。
+- 州牧职权扩大与本地叛乱共同形成刘焉入州的制度和军事窗口。
+- 控制汉中、交通与东州军使中央任命不能自动转为地方实际统治。
+- 刘焉死后刘璋获地方支持，但移民武装和本地精英仍有裂痕及人才外流。
 
-[[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] adds the immediate crisis before Liu Yan's provincial base. [[MaXiangLateHan|马相]] and [[ZhaoZhiLateHan|赵祗]] rise at [[MianzhuLateHan|绵竹]], kill inspector [[XiJianLateHan|郗俭]], and spread toward [[BaCommanderyLateHan|巴郡]] and [[QianweiCommanderyLateHan|犍为郡]] before [[JiaLongLateHan|贾龙]] restores order and welcomes [[LiuYanLateHan|刘焉]].
+## Evidence
+- 176年益州郡夷骑起事，太守李颙平之；这是郡级边地记事，不是整个州已失控。[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2]] 稍后[[BandunMan|板楯蛮]]反叛使督察难以维持秩序，但节目只给一段压力标记。[[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5]]
+- 刘焉提出以州牧代刺史并欲求较安全去处，[[DongFuLateHan|董扶]]以“王气”建议益州，[[XiJianLateHan|郗俭]]贪腐构成当地风险。[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy]] [[MaXiangLateHan|马相]]、[[ZhaoZhiLateHan|赵祗]]起[[MianzhuLateHan|绵竹]]、杀郗俭并波及[[BaCommanderyLateHan|巴郡]]、[[QianweiCommanderyLateHan|犍为郡]]，[[JiaLongLateHan|贾龙]]击退后迎刘焉；刘焉移州治绵竹，节目称以宽惠安抚乱后民众，构成[[YizhouPacificationByLeniency|宽惠安抚]]的入主路径；所以其入主并非纯粹朝廷任命。[[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]]
+- 州牧体制下刘焉清洗地方豪强，借[[ZhangLuFivePecks|张鲁]]、[[ZhangXiuFivePecks|张修]]在[[Hanzhong|汉中]]断[[XieguRoadLateHan|斜谷道]]，并留下奉朝廷命来探视的子[[LiuZhang|刘璋]]。[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq]] 节目用此解释[[ProvincialShepherdAutonomy|州牧集权]]，但每项行动仍要与宗教武装及地方力量分开。[[YangzhouLateHan|扬州]]、[[Jingzhou|荆州]]和益州在[[RiverCorridorStrategicBase|长江线据点]]比较中，益州易守却难迅速东进，[[JianglingLateHan|江陵]]的位置不同。[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]]
+- 据节目，刘焉此前遣蜀兵五千暗助马腾，长安内应刘范、刘诞败露身死，绵竹又受火灾；刘焉死后[[ZhaoWeiLateHan|赵韪]]等推刘璋，不能把继承描述为无危机的自然交接；南阳及三辅来人组成的东州兵与本地士族形成[[ImportedTroopsLocalEliteCleavage|外来兵与本土豪族]]的紧张。[[GanNing|甘宁]]起事失败后东去，是人才不能全被继承政权吸收的例子；[[Chengdu|成都]]则为后期州治。[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]]
 
-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] backfills Yizhou as Liu Yan's autonomy laboratory. The source says the strengthened provincial shepherd office lets [[LiuYanLateHan|刘焉]] gather enough military and administrative power to kill local strongmen, use [[ZhangLuFivePecks|张鲁]] and [[ZhangXiuFivePecks|张修]] in [[Hanzhong|汉中]], block the [[XieguRoadLateHan|斜谷道]], and retain [[LiuZhang|刘璋]] after the court sends him as envoy.
+## Qualifications
+“益州郡夷骑”是郡级而非益州全州；板楯蛮一则不足支持完整政权起源。董扶王气之说与川西易守是节目记载及评估，非受证实的命运。东州兵并非所有移民，甘宁一例不能证明全体本地豪族反刘璋。
 
-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds a comparative strategic-geography note before the Liu Yan/Liu Zhang succession branch. The episode places Yizhou beside [[YangzhouLateHan|扬州]] and [[Jingzhou|荆州]] on the Yangtze-line map, treating it as a defensible western base whose remoteness makes it less immediately flexible than Yangzhou or the [[JianglingLateHan|江陵]] pivot in Jingzhou.
+## What Changed
+- 将早期郡级骚动与188年以后州牧割据断开，避免同名地理层级混淆。
+- 继承的形式合法性与实际地方阵营整合分别讨论。
 
-[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] later develops 益州 / Yizhou (Late Han) as the provincial base held by [[LiuYanLateHan|刘焉]] and then inherited by [[LiuZhang|刘璋]]. The episode emphasizes that the Han court cannot simply decide Yi Province's leadership from outside; local officeholders and armed groups determine whether a formal appointment can work.
-
-The source treats Yizhou as internally divided. Liu Yan's order depends on a Dongzhou military bloc made from Nanyang and Sanfu migrants, while local Yi Province elite families remain a separate resource and legitimacy base. This makes the province a source case for [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]].
-
-After Liu Yan dies, senior figures such as [[ZhaoWeiLateHan|赵韪]] support Liu Zhang. Yet the same structure produces talent leakage: [[GanNing|甘宁]] rebels, is defeated, and eventually leaves eastward rather than becoming part of Liu Zhang's order.
-
-## Connections
-- [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] - source-scoped 176 CE Yizhou Commandery Yi cavalry revolt and suppression by Li Yong.
-- [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]], [[BandunMan|板楯蛮]], [[YangCiLateHan|杨赐]], and [[Xianbei|鲜卑]] - early regional-pressure marker before Liu Yan's Yizhou branch.
-- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]], [[LiuYanLateHan|刘焉]], [[DongFuLateHan|董扶]], [[ZhaoWeiLateHan|赵韪]], [[XiJianLateHan|郗俭 / 郤俭]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - destination choice and provincial-shepherd prehistory.
-- [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]], [[MaXiangLateHan|马相]], [[ZhaoZhiLateHan|赵祗]], [[XiJianLateHan|郗俭]], [[JiaLongLateHan|贾龙]], [[MianzhuLateHan|绵竹]], [[BaCommanderyLateHan|巴郡]], and [[QianweiCommanderyLateHan|犍为郡]] - revolt, suppression, and Liu Yan entry.
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[ZhangLuFivePecks|张鲁]], [[ZhangXiuFivePecks|张修]], [[Hanzhong|汉中]], [[XieguRoadLateHan|斜谷道]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - early autonomy and road-control branch.
-- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - comparative Yangtze-line base evaluation.
-- [[LiuYanLateHan|刘焉]] and [[LiuZhang|刘璋]] - predecessor and successor.
-- [[PangXiLateHan|庞羲]] and [[ZhaoWeiLateHan|赵韪]] - officials around the succession.
-- [[GanNing|甘宁]] - local talent-loss case.
-- [[Chengdu|成都]] - later provincial-seat location in the source.
-- [[YizhouPacificationByLeniency|益州宽惠安抚]], [[ImportedTroopsLocalEliteCleavage|外来武装与本土豪族裂缝]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[TalentAsStateTreasure|以贤臣为宝]] - concepts attached to the province's source role.
+## Relationships
+- [[LiuYanLateHan]] - 州牧权力和通道控制改变益州与汉廷的关系。
+- [[LiuZhang]] - 接掌州域却继承了外来兵与本地豪族的张力。
+- [[Hanzhong]] - 北向通道由宗教军事集团把持，影响州域对外联络。
+- [[ImportedTroopsLocalEliteCleavage]] - 益州政权虽偏安却存在内部兵源与士族裂缝。
