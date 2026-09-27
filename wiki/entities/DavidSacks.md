@@ -2,58 +2,101 @@
 title: "David Sacks"
 type: entity
 tags: [person, startups, management]
-sources: [all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830, all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880, all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955, all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360, all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140, all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260, all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830
+  - all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420
+  - all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390
+  - all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880
+  - all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545
+  - all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920
+  - all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955
+  - all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360
+  - all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140
+  - all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260
+  - all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790
+  - e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d
+  - tsr-s4-samaltman-v4-tsr-s4-samaltman-v4
+  - socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8
+  - all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
-# David Sacks
+## Overview
+David Sacks is an [[AllIn]] host and AI-policy voice whose recorded positions favor U.S. model deployment, infrastructure growth and permissionless innovation over fragmented or mandatory pre-release permissioning. His source footprint also covers platform speech, market and political forecasts, interviews, a Stanford/PayPal network history, and a contested Zenefits CEO transition. A show title or guest interview is not evidence he endorses every idea discussed there.
 
-[[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] adds Sacks's strongest regulatory-capture and release-governance branch. He says [[Anthropic]]'s policy advocacy can still create [[AIRegulatoryCaptureRisk]] even if [[DarioAmodei|Dario Amodei]] is sincere, contrasts a FINRA/FAA/FDA-style AI checkpoint with an MPAA-like standards model, and warns that a "DMV for AI" could slow U.S. releases while [[OpenSourceAIModels|open models]] and [[China]] catch up.
+## Current Profile
+Sacks distinguishes admiration for [[Anthropic]]'s products from criticism of its regulatory advocacy, supports a globally competitive U.S. AI stack, and argues that the state and platforms can coerce speech indirectly. His political-economic predictions and reports of foreign policy are time-bound. The Zenefits controversy is principally represented by [[ParkerConrad]]'s account without Sacks's reply, so it remains a disputed biographical episode.
 
-[[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] adds three Sacks branches: he praises [[Anthropic]] product execution while rejecting AI permissioning regimes, argues children should become AI-native rather than be broadly blocked from AI chat tools, and says [[DonaldTrump]] appointed him to [[PCAST]] with [[MichaelKratsios|Michael Kratsios]] as co-chair while his advisory remit expands beyond AI and crypto.
+## Key Characteristics
+- He rejects incumbent-favoring AI release approval while recognizing safety concerns and preferring contestable standards or ratings to a “DMV for AI.”
+- He frames energy, chips, model availability and overseas adoption as interdependent pillars of U.S. AI competitiveness, with power costs and bias as governance constraints.
+- He follows model-routing economics and open-weight competition while warning that enterprises need middleware and portable context to switch providers.
+- He treats governmental and foreign regulatory pressure on platforms as a free-speech risk, preferring open correction tools such as Community Notes.
+- In interviews and forecasts he links AI diffusion, labor demand, capital formation and industrial policy, while named guests retain ownership of their claims.
+- His earlier campus-network affiliation and Zenefits succession belong in the profile, with disputed responsibility and reputation allegations attributed to their narrators.
 
-[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds Sacks's model-routing and policy-mechanics role. He emphasizes that enterprises can diversify across models through middleware, raises the possibility that China restricts overseas model access, and clarifies tax and withdrawal mechanics around [[TrumpAccounts|Trump accounts]].
+## Evidence
+- **Safety and release governance:** [[all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830]] has Sacks argue that Amodei may be sincere but Anthropic's state/federal advocacy raises [[AIRegulatoryCaptureRisk]], contrasting FINRA/FAA/FDA-like approval with MPAA-style voluntary standards; he worries a release gate cannot contain [[RecursiveSelfImprovementRegulationParadox]] while open models and China advance. [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] records his praise of Claude execution alongside objection to AI permissioning and his argument for AI literacy for children rather than broad bans. [[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] records his contested view that Anthropic's “cyber weapon” description helped prompt government action on [[Fable5]]; he calls Musk's reported trillionaire status [[PaperWealthVsCashValue]] and calls a tentative Iran memorandum preferable to more bombing or invasion.
+- **National strategy:** [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] has Sacks and [[MichaelKratsios]] discuss [[AmericanAIStackStrategy]], [[PermissionlessAIInnovation]], [[DataCenterPowerBottleneck]], [[DataCenterCostShifting]] and overseas adoption. Sacks estimates U.S. leads of roughly six months in models, two years in chips and five years in equipment, while citing more than 1,200 state AI bills and warning of government surveillance and [[PoliticalBiasInAIProcurement]]. These are speaker estimates and policy judgments. [[all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420]] records his statement of appointment to [[PCAST]] with Kratsios as co-chair, with a remit extending beyond AI and crypto to nuclear, quantum, semiconductors, biotech and China.
+- **Markets, routing and forecasts:** [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] attributes to Sacks the view that enterprises want multiple models but often lack routing middleware (naming Coinbase and DoorDash), and his episode account of [[TrumpAccounts]]: families up to $5,000 yearly per child and employers up to $2,500 tax-free. These amounts are not legal verification. [[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] records his Texas move and California wealth-tax criticism, “Trump boom”/IPO forecasts, [[JevonsParadoxInAI]] labor counterargument and [[AcceleratedDepreciationCapexPullForward]] investment thesis; these do not settle outcomes or fellow hosts' contrary labor claims.
+- **Speech and interviews:** [[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] has Sacks and [[SarahBRogers]] call EU platform fines a possible “censorship tariff” and discuss [[CensorshipIndustrialComplex]], [[IntermediarySpeechPressure]] and [[CommunityNotes]], a one-sided interpretation that does not dispose of European child-safety rationales. [[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] identifies Sacks as interviewer asking [[SatyaNadella]] about [[MicrosoftCopilot]], [[Agent365]], [[AIEconomicDiffusion]], local AI, [[OpenAI]] dependence, SaaS and new hires; the enterprise-architecture answers remain Nadella's.
+- **Career and dispute:** [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] places Sacks in [[PeterThiel]]'s [[StanfordReview]] and PayPal-adjacent [[TechnologyRightPowerNetwork]] and notes their co-authored critique of university diversity politics; the larger power-network thesis is the show's interpretation. [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] says Sacks became [[Zenefits]] CEO after Conrad and, *according to Conrad*, framed compliance failures around sales and hired [[LannyDavis]] amid an aggressive media campaign. [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] records [[SamAltman]] calling the [[ParkerConrad]]/Zenefits/Sacks affair a severe YC founder-defense problem, not a full adjudication.
+- **Context without individual endorsement:** [[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]], [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]], [[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] and [[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] cover [[Cerebras]]/[[BlackForestLabs]], [[Circle]]/[[CrowdStrike]]/[[ArcherAviation]]/[[Crusoe]], CES [[PhysicalAI]] and [[HowardLutnick]] on [[TradeReciprocityProtectionism]] and [[TaxpayerReturnIndustrialPolicy]]. Their notes do not isolate a new Sacks thesis from the guests or other hosts.
 
-[[all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880]] adds Sacks in the [[AllIn|All-In]] host context for a two-part episode on [[Cerebras]], inference-speed constraints, open-source model sovereignty, model-release safety, [[BlackForestLabs|Black Forest Labs]], and AI creative tools. The source notes do not isolate a separate Sacks-specific claim, but they extend his AI-policy and infrastructure context.
+## Qualifications
+- Repeated All-In appearances share one show and its policy orientation. The “only one private AI company,” Fable shutdown, SpaceX IPO figures and future IPO valuations are reported or contested show claims, not independent findings; its June and July SpaceX proceeds accounts even disagree ($85 billion versus $75 billion). The Iran deal was only a memorandum in June.
+- Sacks's AI-capex optimism does not resolve return-on-capital, utility-cost shifting or state consumer protections; his geopolitical lead estimates are not independently measured here. Trump account limits and contributions are episode figures, not a legal audit.
+- Conrad's Zenefits account acknowledges real compliance and operating problems but omits Sacks's response; do not present allegations about blame assignment or PR motives as established. Altman's brief corroboration of crisis severity does not verify every Conrad allegation.
+- The Rogers discussion is one-sided on foreign regulation; Lutnick, Nadella, Feldman, Rombach and CES guests speak for themselves. Sacks's PCAST role is presented as he described it in the episode.
 
-[[all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545]] adds Sacks's paper-wealth, Fable-security, and Iran-deal arguments. He says [[ElonMusk|Elon Musk]]'s trillionaire status is mainly [[PaperWealthVsCashValue|paper wealth]], frames the [[Anthropic]] and [[Fable5|Fable 5]] export-control letter as a national-security response to perceived cyber risk, and defends the Iran memorandum as preferable to continued bombing or ground invasion.
+## What Changed
+- The profile distinguishes Sacks's attributable policy positions and interview questions from guests' claims and title-only host mentions.
+- The Zenefits succession is retained with explicit one-sided provenance rather than converted into a finding of misconduct.
 
-[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds Sacks in the [[AllIn|All-In]] host context for a Davos episode about regulated [[Stablecoins|stablecoins]], AI cyber defense, eVTOL deployment, defense aviation, and energy-backed AI infrastructure. The source does not isolate a Sacks-specific thesis, but it extends the All-In AI-infrastructure branch beyond national policy into CEO operating constraints.
-
-[[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] adds Sacks as the pro-innovation AI strategy voice in a discussion moderated by [[MariaBartiromo|Maria Bartiromo]] with [[MichaelKratsios|Michael Kratsios]]. He argues that the U.S. is ahead in models, chips, and semiconductor equipment, but that lead depends on [[DataCenterPowerBottleneck|power and data centers]], [[PermissionlessAIInnovation]], global adoption of American chips and models, and resisting government misuse or [[PoliticalBiasInAIProcurement|politically biased AI procurement]].
-
-[[all-in-with-chamath-jason-sacks-friedberg-under-secretary-of-state-sarah-b-rogers-on-dismantling-the-censorship-industrial-complex-39828360]] adds Sacks as the host voice most focused on censorship mechanisms. He frames government censorship as a way for officials to avoid policy feedback, describes EU digital fines as a possible "censorship tariff," connects Biden-era platform pressure to the [[CensorshipIndustrialComplex]], and praises [[CommunityNotes|Community Notes]] as a more transparent correction mechanism.
-
-[[all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140]] adds Sacks as the interviewer for [[SatyaNadella|Satya Nadella]] at Davos. His questions focus the conversation on [[MicrosoftCopilot|Copilot]], agent work, [[Agent365|Agent 365]], AI diffusion, global market share, [[OpenAI]] dependence, model commoditization, local AI, enterprise adoption, and early-career hiring.
-
-[[all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260]] adds Sacks's 2026 forecast role. He describes moving to [[Texas]], attacks the proposed [[California]] wealth tax, predicts a "Trump boom," argues Democratic centrism will lose to younger progressive energy, rejects the neocon label for Trump's Venezuela posture, expects IPOs to reopen, uses [[JevonsParadoxInAI]] to defend knowledge-worker demand, and highlights accelerated depreciation as a real-economy investment driver.
-
-[[all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255]] adds Sacks in the [[AllIn|All-In]] host group for [[HowardLutnick|Howard Lutnick]]'s policy interview. The source does not make a separate Sacks-specific claim, but it extends his podcast-host context into tariffs, [[TradeDealCapitalStructure]], [[MostFavoredNationDrugPricing]], immigration, [[AIExportControls]], and [[TaxpayerReturnIndustrialPolicy]].
-
-[[all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790]] adds Sacks as one of the named hosts in the [[AllIn|All-In]] show context for a live [[CES]] 2026 discussion on [[AICompressedValueCreation]], [[BusinessLedAITransformation]], [[PhysicalAI]], and AI-era hardware. The source does not isolate a Sacks-specific claim; it updates his page by adding the All-In host role to the wiki.
-
-David Sacks appears in [[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] through [[ParkerConrad]]'s account of the [[Zenefits]] crisis. Conrad says Sacks became Zenefits CEO after Conrad left and that the compliance narrative, media posture, and responsibility debate became tied to Sacks' leadership.
-
-The source presents Sacks only through Conrad's first-person account. Conrad argues that Sacks framed compliance problems around the sales organization while Conrad believed many violations sat elsewhere, and says later PR pressure helped keep him personally discredited. Because the episode does not include Sacks' response, the page should be used as a pointer to Conrad's account rather than a full record of the dispute.
-
-[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s brief version of the same [[ParkerConrad]] situation. Altman describes it as one of the worst startup problems he remembers seeing at [[YCombinator]] and uses it to explain that a large part of running YC involved fighting with investors on founders' behalf.
-
-[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Sacks to the [[PeterThiel]] and [[StanfordReview]] branch. The episode treats him as part of the campus and PayPal-adjacent network, and notes his co-authorship with Thiel on a critique of diversity politics as an extension of the anti-progressive university fight.
-
-## Connections
-- [[Cerebras]], [[AndrewFeldman]], [[OpenSourceAIModels]], [[FrontierModelReleaseGovernance]], [[BlackForestLabs|Black Forest Labs]], and [[AIVideoProductionWorkflow]] - July 10 All-In AI infrastructure and creative-model context.
-- [[PaperWealthVsCashValue]], [[Anthropic]], [[Fable5|Fable 5]], [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[USIranNuclearDiplomacy]] - paper-wealth, Fable-security, and Iran-deal branch added by the June 19 episode.
-- [[AIRegulatoryCaptureRisk]], [[AIIndustrySelfRegulation]], [[FrontierModelReleaseGovernance]], [[OpenSourceAIModels]], and [[RecursiveSelfImprovementRegulationParadox]] - August 21 branch on regulatory capture, self-regulation design, release gates, and RSI.
-- [[Zenefits]] - company where Sacks became CEO after Conrad's departure.
-- [[ParkerConrad]] - source narrator describing the conflict.
-- [[LannyDavis]] - crisis-PR figure Conrad says Sacks hired.
-- [[StartupGovernance]] and [[FounderReputationRecovery]] - concepts connected to the disputed transition and public narrative.
-- [[SamAltman]] and [[YCombinator]] - founder-defense context added by the Sam Altman episode.
-- [[PeterThiel]], [[StanfordReview]], [[CampusConservativeMediaNetwork]], and [[TechnologyRightPowerNetwork]] - Silicon Valley right network context added by Silicon Valley 101.
-- [[AllIn|All-In]], [[ChamathPalihapitiya|Chamath Palihapitiya]], [[JasonCalacanis|Jason Calacanis]], and [[DavidFriedberg|David Friedberg]] - podcast host context added by the CES 2026 source.
-- [[Circle]], [[CrowdStrike]], [[ArcherAviation|Archer Aviation]], [[Crusoe]], [[AIDetectionAndResponse]], and [[EnergyFirstNeocloud]] - Davos CEO interview branches added by the January 25 episode.
-- [[HowardLutnick|Howard Lutnick]], [[TradeReciprocityProtectionism]], [[AIExportControls]], and [[TaxpayerReturnIndustrialPolicy]] - policy-interview context added by the Lutnick source.
-- [[CaliforniaWealthTaxCapitalFlight]], [[JevonsParadoxInAI]], [[AIIPOValuation]], [[AcceleratedDepreciationCapexPullForward]], and [[CitizenJournalismAccountability]] - 2026 prediction branches.
-- [[SatyaNadella|Satya Nadella]], [[Microsoft]], [[OpenAI]], [[AIEconomicDiffusion]], and [[AINativeSaaSThreat]] - Davos interview themes added by the Microsoft episode.
-- [[SarahBRogers|Sarah B. Rogers]], [[CrossBorderPlatformSpeechRegulation]], [[CensorshipIndustrialComplex]], [[IntermediarySpeechPressure]], and [[CommunityNotes|Community Notes]] - free-speech diplomacy branch added by the Rogers episode.
-- [[MichaelKratsios|Michael Kratsios]], [[AmericanAIStackStrategy]], [[PermissionlessAIInnovation]], [[DataCenterCostShifting]], and [[PoliticalBiasInAIProcurement]] - AI strategy branch added by the January 23 episode.
+## Relationships
+- [[Anthropic]] - admired product competitor and target of his safety-policy critique.
+- [[DarioAmodei]] - leader whose response Sacks debates, without proving Amodei's motives.
+- [[OpenSourceAIModels]] - competitive counterweight in his anti-gatekeeping argument.
+- [[FrontierModelReleaseGovernance]] - disputed mandatory-approval versus voluntary-standards design.
+- [[PCAST]] - science and technology advisory venue he says he co-chairs.
+- [[MichaelKratsios]] - strategy interlocutor and reported advisory co-chair.
+- [[China]] - comparator in AI-stack and open-model competition.
+- [[Microsoft]] - Nadella interview subject rather than proof of Sacks's enterprise adoption thesis.
+- [[SarahBRogers]] - speech-policy interview guest sharing concerns about intermediaries.
+- [[CommunityNotes]] - correction mechanism favored over opaque platform pressure.
+- [[Zenefits]] - company he led after Conrad, amid disputed compliance/reputation narratives.
+- [[ParkerConrad]] - one-sided interview narrator of the transition.
+- [[SamAltman]] - remembers the crisis as a YC founder-defense case.
+- [[StartupGovernance]] - adjacent framework for the contested succession and accountability.
+- [[FounderReputationRecovery]] - adjacent consequence Conrad describes, not an established Sacks motive.
+- [[AllIn]] - shared format for policy debate, interviews and predictions.
+- [[ChamathPalihapitiya]] - fellow All-In host, not an interchangeable policy spokesperson.
+- [[JasonCalacanis]] - fellow host and interviewer, not a proxy for Sacks's claims.
+- [[DavidFriedberg]] - fellow host with distinct science and economic-policy positions.
+- [[DonaldTrump]] - appointing president in Sacks's reported PCAST role and subject of his forecasts.
+- [[ElonMusk]] - paper-wealth comparison in Sacks's episode commentary, not evidence of liquid wealth.
+- [[AIIndustrySelfRegulation]] - voluntary rating alternative he discusses, not a settled legal regime.
+- [[FrontierModelAccessRestrictions]] - contested Fable export-access question in his national-security argument.
+- [[AIExportControls]] - adjacent semiconductor and model-access policy discussed with guests, not automatically his own prescription.
+- [[USIranNuclearDiplomacy]] - tentative memorandum Sacks defended as preferable to escalation.
+- [[California]] - state whose proposed wealth tax he criticized, not an enacted tax in this account.
+- [[Texas]] - state he reported moving to in the 2026 predictions episode.
+- [[CaliforniaWealthTaxCapitalFlight]] - proposed-tax and relocation argument, not measured migration causality.
+- [[AIIPOValuation]] - forecast context in his 2026 predictions, not observed IPO proceeds.
+- [[CitizenJournalismAccountability]] - adjacent prediction-topic on new-media scrutiny, not proof of institutional replacement.
+- [[CampusConservativeMediaNetwork]] - early Stanford Review context in the show's interpretation of his network.
+- [[YCombinator]] - institution in Altman's retrospective on Conrad's founder-defense crisis.
+- [[CrossBorderPlatformSpeechRegulation]] - European rulemaking discussed with Rogers, whose child-safety rationale remains separate.
+- [[MariaBartiromo]] - moderator of the U.S. AI-strategy discussion, not the source of Sacks's estimates.
+- [[Stablecoins]] - Circle CEO interview subject, not a standalone Sacks policy position here.
+- [[AIDetectionAndResponse]] - CrowdStrike CEO interview theme, not independently Sacks's thesis.
+- [[EnergyFirstNeocloud]] - Crusoe infrastructure model in guest discussions, distinct from Sacks's own power-policy argument.
+- [[AndrewFeldman]] - Cerebras guest in the AI-infrastructure episode, not interchangeable with Sacks.
+- [[AIVideoProductionWorkflow]] - Black Forest Labs creative-model context in a guest interview.
+- [[CES]] - event setting for host discussion of hardware and AI, not a Sacks-specific forecast.
+- [[AICompressedValueCreation]] - CES episode discussion of faster value creation, not attributed here to Sacks individually.
+- [[BusinessLedAITransformation]] - CES organizational discussion, distinct from a personal Sacks thesis.
+- [[TradeDealCapitalStructure]] - Lutnick interview's tariff/deal theme, attributed to the guest.
+- [[MostFavoredNationDrugPricing]] - Lutnick interview's drug-pricing theme, attributed to the guest.
+- [[AINativeSaaSThreat]] - Nadella interview topic, whose enterprise answer remains Nadella's.
