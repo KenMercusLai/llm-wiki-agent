@@ -25,10 +25,10 @@ Different evidence types answer different questions. Early local records may sup
 - Collecting endangered local testimony has value, but images, puns, and a researcher's first elegant theory do not count as direct proof.
 
 ## Evidence
-- Early record versus later motif: [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] distinguishes Hamelin's early child-loss evidence from later rat-catching and broken-contract versions and considers migration, battle, famine, and other partial explanations.
-- Transmission versus event: [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] examines FOAF attribution, shifting urban-legend motifs, fact-checks, and the fears such stories express; its Hamelin passage reuses the older story rather than independently corroborating it.
-- Origin-story test: [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] rejects the popular Su Qin reward-splitting derivation of “二百五” on pre-Qin money and aristocratic-incentive grounds without establishing a replacement origin.
-- Interpretive restraint: [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] reads fictional yokai research, disappearing place traditions, Toriyama Sekien images, and a mistaken kappa theory as a methodological analogy, not a real-world investigation.
+- Early record versus later motif: [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] distinguishes [[PiedPiperOfHamelin]]'s early child-loss evidence from later [[BrothersGrimm|Grimm-era]] rat-catching and broken-contract versions; [[PiedPiperMedievalEurope]] offers migration, battle, famine, and other partial historical explanations, none decisive. This is [[HistoricalDetectiveReasoning]] applied with chronological restraint.
+- Transmission versus event: [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] examines FOAF attribution and changing motifs as [[FolkloreAsSocialMemory]], without treating recurring reports as proof; its Hamelin passage reuses the earlier account rather than independently corroborating it. This distinction also matters when evaluating [[MythAsHistoricalEvidence]].
+- Origin-story test: [[zizhi-tongjian-zhouji-46-ma-ni-shi-ge-erbaiwu-de-lishi-laiyuan-lkz5hiamaojtvanllbunecy3g3ff]] rejects the popular [[SuQin]] reward-splitting derivation of “二百五” on pre-Qin money and aristocratic-incentive grounds without establishing a replacement origin; [[FolkCharacterEtymologyRisk]] names the same inference hazard in other motifs.
+- Interpretive restraint: [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] discusses [[KyogokuNatsuhiko]]'s fictional [[YokaiMystery]]: [[TataraKatsugoro]] collects local traditions and reads [[ToriyamaSekien]]'s images, but [[YokaiImageExegesis]] cannot turn a clever visual pun into fieldwork evidence. This fictional research is an analogy to the source criticism used in [[AbeKinya]]'s Hamelin study, not an independent historical witness.
 
 ## Counterevidence & Qualifications
 Hamelin's disputed loss is not resolved by any one migration, epidemic, or accident theory. The modern-legend episode's repetition of Hamelin belongs to the same story chain as the earlier episode, not a second historical attestation. The yokai example is a novel discussed on a podcast; its invented researcher and signs cannot verify a historical creature or field observation. Refuting a popular idiom etymology also does not prove a different one.
@@ -45,3 +45,5 @@ Hamelin's disputed loss is not resolved by any one migration, epidemic, or accid
 - [[IdiomOriginSkepticism]] - tests attractive etymological narratives.
 - [[ObservationBeforeInference]] - requires source sorting before explanation.
 - [[InterpretationAndOverinterpretation]] - marks the danger of decoding every detail into proof.
+- [[AdultFairyTaleReading]] - revisits familiar stories with attention to version and audience.
+- [[ScientificSkepticism]] - requires testable support before affirming an extraordinary event.

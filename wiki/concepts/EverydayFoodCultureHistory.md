@@ -26,10 +26,10 @@ The bounded sources provide different windows rather than a single continuous hi
 - Premium-food meanings can be built through policy, breed recognition, grading, origin branding, and new dining formats rather than intrinsic taste alone.
 
 ## Evidence
-- Everyday spaces: [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] briefly recommends a history of izakaya fixtures, warmed sake, tofu, soup, and portions as clues to Japanese social life.
-- Literary meals: [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] discusses the density of food, table culture, and household relations in a retelling of 《金瓶梅》.
-- Beverage experience: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] connects wine to agriculture, gift markets, family liquor-factory memory, restaurant pairing, and comparisons with tea and coffee.
-- Restaurant and ingredient change: [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] discusses bistros, regional cuisines, local drinks, and stir-fry counters; [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] traces the episode's account of wagyu from Meiji beef adoption through grading and sukiyaki to modern premium buffet positioning.
+- Everyday spaces: [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] briefly recommends [[JiujiuwuDeDansheng]] as a history of izakaya fixtures, warmed sake, tofu, soup, and portions in [[Japan]]; the recommendation is a prompt to investigate everyday life, not a substitute for the book.
+- Literary meals: [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433]] reads [[JinPingMei]]'s dense descriptions of food, table culture, and household relations as [[UrbanEverydayFiction]], not a census of historical dining.
+- Beverage experience: [[sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156]] links [[Wine]] to agriculture, gifting, family liquor-factory memory, [[LocalAlcoholPairing|local pairing]], and learned [[TasteTraining|sensory vocabulary]]; [[FlavorAsSelfKnowledge]] describes the interviewee's personal interpretation rather than a universal tasting rule.
+- Restaurant and ingredient change: [[ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz]] discusses [[ChineseBistroLocalization]], [[CreativeChineseCuisine]], [[Heimai]], [[LocalAlcoholPairing]], and [[StirFryRevival]] as contemporary formats rather than one historical trend. [[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] traces the episode's account of [[Wagyu]], [[KobeBeef]], and [[BeefGradingAsMarketInfrastructure]] from beef adoption through [[NiuniuSukiyaki]] to modern premium buffet positioning.
 
 ## Counterevidence & Qualifications
 The izakaya item comes from a short reading-list episode, not a full book analysis. 《金瓶梅》 is a literary representation, not a verified census of Ming food habits. The wine interview is partly personal memory; EP245 and the wagyu segment are contemporary editorial or business interpretations. Japan, historical Chinese fiction, and present-day Chinese dining should not be collapsed into one geographic or chronological trajectory. A5 grading is a commercial category, not a guarantee of an individual's favorite flavor.
@@ -45,3 +45,5 @@ The izakaya item comes from a short reading-list episode, not a full book analys
 - [[FoodWritingAsLifeExperience]] - connects culinary observation to memory and biography.
 - [[CulinaryGrammar]] - names the learned conventions through which a cuisine stays recognizable.
 - [[WagyuPremiumBranding]] - illustrates the commercial construction of a food's status.
+- [[FoodCulturalBias]] - cautions against projecting one cuisine's prestige or familiarity onto another.
+- [[FoodTextureAesthetics]] - treats texture as part of learned culinary preference, not a universal ranking.
