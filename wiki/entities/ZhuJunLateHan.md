@@ -2,55 +2,55 @@
 title: "朱儁 / Zhu Jun (late Han)"
 type: entity
 tags: [person, late-han, court, official]
-sources: [zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws, zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4, zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr, zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]
+sources:
+  - zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws
+  - zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4
+  - zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o
+  - zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd
+  - zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr
+  - zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh
+  - zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq
+  - zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis
+  - zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 朱儁 / Zhu Jun (late Han)
 
-[[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] backfills Zhu Jun before his [[YellowTurbansLateHan|Yellow Turban]] battlefield role. As Lanling magistrate and a Kuaiji man, he is appointed inspector of [[JiaozhiCommandery|交趾郡]] after [[WuhuManJiaozhi|乌浒蛮]] rebellion and [[LiangLongLateHan|梁龙]]'s rising break the southern commandery field.
+## Overview
+朱儁 was a late-Han commander and official whose southern suppression, 184 CE [[YellowTurbansLateHan]] campaigns, resistance to [[DongZhuo]], and vulnerability during the [[LiJueLateHan]]–[[GuoSiLateHan]] feud span the collapse of central power.
 
-The source presents this as quick coercive competence. Zhu Jun kills Liang Long and other rebel leaders, pacifies the rebellion in less than a month, and is rewarded as Duting marquis and summoned to court as jianyi dafu. His later 184 CE role therefore now has an earlier southern-frontier success behind it.
+## Current Profile
+The episodes place him first in a functioning appointment-and-reward system and finally among ministers who could be detained by military rivals. His change of fortune does not make every early campaign an uninterrupted victory.
 
-[[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] backfills Zhu Jun at the first 184 CE [[YellowTurbansLateHan|Yellow Turban]] battlefield moment. He initially loses to [[BoCaiLateHan|波才]], with Han cavalry withdrawing and infantry collapsing, before [[HuangfuSongLateHan|皇甫嵩]] stabilizes the field and later has Zhu Jun hidden near [[ChangsheBattleLateHan|长社]] for the counterattack.
+[[BattlefieldCommanderReplacementRisk]] explains Zhang Wen’s argument against replacing Zhu during the Nanyang siege. The 195 hostage-taking also included [[ShiSunRuiLateHan]]; Zhu’s brief later office should not be confused with [[CourtOfficeCapture]] restoring autonomy.
 
-The source makes Zhu Jun's role important precisely because it begins with failure. His return into Huangfu Song's fire-attack sequence shows how a defeated commander can still become part of a coordinated recovery rather than only a liability.
+## Key Characteristics
+- Earned early frontier office through a swift southern campaign.
+- Recovered from an opening defeat and adjusted siege tactics during the Yellow Turban rising.
+- Refused Dong Zhuo's relocation policy and called on provincial forces against him.
+- Remained exposed to the violent court, losing office and later his life amid hostage-taking.
 
-[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] backfills Zhu Jun just before the fuller Nanyang campaign in Hanji 930. He fights beside [[HuangfuSongLateHan|皇甫嵩]] against the [[YellowTurbansLateHan|黄巾军]] in the Runan-[[ChenStateLateHan|陈国]] field, including the victory over Peng Tuo at Xihua.
+## Evidence
+- **Southern appointment and recovery.** [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws]] identifies Zhu as a Kuaiji man, former Lanling magistrate and new [[JiaozhiCommandery]] inspector, sent against [[LiangLongLateHan]] and [[WuhuManJiaozhi]]; its claim of suppression in less than a month and promotion to Duting marquis/jianyi dafu is the source's account. In 184 [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]] records defeat by [[BoCaiLateHan]] before [[HuangfuSongLateHan]] stabilized the field and coordinated the [[ChangsheBattleLateHan]] fire counterattack. [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]] records subsequent Runan/[[ChenStateLateHan]] fighting, including Peng Tuo at Xihua, and Huangfu Song's recommendation leading to Xixiang marquis and a new command; merit attribution is not itself a new battle.
+- **The Nanyang siege offered choices, not just pressure.** [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]] describes [[ZhaoHongLateHan]]'s renewed force after [[ZhangManchengLateHan]] died; [[ZhangWenLateHan]] successfully argued against a premature recall. Zhu and [[XuQiuLateHan]] pressed Zhao Hong; Zhu then killed Zhao Hong, feinted against [[HanZhongLateHan]]'s southwest and attacked the northeast. After initially rejecting surrender, he opened the cordon rather than force a cornered army into a fight to the death ([[EncirclementReleaseCalculus]]); [[QinJieLateHan]] killed Han Zhong, [[SunXiaLateHan]] led the remaining resistance, and [[SunJianLateHan]] was recruited as left-army sima. The episodes' causal reading of morale remains their interpretation.
+- **Court opposition and regional action.** [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]] says Zhu declined a senior Dong Zhuo appointment and opposed relocation from [[LuoyangLateHan]] to [[ChangAnHanCapital]] because it would alienate subjects and aid eastern enemies. [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh]] recounts Dong's threat after Zhu's military advice and [[GeXunLateHan]]'s intervention, illustrating [[DefensiveSpeechUnderTyranny]], not safety. [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq]] places him in 191 returning to ruined Luoyang, defeating Yang Yi, shifting to Zhongmou and appealing to regional forces; [[TaoQianLateHan]]'s support preserves a nominal Han-loyalty frame.
+- **An exposed minister.** [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] briefly records his dismissal as taiwei in July 194 with [[YangBiao]] succeeding him. [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]] names Zhu among Guo Si's detained ministers in 195 while Li Jue held [[EmperorXianOfHan]], and says anger and illness preceded his death. Office remained ritually significant but could not protect his body; [[PoliticalSurvivalFirst]] was a lesson inferred by the host, not a proven strategy that saved Zhu.
 
-The episode's specific Zhu Jun contribution is mediated through Huangfu Song's report. Huangfu Song attributes merit to him, and the court rewards Zhu Jun as Xixiang marquis and promotes him to a new anti-rebel command. This gives the later Nanyang branch a stronger prelude: Zhu Jun enters that campaign with recently recognized military credit rather than appearing only after Zhang Mancheng's death.
+## Qualifications
+- The transcript form “朱俊” is normalized to 朱儁. [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]]'s Huangfu Song merit report and [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]]'s changing siege calculus describe different actions; neither establishes Zhu as sole author of Changshe victory.
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] is an office transition only. His opposition to Dong Zhuo is not evidence of a secure continuous independent army after leaving the court.
 
-[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] backfills Zhu Jun's 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign before his later anti-[[DongZhuo|董卓]] role. After [[ZhangManchengLateHan|张曼成]] is killed, [[ZhaoHongLateHan|赵弘]] revives the rebel force and holds out for months against Zhu Jun, [[XuQiuLateHan|许秋]], and other Han forces. [[ZhangWenLateHan|张温]] then defends Zhu Jun against recall by warning that changing commanders in the middle of a long campaign is dangerous.
+## What Changed
+- The profile now distinguishes early battlefield recovery from later political refusal and hostage vulnerability, rather than treating the episodes as an unbroken triumph.
 
-The source's main Zhu Jun contribution is tactical judgment under pressure. He kills Zhao Hong, feints against [[HanZhongLateHan|韩忠]]'s southwest defenses while storming the northeast, first refuses surrender on deterrence grounds, then realizes that a completely closed siege gives the rebels no option except death-ground resistance. By opening the encirclement and attacking after morale shifts, Zhu Jun becomes a late-Han case for [[EncirclementReleaseCalculus|围困开口式风险权衡]] rather than simple frontal pressure.
-
-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] backfills Zhu Jun's opposition before the forced-relocation branch. [[DongZhuo|董卓]] recommends him for a senior post that would make him a close deputy, but Zhu Jun refuses the summons after hearing about the plan to move from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]].
-
-His objection is strategic and popular rather than merely personal. Zhu Jun argues that westward relocation will disappoint the people and give the Guandong armies an opening, making him an early court-side warning voice before Hanji 951 shows the coercive migration and ruined-city consequences.
-
-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] backfills Zhu Jun's earlier court exposure under [[DongZhuo|董卓]]. As Henan administrator, he discusses the military situation with Dong Zhuo, who responds contemptuously and threatens him; [[GeXunLateHan|葛勋]] then intervenes by invoking Wu Ding's willingness to hear advice, prompting Dong Zhuo to apologize.
-
-This makes Zhu Jun part of the pre-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] anti-Dong-Zhuo atmosphere. The source shows that old-Han officials could still speak about military reality, but only inside a narrow and unstable [[DefensiveSpeechUnderTyranny|defensive speech]] space.
-
-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] adds Zhu Jun's 191 CE anti-[[DongZhuo|董卓]] posture before the later Chang'an-court branches. The source says Zhu Jun secretly contacts eastern regional commanders, flees toward Jingzhou when exposed, then returns to ruined [[LuoyangLateHan|洛阳]], defeats Dong Zhuo's Henan appointee Yang Yi, and chooses not to remain in the broken capital.
-
-His move to Zhongmou and call for all provinces and commanderies to attack Dong Zhuo make him a source case for residual Han legitimacy in action: the court is captured, but opposition can still be framed through the common Han order rather than only private warlord rivalry.
-
-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Zhu Jun before the later hostage branch. The episode reports his dismissal as taiwei in July 194, after which [[YangBiao|杨彪]] becomes taiwei and records shangshu affairs. Zhu Jun therefore marks the turnover of old-Han senior office immediately before later sources show ministers physically detained by [[GuoSiLateHan|郭汜]].
-
-朱儁 / Zhu Jun (late Han) enters the wiki through [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] as a court official detained by [[GuoSiLateHan|郭汜]] along with other ministers. The transcript renders him as "朱俊"; the wiki normalizes him to Zhu Jun while keeping the source-scoped caution.
-
-In the episode, Zhu Jun is angered by Guo Si's hostage-taking, falls ill, and dies. His role makes the ministerial side of the Li-Guo crisis bodily concrete: officials are not only symbolically humiliated by detention, but physically consumed by the stress and helplessness of being military hostages.
-
-## Connections
-- [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]], [[JiaozhiCommandery|交趾郡]], [[WuhuManJiaozhi|乌浒蛮]], and [[LiangLongLateHan|梁龙]] - 181 CE southern rebellion and rapid pacification before the Yellow Turban campaigns.
-- [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[BoCaiLateHan|波才]], [[HuangfuSongLateHan|皇甫嵩]], [[ChangsheBattleLateHan|长社之战]], and [[YellowTurbansLateHan|黄巾军]] - initial defeat and later hidden coordination in the Changshe counterattack.
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen campaign credit and promotion before the Nanyang branch.
-- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[ZhaoHongLateHan|赵弘]], [[HanZhongLateHan|韩忠]], [[SunXiaLateHan|孙夏]], [[QinJieLateHan|秦颉]], [[SunJianLateHan|孙坚]], [[BattlefieldCommanderReplacementRisk|阵前换将风险]], and [[EncirclementReleaseCalculus|围困开口式风险权衡]] - 184 CE Nanyang campaign and siege-release branch.
-- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[ChangAnHanCapital|长安]], and [[AntiDongZhuoCoalition|反董卓联盟]] - refusal of appointment and warning against westward relocation.
-- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[GeXunLateHan|葛勋]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - military discussion, threat, and softened remonstrance scene.
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[TaoQianLateHan|陶谦]], and [[MingqiLegitimacy|名器合法性]] - 191 CE anti-Dong-Zhuo mobilization branch.
-- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[YangBiao|杨彪]], [[EmperorXianOfHan|汉献帝]], and [[CourtOfficeCapture|朝廷开府任官失序]] - taiwei dismissal and office-order branch before detention.
-- [[GuoSiLateHan|郭汜]] - warlord who detains him with other ministers.
-- [[YangBiao|杨彪]] and [[ShiSunRuiLateHan|士孙瑞]] - other court figures in the hostage field.
-- [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts linked to bodily danger around court officials.
+## Relationships
+- [[HuangfuSongLateHan]] - coordinated Zhu's return after Bo Cai's opening success and recommended his later service.
+- [[YellowTurbansLateHan]] - the multiple 184 CE campaigns in which Zhu's military tactics were tested.
+- [[DongZhuo]] - attempted to use the officer he then threatened over capital relocation.
+- [[EncirclementReleaseCalculus]] - the surrender-or-flight choice structure in Zhu's Nanyang siege.
+- [[GuoSiLateHan]] - held ministers including Zhu during the 195 CE feud.
+- [[AntiDongZhuoCoalition]] - Zhu’s opposition invoked the Han cause but did not ensure allied command.
+- [[MingqiLegitimacy]] - formal Han offices still conferred status even as armed captors constrained them.
+- [[ProtectorCaptorAmbiguity]] - military patrons and official titles could coexist with bodily vulnerability.
