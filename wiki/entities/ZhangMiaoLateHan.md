@@ -2,48 +2,76 @@
 title: "张邈 / Zhang Miao (Late Han)"
 type: entity
 tags: [person, late-han, official]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]
+sources:
+  - zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd
+  - zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr
+  - zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv
+  - zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave
+  - zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6
+  - zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76
+  - zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 张邈 / Zhang Miao (Late Han)
 
-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds an earlier Zhang Miao use before the later [[YanzhouLateHan|兖州]] betrayal branch. After [[HanFuLateHan|韩馥]] leaves [[YuanShao|袁绍]]'s orbit, he goes to Zhang Miao in [[Chenliu|陈留]]. The source's transcript garbles the name and place, but the surrounding sequence matches the established Zhang Miao/Chenliu branch.
+## Overview
+陈留的张邈曾被曹操视为可以托付家人的朋友，却与陈宫迎吕布进入兖州，迫使曹操放弃徐州战役。定陶败后其兄弟集团守雍丘，张邈试图投袁术而遇害；张超之死又牵出臧洪与袁绍的争执。
 
-Zhang Miao is not yet the rebel partner of [[LyuBu|吕布]] here. His function is refuge environment: when Yuan Shao's envoy whispers with him, Han Fu reads the scene as a death signal and commits suicide. The episode therefore makes Zhang Miao part of Han Fu's [[PostPowerSafetyCollapse|失势后的安全崩塌]] before later episodes make him a separate actor in Cao Cao's Yanzhou crisis.
+## Current Profile
+私人信赖未能抵御地方安全焦虑和割据机会，但其确切心理只能作为节目解释；不同期数复述同一兖州事件，不能累积成独立证词。
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] gives Zhang Miao's betrayal as the sudden closing event before the motive-focused Hanji 974 page. While [[CaoCao|曹操]] is attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], Zhang Miao and [[ChenGongLateHan|陈宫]] welcome [[LyuBu|吕布]] into [[YanzhouLateHan|兖州]], forcing Cao Cao to abandon the campaign.
+## Key Characteristics
+- 以陈留为依托，先在韩馥失势后的避难场景中充当收容者。
+- 与曹操有深厚交情，却受袁绍猜忌、边让案和兖州地方利益牵动。
+- 与陈宫招吕布入兖州，利用曹操出征徐州的后方空窗与官称话术。
+- 失去兖州后，个人求援与张超守雍丘的家族命运分岔。
+- 张超危局使袁绍对张邈的友情被臧洪转化为救援义务的争论。
 
-The source does not yet explain why a close friend would do this; it deliberately leaves that as the next episode's question. Its contribution is chronological: the betrayal is what converts Liu Bei's battlefield defeat and Tao Qian's fear into survival, because Cao Cao's rear collapses before he can finish Xuzhou.
+## Evidence
+- **陈留关系网与不安全感：** 韩馥投奔张邈所在陈留，袁绍使者与张邈耳语即令失势的韩馥恐惧自尽；这主要揭示韩馥处境，不能把自尽归罪张邈。[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] 曹操曾拒绝袁绍要求杀张邈，还据节目所述出征陶谦前托家眷于他；高柔预见两人基地与目标会冲突，吕布与张邈结盟也加重袁绍疑心。边让遭杀对兖州士族是威胁信号；节目把恐惧与机会共同作为解释而非实测内心。[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]]
+- **兖州倒戈的执行：** 194 年曹操在徐州对陶谦作战，张邈、陈宫等迎吕布为兖州牧，曹操只保鄄城、范县、东阿，被迫撤离徐州；刘备与陶谦因此得到喘息。[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] 张邈使者声称吕布来帮曹操，却称曹操“曹公”而不称“兖州牧”；荀彧把省略名号与吕布行军方向合并判断为政变。[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] 郭贡可能与张邈、吕布联手只是当时的传闻，荀彧赴鄄城城外判断威胁，不能写作已证同盟。[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]]
+- **战败与家族后果：** 曹操先保根本根据地，定陶击败吕布后张邈随吕布撤走；张超与家族守雍丘。[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] 曹操围城期间张邈欲去投袁术，被亲随刘翊杀死，并非平静改投成功。[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] 曹操不赦张超与张邈旧日迎吕布有关；臧洪请求袁绍救张超未果，遂以袁绍与张邈交谊批评其弃义，随后围城抵抗。[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]]
 
-[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] supplies the causal prelude to Zhang Miao's betrayal. The source first makes the friendship unusually strong: [[CaoCao|曹操]] refuses [[YuanShao|袁绍]]'s demand to kill Zhang Miao, then reportedly tells his household to rely on Zhang Miao if he dies while attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]].
+## Qualifications
+- 957 中张邈及陈留的转录不稳，身份归一依据上下文；它不是张邈参与韩馥自杀的直接证据。[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]]
+- 边让之死、土地政策和士族恐慌是节目解释背景，不能写成张邈亲口动机；973、975 关于迎吕布的复述不算两次倒戈。[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]]
 
-That friendship does not erase political fear. [[GaoRouLateHan|高柔]] predicts that Cao Cao's larger ambition and Zhang Miao's [[Chenliu|陈留]] base will eventually create divergence; [[LyuBu|吕布]]'s oath with Zhang Miao increases Yuan Shao's suspicion; and [[BianRangLateHan|边让]]'s killing convinces the source's Yanzhou actors that Cao Cao may be dangerous to local elites. Zhang Miao's later acceptance of [[ChenGongLateHan|陈宫]]'s plan is therefore read through [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] and [[LocalEliteSecurityPanic|地方士族安全恐慌]], not only personal treachery.
+## What Changed
+- 将曾经的私人信任、对地方清洗的担忧与接受政变机会分别陈述。
+- 将张邈本人被杀与张超、臧洪后续争执分开，避免把两个结局混同。
 
-[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] adds the opening of Zhang Miao's betrayal branch. While [[CaoCao|曹操]] attacks [[TaoQianLateHan|陶谦]], Zhang Miao and [[ChenGongLateHan|陈宫]] secretly welcome [[LyuBu|吕布]] as [[YanzhouLateHan|兖州]] governor, and Zhang Miao's envoy tries to frame Lü Bu as helping Cao Cao.
-
-The episode makes Zhang Miao's envoy wording a political clue. By calling Cao Cao "曹公" rather than "兖州牧," the message avoids the title that would affirm Cao Cao's claim over Yanzhou. [[XunYu|荀彧]] reads that wording together with Lü Bu's direction of movement, turning Zhang Miao into the source case for [[DetailBasedCrisisDetection|细节式危机识别]] and [[PowerEtiquetteReading|权力礼仪细读]].
-
-[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] supplies the immediate background to Zhang Miao's Yanzhou betrayal before the Dingtao and Yongqiu branch. The source presents [[GuoGongLateHan|郭贡]] as frightening partly because rumor says he may cooperate with [[ZhangMiaoLateHan|张邈]] and [[LyuBu|吕布]], while the province has mostly turned away from [[CaoCao|曹操]].
-
-[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] supplies Zhang Miao's pre-Yongqiu position in the [[YanzhouLateHan|兖州]] branch. After [[CaoCao|曹操]] defeats [[LyuBu|吕布]] at [[DingtaoBattleLateHan|定陶之战]], Zhang Miao follows Lü Bu's withdrawal while his brother [[ZhangChaoLateHan|张超]] leads the family group to defend [[YongqiuLateHan|雍丘]]. This sets up the later siege and grievance branch without changing the later account of Zhang Miao's failed exit.
-
-[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] adds Zhang Miao's death before the later Zang Hong grievance branch. While [[CaoCao|曹操]] surrounds [[YongqiuLateHan|雍丘]], Zhang Miao tries to leave for [[YuanShu|袁术]], but his close guard [[LiuYiLateHan|刘翊]] kills him before the exit can strengthen Cao Cao's enemy. The episode then says Cao Cao becomes Yanzhou governor, closing the Yanzhou branch that Hanji 996 later remembers through Zhang Chao.
-
-张邈 / Zhang Miao (Late Han) enters the wiki through the [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] and [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax|Hanji 997]] Zang Hong branch as the brother of [[ZhangChaoLateHan|张超]] and the relationship through which [[ZangHong|臧洪]] indicts [[YuanShao|袁绍]]. Hanji 996 adds that [[CaoCao|曹操]] refuses to spare Zhang Chao because Zhang Miao had earlier welcomed [[LyuBu|吕布]] into Yanzhou and betrayed Cao Cao.
-
-The page is source-scoped. These episodes do not develop Zhang Miao's independent career; they use his named friendship with Yuan Shao and enmity with Cao Cao to show how private relationship language can become a binding moral claim when crisis comes.
-
-## Connections
-- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[HanFuLateHan|韩馥]], [[YuanShao|袁绍]], [[Chenliu|陈留]], and [[PostPowerSafetyCollapse|失势后的安全崩塌]] - refuge scene that triggers Han Fu's final panic.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TaoQianLateHan|陶谦]], [[LiuBei|刘备]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - open betrayal as the reason Cao Cao withdraws.
-- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], [[Chenliu|陈留]], [[LocalEliteSecurityPanic|地方士族安全恐慌]], and [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]] - friendship-to-betrayal prelude and local-elite fear.
-- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XunYu|荀彧]], [[PowerEtiquetteReading|权力礼仪细读]], and [[DetailBasedCrisisDetection|细节式危机识别]] - rebellion setup and title-wording clue.
-- [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[JuanchengLateHan|鄄城]], [[CaoCao|曹操]], and [[YanzhouLateHan|兖州]] - rumor and betrayal background before the later battlefield branch.
-- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], and [[DingtaoBattleLateHan|定陶之战]] - defeat and withdrawal before the Yongqiu branch.
-- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]], [[LiuYiLateHan|刘翊]], [[YongqiuLateHan|雍丘]], and [[YuanShu|袁术]] - failed exit and killing before Zhang Miao can join Yuan Shu.
-- [[ZhangChaoLateHan|张超]] - brother whose fate gives Zhang Miao's source role its force.
-- [[ZangHong|臧洪]] - actor who invokes Zhang Miao in his accusation.
-- [[YuanShao|袁绍]] - powerholder whose claimed brotherhood is turned into a duty to rescue.
-- [[CaoCao|曹操]] and [[LyuBu|吕布]] - Hanji 996 background for why Cao Cao does not spare Zhang Chao.
-- [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]] and [[DeathPartyLoyalty|死党之义与守职奉上]] - concepts tied to the episode's private-relation pressure.
+## Relationships
+- [[Chenliu]] - 张邈的地方根基，也是韩馥投奔之处。
+- [[HanFuLateHan]] - 失势后投奔张邈，却因袁绍使者而恐惧自尽。
+- [[PostPowerSafetyCollapse]] - 韩馥在此失去安全感；张邈并非其害死者。
+- [[YuanShao]] - 先怀疑张邈，后来因与之交情被臧洪要求救张超。
+- [[CaoCao]] - 从受托朋友变为兖州战争对手。
+- [[GaoRouLateHan]] - 曾预判陈留基地与曹操扩张之间的张力。
+- [[BianRangLateHan]] - 其遭杀成为地方士族担忧曹操的信号。
+- [[LocalEliteSecurityPanic]] - 解释倒戈的可能社会背景而非个人动机定论。
+- [[PersonalTrustPoliticalFragility]] - 与曹操私交未能约束对地方权力的不同判断。
+- [[ChenGongLateHan]] - 协议迎吕布的合作者。
+- [[LyuBu]] - 被张邈引入兖州的军事盟友，定陶败后共同撤走。
+- [[YanzhouLateHan]] - 194 年倒戈的省域和曹操必须先保的根本据点。
+- [[TaoQianLateHan]] - 曹操因兖州内乱放弃对其徐州战事。
+- [[LiuBei]] - 因曹操从徐州回师而获得喘息。
+- [[Xuzhou]] - 曹操出征造成兖州后方空窗。
+- [[XunYu]] - 从张邈使者避称州牧识破异动。
+- [[PowerEtiquetteReading]] - 官称缺席成为权力主张变化的线索。
+- [[DetailBasedCrisisDetection]] - 荀彧把使者用词与行军情报结合。
+- [[GuoGongLateHan]] - 被传可能与张邈、吕布结盟，仍仅为传闻。
+- [[JuanchengLateHan]] - 曹操在倒戈时仍保有的据点。
+- [[FanCountyLateHan]] - 与鄄城、东阿共同形成残余防线。
+- [[DongALateHan]] - 陈宫一方未占尽的兖州据点。
+- [[DingtaoBattleLateHan]] - 败后张邈随吕布退出兖州。
+- [[ZhangChaoLateHan]] - 其弟守雍丘并被曹操围攻。
+- [[YongqiuLateHan]] - 张超守城、张邈求援未遂的地点。
+- [[YuanShu]] - 张邈试图投奔而途中被杀的目标。
+- [[LiuYiLateHan]] - 杀张邈的亲随。
+- [[ZangHong]] - 因张超之死与袁绍决裂。
+- [[EmotionalAttachmentPoliticalDistortion]] - 臧洪的义气可能使救援诉求凌驾守职责任，非张邈直接行为。
+- [[DeathPartyLoyalty]] - 张超旧属臧洪的死党之义转为守城抵抗。
