@@ -2,60 +2,55 @@
 title: "兖州 / Yanzhou (Late Han)"
 type: entity
 tags: [place, province, late-han, three-kingdoms, cao-cao]
-sources: [zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]
 last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr
+  - zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd
+  - zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr
+  - zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv
+  - zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis
+  - zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg
+  - zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd
+  - zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave
+  - zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6
+  - zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76
+  - zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68
+knowledge_schema: synthesis-v1
 ---
 
 # 兖州 / Yanzhou (Late Han)
 
-[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds the pre-Cao pressure field before Yanzhou becomes Cao Cao's root base. [[LiuDaiLateHan|刘岱]] is caught between [[YuanShao|袁绍]] and [[GongsunZan|公孙瓒]], with [[FanFangLateHan|范方]]'s cavalry support turning into coercive leverage over Yuan Shao's household.
+## Overview
+兖州的取得、险失与收复取决于人事联盟、粮道、城邑及战役时机。
 
-The same source also makes nearby [[DongCommandery|东郡]] part of Cao Cao's early Yanzhou-adjacent rise. [[CaoCao|曹操]] is already stationed at [[DunqiuLateHan|顿丘]] when [[YuDuLateHan|于毒]] attacks [[DongWuyangLateHan|东武阳]], and the resulting [[NeihuangBattleLateHan|内黄之战]] helps him consolidate the military reputation and local command capacity that Hanji 964 will later move into Yanzhou proper.
+## Current Profile
+兖州在192—195年前后从刘岱治下危机区转为曹操的根据地，又险因地方倒戈和粮食枯竭失去；城邑、渡口、麦收及地方关系共同决定其可守性。以下军事过程来自同系列播客转述，相邻集数重复一事不作为独立见证。
 
-[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] adds the first Yanzhou succession crisis before the later Cao Cao-Lü Bu base struggle. [[LiuDaiLateHan|刘岱]] rejects [[BaoXin|鲍信]]'s defensive attrition plan against the [[QingzhouYellowTurbans|青州黄巾军]] and dies in a field battle. [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], and the transcript's "成公" persuasion channel then help bring [[CaoCao|曹操]] into the province.
+## Key Characteristics
+- 曹操得兖州源自黄巾压力与地方迎立，实际控制与汉廷任命并不同步。
+- 张邈、陈宫迎吕布使曹营仅余鄄城、范县、东阿；地方精英信任亦是防线。
+- 守城与渡口、补给及战场诱敌构成一个连续的基地保全问题。
+- 蝗灾粮尽、麦收与定陶收复表明攻徐州必须服从后方恢复。
+- 张邈残局及陈宫在吕布营中的位置使倒戈后的地方政治影响持续。
 
-The source makes Yanzhou's early value visible before it becomes Cao Cao's mature root base. The province is gained through local crisis invitation and hard fighting rather than simple appointment: the court names [[JinShang|金尚]], while Cao Cao blocks him and holds the practical position that later pages treat as [[RootBasePriority|根本根据地优先]].
+## Evidence
+- [[LiuDaiLateHan|刘岱]]受[[YuanShao|袁绍]]与[[GongsunZan|公孙瓒]]夹击，后者使[[FanFangLateHan|范方]]以骑兵为政治筹码；[[DongCommandery|东郡]]内[[CaoCao|曹操]]据[[DunqiuLateHan|顿丘]]对[[YuDuLateHan|于毒]]攻[[DongWuyangLateHan|东武阳]]转攻其本屯，继而在[[NeihuangBattleLateHan|内黄之战]]败[[SuiGuLateHan|眭固]]。[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr]] 刘岱不纳[[BaoXin|鲍信]]利用[[ResourceAsymmetryAttrition|对手缺乏补给的消耗策略]]，战[[QingzhouYellowTurbans|青州黄巾]]而死，鲍信、[[WanQianLateHan|万潜]]等迎曹操；朝廷另命[[JinShang|金尚]]，名号和实力分裂。[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]]
+- 曹操攻[[Xuzhou|徐州]]、[[TaoQianLateHan|陶谦]]求援并获[[LiuBei|刘备]]支持时，[[ZhangMiaoLateHan|张邈]]与[[ChenGongLateHan|陈宫]]迎[[LyuBu|吕布]]；[[JuanchengLateHan|鄄城]]、[[FanCountyLateHan|范县]]、[[DongALateHan|东阿]]为仅存据点。[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet]] [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]] 节目将[[BianRangLateHan|边让]]被杀、袁绍施压、[[Chenliu|陈留]]地方集团自保解释为[[LocalEliteSecurityPanic|地方士族安全恐慌]]与[[PersonalTrustPoliticalFragility|原有私交失效]]，是动机分析而非人人已证实的内心。[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd]] [[XunYu|荀彧]]从使者称谓与路线的[[DetailBasedCrisisDetection|微小征兆]]察觉，召[[XiahouDun|夏侯惇]]弃[[PuyangLateHan|濮阳]]援鄄城。[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]]
+- 荀彧会见未定向的[[GuoGongLateHan|郭贡]]，继而遣[[ChengYu|程昱]]处理范县；[[JinYunLateHan|靳允]]在家属人质风险下杀吕布任命的[[FanYiLateHan|范仪]]；其选择曾受[[XuZhongJin|许众]]从孝道角度批评，不能把争议抹成单向忠义。[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]] 程昱堵[[CangtingFordLateHan|仓亭津]]防陈宫进，[[ZaoZhi|枣祗]]固东阿；曹操后来指出吕布若先断鄄城与粮路更危险。[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] 这些是同一保全过程而非几次独立收复。
+- [[PuyangBattleLateHan|濮阳之战]]中[[PuyangTianClan|濮阳田氏]]诱曹操入城，吕布追击时[[DianWei|典韦]]助逃；百余日战事后蝗灾、粮尽迫双方退，吕布攻[[ChengshiCountyLateHan|乘氏县]]遭[[LiJinLateHan|李进]]抵御。[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg]] 曹操先斩巨野[[XueLanLateHan|薛兰]]、[[LiFengLateHan|李封]]，再伏吕布、收复大部。[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]] 荀彧以刘邦[[GuanzhongRegion|关中]]、刘秀[[HeneiCommandery|河内]]为据点类比，劝先收麦、除吕布张邈再取徐州，兼顾[[WarCostTempoDiscipline|粮道与攻势节奏]]及[[XingshiqingStrategicAssessment|实力形势判断]]；据节目，[[DingtaoBattleLateHan|定陶之战]]曹军多数割麦、营内不足千人，吕布与陈宫兵逾万人，曹操利用堤后伏兵、南林掩护反败为胜，吕布从[[Dingtao|定陶]]东走。[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]]
+- [[YongqiuLateHan|雍丘]]围城时张邈欲奔[[YuanShu|袁术]]，被[[LiuYiLateHan|刘翊]]杀，曹操随后受兖州牧任命。[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6]] [[ZhangChaoLateHan|张超]]在雍丘的下场及[[ChenGongLateHan|陈宫]]在吕布军中仍受士族保护，显示倒戈余波未随野战结束。[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76]] [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]]
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] supplies the immediate military trigger before the causal explanation in Hanji 974 and the warning scene in Hanji 975. While [[CaoCao|曹操]] is attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], [[ZhangMiaoLateHan|张邈]] and [[ChenGongLateHan|陈宫]] invite [[LyuBu|吕布]] into Yanzhou.
+## Qualifications
+同系列 Hanji 973—975、978—979 重述同一叛乱与守城，不作独立佐证。濮阳百余日、蝗灾及来源对当地动机的解释按节目口径；与兖州相邻的东郡前史并非曹操已取得全州。
 
-The source's key Yanzhou fact is the speed of base collapse. Cao Cao has to abandon Xuzhou and return because only [[JuanchengLateHan|鄄城]], [[FanCountyLateHan|范县]], and [[DongALateHan|东阿]] remain on his side, setting up the later Xun Yu and Cheng Yu base-preservation episodes.
+## What Changed
+- 将夺取、倒戈、守城补给与再征服串成一条有物质约束的过程。
+- 把正式兖州牧名号与先前实际据州分开。
 
-[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds the political prelude to Yanzhou's military collapse. Before [[XunYu|荀彧]] detects the rebellion in Hanji 975, the source says [[CaoCao|曹操]]'s relationship with local elites has already been damaged by [[BianRangLateHan|边让]]'s killing and by fear that criticism or resistance could become fatal.
-
-In this reading, Yanzhou is not only a base of cities and grain. It is also a coalition with local elite confidence. [[ZhangMiaoLateHan|张邈]] and [[ChenGongLateHan|陈宫]] move toward [[LyuBu|吕布]] after combining [[YuanShao|袁绍]] pressure, Zhang Miao's own [[Chenliu|陈留]] base, and [[LocalEliteSecurityPanic|地方士族安全恐慌]] into a preemptive betrayal.
-
-[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] supplies the trigger layer before the later remaining-city defense. While [[CaoCao|曹操]] is attacking [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], [[ZhangMiaoLateHan|张邈]] and [[ChenGongLateHan|陈宫]] welcome [[LyuBu|吕布]] as Yanzhou governor, and [[XunYu|荀彧]] identifies the danger from envoy wording, Lü Bu's route, and the exposed rear.
-
-The source makes Yanzhou's crisis visible before a battle. [[XiahouDun|夏侯惇]] is recalled from [[PuyangLateHan|濮阳]] to hold [[JuanchengLateHan|鄄城]], while Puyang is then exposed to Lü Bu. This turns the province into an early [[DetailBasedCrisisDetection|细节式危机识别]] and [[RootBasePriority|根本根据地优先]] case: survival begins with noticing that the rear has shifted before the main force can return.
-
-[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] adds the immediate morale-and-county layer before the Hanji 979 base-preservation mechanics. With most of Yanzhou defecting toward [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]], the source names [[JuanchengLateHan|鄄城]], [[FanCountyLateHan|范县]], and [[DongALateHan|东阿]] as the remaining Cao-side strongholds. [[XunYu|荀彧]] deters [[GuoGongLateHan|郭贡]] at Juancheng, then sends [[ChengYu|程昱]] east, where [[JinYunLateHan|靳允]] kills [[FanYiLateHan|范仪]] and keeps Fan County.
-
-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds the immediate base-preservation layer before [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]]'s Puyang trap. With much of Yanzhou turned away from [[CaoCao|曹操]], [[ChengYu|程昱]] blocks [[ChenGongLateHan|陈宫]] at [[CangtingFordLateHan|仓亭津]] and [[ZaoZhi|枣祗]] organizes [[DongALateHan|东阿]], preserving the remaining cities Cao Cao needs as a home base.
-
-The same source makes Yanzhou a strategic reading test for [[LyuBu|吕布]]. Cao Cao argues that Lü Bu would have been dangerous if he had taken [[JuanchengLateHan|鄄城]] and cut the grain route, so Yanzhou's value lies in cities, crossings, route control, harvest, and people organization together.
-
-[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] adds an earlier Puyang crisis to the Yanzhou branch. [[PuyangTianClan|濮阳田氏]] draw [[CaoCao|曹操]] into [[PuyangLateHan|濮阳]], [[LyuBu|吕布]] presses him into a near-fatal city fight, and [[DianWei|典韦]] helps him escape. The province is therefore already a contested base before the later adviser-centered root-base discussion in Hanji 987.
-
-The same source makes Yanzhou's campaign outcome material rather than only tactical. After further fighting around [[PuyangBattleLateHan|濮阳之战]] lasts more than a hundred days, locust damage and grain exhaustion force withdrawal, and Lü Bu's failed attack on [[ChengshiCountyLateHan|乘氏县]] against [[LiJinLateHan|李进]] shows local resistance joining food pressure.
-
-[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] adds the compact recovery stage before the Dingtao-focused page. [[CaoCao|曹操]] kills [[LyuBu|吕布]]'s Juye commanders [[XueLanLateHan|薛兰]] and [[LiFengLateHan|李封]], defeats Lü Bu's rescue force by ambush, and recovers much of Yanzhou before being tempted by the news from [[Xuzhou|徐州]].
-
-兖州 / Yanzhou (Late Han) enters the wiki through [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] as [[CaoCao|曹操]]'s contested root base. [[XunYu|荀彧]] argues that Cao Cao should not leave the province to pursue [[Xuzhou|徐州]] while [[LyuBu|吕布]], [[ZhangMiaoLateHan|张邈]], and their allies still threaten the rear. In the episode's analogy, Yanzhou is to Cao Cao what [[GuanzhongRegion|关中]] is to Liu Bang and [[HeneiCommandery|河内]] is to Liu Xiu: the base that makes both attack and defense possible.
-
-The source makes Yanzhou a material as well as symbolic base. Its wheat harvest, people-support, city defense, and road security decide whether Cao Cao can sustain any later offensive. If he abandons it too soon, he may keep only a few strongholds while losing the province that made his army and authority operational.
-
-[[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] gives the closing turn of the same branch. Cao Cao surrounds [[YongqiuLateHan|雍丘]], Zhang Miao tries to flee toward [[YuanShu|袁术]], and [[LiuYiLateHan|刘翊]] kills him before that exit can strengthen an enemy camp. The episode then reports Cao Cao's appointment as Yanzhou governor, making the province a formal as well as battlefield base.
-
-The later Zang Hong branch keeps Yanzhou's aftershocks visible. [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] remembers that Zhang Miao had welcomed Lü Bu into Yanzhou against Cao Cao, which helps explain why Cao Cao will not spare [[ZhangChaoLateHan|张超]] at Yongqiu. [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] later makes the Yanzhou gentry channel part of [[ChenGongLateHan|陈宫]]'s protected position inside Lü Bu's camp.
-
-## Connections
-- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[LiuDaiLateHan|刘岱]], [[YuanShao|袁绍]], [[GongsunZan|公孙瓒]], [[FanFangLateHan|范方]], [[DongCommandery|东郡]], and [[NeihuangBattleLateHan|内黄之战]] - pre-Yanzhou pressure field and nearby Cao-side command branch.
-- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], [[QingzhouYellowTurbans|青州黄巾军]], [[JinShang|金尚]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]] - first provincial succession crisis and Cao Cao entry.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TaoQianLateHan|陶谦]], [[LiuBei|刘备]], [[Xuzhou|徐州]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Xuzhou offensive interrupted by rear collapse.
-- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[Chenliu|陈留]], [[YuanShao|袁绍]], [[PersonalTrustPoliticalFragility|私交信任的政治脆弱性]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - pre-rebellion social and security layer.
-- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[XunYu|荀彧]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[PuyangLateHan|濮阳]], and [[DetailBasedCrisisDetection|细节式危机识别]] - rebellion detection and emergency Juancheng stabilization before later Yanzhou defense mechanics.
-- [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[FanCountyLateHan|范县]], [[XiahouDun|夏侯惇]], and [[XuZhongJin|许众]] - immediate morale, county, and hostage-dilemma layer.
-- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[JuanchengLateHan|鄄城]], [[ChengYu|程昱]], and [[ZaoZhi|枣祗]] - pre-Puyang base-preservation layer.
-- [[CaoCao|曹操]], [[XunYu|荀彧]], [[LyuBu|吕布]], [[DianWei|典韦]], [[XueLanLateHan|薛兰]], [[LiFengLateHan|李封]], [[ZhangMiaoLateHan|张邈]], and [[ChenGongLateHan|陈宫]] - main late-Han actors tied to the province.
-- [[PuyangBattleLateHan|濮阳之战]], [[PuyangLateHan|濮阳]], [[PuyangTianClan|濮阳田氏]], [[DingtaoBattleLateHan|定陶之战]], [[Dingtao|定陶]], [[ChengshiCountyLateHan|乘氏县]], and [[YongqiuLateHan|雍丘]] - battlefield, county, and siege nodes in the Yanzhou branch.
-- [[RootBasePriority|根本根据地优先]], [[WarCostTempoDiscipline|战争成本与速决纪律]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts sharpened by Yanzhou's source role.
+## Relationships
+- [[XunYu]] - 从叛变征兆到麦收优先，负责把兖州视作根本。
+- [[ChengYu]] - 渡口与范县防务将荀彧的优先级落地。
+- [[RootBasePriority]] - 根据地的粮、人、城防决定徐州攻势能否持续。
+- [[ZhangMiaoLateHan]] - 倒戈及雍丘残局连接地方精英安全恐慌与吕布入州。
