@@ -2,72 +2,69 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture, historiography]
-sources: [693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329, ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh, 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115, 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655, 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513, 697-the-troubles-murder-in-belfast-part-1-glt4877520736]
+sources:
+  - 693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329
+  - ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh
+  - 170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115
+  - 169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909
+  - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
+  - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
+  - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
+  - coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b
+  - the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad
+  - 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465
+  - 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655
+  - 11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513
+  - 697-the-troubles-murder-in-belfast-part-1-glt4877520736
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-26
 ---
 
 # Historical Memory Contest
 
-Historical memory contest is the struggle over which parts of a country's past are publicly taught, commemorated, minimized, or sanitized. In [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[RebeccaJackson]] reports from Montgomery, Alabama, where memorials and museums about slavery and racial terror sit against federal and local efforts to present a cleaner version of American history.
+## Definition
+Historical memory contest is a dispute over which past becomes authoritative in schools, memorials, official histories, art, family stories and public ritual—and whose experience an inherited story excludes.
 
-The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGuest]] argues that schools, culture, Hollywood, and academia will keep a fuller account alive, while the episode also warns that local school boards and grassroots campaigns can make revisionism more durable than a single executive order.
-
-[[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] adds a maritime-hero version through [[FrancisDrake]]. The episode opens from patriotic Victorian memory and modern renaming debates, then contrasts English hero-making with Spanish "El Draque" villain memory and with the postcolonial problem of Drake's slaving.
-
-[[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds a presidential-memory version through the [[ObamaPresidentialCenter]]. The issue there is not only contested national history, but who gets to stage a presidency's complexity, ideals, failures, and unfinished priorities for later visitors.
-
-[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a literary-memory version through [[RichardIII|Richard III / 理查三世]] and [[CaoCaoTomb|曹操墓]]. In these cases, the contest is not only fought through museums or school boards; plays, novels, dynastic histories, legends, and popular suspicion can become the memory infrastructure that later evidence has to overcome.
-
-[[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] adds a classical-political memory version through the [[CaesarAssassination|assassination of Caesar]]. Ancient reports, [[WilliamShakespeare]]'s [[JuliusCaesarPlay|Julius Caesar]], anti-king republican symbolism, and the later imperial outcome all compete over whether [[JuliusCaesar|Caesar]] looks like a murdered hero, a slain tyrant, or a warning about institutional decay.
-
-[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds a French Revolution image-memory version through [[DeathOfMaratPainting|The Death of Marat]]. [[JacquesLouisDavid|David]]'s painting makes [[JeanPaulMarat|Marat]] the visible martyr and excludes [[CharlotteCorday|Corday]], while later sympathetic images of Corday reopen the question of whether the assassination is remembered as murder, punishment, sacrifice, or political refusal.
-
-[[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] adds a Chinese dynastic-memory version through [[WangMang|王莽]]. Traditional narratives make him an usurping traitor, while modern rehabilitations can cast him as a reformer or even a proto-socialist; the episode uses [[XiangruiBook|《祥瑞》]] to keep both images under pressure by restoring [[WesternHanDynasty|Western Han]] court politics, [[MandateOfHeavenLegitimacy|天命]], [[AuspiciousOmenPolitics|祥瑞]], and reform failure to the frame.
-
-[[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a national-symbol memory version through [[ChineseDragon|龙]]. The contest is not over one ruler's reputation but over whether dragon imagery should be remembered as ancient ethnic essence, imperial decoration, folk-religion layer, foreign-caricature target, Qing flag sign, or modern national identity.
-
-[[11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]] adds a Qing rumor-memory version through [[DaiYiJueMiLu|《大义觉迷录》]]. [[YongzhengEmperor|雍正]] tried to make the text preserve his rebuttal, while [[QianlongEmperor|乾隆]] later tried to erase it; the episode's point is that both publication and suppression can preserve scandal when [[QingRumorPolitics|rumor]] has already become a memory vehicle.
-
-[[169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]] adds a Song founding-memory version through [[ChenQiaoMutiny|陈桥兵变]] and [[ZhaoGuangyi|赵光义 / 宋太宗]]. The contest is over whether the founding looks accidental, reluctantly accepted, carefully planned, or later rewritten to give Taizong more founding credit.
-
-[[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] adds the death-and-succession continuation. [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], and the later fates of [[ZhaoDezhao|赵德昭]], [[ZhaoDefang|赵德芳]], and [[ZhaoTingmei|赵廷美]] show how one dynasty's memory contest can shift from founding ritual to inheritance repair.
-
-[[ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh]] adds a Five Dynasties historiography version. [[FiveDynastiesTenKingdomsConceptFormation|五代十国概念形成]] shows how local regimes became a canonical "十国" list through later Song writing, while [[FengDao|冯道]] shows how later moral order judged survival under rapid regime change.
-
-[[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] adds a Northern Ireland sectarian-memory version through [[TheTroubles]]. Protestant murals and commemorations around the Somme, Catholic murals and commemorations around the Easter Rising, Orange marches, flags, sermons, and everyday family stories show memory as a live political infrastructure rather than a passive account of the past.
+## Current Synthesis
+Memory is shaped by institutions and media as well as by evidence. The cases range from public exhibits and dynastic chronicles to portraits, symbols and rival community commemorations. A memorable depiction is not proof of an event, and correcting one dominant story need not replace it with an equally tidy countermyth.
 
 ## Key Claims
-- Historical memory is an institutional problem, not only a cultural argument.
-- Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
-- Presidential centers are part of the same memory infrastructure because they select which achievements, conflicts, and omissions become visible.
-- Sanitized history can weaken democratic resilience by reducing the public's ability to recognize old exclusion patterns.
-- Memory politics can move through local institutions even when national attention focuses on presidents.
-- Literature and legend can become durable memory institutions, especially when political winners or familiar fictional images give them public authority.
-- The same assassination can preserve republican warning, literary betrayal, and imperial origin story at the same time.
-- Political art can make one side of an assassination morally visible while withholding the agency or motive of the other.
-- Wang Mang's memory shows how dynastic history and modern ideology can each flatten a figure unless the surrounding legitimacy system is reconstructed.
-- Dragon memory shows that a symbol can become national by making older folklore and imperial layers look more unified than they were.
-- The Zeng Jing case shows that official rebuttal and book suppression can both make a rumor more memorable.
-- Song founding memory shows that a coup can be remembered through ritual innocence, loyalist honor, successor credit, and later source revision at the same time.
-- Song succession memory shows that a suspicious death can remain historically active when later records and later heir removals keep renewing the question.
-- Five Dynasties memory shows that period labels and loyalty judgments can be built after the fact by later historiography.
-- Northern Ireland memory shows that commemoration can become territorial and security politics when rival communities inhabit different heroic calendars.
-- Drake's memory shows that a maritime hero can be built from the same acts that another community remembers as piracy, predation, or imperial violence.
+- Museums, schools and presidential centers can preserve a complicated national past or give officials a selectively reassuring narrative.
+- Literary and visual depictions can fix reputations even when later inquiry finds source gaps or suppressed perspectives.
+- Dynastic histories and official rebuttals may stabilize power in their own moment yet invite renewed succession rumors and rival interpretations.
+- National symbols and period labels are assembled over time; projecting their modern meaning backward hides older local and imperial uses.
+- Commemorative calendars, marches, flags and monuments can become live territorial and security politics, not simply competing readings of old events.
+- Hero and villain memories can describe the same imperial or revolutionary act differently without making all factual claims equivalent.
 
-## Connections
-- [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
-- [[AmericanCulturalExports]] - culture can preserve, market, or distort national memory.
-- [[ObamaPresidentialCenter]] and [[PresidentialMemorialCulture]] - presidential-memory branch added by The Intelligence.
-- [[PublicServiceJournalism]] and [[IfYouCanKeepIt]] - adjacent civic-explanation branch.
-- [[Route66NostalgiaTourism]] - related American-memory case where nostalgia selects parts of the past for tourism.
-- [[EvidenceBoundHistoricalRevision]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's evidence-versus-literary-memory branch.
-- [[CaesarAssassination]], [[JuliusCaesar]], [[JuliusCaesarPlay]], and [[RepublicanMemoryAgainstDictatorship]] - classical-political memory branch added by episode 124.
-- [[DeathOfMaratPainting]], [[JacquesLouisDavid]], [[JeanPaulMarat]], [[CharlotteCorday]], and [[RevolutionaryMartyrdomImageMaking]] - French Revolution image-memory branch added by episode 125.
-- [[WangMang]], [[XiangruiBook|《祥瑞》]], [[WesternHanDynasty]], [[MandateOfHeavenLegitimacy]], and [[DynasticLegitimacyBackfire]] - Wang Mang dynastic-memory branch added by episode 126.
-- [[ChineseDragon|龙]], [[QingDragonFlag]], [[DragonNationalSymbolInvention]], and [[CrossCulturalDragonTranslation]] - dragon national-symbol memory branch added by episode 127.
-- [[DaiYiJueMiLu|《大义觉迷录》]], [[YongzhengEmperor|雍正]], [[QianlongEmperor|乾隆]], and [[QingRumorPolitics]] - Qing rumor-memory branch added by episode 11.
-- [[ZhaoKuangyin|赵匡胤 / 宋太祖]], [[ZhaoGuangyi|赵光义 / 宋太宗]], [[ChenQiaoMutiny|陈桥兵变]], and [[EvidenceBoundHistoricalRevision]] - Song founding-memory branch added by episode 169.
-- [[CandleShadowAxeSound|烛影斧声]], [[GoldenCabinetPledge|金匮之盟]], [[SongSuccessionLegitimacyCrisis|宋初继承合法性危机]], and [[OfficialHistoryLegitimacyRepair]] - Song succession-memory branch added by episode 170.
-- [[FiveDynastiesTenKingdoms|五代十国]], [[FiveDynastiesTenKingdomsConceptFormation|五代十国概念形成]], [[NewFiveDynastiesHistory|《新五代史》]], [[OuyangXiu|欧阳修]], and [[FengDao|冯道]] - Five Dynasties historiography branch added by EP252.
-- [[TheTroubles]], [[NorthernIreland]], [[IanPaisley]], [[OrangeOrder]], [[EdwardCarson]], [[UnionistSiegeMentality]], and [[SectarianSecurityDilemma]] - Northern Ireland memory-politics branch added by The Rest Is History.
-- [[FrancisDrake]], [[JohnHawkins]], [[Spain]], [[England]], [[AtlanticSlaveTradePrivateeringLink]], and [[PiracyPrivateeringBoundary]] - maritime-hero memory branch added by episode 693.
+## Evidence
+- Civic institutions: On the [[UnitedStates]]' 250th anniversary, [[RebeccaJackson]] reports from Montgomery on slavery and racial-terror memorials versus sanitized federal and school-board narratives; [[RobertGuest]] argues for institutional resilience, while Jackson's voting-rights concern makes a reassuring account of that resilience contestable. The [[ObamaPresidentialCenter]]'s private Chicago South Side exhibition with papers held off-site raises a related question about presidents shaping their own record: the episode warns “Presidents are not kings.” [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]]
+- Literature and source repair: [[JosephineTey]]'s [[TheDaughterOfTime|The Daughter of Time]] contests [[RichardIII]]'s inherited guilt for the [[PrincesInTheTower]], without definitively solving it; the discussion compares [[CaoCaoTomb]] inscriptions and archaeology with fiction-fed public suspicion. Historians must test the later source, not simply substitute the novelist's rehabilitation for the older legend. [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]]
+- Republican murder and its image: The [[CaesarAssassination]] episode sets [[JuliusCaesar]]'s reforms and personal rule against conspirators' republican claims; [[WilliamShakespeare]]'s [[JuliusCaesarPlay]] supplies lines that eclipse uncertain ancient reports, while the later empire prevents equating tyrannicide with republican restoration. [[JacquesLouisDavid]]'s [[DeathOfMaratPainting]] renders [[JeanPaulMarat]] a clean martyr while excluding [[CharlotteCorday]]'s politics and his violent agitation; later sympathetic Corday images reverse the emphasis rather than settling assassination ethics. [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]]
+- Dynastic portraiture: A reading of [[XiangruiBook|《祥瑞》]] resists both [[WangMang]] as pure traitor and as proto-socialist reformer: [[WesternHanDynasty|Western Han]] court power, [[MandateOfHeavenLegitimacy|Heaven's mandate]], auspicious omens, currency reforms and uprisings constrain either shorthand. [[YongzhengEmperor|雍正]] published [[DaiYiJueMiLu|《大义觉迷录》]] to rebut [[ZengJing|曾静]]'s accusations; [[QianlongEmperor|乾隆]] later suppressed the book and executed Zeng Jing and Zhang Xi, leaving both publication and prohibition as vehicles of scandal. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] [[11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513]]
+- Song founding and succession: Part one of the [[ZhaoKuangyin|赵匡胤]] reading scrutinizes the “reluctant” [[ChenQiaoMutiny|陈桥兵变]] and whether later Taizong histories enlarged [[ZhaoGuangyi|赵光义]]'s part in the founding. Part two keeps [[CandleShadowAxeSound|烛影斧声]] separate from proof of murder, noting the missing original [[GoldenCabinetPledge|金匮之盟]], competing transfer versions and the fates of [[ZhaoDezhao]], [[ZhaoDefang]] and [[ZhaoTingmei]]. Suspicion is not a solved crime. [[169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909]] [[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]]
+- Constructed periods and symbols: Historian [[WangHongjie|王洪杰]] describes how [[OuyangXiu]]'s [[NewFiveDynastiesHistory|《新五代史》]] and later Song unity assumptions fixed a “Ten Kingdoms” list; [[FengDao]]'s survival under changing rulers invites retrospective loyalty judgments that obscure practical administration. A dragon discussion traces [[ChineseDragon|龙]] from variable creatures, rain gods and court ornaments to the [[QingDragonFlag|Qing flag]] and modern national totem; neither layer proves an ancient unitary ethnic symbol. [[ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh]] [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]]
+- Contested public space: The Northern Ireland episode links [[EdwardCarson]]'s 1912 covenant and later loyalist invocation of its volunteers, [[OrangeOrder]] networks, 1966 Easter Rising commemoration and the 1964 tricolor dispute to [[IanPaisley]]'s mobilization amid unequal housing, policing and partition. Rival memories shaped [[TheTroubles]] but did not necessitate the loyalist 1966 killings of [[MatildaGould]], [[JohnPatrickScullion]] and [[PeterWard]]; armed actors chose escalation. [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]]
+- Maritime hero and adversary: The Drake episode contrasts Victorian [[England|English]] hero-making with [[Spain|Spanish]] “El Draque” memory. [[FrancisDrake]]'s voyages from [[JohnHawkins]]'s slaving expedition and the 1568 [[SanJuanDeUlua|San Juan de Ulúa]] attack to alliance with [[DiegoDrakeAlly|Diego]] and the [[Cimarrones]], execution of [[ThomasDoughty|Doughty]], capture of the [[NuestraSenoraDeLaConcepcion|Spanish treasure ship]] and 1580 return made the piracy/privateering boundary and imperial violence part of the same career as national prestige. [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]]
+
+## Counterevidence & Qualifications
+- These are source-scoped discussions: several ancient and Chinese cases come from one [[MihuanChishu|蜜獾吃书]] show, the Song episodes are a two-part series and the U.S. passages are different segments of [[TheIntelligence]]. Assassination, rumor and myth do not become true simply because a group commemorates them. [[170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115]] [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]]
+- The Northern Ireland report gives both discrimination and unionist siege anxiety, but neither explains away victims' deaths. Public-center and school-board accounts describe pressures on memory, not measured nationwide effects of a single exhibit. [[697-the-troubles-murder-in-belfast-part-1-glt4877520736]] [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]]
+
+## What Changed
+- Distinguishes contest over evidentiary reputation, official legitimation, symbolic identity and territorial commemorative power.
+
+## Related Concepts
+- [[AmericanDemocraticResilience]] - frames why an honest account of racial exclusion matters to civic trust; [[AmericanCulturalExports]] - media can preserve or flatten national memory.
+- [[ObamaPresidentialCenter]] - curatorial site for one presidency; [[PresidentialMemorialCulture]] - the authority it confers on presidential narratives.
+- [[PublicServiceJournalism]] - reporting that makes exclusions visible; [[IfYouCanKeepIt]] - civic-democracy frame rather than a historical source; [[Route66NostalgiaTourism]] - another U.S. travel narrative where segregation can vanish from nostalgic presentation.
+- [[EvidenceBoundHistoricalRevision]] - tests entrenched stories against records; [[RichardIII]] - reputation contested in Tey's inquiry; [[CaoCaoTomb]] - archaeology confronting literary image.
+- [[CaesarAssassination]] - political act whose republican and imperial afterlives diverge; [[JuliusCaesar]] - contested subject; [[JuliusCaesarPlay]] - Shakespeare's influential retelling; [[RepublicanMemoryAgainstDictatorship]] - anti-monarchic legacy despite the republic's fall.
+- [[DeathOfMaratPainting]] - selective martyr image; [[JacquesLouisDavid]] - painter; [[JeanPaulMarat]] - depicted revolutionary; [[CharlotteCorday]] - assassin excluded from the scene; [[RevolutionaryMartyrdomImageMaking]] - selective visibility as political technique.
+- [[WangMang]] - contested usurper/reformer portrait; [[XiangruiBook]] - modern book reexamining it; [[WesternHanDynasty]] - political context; [[MandateOfHeavenLegitimacy]] - logic behind omen claims; [[AuspiciousOmenPolitics]] - omens used as retrospective political evidence; [[DynasticLegitimacyBackfire]] - a mandate that can be transferred away from the ruling house.
+- [[ChineseDragon]] - layered animal and political sign; [[QingDragonFlag]] - court symbol moving into state representation; [[DragonNationalSymbolInvention]] - later unification as a national totem; [[CrossCulturalDragonTranslation]] - imperfect translation that altered foreign interpretations.
+- [[DaiYiJueMiLu]] - rebuttal text that circulated rumor; [[YongzhengEmperor]] - its authorizing ruler; [[QianlongEmperor]] - successor who suppressed it; [[QingRumorPolitics]] - the audience and accusation feedback loop.
+- [[ZhaoKuangyin]] - founding emperor; [[ZhaoGuangyi]] - successor whose own legitimacy shaped retrospective narratives; [[ChenQiaoMutiny]] - reportedly reluctant transfer; [[OfficialHistoryLegitimacyRepair]] - later court writing that can adjust credit.
+- [[CandleShadowAxeSound]] - disputed death account; [[GoldenCabinetPledge]] - missing pledge invoked for succession; [[SongSuccessionLegitimacyCrisis]] - continued question after removal of alternative heirs.
+- [[FiveDynastiesTenKingdoms]] - period later ordered into a canonical list; [[FiveDynastiesTenKingdomsConceptFormation]] - process of forming it; [[NewFiveDynastiesHistory]] - Ouyang Xiu's text; [[OuyangXiu]] - later historian; [[FengDao]] - official rejudged under Song loyalty norms.
+- [[TheTroubles]] - conflict in which commemoration fed boundary politics; [[NorthernIreland]] - partition setting; [[IanPaisley]] - organizer invoking historical threat; [[OrangeOrder]] - march institution; [[EdwardCarson]] - earlier unionist precedent; [[UnionistSiegeMentality]] - defensive reading of the past; [[SectarianSecurityDilemma]] - mutually escalating insecurity.
+- [[FrancisDrake]] - both English sea hero and Spanish pirate; [[JohnHawkins]] - slaving expedition leader in his early career; [[Spain]] and [[England]] - communities framing the same raids differently; [[AtlanticSlaveTradePrivateeringLink]] - slaving and licensed maritime aggression intersect; [[PiracyPrivateeringBoundary]] - royal authorization's ambiguity.
