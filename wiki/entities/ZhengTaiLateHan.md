@@ -2,34 +2,46 @@
 title: "郑泰 / Zheng Tai (late Han)"
 type: entity
 tags: [person, late-han, court, adviser]
-sources: [zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb, zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]
+sources:
+  - zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt
+  - zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl
+  - zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb
+  - zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 郑泰 / Zheng Tai (late Han)
 
-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] adds Zheng Tai before his warning against [[DongZhuo|董卓]] in Hanji 945. After [[HeJin|何进]] defeats [[JianShuoLateHan|蹇硕]], the source says He Jin recruits Zheng Tai, [[HeYongLateHan|何颙]], and others into his inner network and places many of them in court offices.
+## Overview
+郑泰 was a late-Han court adviser whose warning against calling [[DongZhuo]] to [[LuoyangLateHan]] preceded his uneasy service in Dong Zhuo's court. His later counsel tested the military cohesion of the [[AntiDongZhuoCoalition]] rather than endorsing its opponent.
 
-This source does not yet give Zheng Tai a voiced policy argument. Its value is sequencing: Zheng Tai is already inside He Jin's post-accession talent circle before he later becomes one of the people warning that inviting Dong Zhuo into [[LuoyangLateHan|洛阳]] will create disorder.
+## Current Profile
+He moved between rival power centers without evidence that his earlier warning had been withdrawn: first [[HeJin]]'s personnel circle, then the court controlled by Dong Zhuo. The podcast's judgments about either leader's motives remain attributed interpretations.
 
-[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] gives Zheng Tai's first late-Han crisis role before his later appearances under [[DongZhuo|董卓]]. He warns [[HeJin|何进]] not to summon Dong Zhuo into [[LuoyangLateHan|洛阳]], arguing that He Jin already has enough formal power to punish guilty eunuchs and should not invite an ambitious outside commander into the court struggle.
+## Key Characteristics
+- An insider to He Jin's court network before the 189 CE eunuch crisis escalated.
+- A critic of importing an autonomous army into a palace conflict when He Jin already held formal authority.
+- A participant in Dong Zhuo's appointment and reputation-building effort, despite having warned against him.
+- An analyst of coalition coordination whose advice to avoid a general attack mixed normative language and military calculation.
 
-The episode makes Zheng Tai a clear early voice for [[ExternalTroopInvitationRisk|外兵入京升级风险]]. His warning combines character assessment, timing, and precedent: Dong Zhuo is dangerous, delay multiplies variables, and the failed [[DouWuLateHan|窦武]] anti-eunuch move shows how a palace plan can reverse before the initiator controls the result.
+## Evidence
+- **Access before advice.** [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]] places Zheng Tai and [[HeYongLateHan]] among the more than twenty appointees drawn close after [[JianShuoLateHan]]'s fall. It establishes access, not a policy speech; the subsequent warning in [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl]] should not be projected back into that appointment.
+- **The summons changes the risk.** In [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl]] he tells He Jin that an ambitious Dong Zhuo need not be summoned to punish guilty [[TenAttendantsLateHan]]: an outside commander would acquire leverage over the court. [[LuZhiLateHan]] separately warns of disorder, while Zheng cites the failed [[DouWuLateHan]] precedent and urgency; [[YuanShao]] presses the opposite escalation. This is the concrete [[ExternalTroopInvitationRisk]] that his advice identifies, not proof that he could have stopped the coup.
+- **Office and legitimacy under the new ruler.** [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb]] names Zheng with [[ZhouBiLateHan]], [[WuQiongLateHan]], and He Yong in Dong Zhuo's official-cleanup and talent-recommendation drive. Their participation offered an appearance of institutional repair ([[CoercedTalentLegitimacy]]) while Dong Zhuo's coercion limited its credibility; the note does not establish Zheng's private allegiance.
+- **Disaggregate the enemy before mobilizing.** [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]] has Zheng argue that governance cannot rest on numbers of troops alone and that a sweeping levy would damage authority. His examples [[ZhangMiaoLateHan]], [[KongZhouLateHan]], and Yuan Shao point to leaders with separate interests, hierarchy problems and weak joint command ([[InterestStructuredAllianceFragility]]), although the episode's ethical language and forecast of [[CoalitionSelfPreservationFailure]] are its own reading of the alliance, not direct evidence of every member's future conduct.
 
-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] adds Zheng Tai's earlier personnel role before his Hanji 950 coalition diagnosis. The source names him with [[ZhouBiLateHan|周毖]], [[WuQiongLateHan|伍琼]], and [[HeYongLateHan|何颙]] as part of [[DongZhuo|董卓]]'s attempt to clean corrupt officials and recommend neglected worthies.
+## Qualifications
+- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt]] is only a recruitment background. [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]] is advice delivered in Dong Zhuo's court, not evidence that Zheng led the coalition or independently verified all commanders' intentions.
+- Later coalition failure does not by itself establish that Zheng's entire diagnosis was right. The source notes report the host's moral and psychological interpretations, not Zheng's unmediated inner beliefs.
 
-This makes Zheng Tai part of both sides of Dong Zhuo's legitimacy problem: he can help create an appearance of court repair, but Hanji 950 then uses his advice to show that Dong Zhuo's rule still depends on fear, coalition weakness, and strategic relocation choices rather than genuine institutional health.
+## What Changed
+- The old sequence of four appearances is reorganized as access, warning, coerced-court participation and coalition diagnosis; none cancels the earlier warning.
 
-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] later presents Zheng Tai as the court official who discourages [[DongZhuo|董卓]] from launching a broad attack on the [[AntiDongZhuoCoalition|反董卓联盟]]. The episode presents his advice as both moral language and practical threat assessment: rule needs virtue, not simply troop count, and indiscriminate mobilization would disturb the realm and damage Dong Zhuo's authority.
-
-Zheng Tai also diagnoses the coalition's weakness. He says figures such as [[YuanShao|袁绍]], [[ZhangMiaoLateHan|张邈]], and [[KongZhouLateHan|孔伷]] lack the military cohesion, hierarchy, and shared interests needed for sustained action. The page therefore links him to [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] as an analyst of the coalition before later episodes show the failure in action.
-
-## Connections
-
-- [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]], [[HeJin|何进]], [[HeYongLateHan|何颙]], and [[TalentAsStateTreasure|以贤臣为宝]] - recruitment into He Jin's early post-accession court network.
-- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DongZhuo|董卓]], [[LuZhiLateHan|卢植]], [[DouWuLateHan|窦武]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - warning against inviting outside force into the capital.
-- [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]], [[ZhouBiLateHan|周毖]], [[WuQiongLateHan|伍琼]], [[HeYongLateHan|何颙]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - earlier official-cleanup and recommendation channel.
-- [[DongZhuo|董卓]] - ruler-adjacent powerholder Zheng Tai tries to restrain.
-- [[AntiDongZhuoCoalition|反董卓联盟]] - target whose weakness Zheng Tai describes.
-- [[YuanShao|袁绍]], [[ZhangMiaoLateHan|张邈]], and [[KongZhouLateHan|孔伷]] - examples used in the source's coalition diagnosis.
-- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] and [[CoalitionSelfPreservationFailure|联盟自保失灵]] - concepts his advice anticipates.
+## Relationships
+- [[HeJin]] - recruited Zheng into the decision circle that then chose to summon outside troops.
+- [[DongZhuo]] - the commander Zheng warned against and later advised under coercive court rule.
+- [[ExternalTroopInvitationRisk]] - the distinct escalation mechanism his 189 CE counsel anticipated.
+- [[AntiDongZhuoCoalition]] - the military coalition whose coordination he questioned.
+- [[InterestStructuredAllianceFragility]] - explains why nominally common opposition need not produce unified command.
+- [[TalentAsStateTreasure]] - the earlier recruitment ideal contrasts with how Dong Zhuo later used appointments to manufacture legitimacy.
