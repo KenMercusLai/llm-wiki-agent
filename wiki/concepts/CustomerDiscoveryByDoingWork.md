@@ -2,64 +2,62 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908, toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+knowledge_schema: synthesis-v1
+sources:
+  - sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908
+  - toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97
+  - tsr-s4-gusto-v3-tsr-s4-gusto-v3
+  - tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3
+  - tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6
+  - tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio
+  - tsr-s3-yinwu-v2-tsr-s3-yinwu-v2
+  - tsr-s2-adoracheung-v5
+  - socialradarspod-brianchesky-final
+  - socialradarspod-brianchesky2-final
+  - socialradarspod-tonyxu-final
 last_updated: 2026-08-07
 ---
 
-# Customer Discovery By Doing Work
+## Definition
+Customer discovery by doing work means directly performing, assisting or observing the customer's real workflow to test a problem and the service required to solve it; it is not a substitute for repeat demand or scalable operations.
 
-[[sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908]] adds a music-retail version through [[ChuckSurack]] and [[Sweetwater]]. Chuck learned the customer problem by touring as a musician, running sound, recording school concerts from a VW bus, editing corporate recordings by hand, creating [[KurzweilK250]] sounds, and supporting other Kurzweil users before equipment sales became the main business.
-
-[[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] adds a restaurant software version through [[Toast]]. The founders did not only interview restaurant owners; they built integrations, installed systems, trained staff, answered support calls, and manually rescued the [[DwellTime]] outage, turning service work into product discovery for [[MissionCriticalRestaurantSoftware]].
-
-Customer discovery by doing work is the pattern where founders learn by helping customers or suppliers with real tasks rather than only interviewing them. In [[socialradarspod-tonyxu-final]], [[TonyXu]] says the [[DoorDash]] founders walked into small businesses and helped with dishes, salad preparation, accounting, and other work. Merchants got free help, while the founders learned which problems were frequent and painful.
-
-The pattern matters because it exposed a delivery problem that a survey could easily miss. A macaron shop could sell more if it handled delivery, but logistics were outside the merchant's craft and capacity. That insight led from [[StanfordStartupGarage]] into [[PaloAltoDelivery]] and then DoorDash.
-
-[[socialradarspod-brianchesky-final]] adds a host-supply version through [[Airbnb]]. [[BrianChesky]] says he and [[JoeGebbia]] went to New York, visited hosts, noticed that homes were often better than their photos, and helped improve listings through photography. The founders were not only interviewing hosts; they were doing part of the work needed to make the marketplace trustworthy and bookable.
-
-[[socialradarspod-brianchesky2-final]] adds more operational detail to the same pattern. Airbnb's founders manually carried checks, handled payments before automation, helped with pricing, and built host supply city by city. The work revealed which pieces of the marketplace were operational bottlenecks and which should become product features later.
-
-[[tsr-s2-adoracheung-v5]] adds the home-services version through [[AdoraCheung]] and [[Homejoy]]. Cheung cleaned houses herself and also took cleaning jobs to learn the tools, chemicals, sequencing, pair-work, and reliability requirements behind the service. The source shows that doing the work can reveal supply quality requirements, but it also warns that field learning has to become [[ServiceMarketplaceQualityControl]] before expansion.
-
-[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Prim]] as another service-work case. [[YinWu]] personally picked up, washed, folded, and delivered laundry for the first three months, which exposed the operational reality behind a same-day laundry promise. The episode's twist is that doing the work helped Yin learn the market but also helped her see that she lacked long-term [[FounderUserObsession]] for laundry operations.
-
-[[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds the compliance-software version through [[ChristinaCacioppo]] and [[Vanta]]. Christina stopped building unwanted products, talked to founders, and made a [[ManualComplianceMVP]] spreadsheet for [[Segment]] before adapting it for [[Front]]. The discovery work was not only interviews; it was doing enough SOC 2 gap-assessment labor to learn which parts of the workflow could become product.
-
-[[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds an adjacent medical-device version through [[SurbhiSarna]] and [[PhysicianLedMedicalDeviceDesign]]. Sarna did not "do" the physician procedure herself, but she treated physician meetings, negative feedback, ergonomics, and screen-directed use as discovery surfaces for [[FallopianTubeAccessDiagnostics]] before the device was fixed.
-
-[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds a logistics fieldwork version through [[RyanPetersen]] and [[Flexport]]. The original company pain came from Petersen importing motorcycles, while the Long Beach congestion episode shows later discovery by going to the port, talking to workers and a trucking CEO, and identifying container-stacking and chassis constraints that abstract supply-chain commentary missed.
-
-[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds a payroll-onboarding version through [[Gusto]]. The founders watched an early customer enter employee payroll information, noticed the privacy and friction in that work, and turned the observation into employee self-service. The discovery came from seeing the real workflow, not only asking whether payroll was painful.
+## Current Synthesis
+Across marketplace, retail, restaurant, payroll, compliance and freight interviews, doing the work revealed failures a polite interview could hide: missing delivery, unbookable photos, broken POS, sensitive onboarding, audit evidence and a container stuck behind other containers. The form ranges from founders delivering and cleaning to a medically constrained adjacent case of clinician-guided design. These are founder recollections, not an experiment proving one technique always wins.
 
 ## Key Claims
-- Doing work can earn trust before the founder has a product to pitch.
-- Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
-- The method is especially useful when the buyer's problem involves physical work, staffing, logistics, or workflow interruptions.
-- Field work should still become a testable product hypothesis; in this source it led to [[JankyMVP]] testing and [[ThreeSidedMarketplaceValidation]].
-- The pattern strengthens [[FounderProductFit]] when founders discover whether they are willing to keep engaging with the unglamorous parts of the market.
-- The same pattern can apply to marketplace supply quality: doing work for suppliers can reveal why demand is blocked even when the underlying offering is good.
-- Payment, pricing, and presentation work can be discovery surfaces because they show where a transaction still depends on founder intervention.
-- Doing the service personally can reveal quality-control requirements that interviews and marketplace dashboards would miss.
-- Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
-- In B2B compliance, doing the work can expose repeated evidence, policy, and control patterns that customers share even when they believe their company is unique.
-- In logistics, fieldwork can expose physical bottlenecks and incentive loops that are invisible from documents or dashboards alone.
-- In medical devices, discovery can mean converting clinician feedback into device ergonomics, procedural safety, and validation requirements even when the founder cannot personally perform the clinical work.
-- In regulated back-office software, watching customer onboarding can reveal privacy, compliance, and data-entry requirements that belong in the product itself.
-- In technical retail, doing the craft and support work can reveal the advice, trust, and service systems customers need before buying.
+- Working alongside merchants or customers can earn access and expose demand they cannot satisfy themselves.
+- Manual delivery and support reveal bottlenecks that must eventually become product, infrastructure or service standards.
+- Observing sensitive and physical workflows can surface privacy, safety and coordination constraints missed by abstract dashboards.
+- Service participation tests supply quality and founder fit, but expansion still requires retention, unit economics and repeatable control.
+- Technical expertise and sales conversations can turn craft knowledge into a trust-based offering without reducing discovery to surveys.
 
-## Connections
-- [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
-- [[JankyMVP]] and [[ThreeSidedMarketplaceValidation]] - next validation steps.
-- [[FounderProximity]] - scaled version of staying close to customers, merchants, and dashers.
-- [[CustomerPull]], [[FastProductValidation]], and [[ValidatedLearning]] - adjacent startup-learning concepts.
-- [[BrianChesky]], [[JoeGebbia]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - host-fieldwork case added by the Chesky episode.
-- [[UnscalableFounderWork]] - second Chesky episode's explicit frame for manual work before scalable systems.
-- [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
-- [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.
-- [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance gap-assessment case added by the Christina Cacioppo episode.
-- [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[PhysicianLedMedicalDeviceDesign]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - physician-user discovery case added by The Social Radars.
-- [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.
-- [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-onboarding case added by the Gusto episode.
-- [[Toast]], [[AmanNarang]], [[DwellTime]], and [[RestaurantOperatingSystem]] - restaurant software fieldwork case added by How I Built This.
-- [[ChuckSurack]], [[Sweetwater]], [[KurzweilK250]], [[ServiceLedRetailMoat]], and [[SalesEngineerModel]] - music-retail fieldwork case added by How I Built This.
+## Evidence
+- Merchant and marketplace work: [[socialradarspod-tonyxu-final]] has [[TonyXu]]'s [[DoorDash]] team in [[StanfordStartupGarage]] washing dishes, making salad and helping accounts before a macaron shop exposed unmet delivery demand. [[PaloAltoDelivery]]'s eight PDF menus, Google Voice number, founder deliveries and repeat orders offered a [[JankyMVP|low-tech validation]] of demand across merchants, customers and drivers. [[socialradarspod-brianchesky-final]] and [[socialradarspod-brianchesky2-final]] recount [[BrianChesky]] and [[JoeGebbia]] visiting New York [[Airbnb]] hosts: photographs made better spaces bookable, while hand-carried checks, pricing help and city-by-city supply revealed payment and trust jobs.
+- Breakdown as product discovery: [[toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97]] follows [[Toast]] from a slow-check app requiring incompatible POS integrations to [[FinaleDesserts]]' fragmented restaurant software; at [[DwellTime]] the first live installation failed in about 20 minutes. [[AmanNarang]]'s team coded, installed, trained and supported staff, exposing [[MissionCriticalRestaurantSoftware|service-time reliability]] and the need for a [[RestaurantOperatingSystem|restaurant operating stack]] rather than checkout alone. [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] has [[ChristinaCacioppo]] map [[Segment]] and [[Front]] [[SOC2Audit|SOC 2 evidence]], policies and missing controls in a spreadsheet before [[Vanta]] automation.
+- Hidden operational constraints: [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] reports [[Gusto]] founders [[JoshReeves]], [[EddieKim]] and [[TomerLondon]] watching an early customer enter private employee payroll data and adding self-service, while narrowing their first wedge to California salaried employees and a first payroll. [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] distinguishes [[RyanPetersen]]' own motorcycle-import pain from later [[Flexport]] Long Beach field visits: conversations with port workers and a trucking leader revealed container stacking and chassis constraints in [[GlobalLogisticsCoordination]], a [[LogisticsCrisisResponse|crisis logistics]] problem invisible to an abstract freight screen. [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] is an adjacent exception: [[SurbhiSarna]] did not perform medical procedures; she interviewed physicians and converted negative feedback on hand size, screen use and safety into [[NVisionMedical|nVision]] catheter requirements, then pursued [[MedicalDeviceClinicalValidation|clinical and FDA validation]].
+- Supply quality and founder fit: [[tsr-s2-adoracheung-v5]] says [[AdoraCheung]] cleaned homes to learn tools, chemicals, sequencing and reliability, yet [[Homejoy]] expanded as retention fell and discounted $19 first cleanings masked weak repeat economics. [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] describes [[YinWu]] personally picking up, washing, folding and delivering for [[Prim]] for three months, which taught operational realities and her lack of long-term [[FounderUserObsession|commitment to laundry users]]. Field experience is informative even when it argues against scaling.
+- Craft-based trust: [[sweetwater-chuck-surack-how-a-customer-service-strategy-built-a-billion-dollar-online-pro-audio-and-music-company-50c2b5e3-3bc3-4039-a92d-26228b8ac908]] traces [[ChuckSurack]]'s school and corporate recording, [[KurzweilK250]] sounds and support into [[Sweetwater]]'s specialist advice; later 13-week [[SalesEngineerModel|sales-engineer training]] and individual guitar inspection translated lived craft into [[ServiceLedRetailMoat|repeatable expert service]]. This is a specialist retail route rather than a delivery-marketplace experiment.
+
+## Counterevidence & Qualifications
+Many examples come from the same interview series and are self-reported retrospective accounts; Airbnb's two episodes form one case. Homejoy shows that learning the work is not validation of repeat purchase. Clinician interviewing is not equivalent to personally doing regulated clinical work, and the source's diagnostic claims require independent medical validation. A founder manually rescuing transactions can expose a problem while concealing unsustainable labor until the workflow is measured.
+
+## What Changed
+- Integrated eleven notes around access, failure, workflow constraints and limits rather than founder-by-founder append entries.
+- Kept Homejoy and Prim as counterexamples to automatic founder-work success.
+
+## Related Concepts
+- [[PayrollInfrastructureTrust]] - payroll observation translated privacy and reliability into product requirements.
+- [[FounderProximity]] - continued field visits guard against losing customer context after scale.
+- [[CustomerPull]] - repeat demand is the test that mere founder effort cannot replace.
+- [[FastProductValidation]] - small manual tests should resolve a concrete demand uncertainty.
+- [[FallopianTubeAccessDiagnostics]] - clinician feedback concerned a specific regulated procedure, not founder-performed treatment.
+- [[CustomerEvidenceStrategy]] - ranks observed and purchased behavior against merely polite feedback.
+- [[UnscalableFounderWork]] - temporary manual delivery can expose what a product must eventually systematize.
+- [[ThreeSidedMarketplaceValidation]] - DoorDash needed consumer demand, merchant participation and driver supply.
+- [[PeerToPeerMarketplaceTrust]] - Airbnb photos and payment made the host listing transactible.
+- [[DesignForOnePerson]] - Chesky's host visits and improvement of particular New York listings put a concrete person's booking experience ahead of an abstract average user, before scaling that learning.
+- [[ValidatedLearning]] - DoorDash's PDF menus and founder deliveries tested real orders and repeats; doing merchant chores alone had not validated all three marketplace sides.
+- [[ManualComplianceMVP]] - Vanta's spreadsheet was both delivered work and a discovery instrument.
+- [[ServiceMarketplaceQualityControl]] - Homejoy's retention failure shows why field learning must become repeatable quality.
+- [[FounderProductFit]] - Prim tested whether the founder wanted to stay with the users and labor.
+- [[PhysicianLedMedicalDeviceDesign]] - medical fieldwork relies on qualified clinicians and validation rather than founder-performed procedures.
