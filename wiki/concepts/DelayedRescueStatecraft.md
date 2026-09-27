@@ -2,39 +2,46 @@
 title: "Delayed Rescue Statecraft / 晚救权谋"
 type: concept
 tags: [strategy, diplomacy, warfare, warring-states, pre-qin-history]
-sources: [zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx, zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4, zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]
+sources:
+  - zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb
+  - zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx
+  - zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4
+  - zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-23
 ---
 
-# Delayed Rescue Statecraft / 晚救权谋
+## Definition
+Delayed rescue is a timing strategy in which a prospective rescuer waits for an ally and common enemy to exhaust each other before intervening. The historical podcast's cases distinguish leverage from a costly failure to act; waiting is not intrinsically wise.
 
-Delayed rescue statecraft / 晚救权谋 is the intervention-timing pattern [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] attributes to [[SunBin|孙膑]] in the run-up to [[MalingBattle|马陵之战]]. [[HanState|韩国]] asks [[QiState|齐国]] for help after [[WeiState|魏国]] attacks, but Sun Bin argues that helping too early would make Qi bear Wei's full pressure while Han remains relatively unspent.
+## Current Synthesis
+In the Qi–Han–Wei conflict preceding [[MalingBattle]], the podcast describes [[QiWeiwang]] deciding after a debate involving [[TianJi]] and [[ZouJi]]; this is one [[EarlyWarringStatesInterstateWar]] setting, not a general treaty model. [[SunBin]] advised [[QiState]] to reassure [[HanState]] privately rather than immediately absorb [[WeiState]]'s full attack. The account makes Han's continued resistance, Wei's fatigue, Qi's credibility and the ethics of letting an ally suffer part of the same calculation. Later victory also depended on [[DecreasingStovesDeception]] and [[PangJuan]]'s hazardous accelerated pursuit, not timing alone.
 
-The strategy turns rescue into leverage. Qi privately reassures Han, lets Han and Wei exhaust each other, and then intervenes when Han is desperate and Wei is tired. The source treats this as morally harsh but strategically coherent: Qi gains gratitude, reputation, and better battlefield conditions at the same time.
-
-[[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] adds the outcome of that timing choice. Once Qi enters, Sun Bin combines the delayed intervention with [[DecreasingStovesDeception|减灶诱敌]] and [[ForcedMarchOperationalRisk|forced-march risk]], leading to [[PangJuan|庞涓]]'s death, Wei's defeat, and [[PrinceShenWei|太子申]]'s capture.
-
-[[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] adds a failed version through [[SongYi|宋义]] delaying Chu's rescue of [[ZhaoState|赵国]] at [[AnyangQinRebellion|安阳]]. Song Yi's logic resembles the earlier pattern: let [[QinState|秦国]] and Zhao exhaust each other, then intervene after Qin is weakened. But the episode stresses the conditions that make delay collapse rather than work.
-
-Unlike Sun Bin's case, Song Yi's delay lacks a stable internal command coalition. [[XiangYu|项羽]] argues that Qin may grow stronger if it takes Zhao's soldiers and supplies, while Chu soldiers are already hungry and cold. Song Yi's insult of Xiang Yu and trip to [[WuyanCounty|无盐县]] turn delayed rescue into a legitimacy failure, ending with [[WartimeCommandDecapitation|战时统帅斩首]] before the rescue can be tested.
-
-[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] reuses Song Yi's case as a general warning against copying the "two sides fight first" formula. The episode argues that the tactic can work when state survival is not immediately at stake, but fails when the endangered ally's collapse would strengthen the common enemy and when one's own army cannot endure the wait.
+[[SongYi]] instead stopped the Chu relief force at [[AnyangQinRebellion]] for forty-six days while [[ZhaoState]] faced [[QinState]]. [[XiangYu]] objected that a defeated Zhao could reinforce Qin with troops and supplies. Cold, hungry Chu soldiers, Song Yi's personal insult and disciplinary threat against Xiang Yu, and his son's Qi appointment and banquet at [[WuyanCounty]] undermined his authority; Xiang Yu killed him before the delayed-rescue plan could be tested at [[Julu]]. The later [[XingshiqingStrategicAssessment]] comparison warns against transplanting an interstate formula into an existential military crisis.
 
 ## Key Claims
-- Rescue timing can be as important as the decision to rescue.
-- Early intervention may transfer the ally's burden onto the rescuer.
-- Delayed intervention can convert another state's desperation into political dependence.
-- The pattern depends on credible private commitment; Han keeps fighting because Qi has secretly promised eventual help.
-- The strategy has an ethical edge: the ally is helped, but only after being deliberately left in danger.
-- Delay fails when the rescuer's own army cannot sustain morale, supply, and trust during the wait.
-- A delayed-rescue plan must answer the risk that the common enemy may become stronger by consuming the endangered ally.
-- Hanji 159-2 adds that delayed rescue is not a portable trick; urgency, allied collapse risk, and troop morale decide whether waiting is wisdom or self-defeat.
+- A private promise can sustain an ally's resistance while delay changes the two combatants' strength and bargaining position.
+- A late intervention still needs execution: deception, pursuit tempo and ambush explain the Maling outcome alongside the timing choice.
+- The enemy may grow stronger by absorbing the ally, so exhaustion is not a guaranteed result of waiting.
+- Supply, morale and command legitimacy set a deadline on a rescuer's own ability to wait.
+- Historical analogies require the current conduct, strategic situation and commitments to be assessed separately, rather than copied as a trick.
 
-## Connections
-- [[SunBin|孙膑]], [[QiWeiwang|齐威王]], [[TianJi|田忌]], and [[ZouJi|成侯邹忌]] - debate participants and decision-maker.
-- [[QiState|齐国]], [[HanState|韩国]], and [[WeiState|魏国]] - states in the rescue-timing problem.
-- [[MalingBattle|马陵之战]], [[DecreasingStovesDeception]], and [[EarlyWarringStatesInterstateWar]] - campaign, tactic, and broader war setting.
-- [[EncirclingWeiToRescueZhao]] - adjacent rescue pattern, focused on target displacement rather than timing.
-- [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], [[Julu|巨鹿]], [[ZhaoState|赵国]], and [[QinState|秦国]] - Qinji 133 failed delayed-rescue case before the Julu battle.
-- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - later framework explaining why the same timing pattern cannot be copied across different crises.
-- [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] and [[WartimeCommandDecapitation|战时统帅斩首]] - failure mechanisms when delay undermines command legitimacy.
+## Evidence
+- Commitment and leverage: [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada]] describes Sun Bin’s private reassurance to Han, the burden of premature rescue and the morally harsh advantage Qi expected from delayed intervention.
+- Operational execution: [[zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4]] describes the reported ten-wan, five-wan and two-wan stove sequence, Pang Juan’s doubled-pace light-force pursuit, night crossbow ambush, death and capture of [[PrinceShenWei]]; the host treats elements as dramatized.
+- Enemy absorption risk: [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx]] reports Xiang Yu’s concern that waiting could let Qin absorb Zhao rather than merely weaken both parties.
+- Own army and command deadline: [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx]] describes Song Yi’s forty-six days at Anyang, a hungry army, his targeted order and Wuyan banquet, followed by Xiang Yu’s [[WartimeCommandDecapitation|killing of his commander]].
+- Nonportable analogy: [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb]] invokes Song Yi and [[XunYue]]’s 行、势、情 to caution that superficially similar rescue tactics differ with urgency and commitments.
+
+## Counterevidence & Qualifications
+The Qi and Chu accounts are episodes from the same historical podcast series, not independent confirmation. Maling's traditional night ambush and battlefield location remain source-scoped. Song Yi's own Qin–Zhao exhaustion logic is underdeveloped in the episode, and Xiang Yu's subsequent success does not independently prove that every shorter wait would have failed. Delay imposed a cost on Han even in the ostensibly successful case.
+
+## What Changed
+- Separated the leverage of promised rescue from the operational deception needed for victory.
+- Recast Song Yi's failure as a conditional countercase, not proof that all delay is self-defeating.
+
+## Related Concepts
+- [[EncirclingWeiToRescueZhao]] - contrasts shifting the attack target with choosing when to intervene.
+- [[MilitaryMoraleThroughSharedHardship]] - Song Yi's banquet while his army suffered weakened the command basis for waiting.
+- [[ForcedMarchOperationalRisk]] - Pang Juan's urgent pursuit enabled the Maling ambush after Qi's delayed entry.
+- [[XingshiqingStrategicAssessment]] - tests whether an inherited rescue tactic fits actual conduct, situation and allegiance.
