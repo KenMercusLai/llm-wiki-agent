@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 369. The Colosseum: Rome's Arena of Death
+
+Added source `369-the-colosseum-romes-arena-of-death-glt7808118779`; created `Colosseum`, `Vespasian`, `Titus`, `Nero`, `GladiatorialSpectacle`, and `MonumentalDynasticLegitimation`; and updated the canonical index. Core synthesis: the Colosseum converted Nero's private lake into a Flavian public and dynastic claim while ranked seating, conquest display, executions, animals, mythology, and gladiatorial combat made Roman hierarchy and sanctioned violence materially experienceable. No settled contradiction was found. The source rejects an evidenced Christian-martyrdom history for the arena, qualifies a simple Jerusalem-loot funding story, and leaves construction labor, attribution, exact chronology, audience belief, and literary anecdotes source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-27] ingest | 370. The 1973 Chilean Coup: Allende, Nixon and the CIA (Part 1)
 
 Added source `370-the-1973-chilean-coup-allende-nixon-and-the-cia-part-1-glt6405070034`; created `ReneSchneider` and `ColdWarRegimeChangePressure`; and updated `SalvadorAllende`, `Chile`, `ChileanCoup1973`, `ConstitutionalistMilitaryNorm`, and the canonical index from their complete bounded source sets. Core synthesis: Allende's elected socialist reforms, economic and institutional crisis, extensive U.S. intervention, autonomous Chilean opposition, and weakening military constitutionalism interacted rather than forming a single-cause path to the coup. No settled contradiction with Part 2 was found: documented U.S. destabilization and coup encouragement coexist with Chilean operational agency. Economic figures, corporate influence, funding, supply disruption, the Schneider plot, and precise causal weights remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
