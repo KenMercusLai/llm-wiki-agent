@@ -1,39 +1,51 @@
 ---
 title: "Edge-Cloud AI Boundary"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [ai, edge-ai, cloud, privacy, systems]
-sources: [tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+sources:
+  - tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128
+  - ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731
+  - weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3
+  - wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d
 last_updated: 2026-07-25
 ---
 
 # Edge-Cloud AI Boundary
 
-Edge-Cloud AI Boundary is the division of work in [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] between phone-side AI and cloud-side AI. The episode argues that terminal models face cost, heat, battery, memory, and model-size limits, but still have unique value because the phone sees physical-world signals, virtual-world activity, local files, identity, and user preferences in real time.
+## Definition
+The edge-cloud AI boundary is the allocation of perception, memory, inference and action between user-proximate devices and remote compute under privacy, latency, power, model-size and service constraints.
 
-The boundary is practical rather than ideological. Terminal-side systems are better suited for real-time perception, recognition, memory, privacy-sensitive data handling, low-latency tasks, and simpler local transformations. Cloud-side systems remain better for long-context reasoning, heavy generation, complex video/image effects, and tasks where large model size matters more than immediacy or privacy.
-
-[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds a local-first memory version. [[KangHongwen]] argues that personal memory should start near the user's private files, but still use cloud services for collaboration, sharing, cross-device continuity, or fallback compute when local hardware is insufficient.
-
-[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds a wearable-assistant version. The source treats edge-cloud design as a product split across earbuds, watches, phones, and cloud services: body-worn devices can handle sensing and immediate interaction, while cloud models and service integrations handle heavier reasoning, long-chain tasks, and fulfillment.
-
-[[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] adds a consumer failure-mode version through AI glasses. [[WillGottsagen]] says contextual wearable use cases can be compelling, but current devices remain limited by Wi-Fi and by the need to send AI computation to the cloud. In this source, the boundary is felt as latency and reliability in public, not only as an architecture diagram.
+## Current Synthesis
+Phones can be context and compute hubs while wearables serve the body-proximate sensing and hands-free interface; heavy generation and service coordination may still require cloud resources. Local-first private archives need actual indexing, structured understanding and scheduling, not merely files on a disk. None of the product interviews proves a universal terminal winner or an always-private, reliable deployment.
 
 ## Key Claims
-- Stronger cloud AI can increase edge demand because users need persistent access, capture, sensing, and interaction at the point of use.
-- Phone-side AI can protect or encrypt sensitive data before heavier cloud calls.
-- Local preference learning, such as beauty-setting adaptation with user consent, shows how terminal learning may personalize without sending all raw behavior away.
-- Image processing sits in a middle zone: simple enhancement can move local, while complex generative effects may remain cloud-heavy.
-- The boundary will shift as hardware, NPU architecture, model compression, battery, and thermal design improve.
-- For personal memory, edge-cloud design should separate private archive understanding from optional sharing and heavy-compute assistance.
-- Wearable assistants need local filtering and trigger design so always-on sensing does not turn every moment into an expensive or privacy-invasive cloud call.
-- For smart glasses, the edge-cloud split becomes a user-experience constraint: contextual perception is less useful if recognition, translation, or response timing depends on fragile connectivity.
+- Privacy, network delay, model size, battery, heat and cost jointly decide which task should run on device.
+- Continuous local speech/perception and small-model work require NPU/middleware scheduling, while longer-context and complex generation still strain terminal hardware.
+- A local-first personal memory layer must transform authorized multimodal files into searchable units, with optional cloud assistance for sharing or compute.
+- Wearables gain context from proximity but cloud-dependent recognition/translation exposes latency, connectivity and bystander-consent limits.
+- The phone-as-hub and wearable-as-entry positions describe different product roles, not a settled single-winner contest.
 
-## Connections
-- [[OnDeviceAI]] — edge-side implementation stack.
-- [[SmartphoneAIHub]] — the product reason the boundary matters for phones.
-- [[HandsetChipCoDesign]] and [[Dimensity9500]] — chip planning needed to move more work onto the terminal.
-- [[OSLevelContext]], [[ContextEngineering]], and [[AgentPermissionBoundaries]] — adjacent questions raised when local devices collect richer context and memory.
-- [[AIInferenceCostStructure]] — cloud cost pressure can make local execution strategically valuable.
-- [[LocalFirstMemoryLayer]], [[CliptoAI]], and [[OnDeviceMemoryScheduling]] — local memory case added by S10E20.
-- [[WearableAIAssistant]], [[GuangfanTechnology]], and [[AIAssistantServiceEntry]] — wearable edge and cloud-service execution case added by S10E15.
-- [[WillGottsagen]], [[Meta]], and [[RayBanSmartGlasses|Ray-Ban smart glasses]] - wearable cloud-dependence case added by Marketplace Tech.
+## Evidence
+- Device allocation: [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] records vivo's Han Boxiao and MediaTek's Chen Yiqiang favoring a phone hub across sensors, identity, local files, UI and services. They distinguish speech-to-text on an efficient NPU from heavier summaries on a performance NPU; CPU/GPU/NPU co-scheduling, memory, heat and 2–3-year chip planning around [[Dimensity9500]] constrain quick model changes. They describe local recognition, preference adaptation with consent and sensitive-data handling, versus cloud long-context, complex images/video and generation. Device-side protection is a design possibility, not a security certification.
+- Memory: [[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] has [[CliptoAI|CliptoAI]] founder [[KangHongwen|Kang Hongwen]] claim on-device processing of authorized local, external and cloud drives, audio, faces, OCR and video. He argues RAG, LoRA or a bigger context window alone cannot turn TB-scale raw archives into precise lifelong recall; atomic extraction, search, APIs/MCP, feedback and background-resource scheduling are necessary. This is [[ContextEngineering|context engineering]] of authorized memories for retrieval, not a measured benchmark across assistants. Optional cloud collaboration can still be useful.
+- Wearable strategy and failure: [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]]'s [[GuangfanTechnology|Guangfan]] founder Dong Hongguang argues earbuds/watches can sense during biking or museum visits without unlocking a phone, while cloud services perform heavier reasoning or actions. He treats agent permissions and partner-app access as unresolved; his [[AIAssistantServiceEntry|service-entry]] vision is a three-year forecast, not an observed cross-app product route. [[tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128]] has [[WillGottsagen|Will Gottsagen]] report [[Meta|Meta]]/[[RayBanSmartGlasses|Ray-Ban]] glasses' display and gestures and AirPods translation, but Wi-Fi/cloud dependence impairs recognition and response; a recording light does not settle whether bystanders consent to listening.
+
+## Counterevidence & Qualifications
+- [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] and [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] are vendor representatives interviewed by the same programme; the phone and wearable claims reflect product positions. [[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] is a founder account of CliptoAI, not an audit of privacy, retrieval accuracy or resource cost.
+- Model compression and future chips may move the boundary. Persistent recording, fine-grained permissions, bystander privacy, battery and cloud-call expense remain open; some users may benefit from accessibility features without proving mass adoption.
+
+## What Changed
+- Put scheduling, memory transformation, user-facing latency and form-factor tension in one bounded architecture argument.
+
+## Related Concepts
+- [[OnDeviceAI]] - model compression and execution implement the local part of the split.
+- [[HandsetChipCoDesign]] - hardware planning constrains what local models can do.
+- [[OnDeviceMemoryScheduling]] - background indexing must share device resources with foreground tasks.
+- [[LocalFirstMemoryLayer]] - private archive understanding is the memory-specific boundary.
+- [[DataToMemoryTransformation]] - raw files alone cannot provide agent recall.
+- [[WearableAIAssistant]] - near-body sensing changes where the user interface sits.
+- [[SmartphoneAIHub]] - phone identity, UI and service access support the hub thesis.
+- [[AgentPermissionBoundaries]] - local sensors and cloud service calls need different consent controls.
+- [[ConsumerCameraSurveillance]] - bystanders face recording and listening risks.
+- [[AIInferenceCostStructure]] - repeated cloud calls make the split economically visible.
