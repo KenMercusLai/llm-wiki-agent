@@ -2,67 +2,53 @@
 title: "荀彧 / Xun Yu"
 type: entity
 tags: [person, late-han, official, strategist, china]
-sources: [zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo, zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4, zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69, zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk, zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]
 last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr
+  - zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr
+  - zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr
+  - zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x
+  - zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv
+  - zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave
+  - zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo
+  - zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4
+  - zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69
+  - zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk
+  - zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0
+knowledge_schema: synthesis-v1
 ---
 
 # 荀彧 / Xun Yu
 
-[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] backfills Xun Yu's camp-choice origin before the later adviser-system pages. The source presents him as a [[YingchuanCommandery|颍川]] elite who reads [[DongZhuo|董卓]]'s disorder early, urges locals to leave, and moves his kin north toward [[HanFuLateHan|韩馥]]'s expected protection before finding [[YuanShao|袁绍]] already in control.
+## Overview
+荀彧的核心贡献是把曹操的后方、生存判断、人才网络与汉廷名义连成可执行的战略。
 
-The episode makes Xun Yu's turn to [[CaoCao|曹操]] a combined survival and talent-use judgment. Yuan Shao receives him politely, but Xun Yu judges Yuan Shao as able to gather people without using them, then moves toward Cao Cao as the powerholder whose recognition and delegation make advice executable. This adds [[CrisisMigrationJudgment|危局迁徙判断]] and an early [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] branch before later sources show Xun Yu detecting Yanzhou crisis, arguing for the emperor window, and sequencing Cao Cao's campaigns.
+## Current Profile
+荀彧由颍川迁出，在袁绍麾下虽受礼遇却判断其“能聚人而不会用”，遂投曹操；其作用不是单次献策，而是把人事、兖州后方、汉廷名义与战役次序接成可执行的政治能力。以下是播客对《通鉴》的转述，非独立史料校勘。
 
-[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds an early personnel-channel role before Xun Yu's later Yanzhou crisis scenes. After [[LiuDaiLateHan|刘岱]] dies and [[CaoCao|曹操]] takes over the Yanzhou-adjacent field, Xun Yu strongly recommends [[ChengYu|程昱]], prompting Cao Cao to send repeated invitations to [[DongALateHan|东阿]].
+## Key Characteristics
+- 识人、择主与荐才相连：个人避乱选择后来成为曹营持续引入谋士的通道。
+- 兖州危机中，荀彧从礼称、行军方向判断倒戈，优先保鄄城，并以不确定性威慑郭贡。
+- 扩张必须以粮、人心和安全后方为条件，荀彧劝曹操先定兖州、吕布，再图徐州及袁绍。
+- 奉迎汉献帝是有限时间内取得公认政治名义的机会；许都朝廷还需人事运营。
+- 关中宜暂抚而非急征；比较袁曹领导条件、反对酷讯杨彪，亦属于风险约束。
 
-This source keeps Xun Yu mostly offstage, but it matters for [[AdviserStateArchitecture|谋士政权架构]] because Cheng Yu's later operational importance depends on this recommendation channel. Hanji 961 therefore backfills adviser architecture as recruitment and fit recognition before Hanji 975-978 show emergency execution.
+## Evidence
+- 颍川受[[DongZhuo|董卓]]余乱威胁，荀彧原欲依[[HanFuLateHan|韩馥]]，到时已由[[YuanShao|袁绍]]控制；其[[TalentAttractionThroughRespect|择主判断]]着眼于“聚人”和“用人”的差别。[[HeYongLateHan|何颙]]先赞其才，曹操以“张良”相待；节目还称曹操委其军中文书、粮秣与调度，细部授权带戏剧化叙述，不能当逐日制度记录。[[YingchuanCommandery|颍川]]的[[CrisisMigrationJudgment|迁徙判断]]与其择主并非两件独立功绩。[[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr]] [[LiuDaiLateHan|刘岱]]死后，荀彧向曹操力荐[[ChengYu|程昱]]，曹操数次派人往[[DongALateHan|东阿]]延请；这条招募渠道是后续[[AdviserStateArchitecture|谋士组织]]的实际人事环节。[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr]]
+- 曹操攻[[TaoQianLateHan|陶谦]]时，使者称“曹公”而非“兖州牧”，既是[[PowerEtiquetteReading|权力称谓细读]]，也是[[DetailBasedCrisisDetection|危机征兆判断]]；[[ChenGongLateHan|陈宫]]与[[ZhangMiaoLateHan|张邈]]迎[[LyuBu|吕布]]之际，吕布的路线不符援[[Xuzhou|徐州]]说法，荀彧遂召[[XiahouDun|夏侯惇]]从[[PuyangLateHan|濮阳]]返[[JuanchengLateHan|鄄城]]，以放弃濮阳风险保住后方。[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]] 面对与吕布关系未定、节目称有数万兵的[[GuoGongLateHan|郭贡]]，荀彧判断其立场尚未固定，以镇定的会面令其疑有伏兵而退：这是[[BattlefieldInformationControl|临敌信息与士气控制]]和[[XingshiqingStrategicAssessment|审势]]而不只是计谋；随后遣程昱维系范、东阿。[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]]
+- 陶谦死后徐州有机可乘，荀彧仍主张先收[[YanzhouLateHan|兖州]]麦、节粮、平吕布与张邈；他借刘邦[[GuanzhongRegion|关中]]、刘秀[[HeneiCommandery|河内]]说明[[RootBasePriority|根据地]]的战略意义，并顾及曹操此前徐州杀戮引发的民心风险。[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]] 对袁绍决战前须先除吕布，在西线则荐[[ZhongYao|钟繇]]安抚[[MaTeng|马腾]]、[[HanSui|韩遂]]。[[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk]]
+- 曹操部下疑迎帝招来朝臣掣肘，荀彧用晋文公纳周襄王、刘邦哭义帝为先例，以“大顺、大略、大德”解释奉迎[[EmperorXianOfHan|献帝]]的[[MingqiLegitimacy|汉廷名义]]、公信与窗口期限。[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo]] 许都后，节目将音转的“徐玉”对应侍中、守尚书令荀彧；其荐[[XunYou|荀攸]]、[[GuoJia|郭嘉]]，使[[Xudu|许都]]朝廷有可用人才。[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]] [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x]]对[[TuntianSystem|屯田]]、陈群、司马懿及[[TalentAsStateTreasure|贤臣作为政权资源]]的整套架构归功，是节目概括而非证明他亲自主持每项制度。
+- [[YuanShao|袁绍]]书信施压时，荀彧与郭嘉提出[[TenVictoriesTenDefeats|十胜十败]]，比较道、义、治、度、谋、德、仁、明、文、武而非只比兵力。[[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69]] [[YangBiao|杨彪]]受讯时，他与[[KongRong|孔融]]劝[[ManChong|满宠]]勿刑讯，因旧汉名臣案件会伤曹营名誉；这是[[PrestigeConstrainedPoliticalProsecution|政治追诉的声誉约束]]，不能据此断言指控真伪。[[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0]]
 
-[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] adds Xun Yu's first visible role in the [[YanzhouLateHan|兖州]] crisis before the later Guo Gong and Cangting branches. While [[CaoCao|曹操]] is away attacking [[TaoQianLateHan|陶谦]], Xun Yu hears [[ZhangMiaoLateHan|张邈]]'s envoy call Cao Cao "曹公" rather than "兖州牧" and compares that wording with [[LyuBu|吕布]]'s route, reading both as signs that Zhang Miao and [[ChenGongLateHan|陈宫]] have already turned the province.
+## Qualifications
+Hanji 1005 把荀彧、荀攸、郭嘉音转作“徐玉/徐悠/过家”，身份据官职语境归一，不把转录异文当独立证据。Hanji 975 的老妇情报和谣谶细节带戏剧性；Hanji 976 是对制度贡献的概论。十胜十败是论辩而非曹操日后获胜的充分因果证明。
 
-The episode makes Xun Yu's value a case of [[DetailBasedCrisisDetection|细节式危机识别]] before the later [[RootBasePriority|根本根据地优先]] argument. His response is immediate rather than merely analytical: he recalls [[XiahouDun|夏侯惇]] from [[PuyangLateHan|濮阳]] to [[JuanchengLateHan|鄄城]], accepting the risk that Puyang may fall in order to keep Cao Cao's remaining command center from collapsing.
+## What Changed
+- 将危机预警与守城威慑合为后方保存能力，而非按集数重复叙述。
+- 把人才转介、奉帝名义与区域战役次序分开，保留各自的行动约束。
 
-[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] gives a high-level synthesis of Xun Yu before the narrower late-Han cases already in the wiki. The episode calls him [[CaoCao|曹操]]'s chief adviser and uses him as the main case for [[AdviserStateArchitecture|谋士政权架构]]: legitimacy language, resource coordination, talent referral, and internal order turn Cao Cao's camp into something more durable than one warlord's battlefield command.
-
-This source's strongest claim is thematic. It connects Xun Yu's "奉天子" legitimacy packaging to later [[LegitimacyWindowSeizure|合法性窗口抢占]], treats [[TuntianSystem|屯田制]] as part of Cao Cao's war-capacity system, and names [[ZhongYao|钟繇]], Chen Qun, and Sima Yi as a wider recommendation chain. The wiki keeps the administrative details source-scoped where this episode compresses later institutions into a broad adviser portrait.
-
-[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] adds Xun Yu's Juancheng composure case before the later base-first advice. When [[GuoGongLateHan|郭贡]] arrives with several tens of thousands of soldiers and rumor links him to [[LyuBu|吕布]], [[XiahouDun|夏侯惇]] warns that Xun Yu is too important to leave [[JuanchengLateHan|鄄城]], but Xun Yu reads Guo Gong's alignment as unsettled and meets him calmly.
-
-The episode makes Xun Yu's value visible as morale and information control, not only counsel. His outward calm makes Guo Gong suspect hidden strength or a trap, causing the force to withdraw without battle. This branch extends [[BattlefieldInformationControl|战场信息控制]] and [[XingshiqingStrategicAssessment|行势情战略评估]] before the later [[RootBasePriority|根本根据地优先]] argument.
-
-[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds Xun Yu's earlier base-first advice to [[CaoCao|曹操]]. When Cao Cao is tempted to attack [[Xuzhou|徐州]] after [[TaoQianLateHan|陶谦]]'s death, Xun Yu argues that Cao Cao must first secure [[YanzhouLateHan|兖州]], harvest grain, conserve supplies, and remove [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]] as rear threats.
-
-The episode makes Xun Yu's reasoning concrete rather than merely cautious. He compares Yanzhou with [[GuanzhongRegion|关中]] for Liu Bang and [[HeneiCommandery|河内]] for Liu Xiu, then adds food,民心, campaign tempo, and Cao Cao's earlier violence in Xuzhou as constraints. This branch becomes [[RootBasePriority|根本根据地优先]] before Xun Yu's later legitimacy-window and strategic-sequencing branches.
-
-[[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] adds Xun Yu as the strategist of Cao Cao's welcome-the-emperor window. When [[CaoCao|曹操]]'s subordinates worry that receiving [[EmperorXianOfHan|汉献帝]] will bring uncontrollable court and military problems, Xun Yu answers with precedents: Duke Wen of Jin receiving King Xiang of Zhou and Liu Bang mourning Yi Emperor both show how honoring a weakened sovereign can win public standing.
-
-The source condenses Xun Yu's advice into "大顺、大略、大德." Securing the emperor can settle people's expectations, give Cao Cao a recognized command vocabulary, and make his camp attractive to capable people. Xun Yu also makes the timing sharp: if Cao Cao waits, another actor may seize the same legitimacy first. This branch becomes [[LegitimacyWindowSeizure|合法性窗口抢占]] before the later Hanji 1005 recommendation channel and Hanji 1015 strategic sequencing.
-
-[[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] backfills Xun Yu's early Cao Cao-court role, with a transcript caution. The source's "徐玉" is treated as likely [[XunYu|荀彧]] because the office sequence matches Xun Yu serving as attendant and acting shangshu ling, then recommending [[XunYou|荀攸]] and the Yingchuan figure normalized here as [[GuoJia|郭嘉]].
-
-This makes Xun Yu a personnel channel before he is a strategic-comparison voice in the later ingests. His recommendation helps Cao Cao turn the new [[Xudu|许都]] court from a relocation achievement into an adviser-gathering institution.
-
-[[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] later develops Xun Yu as one of [[CaoCao|曹操]]'s core strategic advisers. He agrees with [[GuoJia|郭嘉]] that [[LyuBu|吕布]] should be handled before a full confrontation with [[YuanShao|袁绍]], and he answers Cao Cao's western worry by arguing that the [[GuanzhongRegion|关中]] generals are fragmented enough to be soothed rather than immediately conquered.
-
-The same episode has Xun Yu recommend [[ZhongYao|钟繇]] for the western assignment. Zhong Yao's later success with [[MaTeng|马腾]] and [[HanSui|韩遂]] makes Xun Yu's role a condition-sensitive judgment about personnel, region, and timing rather than only abstract advice.
-
-Hanji 1014 supplies the prior confidence frame. In the episode's Zizhi Tongjian account, Xun Yu and [[GuoJia|郭嘉]] present [[TenVictoriesTenDefeats|十胜十败论]] after [[YuanShao|袁绍]]'s letter makes Cao Cao angry but still aware of his weaker material position. Xun Yu's role here is to move the assessment from force comparison to leadership, legitimacy, law, talent, decision, reward, and military method.
-
-[[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] later adds Xun Yu in the [[YangBiao|杨彪]] case. The source gives him a compact role: with [[KongRong|孔融]], he asks [[ManChong|满宠]] not to torture Yang Biao during the investigation.
-
-The episode's interest is less in Xun Yu's biography than in his position inside Cao Cao's order. He belongs to the group that recognizes the reputational danger of the case: an old-Han minister with broad prestige cannot be treated as an ordinary defendant without risking public trust.
-
-## Connections
-- [[CaoCao|曹操]] - political order in which Xun Yu is acting.
-- [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[YingchuanCommandery|颍川]], [[HanFuLateHan|韩馥]], [[YuanShao|袁绍]], [[HeYongLateHan|何颙]], [[CrisisMigrationJudgment|危局迁徙判断]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - early migration, Yuan rejection, and Cao choice branch.
-- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[DongALateHan|东阿]], and [[AdviserStateArchitecture|谋士政权架构]] - early recommendation channel before the Yanzhou crisis episodes.
-- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ZhangMiaoLateHan|张邈]], [[ChenGongLateHan|陈宫]], [[LyuBu|吕布]], [[XiahouDun|夏侯惇]], [[PuyangLateHan|濮阳]], [[JuanchengLateHan|鄄城]], [[DetailBasedCrisisDetection|细节式危机识别]], and [[PowerEtiquetteReading|权力礼仪细读]] - early Yanzhou rebellion detection and emergency recall branch.
-- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[AdviserStateArchitecture|谋士政权架构]], [[TuntianSystem|屯田制]], [[TalentAsStateTreasure|以贤臣为宝]], and [[ZhongYao|钟繇]] - high-level adviser-as-system-architect branch.
-- [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[GuoGongLateHan|郭贡]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], [[YanzhouLateHan|兖州]], and [[BattlefieldInformationControl|战场信息控制]] - composure-based deterrence before the later base-first advice.
-- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[YanzhouLateHan|兖州]], [[Xuzhou|徐州]], [[LyuBu|吕布]], and [[RootBasePriority|根本根据地优先]] - base-before-expansion advice.
-- [[EmperorXianOfHan|汉献帝]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[MingqiLegitimacy|名器合法性]] - Hanji 1002 welcome-the-emperor legitimacy branch.
-- [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], and [[Xudu|许都]] - adviser recommendation and transcript-normalization branch.
-- [[GuoJia|郭嘉]], [[TenVictoriesTenDefeats|十胜十败论]], and [[YuanShao|袁绍]] - Hanji 1014 leadership-comparison branch.
-- [[ZhongYao|钟繇]], [[GuanzhongRegion|关中]], [[MaTeng|马腾]], and [[HanSui|韩遂]] - Hanji 1015 strategy and personnel branch.
-- [[LyuBu|吕布]] and [[YuanShao|袁绍]] - threats whose ordering Xun Yu helps assess.
-- [[YangBiao|杨彪]] - accused old-Han minister.
-- [[KongRong|孔融]] and [[ManChong|满宠]] - other case actors.
-- [[PrestigeConstrainedPoliticalProsecution|名望约束下的政治追诉]] - concept for the case's reputation constraint.
+## Relationships
+- [[CaoCao]] - 荀彧的建议只有在曹操授予执行权限时才转成军政能力。
+- [[YanzhouLateHan]] - 鄄城、粮食与吕布威胁决定先守根本再外扩。
+- [[ChengYu]] - 荀彧荐才之后，程昱实际防守范县、东阿。
+- [[LegitimacyWindowSeizure]] - 奉迎献帝把军事选择转成限时政治名义竞争。
