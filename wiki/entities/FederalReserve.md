@@ -2,88 +2,119 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo, 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu, 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, do-prediction-market-bettors-make-anything-better, indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+sources:
+  - 179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo
+  - 172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2
+  - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
+  - 155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi
+  - 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d
+  - 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu
+  - bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu
+  - 129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb
+  - vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb
+  - vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx
+  - do-prediction-market-bettors-make-anything-better
+  - indicators-of-2025-and-what-to-watch-in-2026
+  - ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9
+  - ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj
+  - ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5
+  - far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658
+  - vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu
+  - jerome-powell-and-the-test-of-fed-independence
+  - our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # Federal Reserve
 
-[[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo]] adds the Fed as a counterpart in [[ScottBessent|Scott Bessent / 贝森特]]'s Treasury toolkit. The source says Bessent publicly pushed the Fed to expand [[FIMARepoBackstop|FIMA Repo]] and also wants monetary support for long-end financing conditions, making Fed independence and Treasury financing harder to separate.
+## Overview
+The Federal Reserve is the U.S. central bank whose rate target, payments and liquidity functions interact with private credit, Treasury financing and markets. Its credibility depends on a public inflation anchor and institutional room to resist short-term political demands.
 
-[[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] adds the AI-capex constraint version. [[DavidWeng|大卫翁]] and [[Ricky]] argue that a U.S. economy supported by AI investment, equity wealth effects, and possible inflation pressure leaves the Fed unlikely to hike but also unable to cut easily; Ricky expects communication swings to manage expectations, while warning that less clear guidance can raise volatility.
+## Current Profile
+The bounded sources cover different dated market forecasts rather than a single live policy path. They converge on the Fed's dual inflation/employment constraint, data and transmission lags, while disagreeing about prospective chairs, inflation risks and the degree to which Treasury needs may influence decisions.
 
-[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 stagflation-policy version. [[Ricky]] argues that oil and inflation pressure can turn market expectations away from rate cuts and toward no-cut or even hike worries, which is especially negative for U.S. technology equities. [[DavidWeng|大卫翁]] puts more weight on political incentives, arguing that a new chair could care about fiscal coordination and midterm-election timing as much as textbook monetary constraints.
+## Key Characteristics
+- Policy rates and a public 2% inflation goal anchor expectations but transmit with lag and ambiguous market signals.
+- The Fed provides clearing liquidity and influences credit rather than creating all money directly.
+- Independence is a contested legal and political practice, not an absolute separation from fiscal conditions.
+- Treasury demand, international dollar liquidity and balance-sheet limits generate coordination pressure without erasing institutional distinctions.
+- Delayed official data, recession fears and AI-driven asset prices complicate rate communication.
+- Peripheral event markets and retrospective chair reputations illustrate, but do not define, monetary policy.
 
-[[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] adds a succession-and-balance-sheet layer through [[KevinWarsh]]. The source says the initial market narrative treated Warsh as hawkish, helping trigger a gold trend break, but [[DavidWeng|大卫翁]] argues that Warsh may be a politically flexible chair whose "trend driven" language can justify lower rates under [[DonaldTrump]] pressure. The episode also treats repeated failed or interrupted balance-sheet runoff attempts as evidence that the market system depends heavily on central-bank liquidity.
+## Evidence
+- **Targets and signals:** [[our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]] traces explicit [[InflationTargeting]] from [[NewZealand]] via [[ArthurGrimes]], [[DonBrash]] and its reserve bank to the Fed's January 25, 2012 announcement of a 2% goal. [[indicators-of-2025-and-what-to-watch-in-2026]] puts the [[FederalFundsRateAsPolicySignal]] at 3.5–3.75% after three consecutive cuts as of 2025-12-31, with inflation still above target and Powell's May 2026 chair transition then pending. [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] records January 2025 expectations of fewer cuts after robust U.S. activity; [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]], [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] and [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] treat cuts as both possible liquidity aid and a sign of worse growth, involving [[BankOfJapan]] divergence, [[SahmRule]], [[YieldCurveInversion]], [[MonetaryPolicyLag]], [[USTreasury]] debt costs and investor [[IndexReentryDiscipline]].
+- **Money and liquidity:** [[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] describes [[EndogenousMoneyCreation]] by commercial-bank lending/repayment alongside central-bank clearing balances ([[MoneyAsFlow]], [[PaymentClearingNetwork]]), not an omnipotent printing press. [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] discusses difficulties sustaining balance-sheet runoff and gold/liquidity reactions, without equating a halt to runoff with QE. [[179-xian-jiu-riyuan-zai-jiu-changzhai-jiuhuoduizhang-beisente-zai-zou-yi-tiao-zenyang-de-gangsi-lqjc6vz-1ungnkpdw9d5kbsa-ouo]] reports a source-dated sequence of a claimed July 31, 2026 U.S.–Japan yen intervention, Bessent’s August 3 request to expand [[FIMARepoBackstop]], and a separate August 19 Treasury announcement increasing old-bond buyback limits for September 9–November 4; it records [[ScottBessent]] urging long-end financing support as part of Treasury demand substitution alongside buybacks, stablecoin demand and bank-capacity measures; request, not adopted Fed policy ([[TreasuryDemandSubstitution]], [[TreasuryBuybackPolicy]]).
+- **Forecasts and data:** [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] reports [[Ricky]]'s roughly 2.5% prospective inflation and easing optimism versus [[DavidWeng]]'s tariff/commodity caution; [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] weighs oil/stagflation risks against political incentives, while [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]] argues AI capex and wealth effects may leave neither easy hikes nor easy cuts and that shifting forward guidance can itself raise volatility ([[AIEquityValuationRisk]]). [[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] and [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] identify delayed CPI and jobs data during shutdown as [[GovernmentShutdownDataBlindness]] and [[OfficialStatisticsCredibility]] risks; the latter links Powell pressure, [[LisaCook]] removal attempt and [[StephenMiran]] nomination to independence uncertainty.
+- **Independence and law:** [[jerome-powell-and-the-test-of-fed-independence]] compares [[JeromePowell]]'s pressure, DOJ subpoenas and [[ForCauseRemovalStandard]] disputes with [[WilliamMcChesneyMartin]]'s resistance and [[ArthurBurns]]'s Nixon-era inflation caution, drawing on [[LaelBrainard]] while acknowledging future appointments and congressional/legal checks. [[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] worried about future chair and [[OfficeOfManagementAndBudget]] review pressure beyond Powell's current defense. [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] describes [[Project2025]] proposals to narrow mandate toward price stability or pursue freer banking/[[GoldMonetaryAnchor]]; it doubts outright abolition. [[155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi]] reads [[KevinWarsh]] as potentially politically flexible despite his hawkish market image, unlike the benefit of doubt in the Powell-focused episode; both are assessments rather than observed chair behavior.
+- **Historical and peripheral tests:** [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] credits [[AlanGreenspan]] with 1987 crash response and 1990s boom stewardship, but reassesses his record after the dotcom crash, subsequent jobless recovery, housing excess and 2008 crisis; retrospective judgment, not a timeless rating. [[do-prediction-market-bettors-make-anything-better]] reports traders submitting Zoom questions to prompt a Fed official to say bet-on words, illustrating [[EventContractManipulationRisk]] in communications, not a shift in Fed policy.
 
-[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds a 2026 market-expectations layer. [[Ricky]] expects U.S. inflation to have room to fall toward roughly 2.5% and sees [[DonaldTrump]] as incentivized to favor fiscal and monetary easing before the midterms, while [[DavidWeng|大卫翁]] remains more cautious about inflation because preemptive cuts, commodities, and tariffs could interfere.
+## Qualifications
+- The 2025–26 rate levels, leadership transition, gold reaction and inflation paths are dated reports or forecasts; do not project them into a present decision. [[DonaldTrump]]'s pressure and threatened removals are not proof that a particular vote was dictated by the White House.
+- Warsh assessments disagree; neither predicts actual chair choices. Pausing quantitative tightening does not itself constitute new QE. Bessent's FIMA proposal remains his advocacy. Project 2025 is a policy proposal, not evidence the Fed was abolished.
+- Greenspan's strengths and errors are retrospective interpretation. The [[Kalshi]]-adjacent word-betting incident is about manipulation of an event contract, not the Fed's economic mandate.
 
-[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds a later Qizhulou/美轮美换 version of the same pressure cluster. The episode says shutdown-disrupted data leaves the Fed "driving in fog," while [[DonaldTrump]] pressure on [[JeromePowell]], the attempted removal of [[LisaCook]], and [[StephenMiran]]'s nomination make [[CentralBankIndependence]] and [[FederalFundsRateAsPolicySignal]] harder for markets to read.
+## What Changed
+- Distinguishes durable monetary mechanisms and independence constraints from dated market calls, political proposals and peripheral communication incidents.
 
-[[bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu]] adds a shutdown-data layer. The source argues that a U.S. government shutdown can delay CPI, employment, and operational data while the Fed is trying to decide how to balance inflation, employment, credit stress, and political pressure, making [[GovernmentShutdownDataBlindness]] part of the same branch as [[FederalFundsRateAsPolicySignal]] and [[OfficialStatisticsCredibility]].
-
-The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] as the central-bank actor whose expected rate cuts shape global risk appetite. The episode presents the Fed as trapped between supporting markets and avoiding the message that U.S. growth or employment has already weakened enough to require urgent easing.
-
-[[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] adds two pressures to the Fed frame: recession signals such as [[SahmRule]] and manufacturing weakness, and fiscal/debt-service pressure from the [[USTreasury]]. The episode treats cuts as likely over time but still ambiguous for risk assets.
-
-[[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] adds a more immediate March 2025 market-volatility frame. [[JeromePowell]]'s comments, nonfarm payroll data, and perceived Fed-political tension are treated as short-term triggers that make investors reluctant to add risk before policy and data signals stabilize.
-
-[[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds a historical leadership and reputation layer through [[AlanGreenspan]]. The episode credits Greenspan with defending [[CentralBankIndependence]], responding to Black Monday in 1987, and steering the 1990s boom, while also saying later crashes, the jobless recovery, housing excess, and the global financial crisis forced a reassessment of his judgment.
-
-[[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds a conservative institutional-critique layer. The episode says [[Project2025]]'s Fed chapter blames the Federal Reserve for inflation and recession cycles, proposes at minimum narrowing the Fed mandate toward price stability, and notes more radical free-banking ideas that would move money and interest rates closer to market discipline and [[GoldMonetaryAnchor]] logic.
-
-[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds a May 2025 live-discussion version of the same independence problem. The source distinguishes current [[JeromePowell]] resistance from the longer risk that the next chair and changed regulatory-review environment could make [[CentralBankIndependence]] more fragile under [[IndependentAgencyControlPressure]].
-
-[[jerome-powell-and-the-test-of-fed-independence]] adds a direct presidential-pressure layer. The [[PlanetMoney]] episode uses [[JeromePowell]], [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], and [[DonaldTrump]] to frame the Fed as an institution whose credibility depends on resisting short-term political demands, defending its mandate publicly, and surviving legal tests around board-member removal.
-
-[[our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]] adds an origin-story link for the Fed's explicit 2% inflation goal. The episode says the [[FederalReserve]] announced that goal on January 25, 2012, after [[InflationTargeting]] had spread from [[NewZealand]]'s earlier experiment with [[ArthurGrimes]], [[DonBrash]], and the [[ReserveBankOfNewZealand]].
-
-[[indicators-of-2025-and-what-to-watch-in-2026]] adds the federal funds rate as a 2026 indicator. The source, dated 2025-12-31, says the target range was 3.5% to 3.75% after three consecutive cuts, while unemployment, GDP growth, inflation above the 2% target, shutdown-disrupted data, dissent inside the Fed, [[JeromePowell]]'s May 2026 chair transition, and [[DonaldTrump]] pressure all made the rate path hard to read.
-
-[[do-prediction-market-bettors-make-anything-better]] adds the Fed as an event-contract manipulation example rather than a monetary-policy actor. The source says prediction-market traders submitted questions in a Federal Reserve Zoom meeting to try to make an official say words they had bet on, linking the institution to [[EventContractManipulationRisk]].
-
-[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds the early-2025 market-expectations version. At the 2025-01-16 recording date, [[Ricky]] says the [[UnitedStates]] economy still looked strong and market expectations for 2025 cuts had fallen after 2024 delivered more cuts than he expected, keeping [[USMegaCapTechRightSideTrade]] on the right side while raising volatility risk.
-
-[[129-huobi-de-benzhi-yiji-huangjin-de-zhenzheng-jiazhi-chuantai-shifen-xiyin-lsjbfttqxf58uk-a4g8-srretkwb]] adds the monetary-theory version of the Fed. The source treats central banks as discipline-seeking institutions inside a credit system, not omnipotent money printers: they provide clearing money and influence rates, but [[EndogenousMoneyCreation]] means commercial-bank lending, payment, and repayment also create and destroy money. This strengthens the page's link from rate policy to [[MoneyAsFlow]] and [[PaymentClearingNetwork]].
-
-## Source Position
-- Episode 179 adds that FIMA Repo expansion and long-end financing support would make Fed tools part of Treasury-market and currency-stability management, not only domestic rate policy.
-- Market expectations for Fed cuts are treated as unstable, moving from modest cuts toward larger or even emergency-cut speculation during stress.
-- The speakers argue that a cut can be interpreted as a negative signal if investors believe the Fed has seen a deeper problem.
-- The Fed's timing is linked to [[MonetaryPolicyLag]] because high rates can keep pressuring heavy-capex industries, housing, corporate finance, and equity valuations.
-- The discussion connects Fed timing to [[YieldCurveInversion]] because inversion repair is presented as a historically risky phase.
-- EP39 adds that high policy rates can strain federal debt-service costs as old debt rolls into new rates.
-- The source connects Fed cuts to [[TreasuryDurationRisk]]: lower rates may help bonds, but long-end supply and currency effects still matter.
-- EP57 adds that Fed communication can become a timing risk for [[IndexReentryDiscipline]] when investors are waiting for evidence that volatility has cooled.
-- The Greenspan segment adds that Fed credibility depends on independence, data interpretation, and later judgment of whether policy missed a changing market regime.
-- The Qizhulou Yan Binke source adds that anti-Fed arguments can become part of [[AdministrativeStateDismantling]], even though the episode doubts that abolishing the Fed is a likely near-term outcome.
-- The Qizhulou vol.128 source adds that the Fed-risk question may move from Powell's present resistance to future chair succession and broader [[OfficeOfManagementAndBudget|OMB]] / [[WhiteHouse]] review pressure.
-- The Powell episode adds that the Fed's independence problem can move from tweets and speeches into subpoenas, chair succession, Senate confirmation leverage, dissent, and litigation over [[ForCauseRemovalStandard]].
-- The New Zealand inflation-targeting episode adds that Fed credibility also depends on anchoring expectations around a public target, not only on resisting short-term political pressure.
-- The indicator source treats the federal funds rate as a compact public signal for growth, inflation, unemployment, dissent, chair succession, and presidential pressure.
-- The Kalshi source treats Fed communications as a settlement surface that traders may try to influence, not only forecast.
-- Vol.115 treats fewer expected 2025 cuts as compatible with continued U.S. equity momentum, while still making cash and short-duration assets useful portfolio optionality.
-- Episode 129 treats the Fed as one layer of monetary credibility within a wider dollar, bank-credit, payment-clearing, Treasury, and asset-pricing network.
-- Episode 155 adds that Fed-chair succession can become a direct market trigger when investors translate a nominee's perceived hawkishness into rates, liquidity, and gold positioning.
-
-## Connections
-- [[ScottBessent|Scott Bessent / 贝森特]], [[FIMARepoBackstop]], [[TreasuryDemandSubstitution]], [[TreasuryBuybackPolicy]], and [[PolicyAmbiguityAsMarketTool]] - episode 179 Treasury-Fed coordination and pressure branch.
-- [[AIEquityValuationRisk]], [[USMegaCapTechRightSideTrade]], [[CurrencyAnchorTransition]], and [[DonaldTrump]] - episode 153 rate, inflation, and market-expectation branch.
-- [[GovernmentShutdownDataBlindness]], [[OfficialStatisticsCredibility]], and [[FederalFundsRateAsPolicySignal]] - shutdown-disrupted data and rate-decision branch added by 不熄灯 E02.
-- [[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]], [[StephenMiran]], and [[USEconomicExperienceSplit]] - later U.S. economy crossover extending the data and independence branch.
-- [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
-- [[MonetaryPolicyLag]] — concern that cuts may arrive after economic weakness has already accumulated.
-- [[YieldCurveInversion]] — macro signal used to discuss recession and market-risk history.
-- [[InvestmentRiskManagement]] — investors are warned not to treat rate cuts as automatically bullish.
-- [[USRecessionRisk]], [[SahmRule]], [[USTreasury]], and [[TreasuryDurationRisk]] — additional EP39 contexts for rate-cut expectations.
-- [[DonaldTrump]], [[JeromePowell]], [[MarketRegimeShift]], and [[IndexReentryDiscipline]] — EP57's policy-volatility and reentry context.
-- [[AlanGreenspan]] and [[CentralBankIndependence]] — historical Fed-leadership and institutional-autonomy context.
-- [[Project2025]], [[AdministrativeStateDismantling]], and [[GoldMonetaryAnchor]] — conservative critique and monetary-system branch added by Qizhulou Yan Binke.
-- [[OfficeOfManagementAndBudget]], [[DepartmentOfGovernmentEfficiency]], [[IndependentAgencyControlPressure]], and [[CentralBankIndependence]] — vol.128 agency-control and Fed-succession branch.
-- [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], [[BurtonAbrams]], [[KevinWarsh]], [[LisaCook]], [[StephenMiran]], [[UnitedStatesCongress]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Powell-era independence branch added by Planet Money.
-- [[InflationTargeting]], [[ArthurGrimes]], [[DonBrash]], [[ReserveBankOfNewZealand]], and [[MultipleEquilibria]] - New Zealand origin branch for explicit inflation targets.
-- [[WaylonWong]], [[FederalFundsRateAsPolicySignal]], [[CentralBankIndependence]], and [[MonetaryPolicyLag]] - 2026 rate-watch branch added by the indicator source.
-- [[Kalshi]], [[PredictionMarketTraderAlpha]], and [[EventContractManipulationRisk]] - word-betting manipulation branch added by Planet Money.
-- [[USMegaCapTechRightSideTrade]], [[DonaldTrump]], [[USTreasury]], [[TreasuryDurationRisk]], and [[AssetAllocation]] - vol.115 U.S. macro and allocation branch.
-- [[MoneyAsFlow]], [[EndogenousMoneyCreation]], [[PaymentClearingNetwork]], [[CurrencyAnchorTransition]], and [[GoldAsCurrencySpareTire]] - episode 129's monetary-system branch.
-- [[KevinWarsh]], [[CentralBankIndependence]], [[FederalFundsRateAsPolicySignal]], [[LiquidityDrivenVolatilityCascade]], and [[GoldMonetaryAnchor]] - episode 155's Fed-succession and precious-metals volatility branch.
+## Relationships
+- [[JeromePowell]] - chair whose tenure anchors the pressure accounts.
+- [[DonaldTrump]] - president exerting public monetary-policy pressure.
+- [[CentralBankIndependence]] - institutional autonomy under political and legal test.
+- [[FederalFundsRateAsPolicySignal]] - public short-rate indicator.
+- [[InflationTargeting]] - 2% public price-stability anchor.
+- [[MonetaryPolicyLag]] - delayed effect of rate choices.
+- [[EndogenousMoneyCreation]] - bank-credit counterpart to central-bank balances.
+- [[PaymentClearingNetwork]] - settlement layer supported by Fed money.
+- [[USTreasury]] - debt issuer whose funding interacts with policy rates.
+- [[ScottBessent]] - Treasury secretary advocating FIMA expansion.
+- [[FIMARepoBackstop]] - international dollar-liquidity tool proposed for expansion.
+- [[TreasuryDemandSubstitution]] - alternative demand channels for government securities.
+- [[TreasuryBuybackPolicy]] - separate Treasury instrument, not Fed QE.
+- [[GovernmentShutdownDataBlindness]] - impaired official inputs to decisions.
+- [[OfficialStatisticsCredibility]] - quality of data entering guidance.
+- [[KevinWarsh]] - prospective-leadership interpretations in tension.
+- [[LisaCook]] - removal litigation in independence discussion.
+- [[StephenMiran]] - nominated dissenting official in the source account.
+- [[LaelBrainard]] - insider perspective on institutional autonomy.
+- [[WilliamMcChesneyMartin]] - historical resistance precedent.
+- [[ArthurBurns]] - historical inflation-bias caution.
+- [[AlanGreenspan]] - historical reputation assessed over different market regimes.
+- [[Project2025]] - proposal to change mandate and monetary framework.
+- [[ForCauseRemovalStandard]] - legal protection at issue in board litigation.
+- [[OfficeOfManagementAndBudget]] - broader agency-review pressure concern.
+- [[ReserveBankOfNewZealand]] - earlier public inflation-target institution.
+- [[ArthurGrimes]] - New Zealand inflation-target origin participant.
+- [[DonBrash]] - New Zealand central-bank leader in that precedent.
+- [[BankOfJapan]] - policy divergence in market-stress analysis.
+- [[SahmRule]] - recession-risk indicator discussed beside cuts.
+- [[YieldCurveInversion]] - another time-lag recession signal.
+- [[AIEquityValuationRisk]] - asset-pricing exposure to rates and AI capex.
+- [[IndexReentryDiscipline]] - investor-timing consequence of ambiguous signals.
+- [[GoldMonetaryAnchor]] - alternative proposed by critics, not current policy.
+- [[EventContractManipulationRisk]] - peripheral Fed Zoom word-betting episode.
+- [[Kalshi]] - event-contract market context, not a Fed regulator.
+- [[AdministrativeStateDismantling]] - proposed wider government-restructuring agenda, not Fed abolition.
+- [[AssetAllocation]] - investor application of rate uncertainty, not Fed objective.
+- [[BurtonAbrams]] - historian cited in independence discussion, not a Fed board member in this claim.
+- [[CurrencyAnchorTransition]] - dollar/gold credibility debate adjacent to Fed action.
+- [[DepartmentOfGovernmentEfficiency]] - broader executive pressure context, not Fed unit.
+- [[FederalReserve]] - self-reference identifying institutional scope.
+- [[GoldAsCurrencySpareTire]] - gold hedge thesis reacting to liquidity uncertainty.
+- [[IndependentAgencyControlPressure]] - political review and appointment risk.
+- [[InflationBias]] - danger from politically encouraged easing.
+- [[InvestmentRiskManagement]] - cuts need not be automatically bullish.
+- [[LiquidityDrivenVolatilityCascade]] - gold/liquidity reaction to balance-sheet signals.
+- [[MarketRegimeShift]] - retrospective challenge to Greenspan's policy reputation.
+- [[MultipleEquilibria]] - expectations rationale for credible public targets.
+- [[PlanetMoney]] - publisher of Powell, New Zealand and event-contract accounts, not Fed authority.
+- [[PolicyAmbiguityAsMarketTool]] - commentator's interpretation of communication swings.
+- [[PredictionMarketTraderAlpha]] - trading context for Zoom-question episode.
+- [[TreasuryDurationRisk]] - long-bond sensitivity to rates and Treasury supply.
+- [[USEconomicExperienceSplit]] - uneven household experience obscured by top-line data.
+- [[USMegaCapTechRightSideTrade]] - growth-stock exposure to policy path.
+- [[USRecessionRisk]] - growth weakness competing with inflation pressures.
+- [[UnitedStates]] - jurisdiction of the central bank.
+- [[UnitedStatesCongress]] - legislative oversight/check in independence disputes.
+- [[WaylonWong]] - commentator selecting the funds rate as 2026 indicator.
+- [[WhiteHouse]] - source of presidential rate pressure, not formal monetary-policy committee.
