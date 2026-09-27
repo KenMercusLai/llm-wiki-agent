@@ -2,48 +2,51 @@
 title: "鲁仲连 / Lu Zhonglian"
 type: entity
 tags: [person, qi-state, strategist, thinker, pre-qin, warring-states]
-sources: [zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2, zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk, zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv, zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]
+sources:
+  - zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt
+  - zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w
+  - zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2
+  - zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk
+  - zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv
+  - zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k
 last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
 ---
 
 # 鲁仲连 / Lu Zhonglian
 
-鲁仲连 / Lu Zhonglian enters the wiki through [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]] as a [[QiState|齐国]] strategist and thinker near the Di campaign. The episode presents him as someone who became famous young, studied in or around [[JixiaAcademy|稷下学宫]], challenged the debater Tian Ba, and yet preferred not to take office.
+## Overview
+本页按主题区分有出处的事件、解释及其局限。 田单攻狄受阻时，鲁仲连比较即墨死战与复国后军心；节目补充宫廷猜忌对将领的约束。
 
-His source role is diagnostic rather than administrative. Before [[TianDan|田单]] attacks Di, Lu Zhonglian predicts that Tian Dan will not capture it. When the campaign stalls for three months, Tian Dan returns and asks how Lu Zhonglian knew.
+## Current Profile
+田单攻狄受阻时，鲁仲连比较即墨死战与复国后军心；节目补充宫廷猜忌对将领的约束。 反对新垣衍尊秦为帝的言说兼用礼义指控与魏臣自保利益；其商纣典故并非无争议史证。 拒平原君封赏表现士的自主，但节目将不仕与家资、人脉相联系。 射书说降辽城守将及子顺关于习行成德的答辩，构成另一场游说和后世品评；李白的赞誉属接受史。
 
-Lu Zhonglian's answer is that the same commander no longer has the same death resolve. At [[JimoWarringStates|即墨]], Tian Dan and the defenders had no realistic route except desperate resistance, so commander and soldiers shared a willingness to die. After restoration, rank, wealth, horses, and chancellor status make the psychology different.
+## Key Characteristics
+- 田单攻狄受阻时，鲁仲连比较即墨死战与复国后军心；节目补充宫廷猜忌对将领的约束。
+- 反对新垣衍尊秦为帝的言说兼用礼义指控与魏臣自保利益；其商纣典故并非无争议史证。
+- 拒平原君封赏表现士的自主，但节目将不仕与家资、人脉相联系。
+- 射书说降辽城守将及子顺关于习行成德的答辩，构成另一场游说和后世品评；李白的赞誉属接受史。
 
-The episode then complicates this judgment. It agrees that comfort matters, but says Tian Dan's deeper problem is political: after [[QiXiangWang|齐襄王]] suspects him, visible intimacy with soldiers can look like an independent power base. Lu Zhonglian therefore exposes both a military problem and the court-political pressure that makes [[MilitaryMoraleThroughSharedHardship|shared hardship]] risky for a high-merit minister.
+## Evidence
+- **Tian Dan campaign diagnosis:** The episode presents 鲁仲连 as a young [[QiState|齐国]] thinker associated with [[JixiaAcademy|稷下学宫]], a challenger of Tian Ba who preferred not to take office. He predicted [[TianDan|田单]] would fail to capture Di; after three months of stalemate he contrasted the desperation shared by commander and defenders at [[JimoWarringStates|即墨]] with rank, wealth, horses and chancellor status after restoration. The host adds a political qualification: [[QiXiangWang|齐襄王]]'s suspicion made close solidarity with soldiers look like a rival power base, limiting [[MilitaryMoraleThroughSharedHardship|shared-hardship leadership]]. [[zizhi-tongjian-zhouji-81-lishi-zaoqi-pua-jishi-lu-2-lpksu7523ut-skpmxxh9e-tcbz0k]]
+- **Handan anti-imperial persuasion:** During the [[Handan|邯郸]] siege, he asked [[Pingyuanjun|平原君]] to arrange a meeting with [[XinyuanYan|新垣衍]], who wanted [[ZhaoState|赵国]] and [[WeiState|魏国]] to honor [[QinZhaoxiangwang|秦昭襄王]] as emperor. He attacked Qin's violence and ritual illegitimacy, then warned that imperial authority could replace or destroy Wei's ruler and ministers and render Xin Yuan Yan's own favor insecure. The host finds his Shang Zhou precedent historically shaky and rejects an easy claim that eastern states were necessarily more civilized; effective [[ZonghengjiaDiplomacy|persuasion]] is not sound proof for every historical analogy it uses. [[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]]
+- **Independence and material conditions:** His anti-submission speech addressed an aristocratic world shared with Xin Yuan Yan and Pingyuanjun: [[QinState|秦国]] dominance endangered reputation, privilege and the freedom to travel, speak and refuse office. The host argues that such independence likely required family wealth and social networks; later admirers such as [[LiBai|李白]] also had material support. When Pingyuanjun offered a fief and then gold after the Handan intervention, Lu refused both and departed, making him the episode's [[MoralizedShiIdentity|non-transactional 士]] counterpoint to [[LuBuwei|吕不韦]] and [[MerchantAristocraticValueConflict|merchant-aristocratic value conflict]]. [[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] [[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]]
+- **Liaocheng and later appraisal:** With Tian Dan stalled at [[LiaochengWarringStates|辽城]], Lu shot a letter into the city confronting its trapped [[YanState|燕国]] commander with the choice between return to [[YanWangXi|燕王喜]] and surrender to Qi, arguing continued resistance was neither loyal, brave nor wise. [[WeiAnxiWang|魏安釐王]] later suspected Lu's lofty conduct of self-conscious display, while [[ZiShun|子顺]] argued repeated worthy action can become genuine character ([[VirtuePracticeInternalization|habitual virtue]]). Another episode reports Li Bai's admiration for Lu's independent personality, chivalry and intelligence; this is later reception rather than direct evidence of Lu's inner motives. [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]]
 
-[[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] returns Lu Zhonglian to the wiki during the [[Handan|邯郸]] siege. Hearing that [[XinyuanYan|新垣衍]] wants [[ZhaoState|赵国]] and [[WeiState|魏国]] to honor [[QinZhaoxiangwang|秦昭襄王]] as emperor, Lu Zhonglian asks [[Pingyuanjun|平原君]] to arrange a meeting and attacks the proposal directly.
+## Qualifications
+The host questions the historical strength of the Shang–Zhou precedent in the Handan speech; the wealth explanation for his independence is an interpretation, and Li Bai’s praise is later reception.
 
-His speech combines several moves. He first denies that Qin's ruler is a legitimate sage king, framing [[QinState|秦国]] as a violent order that abandons ritual and righteousness. He then makes the issue personal for Xin Yuan Yan: if Qin has imperial authority, Wei's ruler and ministers can be replaced, controlled, or destroyed, and Xin Yuan Yan's own favor becomes insecure.
+## What Changed
+- 辽城射书与后世品评，使邯郸拒帝秦和拒赏的形象得到补充；家资条件仍只是节目解释。
 
-The episode also complicates Lu Zhonglian's victory. The host says his Shang Zhou precedent is historically shaky and that the eastern states were not necessarily more civilized than Qin. Lu Zhonglian therefore becomes a double case: a brilliant persuader inside [[ZonghengjiaDiplomacy|纵横家外交]], and a reminder that successful rhetoric can rest on unstable inherited stories.
-
-[[zizhi-tongjian-zhouji-96-maosui-zijian-4-lqs3pj2-rebp0uh6q7ayecpju3hk]] explains why that speech could work on Xin Yuan Yan. The episode says Lu Zhonglian, Xin Yuan Yan, and [[Pingyuanjun|平原君]] share an aristocratic world where privilege, reputation, and personal freedom matter. Submission to Qin is therefore not only a moral humiliation; it threatens the social basis that lets Lu Zhonglian live without office, refuse money, travel, and speak freely.
-
-The source also makes Lu Zhonglian's famous freedom less abstract. The host argues that his refusal of office likely depended on family wealth and a strong social network, then notes that later admirers such as [[LiBai|李白]] could imitate parts of that style because they too had material support. Lu Zhonglian is therefore a dignity figure, but not a disembodied one: his autonomy has class and resource conditions.
-
-[[zizhi-tongjian-zhouji-97-3-lvbuwei-lishishang-fengtou-di-yi-ren-lswa9b864oc-s8vaxtdu15arydu2]] adds the reward-refusal ending of the same Handan intervention. [[Pingyuanjun|平原君]] tries to reward Lu Zhonglian with a fief and then with large amounts of gold, but Lu Zhonglian refuses and leaves. The episode uses this as a pure example of [[MoralizedShiIdentity|士的道德化身份]]: the worthy person helps resolve danger without turning the act into a commercial exchange, which then sets up the contrast with [[LuBuwei|吕不韦]] and [[MerchantAristocraticValueConflict|贵族-商人义利冲突]].
-
-[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds his "射书克辽城" branch. When [[TianDan|田单]] cannot take [[LiaochengWarringStates|辽城]] from a trapped [[YanState|燕国]] commander, Lu Zhonglian writes a letter and shoots it into the city. The letter recasts continued defense as neither loyal, brave, nor wise, forcing the commander to weigh return to [[YanWangXi|燕王喜]] against surrender to [[QiState|齐国]].
-
-The same source also makes Lu Zhonglian the object of later moral evaluation. [[WeiAnxiWang|魏安釐王]] thinks his high-mindedness looks too self-conscious, while [[ZiShun|子顺]] replies that repeated performance of worthy conduct can become character. Lu Zhonglian therefore now connects not only to persuasion and reward refusal, but also to [[VirtuePracticeInternalization|修养内化]].
-
-[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] adds a reception and contrast layer. The episode says [[LiBai|李白]] admired Lu Zhonglian's independent personality, free will, chivalric spirit, and wisdom, making him a counterexample to [[WeiAnxiWang|魏安釐王]]'s fear and private suspicion. This reinforces Lu Zhonglian's role as a later moral-aesthetic model as well as a Warring States persuader.
-
-## Connections
-- [[TianDan|田单]] - commander whose failed Di campaign Lu Zhonglian diagnoses.
-- [[QiState|齐国]] and [[JixiaAcademy|稷下学宫]] - state and intellectual setting.
-- [[JimoWarringStates|即墨]] - earlier crisis where Tian Dan's resolve and soldier morale were strongest.
-- [[QiXiangWang|齐襄王]] - ruler whose suspicion changes what Tian Dan can safely display.
-- [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[PowerExitTrap|权力退场困境]] - concepts that explain why military resolve and political self-protection collide in this source.
-- [[XinyuanYan|新垣衍]], [[SubmissionThroughStatusElevation|尊号式投降方案]], [[CivilizationBarbarismFrame|文明-野蛮框架]], and [[HistoricalPrecedentWeaponization|历史先例武器化]] - Zhouji 96 part 3 western-emperor rebuttal and its source-critical problem.
-- [[InterestReframingPersuasion|利益重构式说服]] and [[DignityBasedPersuasion|尊严激将式说服]] - speech techniques used in the Handan scene.
-- [[LiBai|李白]], [[WarringStatesRetainerPatronage|战国养士]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - Zhouji 96 part 4 resource-backed aristocratic freedom and later admiration.
-- [[MoralizedShiIdentity|士的道德化身份]], [[MerchantAristocraticValueConflict|贵族-商人义利冲突]], and [[LuBuwei|吕不韦]] - Zhouji 97 part 3 reward refusal as contrast before the merchant-investor enters.
-- [[LiaochengWarringStates|辽城]], [[LiaochengCommanderDilemma|辽城守将进退困局]], [[YanWangXi|燕王喜]], and [[TianDan|田单]] - Qinji 101-1 arrow-letter persuasion and city recovery.
-- [[WeiAnxiWang|魏安釐王]], [[ZiShun|子顺]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-1 debate over performative virtue becoming character.
-- [[LiBai|李白]], [[MoralizedShiIdentity|士的道德化身份]], and [[HumanNaturePlasticity|人性可变性]] - Qinji 101-2 reception of Lu Zhonglian as an independence and character model.
+## Relationships
+- [[AristocraticHonorOverLife]] - 他向新垣衍诉诸贵族名誉与自主，比生存利益更能撬动对尊秦为帝的反对；不等于聂政姐弟的殉名故事。
+- [[CivilizationBarbarismFrame]] - 他把秦称为无礼暴力之邦以反对帝号，节目明确怀疑东方诸国必然较文明的预设。
+- [[DignityBasedPersuasion]] - 邯郸游说使新垣衍看到尊秦会损及魏臣的尊严与位置，而非仅争一个称号。
+- [[HistoricalPrecedentWeaponization]] - 他借商纣暴政影射秦帝号的危险，节目认为该历史类比的证据并不稳固。
+- [[HumanNaturePlasticity]] - 子顺对魏安釐王怀疑鲁仲连作态的回应，认为反复行善能养成品格；这是对他的后世品评，不是他本人提出的人性论。
+- [[InterestReframingPersuasion]] - 他将秦称帝的风险转化为新垣衍本人失宠、失位的利害，而不只诉诸礼义。
+- [[LiaochengCommanderDilemma]] - 他射书辽城，向被燕王疑弃的守将指出死守、返燕与降齐的忠勇利害。
+- [[PostRestorationMeritThreat]] - 他以即墨死守对照田单复齐后的富贵，却也受到齐襄王猜忌功臣的政治背景限制；此困境属于田单而非鲁仲连。
+- [[SubmissionThroughStatusElevation]] - 他反驳新垣衍让赵魏尊秦昭襄王为帝的方案，指出名义抬高秦君会压低诸侯与臣下自主。
+- [[WarringStatesRetainerPatronage]] - 他拒平原君封地与金赏，显示游士可利用贵族供养网络又拒绝成为有偿门客；家资支持只是节目推断。
