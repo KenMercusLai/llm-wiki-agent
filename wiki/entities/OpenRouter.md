@@ -2,26 +2,53 @@
 title: "OpenRouter"
 type: entity
 tags: [ai, infrastructure, model-routing]
-sources: [vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1, all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390, featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup, e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]
+sources:
+  - vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1
+  - all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390
+  - featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup
+  - e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
 # OpenRouter
 
-[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]] adds a buyer-side cost-cutting anecdote. [[ChamathPalihapitiya|Chamath Palihapitiya]] says his team used OpenRouter, [[GLM52|GLM 5.2]], and other routing choices to cut model costs by roughly 95%, turning OpenRouter from a general model-marketplace example into a concrete [[EnterpriseAIROIAudit]] and [[ModelRoutingCostControl]] tool.
+## Overview
+OpenRouter aggregates model access and routes requests across providers; its value depends on model choice, price and switching costs, unlike direct model hosting.
 
-OpenRouter is the model-routing and API aggregation company discussed in [[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]]. [[KeithZhai]] uses it as an example of an intermediary that benefits when strong open and closed models coexist, because customers have more reason to compare and route across models rather than defaulting to one frontier provider.
+## Current Profile
+The service gives users one routing layer across models and provider APIs, reducing switching friction as prices and capabilities change. Featherless’s founder distinguishes that intermediation from hosting models directly; a buyer’s claimed savings illustrate a possible use, not a general benchmark.
 
-For the wiki, OpenRouter belongs in [[ModelRoutingCostControl]] and [[AIInferenceCostStructure]]. Its value increases when [[OpenSourceAIModels|open models]] such as [[KimiK3|Kimi K3]] make model choice a routine product decision across price, latency, quality, policy, and deployment constraints.
+## Key Characteristics
+- Multi-provider model access.
+- Provider/host distinction.
+- Buyer-side cost optimization.
 
-[[featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup]] adds a boundary from the provider side. [[EugeneChia]] says [[FeatherlessAI|Featherless AI]] can look OpenRouter-like to users because both promise easy access to many models, but Featherless hosts models directly while OpenRouter routes requests to providers such as Featherless.
+## Evidence
+- **跨模型路由：** [[KeithZhai]]把OpenRouter视为开放和封闭模型并存时受益的API聚合层：用户可按价格、质量、延迟和任务需要切换[[OpenSourceAIModels|开放模型]]与闭源服务，而非依赖一个接口。另一节目称它是观察[[DeepSeek]]、[[OpenAI]]、[[Anthropic]]、[[Kimi]]等模型实际付费使用和价格变动的“中转站”；[[KimiK3|Kimi K3]]等选项扩展时，长提示词、缓存和重复步骤的[[AgentInferenceWorkload|代理负载]]更凸显[[ModelRoutingCostControl|路由成本控制]]，但流量观察不等于经审计的市场份额。[[e246-hewei-zhengliu-liaoliao-guigu-ruhe-kan-zhongguo-kaifang-moxing-bijin-qianyan-5fd236d7-9a72-4b15-9e84-e83ceadd1b41]] [[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]]
+- **路由与托管的边界：** [[EugeneChia]]说[[FeatherlessAI]]和OpenRouter对用户都提供多模型入口，但前者直接托管模型（包括[[LongTailModelHosting|长尾模型]]和[[GPUHotSwapping|GPU切换]]），后者把请求路由到Featherless等供给方；两者的价格或模型数量不可直接当成同一层级指标。[[featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup]]
+- **买方成本实例：** [[ChamathPalihapitiya]]称团队结合OpenRouter、[[GLM52|GLM 5.2]]及其他路由选择，将模型费用降低约95%；这是其团队的一次[[EnterpriseAIROIAudit|企业ROI]]经验，并非OpenRouter平台客户的普遍节省率。[[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]]
 
-[[vol-172-codex-mai-zhongzhi-taocan-deepseek-fenggu-tiaojia-pingguo-chonghui-5-wanyi-deng-1-6685-1]] adds a heavy-user market-signal version. The hosts describe OpenRouter as the "middle station" that lowers switching cost across a growing model set and as a place to observe which models users actually pay for when [[DeepSeek]], [[OpenAI]], [[Anthropic]], [[Kimi]], and other providers move prices, limits, or capabilities.
+## Qualifications
+- The roughly 95% saving is Chamath’s team-specific anecdote, not a platform benchmark; model prices, traffic and rankings change. Featherless hosts models while OpenRouter routes to hosts.
 
-## Connections
+## What Changed
+- The router is distinguished from a hosting provider even when both offer multi-model access.
+- The reported buyer saving is treated as a single team’s outcome, not a platform-wide claim.
+
+## Relationships
 - [[ModelRoutingCostControl]] - user/product-level routing practice OpenRouter exemplifies.
 - [[AIInferenceCostStructure]] - token-price and provider-cost layer that makes routing valuable.
-- [[OpenSourceAIModels]], [[KimiK3]], and [[ClosedModelAPIMoatPressure]] - model diversity and API moat pressure behind its opportunity.
+- [[OpenSourceAIModels]] - model diversity and API moat pressure behind its opportunity.
+- [[KimiK3]] - model diversity and API moat pressure behind its opportunity.
+- [[ClosedModelAPIMoatPressure]] - model diversity and API moat pressure behind its opportunity.
 - [[AgentInferenceWorkload]] - agent workloads can make routing more valuable because long prompts, cache reuse, and repeated steps create cost differences.
-- [[FeatherlessAI]], [[LongTailModelHosting]], and [[GPUHotSwapping]] - hosted-provider layer clarified by the Featherless episode.
-- [[DeepSeek]], [[OpenAI]], [[Anthropic]], [[Kimi]], [[PeakValleyAIInferencePricing]], and [[AISubscriptionEconomics]] — Vol. 172's model-choice and routing-market branch.
+- [[FeatherlessAI]] - direct-hosting counterpart to OpenRouter’s routing layer.
+- [[LongTailModelHosting]] - direct-hosting counterpart to OpenRouter’s routing layer.
+- [[GPUHotSwapping]] - direct-hosting counterpart to OpenRouter’s routing layer.
+- [[DeepSeek]] - model supplier or pricing issue that motivates multi-provider routing.
+- [[OpenAI]] - model supplier or pricing issue that motivates multi-provider routing.
+- [[Anthropic]] - model supplier or pricing issue that motivates multi-provider routing.
+- [[Kimi]] - model supplier or pricing issue that motivates multi-provider routing.
+- [[PeakValleyAIInferencePricing]] - model supplier or pricing issue that motivates multi-provider routing.
+- [[AISubscriptionEconomics]] - model supplier or pricing issue that motivates multi-provider routing.
