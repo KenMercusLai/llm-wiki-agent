@@ -2,37 +2,52 @@
 title: "周勃 / Zhou Bo"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources:
+  - zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p
+  - zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8
+  - zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj
+  - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb
 last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
 ---
 
 # 周勃 / Zhou Bo
 
-周勃 / Zhou Bo enters the wiki through [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] as one of [[LiuBang|刘邦]]'s officers who supports immediate war after Liu Bang is assigned to [[Hanzhong|汉中]]. The episode groups him with [[GuanYing|灌婴]] and [[FanKuai|樊哙]] as commanders whose anger makes Liu Bang's threatened attack politically useful inside the camp even if it would be militarily disastrous.
+## Overview
+周勃 was a [[LiuBang]]-side veteran whose military career, uneasy relationship with [[ChenPing]], and participation in the post-[[LuZhi]] Liu-house restoration recur in the podcast sources. His battlefield reputation should not erase uncertainty in the northern suppression accounts.
 
-His source role is therefore less a developed biography than an internal-morale signal. [[XiaoHe|萧何]]'s counsel has to redirect not only Liu Bang but also the fighting mood of officers who do not want the Hanzhong demotion to look like submission.
+## Current Profile
+The sources show a founding-war officer later used against rebels and inside a perilous succession court. He is neither simply Chen Ping's lifelong ally nor an established witness to the private scandal alleged against him.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] brings Zhou Bo back as [[ChenPing|陈平]]'s partner in the post-[[LuZhi|吕雉]] transition. During Empress Lu's regency, the source says Zhou Bo and Chen Ping do not openly resist Lu-family elevation in the way [[WangLingHanMinister|王陵]] does; after Lu Zhi dies, they join the move to remove Lu-family power and restore the Liu line under [[LiuHeng|刘恒 / Emperor Wen of Han]].
+The Hanzhong regrouping, after the [[ThreeQinContainment]] settlement, also depended on [[BaShu]] resources and [[StrategicRetreatBaseBuilding]], rather than the immediate attack some officers wanted. The alleged scandal spread through [[RumorErosionOfTrust]] inside [[VeteranMeritCliqueSupervision]].
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] gives that partnership two concrete mechanisms. First, Zhou Bo accompanies Chen Ping on [[LiuBang|刘邦]]'s order to kill [[FanKuai|樊哙]], and the two choose custody and transport instead of immediate execution. Second, under Lu Zhi, the source says Chen Ping and Zhou Bo publicly appear estranged while privately preserving the ability to coordinate later against the Lu faction.
+## Key Characteristics
+- A military officer in the early Han camp and a reserve commander at [[GaixiaBattle]].
+- A participant in the hard northern pacification after founding, with conflicting attributions for [[ChenXi]]'s death.
+- A veteran critic of fast-promoted Chen Ping before later cooperating with him.
+- A court survivor who delayed an execution order and joined the post-Lu transfer to [[LiuHeng]].
 
-[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] adds an earlier conflict with Chen Ping. In the immediate post-[[PengchengBattle|Pengcheng]] recovery period, Zhou Bo joins [[GuanYing|灌婴]] and other old generals in accusing Chen Ping before Liu Bang. Here Zhou Bo belongs to the veteran circle reacting against a rapidly promoted outsider, a reversal of his later paired survival work with Chen Ping.
+## Evidence
+- **Officers and field formations.** [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]] groups Zhou with [[FanKuai]] and [[GuanYing]] among commanders angered by the [[Hanzhong]] assignment; [[XiaoHe]]'s counsel redirected their war mood, while the proposed staged anger is the host's interpretation. At Gaixia [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p]] places Zhou and [[ChaiWu]] in [[HanXin]]'s third line: [[XiangYu]] penetrated the earlier lines without breaking the whole force, allowing [[LayeredDepthDefense]] and encirclement rather than a solitary Zhou victory.
+- **Northern force, disputed final blow.** [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]] places Zhou at [[Mayi]] and with Chai Wu pressing [[HanWangXin]] during the [[ChenXiRebellion]], including the reported slaughter after Mayi's capture. [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]] says Zhou pacified Dai, Yanmen and Yunzhong and killed Chen Xi at Dangcheng; [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]] instead credits Fan Kuai with that killing. These are competing attributions within the same podcast series, not two kills or independent confirmation.
+- **The veteran-outsider fault line.** [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]] and [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8]] put Zhou and Guan Ying among the old officers criticizing Chen Ping's rapid elevation after [[PengchengBattle]]. The alleged “盗嫂” was a political charge, not an established fact: [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8]] says the accusers lacked obvious access to Chen's distant family life and presents [[MoralSlanderReframing]] as the host's skeptical reading. [[WeiWuzhi]] and Liu Bang answered with wartime usefulness rather than proving every private allegation false.
+- **Later cooperation was conditional.** [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern]] has Zhou and Chen Ping take Fan Kuai into custody instead of executing Liu Bang's order immediately, preserving room for changed circumstances ([[TacticalDelayRiskTransfer]]). [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj]] describes their public distance under Lu Zhi, in contrast with [[WangLingHanMinister]]'s open resistance; both notes describe later coordination against the Lu family and support for Liu Heng, not an unbroken friendship.
 
-[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] sharpens the accusation scene by treating Zhou Bo's "盗嫂" claim as likely political slander. The host emphasizes that Zhou Bo is a Pei County old follower rather than someone close to Chen Ping's Yangwu/Huyou family background, so his ability to know an intimate family scandal is doubtful. This keeps the charge source-scoped as a veteran-backlash tactic rather than as settled knowledge about Chen Ping.
+## Qualifications
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]] and [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]] disagree over who killed Chen Xi; keep the conflict explicit. The numerical and tactical Gaixia account belongs to the episode's reconstruction rather than an independently corroborated battle report.
+- The “盗嫂” accusation against Chen Ping is not biographical evidence. The performance or private coordination implied under Lu Zhi is narrated by the sources and cannot be read directly from appearances.
 
-[[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] adds a direct battlefield role. At the [[GaixiaBattle|垓下之战]], Zhou Bo and [[ChaiWu|柴武]] command the third line in [[HanXin|韩信]]'s formation. After [[XiangYu|项羽]] breaks through the first line and [[LiuBang|刘邦]]'s second line without making the coalition collapse, the Zhou Bo / Chai Wu line becomes the stopping layer that lets [[LayeredDepthDefense|纵深分层防御]] close into encirclement.
+## What Changed
+- The veteran's criticism and subsequent partnership are placed in different periods, and the northern-killing attribution remains unresolved.
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a post-founding suppression role. Zhou Bo attacks [[Mayi|马邑]] and helps press [[HanWangXin|韩王信]] with Chai Wu during the [[ChenXiRebellion|陈豨之乱]] cleanup. The episode's note that Mayi is slaughtered after capture puts Zhou Bo's branch inside the harsher coercive side of Liu Bang's northern campaign.
-
-[[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]] gives Zhou Bo a stronger version of that cleanup role, saying he pacifies Dai, Yanmen, and Yunzhong, pursues to Dangcheng, and kills [[ChenXi|陈豨]]. This conflicts with the Hanji 182 part 2 / [[FanKuai|樊哙]] attribution, so the wiki keeps it as a source-scoped variant.
-
-## Connections
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[ChenXi|陈豨]], and [[ChenXiRebellion|陈豨之乱]] - source-scoped variant crediting Zhou Bo with Chen Xi's death.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[Mayi|马邑]], [[HanWangXin|韩王信]], and [[ChenXiRebellion|陈豨之乱]] - northern suppression role and Mayi reconquest.
-- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]], [[ChaiWu|柴武]], [[GaixiaBattle|垓下之战]], and [[LayeredDepthDefense|纵深分层防御]] - third-line command in Han Xin's final battle formation.
-- [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[GuanYing|灌婴]], and [[FanKuai|樊哙]] - Liu Bang-side figures in the Hanzhong reaction scene.
-- [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[ThreeQinContainment|三秦压制]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - strategic setting around the retreat.
-- [[ChenPing|陈平]], [[LuZhi|吕雉]], [[WangLingHanMinister|王陵]], [[LiuHeng|刘恒 / Emperor Wen of Han]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - later regency and restoration context added by Hanji 150 part 3.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[FanKuai|樊哙]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]] - shared delay tactic and later hidden coordination with Chen Ping.
-- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[GuanYing|灌婴]], and [[VeteranMeritCliqueSupervision|功臣旧将监督]] - earlier old-general complaint against Chen Ping.
-- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - follow-up reading that treats the "盗嫂" allegation as weakly grounded veteran smear.
+## Relationships
+- [[ChenPing]] - first a target of veteran criticism, then a partner in the Fan Kuai order and Liu-line restoration.
+- [[HanXin]] - commanded the Gaixia formation whose final layer included Zhou.
+- [[FanKuai]] - fellow old officer and subject of the execution order Zhou and Chen deferred.
+- [[LiuHeng]] - beneficiary of the post-Lu court transfer described by the later episodes.
+- [[ChenXiRebellion]] - the northern campaign with disputed attribution for Chen Xi's death.
+- [[PoliticalSurvivalFirst]] - Zhou and Chen Ping deferred deadly choices until the Lu-court balance changed.
