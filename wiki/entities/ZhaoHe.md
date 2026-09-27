@@ -2,57 +2,82 @@
 title: "赵何 / Zhao He"
 type: entity
 tags: [person, ruler, zhao-state, warring-states, succession]
-sources: [zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm, zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb, zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0, zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk, zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg, zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]
+sources:
+  - zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm
+  - zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h
+  - zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq
+  - zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0
+  - zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p
+  - zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb
+  - zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0
+  - zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk
+  - zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u
+  - zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg
+  - zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq
+  - zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1
+  - zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si
 last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
 ---
 
 # 赵何 / Zhao He
 
-赵何 / Zhao He appears in [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] as the son born to [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]]. The episode does not yet narrate his later rule in detail; it introduces him as the favored-son branch that will collide with the earlier legitimate-son branch represented by [[ZhaoZhang|赵章]].
+## Overview
+赵何即赵惠文王，是赵武灵王与吴娃之子，幼年受禅位而由肥义辅佐；沙丘之变中，他作为正式国君得以幸存，父亲却在被围后饿死。其后任用赵奢、蔺相如和廉颇，在对秦外交、军政与收容乐毅上有多条不同的决策线。
 
-The page is source-scoped because the episode is setting up a future conflict rather than resolving it. Zhao He matters here as the child through whom affection, maternal favor, and succession order begin to diverge.
+## Current Profile
+少年继位不等于沙丘所有行动由他主动策划；其王位成为群臣效忠的重心，却也造成赵章与主父留权之间的冲突。成熟期的判断应区别本人授权与部下策略的成果。
 
-[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] makes that divergence formal. In 299 BCE, Zhao Wuling Wang transfers the throne to Zhao He when Zhao He is only ten. After Zhao He worships at the ancestral temple, the court recognizes him as ruler and [[FeiYi|肥义]] becomes chancellor, while Zhao Wuling Wang remains active as主父.
+## Key Characteristics
+- 偏爱之子的禅位使正式王权和父亲保留的主父权力分离。
+- 沙丘政变中依靠肥义、高信、赵成、李兑等护住国君，父王被围死的责任仍需分层。
+- 与秦围绕和氏璧、齐国联盟及渑池会盟周旋并倚蔺相如维持礼仪对等。
+- 用赵奢治税、救阏与，同时给流亡乐毅尊位而不迫其伐燕。
 
-For this page, the source matters less as a biography of Zhao He's own choices than as the moment when a favored child becomes the public center of [[ZhaoState|赵国]] rule. It turns [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] from foreshadowing into state structure.
+## Evidence
+- **继承制度与沙丘：** 吴娃所生赵何成为受宠的小儿子，相对赵章形成继承张力；299 BCE 十岁受赵武灵王禅位，肥义为相，武灵王仍以主父掌军事。[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] 中山平定后主父给赵章代地，萌生分国使两子同王的念头，赵何一方拒绝；肥义事先提防伪造主父召令。[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] 沙丘时赵章冒主父命召赵何，肥义先赴而被杀；高信、赵何抵抗，赵成、李兑入援，围困使主父数月后死亡。节目解读赵何未施救有政治意义，但赵成刻意未请其亲下处置父兄的诏令，不能将整段主动决策都归幼王。[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]]
+- **对秦礼仪和联盟选择：** 赵何以惠文王身份与秦昭襄王在穰城会面；又从缪贤取得和氏璧后面对秦以十五城交换，授权蔺相如赴秦争对等并完璧归赵。[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] [[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] 拒与秦联攻齐招致秦夺赵城、石城，秦再邀渑池会盟；廉颇设三十日不返立太子的预案，蔺相如劝赴会且逼秦王作对等礼节，使受迫弹瑟的赵王安全返国。赵何升蔺相如在廉颇之上，形成将相名位摩擦，不能说其亲自解决将相和。[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] [[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]]
+- **庇护与选贤：** 乐毅失燕后赵何礼遇，并封观津、望诸君；乐毅因不愿伤燕昭王、武灵王和自身声望拒为赵攻燕，是被收留者的节制而非赵何既成战争。[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] [[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] 赵奢以法征平原君家税，平原君荐之，赵何令掌全国赋税；秦攻阏与，廉颇等认为道险难救，赵何采赵奢请战而胜，税吏之才因而在战场再获验证。[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] [[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]]
+- **王位交替：** 赵何死、赵丹继位之际魏齐投平原君，范雎借秦势追索，使赵国进入新的外交危机；这不是赵何本人后期政策的延续证据。[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]]
 
-[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] shows Zhao He as the formal center that the court increasingly treats as real authority. [[FeiYi|肥义]] stays with him out of entrusted duty, [[LiDui|李兑]] wants safeguards against a forged summons from the 主父, and Zhao He rejects Zhao Wuling Wang's idea of splitting Zhao so [[ZhaoZhang|赵章]] can also become king. The episode therefore makes Zhao He less a passive child and more the institutional gravity point in [[PartialAbdicationPowerSplit|退位留权式权力分裂]].
+## Qualifications
+- 沙丘“沉默”是节目推论，不能写成直接下令饿死父王。[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]]
+- 乐毅受封、穰城会见等属短通知；赵奢前为燕上谷守只是另一节目推测，不在这里当确认履历。[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] [[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]]
 
-[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] shows Zhao He surviving the crisis but not rescuing Zhao Wuling Wang. Zhao Zhang's forged summons kills Fei Yi before it reaches Zhao He; [[GaoXinWarringStates|高信]] and Zhao He resist, while messengers bring Zhao Cheng and Li Dui from Handan. The host reads Zhao He's silence during the later three-month palace blockade as meaningful, because the court has already become Zhao He's court and no one acts for the former ruler.
+- [[ShaqiuCrisis]]中的[[TianBuli]]与[[ResponsibilityAvoidantKilling]]均涉及主父和臣属行动；从[[AutocraticSuccession]]读传位留权，不能只归幼王。[[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-1-lvl1uxjadiedqwad-skxrwf-usnq]] [[zizhi-tongjian-zhouji-66-zhongguo-lishishang-naxie-diwang-shi-bei-huohuo-e-si-de-2-ltsw2eilkegs5yjtrp6gkhrmsxsg]] 乐毅《[[BaoYanHuiwangShu]]》及[[LoyalMinisterExitEthic]]解释其拒伐燕，赵奢则关联[[EliteFiscalLawCompliance]]和[[TaxEnforcementCapacity]]。[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]]
+- 阏与的[[TwoRatsCourageMaxim]]、[[BattlefieldInformationControl]]和[[HighGroundTimingAdvantage]]属于赵奢的战法；渑池后[[JiangXiangHeInternalUnity]]由将相维护。[[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] [[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]] 赵何拒攻齐面对[[QinEastwardPressure]]，秦后来攻[[WeiState]]与[[PostCoalitionSpoilsImbalance]]是相邻形势；死后的魏齐事关[[AristocraticPoliticalAsylum]]。[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] [[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]]
 
-[[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u]] adds a compact interstate notice for Zhao He under his ruler title, 赵惠文王. He meets [[QinZhaoxiangwang|秦昭襄王]] at Rangcheng in the same episode that reads Qin's later attack on [[WeiState|魏国]] as a post-Qi-coalition balancing move.
+## What Changed
+- 将王位结构与沙丘行为分层，避免以“十岁国君”承担全部集团行动。
+- 并置秦赵外交、税收任官与乐毅庇护，呈现跨阶段治国特点。
 
-[[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk]] gives Zhao He a fuller decision problem as Zhao Huiwen Wang. After taking [[HeShiBi|和氏璧]] from [[MiuXian|缪贤]], he faces [[QinZhaoxiangwang|秦昭襄王]]'s offer of fifteen cities for the jade and must choose between provoking Qin by refusal and being cheated by acceptance. [[LinXiangru|蔺相如]]'s answer lets Zhao accept while shifting the burden of performance to Qin, making Zhao He the ruler who authorizes [[WanbiGuizhaoDiplomacy|完璧归赵式外交]].
-
-[[zizhi-tongjian-zhouji-76-shui-geile-chuqingxiangwang-de-zixin-lsut4cfic7xbbrmbmimrruf7n6y0]] continues Zhao He as Zhao Huiwen Wang under direct Qin pressure. He refuses Qin's proposal for a joint attack on [[QiState|齐国]], after which Qin attacks [[ZhaoState|赵国]], takes cities, and the next year captures [[ShichengWarringStates|石城]]. The episode then previews Qin's invitation for Zhao He to meet at [[Mianchi|渑池]], making his next choice a possible repeat of the meeting-trap anxiety created by [[ChuHuaiwang|楚怀王]]'s fate.
-
-[[zizhi-tongjian-zhouji-77-lianpo-yu-linxiangru-shishang-zui-zhuming-de-yidui-hao-jiyou-lmelnhhtfuzezvmmsuw4yf10plsb]] shows Zhao He accepting that risk. [[LianPo|廉颇]] and [[LinXiangru|蔺相如]] advise him to attend [[Mianchi|渑池]] so Zhao does not appear afraid of [[QinState|秦国]], and Lian Po proposes installing the crown prince if the ruler does not return within thirty days. Zhao He is humiliated when [[QinZhaoxiangwang|秦昭襄王]] makes him play the se, but Lin forces Qin into a parity gesture, Zhao returns safely, and Zhao He promotes Lin above Lian Po.
-
-The promotion makes Zhao He the ruler whose reward decision sparks the "将相和" conflict. The source's point is not that he personally resolves the quarrel; it is that his state needs both Lin's diplomacy and Lian Po's military force after Mianchi.
-
-[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] mentions Zhao He only as [[ZhaoState|赵国]]'s ruler after [[LeYi|乐毅]] flees there. The episode says Zhao Huiwen Wang honors Le Yi, which makes [[YanHuiwang|燕惠王]] worry that Zhao might use the displaced Yan commander against [[YanState|燕国]].
-
-[[zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0]] adds that Zhao He had real strategic reason to use Le Yi against Yan, but Le Yi refuses to take that line. Zhao He still gives Le Yi Guanjin and the title Wangzhu Jun, making Zhao the host state where Le Yi can survive, retain honor, and avoid converting exile into revenge.
-
-[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] adds Zhao He as the ruler who accepts [[Pingyuanjun|平原君]]'s recommendation of [[ZhaoShe|赵奢]]. After Zhao She enforces tax law against Pingyuanjun's household and argues that elite compliance protects Zhao, Zhao He appoints him to manage national taxation. The episode therefore gives Zhao He's reign an internal fiscal-strengthening branch beside the better-known diplomatic and military episodes around [[LinXiangru|蔺相如]] and [[LianPo|廉颇]].
-
-[[zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h]] immediately turns that appointment into a broader personnel test. After [[QinState|秦国]] attacks [[EyuBattle|阏与 / 燕宇之战]] and [[LianPo|廉颇]] judges rescue impractical, Zhao He accepts Zhao She's contrary confidence and sends him. The resulting victory makes Zhao He's earlier promotion of Zhao She consequential beyond tax administration.
-
-[[zizhi-tongjian-zhouji-90-jiemi-xianqin-zui-wanmei-de-fuchou-liu7gbl-bffknkw6dx5udqcq4tcm]] gives Zhao He's endpoint in this branch. The episode says he dies in the same larger sequence that sends [[WeiQiWarringStates|魏齐]] fleeing to [[Pingyuanjun|平原君]], after which [[ZhaoDan|赵丹 / 赵孝成王]] succeeds. Zhao He's death turns Pingyuanjun's household refuge from a private hosting act into a new-reign risk for Zhao.
-
-## Connections
-- [[ZhaoWulingwang|赵武灵王]] and [[WuWa|吴娃]] - parents in the source's setup.
-- [[ZhaoZhang|赵章]] - elder son whose position is put at risk.
-- [[ZhaoState|赵国]] - polity whose succession will be affected.
-- [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] and [[AutocraticSuccession]] - governing concepts for the source's foreshadowing.
-- [[FeiYi|肥义]] - chancellor appointed when Zhao He becomes ruler in Zhouji 61.
-- [[LiDui|李兑]], [[TianBuli|田不李]], [[GaoXinWarringStates|高信]], [[ShaqiuCrisis|沙丘之变]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[PartialAbdicationPowerSplit|退位留权式权力分裂]] - Zhouji 66 warning, rival faction, Shaqiu coup, and starvation aftermath.
-- [[QinZhaoxiangwang|秦昭襄王]], [[WeiState|魏国]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 73 Rangcheng meeting and post-Qi-coalition balance context.
-- [[MiuXian|缪贤]], [[HeShiBi|和氏璧]], [[LinXiangru|蔺相如]], and [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - Zhouji 74 royal seizure, Qin exchange dilemma, and diplomatic resolution.
-- [[QiState|齐国]], [[ShichengWarringStates|石城]], [[Mianchi|渑池]], [[QinEastwardPressure|秦国东进压力]], and [[PostCoalitionSpoilsImbalance|联军战后利益失衡]] - Zhouji 76 refusal to attack Qi, Qin punishment, and the next meeting setup.
-- [[LianPo|廉颇]], [[Mianchi|渑池]], and [[JiangXiangHeInternalUnity|将相和式内部团结]] - Zhouji 77 attendance risk, Lin's promotion, and the internal partnership Zhao needs afterward.
-- [[LeYi|乐毅]], [[YanHuiwang|燕惠王]], and [[YanState|燕国]] - Zhouji 79 host-state role after Le Yi's exile.
-- [[BaoYanHuiwangShu|《报燕惠王书》]] and [[LoyalMinisterExitEthic|忠臣去国的退场伦理]] - Zhouji 80 Le Yi's refusal to use Zhao patronage as an anti-Yan weapon.
-- [[ZhaoShe|赵奢]], [[Pingyuanjun|平原君]], [[EliteFiscalLawCompliance|贵族税法同遵]], and [[TaxEnforcementCapacity]] - Zhouji 86 recommendation and national-tax appointment branch.
-- [[EyuBattle|阏与 / 燕宇之战]], [[TwoRatsCourageMaxim|两鼠斗穴勇者胜]], [[BattlefieldInformationControl|战场信息控制]], and [[HighGroundTimingAdvantage|制高点时机优势]] - Zhouji 87 Zhao decision, rescue logic, deception, and tactical payoff.
-- [[ZhaoDan|赵丹 / 赵孝成王]], [[WeiQiWarringStates|魏齐]], and [[AristocraticPoliticalAsylum|贵族政治避难]] - Zhouji 90 succession endpoint and refuge risk.
+## Relationships
+- [[ZhaoWulingwang]] - 禅位后仍保主父权力的父亲。
+- [[WuWa]] - 赵何之母，其受宠开启继承张力。
+- [[ZhaoZhang]] - 失去王位的兄长，沙丘时假令夺权。
+- [[AffectionDrivenSuccessionRisk]] - 吴娃母子受宠与原有继承次序错位。
+- [[ZhaoState]] - 赵何的正式王位使群臣权力重心转移。
+- [[FeiYi]] - 受主父托孤、先赴假召令遇害的丞相。
+- [[LiDui]] - 沙丘协助平乱、后围主父之臣。
+- [[PartialAbdicationPowerSplit]] - 主父权力与正式王权分裂的结构。
+- [[GaoXinWarringStates]] - 沙丘助赵何抵抗赵章。
+- [[ZhaoChengWarringStates]] - 沙丘援军且避免要求幼王处置父兄。
+- [[QinZhaoxiangwang]] - 和氏璧及渑池会盟的秦王。
+- [[QinState]] - 赵何权衡拒攻齐、赴渑池与玉璧交换的对手国。
+- [[MiuXian]] - 和氏璧进入赵王宫的前持有者。
+- [[HeShiBi]] - 以十五城索取而触发外交试探的玉璧。
+- [[LinXiangru]] - 奉使完璧归赵、渑池争礼者。
+- [[WanbiGuizhaoDiplomacy]] - 蔺相如争取交换互惠责任的策略。
+- [[QiState]] - 赵何拒与秦联攻的对象。
+- [[ShichengWarringStates]] - 秦向赵施压时所取城池。
+- [[Mianchi]] - 惠文王赴会受辱又获礼节对等的地点。
+- [[ChuHuaiwang]] - 前次会盟被扣旧例增加赵何赴会风险。
+- [[LianPo]] - 渑池防护建议及后来的将相名位对立者。
+- [[LeYi]] - 逃燕获赵庇护但拒伐故国的名将。
+- [[YanHuiwang]] - 替换乐毅后担忧其在赵复仇的燕王。
+- [[YanState]] - 乐毅拒替赵对其故国用兵。
+- [[Pingyuanjun]] - 推荐赵奢并在赵丹继位后卷入魏齐庇护事件。
+- [[ZhaoShe]] - 从执行税法至阏与取胜的被任用者。
+- [[EyuBattle]] - 赵何采赵奢不同于廉颇的请战判断而胜。
+- [[WeiQiWarringStates]] - 赵何死后其投平原君使继任朝廷受秦施压。
+- [[ZhaoDan]] - 继赵何为王的儿子。
