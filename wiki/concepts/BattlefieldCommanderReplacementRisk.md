@@ -2,63 +2,54 @@
 title: "Battlefield Commander Replacement Risk / 阵前换将风险"
 type: concept
 tags: [military-command, strategy, governance, succession, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o, zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob, zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns, zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o
+  - zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3
+  - zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd
+  - zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob
+  - zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6
+  - zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns
+  - zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz
+  - zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p
+  - zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug
 last_updated: 2026-08-25
 ---
 
-# Battlefield Commander Replacement Risk / 阵前换将风险
+## Definition
+阵前换将风险是战役进行中撤换统帅时，情报误导、士兵信任、既有部署和占领政策可能随人事命令发生断裂的风险；换将并非必然失败。
 
-Battlefield commander replacement risk / 阵前换将风险 is the failure mode [[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] attaches to [[YanHuiwang|燕惠王]] replacing [[LeYi|乐毅]] with [[QiJie|骑劫]] during the final stage of [[YanState|燕国]]'s war in [[QiState|齐国]]. The episode explicitly treats replacement at the front as a military taboo, especially when the removed commander has high prestige and a long-running occupation strategy.
-
-The risk is not only tactical discontinuity. Le Yi's removal tells Yan soldiers that prior merit and trust no longer protect the campaign, so morale and cohesion weaken. It also tells the remaining Qi defenders that Yan's command unity has cracked.
-
-The concept is adjacent to [[PatronSuccessionExposure|patron succession exposure]] but not identical. Patron succession exposure explains why the old commander becomes politically vulnerable after Yan Zhaowang dies; battlefield replacement risk explains why acting on that vulnerability damages the army.
-
-[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] adds the late-Han trigger for the Lu Zhi-Dong Zhuo replacement branch. [[LuZhiLateHan|卢植]] is close to victory against [[ZhangJiaoLateHan|张角]], but [[ZuoFengLateHan|左丰]]'s inspection report convinces [[EmperorLingOfHan|汉灵帝]] to recall Lu Zhi and appoint [[DongZhuo|董卓]] instead. The replacement risk begins before Dong Zhuo fights: court anxiety and [[InspectionGiftGatekeeping|巡查送礼关口]] remove the commander who built the siege position.
-
-[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] continues the late-Han negative version through Dong Zhuo's performance after replacing Lu Zhi. The host argues that Dong Zhuo cannot work smoothly with Lu Zhi's existing subordinates and that soldiers are unwilling to exert themselves for him, turning a court-ordered replacement into battlefield underperformance.
-
-[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds a late-Han positive restraint case. When the court considers recalling [[ZhuJunLateHan|朱儁]] during the Nanyang [[YellowTurbansLateHan|Yellow Turban]] campaign, [[ZhangWenLateHan|张温]] argues that changing commanders at the front is dangerous and cites [[BaiQi|白起]] and [[LeYi|乐毅]] as precedents for long campaigns that only turn after sustained pressure.
-
-[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds the downstream failure. [[QiJie|骑劫]] does not merely lack Le Yi's prestige; he reverses the occupation policy, follows planted rumor bait, and lets [[TianDan|田单]] convert Yan cruelty into Qi morale. The replacement ends with Qi Jie killed in the [[FireOxNightRaid|fire-ox night raid]] and the Yan occupation collapsing.
-
-[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]] adds the classic Zhao-side Changping case. [[ZhaoDan|赵丹 / 赵孝成王]] replaces [[LianPo|廉颇]] with [[ZhaoKuo|赵括]] after [[FanJu|范雎]]'s rumor operation makes the untested Zhao Kuo look like the commander Qin supposedly fears. The risk here is sharper because Lian Po's defensive posture may be strategically rational under losses, while Zhao Kuo's visible strength is mostly theoretical fluency.
-
-The same source adds a contrast case: [[QinState|秦国]] also changes commanders, but secretly installs [[BaiQi|白起]] above [[WangHe|王龁]] and threatens death for disclosure. This does not erase replacement risk; it shows that the information conditions around a replacement can matter as much as the replacement itself.
-
-[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]] adds the operational consequence of Zhao's replacement. Zhao Kuo changes the army's disposition and attacks across the Dan River, abandoning Lian Po's defensive attrition posture. Because the replacement is visible to Qin and hidden Bai Qi can prepare for his offensive style, Zhao's command change becomes the opening for [[BattlefieldEncirclementLogistics|战场围困与断粮]].
-
-[[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]] gives Lian Po a second replacement case. After [[ZhaoDaoxiangwang|赵道襄王]] succeeds, he sends [[LeCheng|乐乘]] to replace Lian Po, who attacks the replacement and flees Zhao. The resulting damage is political as much as tactical: Zhao loses continuity with the commander who had just proved Zhao was not an easy post-Changping target.
-
-[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] gives the concept its late-Zhao endpoint. During Qin's 229 BCE invasion, [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] removes [[LiMu|李牧]] and [[SimaShang|司马尚]] after [[GuoKai|郭开]]'s bribed rebellion accusation, then appoints [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]]. The episode stresses that even if the replacements were not assessed in detail, the act of changing commanders under Qin pressure is itself enough to shake military confidence.
+## Current Synthesis
+《资治通鉴》同一播客系列给出燕齐、长平、赵秦和东汉黄巾战场的对照：敌方流言或宫廷检查促成撤换，但结果还取决于新将能力、战法、补给、盟国支援与敌方行动。秦秘密换上白起是显著反例；张温保留朱儁则只是当时的劝谏和选择，不能独归后来战果。
 
 ## Key Claims
-- Hanji 928 adds that replacement risk can be triggered by a palace inspection report even when the incumbent commander is close to success.
-- Hanji 929 adds that a replacement command can fail when the incoming general cannot inherit the removed commander's troop relationships and staff trust.
-- Hanji 930 adds that resisting replacement can preserve campaign continuity long enough for a slow siege plan to work.
-- Removing a commander mid-campaign can break continuity of strategy, discipline, and trust.
-- The risk is sharper when troops already identify the campaign with the removed commander.
-- A ruler may solve a court anxiety while creating a front-line vulnerability.
-- Enemy information operations can seek replacement as the real objective rather than immediate battlefield victory.
-- Replacement risk includes policy discontinuity: a weaker successor can undo the social conditions that the former commander needed for occupation control.
-- Changping adds that replacement can be especially dangerous when the incumbent's caution is treated as cowardice and the successor's untested reputation is amplified by the enemy.
-- Secrecy changes the risk profile: Qin's hidden replacement of Wang He with Bai Qi contrasts with Zhao's public and rumor-driven replacement of Lian Po.
-- Zhouji 94 part 2 shows the battlefield payoff of the risk: replacement alters doctrine, exposes predictable aggression, and lets the opponent build the trap around it.
-- Qinji 104 shows replacement can also trigger a commander break with the state, leaving later recall vulnerable to court intrigue.
-- Qinji 113 shows replacement risk becoming fatal when enemy bribery, treason accusation, disaster stress, and active invasion all converge.
+- 新君不信任旧将或宫廷信息中介可能触发撤换，即使原将仍在推进战役。
+- 新将不一定继承旧部信任或占领区治理策略；对手可利用这种中断动员被占领者。
+- 敌方谣言放大本方对谨慎老将的不满，使未经战场检验的替代者更易上位并改变战法。
+- 换将的保密、时机和新将能力决定风险：秦秘密用白起替王龁，与赵公开撤廉颇形成反差。
+- 战役未结束时拒绝撤换可能保留连续性，但劝谏和后续胜利不能证明单因果。
 
-## Connections
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], [[DongZhuo|董卓]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - inspection-triggered command replacement before the battlefield failure.
-- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[DongZhuo|董卓]], [[LuZhiLateHan|卢植]], [[ZhangJiaoLateHan|张角]], and [[YellowTurbansLateHan|黄巾军]] - late-Han replacement failure after command handoff.
-- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[ZhangWenLateHan|张温]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], [[BaiQi|白起]], and [[LeYi|乐毅]] - late-Han argument against recalling a commander mid-campaign.
-- [[LeYi|乐毅]], [[QiJie|骑劫]], and [[YanState|燕国]] - removed commander, replacement general, and army.
-- [[YanHuiwang|燕惠王]] - ruler whose decision triggers the risk.
-- [[TianDan|田单]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - adversary and tactic that provoke the replacement.
-- [[OccupationPacificationStrategy|占领区怀柔治理]] - interrupted strategy.
-- [[AtrocityBackfireMobilization|暴行反噬式动员]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[FireOxNightRaid|火牛阵夜袭]] - Zhouji 79 consequences under the replacement commander.
-- [[PatronSuccessionExposure|靠山更替暴露风险]] and [[RumorErosionOfTrust|谣言侵蚀信任]] - related political and information-risk concepts.
-- [[LianPo|廉颇]], [[ZhaoKuo|赵括]], [[ZhaoDan|赵丹 / 赵孝成王]], [[FanJu|范雎]], [[BaiQi|白起]], and [[WangHe|王龁]] - Zhouji 94 paired Zhao/Qin replacement contrast.
-- [[PaperWarCommandTrap|纸上谈兵式统帅陷阱]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - Changping-specific competence and information mechanisms.
-- [[BattlefieldEncirclementLogistics|战场围困与断粮]] - battlefield mechanism that exploits the replacement in Zhouji 94 part 2.
-- [[ZhaoDaoxiangwang|赵道襄王]], [[LeCheng|乐乘]], [[GuoKai|郭开]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 104 replacement, exile, and failed recall of Lian Po.
-- [[LiMu|李牧]], [[SimaShang|司马尚]], [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]], [[ZhaoCong|赵葱]], [[YanJuZhao|颜聚]], and [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob|Qinji 113]] - final Zhao-front replacement and collapse branch.
+## Evidence
+- 新君与占领治理：[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]]说[[YanHuiwang|燕惠王]]继位于[[YanState|燕国]]后本有对[[LeYi|乐毅]]疑心，[[TianDan|田单]]再以流言促使其换[[QiJie|骑劫]]；乐毅此前避免强攻莒、即墨而安抚[[QiState|齐地]]。[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]]记骑劫按田单诱饵割鼻俘虏、掘祖坟，激发即墨防军，再遇诈降、贿赂与[[FireOxNightRaid|火牛夜袭]]而败；并非仅凭换将即可解释齐国反攻。
+- 人事信任断裂：[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]]记184年[[LuZhiLateHan|卢植]]围[[ZhangJiaoLateHan|张角]]于广宗，拒给巡察者[[ZuoFengLateHan|左丰]]礼物后遭不利报告，[[EmperorLingOfHan|汉灵帝]]召回并派[[DongZhuo|董卓]]；[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3]]解释董卓未能顺畅调动卢植旧部而攻张角失败。[[zizhi-tongjian-qinji-104-yinmou-shisuan-rang-qinguo-bantu-you-you-you-pengzhang-le-lgnyhbduqutegtksrjwcvhmn8-t6]]另记[[ZhaoDaoxiangwang|赵悼襄王]]用[[LeCheng|乐乘]]代[[LianPo|廉颇]]，廉颇拒命攻乐乘、出走魏，日后[[GuoKai|郭开]]贿使阻其返赵。
+- 长平的情报楔入：[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz]]叙述[[FanJu|范雎]]流言使[[ZhaoDan|赵孝成王]]以[[ZhaoKuo|赵括]]代守势的廉颇，[[LinXiangru|蔺相如]]、赵奢和赵括母亲质疑其临阵判断；[[QinState|秦]]却保密将[[BaiQi|白起]]置于[[WangHe|王龁]]之上。[[zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns]]记赵括换布阵、渡丹水进攻，白起佯退后以二万五千人侧后绕击、五千骑切分赵军并筑垒断粮，秦王还动员阻援；赵军久困也受齐不借粮影响，不宜只归因于换将。
+- 末期赵战线：[[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]]记229 BCE秦在[[QinEastwardPressure|东进压力]]下进攻灾荒中的赵，郭开受贿诬[[LiMu|李牧]]和[[SimaShang|司马尚]]叛乱，赵王任[[ZhaoCong|赵葱]]、[[YanJuZhao|颜聚]]代之，任命者为[[ZhaoYoumiuWang|赵幽缪王]]；司马尚交军，李牧抗命遭处置，风险来自敌方情报与内部猜疑叠加战事，而非两位新将的已知能力评分。
+- 劝阻撤换：[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]]记[[YellowTurbansLateHan|黄巾军]]南阳战场[[ZhangWenLateHan|张温]]援引白起、乐毅久战之例劝勿召回[[ZhuJunLateHan|朱儁]]；朱儁后来变换围攻与开缺口策略对付赵弘、韩忠、孙夏，并重用[[SunJianLateHan|孙坚]]，战果仍不能隔离其他战术因素来证明劝谏单独奏效。
+
+## Counterevidence & Qualifications
+九篇皆属同一历史播客系列，兵额和人物动机属于节目叙述。秦方秘密换白起确实成功，不能写“换将必败”。燕军败于田单多阶段欺敌、占领暴行与夜袭；长平还受断粮、齐不援和外交局势影响；朱儁获留任与胜利的因果无法单独检验。
+
+## What Changed
+- 将战场风险按情报中介、部队继承、战法变化及保密条件归纳。
+- 以秦方换白起和张温劝谏限制“阵前换将必败”的说法。
+
+## Related Concepts
+- [[PatronSuccessionExposure]] - 燕昭王去世使乐毅失去原本的君臣信任。
+- [[CounterintelligenceRumorWedge]] - 田单与范雎的流言直接影响对统帅的任用判断。
+- [[InspectionGiftGatekeeping]] - 左丰的巡营报告绕过卢植前线表现触发召回。
+- [[OccupationPacificationStrategy]] - 乐毅的怀柔治理在骑劫上任后中断。
+- [[AtrocityBackfireMobilization]] - 骑劫对俘虏和祖坟的暴行帮助田单鼓动齐军。
+- [[DeceptiveSurrenderLull]] - 田单假降与行贿使骑劫误判即墨的突袭准备。
+- [[PaperWarCommandTrap]] - 赵括的纸面声望难以取代廉颇对战况的判断。
+- [[BattlefieldEncirclementLogistics]] - 长平赵军改攻后被白起截粮合围，非仅人事结果。
+- [[RumorErosionOfTrust]] - 李牧案显示朝廷对统帅的信任可被受贿传言瓦解。
