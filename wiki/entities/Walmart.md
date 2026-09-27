@@ -2,37 +2,56 @@
 title: "Walmart"
 type: entity
 tags: [company, retail, commerce]
-sources: [meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109, tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128, board-games-3-whats-in-a-name, costco-1, who-decides-what-big-box-sells-our-game-got-us-answers]
+sources:
+  - meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109
+  - tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128
+  - tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128
+  - tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128
+  - tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128
+  - board-games-3-whats-in-a-name
+  - costco-1
+  - who-decides-what-big-box-sells-our-game-got-us-answers
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
-# Walmart
+## Overview
+Walmart appears as a retailer adapting neighborhood stores, online prices, fulfillment, AI-mediated shopping and EV charging. Two Planet Money board-game episodes and a Costco history give more limited channel and comparison roles; they do not prove Walmart personally approved an unnamed retailer pitch.
 
-[[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] adds Walmart's China community-store expansion. The source says Walmart opened its 20th community store in Shenzhen Futian, with stores of roughly 500-1000 square meters focused on fewer high-frequency daily goods. The episode treats the format as a route to more frequent neighborhood demand, but also as a test of localized supply-chain and small-store operations.
+## Current Profile
+The eight registered notes range from a reported Shenzhen community-format expansion to U.S. digital-commerce examples. They do not establish one unified global strategy or generalized personalized-pricing practice. Walmart's operational moves and its appearance as a comparison in other firms' accounts are distinguished below.
 
-[[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] adds Walmart as the concrete retail example in a [[SurveillancePricing]] discussion. [[KristinSchwab]] compares a signed-in and anonymous Walmart.com session for the same Colgate toothpaste and shipping address and sees different prices, while Walmart says price differences can reflect market variation and real-time price matching or repricing. The source makes Walmart a case of retail price opacity, not proven individualized pricing.
+## Key Characteristics
+- Experiments with smaller, high-frequency community stores in China while retaining big-box distribution elsewhere.
+- Competes in everyday-goods delivery and online shopping where prices and recommendations may be opaque.
+- Is named in proposed AI-shopping data partnerships and U.S. EV fast-charging expansion, both source-dated.
+- Functions as a major retail shelf/channel reference and as an organizational comparison for warehouse clubs.
 
-[[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] adds Walmart as the direct retail comparison for [[Amazon]]'s ultra-fast delivery push. [[AnitaRamaswamy]] says Amazon's use of supercenter-like language makes Walmart competition a major part of the move, because everyday goods, local availability, fast fulfillment, and customer habit are all at stake.
+## Evidence
+- **Neighborhood retail versus fulfillment competition:** An August 2026 report says Walmart opened its 20th Shenzhen community store in Futian: 500–1,000-square-metre outlets with fewer, high-frequency items depend on [[RetailSiteSelection]], localized replenishment and [[EcommerceFulfillmentComplexity]], not store count alone. [[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]] In a distinct U.S. contest, [[AnitaRamaswamy]] reads [[Amazon]]'s one-hour service in hundreds of cities and three-hour service in more than 2,000 as a push into Walmart's everyday-goods habit; Amazon's roughly $20 non-Prime one-hour fee and Tylenol/toilet-paper examples illustrate [[UltraFastDeliveryEconomics]], not Walmart's terms. [[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] [[Yihaodian]] is a separate former Chinese ownership connection, not part of either rollout.
+- **Opaque prices and possible AI-shopping data:** [[KristinSchwab]] observed the same Colgate toothpaste at $3.74 anonymously versus $3.96 signed in with the same shipping address; Walmart attributed variation to markets, matching and real-time repricing. [[JosephTurow]] and [[GarrettJohnson]] use such cases to discuss [[SurveillancePricing]], but this one test cannot identify individualized pricing or prevalence. [[tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128]] Johnson separately speculates that [[OpenAI]] partnerships with Walmart and [[Shopify]] may supply conversion signals for [[AISearchAdvertising]], [[AgenticCommerce]] and [[AIConsumerDecisionShaping]]; that is a proposed mechanism, not measured ad performance. [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]]
+- **Physical infrastructure and retail shelf:** A 2025 report identifies Walmart and convenience stores expanding [[EVChargingInfrastructure]] after the [[EVTaxCreditCliff]], without proving charging profitability. [[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] For [[SellMeASasquatch]], designers invoked Walmart and [[Target]] shoppers' “three feet and three seconds” glance to test [[RetailShelfAppeal]]. [[board-games-3-whats-in-a-name]] A later report names both as availability channels after [[ExplodingKittens]] secured big-box distribution; it describes two *unnamed* retailers taking roughly 100,000 initial units at $19.99, so [[RetailLineReview]] and [[PlanogramGatekeeping]] must not be attributed to a confirmed Walmart buyer. [[who-decides-what-big-box-sells-our-game-got-us-answers]]
+- **Warehouse-club comparison:** The [[Costco]] history says [[SamWalton]] studied [[PriceClub]] before [[SamsClub]] and compares club wages, inventory turns and sales per square foot under [[WarehouseClubModel]] and [[EmployeeRetentionEconomics]]. Those are distinctions between Costco and a Walmart-related format, not direct measurements of every Walmart employee or store. [[costco-1]]
 
-Walmart appears in [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] as a commerce partner example in the discussion of [[AISearchAdvertising]]. [[GarrettJohnson]] suggests that partnerships such as [[OpenAI]] with Walmart and [[Shopify]] may matter because they can provide shopping and conversion data that helps AI platforms learn what users want and what advertisers can offer.
+## Qualifications
+One webpage comparison cannot identify the algorithm behind a price difference. Amazon's delivery plans are a rival's actions, and AI ad conversion is Garrett Johnson's forward-looking analysis. Planet Money did not name the line-review buyer; only later retail availability was identified. The China small-store count and charging rollout reflect the reporting dates rather than current audited store or charging-station totals. Sam's Club is a related business, not the entirety of Walmart.
 
-The page also connects to the existing [[Yihaodian]] branch, where Walmart appears as a former owner in a Chinese online-supermarket history. The Marketplace Tech source adds a different role: Walmart as a possible data and retail partner for AI-mediated shopping and sponsored recommendation systems.
+[[EcommerceFulfillmentComplexity]] describes the localized replenishment burden behind small stores and rival delivery. [[AIConsumerDecisionShaping]] is a possible effect of recommendations, not a proven Walmart shopping outcome. [[meizhuang-jutou-jiti-dingshang-toufa-xihu-shengyi-weihe-you-re-qilai-1005860109]]
 
-[[board-games-3-whats-in-a-name]] adds Walmart as part of the big-box board-game retail frame. The source uses [[Walmart]] and [[Target]] to make [[RetailShelfAppeal]] concrete: [[SellMeASasquatch]] has to be understandable and attractive under fast shopper scanning, not only fun after a full rules explanation.
+[[ExplodingKittens]] developed the game and the source treats scarce shelf space as [[PlanogramGatekeeping]]; the undisclosed retailer buyer is not thereby identified as Walmart. The [[Costco]] episode's [[EmployeeRetentionEconomics]] concerns that chain's operating logic, not a measured Walmart personnel outcome. [[costco-1]]
 
-[[who-decides-what-big-box-sells-our-game-got-us-answers]] adds Walmart as one of the named stores where [[SellMeASasquatch]] is available after [[ExplodingKittens]] secures major big-box acceptance and completes production. As with [[Target]], the source withholds the identity of the retailer in the original pitch meeting, so Walmart's page records availability and channel context rather than treating Walmart as the confirmed line-review buyer.
+## What Changed
+- Separated Walmart's reported actions from comparisons, proposed partnerships and an unnamed buyer in another company's story.
+- Organized physical retail, online commerce and infrastructure as distinct activities.
 
-[[costco-1]] adds Walmart through [[SamWalton]] and [[SamsClub|Sam's Club]]. Walton is described as studying [[PriceClub]] before launching Sam's Club, while Costco is contrasted with Walmart on wages, inventory turns, revenue per square foot, and the different operating logic behind warehouse-club membership.
-
-[[tech-20251231-1231-mp-tech-pod-128-tech-20251231-1231-mp-tech-pod-128]] adds Walmart as a private fast-charging expansion example. In the source, Walmart and convenience store chains are part of the [[EVChargingInfrastructure]] buildout that could support U.S. EV adoption after the [[EVTaxCreditCliff]].
-
-## Connections
-- [[SurveillancePricing]], [[KristinSchwab]], [[JosephTurow]], and [[GarrettJohnson]] - price-opacity branch added by the January 2026 Marketplace Tech episode.
-- [[Amazon]], [[UltraFastDeliveryEconomics]], [[InstantRetail]], and [[AIConsumerDecisionShaping]] - ultra-fast delivery and everyday-goods competition added by the March 2026 Marketplace Tech Bytes episode.
-- [[OpenAI]] and [[Shopify]] - commerce integration context in the episode.
-- [[AISearchAdvertising]] and [[AgenticCommerce]] - ad-placement and shopping-workflow concepts sharpened by the source.
-- [[Yihaodian]] - earlier wiki branch where Walmart appears through China ecommerce history.
-- [[SellMeASasquatch]], [[ExplodingKittens]], [[RetailShelfAppeal]], [[RetailLineReview]], and [[PlanogramGatekeeping]] - board-game retail branch added by Planet Money.
-- [[SamWalton]], [[SamsClub|Sam's Club]], [[PriceClub]], [[Costco]], [[WarehouseClubModel]], and [[EmployeeRetentionEconomics]] - warehouse-club comparison added by Acquired.
-- [[EVChargingInfrastructure]] and [[EVTaxCreditCliff]] - charging-network context added by the December 2025 Marketplace Tech episode.
-- [[RetailSiteSelection]], [[InstantRetail]], and [[EcommerceFulfillmentComplexity]] - community-store and high-frequency local-demand branch added by the 声动早咖啡 source.
+## Relationships
+- [[InstantRetail]] - high-frequency local demand and delivery competition.
+- [[SurveillancePricing]] - unresolved hypothesis in the signed-in/anonymous price test.
+- [[Amazon]] - competitor in U.S. everyday-goods delivery.
+- [[OpenAI]] - named possible AI-shopping data partner in Johnson's discussion.
+- [[EVChargingInfrastructure]] - U.S. private fast-charging expansion context.
+- [[SellMeASasquatch]] - game reported as available at Walmart.
+- [[RetailShelfAppeal]] - design challenge for mass-retail board-game sales.
+- [[SamsClub]] - Walmart-associated warehouse-club counterpart.
+- [[Costco]] - operating-model comparison, not an identical chain.
+- [[Yihaodian]] - earlier China e-commerce ownership history.
