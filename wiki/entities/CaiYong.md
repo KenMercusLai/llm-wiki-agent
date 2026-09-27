@@ -2,62 +2,67 @@
 title: "蔡邕 / Cai Yong"
 type: entity
 tags: [person, late-han, scholar, historian, literature]
-sources: [zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx, zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu, zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2, zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj, zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj, zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a, zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1, zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk, zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]
+sources:
+  - zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx
+  - zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu
+  - zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2
+  - zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj
+  - zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj
+  - zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a
+  - zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g
+  - zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg
+  - zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1
+  - zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk
+  - zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf
+  - zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk
+  - zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 蔡邕 / Cai Yong
 
-[[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]] adds Cai Yong's 172 CE ritual-observation layer before the later textual, appointment, and remonstrance branches. After [[EmperorLingOfHan|汉灵帝]] visits [[LiuXiu|光武帝]]'s Yuanling, Cai Yong says the solemn tomb sacrifice lets him understand why [[EmperorMingOfHan|汉明帝]]'s apparently cumbersome practice should not be simplified. The source therefore gives Cai Yong an early voice for [[LiAsPoliticalOrder|礼制政治秩序]] and [[RitualAffectiveOrder|仪式感秩序生成]] before his later memorials treat ritual neglect as a governance problem.
+## Overview
+蔡邕是东汉后期的学者与谏官；这些节目既讨论他对经典文字、礼制和任官的意见，也追踪密奏外泄后的放逐、董卓威胁下的征召及董卓死后的处决。其与权臣的关系不能脱离胁迫背景。
 
-[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] backfills Cai Yong's 175 CE textual-standardization branch. [[EmperorLingOfHan|汉灵帝]] orders the Five Classics corrected, and Cai Yong writes the official text in three scripts before it is carved as the [[XipingStoneClassics|熹平石经]] outside [[Taixue|太学]]. This source therefore gives Cai Yong a cultural-institutional role before the later memorial branches: his scholarship becomes part of the court's attempt to stabilize Confucian textual authority amid late-Han disorder.
+## Current Profile
+他的经学权威兼具公共文本、仪式和政治反馈功能，却在朝廷泄密与诬陷中成为危险资本。后来的董卓需要他的声誉装点政权，而王允处死他的理由和潜在动机须分别对待：哀伤反应见于叙述，“担心史笔”则是主持人的解释。
 
-[[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] backfills Cai Yong's 175 CE institutional memorial before the party-prohibition and confidential-advice branches. He criticizes the overextended [[SanhuLawAppointmentConstraint|三互法任官限制]] for making [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] inspector posts hard to fill even when those provinces need capable leadership after war and famine. The source therefore extends Cai Yong's 175 CE profile from cultural authority into personnel governance: he asks that appointment use talent and virtue rather than rigid avoidance rules or seniority filters.
+## Key Characteristics
+- 以亲历陵祭和熹平石经把礼制与经籍文字视为政治秩序的载体。
+- 批评三互法与偏重文艺/伪孝的选官渠道，并就边防远征提出资源判断。
+- 177—178年的进谏、密奏外泄、诬告及放逐暴露忠言无法被保护的制度问题。
+- 董卓以全族威胁征召蔡邕，再借其名望、官职和谨慎进言为朝廷运转服务。
+- 董卓被杀后他遭王允下狱处死；求修汉史的请求与对处死动机的解释不可混为一谈。
+- 蔡文姬整理遗文的后续叙述让他的经学和史学角色不止于死亡事件。
 
-[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds Cai Yong's 177 CE confidential court-advice layer before the Xianbei expedition debate. Responding to [[EmperorLingOfHan|汉灵帝]]'s request for political criticism, Cai treats missed seasonal rites, ancestral sacrifice, and [[Taixue|太学]] ceremony as damage to [[LiAsPoliticalOrder|礼制政治秩序]]. He also warns that literary and artistic skills are "small ways" when they become appointment criteria, and that false Xuanling filial mourners near the crown prince create [[FilialMourningAccessCredential|守陵孝行进身凭证]] and access risk.
+## Evidence
+- **礼与经典：** [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx]] 记172年[[EmperorLingOfHan|汉灵帝]]至[[LiuXiu|光武帝]]原陵祭祀，蔡邕由亲历仪式理解[[EmperorMingOfHan|汉明帝]]孝意及“礼有烦而不可省者”；[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu]] 记175年校正五经、以三体书写并刻[[XipingStoneClassics|熹平石经]]于[[Taixue|太学]]外。学识、音乐、书法及“倒屣相迎”的王粲轶事亦来自[[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx]]的生平介绍。
+- **官制与边防：** [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2]] 记他认为[[SanhuLawAppointmentConstraint|三互法]]使受战乱饥馑的[[YouzhouLateHan|幽州]]、[[JizhouLateHan|冀州]]难得刺史，主张择才德而非僵硬回避/资序，未获采纳。[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj]] 记177年对郊庙与太学礼仪、书画辞赋成为授官门径、宣陵伪孝子近太子的批评；皇帝部分恢复礼仪并外调相关人员。[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj]] 记其反对远征[[Xianbei|鲜卑]]，权衡边境铁器与人员流入、内乱、[[TanshihuaiXianbei|檀石槐]]实力和长战成本；[[XiaYuLateHan|夏育]]、[[TianYanLateHan|田晏]]、[[ZangMinLateHan|臧旻]]三路战事失败。
+- **密奏与惩罚：** [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a]] 将178年灾异奏议、宫闱宦官及鸿都选官批评和请求保密，与[[CaoJieLateHan|曹节]]窥见皇帝反应、趁其离开偷看密奏并向被批评者泄漏的具体途径相连。[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g]] 记[[ChengHuangLateHan|程璜]]所推动诬告涉及蔡邕及其叔，蔡邕自辩失败，[[LyuQiangLateHan|吕强]]求情使死刑改为髡钳、流朔方；节目称流放亦使其避过追杀。[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg]] 记吕强于179年请求召还，指出泄密和惩罚使其他臣僚噤声。177年谏言与178年泄密不可压成同一奏章。
+- **董卓时期：** [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1]] 记先前放逐后再遭王智谗言，[[DongZhuo|董卓]]召见时以全族性命相威胁，并在蔡邕到[[LuoyangLateHan|洛阳]]后迅速升迁。[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]] 记蔡邕等劝阻董卓处死反对废[[LiuBianHongnongWang|刘辩]]的[[LuZhiLateHan|卢植]]，担忧名士被杀激起天下震动。[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]] 记他以“关东未平”推迟姜太公式尊号，属[[DefensiveSpeechUnderTyranny|胁迫下审慎言说]]。
+- **身后史笔：** [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk]] 记192年董卓被诛后蔡邕在[[WangYunLateHan|王允]]处露出悲伤/震惊，王允视为私恩压过汉室公义而下狱；蔡邕愿受残刑求完成汉史，[[MaRidiLateHan|马日磾]]等求情未果。节目以[[SimaQian|司马迁]]作比较，并转述[[CaiWenji|蔡文姬]]经[[CaoCao|曹操]]赎回后整理父亲遗文。[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]] 将王允的决定放在得势后控制史论的解释框架。
+- **文本余绪：** [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx]] 的蔡文姬与音乐书法、倒屣迎才轶事以及[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk]] 的遗文整理，是源笔记中的人物侧写；不能据此把每一传说都当作直接政治功绩。
 
-[[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] backfills Cai Yong before the confidential-memorial and exile sequence. In the 177 CE debate over attacking [[Xianbei|鲜卑]], Cai argues that [[EmperorLingOfHan|汉灵帝]] should not turn repeated raids into a deep expedition while national capacity, frontier control, internal order, and enemy strength all point against it. His warning becomes an early case of [[WarCostTempoDiscipline|战争成本与速决纪律]], [[XingshiqingStrategicAssessment|行势情战略评估]], and responsible remonstrance before later sources show the same court failing to protect him.
+## Qualifications
+- 节目是对史料的讲述，且笔记有“蔡庸”等转写异体；人物统一用蔡邕，未把转写直接当新人物。177年对制度与边防的谏议、178年灾异密奏/外泄、179年吕强请召还应分时看。
+- 诬告并非已证蔡邕有罪。董卓征召以家族威胁为前提，官位晋升不能推导出自愿拥戴。
+- 蔡邕闻董卓死讯的情感与王允对情感的指控是不同层次；“王允害怕蔡邕记录其与董卓的关系”是节目主持人的推测，非已核实的杀人动机。蔡文姬的后事也属节目转述。
 
-[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] supplies the confidential-memorial leak that later episodes recall. After palace omens, Cai Yong criticizes harem, eunuch, favored-person, Hongdu, and appointment disorder under [[EmperorLingOfHan|汉灵帝]], then asks the emperor to keep the memorial private. [[CaoJieLateHan|曹节]] reads the emperor's reaction, sees the memorial, and leaks it, turning Cai's loyal correction into [[ConfidentialRemonstranceLeakage|密奏泄露风险]].
+## What Changed
+- 将经学与礼制、任官和军事进谏、泄密惩罚、董卓时期以及史笔争议分开判断。
+- 保留密奏年代和董卓征召的胁迫边界，不把后人的动机解释升格为史实。
 
-[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds the 178 CE accusation and exile branch that Hanji 917 later recalls. [[ChengHuangLateHan|程璜]] instigates a slander case against Cai Yong and his uncle; Cai's self-defense fails, but [[LyuQiangLateHan|吕强]] intercedes and [[EmperorLingOfHan|汉灵帝]] commutes death to mutilating punishment and exile to Shuofang. The host reads the exile through [[FortuneMisfortuneReversal|塞翁失马式福祸反转]] because distance from court helps Cai escape later attempts to kill him.
-
-[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Cai Yong before the Dong Zhuo-era branches. [[LyuQiangLateHan|吕强]]'s memorial recalls how Cai answered [[EmperorLingOfHan|汉灵帝]] frankly, the confidential response leaked, hostile actors retaliated through accusation, and Cai's punishment and exile taught other ministers to keep silent.
-
-This earlier branch makes Cai Yong a feedback-system case before he becomes a coerced reputation asset under [[DongZhuo|董卓]]. Lyu Qiang asks that Cai be recalled, so the page preserves both the punishment and the attempted repair as part of [[CourtFeedbackCollapse|君臣反馈失灵]].
-
-[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] adds Cai Yong's coerced entry before Hanji 948 uses him as a reputation broker. After earlier exile and renewed slander by Wang Zhi, [[DongZhuo|董卓]] summons Cai Yong; when Cai pleads illness, Dong threatens his whole clan, then rapidly promotes him once he arrives in [[LuoyangLateHan|洛阳]].
-
-This makes Cai Yong's Dong Zhuo relationship coercive from the start. His scholarship and name become useful under [[CoercedTalentLegitimacy|胁迫征士合法性]], but the source keeps the recruitment channel tied to family threat rather than willing attraction through [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
-
-[[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] backfills Cai Yong before the defensive-speech and post-Dong-Zhuo execution branches. [[DongZhuo|董卓]] seeks him out because his learning and reputation can decorate the new court order, making Cai Yong part of Dong Zhuo's early [[CoercedTalentLegitimacy|胁迫征士合法性]] strategy.
-
-The same source gives Cai Yong a concrete de-escalation role. When Dong Zhuo wants to kill [[LuZhiLateHan|卢植]] for opposing the deposition of [[LiuBianHongnongWang|刘辩 / 弘农王]], Cai Yong and others warn that killing such a respected official would alarm the realm. Cai Yong therefore appears first as a reputation broker inside Dong Zhuo's coercive court, before later sources make that relationship politically fatal.
-
-[[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] backfills Cai Yong before his post-Dong-Zhuo execution. When [[DongZhuo|董卓]] considers a Jiang Ziya-style honorific, Cai Yong avoids direct refusal: he acknowledges Dong Zhuo's claimed merit but says the title should wait until the Guandong rebellion is pacified. The source makes him a second case of [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]], where delay and timing language restrain a dangerous patron without open contradiction.
-
-[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] supplies Cai Yong's direct death branch after [[DongZhuo|董卓]]'s assassination. Cai Yong is at [[WangYunLateHan|王允]]'s house when he hears the news and reacts with grief or shock; Wang Yun treats that response as private gratitude to Dong Zhuo overriding public Han loyalty and sends him to prison.
-
-Cai Yong asks to survive, even under mutilating punishment, so he can finish Han history. [[MaRidiLateHan|马日磾]] and other scholar-officials plead for him, but Wang Yun refuses. The host's interpretation is source-scoped: Cai Yong is not treated only as someone punished for sympathy toward Dong Zhuo; he becomes the person who might have recorded Wang Yun's compromised conduct under Dong Zhuo and thereby weakened Wang Yun's public image as a loyal anti-Dong-Zhuo hero. His plea is compared to [[SimaQian|司马迁]], while Wang Yun's refusal is tied to [[HistoricalRecordAuthority|史官记录话语权]].
-
-[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] reinforces the same branch as part of its broader [[PostSuccessArrogance|得势后的骄傲]] diagnosis. [[CaiWenji|蔡文姬]] then carries a small afterlife role in Hanji 963: the episode says she later sorts Cai Yong's writings after [[CaoCao|曹操]] ransoms her back from [[Xiongnu|匈奴]] exile.
-
-## Connections
-
-- [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]], [[EmperorLingOfHan|汉灵帝]], [[LiuXiu|光武帝]], [[EmperorMingOfHan|汉明帝]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[RitualAffectiveOrder|仪式感秩序生成]] - tomb-sacrifice observation and "礼有烦而不可省者" branch.
-- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]], [[XipingStoneClassics|熹平石经]], and [[Taixue|太学]] - Five Classics correction and public stone-inscription branch.
-- [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]], [[EmperorLingOfHan|汉灵帝]], [[SanhuLawAppointmentConstraint|三互法任官限制]], [[YouzhouLateHan|幽州]], and [[JizhouLateHan|冀州]] - 175 CE memorial against overbroad appointment restrictions.
-- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[EmperorLingOfHan|汉灵帝]], [[Taixue|太学]], [[LiAsPoliticalOrder|礼制政治秩序]], [[OfficialSelectionChannelCompetition|选官通道竞争]], and [[FilialMourningAccessCredential|守陵孝行进身凭证]] - confidential memorial on ritual neglect, minor-talent appointment, and false filial access near the crown prince.
-- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[Xianbei|鲜卑]], [[TanshihuaiXianbei|檀石槐]], [[XiaYuLateHan|夏育]], [[TianYanLateHan|田晏]], [[ZangMinLateHan|臧旻]], [[OverextendedFrontierExpedition|边境远征过度]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - rejected warning against the 177 CE deep Xianbei expedition.
-- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[EmperorLingOfHan|汉灵帝]], [[CaoJieLateHan|曹节]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - confidential omen memorial, leak, and retaliation setup before the framed accusation.
-- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[ChengHuangLateHan|程璜]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[FortuneMisfortuneReversal|塞翁失马式福祸反转]] - framed accusation, commuted exile, and survival through distance from court.
-- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[LyuQiangLateHan|吕强]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - frank response, leaked confidentiality, punishment, exile, and attempted recall.
-- [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]], [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[CoercedTalentLegitimacy|胁迫征士合法性]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - forced summons, family threat, and rapid promotion before Cai Yong's later reputation-broker role.
-- [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]], [[LuZhiLateHan|卢植]], [[CoercedImperialReplacement|胁迫式废立]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - early prestige borrowing and warning against killing Lu Zhi.
-- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]], [[DongZhuo|董卓]], and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - delayed honorific advice under a dangerous patron.
-- [[WangYunLateHan|王允]] - official who has Cai Yong executed in the episode's post-Dong-Zhuo branch.
-- [[MaRidiLateHan|马日磾]] - official who pleads for Cai Yong's life in Hanji 963.
-- [[CaiWenji|蔡文姬]] - daughter who preserves the family and textual afterlife branch.
-- [[DongZhuo|董卓]] - dead strongman whose former relationship to Cai Yong becomes politically dangerous.
-- [[SimaQian|司马迁]] and [[HanWudi|汉武帝]] - comparison used in the episode's historian-survival argument.
-- [[HistoricalRecordAuthority|史官记录话语权]] and [[PostSuccessArrogance|得势后的骄傲]] - concepts sharpened by the source.
+## Relationships
+- [[EmperorLingOfHan]] - 授命校经并接受、拒绝或泄露进谏的君主；[[XipingStoneClassics]] - 175年公共经典文本工程。
+- [[LiAsPoliticalOrder]] - 陵祭及郊庙礼制的政治意义；[[OfficialSelectionChannelCompetition]] - 文艺才能与官职选择的张力。
+- [[SanhuLawAppointmentConstraint]] - 任官回避争论；[[OverextendedFrontierExpedition]] - 鲜卑远征的成本判断。
+- [[CaoJieLateHan]] - 密奏泄露；[[LyuQiangLateHan]] - 减刑与请召还；[[CourtFeedbackCollapse]] - 进谏无法受保护的后果。
+- [[DongZhuo]] - 以家族威胁征召及利用声誉；[[LuZhiLateHan]] - 蔡邕等劝其免杀的官员。
+- [[WangYunLateHan]] - 下令处死者；[[MaRidiLateHan]] - 求情者；[[HistoricalRecordAuthority]] - 节目对史官话语权的解释。
+- [[CaiWenji]] - 女儿及遗文整理的后续叙述；[[SimaQian]] - 求以残刑延续修史的节目类比。
+- [[RitualAffectiveOrder]] - explanation of why the 172年陵祭触动蔡邕；[[FilialMourningAccessCredential]] - 他在177年批评的伪守陵孝行晋身风险。
+- [[WarCostTempoDiscipline]] - 鲜卑远征的长期成本判断与[[XingshiqingStrategicAssessment]]相接；[[HanWudi]]是其比较国力的前朝例子。
+- [[ConfidentialRemonstranceLeakage]] - 178年密奏泄露的核心机制；[[FortuneMisfortuneReversal]]是节目对流放反而避祸的解释。
+- [[CoercedTalentLegitimacy]] - 董卓利用名士声望的胁迫机制；[[CoercedImperialReplacement]]是劝免杀卢植所处的废立场景，与[[TalentAttractionThroughRespect]]的礼贤范式相反。
+- [[PostSuccessArrogance]] - 主持人对王允胜利后处死蔡邕的评价，非确证杀人动机；[[Xiongnu]]是蔡文姬被赎回叙述中的异地背景。
