@@ -2,37 +2,49 @@
 title: "China Macro Temperature Gaps / 中国宏观温差"
 type: concept
 tags: [china, macro, investing, measurement]
-sources: [161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
+knowledge_schema: synthesis-v1
+sources:
+  - 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm
+  - 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d
+  - 152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz
+  - 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc
 last_updated: 2026-08-06
 ---
 
-# China Macro Temperature Gaps / 中国宏观温差
+## Definition
+China macro temperature gaps are differences between aggregate indicators, sector performance, asset pricing, lived household experience and foreign perceptions that cannot be collapsed into one bullish or bearish reading.
 
-[[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]] adds the first-quarter 2026 data-and-lived-experience version. The source says January-February industrial output, consumption, fixed-asset investment, infrastructure/manufacturing investment, and exports were better than expected, while property remained weak and ordinary income, employment, city, and class experience still felt divided. [[Ricky]] emphasizes macro resilience through a difficult transition, and [[DavidWeng|大卫翁]] stresses that some groups absorb the personal cost of industrial upgrading and state-capacity gains.
-
-[[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] adds the full-year market-versus-economy version through [[ChinaEquityRealEconomyGap]]. The source says 2025's Chinese equity strength did not make property, employment, consumption confidence, capital formation, or effective demand feel repaired, so temperature gaps can widen during a rally instead of disappearing.
-
-[[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] extends the temperature-gap frame into a 2026 Western-perception thesis. The source says old visual indicators such as property and storefront vacancy can miss manufacturing-loan growth, platform-based consumption, and outbound competitiveness, making [[WesternChinaMisreading]] a market variable rather than only a media complaint.
-
-China macro temperature gaps are [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]]'s frame for why Chinese macro data, industry reality, market pricing, consumer behavior, and overseas perception can feel inconsistent at the same time. [[DavidWeng|大卫翁]] and [[Ricky]] use "温差" to describe these differences rather than forcing one clean bullish or bearish story onto the whole economy.
-
-The first gap is between aggregate data and industrial meaning. A fall in imports can indicate weak demand, but the source argues it can also reflect [[TechnologyInnovationAsScaleEconomy]] and domestic substitution that reduce reliance on imported intermediate goods. That makes the frame a China-specific extension of [[AggregateIndicatorsLivedExperienceGap]] and [[AnnualReportMacroReading]].
-
-The second gap is between traditional goods-centered consumption and newer emotional, service, or cultural consumption. Concerts, tea drinks, [[PopMart]], [[Labubu]], and online content payment suggest pockets of willingness to spend, but they may not be large enough or measured enough to repair headline demand. This connects the source to [[QualityLowPriceReasonedPremium]] and [[DigitalEconomyMeasurementGap]].
-
-The third gap is between domestic GDP interpretation and overseas profit or overseas perception. If Chinese firms earn more abroad, then [[ChinaOutboundProfitLoop]] and [[GlobalResourceAllocationCompany]] become more important for investors than domestic GDP alone. At the same time, overseas observers may still judge China through property, malls, and first-tier-city impressions while missing manufacturing and technology clusters elsewhere.
+## Current Synthesis
+The 2025 midyear discussion identifies import, consumption and overseas-income ambiguities. The 2026 episodes add a rally without property or employment repair and stronger industry/export data alongside uneven incomes. The foreign-reweighting idea remains a dated forecast. A favorable reading of one gap cannot make weak demand good news.
 
 ## Key Claims
-- China should not be read through a single macro thermometer; weak demand, industrial upgrading, and asset repricing can coexist.
-- Import decline is ambiguous because it can signal lower demand or stronger domestic supply-chain capability.
-- New consumption can be real without becoming a complete GDP rescue, especially if measurement and policy tools still privilege physical goods.
-- Overseas corporate earnings can make GDP an incomplete guide for Chinese asset value, especially when listed companies globalize production, service, and distribution.
-- Foreign underweight positioning can make asset returns diverge from ordinary macro mood when marginal capital only moves from very pessimistic to less pessimistic.
-- The frame is useful only if it preserves source dating and sector specificity; it should not become a blanket claim that weak data are automatically good.
+- Falling imports can mean weaker domestic demand, domestic substitution, or both; sector evidence must arbitrate.
+- Services, cultural consumption and platform value may be missed by goods-centered indicators without curing broad demand weakness.
+- Outbound profits and foreign ownership positioning can decouple listed asset returns from domestic GDP.
+- Equity repricing can arrive before property, employment, consumption and enterprise earnings repair.
+- Strong industrial and export readings can coexist with weak household income and uneven distribution.
+- Western narrative change or foreign reweighting is a hypothesis, not a completed macro outcome.
 
-## Connections
-- [[AggregateIndicatorsLivedExperienceGap]], [[AnnualReportMacroReading]], and [[BalanceSheetMacroAnalysis]] - data and evidence-reading context.
-- [[TechnologyInnovationAsScaleEconomy]], [[ThreeLayerScaleEconomies]], and [[ChinaSupplySideClearing]] - industrial-capability side of the gap.
-- [[QualityLowPriceReasonedPremium]], [[DigitalEconomyMeasurementGap]], [[PopMart]], and [[Labubu]] - new-consumption side.
-- [[ChinaOutboundProfitLoop]] and [[GlobalResourceAllocationCompany]] - GDP/GNI and outbound-profit side.
-- [[ChinaNarrativeSplit]], [[HongKongTechRepricing]], and [[AHShare2025Barbell]] - investor-perception and asset-pricing implications.
+## Evidence
+- Indicator ambiguity: [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]], recorded June 2025, has [[DavidWeng]] and [[Ricky]] read lower imports as either demand weakness or [[TechnologyInnovationAsScaleEconomy|substitution]], where [[ThreeLayerScaleEconomies]] may support domestic suppliers, and compare household/industrial readings through [[AggregateIndicatorsLivedExperienceGap]]. Its midyear A/H contrast has Hong Kong and internet names outperforming weak A-shares, but describes valuation repair rather than proven broad earnings recovery.
+- New consumption: [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] names concerts, tea drinks, [[PopMart]] and [[Labubu]] as “quality low price” or “reasoned premium” cases; platform payments and participation may evade older goods measures under [[DigitalEconomyMeasurementGap]]. This is a measurement hypothesis, not a calculation showing total consumption is healthy.
+- Offshore income: [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] compares domestic GDP with [[ChinaOutboundProfitLoop|overseas corporate earnings]] using Japan as an analogy; profit earned abroad is not automatically domestic household income.
+- Foreign positioning and perception: [[133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]] notes that foreign underweight and real-estate/mall impressions may miss manufacturing clusters in Hangzhou, Hefei and Wuhan. [[152-guanyu-2026-nian-de-si-ge-caixiang-nhx-c5xjwaovpaqjpua24diohsaz]] proposes in January 2026 that inflation, earnings or RMB appreciation could trigger [[WesternChinaMisreading|foreign reassessment]]; these are conditional triggers, not observed reweighting.
+- Market versus real-economy repair: [[153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]] says 2025 gains in equities, gold and AI-linked assets coexisted with property wealth erosion, employment pressure and weak effective demand, sharpening [[ChinaEquityRealEconomyGap]].
+- Production versus households: [[161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm]], a March 23 2026 live snapshot, cites better-than-expected January–February industry, exports, consumption and investment excluding property while emphasizing different personal income and job experiences across groups.
+
+## Counterevidence & Qualifications
+These sources share a show and analysts, not independent statistical verification. New categories may be undercounted yet too small to offset housing losses; import substitution and demand contraction can occur together. Overseas profits are not domestic household income. A market rally may reflect discount rates or positioning while leaving wages and balance sheets weak. The 2026 perception argument is a forecast.
+
+## What Changed
+- Reorganized dated examples around measurement, consumption, offshore returns and market/lived-economy divergence.
+
+## Related Concepts
+- [[AnnualReportMacroReading]] - tests aggregate readings against company disclosures.
+- [[BalanceSheetMacroAnalysis]] - links weak property and local finance to lived pressure.
+- [[QualityLowPriceReasonedPremium]] - differentiates cultural purchases from generic consumption claims.
+- [[GlobalResourceAllocationCompany]] - can earn abroad without immediately lifting domestic GDP.
+- [[ChinaNarrativeSplit]] - contrasts elite/investor frames with household and regional experience.
+- [[HongKongTechRepricing]] - illustrates valuation moves before earnings repair.
+- [[AHShare2025Barbell]] - is an allocation view that must not be mistaken for macro convergence.
+- [[ChinaSupplySideClearing]] - explains why production capacity and prices can move separately from household demand.
