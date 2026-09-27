@@ -2,43 +2,50 @@
 title: "陶谦 / Tao Qian (late Han)"
 type: entity
 tags: [person, late-han, three-kingdoms, xuzhou]
-sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth, zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1, zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd, zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k, zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]
+sources:
+  - zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq
+  - zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth
+  - zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1
+  - zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd
+  - zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k
+  - zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-25
 ---
 
-# 陶谦 / Tao Qian (late Han)
+## Overview
+陶谦 / Tao Qian (late Han) is represented through 8 registered source notes; its role varies by account and date.
 
-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] backfills Tao Qian before the Cao Song and Xuzhou branches. As Xuzhou inspector, he recommends [[ZhuJunLateHan|朱儁]] as acting chariots-and-cavalry general and sends three thousand elite troops to support Zhu Jun's anti-[[DongZhuo|董卓]] posture.
+## Current Profile
+陶谦在东汉末年徐州的军事与继任危机中，一面援助反董卓的朱儁并维持汉室名义，一面面对曹操的进攻。曹嵩遇害的责任存在史书异文；陶谦死后，糜竺等地方人物支持刘备接管徐州，其旧部关系并未随之消失。
 
-The episode reads this as more than troop aid. Tao Qian is publicly signaling that he still recognizes [[EmperorXianOfHan|汉献帝]] and the Han house even while Dong Zhuo controls the emperor. The source also cautions that Tao Qian should not be reduced to the kindly old man of [[RomanceOfTheThreeKingdoms|《三国演义》]]; it presents him as a stiff and forceful military official.
+## Key Characteristics
+- 援朱儁的三千精兵表达汉室立场，不等于控制朝廷。
+- 曹嵩之死有陶谦遣骑与张闿劫财两条不同归因；曹操攻徐州时陶谦向田楷、刘备求援。
+- 陶谦给刘备四千丹阳兵与豫州刺史举荐；临终推举刘备、旧部笮融与曹豹的后续行动显示徐州交接并非单纯礼让。
 
-[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] makes Tao Qian part of the disputed responsibility field for [[CaoSongMurder|曹嵩遇害]]. In the [[Sanguozhi|《三国志》]] version presented by the episode, Tao Qian directly sends cavalry because of resentment toward [[CaoCao|曹操]]'s Xuzhou attack; in the [[HouHanshu|《后汉书》]] version, his subordinate [[ZhangKaiAssassin|张闿]] kills [[CaoSong|曹嵩]] for wealth while escorting him. The page therefore keeps Tao Qian's role as contested: possible political sender in one tradition, failed or compromised superior in another.
+## Evidence
+- 东汉朝廷名义仍有政治价值：190—191 年朱儁抗董卓时，徐州刺史陶谦荐其为代理车骑将军并遣三千精兵；节目将此解为承认[[EmperorXianOfHan|汉献帝]]而非掌控朝廷，亦提醒陶谦不是[[RomanceOfTheThreeKingdoms|《三国演义》]]里的单纯慈祥老人。[[ZhuJunLateHan|朱儁]]与[[DongZhuo|董卓]]的对立是这次支持的语境。[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq]]
+- [[CaoSongMurder|曹嵩遇害]]的责任不能定于一说：节目引[[Sanguozhi|《三国志》]]称陶谦因怨[[CaoCao|曹操]]攻徐州而遣骑，另引[[HouHanshu|《后汉书》]]称其部下[[ZhangKaiAssassin|张闿]]护送途中为财杀[[CaoSong|曹嵩]]。曹操随后攻[[Xuzhou|徐州]]；194 年陶谦向[[TianKaiLateHan|田楷]]及[[LiuBei|刘备]]求援，给刘备四千丹阳兵、举为豫州刺史并屯[[PeiCounty|小沛]]。再度受攻时陶谦曾考虑逃往丹阳，刘备初战失利，曹操因[[YanzhouLateHan|兖州]]后方叛乱才撤回；补给枯竭是此前另一次暂停的原因。[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku]][[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet]]
+- 陶谦临终握[[MiZhu|糜竺]]之手，称唯有刘备能安徐州；[[ChenDeng|陈登]]、[[KongRong|孔融]]与地方财力、军民支持促成刘备在犹豫并提议[[YuanShu|袁术]]后接掌，不是“三让徐州”的演义故事。九州春秋的谵妄见金幻觉和节目医学猜测只能作为异闻。陶谦去世、刘备接州也曾令曹操看到攻徐州的机会。旧部关系继续作用：陶谦任[[ZeRong|笮融]]为下邳相，督[[GuanglingCommandery|广陵]]、[[Xiapi|下邳]]和彭城粮运，后者挪粮营寺院及私众，曹操击败陶谦后笮融流亡并杀害接纳者，形成[[HospitalityPredation|接纳者掠杀]]的具体案例；另一旧部[[CaoBaoLateHan|曹豹]]留在徐州，196 年[[ZhangFei|张飞]]杀他引发下邳内乱，[[LyuBu|吕布]]得以进入。这里说明继任并未清空地方网络，不等于陶谦本人指使后来的叛乱。[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]][[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1]][[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]][[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k]][[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]]
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds Tao Qian before his deathbed transfer. Facing [[CaoCao|曹操]]'s pressure in [[Xuzhou|徐州]], Tao Qian asks [[TianKaiLateHan|田楷]] and [[LiuBei|刘备]] for help, then gives Liu Bei four thousand Danyang soldiers and recommends him as Yuzhou inspector.
+## Qualifications
+The accounts are source-scoped podcast reporting or interview recollections; actor motives, market forecasts, historical variants, and legal claims remain qualified by their cited source.
+The 《三国志》 and 《后汉书》 attributions for Cao Song’s death differ; the three-yields-Xuzhou scene is an演义 memory, not a settled historical event. Delirium and motive speculation remain the host’s interpretation.
 
-The same source shows Tao Qian's weakness during Cao Cao's renewed Xuzhou offensive. Tao Qian is frightened enough to consider fleeing back to Danyang, while Liu Bei's first clash with Cao Cao ends in defeat; only Cao Cao's forced return to [[YanzhouLateHan|兖州]] prevents the Xuzhou branch from closing there.
+## What Changed
+从演义式“三让徐州”转向有地方豪族支持、军事风险和史书异文的继任解释。
 
-[[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] adds Tao Qian's deathbed transfer scene. The source says that when Tao Qian is gravely ill, he takes [[MiZhu|糜竺]] by the hand and says only [[LiuBei|刘备]] can protect [[Xuzhou|徐州]]. The episode also mentions a 九州春秋 report of delirious gold visions and keeps the host's medical speculation source-scoped.
-
-[[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] adds a source-critical boundary around the "陶谦三让徐州" memory. The episode says the演义-style threefold yielding did not happen historically and instead reads [[LiuBei|刘备]]'s acceptance through [[MiZhu|糜竺]], [[ChenDeng|陈登]], [[KongRong|孔融]], and Xuzhou local support.
-
-[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] adds Tao Qian through the succession shock after his death. [[CaoCao|曹操]] hears that Tao Qian has died and that [[LiuBei|刘备]] has taken over [[Xuzhou|徐州]], making the province look newly vulnerable after Cao Cao's own earlier revenge campaign failed to capture it.
-
-陶谦 / Tao Qian (late Han) enters the wiki through [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] as the former [[Xuzhou|徐州]]牧 whose old subordinate [[CaoBaoLateHan|曹豹]] remains in the region after [[LiuBei|刘备]] takes responsibility for Xuzhou. The episode does not narrate Tao Qian's rule directly; it uses Cao Bao's prior service to explain why Zhang Fei's killing of him can destabilize the city.
-
-Tao Qian's source role is therefore a continuity marker. The Xuzhou order Liu Bei inherits is not an empty board: older local relationships remain active enough that [[ZhangFei|张飞]]'s handling of Cao Bao can trigger disorder in [[Xiapi|下邳]] and allow [[LyuBu|吕布]] to enter.
-
-[[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] backfills a darker earlier subordinate branch. Tao Qian appoints [[ZeRong|笮融]] as Xiapi chancellor to supervise grain transport from [[GuanglingCommandery|广陵]], [[Xiapi|下邳]], and Pengcheng, but Ze Rong diverts grain into Buddhist institutions and a private following. After [[CaoCao|曹操]] defeats Tao Qian, Ze Rong's flight begins the host-killing chain developed as [[HospitalityPredation|接纳者掠杀]].
-
-## Connections
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[ZhuJunLateHan|朱儁]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], and [[MingqiLegitimacy|名器合法性]] - early anti-Dong-Zhuo aid and Han-loyalty signaling.
-- [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]], [[CaoSongMurder|曹嵩遇害]], [[CaoSong|曹嵩]], [[ZhangKaiAssassin|张闿]], [[Sanguozhi|《三国志》]], and [[HouHanshu|《后汉书》]] - disputed responsibility for the killing that triggers Cao Cao's revenge.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[TianKaiLateHan|田楷]], [[DanyangCommandery|丹阳郡]], [[PeiCounty|小沛]], and [[CaoCao|曹操]] - rescue request, Danyang troop transfer, and fear during Cao Cao's renewed attack.
-- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[MiZhu|糜竺]], [[LiuBei|刘备]], and [[Xuzhou|徐州]] - deathbed transfer recommendation and power-vacuum trigger.
-- [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], [[LiuBei|刘备]], [[MiZhu|糜竺]], [[ChenDeng|陈登]], and [[KongRong|孔融]] - source-critical correction of the three-yields memory.
-- [[ZeRong|笮融]], [[GuanglingCommandery|广陵]], [[Xiapi|下邳]], and [[InstrumentalizedReligiousPower|工具化宗教权力]] - Hanji 995 grain-office and religious-infrastructure branch.
-- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], [[CaoCao|曹操]], [[LiuBei|刘备]], and [[Xuzhou|徐州]] - death and succession opening that tempts Cao Cao.
-- [[CaoBaoLateHan|曹豹]] - former subordinate whose death triggers Xiapi disorder.
-- [[LiuBei|刘备]], [[ZhangFei|张飞]], [[Xiapi|下邳]], and [[Xuzhou|徐州]] - inherited local order and command failure setting.
-- [[LyuBu|吕布]] and [[YuanShu|袁术]] - external actors who exploit the local breach.
-- [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] - source context.
+## Relationships
+- [[ZhuJunLateHan]] - early anti-Dong-Zhuo aid and Han-loyalty signaling; related adjacent pages: [[DongZhuo]], [[EmperorXianOfHan]], [[MingqiLegitimacy]].
+- [[CaoSongMurder]] - disputed responsibility for the killing that triggers Cao Cao's revenge; related adjacent pages: [[CaoSong]], [[ZhangKaiAssassin]], [[Sanguozhi]], [[HouHanshu]].
+- [[TianKaiLateHan]] - rescue request, Danyang troop transfer, and fear during Cao Cao's renewed attack; related adjacent pages: [[DanyangCommandery]], [[PeiCounty]], [[CaoCao]].
+- [[MiZhu]] - deathbed transfer recommendation and power-vacuum trigger; related adjacent pages: [[LiuBei]], [[Xuzhou]].
+- [[LiuBei]] - source-critical correction of the three-yields memory; related adjacent pages: [[MiZhu]], [[ChenDeng]], [[KongRong]].
+- [[ZeRong]] - Hanji 995 grain-office and religious-infrastructure branch; related adjacent pages: [[GuanglingCommandery]], [[Xiapi]], [[InstrumentalizedReligiousPower]].
+- [[CaoCao]] - death and succession opening that tempts Cao Cao; related adjacent pages: [[LiuBei]], [[Xuzhou]].
+- [[CaoBaoLateHan]] - former subordinate whose death triggers Xiapi disorder.
+- [[LiuBei]] - inherited local order and command failure setting; related adjacent pages: [[ZhangFei]], [[Xiapi]], [[Xuzhou]].
+- [[LyuBu]] - external actors who exploit the local breach; related adjacent pages: [[YuanShu]].
