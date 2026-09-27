@@ -2,49 +2,49 @@
 title: "民俗作为社会记忆 / Folklore As Social Memory"
 type: concept
 tags: [folklore, memory, modernization, social-history]
-sources: [38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139, 32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714, 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources:
+  - 38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139
+  - 32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714
+  - 28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930
+  - 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305
+  - 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309
+  - 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341
+  - 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-06
 ---
 
 # 民俗作为社会记忆 / Folklore As Social Memory
 
-[[38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139]] adds the domestic and gendered version through [[FemaleOralStorytelling]]. Mothers and grandmothers remember and transmit not only wonder but also marriage jokes, household labor knowledge, maternal tactics, sexual danger, anti-husband tricks, and women's appetite for comic revenge. This extends the concept from local ecology and trauma memory into the ordinary rooms where stories are told to children.
+## Definition
+Folklore as social memory is a reading of transmitted tales and images as traces of lived practices, ecological relationships and social judgments—not as literal transcripts of historical events.
 
-[[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] adds an Indigenous American oral-literature case. The episode treats moon stains, star origins, tobacco and corn, salmon movement, canoe-making, fire in wood, animal taboos, and flood ancestors as ways stories remember practical life, landscape, kinship, danger, and food rules, even when the tale sounds abrupt to modern readers.
-
-民俗作为社会记忆 is the frame [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] uses when it treats yokai traditions as local memory rather than only superstition. The episode argues that war, industrial development, modern infrastructure, and the loss of documents can erase the conditions that made local stories intelligible.
-
-In this frame, a yokai name or image records how a place once understood water, animals, tools, danger, shame, kinship, property, and moral conduct. [[TataraKatsugoro|多多良胜五郎]]'s fieldwork matters because the stories may disappear before scholars can collect their variants, even if the final mystery explanation remains non-supernatural.
-
-[[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a literary comparison through [[GuaitanLiterature|怪谈文学]]. [[CursedBunny|《诅咒兔》]] is not fieldwork into local tradition, but the source shows how folk-tale texture and strange motifs can still preserve social memory of exploitation, family harm, bodily disgust, and revenge.
-
-[[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a national-symbol caution through [[ChineseDragon|龙]]. Dragon stories preserve ritual, imperial, local, and emotional memory, but the episode warns that later communities can turn that memory into proof of an ancient national essence. [[DragonNationalSymbolInvention]] therefore records both the power of folklore memory and the risk of nationalist overclaiming.
-
-[[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds a fear-and-control version through [[Snake|蛇]]. Serpent stories preserve encounters with real animals, anxiety about venom and sudden motion, hopes for renewal and hidden knowledge, and gendered memories of female power being revered, eroticized, or demonized.
-
-[[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] adds [[LiaozhaiZhiyi|《聊斋志异》]] as a literary-social memory case. The source treats war, folk performance, oral mimicry, animal training, fox romance, ghost friendship, and examination satire as things preserved by strange narrative: not neutral ethnography, but memory of what ordinary life feared, watched, joked about, desired, and judged.
+## Current Synthesis
+Oral stories, collected motifs, literary reworkings and modern national symbols carry different kinds of memory. Their interpretive value depends on who told, collected or repurposed them; continuity of a symbol alone does not certify its origin or one community's shared experience.
 
 ## Key Claims
-- Folklore can hold practical local knowledge, social anxiety, moral judgment, and memory of ordinary life.
-- Modernization can make old stories look irrational while also destroying the contexts needed to interpret them responsibly.
-- The source does not oppose science to folklore; it argues that losing folklore can make human experience less legible.
-- War can interrupt storytelling because survival leaves little room for ghosts, yokai, or careful preservation.
-- Folklore origin claims become dangerous when turned into nationalist proof that one people or nation is more authentic.
-- Literary guaitan can reuse folklore-like forms to preserve felt social memory even when it is not making an origin or fieldwork claim.
-- A modern national symbol can reuse folklore memory while changing what that memory is asked to prove.
-- Animal folklore can preserve embodied fear and social control at once: the snake is remembered as creature, danger, healer, treasure keeper, wife, goddess, and monster.
-- Literary strange tales can store social memory of performance, institutions, and ordinary fear even when their plots are overtly fantastic.
-- Indigenous American oral tales can store ecological, technical, and kinship memory inside origin stories rather than separating explanation from wonder.
-- Domestic female storytelling can store household labor, marriage conflict, child protection, sexual danger, and comic revenge as social memory.
+- Oral tales can retain situated ecological, food, craft and kinship knowledge without constituting one unified tradition.
+- Domestic transmission can preserve women's labor, danger, desire and comic resistance even when later retellings sanitize those voices.
+- Yokai collection can recover endangered local interpretation while demystifying a mystery's human causes.
+- Strange literature transforms war, performance, bodily harm and exploitation into narrative memory, distinct from field records.
+- Animal symbols can carry fear, female power and regeneration; a later dragon national symbol cannot be projected backward as timeless essence.
 
-## Connections
-- [[FemaleOralStorytelling]], [[UnrulyWomenInFolktales]], and [[JingguaiGushiji|《精怪故事集》]] - episode 38's gendered domestic extension.
-- [[YokaiMystery|妖怪推理]] - literary form that turns folklore memory into mystery structure.
-- [[TataraKatsugoro|多多良胜五郎]] and [[NumagamiRenji|沼上蓮次]] - characters whose postwar fieldwork makes the concept concrete.
-- [[EvidenceBoundFolkloreInquiry]], [[LegendAsSocialHistory]], [[StoryMotifTransmission]], and [[FolkloreTraumaEncoding]] - adjacent folklore method concepts.
-- [[AnganKozo|《暗眼小僧》]] - case where local naming, dogs, property, and river danger form the social-memory layer.
-- [[GuaitanLiterature|怪谈文学]] and [[CursedBunny|《诅咒兔》]] - literary extension where folklore-like motifs hold bodily and social memory.
-- [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-symbol extension added by episode 127.
-- [[Snake|蛇]], [[SnakeCulturalSymbolism]], [[SnakeRenewalAndSecretKnowledge]], and [[SnakeFemalePowerMotif]] - snake-symbol extension added by episode 128.
-- [[LiaozhaiZhiyi|《聊斋志异》]], [[StrangeTaleSocialCritique]], and [[NonhumanMoralAgencyInStrangeTales]] - literary strange-tale extension added by episode 28.
-- [[NativeAmericanOralLiterature]], [[IndigenousAmericanMythology]], and [[HumanAnimalContinuityInMyth]] - Indigenous American oral-literature extension added by episode 32.
+## Evidence
+- Situated oral knowledge: [[32-yindianren-jiang-le-yi-bai-wan-ci-de-gushi-shi-maerkesi-de-laoshi-596386714]] discusses the cross-cultural [[StoriesToldAMillionTimes|《讲了一百万次的故事》]] selection: [[CoyoteTrickster|Coyote]] restoring salmon, canoe-making, fire in wood, corn, tobacco, animal taboos and flood ancestors combine landscape with practice. [[NativeAmericanOralLiterature]], [[IndigenousAmericanMythology]] and [[HumanAnimalContinuityInMyth]] describe variants across peoples, not one “Indian” mythology; the episode's [[GabrielGarciaMarquez]] comparison is an analogy, not demonstrated direct influence.
+- Domestic voices: [[38-anjila-kate-jingguai-gushiji-o-mirende-hanfu-609607139]] reads [[AngelaCarter]]'s [[JingguaiGushiji|《精怪故事集》]] through mothers and grandmothers, marriage jokes, household work, sexual danger and women who deceive, evade or retaliate. [[FemaleOralStorytelling]], [[UnrulyWomenInFolktales]] and [[StoryMotifTransmission]] matter because [[FairyTaleSanitization]] can erase such unruly agency; Carter's anthology and rewritings are editorial interventions, not transparent recordings of every original teller.
+- Local collection and explanation: [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] reads [[KyogokuNatsuhiko]]'s [[AnganKozo|《暗眼小僧》]]: fictional [[TataraKatsugoro|多多良胜五郎]] and [[NumagamiRenji|沼上蓮次]] collect vanishing yokai contexts amid war and industrial change, but a supposed kappa encounter leads to a property dispute, stolen papers, land pressure and a dog named 河童. [[YokaiMystery]], [[EvidenceBoundFolkloreInquiry]] and [[LegendAsSocialHistory]] distinguish recording a place's categories from believing supernatural causation.
+- Literary transformation: [[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930]] reads [[PuSongling]]'s [[LiaozhaiZhiyi|《聊斋志异》]] through [[YuQiRebellion|于七之乱]]'s dead in 《野狗》 and 《公孙九娘》, examination satire, 《偷桃》 performance and 《口技》 sound craft. Its 二青, 青凤 and 王六郎 stories also let nonhuman beings act as moral agents rather than mere threats. [[StrangeTaleSocialCritique]] and [[NonhumanMoralAgencyInStrangeTales]] refer to literary representation, not an inventory of witnessed ghosts. [[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] similarly reads [[BoraChung]]'s [[CursedBunny|《诅咒兔》]] and 《头》《不受家》 as grotesque forms for family extraction, female bodily fear and revenge's emptiness: [[GuaitanLiterature]] is creation, not local oral evidence.
+- Mutable animal meanings: [[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] contrasts [[Snake|蛇]]'s biological movement, venom and shedding with renewal and treasure-keeper motifs and [[WhiteSnakeLegend|白蛇传]]'s divergent images of wife, healer, seductress and monster; [[SnakeCulturalSymbolism]], [[SnakeRenewalAndSecretKnowledge]] and [[SnakeFemalePowerMotif]] are readings of layered motifs, not proven transmission paths. [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] tracks [[ChineseDragon|龙]] from variable rain and imperial associations toward [[QingDragonFlag]] and twentieth-century [[DragonNationalSymbolInvention]]; [[TotemismNationalism]] cautions against making that modern symbol an ancient unitary identity.
+
+## Counterevidence & Qualifications
+- All seven episodes come from [[MihuanChishu|蜜獾吃书]], chiefly readings of books, not independent field studies. The collector, translator and later author shape what survives; oral, written-fiction and national-icon claims should not be collapsed into identical historical evidence.
+- “Ancient” or locally originating is not automatically more authentic or superior; the yokai and dragon sources explicitly resist nationalist origin proofs. Snake motif parallels likewise do not demonstrate a single lineage.
+
+## What Changed
+- Separated situated oral transmission, literary reuse and modern symbolic reinvention while retaining examples and provenance limits.
+
+## Related Concepts
+- [[FolkloreTraumaEncoding]] - narrower reading of loss and social injury in tale forms.
+- [[EvidenceBoundFolkloreInquiry]] - compares variants and historical setting without converting motifs into event records.
+- [[FemaleOralStorytelling]] - domestic transmission brings gendered work and agency into the memory frame.
+- [[DragonNationalSymbolInvention]] - demonstrates how a later political use changes what an inherited symbol is asked to prove.
