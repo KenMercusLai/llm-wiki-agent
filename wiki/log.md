@@ -25007,3 +25007,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi
 
 Added source `genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384`; created `TransgenerationalInheritanceEvidenceDesign`; and updated `OdedRechavi`, `AcquiredTraitInheritanceBoundary`, `EpigeneticReprogrammingBoundary`, `SmallRNAIntergenerationalInheritance`, and the canonical index from their complete bounded source sets. Core synthesis: specific small-RNA inheritance mechanisms are experimentally strong in C. elegans, but direct prenatal exposure and parental environment must be excluded before an effect is called transgenerational; paternal F2 and maternal F3 descendants provide the episode's unexposed-generation rule. No settled contradiction was adopted. The source substantially overlaps an existing Essentials cut, while human transmission, mammalian examples, adaptive interpretations, numerical duration claims, and unfinished cold/lithium memory work remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
