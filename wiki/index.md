@@ -3164,6 +3164,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Intermittent Fasting to Improve Health, Cognition & Longevity | Dr. Satchin Panda](sources/intermittent-fasting-to-improve-health-cognition-longevity-dr-satchin-panda-scim5921048014.md) — Huberman Lab interview on circadian meal timing, time-restricted eating, human-versus-mouse evidence, energy-adequacy limits, and a firefighter shift-work trial.
 
+- [Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](sources/genes-the-inheritance-of-memories-across-generations-dr-oded-rechavi-scim1011684384.md) — Full Huberman Lab interview on epigenetic inheritance, generation-aware evidence design, C. elegans small-RNA mechanisms, and why human inherited-memory claims remain unresolved.
+
 ## Entities
 - [骁狼医生 / Xiaolang (oncology surgeon)](entities/XiaolangOncologySurgeon.md) — Source-scoped oncology hepatobiliary surgeon discussing pancreatic and splenic health, psychological support, family communication, and surgical consent in VOL.24–25.
 - [Christopher Columbus](entities/ChristopherColumbus.md) — Genoese Atlantic navigator whose maritime skill, colonial coercion, geographical error, and contested afterlife resist a single moral verdict.
@@ -23298,5 +23300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Attritional Reconquest](concepts/AttritionalReconquest.md) — State-backed recovery through sustained pressure, local allegiance, legal openings, and avoidance of an opponent's preferred decisive battle.
 
 - [Shift-Work Circadian Health](concepts/ShiftWorkCircadianHealth.md) — Occupational timing framework connecting sleep, light, eating, caffeine, alcohol, and schedule-specific intervention design.
+
+- [Transgenerational Inheritance Evidence Design](concepts/TransgenerationalInheritanceEvidenceDesign.md) — Study-design standard separating direct exposure and parental environment from true germline transmission in an unexposed generation.
 
 ## Syntheses
