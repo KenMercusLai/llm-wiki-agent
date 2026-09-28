@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [298: The Nazis: Total Power (Part 4)](sources/298-the-nazis-total-power-part-4-glt6097237943.md) — The Rest Is History episode on Hitler's 1933 conversion of a constrained chancellorship into dictatorship through spectacle, police capture, terror, emergency decree, and coerced legislation.
 - [299: The Greatest Female Pharaoh](sources/299-the-greatest-female-pharaoh-glt5076645168.md) — The Rest Is History episode on Hatshepsut's move from regency to kingship through dynastic, divine, ritual, military, commercial, and monumental legitimacy.
 - [How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521.md) — Full-length Huberman Lab interview on female hormone phenotyping, gut-estrogen biology, constipation as a systemic signal, PCOS, contraception, perimenopause, hormone therapy, and cardiometabolic screening.
 - [GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat](sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492.md) — Huberman Lab guest-series episode on four endurance capacities, acute versus long-term fuel use, metabolic flexibility, lactate, breathing mechanics, and constraint-specific protocols.
@@ -3503,6 +3504,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin of Poland](entities/MartinOfPoland.md) — Medieval chronicler whose detailed biography became the canonical Pope Joan version.
 - [Guglielma of Milan](entities/GuglielmaOfMilan.md) — Charitable religious woman whose posthumous movement anticipated a female age of the Spirit.
 - [Maifreda da Pirovano](entities/MaifredaDaPirovano.md) — Abbess expected by Guglielma's movement to become pope before inquisitorial suppression.
+- [Marinus van der Lubbe](entities/MarinusVanDerLubbe.md) — Dutch radical whom the episode identifies as the lone Reichstag arsonist whose act the Nazis converted into a communist-conspiracy pretext.
+- [Reichstag Fire (1933)](entities/ReichstagFire1933.md) — Parliament fire appropriated by Nazi leaders to justify mass arrest and emergency rule.
+- [Reichstag Fire Decree](entities/ReichstagFireDecree.md) — February 1933 emergency measure suspending core liberties and widening central coercive power.
+- [Enabling Act (1933)](entities/EnablingAct1933.md) — Coerced legislative hinge allowing Hitler's cabinet to govern without ordinary parliamentary approval.
 - [Night of the Long Knives](entities/NightOfTheLongKnives.md) — June–July 1934 purge that destroyed the SA leadership, killed additional rivals, strengthened the SS, and secured army acceptance of Hitler.
 - [Ernst Röhm](entities/ErnstRohm.md) — SA leader whose revolutionary and military ambitions made him the central target of the purge despite the false coup allegation.
 - [Sturmabteilung (SA)](entities/Sturmabteilung.md) — Nazi mass stormtrooper organization subordinated after its scale, violence, and defense-force ambitions threatened the army bargain.
@@ -14580,6 +14585,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Legal-Coercive Dictatorship Consolidation](concepts/LegalCoerciveDictatorshipConsolidation.md) — Mechanism joining lawful appearance, crisis powers, police capture, organized violence, elite accommodation, and civic destruction in democratic collapse.
 - [Female Kingship Beyond Regency](concepts/FemaleKingshipBeyondRegency.md) — Transition from governing for a minor ruler to claiming the sovereign office and symbolic language of king.
 - [Pharaonic Kingship Legitimation](concepts/PharaonicKingshipLegitimation.md) — Cumulative use of dynasty, divinity, regalia, force, exchange, and monuments to make royal authority credible.
 - [Estrobolome and Estrogen Recirculation](concepts/EstrobolomeEstrogenRecirculation.md) — Gut-microbial estrogen metabolism frame that separates beta-glucuronidase-mediated recirculation from broad microbiome treatment claims.
