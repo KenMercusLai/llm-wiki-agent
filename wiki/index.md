@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [299: The Greatest Female Pharaoh](sources/299-the-greatest-female-pharaoh-glt5076645168.md) — The Rest Is History episode on Hatshepsut's move from regency to kingship through dynastic, divine, ritual, military, commercial, and monumental legitimacy.
 - [How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried](sources/how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5123681521.md) — Full-length Huberman Lab interview on female hormone phenotyping, gut-estrogen biology, constipation as a systemic signal, PCOS, contraception, perimenopause, hormone therapy, and cardiometabolic screening.
 - [GUEST SERIES | Dr. Andy Galpin: How to Build Physical Endurance & Lose Fat](sources/guest-series-dr-andy-galpin-how-to-build-physical-endurance-lose-fat-scim1818614492.md) — Huberman Lab guest-series episode on four endurance capacities, acute versus long-term fuel use, metabolic flexibility, lactate, breathing mechanics, and constraint-specific protocols.
 - [300: The Real Downton Abbey](sources/300-the-real-downton-abbey-glt7393411506.md) — The Rest Is History episode on British domestic-service hierarchy, wartime decline, gendered housework transfer, and the nostalgia of upstairs-downstairs drama.
@@ -3192,6 +3193,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe](sources/use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim4085406904.md) — Full Huberman Lab interview on sleep-stage function, slow-wave restoration, REM emotional-memory processing, locus-coeruleus regulation, nightmares, and opioid-withdrawal sleep disruption.
 
 ## Entities
+- [Thutmose III](entities/ThutmoseIII.md) — Hatshepsut's junior co-ruler and successful successor, linked to a delayed and politically ambiguous campaign against her memory.
+- [Senenmut](entities/Senenmut.md) — Hatshepsut's high official and monumental partner whose political importance is better supported than the romance narrative.
 - [Lucy Lethbridge](entities/LucyLethbridge.md) — Historian connecting British domestic service to class hierarchy, gendered labor, technology, war, and cultural memory.
 - [Downton Abbey](entities/DowntonAbbey.md) — Period drama used as an accessible but sentimental memory frame for the historical servant world.
 - [林佳君 / Nora Lin (pediatrician)](entities/LinJiajunPediatrician.md) — Source-scoped pediatrician explaining age-specific assessment, medication, caregiver history, fever, acute-care, development, vaccination, and growth boundaries in VOL.19–20.
@@ -3829,7 +3832,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
 - [Hadrian](entities/Hadrian.md) — Philhellenic Roman emperor whose beard, bond with Antinous, and cult sponsorship joined public image, grief, and imperial authority.
 - [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
-- [Hatshepsut](entities/Hatshepsut.md) — Egyptian female pharaoh whose artificial beard functioned as established royal regalia.
+- [Hatshepsut](entities/Hatshepsut.md) — New Kingdom ruler who moved from regency to full pharaonic kingship through divine, dynastic, ritual, military, commercial, and monumental claims.
 - [Gregory VII](entities/GregoryVII.md) — Reforming pope linking clerical purification, institutional independence, radical pressure, and stronger papal governance.
 - [宾哥 / Binge (oral-health doctor)](entities/BingeOralDoctor.md) — Source-scoped oral-health doctor explaining prevention, product claims, dental aesthetics, provider selection, and referral boundaries.
 - [Lee Miller](entities/LeeMiller.md) — Photographer and war correspondent who brought surrealist formation, authored prose, and field access to wartime and Dachau witness.
@@ -14577,6 +14580,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satchin Panda](entities/SatchinPanda.md) — Circadian-biology researcher separating meal timing, fasting duration, energy intake, and evidence limits in animal and human studies.
 
 ## Concepts
+- [Female Kingship Beyond Regency](concepts/FemaleKingshipBeyondRegency.md) — Transition from governing for a minor ruler to claiming the sovereign office and symbolic language of king.
+- [Pharaonic Kingship Legitimation](concepts/PharaonicKingshipLegitimation.md) — Cumulative use of dynasty, divinity, regalia, force, exchange, and monuments to make royal authority credible.
 - [Estrobolome and Estrogen Recirculation](concepts/EstrobolomeEstrogenRecirculation.md) — Gut-microbial estrogen metabolism frame that separates beta-glucuronidase-mediated recirculation from broad microbiome treatment claims.
 - [Constipation as a Systemic Health Signal](concepts/ConstipationSystemicHealthSignal.md) — Pattern-and-triage frame connecting bowel symptoms with diet, stress, autonomic balance, thyroid, gut, medication, and hormone context.
 - [British Domestic-Service Hierarchy](concepts/BritishDomesticServiceHierarchy.md) — Ranked household labor system organized through class, gender, space, etiquette, dependency, and controlled visibility.
