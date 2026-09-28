@@ -24631,3 +24631,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-28] ingest | What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan
 
 Added source `what-humans-animals-and-plants-tell-us-about-consciousness-michael-pollan-scim4063268713`; created `MichaelPollan`, `PerceptionConsciousnessBoundary`, `EmbodiedConsciousnessHypothesis`, and `EgoDissolutionFunctionalSelf`; and updated `AIConsciousnessBoundary`, `FoodSystemNutritionResponsibility`, and the canonical index from their complete bounded source sets. Core synthesis: sensing and adaptive behavior do not by themselves prove subjective experience, embodied feeling may precede reflective thought without solving the explanatory gap, and ego dissolution can loosen self-centered habits while leaving planning and responsibility dependent on a functional self. No settled contradiction was adopted. Plant experiments, brainstem-first consciousness, consciousness fields, panpsychism, quantum accounts, psychedelic outcomes and approval timing, food-policy effects, and caffeine self-experimentation remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
