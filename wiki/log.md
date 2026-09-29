@@ -25347,3 +25347,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-29] ingest | 294: Lady Jane Grey: The Axe Falls (Part 2)
 
 Added source `294-lady-jane-grey-the-axe-falls-part-2-glt7286066638`; created `LadyJaneGrey`, `MaryI`, `EdwardVI`, `JohnDudleyDukeOfNorthumberland`, `GuildfordDudley`, `HenryGrey`, `WyattRebellion`, `NineDaysQueenSuccessionCrisis`, and `MonarchicalRecognitionLegitimacy`; expanded `RoyalExecutionLegitimacy` from its complete bounded source set; and updated the canonical index. Core synthesis: Mary converts a simpler hereditary claim, East Anglian networks, cross-confessional support, naval defection, and council reversal into accepted rule, while Jane's written designation and proclamation fail to become durable monarchy. Mary's initial mercy remains viable only until Wyatt's Rebellion and Henry Grey's participation demonstrate that Jane's surviving claim can organize renewed opposition. No settled contradiction was adopted. Jane's consent and age, Northumberland's authorship and recantation motives, prison reports, counterfactual reign, execution detail, and final monarchical status remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-29] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
