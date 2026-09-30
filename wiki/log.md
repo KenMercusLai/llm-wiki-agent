@@ -26104,3 +26104,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-30] ingest | No.221 中国辣条江湖
 
 Added source `no-221-zhongguo-latiao-jianghu-1020016798`; created `Weilong`, `Pingjiang`, `ZhangZilong`, `LatiaoIndustryStandardization`, `FoodClassificationRegulatoryConflict`, and `CountyIndustryCrisisUpgrade`; and resynthesized `Malawangzi`, `FactorySecondGenerationPersonalIP`, and `ChineseFamilyBusinessSuccession` from their complete preserved evidence inventories. Core synthesis: Pingjiang's辣条 cluster first recombined sauce-dried-tofu skills, machinery, wholesalers, and hometown networks after the 1998 soybean shock, then underwent a second upgrade as scandals, conflicting provincial classifications, national standards, and brand competition raised safety, capital, and trust requirements. Weilong pursued scale, marketing, capital, and category expansion; Malawangzi pursued麻辣 specialization, clean production, regional identity, and second-generation visibility. No settled contradiction was adopted. Inventor narratives, Liu Weiping's arrival date, market shares, market size, investment, margins, and pass-rate comparisons remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,264-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-09-30] graph | Knowledge graph rebuilt
+
+23846 nodes, 246815 edges (246815 extracted, 0 inferred).
+
+## [2026-09-30] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
