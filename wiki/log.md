@@ -26168,3 +26168,7 @@ Added source `236-china-and-world-war-ii-part-2-glt5290070743`; created `Nanjing
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-10-01] ingest | 235. China and World War II (Part 1)
+
+Added source `235-china-and-world-war-ii-part-1-glt2114682484`; created `MarcoPoloBridgeIncident`, `BattleOfShanghai1937`, and `WorldWarIIAsianChronology`; and resynthesized `RanaMitter`, `ChiangKaiShek`, `WangJingwei`, `NationalistGovernment`, `ChineseCommunistParty`, and `ChinaWartimeResistanceAndPoliticalRealignment` from their complete preserved evidence inventories. Core synthesis: 1937 is a strong global-war starting point because the Wanping crisis became sustained full-scale China-Japan war, while 1931, 1939, and 1941 remain meaningful under different criteria. China's resistance began from fragmented sovereignty and military inferiority; the decision to fight and the costly Shanghai stand constrained Japan but also began the attrition that later weakened the Nationalists and changed the Communist balance. No settled contradiction was adopted. Start-date criteria, casualty and refugee totals, Japanese motives, private political calculations, Stalin's role, and Shanghai's military value remain interpretive or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,272-source coverage; no topic claim set was dirty and global compaction was not due.
