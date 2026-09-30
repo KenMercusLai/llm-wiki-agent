@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | 269: Ghana: The Ashanti Empire
+
+Added source `269-ghana-the-ashanti-empire-glt3638102749`; created `Denkyira`, `OseiTutu`, `OkomfoAnokye`, `GoldenStool`, `Kumasi`, and `SacredSymbolicStateFormation`; updated `Ghana`, `Asante`, `WarOfTheGoldenStool`, `HeroicResistanceViolenceAmbiguity`, and the canonical index from their complete bounded source sets. Core synthesis: Asante state capacity joined sacred collective identity, military organization, trade, visible rank, and a capital at Kumasi, while neither Asante participation in conquest and slavery nor British invasion, destruction, deposition, and colonial self-justification supports a simple hero-villain story. No settled contradiction was adopted. Origin traditions, alleged human sacrifice, observer accounts, casualty totals, etymology, speeches, motives, and modern institutional details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 280: Serbia: The Birthplace of Civilisation
 
 Added source `280-serbia-the-birthplace-of-civilisation-glt4941340070`; created `VincaCulture`, `MilojeVasic`, `MarijaGimbutas`, `TartariaTablets`, `VincaSymbolsProtoWriting`, and `ArchaeologicalInterpretationUnderSparseEvidence`; and updated `Serbia` and the canonical index from Serbia's complete bounded source set. Core synthesis: Vinča's large settlements, material culture, agriculture, early copper working, and sign corpus are substantial, while claims of full writing, modern Serbian continuity, matriarchy, pacifism, mother-goddess religion, Aegean descent, or a single invasion or environmental collapse exceed the supplied evidence. No settled contradiction was adopted. Dates, population and sign totals, metallurgical priority, tablet context, and collapse models remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
