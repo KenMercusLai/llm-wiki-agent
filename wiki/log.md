@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-30] ingest | AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More
+
+Added source `ama-1-leveraging-ultradian-cycles-how-to-protect-your-brain-seed-oils-examined-and-more-scim2378383211`; created `NatureExposureHealthEvidence`; and resynthesized `MorningLightCircadianAnchoring` from its complete preserved evidence inventory. Core synthesis: outdoor nature is a multi-variable exposure whose practical value does not prove any one mechanism; morning outdoor light has the episode's strongest support, while broad nature outcomes, grounding, negative ionization, forest bathing, indoor plants, exact doses, and named mechanisms remain source-scoped or qualified. No settled contradiction was adopted. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-30] ingest | 当科技让战争触屏可见，记者为何仍要抵达冲突现场？
 
 Added source `lkuvt7driaody6cy5pq-bj517ord-lkuvt7driaody6cy5pq-bj517ord`; created `MedecinsSansFrontieres`, `ConflictReportingAccessBias`, `IndependentConflictReportingRisk`, `ConflictInformationVerification`, and `GlobalConflictAttentionInequality`; and resynthesized `EmbeddedForeignReporting`, `SouthSudan`, and `BuHeShiYi` from their complete preserved evidence inventories. Core synthesis: field presence can broaden observation and reveal embodied, environmental, and accidental evidence, but language, class, fixers, surveillance, institutions, and reporter position still select what becomes visible; institutional retreat can transfer safety and psychological burdens to freelancers; responsible conflict reporting must state verification limits; and severe conflicts remain unequally visible. No settled contradiction was adopted. Speaker identities, historical comparisons, fixer prices, visa practices, political attitudes, and comparative coverage volume remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
