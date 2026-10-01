@@ -26447,3 +26447,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-01] ingest | 213. London: Moments (Part 5)
 
 Added source `213-london-moments-part-5-glt4986306476`; created `TowerOfLondon`, `MetropolitanRailway`, `Metroland`, `RoyalAnimalSpectacle`, and `RailIntegratedSuburbanDevelopment`. Core synthesis: the Tower menagerie turned diplomatic animal gifts into durable royal and public spectacle before limited care knowledge and changing welfare expectations made the setting untenable, while the Metropolitan Railway used land development, two-way passenger demand, and lifestyle publicity to create both a commuter corridor and the wider cultural imaginary of Metroland. No settled contradiction was adopted. Animal-care details, transfer dates and counts, the ghost-bear account, railway chronology and extent, terminology priority, and literary or political interpretations remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,306-source coverage; no topic claim set was dirty and global compaction was not due. Broken-link, index, health, synthesis, and publish validation passed.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
