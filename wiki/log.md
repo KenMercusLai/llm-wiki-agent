@@ -26161,6 +26161,10 @@ Added source `239-young-churchill-born-to-lead-part-1-glt1969009161`; created `J
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-01] ingest | 203. American Civil War: Aftermath & Legacy (Part 4)
+
+Added source `203-american-civil-war-aftermath-legacy-part-4-glt3990109453`; created `AbrahamLincoln`, `RobertELee`, `UlyssesSGrant`, `JeffersonDavis`, `JohnWilkesBooth`, `ReconstructionConstitutionalAfterlife`, and `CivilWarMemoryPoliticalAfterlife`; resynthesized `AdamIPSmith`, `AndrewJohnson`, `LostCauseMyth`, and `ReconstructionRollback` from their complete preserved evidence inventories; and updated the canonical index. Core synthesis: Appomattox ended organized fighting without settling slavery's political legacy; Reconstruction created durable constitutional citizenship through the Fourteenth Amendment but lacked sustained protection against white violence and exclusion; and Lost Cause commemoration converted rebellion and slavery into honor, heritage, and resource imbalance. No settled contradiction was adopted. Lincoln's alternative Reconstruction, the causal effect of surrender leniency, occupation feasibility, actor motives, stigma change, modern party alignment, and the 1850s analogy remain counterfactual, interpretive, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,320-source coverage; no topic claim set was dirty and global compaction was not due. Identity, knowledge-schema, whitespace, health, synthesis, index coverage, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
 ## [2026-10-01] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
