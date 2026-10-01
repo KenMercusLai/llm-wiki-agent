@@ -27256,3 +27256,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | Optimizing Workspace for Productivity, Focus, & Creativity
 
 Added source `optimizing-workspace-for-productivity-focus-creativity-scim5202577757`; created `TaskSpecificWorkspaceDesign`, `InterruptionBoundaryDesign`, and `ActiveWorkstationTaskTradeoff`; and resynthesized `DailyCircadianPerformanceRoutine`, `VisualFocusEffortTool`, `SoundBasedStateRegulation`, `UltradianDeepWorkBlock`, `WorkstationPostureAdjustment`, and `SedentaryBehaviorInterruption` from their complete preserved evidence inventories. Core synthesis: workspace design is task- and time-dependent rather than one ideal desk, with light, gaze, posture, visual space, sound, interruption boundaries, movement, and location acting as adjustable inputs. No settled contradiction was adopted. The episode's 45-to-5 visual rhythm, ceiling-height effect, focus warm-up, binaural-beat mechanism, noise-duration limit, sitting-standing ratio, and active-workstation results remain qualified or source-scoped; later evidence weakens the claimed dopamine mechanism and preserves silence as a demanding-task default. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,405-source coverage; no topic claim set was dirty and global compaction was not due.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
