@@ -26825,3 +26825,7 @@ Added source `182-operation-barbarossa-glt3299389649`; created `OperationBarbaro
 ## [2026-10-01] ingest | Micronutrients for Health & Longevity | Dr. Rhonda Patrick
 
 Added source `micronutrients-for-health-longevity-dr-rhonda-patrick-scim7949990176`; created `RhondaPatrick`, `IntermittentChallengeHormesis`, `MicronutrientStatusMeasurement`, `Omega3StatusAndFormBoundary`, and `HeatExposureDoseAndSafety`; and resynthesized `ColdExposureDoseAndSafety` from its complete preserved evidence inventory. Core synthesis: micronutrients and adaptive stressors should be interpreted through status, form, dose, preparation, adaptation, safety, and evidence tier rather than copied as universal protocols. No settled contradiction was adopted. Exact nutrient targets, supplement doses, mortality associations, detoxification findings, thermal protocols, brain-injury mechanisms, sauna-opioid explanations, fertility effects, and toxin-excretion claims remain source-scoped. The normal ingest updated `wiki/overview.md`; the downstream refresh then read but did not rewrite it, refreshed the manifest and paragraph ledger to 3,353-source coverage, found no dirty topic claim set, and found global compaction not due. Changed-page links, index coverage, identity, knowledge-schema, whitespace, synthesis, health, and publish validation passed; the repository-wide scanner still reports 14 unrelated pre-existing broken wikilinks.
+
+## [2026-10-01] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
