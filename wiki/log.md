@@ -27247,3 +27247,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-02] ingest | 146. Disease vs. the rise of civilisation
 
 Added source `146-disease-vs-the-rise-of-civilisation-glt4238916512`; created `MortalityTransition`, `AgriculturalSettlementDiseaseEcology`, and `BlackDeathHistoricalShock`; and resynthesized `KyleHarper`, `PlaguesUponTheEarth`, and `ImperialConnectivityDiseaseRisk` from their complete preserved evidence inventories. Core synthesis: human ecological flexibility enlarged pathogen opportunity across migration, technology, sedentary agriculture, waste concentration, cities, and long-distance connection, while the historically recent mortality transition changed childhood survival, family formation, educational horizons, women's lives, and expectations of infectious death. No settled contradiction was adopted. Hunter-gatherer and chimpanzee mortality comparisons, pathogen ages, malaria origins, urban skeletal and demographic interpretations, Black Death mortality, and plague's Chinese and Indian boundaries remain qualified, contested, or source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the synthesis-refresh boundary. The downstream manifest and paragraph ledger were refreshed to 3,404-source coverage; no topic claim set was dirty and global compaction was not due. Changed-page links, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-02] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
