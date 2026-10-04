@@ -28853,6 +28853,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-10-04] ingest | 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+
+Added source `497-xintianweng-dangan-jiemi-1965nian-xinjiapo-duli-yu-xinma-fenjia-de-taiqian-muhou-lo9kcfdqpzmjsavquvejrxsgouy3`; created [[XuZhenhua]], [[GohKengSwee]], [[PeoplesActionParty]], [[AlbatrossFile]], [[MalaysiaSingaporeSeparation]], [[OperationColdstore]], [[MultiracialMalaysiaPoliticalVision]], [[PeacefulPoliticalSeparation]], and [[SingaporeServiceControlGovernance]]; and resynthesized [[Singapore]], [[Malaysia]], [[HuzuoHuyou]], and [[ChengYanliang]] from their complete preserved evidence inventories. Core synthesis: the 1965 separation was neither pure expulsion nor a solitary secret plan; colonial design, Cold War security, federal inequality, ethnic politics, competing national projects, and Goh Keng Swee's negotiating initiative jointly shaped a relatively peaceful constitutional break. No settled contradiction was adopted. Operation Coldstore's legitimacy, private motives and dialogue, negotiation chronology, constitutional claims, mental-health details, casualty figures, and the exhibition's present political purpose remain source-scoped or contested.
+
 ## [2026-10-04] ingest | 京沪高铁中秋节前出现降价，新百伦起诉迪卡侬侵权
 
 ## [2026-10-04] ingest | EP163-被互联网冲击的艺术
