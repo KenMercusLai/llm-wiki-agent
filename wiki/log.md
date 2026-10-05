@@ -30092,3 +30092,7 @@ Added source `654-the-ku-klux-klan-the-rise-of-evil-part-1-glt2601231794`; creat
 ## [2026-10-05] ingest | 《资治通鉴·汉纪》352-2｜汉武帝为何封赏败军之将？
 
 Added source `zizhi-tongjian-hanji-352-2-hanwudi-weihe-fengshang-baijun-zhi-jiang-li16pfjb6p0owys5htecscfomhch`; created [[HanQianqiuWesternHan|韩千秋]], [[LyuJiaNanyue|吕嘉]], and [[FallenVanguardHeirReward|阵亡先锋遗属封赏]]; resynthesized [[Nanyue|南越]], [[LuBodeWesternHan|路博德]], [[YangPuWesternHan|杨仆]], and [[HanYannianWesternHan|韩延年]] from their complete preserved evidence inventories; and migrated Nanyue to the synthesis-first schema. Core synthesis: Han Qianqiu's force is annihilated near Panyu, but Han Wudi distinguishes failed outcome from vanguard courage, supports casualty families, rewards heirs, and then expands the response into a reported ten-wan-person expedition under Lu Bode and Yang Pu. No settled contradiction was adopted. Han Yannian's career continuity is plausible but incompletely narrated; the 樛罗／樛广德 forms, troop and distance figures, imperial motive, earlier southern-campaign comparisons, and later campaign routes and result remain source-scoped. The automatic `wiki/overview.md` was updated during normal ingest and then only read by downstream synthesis refresh. Downstream synthesis updated the history-and-geopolitics claim set, compacted the global map because its material-candidate gate was due, and rendered 791 overview paragraphs across nine topics with 3,762-source coverage.
+
+## [2026-10-05] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
