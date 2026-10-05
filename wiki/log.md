@@ -30316,10 +30316,6 @@ Added source `zizhi-tongjian-hanji-342-2-gudai-fuqi-tongfang-jingyou-zhezhong-fa
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-06] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-06] ingest | John Fetterman: The Rogue Democrat Who Broke Party Ranks
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-john-fetterman-the-rogue-democrat-who-broke-party-ranks-40523130`; resynthesized [[JohnFetterman|John Fetterman]], [[BipartisanSwingStateRepresentation]], [[ElectionAdministrationTrust]], and [[PragmaticImmigrationCompromise]] from their complete preserved evidence inventories. Core synthesis: Fetterman's country-over-party posture unbundles voter ID from attacks on mail voting, border and criminal enforcement from indiscriminate migrant removal, and institutional support from silence about leadership or tactical failures. No settled contradiction was adopted. Polling, fraud counts, non-citizen voting, SAVE Act provisions, Iran's condition and war costs, Social Security adjustments, and other empirical claims remain source-attributed rather than independently verified. Downstream synthesis found no dirty topic and global compaction was not due; the refreshed manifest validates 3,788 sources across 795 overview paragraphs and nine topics.
@@ -30335,6 +30331,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-06] ingest | 《资治通鉴·汉纪》341-3｜创作331个成语的大佬，有多厉害？
 
 Added source `zizhi-tongjian-hanji-341-3-chuangzuo-331-ge-chengyu-de-dalao-you-duo-lihai-lpxxovwptomp2mmt64o5armp8xrk`; created [[HanYu|韩愈]]; migrated and resynthesized [[Chaozhou|潮州]] from its complete preserved evidence inventory; and extended [[ConscienceThroughDuty|尽责问心无愧]] from its complete preserved evidence inventory. Core synthesis: repeated examination failure, political punishment, and status loss do not by themselves make a life unsuccessful or release an official from public responsibility; the episode joins Han Yu's literary work, blunt remonstrance, and continued local service while keeping personal and institutional costs visible. No settled contradiction was adopted. The 331-idiom total and individual attributions, examination sequence, demotion mechanics, journey and family-loss details, “朝奏夕贬” timing, crocodile episode, and ten-year outcome remain source-scoped; the Tang administrative unit and modern city of Chaozhou are not treated as territorially identical. Downstream synthesis rebuilt `work-education-and-society`, global compaction was not due, and the refreshed artifacts validate 3,790 sources across 796 overview paragraphs and nine topics.
+
+## [2026-10-06] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-06] lint | Wiki health check
 
