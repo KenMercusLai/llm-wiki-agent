@@ -31179,3 +31179,7 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-10-07] ingest | 《资治通鉴·汉纪》299-2｜西汉财政大危机，汉武帝如何搞钱？
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
