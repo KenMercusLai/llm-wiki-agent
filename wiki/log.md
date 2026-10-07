@@ -31274,3 +31274,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-07] ingest | 112 从《武林外传》李大嘴状元骗局，看中国式母子的爱与执念
 
 Added source `112-cong-wulin-waizhuan-li-dazui-zhuangyuan-pianju-kan-zhongguoshi-muzi-de-ai-yu-zhinian-lrtg0wqaywenpzgpwzcckekkqlt`; created [[WulinWaizhuan|《武林外传》]], [[LiDazui|李大嘴]], [[NarrativeSetupAndPayoff|叙事铺垫与回收]], [[ExpectationReversalComedy|预期反转喜剧]], and [[SoundLedComicDeception|声音主导的喜剧骗局]]; and resynthesized [[ZhiZuiJinMiFM|纸醉金迷FM]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: 白展堂说书、郭芙蓉厨艺、老夫人听觉与刺字都先作局部笑料再成为骗局的动力、风险或回收；同福客栈依靠声音构造假京城，同时让观众看见默剧式后台协作；“好汉饶命”推翻“精忠报国”预期却仍符合母亲兼具公共大义、护短、道德纠正与求生关切的复杂形象。 No settled contradiction was adopted. 老夫人何时识破骗局、演员技法、单田芳式影响及编剧确切意图 remain debated or source-scoped. Broad 郭芙蓉、白展堂、吕秀才 and blind-performance pages were kept closed because the focused source, work, character, and mechanisms capture the bounded addition without creating thin profiles. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 3,910 sources across 798 overview paragraphs and nine topics. Changed-page wikilinks, index coverage, identity, knowledge schema, whitespace, health, synthesis, and publish validation passed.
+
+## [2026-10-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
