@@ -32623,3 +32623,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-08] ingest | Valley of the shadow of debt: bond-market jitters
 
 Added source `valley-of-the-shadow-of-debt-bond-market-jitters-69104aa52182b702669d450d025a7dac`; created [[ReflectOrbital]], [[TheSocialReckoning]], [[AdvancedEconomyBondYieldPressure]], [[OrbitalReflectedSunlight]], and [[PlatformTruthArbitrationDilemma]]; and resynthesized [[FrancesHaugen]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: rich-world yields combine capital competition, inflation and monetary policy, and issuer-specific fiscal credibility; orbital sunlight must be evaluated against batteries and night-sky externalities; and platform harm reduction remains constrained by the danger of private global truth arbitration. No settled contradiction was adopted. Market figures, forecasts, satellite performance and economics, ecological effects, settlement details, and film judgments remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,083 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
