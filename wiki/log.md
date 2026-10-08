@@ -32717,3 +32717,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] ingest | 20 东西方的强力皇后：吕后与狄奥多拉
 
 Added source `20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-ofyks-0i39kocpf`; and resynthesized [[Theodora]], [[LuZhi|吕雉]], and [[GenderedHistoriographicalDesireFraming|性别化史书欲望叙事]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: female rulers' palace morality and coercive violence must remain visible, but should not displace analysis of political partnership, crisis leadership, institutional continuity, taxation, diplomacy, public burden, and the winner-shaped construction of historical memory. No settled contradiction was adopted. Lu-family documentary loss, young-emperor legitimacy, Modu's intent, policy causation, Theodora's early biography, Nika speech, reform authorship, refuge conditions, and Procopius's motive remain source-scoped or disputed; the comparison does not establish Western Han-Byzantine institutional equivalence. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,095 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
