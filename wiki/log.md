@@ -31848,6 +31848,9 @@ Added source `zizhi-tongjian-hanji-273-jian-gan-dui-hanwudi-weisha-dui-buying-go
 ## [2026-10-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-10-08] ingest | 29 东西方的冤案：德雷福斯、杨乃武和小白菜
+
+Added source `29-dongxifang-de-yuanan-deleifusi-yangnaiwu-he-xiaobaicai-lmmhqfl-idiuetsvufgrmpso2l-8`; created [[YangNaiwu|杨乃武]], [[XiaoBaicai|小白菜]], [[ShenBao|《申报》]], [[YangNaiwuXiaoBaicaiCase|杨乃武与小白菜案]], and [[WrongfulConvictionPersistenceCorrection|冤案的制度固化与纠错]]; and resynthesized [[DreyfusAffair|德雷福斯案]], [[AlfredDreyfus|阿尔弗雷德·德雷福斯]], and [[HuXueyan|胡雪岩]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: prejudice, closed or coercive procedure, hierarchical deference, and institutional reputation can harden weak accusations, while correction depends on a contingent coalition of family persistence, internal dissent, elite access, media scrutiny, and favorable political timing. No settled contradiction was adopted. The episode rejects the romanticized Yang–Xiao relationship and treats anti-Xiang-Army and Zhejiang-faction explanations as insufficient by themselves; detailed forensic, legal, biographical, press-count, motive, and cultural-influence claims remain source-scoped. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,084 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
 
 ## [2026-10-08] ingest | 《资治通鉴·汉纪》230｜申屠嘉欲杀晁错，为何反被气死？
 
