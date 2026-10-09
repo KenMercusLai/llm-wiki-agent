@@ -32798,10 +32798,6 @@ Added source `20-dongxifang-de-qiangli-huanghou-lvhou-yu-diaoduola-li_aj7g59s6i-
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-09] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-09] ingest | 18 东西方的人相食
 
 Added source `18-dongxifang-de-ren-xiangshi-lt7saup5pmf5u5fco0mb4dohldmp`; created [[CannibalismContextualMeaning|食人行为的语境意义]] and [[SurvivalCannibalismPowerInequality|生存性食人的权力不平等]]; migrated and resynthesized [[DisasterCivilizationRetreat|灾变中的文明退场]]; and resynthesized [[CannibalismColonialJustification]] and [[WeirdHistoryPodcast|怪东西 Weird History]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: cannibalism must be interpreted through survival, warfare, ritual, revenge, medicine, devotion, pathology, colonial labeling, and literary metaphor rather than counted as one civilizational trait; in famine, siege, and shipwreck, necessity does not erase hierarchy, and control over procedure can expose women, enslaved or racialized people, children, the sick, and lower-status participants first. No settled contradiction was adopted. The source instead qualifies a simple “civilization disappears” model by showing that restraint may weaken while rank and force persist. Comparative prevalence, historical anecdotes, legal details, medical claims, genetic inference, ritual interpretation, and literary intent remain source-scoped or disputed. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,097 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed; the repository-wide legacy scan still reports 30 unrelated pre-existing broken links.
@@ -33156,6 +33152,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-09] ingest | No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
 
 Added source `no-217-qinghuida-2025-zai-shijie-de-zhezhou-li-xunzhao-neixin-de-anning-gkwridonuhaja5o4farihyqk`; created [[ProcessOrientedLifeDesign|过程导向的人生设计]]; and resynthesized [[ControllableLifeAnchors]], [[SituatedMediaObservation|在场的媒体观察]], and [[QuantityChangeQualityChange|量变引发质变]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: across work transitions, parenting, bereavement, retirement, health, AI use, travel, and creative practice, contributors move from distant success symbols toward controllable response, sustainable process, bodily life, relationships, direct observation, and continued accumulation without guaranteed breakthrough. No settled contradiction was adopted. AI companionship, health improvement, creative payoff, personal satisfaction, names, chronology, and quotations remain speaker- or summary-scoped pending comparison with the audio. Broad host, show, company, and individual profile pages were kept closed because this ensemble source's bounded additions are represented in the focused source and concepts. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,149 sources across 799 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-09] lint | Wiki health check
 
