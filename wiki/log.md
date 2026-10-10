@@ -34872,7 +34872,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-10-11] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint without saving a report. Deterministic and graph-aware checks completed; semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix.
 
 ## [2026-10-11] ingest | How to Rewire Your Brain & Learn Faster | Dr. Michael Kilgard
 
@@ -34997,3 +34997,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-11] ingest | VOL.174你也被‘键盘侠’气到过吗？精神心理科医生教你如何应对
 
 Added source `vol-174-ni-ye-bei-jianpanxia-qi-daoguo-ma-jingshen-xinlike-yisheng-jiao-ni-ruhe-yingdui-lpt3ebh5z2bn-fkztfie3koxwjbi`; created [[OnlineAggressionPsychology|Online Aggression Psychology / 网络攻击心理机制]] and [[OnlineConflictDeescalation|Online Conflict De-escalation / 网络冲突降温]]; and resynthesized [[Deindividuation|Deindividuation / 去个体化]] from its complete preserved evidence inventory before appending the new source once. Core synthesis: anonymity and account-level abstraction can weaken restraint, but online hostility may also involve displaced frustration, insecurity, recognition needs, rigid certainty, rationalization, loneliness, or weak perspective-taking; these possibilities neither excuse harm nor diagnose a stranger. Recipient response should remain proportional, ranging from delay and selective non-engagement to documentation, moderation, and legal escalation. No settled contradiction was adopted. Personality-style language, upbringing claims, the informal “网络孤独症” label, health effects, and inferred motives remain source-scoped public psychoeducation. Broad show, host, empathy, and emotion-regulation pages were kept closed because the focused source, two new concepts, and one bounded resynthesis capture the durable addition without reopening large unchanged evidence inventories. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,383 sources across 801 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
