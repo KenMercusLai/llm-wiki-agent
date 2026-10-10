@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Expand Your Consciousness | Dr. Christof Koch](sources/scim8616450810-scim8616450810.md) — Huberman Lab interview on consciousness versus behavior and selfhood, perturbational complexity, covert consciousness, perception boxes, and source-scoped psychedelic metaphysics.
 - [VOL.179放屁前怎么辨别是屁还是便？憋屁真的会损害身体？](sources/vol-179-fangpi-qian-zenme-bianbie-shi-pi-haishi-bian-biepi-zhende-hui-sunhai-shenti-lke8oililc0gj089iguskllinpo0n.md) — 这病说来话长以直肠感觉和括约肌协调解释屁便辨别，并讨论排气、便形便色、腹泻便秘及益生菌使用边界。
 - [601. Scandal in the White House](sources/601-scandal-in-the-white-house-glt1369800109.md) — The Rest Is History on Grover Cleveland, Maria Halpin, the 1884 election, partisan scandal evidence, and the limits of inferring voter response.
 - [Essentials: How to Exercise for Strength Gains & Hormone Optimization | Dr. Duncan French](sources/essentials-how-to-exercise-for-strength-gains-hormone-optimization-dr-duncan-french-scim4597454016.md) — Condensed Huberman Lab interview on adaptation-led resistance training, recovery timing, demand-matched fuel, skill quality, and thermal exposure.
@@ -4421,6 +4422,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [077 《天龙八部》之慕容复篇：人间失格的复国者](sources/077-tianlongbabu-zhi-murongfu-pian-renjian-shige-de-fuguozhe-lhlkjiq4j4fqcldeggxxovwuolob.md) — 纸醉金迷FM analyzes Murong Fu's real ability, impossible restoration project, desire-bound identity, instrumental relationships, and paper-crown collapse.
 
 ## Entities
+- [Christof Koch](entities/ChristofKoch.md) — Neuroscientist connecting consciousness distinctions and clinical measurement with first-person altered states and qualified philosophical interpretation.
 - [Grover Cleveland](entities/GroverCleveland.md) — U.S. president whose anti-corruption candidacy survived unresolved allegations involving Maria Halpin in 1884.
 - [Maria Halpin](entities/MariaHalpin.md) — Buffalo working woman whose mediated allegations and missing unfiltered voice define the Cleveland scandal's evidentiary limits.
 - [1884 United States Presidential Election](entities/UnitedStatesPresidentialElection1884.md) — Close Cleveland-Blaine contest joining corruption, reform, tariffs, Civil War memory, and private-conduct allegations.
@@ -17551,6 +17553,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [慕容复 / Murong Fu](entities/MurongFu.md) — Talented but politically unequipped Great Yan claimant whose sovereign identity consumes relationships, restraint, and reality.
 
 ## Concepts
+- [Covert Consciousness](concepts/CovertConsciousness.md) — Retained awareness or intentional response hidden by an inability to move, speak, or respond behaviorally.
+- [Perception Box](concepts/PerceptionBox.md) — Model of experienced reality as constrained by priors, memory, culture, embodiment, receptors, and bodily state.
+- [Consciousness-Behavior Dissociation](concepts/ConsciousnessBehaviorDissociation.md) — Distinction between subjective experience, outward behavior, intelligence, communication, and self-consciousness.
 - [Partisan Scandal Evidence](concepts/PartisanScandalEvidence.md) — Claim-level method for evidence whose creation and transmission are shaped by political advantage.
 - [Political Scandal and Voter Alignment](concepts/PoliticalScandalVoterAlignment.md) — Framework separating scandal salience from unsupported claims about its net electoral effect.
 - [Divine Succession Myth](concepts/DivineSuccessionMyth.md) — Violent intergenerational transfer of cosmic sovereignty from Uranus through Cronos to Zeus.
