@@ -36143,10 +36143,6 @@ Added source `how-to-control-your-inner-voice-increase-your-resilience-dr-ethan-
 
 Ran lint. See lint-report.md for details.
 
-## [2026-10-12] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-10-12] ingest | 028 闲话金庸《飞狐外传》：恩仇分明，还是恩仇难明？
 
 Added source `lt97kvus4ycpixzfzhbv7j84z6ic-lt97kvus4ycpixzfzhbv7j84z6ic`; created [[MaChunhua|马春花]], [[MiaoRenfeng|苗人凤]], [[ZhaoBanshan|赵半山]], [[FengTiannan|凤天南]], and [[InheritedEnmityRevision|继承仇恨的修正]]; and resynthesized [[FeihuWaizhuan|《飞狐外传》]], [[HuFei|胡斐]], [[YuanZiyi|袁紫衣]], and [[ConsequenceSensitiveChivalry|后果敏感的侠义]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: Hu Fei's aid to Ma Chunhua mixes gratitude, urgent need,侠义 disposition, and possibly early feeling; his pursuit of Feng Tiannan gives stranger-directed redress priority over romantic pressure; and Miao Renfeng's observed trust, restraint, and courage make inherited vengeance inadequate under uncertain causation. Zhao Banshan supplies the mentor model joining martial skill to non-partisan moral judgment, while Ma Chunhua's apparent romantic options remain constrained by paternal authority, marital duty, class, hostile families, and unequal recognition. No settled contradiction was adopted. Motives, emotional mixtures, exact causal responsibility, chronology, dialogue, afterword wording, edition detail, and mentor symbolism remain disputed, interpretive, or source-scoped. Broad [[JinYong|金庸]] and [[ZhiZuiJinMiFM|纸醉金迷FM]] profiles were kept closed because the focused source, novel, characters, and concepts capture the durable addition without reopening much larger inventories. The automatic `wiki/overview.md` was read for context and was not manually rewritten because this focused literary branch does not change the global current-state map. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,539 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index coverage, identity, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
@@ -36602,6 +36598,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-10-12] ingest | EP18-真的！多失恋几次，你就长大了
 
 Added source `ep18-zhende-duo-shilian-jici-ni-jiu-zhangda-le-wkgkjfssv97cnmiaquf1985pci557`; created [[DaLinWushichaGuest|大琳]], [[LongHorizonLifeAccounting|长时间尺度人生总账]], and [[AdversityCapacityExpansion|逆境容量扩展]]; and resynthesized [[BreakupWorldLoss]], [[RuminationVsReflection]], [[RelationshipValueBeyondDuration]], and [[EmotionAcceptanceSignalAction]] from their complete preserved evidence inventories before appending the new source once. Core synthesis: breakup recovery can involve the simultaneous loss and rebuilding of relational, geographic, occupational, bodily, and social worlds; old records can sustain counterfactual replay or later support reflection depending on timing and use; an ended relationship can retain meaning without excusing betrayal or implying reconciliation; and growth can be judged over a whole-life horizon as increased capacity to carry adversity rather than immediate emotional victory. No settled contradiction was adopted. Medication, hormonal, dermatology, cosmetic-treatment, causality, former-partner motive, and recovery-timeline claims remain personal, second-hand, or source-scoped rather than medical guidance or a universal protocol. The broad [[WushichaYanjiusuo|无时差研究所]] profile was kept closed because focused pages capture the durable additions without reopening its much larger evidence inventory. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty topic and global compaction was not due; refreshed artifacts validate 4,583 sources across 802 overview paragraphs and nine topics. Changed-page wikilinks, source inventories, index and log coverage, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-10-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-10-12] lint | Wiki health check
 
