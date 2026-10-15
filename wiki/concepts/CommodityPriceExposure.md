@@ -1,69 +1,61 @@
 ---
 title: "Commodity Price Exposure"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [pricing, consumer-products, risk, operations]
-sources: [reeses-heir-vs-chocolate-skimpflation, ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]
+sources:
+  - reeses-heir-vs-chocolate-skimpflation
+  - ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv
+  - vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx
+  - tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128
+  - venezuelas-recent-economic-history-update
+  - dark-times-for-cubas-economic-experiment
+  - the-secret-meeting-that-launched-opec
+  - advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5
+  - jiufan-zhongting-mifeng-jingjixue-956460448
+  - catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2
+  - 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763
+  - shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014
 last_updated: 2026-08-10
 ---
 
 # Commodity Price Exposure
 
-Commodity price exposure is the operating risk created when a product's value proposition depends heavily on an input whose market price can move faster than customers' willingness to pay. In [[advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]], [[YearlyCo]] faces this through gold: higher gold prices raise order value, but repeated price increases reduce volume and push some customers out of the historical comfort range.
+## Definition
+Commodity price exposure is sensitivity to the price of a traded input or output, or to commodity-linked fiscal and supply flows. The relevant constraint differs for a food brand buying ingredients, a farmer selling crops, an airline buying fuel and an oil-exporting state.
 
-The concept is not only a margin problem. It can force a founder to decide whether the brand is truly about the material, the ritual, the design language, the customer relationship, or some combination of those. [[RonnenHarary]]'s advice to [[AnneWilliams]] is to use the broader Yearly Co. name to test other milestone products without undermining the solid-quality promise that made the brand credible.
-
-[[jiufan-zhongting-mifeng-jingjixue-956460448]] adds the selling-side version through Chinese honey. The episode argues that high output does not protect beekeepers if the product is treated as low-priced commodity honey, fake honey and concentrated-honey practices weaken trust, and [[HoneyQualityStandards]] do not clearly reward mature honey. In that setting, [[PollinationServiceMarket]] revenue becomes a possible way to reduce dependence on commodity honey sales.
-
-[[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] adds the beekeeper-livelihood version. [[MigratoryBeekeeperLivelihood|Migratory beekeepers]] can do intensive, weather-sensitive work while still facing low bulk honey prices; direct retail and mature honey can improve unit price, but customer access, harvest timing, and volume tradeoffs keep the income exposed.
-
-[[tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128]] adds a farm-operations version through [[AndrewNelson]]. The episode says low commodity prices and near-record input costs make farmers resourceful, so the technology question becomes how [[DigitalAgriculture]] and [[AIFarmDecisionSupport]] can improve decisions using existing equipment rather than requiring a major machinery purchase.
-
-[[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]] adds a packaged-food input version through [[CatalinaCrunch]]. [[KrishnaKaliannan]] cites sunflower oil spikes after Russia invaded Ukraine and monk fruit cost increases tied to tariffs on China, forcing supplier search, regional changes, and recipe adjustment while trying not to raise prices or shrink pouches.
-
-[[reeses-heir-vs-chocolate-skimpflation]] adds the chocolate-maker version through [[Hershey]] and [[Reeses|Reese's]]. A [[CocoaSupplyShock]] raised cocoa-butter costs enough that [[JudyGaines]] says chocolate companies faced all three levers: price increases, package shrinkage, and [[IngredientReformulationStrategy|reformulation]]. The episode shows commodity exposure becoming visible through [[ChocolateCompound|compound chocolate]] and [[ChocolateLabelStandards]], not only through higher prices.
-
-[[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] adds a historical commodity-market version through [[Coffee|coffee / 咖啡]]. The episode describes coffee speculation around war expectations, harvest outcomes, and [[Brazil]]ian overproduction, then frames coffee burning, producer organizations, origin protection, and organic/environmental labeling as attempts to keep producers from being crushed by undifferentiated output and price collapse. This connects commodity exposure directly to [[CoffeeCommodityPolitics]].
-
-[[the-secret-meeting-that-launched-opec]] adds an oil-market version where exposure comes from producer coordination, chokepoint shipping, and geopolitical conflict rather than from a single firm's input purchase. The episode uses [[OPEC]], [[OilProducerSupplyCoordination]], and [[StraitOfHormuz]] disruption to explain why gasoline prices may not fall simply because one producer wants to pump more.
-
-[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds an airline input-cost version through aviation fuel. The source says fuel is the largest cost item for Chinese airlines and explains how the [[AviationFuelSurcharge|fuel surcharge]] formula uses jet-fuel prices, exchange rates, distribution spreads, and fuel-burn rates, while [[AviationFuelCostPassThrough]] rules still leave airlines absorbing part of the shock.
-
-[[dark-times-for-cubas-economic-experiment]] adds a country-level oil-dependence version through [[Cuba]]. The source is less about global oil prices than about physical access to fuel: when favorable oil support from the [[SovietUnion]] and later [[Venezuela]] weakens or is blocked, electricity, transport, communication, tourism, and household routines all become exposed through [[OilDependencyBlackoutRisk]].
-
-[[venezuelas-recent-economic-history-update]] adds the exporter-side country version through [[Venezuela]]. The source says oil revenue funded state spending, imports, and cheap dollar access under [[HugoChavez]], then the 2014 oil-price collapse left [[NicolasMaduro]] with too few dollars to sustain imports or the official exchange-rate system. This turns commodity exposure into [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] rather than only price volatility.
-
-[[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] adds a 2025 asset-allocation version. [[Ricky]] treats China-linked black commodities as low-win-rate but potentially high-payoff if infrastructure and property demand surprise, while oil has more downside than upside in the source's view because Chinese demand, U.S. shale, [[OPEC]] capacity, and possible Russia-Ukraine supply changes all pressure the balance.
+## Current Synthesis
+For a premium jewelry brand facing gold costs, moving to cheaper materials can protect a price point while diluting the [[ProductLedWillingnessToPay|product value]] that attracted customers. Packaged food presents a formulation version: [[CatalinaCrunch]] reports swings in sunflower oil and sweetener costs; a cocoa shock prompted debate over [[Reeses|Reese's]] chocolate coatings, with [[Hershey]] offering a different account from critics of perceived [[Skimpflation|quality reduction]]. Honey and [[Coffee|coffee]] show producer-side exposure: output volume does not guarantee a viable price when bulk buying, standards, imitation, overproduction or speculation weaken returns. A farmer facing low crop prices and high inputs has less room for new equipment, while airlines may pass some aviation-fuel cost through regulated surcharges without eliminating demand risk. At state scale, [[Venezuela]]'s [[OilRevenueDependence|oil dollars]] funded imports and exchange-rate policy before a 2014 price shock; [[Cuba]]'s fuel shortage is chiefly a physical-supply and [[ExternalPatronDependence|patron-dependence]] example, with [[OilDependencyBlackoutRisk|power outages]] rather than only price exposure. [[OPEC]] coordination changes producer incentives, not the existence of price or geopolitical risk. A dated 2025 investment forecast is a scenario rather than a universal price rule.
 
 ## Key Claims
-- Input-price shocks can turn a premium product into a smaller-market product even when margins are protected.
-- A founder should distinguish the material customers love from the emotional or functional job the material serves.
-- Expanding into adjacent materials or categories is safer when the brand promise is explicit and the cheaper option does not look like quality dilution.
-- Commodity exposure can be reduced by product architecture, material diversity, pricing tiers, or occasion-based extensions, but each route has brand-risk tradeoffs.
-- The concept complements [[ProductLedWillingnessToPay]] because price increases are sustainable only when customers still understand the value.
-- Commodity exposure can also arise from the output side when producers sell into a low-trust, weakly differentiated market rather than from an input-cost shock alone.
-- Small producers can reduce output-price exposure through direct retail or quality differentiation, but only if they can reach customers and survive the slower production rhythm.
-- For ingredient-dependent CPG, exposure can force formulation and supplier changes, not only pricing changes.
-- Chocolate adds the label-risk version: if a commodity shock pushes a brand from milk chocolate to compound coating, [[Skimpflation]] concerns can become a consumer-trust problem.
-- Producer-side commodity exposure can trigger coordination, destruction of surplus, origin labeling, or standards as protective responses.
-- Farm-level commodity exposure can favor software and information leverage when low output prices and high input costs make new equipment hard to justify.
-- Oil-price exposure can depend on producer quotas, swing-producer behavior, shipping confidence, and reserve rebuilding rather than only on total geological supply.
-- Airline fuel exposure turns an oil-market input into regulated passenger surcharges, but surcharge formulas do not fully remove margin or demand risk.
-- Country-level oil exposure can appear as blackouts and service failure when the problem is access to fuel, not just price.
-- Exporter-side oil exposure can become a currency crisis when state budgets, imports, and official exchange rates all depend on oil dollars.
-- Vol.115 adds that commodity exposure should separate win rate from payoff: cyclical China-linked commodities may have poor current odds but large upside if policy transmission changes, while oil can face supply and demand pressure at the same time.
+- Input shocks force tradeoffs among price, ingredient or material integrity, margins and the brand promise; cheaper substitutes do not automatically preserve willingness to pay.
+- Output producers can remain exposed even with strong volume when weak differentiation, standards, weather or low commodity prices limit the price they receive.
+- Price shocks at farm and airline level interact with input budgets, technology choices and incomplete regulated pass-through rather than vanishing at the checkout.
+- Oil exposure can propagate through producer coordination, currency and public finances; physical fuel access is a related but distinct supply vulnerability.
+- Exposure may be hedged or reframed through product tiers, quality differentiation, direct sales or coordinated supply, but every option has cost, reach or governance constraints.
 
-## Connections
-- [[YearlyCo]] and [[AnneWilliams]] - source case.
-- [[RonnenHarary]] and [[GuyRaz]] - advisors who reframe the problem from gold dependence to milestone value.
-- [[StoryLedConsumerBranding]], [[ConsumerBrandMoat]], and [[ProductLedWillingnessToPay]] - adjacent brand and pricing concepts.
-- [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[HoneyQualityStandards]], and [[PollinationServiceMarket]] - honey-output and beekeeper-income extension.
-- [[MigratoryBeekeeperLivelihood]] - EP261 field version of low-price honey exposure.
-- [[AndrewNelson]], [[DigitalAgriculture]], and [[AIFarmDecisionSupport]] - farm decision-support extension under commodity and input-cost pressure.
-- [[CatalinaCrunch]], [[KrishnaKaliannan]], [[CPGManufacturingScaleUp]], and [[PackagingAsProductExperience]] - packaged-food case where input shocks affect formula, suppliers, and pack value.
-- [[Hershey]], [[Reeses|Reese's]], [[CocoaSupplyShock]], [[ChocolateCompound]], and [[Skimpflation]] - chocolate case where input shocks affect formula, labels, and brand trust.
-- [[Coffee]], [[Brazil]], and [[CoffeeCommodityPolitics]] - coffee speculation, overproduction, and producer-protection extension.
-- [[OPEC]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], [[GreenParadox]], and [[StraitOfHormuz]] - oil-market coordination and chokepoint extension.
-- [[AviationFuelSurcharge]], [[AviationFuelCostPassThrough]], [[ChinaNationalAviationFuel]], and [[BudgetAirlineCostSqueeze]] - airline fuel-cost extension.
-- [[Cuba]], [[Venezuela]], [[ExternalPatronDependence]], and [[OilDependencyBlackoutRisk]] - country-level oil access extension.
-- [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] - Venezuela exporter-side extension.
-- [[ChinaFiscalExpansionChannels]], [[ChinaRealEstateDebtCycle]], [[AssetAllocation]], and [[GoldMonetaryAnchor]] - vol.115 commodities and cross-asset allocation extension.
+## Evidence
+### Material and formulation decisions
+- [[advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5]] records [[AnneWilliams]]' report of four [[YearlyCo]] gold-bangle price increases in two years, with its original 14-karat bangle approaching $700, and [[RonnenHarary]]'s advice to clarify whether customers buy the metal, ritual or relationship before changing material or price tiers. This is a founder's episode-time account, not a current price quote.
+- [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]] attributes Catalina Crunch's reported sunflower-oil and sweetener shocks to founder [[KrishnaKaliannan]], who describes formulation and supplier tradeoffs. [[reeses-heir-vs-chocolate-skimpflation]] covers cocoa-butter costs, [[IngredientReformulationStrategy|reformulation through]] [[ChocolateCompound|compound coating]] versus milk-chocolate and peanut-butter labeling under [[ChocolateLabelStandards|composition standards]], and Hershey's alternative explanation, against [[JudyGaines|Judy Gaines]]' criticism; the episode quotes cocoa butter rising from roughly $3,000 to $25,000 per ton, but that source-scoped shock does not by itself establish why any given recipe changed.
+### Producer prices and farm budgets
+- [[jiufan-zhongting-mifeng-jingjixue-956460448]] discusses Chinese honey's low-price/[[HoneyQualityStandards|quality-and-imitation]] market and possible differentiated/direct-sale responses; its US orchard contracts distinguish [[PollinationServiceMarket|paid pollination]] from honey sales. [[ep261-mifeng-weiji-ruguo-shiqu-mifeng-shijie-jianghui-zenyang-lqp-cwcdxx1ziixb35ijmmvd6cv]] describes migratory beekeepers' weather, pollination and low bulk-honey price pressures without confusing managed bees with wild pollinators.
+- [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] recounts coffee's boom/bust, [[Brazil|Brazilian]] output and producer responses including origin and [[CoffeeCommodityPolitics|supply measures]]. [[tech-20260107-0107-mp-tech-pod-128-tech-20260107-0107-mp-tech-pod-128]] interviews farmer [[AndrewNelson]] about weak crop prices against high input costs and the attraction of information/[[DigitalAgriculture|software leverage]] over capital-intensive equipment.
+### Fuel, state revenue and market organization
+- [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] describes China's [[AviationFuelCostPassThrough|aviation-fuel surcharge]] rules, which reference [[ChinaNationalAviationFuel|national jet-fuel distribution]] and incomplete pass-through to passengers. [[venezuelas-recent-economic-history-update]] links [[HugoChavez|Chávez-era]] Venezuelan oil receipts, imports and 2003-era [[CurrencyControlTrap|exchange-rate controls]] to a later [[ImportApprovalBottleneck|import-dollar approval bottleneck]] and the 2014 oil-price collapse under [[NicolasMaduro|Maduro]]; these policies amplified rather than merely coincided with the shock. [[dark-times-for-cubas-economic-experiment]] emphasizes Cuba's interrupted fuel provision from [[SovietUnion|Soviet]] and Venezuelan patrons, not merely a quoted market price.
+- [[the-secret-meeting-that-launched-opec]] discusses the producer meeting behind OPEC, quotas, [[SwingProducerRole|swing-production capacity]] and strategic supply; its [[StraitOfHormuz|Hormuz chokepoint]] example concerns shipping and geopolitical route risk rather than an observed price change in every cited case. [[vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx]] is [[Ricky|Ricky]]'s time-bound 2025 [[AssetAllocation|asset-allocation]] forecast about China-linked black commodities and oil, separating low current win rate from hypothetical upside.
+
+## Counterevidence & Qualifications
+- Input inflation, low output prices, currency exposure and outright fuel shortage are not one interchangeable mechanism; direct retail or substitution may be inaccessible or harm trust.
+- Hershey disputes the interpretation of the Reese's change, so retain the competing explanation. OPEC members' announced strategy does not prove perfect price control.
+- The 2025 portfolio view is dated advice, not verified returns or a lasting law; commodity-cycle figures and state-policy interpretations belong to the named sources.
+
+## What Changed
+- Grouped twelve notes by buyer, seller, pass-through and state exposure instead of recounting each arrival; kept Cuba's physical shortage and contested chocolate labeling separate.
+
+## Related Concepts
+- [[CocoaSupplyShock]] - ingredient-cost shock behind the chocolate formulation dispute.
+- [[Skimpflation]] - consumer-trust risk when quantity or composition changes under price pressure.
+- [[MigratoryBeekeeperLivelihood]] - producer-side honey and pollination revenue pressures.
+- [[AviationFuelSurcharge]] - regulated, partial pass-through of fuel input costs.
+- [[OilProducerSupplyCoordination]] - producer coordination and strategic supply affect oil prices.
