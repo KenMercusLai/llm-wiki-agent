@@ -2,32 +2,47 @@
 title: "百里奚 / Baili Xi"
 type: entity
 tags: [person, minister, spring-and-autumn, qin-state]
-sources: [zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3, zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]
+sources:
+  - zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3
+  - zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9
+  - zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p
+  - zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut
 last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
 ---
 
 # 百里奚 / Baili Xi
 
-百里奚 / Baili Xi appears in [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] as the ministerial comparison [[ShangYang|公孙鞅 / 商鞅]] wants [[ZhaoLiang|赵良]] to make. The episode presents him as another outsider talent without strong family backing, but with a very different remembered ending.
+## Overview
+百里奚 is remembered in these history-podcast readings as the low-status, late-recognized minister of [[QinMugong|秦穆公]] whose career became a comparison for later debates over political trust and use of talent. Later speakers' invocations are evidence of his exemplary afterlife, not new acts by him.
 
-The source summarizes Baili Xi's long failed career before Qin: he wanders among states, takes office in Yu late in life, becomes captive after Jin destroys Yu, is sent as a dowry slave toward Qin, escapes to Wan, and is made a cattle herder after being seized by Chu people. His reversal comes when [[QinMugong|秦穆公]] hears of him and redeems him for five black ram skins, creating the "五羖大夫" title.
+## Current Profile
+The narrative runs from displacement and enslavement to appointment in Qin; [[ZhaoLiang|赵良]] later contrasts his reputed achievements and unguarded public standing with [[ShangYang|商鞅]]'s coercive security. [[YaoJia|姚贾]] and [[HanXin|韩信]] invoke that older story to defend evaluating usefulness beyond origins or prior defeat.
 
-The episode uses Baili Xi to sharpen Shang Yang's self-image. Qin Mu Gong's recognition of Baili Xi becomes an earlier success story for outsider talent, while [[QinXiaogong|秦孝公]]'s later ambition to revive Qin greatness makes Shang Yang want to see himself as a greater version of that precedent.
+## Key Characteristics
+- A wandering and captive outsider was reportedly redeemed and appointed despite a humiliating status history.
+- The ministerial legacy in Zhao Liang's rebuke joins achievements with restraint and public trust.
+- His origin becomes a later precedent against rejecting useful ministers for low birth or captivity.
+- His career becomes a separate Chu–Han analogy for employing a defeated adviser's still-useful judgment.
 
-[[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]] turns Baili Xi from a setup into the positive half of [[ZhaoLiang|赵良]]'s rebuke. Zhao Liang says Baili Xi held power without generating Qin resentment, helped Qin act eastward against Zheng, repeatedly assisted Jin ruler-making, and helped Chu avoid calamity. His personal conduct is also part of the argument: he is remembered as traveling without grand vehicles, entourage, or guards, and his death produces public grief across Qin society.
+## Evidence
+- **Reversal of status:** The Zhouji 24 reading traces wandering, late service in Yu, captivity after Jin's conquest, transfer as a dowry slave, escape to Wan and cattle herding after Chu capture. Qin Mu Gong reportedly redeemed him for five black ram skins and made him the “五羖大夫”; this frames [[ShangYang]]'s wish to be his greater successor under [[QinXiaogong]]. [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]]
+- **Achievement with public standing:** Zhao Liang's Zhouji 25 speech credits him with action toward Zheng, repeated assistance to Jin rulers and aid to Chu, while describing travel without grand carriage, escort or guards and widespread mourning at death. The contrast is with Shang Yang's armed protection and reliance on ruler favor: [[PeopleBasedPoliticalSecurity]] here is Zhao Liang's argumentative interpretation, not a measured security mechanism. [[zizhi-tongjian-zhouji-25-zhaoliang-dui-shangyang-shuo-ni-bupei-lnqmwjbrc9qomwrdt5brourf-78p]]
+- **Low-origin precedent:** In a later Qin court debate, Yao Jia replies to [[HanFei]]'s attack on his biography by citing Baili Xi among men whose earlier gatekeeper, captive or slave associations did not bar effective service. [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]]
+- **Defeated-adviser precedent:** After Zhao's defeat, Han Xin releases and honors [[LiZuoChe|李左车]]; when Li refuses to advise as a defeated general, Han invokes Baili Xi to separate failure under one ruler from usefulness under another. Li then recommends rest, Zhao pacification and envoy pressure toward Yan before Qi; the source narrates Yan's submission, not Qi's. [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3]]
 
-That remembered mourning matters because the episode contrasts it with [[ShangYang|公孙鞅 / 商鞅]]'s security-heavy life. Baili Xi becomes an example of [[PeopleBasedPoliticalSecurity|民心型政治安全]]: achievement joined to social trust can lower personal danger, while achievement joined to fear can make power depend on coercion and ruler protection.
+## Qualifications
+- The praise and mourning scene are Zhao Liang's speech in a later political rebuke, as relayed by the podcast. They should not be converted into independent proof that Baili Xi faced no opposition.
+- Yao Jia and Han Xin are much later users of a precedent. Their arguments do not extend Baili Xi's biography into Warring States or Chu–Han events.
+- The Zhouji source's comparison between historical texts concerns Shang Yang's resentment, not a settled alternative account of Baili Xi's career.
 
-[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Baili Xi as a key precedent in [[YaoJia|姚贾]]'s answer to [[HanFei|韩非]]. Yao Jia invokes Baili Xi's gatekeeper/captive/slave associations to argue that low status and embarrassing biography are not enough to reject a minister once useful service is possible.
+## What Changed
+- The biography and the three distinct later political uses of that biography are now separated, preserving the five-ram-skin account and Zhao Liang's concrete conduct comparison.
 
-[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds Baili Xi as Han Xin's talent-use analogy rather than as a direct Spring-and-Autumn biography case. When [[LiZuoChe|李左车]] says a defeated general cannot advise, [[HanXin|韩信]] invokes Baili Xi to argue that failure under one ruler does not erase later usefulness under another. The reference extends Baili Xi's wiki role inside [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] and [[UseStrengthsOverFaults|用人取长弃短]].
-
-## Connections
-- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[HanXin|韩信]], [[LiZuoChe|李左车]], and [[UseStrengthsOverFaults|用人取长弃短]] - talent-use analogy for treating a defeated adviser as still strategically valuable.
-- [[ShangYang|公孙鞅 / 商鞅]] - later Qin minister who invites the comparison.
-- [[ZhaoLiang|赵良]] - interlocutor asked to judge the comparison.
-- [[QinMugong|秦穆公]] - ruler who redeems and appoints him.
-- [[QinState|秦国]] - state whose earlier rise is associated with his service.
-- [[PeopleBasedPoliticalSecurity|民心型政治安全]] and [[PowerExitTrap|权力退场困境]] - contrast case for Shang Yang's harsher and less survivable path.
-- [[TalentAttractionThroughRespect]] - adjacent wiki frame for ruler recognition of unusual talent.
-- [[YaoJia|姚贾]], [[HanFei|韩非]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - low-origin talent precedent in Yao Jia's defense.
+## Relationships
+- [[QinMugong]] - ruler credited with redeeming and appointing him in [[QinState]].
+- [[ShangYang]] - later minister seeking comparison; [[ZhaoLiang]] rejects it by contrasting public trust and coercion.
+- [[PowerExitTrap]] - adjacent interpretation of Shang Yang's unsafe dependence on protection, with Baili Xi used as counterexample.
+- [[YaoJia]] - uses his humble origin to answer [[HanFei]]'s biographical attack.
+- [[HanXin]] - invokes his example to recruit [[LiZuoChe]]'s advice; [[UseStrengthsOverFaults]] names the logic.
+- [[TalentAttractionThroughRespect]] - ruler recognition and honorable handling of otherwise discarded talent.
