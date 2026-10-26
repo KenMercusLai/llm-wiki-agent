@@ -2,31 +2,47 @@
 title: "边章 / Bian Zhang (late Han)"
 type: entity
 tags: [person, late-han, rebel, liangzhou]
-sources: [zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3, zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd, zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw, zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]
+sources:
+  - zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3
+  - zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd
+  - zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw
+  - zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 边章 / Bian Zhang (late Han)
 
-[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] adds Bian Zhang's initial coercion layer before the later Ji County encounter. After [[XianlingQiang|先零羌]] and associated groups kill [[LingZhengLateHan|伶征]], they elevate [[BeigongBoyuLateHan|北宫伯玉]] and [[LiWenhouLateHan|李文侯]] and force Bian Zhang plus [[HanSui|韩遂]] into military-political management.
+## Overview
+边章（Bian Zhang）在晚汉凉州叛乱记述中先被胁迫参与军政，后来与韩遂共同指挥叛军；他的死亡与领导权移转有相冲突的记载。
 
-[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds Bian Zhang's earlier Ji County encounter with [[GaiXunLateHan|盖勋]]. The source says Bian Zhang had been coerced and was handling military-political affairs for the [[XianlingQiang|先零羌]] side; when Gai Xun rebukes him, Bian Zhang answers that earlier intervention might have left him room to repent, but that his current crimes are already too heavy.
+## Current Profile
+这一人物不能简单写成从头自愿领导叛乱：184年前后的胁迫与蓟城撤围、185年的战场行动，以及187年韩遂整合部众，是不同阶段。关于其结局，节目所循《资治通鉴》叙述与病死异说并存。
 
-The result is still politically meaningful: Bian Zhang withdraws the siege of Ji County. This gives his page a pre-Hanji-935 branch in which he is not yet only the paired rebel with Han Sui, but an actor whose self-description and retreat expose both coercion and point-of-no-return logic.
+## Key Characteristics
+- 西部动乱中先零羌等杀害地方官后强迫边章和韩遂管理叛军。
+- 面对盖勋在蓟城的责问，他自称罪重难返，随后撤围。
+- 185年与韩遂对抗张温军，战事转向美阳、榆中及粮道争夺。
+- 187年韩遂整合叛军时，边章退出领导层，但死因有杀害与病死两说。
 
-[[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]] backfills Bian Zhang before the later Han Sui consolidation branch. He is paired with [[HanSui|韩遂]] as the western rebel actor whom [[ZhangWenLateHan|张温]] is appointed to suppress in 185 CE. The source says Bian Zhang and Han Sui defeat Zhang Wen at Meiyang, then withdraw toward Yuzhong after [[DongZhuo|董卓]] and right Fufeng-side forces counterattack.
+## Evidence
+- **胁迫入局：** [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3]] 记[[XianlingQiang|先零羌]]等杀[[LingZhengLateHan|伶征]]，拥立[[BeigongBoyuLateHan|北宫伯玉]]、[[LiWenhouLateHan|李文侯]]，并强迫边章和[[HanSui|韩遂]]负责军政；不能把其起点改写为主动结盟。
+- **蓟城撤围：** [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]] 记[[GaiXunLateHan|盖勋]]责问边章；“早劝尚可悔、如今罪太深”是转述的本人答话。边章随后撤围，既显示尚能作战术选择，也不证明获赦。
+- **185年战场：** [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw]] 将边章和韩遂列为[[ZhangWenLateHan|张温]]的对手：叛军在美阳击败张温后受[[DongZhuo|董卓]]等反击退向榆中；[[SunJianLateHan|孙坚]]见叛军缺粮，建议[[ZhouShenLateHan|周慎]]率主力策应、由自己带一万兵截其外部粮道，周慎未采纳而直接围城，反遭叛军切断汉军在葵园峡的粮路。
+- **领导权更替：** [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw]] 叙述韩遂于187年吞并或除去边章、北宫伯玉和李文侯之部后进攻[[LongxiCommandery|陇西郡]]；同时明确记载边章病死的异说。
 
-In that pursuit, Bian Zhang's side benefits when [[ZhouShenLateHan|周慎]] rejects [[SunJianLateHan|孙坚]]'s supply-line plan and the rebels cut the Han army's grain road instead. This gives Bian Zhang a source-scoped active military branch before Hanji 937 treats his disappearance or absorption as part of Han Sui's larger rebel consolidation.
+## Qualifications
+- 盖勋对话中的“罪深”是节目转述的边章自陈，不是经独立证实的罪状清单。
+- “韩遂杀边章”和“边章病死”不能拼合为同一确定死因；兵力归并也不意味着能确证每一步具体交接。
+- 184年胁迫入局不抹去185年军事行动，后期行动也不证明最初是自愿参加。
 
-边章 / Bian Zhang (late Han) enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] as one of the Liang州 rebel figures whose force is absorbed by [[HanSui|韩遂]]. The episode follows the Zizhi Tongjian account that Han Sui kills Bian Zhang, while noting a variant tradition that Bian Zhang dies of illness.
+## What Changed
+- 将起初的被迫参与与后来主动战事区分开。
+- 保留死亡异文，不再把领导权转移写成确证的谋杀。
 
-His page is source-scoped to the consolidation problem. Whether by killing or succession after illness, Bian Zhang's disappearance helps Han Sui turn a multi-leader rebellion into a larger force able to attack [[LongxiCommandery|陇西郡]].
-
-## Connections
-- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[LingZhengLateHan|伶征]], [[BeigongBoyuLateHan|北宫伯玉]], [[LiWenhouLateHan|李文侯]], and [[HanSui|韩遂]] - first coercion into the western rebel command field.
-- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[GaiXunLateHan|盖勋]], and [[XianlingQiang|先零羌]] - Ji County rebuke, coerced rebel role, and siege withdrawal.
-- [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]], [[ZhangWenLateHan|张温]], [[ZhouShenLateHan|周慎]], and [[SunJianLateHan|孙坚]] - active 185 CE western rebel branch before later disappearance/absorption.
-- [[HanSui|韩遂]] - actor who absorbs Bian Zhang's force in the episode's main account.
-- [[BeigongBoyuLateHan|北宫伯玉]] and [[LiWenhouLateHan|李文侯]] - paired rebel figures absorbed in the same sequence.
-- [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - concept frame for rebel-leader consolidation.
-- [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] - source case.
+## Relationships
+- [[HanSui]] - 初为一同被迫管理叛军者，后成为部众整合的主角。
+- [[BeigongBoyuLateHan]] - 起事时被拥立的首领；[[LiWenhouLateHan]] - 同期首领。
+- [[GaiXunLateHan]] - 蓟城责问使边章撤围的官员。
+- [[ZhangWenLateHan]] - 185年汉军统帅；[[ZhouShenLateHan]] - 榆中粮道战事中的汉军将领。
+- [[InterestStructuredAllianceFragility]] - 可用于理解多头叛军合并，但不是死因证据。
