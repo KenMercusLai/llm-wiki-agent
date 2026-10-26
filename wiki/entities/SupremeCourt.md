@@ -2,45 +2,57 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [the-invention-invention, tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128, how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence, a-trip-to-the-magic-mushroom-megachurch]
+sources:
+  - the-invention-invention
+  - tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128
+  - how-we-got-free-agents-in-baseball
+  - the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what
+  - indicators-of-2025-and-what-to-watch-in-2026
+  - sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978
+  - 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809
+  - the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad
+  - jerome-powell-and-the-test-of-fed-independence
+  - a-trip-to-the-magic-mushroom-megachurch
 last_updated: 2026-08-07
+knowledge_schema: synthesis-v1
 ---
 
 # Supreme Court
 
-[[the-invention-invention]] adds the Court through the glass-container patent-pool case. The source says the Court found the pool's output restriction, price fixing, and competitor blocking unlawful under the [[ShermanAntitrustAct|Sherman Antitrust Act]], helping establish the fair, reasonable, and nondiscriminatory licensing logic later captured by [[FRANDLicensing]].
+## Overview
+The U.S. Supreme Court appears across these sources as a constitutional and statutory boundary-setter rather than a single-purpose actor.
 
-[[how-we-got-free-agents-in-baseball]] adds the Court through [[FloodVKuhn|Flood v. Kuhn]], where [[CurtFlood]] challenged [[MajorLeagueBaseball|MLB]]'s [[BaseballReserveClause|reserve clause]]. The source says the Court ruled against Flood and left the [[BaseballAntitrustExemption|baseball antitrust exemption]] in place, but that the case still helped shift public opinion and labor leverage toward [[BaseballFreeAgency|free agency]].
+## Current Profile
+Episodes describe antitrust, baseball labor, tariffs, online age checks, controlled-substance religion, impeachment procedure, Federal Reserve removal and contested executive-power guardrails. Several are dated pending-case accounts, not settled holdings.
 
-[[a-trip-to-the-magic-mushroom-megachurch]] adds the Court through a 2006 ayahuasca religious-exemption decision. The source says the Court agreed that the government had not shown enough harm or diversion risk in that case, making it a precedent signal for [[ReligiousControlledSubstanceExemption]] claims by newer [[PsychedelicChurches]].
+## Key Characteristics
+- Statutory interpretation and antitrust decisions can shape entire markets, including patent pools, baseball and tariffs.
+- Judicial review can constrain state or executive action while simultaneously limiting other routes to reform.
+- Political commentators disagree on whether recent Court conduct protects democratic resilience or expands executive precedent.
+- Presidential impeachment places the Chief Justice in a Senate trial, not in charge of conviction.
+- Specific religious exemptions and pending Fed-removal litigation require narrow case-level qualification.
 
-[[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] adds the Court to the [[OnlineAgeVerification]] branch. [[DrewHarwell]] says a [[Texas]] explicit-content age-verification law reached the Court, and the episode treats the ruling as a legal signal that made lawmakers more aggressive about requiring websites to check whether users are old enough.
+## Evidence
+- **Competition law can restrain coordination even where it enables invention.** In the [[GlassContainerPatentPool]] account, output limits, fixed prices and exclusion of rivals violated the [[ShermanAntitrustAct]], sharpening [[PatentPoolCartelRisk]] and subsequent [[FRANDLicensing]] boundaries. The labor contrast is [[CurtFlood]]: after [[BowieKuhn]] rejected his challenge to [[BaseballReserveClause]], Flood, [[ArthurGoldberg]] and the union lost [[FloodVKuhn]], leaving [[BaseballAntitrustExemption]] for [[MajorLeagueBaseball]] in place, yet the episode credits [[PublicOpinionLitigationStrategy]] with later labor leverage toward [[BaseballFreeAgency]]. The decision itself did not create free agency. [[the-invention-invention]] [[how-we-got-free-agents-in-baseball]]
+- **A later tariff holding resolves one earlier pending question, not the entire tariff regime.** A 2025 indicators episode treated [[Costco]]’s challenge to [[EffectiveTariffRateShock]] and the [[BlanketTariffLimit]] as a 2026 watchpoint, alongside the [[FederalFundsRateAsPolicySignal]]. The later [[KathleenClaussen]] interview says the Court rejected sweeping [[DonaldTrump]] tariffs under IEEPA because authority to regulate importation did not authorize that general levy. More than $100 billion reportedly collected left [[TariffRefundUncertainty]] for importers, while [[Section122TariffAuthority]] and other statutes were not foreclosed; this is an [[IEPATariffAuthorityLimit]], not a ban on every tariff. [[indicators-of-2025-and-what-to-watch-in-2026]] [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]]
+- **Digital safety and religious liberty operate at case-specific boundaries.** [[DrewHarwell]] says a [[Texas]] explicit-content age-verification ruling encouraged further [[OnlineAgeVerification]] laws, contributing to an [[AgeVerificationPatchwork]] with privacy and smaller-site compliance costs; it is not an across-the-board approval of every age check. A distinct 2006 ayahuasca case under the [[ControlledSubstancesAct]], set against [[NativeAmericanChurch]] practice, required attention to religious use and demonstrated harm or diversion risk. It offers [[PsychedelicChurches]] a possible [[ReligiousControlledSubstanceExemption]] path through [[DEAExemptionProcess]] and case-specific scrutiny such as the [[MyersTest]], not automatic protection for them. [[tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128]] [[a-trip-to-the-magic-mushroom-megachurch]]
+- **Judicial guardrails can be read in opposing ways.** In the [[UnitedStates]], [[RobertGuest]] treats review of presidential actions as evidence of [[AmericanDemocraticResilience]], whereas [[DanielKnowles]] warns that Court votes may establish enduring [[ExecutivePowerPrecedent]]. [[LinYao]] separately argues that even constitutionally sound invalidation of state experiments can reduce [[USFederalismVetoPoints]] as a route to reform within [[USConstitutionalReformConstraint]] and [[USConstitutionalCrisisRisk]]. None of these assessments is itself a holding of the Court. [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]]
+- **Institutional roles must not be confused with outcomes.** Under the [[UnitedStatesConstitution]], the Chief Justice presides at a presidential [[PresidentialImpeachment]] trial, but the House impeaches and the Senate convicts only by a two-thirds vote; the Court does not vote to remove the president. This is a [[SeparationOfPowers]] distinction. Episodes about the [[FederalReserve]] and [[LisaCook]] frame her attempted removal as a still-pending test of [[ForCauseRemovalStandard]] and [[CentralBankIndependence]], not a judicial resolution, even though an earlier indicator episode also anticipated arguments in 2026. [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] [[jerome-powell-and-the-test-of-fed-independence]] [[indicators-of-2025-and-what-to-watch-in-2026]]
 
-[[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] resolves the tariff-authority watchpoint from [[indicators-of-2025-and-what-to-watch-in-2026]] inside the source set. The Court struck down [[DonaldTrump]]'s sweeping IEPA-based tariffs, making [[IEPATariffAuthorityLimit]] a concrete limit on one emergency-power route while leaving [[Section122TariffAuthority]] and other tariff statutes available.
+## Qualifications
+Tariff ruling resolves only the earlier IEEPA watchpoint, not all congressional authority questions. The Fed removal example remains pending in the registered source set. Guest and Knowles disagree on institutional resilience; a 2006 religious-exemption result does not confer automatic protection on unrelated psychedelic churches.
 
-[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the Court to the state-experimentation problem. [[LinYao|林垚]] notes that Supreme Court review can correctly strike down unconstitutional state laws while still reducing the older reform path in which state-level experiments spread upward into federal change.
+## What Changed
+- A later IEEPA tariff holding resolves one previously pending question while preserving other statutory paths.
+- Resilience and expanded executive precedent remain competing interpretations, and Fed-removal litigation is not treated as settled.
 
-The [[SupremeCourt]] appears in [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] as a disputed guardrail in the U.S. democratic system. [[RobertGuest]] treats the Court as evidence that [[AmericanDemocraticResilience]] still has institutional force because it can constrain presidential overreach. [[DanielKnowles]] reads recent Court behavior more darkly, arguing that votes around executive power suggest constitutional limits are becoming weaker.
-
-The source's main contribution is not a doctrinal account of specific cases, but a governance question: when courts ratify new presidential powers, they may create [[ExecutivePowerPrecedent]] that survives the president who first benefits from it. That makes the Court part of the wiki's wider institutional-design thread rather than only a legal actor.
-
-[[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] adds the Court's impeachment-procedure role. In presidential impeachment trials, the Chief Justice presides in the Senate, which keeps [[PresidentialImpeachment]] from being framed as a purely legislative confidence vote even though conviction remains a Senate decision.
-
-[[jerome-powell-and-the-test-of-fed-independence]] adds a [[FederalReserve]] removal-law case. The source says [[LisaCook]]'s attempted firing was before the Supreme Court and treats the result as potentially decisive for whether presidents can effectively remove Fed governors at will.
-
-[[indicators-of-2025-and-what-to-watch-in-2026]] adds two source-dated Supreme Court watchpoints for 2026. The episode says the Court was expected to hear arguments in [[LisaCook]]'s removal case and to rule on whether [[DonaldTrump]] could impose the 2025 tariff shock without congressional approval, connecting the Court to both [[FederalFundsRateAsPolicySignal]] and [[EffectiveTariffRateShock]].
-
-## Connections
-- [[GlassContainerPatentPool]], [[PatentPoolCartelRisk]], [[ShermanAntitrustAct|Sherman Antitrust Act]], and [[FRANDLicensing]] - patent-pool antitrust branch added by Planet Money.
-- [[CurtFlood]], [[BowieKuhn]], [[ArthurGoldberg]], [[MajorLeagueBaseball]], [[FloodVKuhn]], [[BaseballReserveClause]], [[BaseballAntitrustExemption]], and [[PublicOpinionLitigationStrategy]] - baseball labor and antitrust branch added by Planet Money.
-- [[ReligiousControlledSubstanceExemption]], [[PsychedelicChurches]], [[NativeAmericanChurch]], [[ControlledSubstancesAct]], and [[DEAExemptionProcess]] - psychedelic church exemption branch added by Planet Money.
-- [[OnlineAgeVerification]], [[AgeVerificationPatchwork]], [[Texas]], and [[DrewHarwell]] - age-verification legal-signal branch added by Marketplace Tech.
-- [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[Section122TariffAuthority]], and [[KathleenClaussen]] - tariff-ruling aftermath branch added by Planet Money.
-- [[UnitedStates]] - country and constitutional system in the source.
-- [[AmericanDemocraticResilience]] - optimistic reading of institutional guardrails.
-- [[ExecutivePowerPrecedent]] - risk that court-sanctioned presidential power persists.
-- [[DonaldTrump]], [[RobertGuest]], and [[DanielKnowles]] - political figure and commentators in the episode's guardrail debate.
-- [[PresidentialImpeachment]], [[SeparationOfPowers]], and [[UnitedStatesConstitution]] - impeachment-procedure branch added by 蜜獾吃书.
-- [[FederalReserve]], [[LisaCook]], [[ForCauseRemovalStandard]], [[CentralBankIndependence]], and [[ExecutivePowerPrecedent]] - Fed-removal branch added by Planet Money.
-- [[Costco]], [[EffectiveTariffRateShock]], and [[BlanketTariffLimit]] - tariff-authority branch added by the indicator source.
-- [[USFederalismVetoPoints]], [[USConstitutionalReformConstraint]], and [[USConstitutionalCrisisRisk]] - state-experimentation and reform-limit branch added by sp.05.
+## Relationships
+- [[UnitedStatesConstitution]] - framework for judicial review and impeachment procedure
+- [[IEPATariffAuthorityLimit]] - specific emergency-tariff holding
+- [[Section122TariffAuthority]] - alternative authority not foreclosed by IEEPA ruling
+- [[FederalReserve]] - institution whose removal protections may be tested
+- [[AmericanDemocraticResilience]] - optimistic interpretation debated in source
+- [[ExecutivePowerPrecedent]] - countervailing concern about accumulated power
+- [[FloodVKuhn]] - baseball exemption litigation
+- [[OnlineAgeVerification]] - regulatory branch after Texas ruling
+- [[ReligiousControlledSubstanceExemption]] - narrow case-dependent exception
