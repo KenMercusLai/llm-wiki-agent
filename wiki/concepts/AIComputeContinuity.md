@@ -2,91 +2,67 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128, tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]
+sources:
+  - tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128
+  - tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128
+  - e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128
+  - tech-20260213-tech-pod-128-tech-20260213-tech-pod-128
+  - tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128
+  - chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun
+  - e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf
+  - shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076
+  - fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd
+  - the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers
+  - ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci
+  - tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128
+  - e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793
+  - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
 last_updated: 2026-08-05
+knowledge_schema: synthesis-v1
 ---
 
 # AI Compute Continuity
 
-AI compute continuity is the ability to keep AI services, model APIs, coding agents, inference workloads, and GPU-backed business processes available when compute regions, power, cooling, networks, or model-serving infrastructure are disrupted. [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] adds a geopolitical and physical-infrastructure layer to the wiki's existing [[AIInferenceCostStructure]] and [[MaaSInfrastructure]] themes.
+## Definition
+AI compute continuity is the ability to keep model-serving and AI-dependent work usable through disruptions or delays in physical capacity, power, cooling, network, memory, finance and permissions.
 
-The episode's coding-tool anecdote makes the issue concrete: when an AI coding service such as [[ClaudeCode]] is unavailable, individual workflows can fall back to manual work, but quality, speed, and review load may change. At larger scale, interruption of GPU-heavy data centers can affect many teams' production capacity.
-
-[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds the energy-scarcity version. The source argues that every token ultimately depends on electricity and physical compute, so power supply, data centers, chips, cooling, and [[HoloAssets]] can become first-order constraints on how much AI work the economy can perform.
-
-[[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] adds the cooling-system version. If high-density racks cannot move heat out fast enough, AI compute continuity can fail through throttling, shutdown, maintenance risk, or energy cost before the model-serving software itself becomes the bottleneck.
-
-[[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds the social-permission version. The episode's [[DataCenterBacklash]] segment shows that compute continuity can also be constrained by local opposition to the buildings, noise, and power demand required for AI services.
-
-[[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds the regulated-grid version. Data centers may have capital and hardware, but their usable compute still depends on utility approvals, connection terms, long power contracts, and whether [[PublicUtilityCommissions]] allow grid upgrades in ways that avoid [[DataCenterCostShifting]].
-
-[[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the state-incentive version. [[DataCenterTaxIncentives]] can accelerate where compute capacity is built by reducing upfront and electricity costs, but they also expose AI compute continuity to tax-policy review, job requirements, capital thresholds, and energy-use politics.
-
-[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the long-term finance version through [[Alphabet]]. If model services require sustained data-center and AI infrastructure buildout, compute continuity depends not only on chips, power, cooling, and permitting, but also on whether companies can finance capacity over many years without undermining flexibility or investor confidence.
-
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the political-procurement version through [[StargateAIInfrastructure]]. The episode treats [[Oracle]]'s role in a large U.S. AI infrastructure plan and its [[OpenAI]] data-center relationship as evidence that compute continuity can depend on government-backed strategic positioning as well as chips, power, cooling, and financing.
-
-[[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the onsite-power version through [[Caterpillar]]. If data centers cannot wait years for grid interconnection, [[DataCenterOnsitePower]] can bring capacity online faster, but compute continuity then depends on natural gas engines, generator supply, fuel logistics, and maintenance capacity.
-
-[[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]] adds the second-life battery version through [[RedwoodMaterials]]. If reused EV batteries power a data center disconnected from the grid, compute continuity depends on battery availability, state of health, charge source, power electronics, fire-safety controls, and operational monitoring as well as chips and networks.
-
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the memory-continuity version. AI services can have chips and power but still be constrained if [[HighBandwidthMemory]], DRAM, NAND, packaging, or [[MemoryCapacityLockIn]] fail to keep pace with inference and agent workloads.
-
-[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds the domestic semiconductor-continuity version. AI services need stable access to chips, fabs, packaging, power, EDA tools, software ecosystems, and enough economical capacity; otherwise [[ComputeFreedom|算力自由]] remains blocked even if a prototype chip exists.
-
-[[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds the order-delivery version. Even if [[Nvidia]] has demand for [[NvidiaBlackwellPlatform|Blackwell]] and [[NvidiaVeraRubinPlatform|Vera Rubin]], compute continuity depends on [[AdvancedPackaging]], [[HighBandwidthMemory]], interconnect, GPU-cloud operations, firmware, SLA, land, power, and onsite generation turning systems into reliable model service.
-
-[[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]] adds the cluster-networking version through [[AmazonWebServices|AWS]]'s networking hardware lab. [[SatishVangala]]'s fiber, connector, and [[OpticalTransponders|transponder]] examples show that compute continuity can fail or slow at the data-movement layer even when processors exist; deployment speed and network resilience decide whether AI clusters become reliable capacity.
-
-[[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds a historical network-capacity reminder through [[DarkFiber]]. The episode does not say dark fiber solves AI compute continuity, but it shows that capacity installed ahead of demand can later become an enabling layer when applications finally arrive.
-
-[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds the orbital-compute version. If ground data centers are blocked by power, approval, or cooling, [[SpaceBasedAIInfrastructure]] may look like a continuity alternative; the source keeps that conditional on [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], launch cadence, communications, and orbital governance.
-
-[[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]] adds the domestic supernode continuity version. If Chinese model companies need large systems for models such as [[KimiK3|Kimi K3]], continuity depends on whether [[Huawei]], [[Sugon]], [[AlibabaCloud|Alibaba Cloud]], [[BaiduAICloud|Baidu AI Cloud]], and domestic chip vendors can deliver stable [[AIAcceleratorSupernode|supernodes]] rather than only announce hardware.
+## Current Synthesis
+Availability is not just GPU inventory or an uptime percentage: booked systems must become delivered tokens and a service needs routing, data, fallback and human review. The source notes mostly document separate bottlenecks; their coexistence does not prove a given service actually went offline.
 
 ## Key Claims
-- AI services depend on physical regions, power, cooling, networks, and specialized hardware rather than only model software.
-- High-density GPU facilities can be more strategically valuable and more operationally fragile than ordinary web-serving capacity.
-- The continuity problem is not just uptime; it includes latency, model routing, quota, fallback models, data availability, and human review.
-- AI-assisted coding, customer support, search, media generation, and agents can all become exposed when shared model-serving infrastructure fails.
-- Companies should distinguish local low-latency serving from durable backup capacity for core data and critical workflows.
-- Energy availability can cap token production even when model software and user demand are strong.
-- Thermal capacity can also cap token production: cooling loops, pumps, water treatment, and control systems decide whether dense compute can stay online under changing workload.
-- Local opposition and permitting fights can cap or delay compute buildout even when capital, chips, and cooling designs are available.
-- Utility approvals, rate design, and grid-upgrade financing can also cap or delay compute buildout.
-- State tax incentives can accelerate compute buildout, but electricity exemptions and public subsidy reviews can become constraints when power demand rises.
-- Long-duration borrowing can support compute continuity when it funds capacity, but it also ties continuity to credit-market confidence and future AI returns.
-- Strategic infrastructure programs can make political access part of compute continuity when scarce sites, power, procurement, and national policy decide which providers scale first.
-- Onsite generator power can accelerate data-center deployment, but it creates another continuity dependency on industrial equipment, fuel, emissions tolerance, and service capacity.
-- Second-life battery power can accelerate deployment, but it adds continuity dependencies around stored-energy capacity, recharge path, degradation, safety, and control systems.
-- Memory and storage continuity matter alongside GPU availability: HBM, DRAM, NAND, CXL pooling, and packaging decide whether accelerators can stay fed with data.
-- Domestic compute continuity requires a working [[SemiconductorSupplyChain]] loop, not only imported accelerators or one-off domestic chips.
-- Platform demand is not continuity by itself; booked systems still need packaging, memory, switches, power, cooling, and operating teams before they become available tokens.
-- Cluster networking can bind compute continuity if fiber, connectors, transponders, deployment workflows, or reliability cannot keep pace with AI cluster demand.
-- Network capacity can be latent rather than useless: dark fiber became useful only after later services created enough traffic and economics to light it.
-- Orbital compute can diversify the physical location of AI capacity, but only by adding new dependencies on launch, satellite operations, radiative cooling, and space-traffic governance.
-- Domestic supernodes can improve continuity when Nvidia supply is constrained, but only if interconnect, software, power, cooling, and service operations are stable enough for production workloads.
+- Power, cooling and permitted sites determine whether installed accelerators can operate continuously.
+- Memory, packaging and cluster networking are distinct throughput and resilience dependencies even with chips on order.
+- Long-term financing, policy support and local consent affect when capacity becomes deployable, not merely its unit cost.
+- Grid workarounds and geographic diversification exchange one dependency for others.
+- Operational fallback must protect critical work when a model endpoint or region becomes unavailable.
 
-## Connections
-- [[MaaSInfrastructure]] — platform layer that turns compute into usable model service.
-- [[AIInferenceCostStructure]] — cost and capacity constraints behind token supply.
-- [[DigitalInfrastructureWarRisk]] — conflict can interrupt AI compute regions.
-- [[DataCenterPhysicalResilience]] — physical facility dependence.
-- [[DataCenterThermalManagement]] — thermal and cooling layer added by the 商业就是这样 source.
-- [[DataCenterBacklash]] — local siting and public-opposition layer added by The Intelligence.
-- [[PublicUtilityCommissions]], [[AIEnergyBottleneck]], and [[DataCenterCostShifting]] — regulated-grid layer added by Marketplace Tech.
-- [[DataCenterTaxIncentives]], [[NicholasMiller]], and [[NationalConferenceOfStateLegislatures]] — state tax-policy layer added by the later Marketplace Tech episode.
-- [[Alphabet]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[AIEquityValuationRisk]] - long-term financing layer added by the February 13 Marketplace Tech Bytes episode.
-- [[StargateAIInfrastructure]], [[Oracle]], [[OpenAI]], and [[PoliticalRegulatoryLeverage]] - political-procurement layer added by 商业就是这样.
-- [[DataCenterOnsitePower]], [[Caterpillar]], [[DanAckerman]], and [[DavidVictor]] - onsite power and generator-backlog layer added by the February 16 Marketplace Tech episode.
-- [[RedwoodMaterials]], [[SecondLifeEVBatteryStorage]], and [[BatteryRecyclingLoop]] - reused-battery storage layer added by the January 29 Marketplace Tech episode.
-- [[WarAwareDisasterRecovery]] — failover planning for AI workloads.
-- [[ClaudeCode]] and [[AICodingVerification]] — workflow example where tool availability and human review quality interact.
-- [[HoloAssets]], [[CAPEXOPEXSubstitution]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — energy and hard-asset extension added by E155.
-- [[AIStorageSupercycle]], [[MemoryWall]], [[HighBandwidthMemory]], and [[MemoryCapacityLockIn]] — memory-supply extension added by What's Next.
-- [[ComputeFreedom]], [[DomesticAIChipCatchUp]], [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], and [[AdvancedPackaging]] — semiconductor-chain continuity branch added by EP270.
-- [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[GPUCloudOperations]], [[NeoCloud]], [[DataCenterPowerBottleneck]], and [[TokenPerWatt]] - E230's order-to-token continuity branch.
-- [[AmazonWebServices|AWS]], [[SatishVangala]], [[AIClusterNetworking]], [[FiberConnectorDeployment]], and [[OpticalTransponders]] - cluster-networking continuity branch added by Marketplace Tech.
-- [[DarkFiber]], [[PaulVixie]], and [[ProductiveBubbleSpillovers]] - historical network-capacity analogy added by Marketplace Tech.
-- [[SpaceBasedAIInfrastructure]], [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], and [[OrbitalComputeGovernance]] - orbital-compute continuity branch added by E239.
-- [[AIAcceleratorSupernode]], [[ScaleUpAIInterconnect]], [[DomesticAIChipOrderValidation]], [[HuaweiCM384]], and [[Sugon]] - domestic supernode continuity branch added by S10E23.
+## Evidence
+- The [[DigitalInfrastructureWarRisk]] episode uses potential [[ClaudeCode]] unavailability to illustrate manual-work fallback, changed review load and cable/data-center exposure; it does not establish an observed cross-service outage rate. [[WarAwareDisasterRecovery]] distinguishes local low-latency model serving from durable backup for critical data and work; alternate model routing, quotas and [[AICodingVerification]] matter when [[MaaSInfrastructure]] is interrupted. Sources: [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]].
+- E155 ties token output to electricity, [[HoloAssets]] and a proposed [[HumanResourceDeflationComputeInfrastructureInflation]] shift, while 商业就是这样 describes rack heat, pumps, water treatment and controls in [[DataCenterThermalManagement]]. The utility-regulation account describes [[PublicUtilityCommissions]] deciding grid connection, upgrade costs and [[DataCenterCostShifting]]; local [[DataCenterBacklash]] and state [[DataCenterTaxIncentives]] can alter siting or schedule. The Marketplace Tech discussion with [[NicholasMiller]] of the [[NationalConferenceOfStateLegislatures]] treats tax exemptions as a policy choice, not a reliability guarantee. Sources: [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]], [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]], [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]], [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]].
+- E230 distinguishes [[Nvidia]] demand for [[NvidiaBlackwellPlatform]] and [[NvidiaVeraRubinPlatform]] from service: [[AdvancedPackaging]], [[HighBandwidthMemory]], switches, firmware, [[GPUCloudOperations]] at [[NeoCloud]] operators, cooling and power must turn ordered systems into reliable tokens. The storage discussion adds DRAM/NAND, CXL pooling and [[MemoryCapacityLockIn]]; [[AmazonWebServices]] researcher [[SatishVangala]]’s lab examples of fiber connectors and [[OpticalTransponders]] show why [[AIClusterNetworking]] and [[FiberConnectorDeployment]] matter. Sources: [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]], [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]], [[tech-20260126-0126-mp-tech-pod-128-tech-20260126-0126-mp-tech-pod-128]].
+- The EP270 semiconductor discussion puts [[ComputeFreedom]] behind a [[SemiconductorSupplyChain]] of fabs, [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], packaging, power and software; [[DomesticAIChipCatchUp]] cannot rest on a single prototype. The domestic supernode analysis asks whether [[Huawei]]’s [[HuaweiCM384]], [[Sugon]], [[AlibabaCloud]] and [[BaiduAICloud]] can run stable [[AIAcceleratorSupernode]] workloads such as those sought for [[KimiK3]]; [[ScaleUpAIInterconnect]] and [[DomesticAIChipOrderValidation]] distinguish announcements from delivered capacity. Sources: [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]], [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]].
+- [[Caterpillar]] onsite gas generators can bypass long grid queues but require fuel, emissions tolerance, service and equipment supply, as [[DanAckerman]] and [[DavidVictor]] discuss. [[RedwoodMaterials]] second-life EV batteries bring different charge, degradation, controls and safety dependencies within a [[BatteryRecyclingLoop]]. Neither [[DataCenterOnsitePower]] nor [[SecondLifeEVBatteryStorage]] removes the underlying energy balance. Sources: [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]], [[tech-20260129-0129-mp-tech-pod-128-tech-20260129-0129-mp-tech-pod-128]].
+- [[Alphabet]] long bonds raise [[DataCenterDebtRisk]] and [[AIEquityValuationRisk]], while [[Oracle]] and [[OpenAI]]’s [[StargateAIInfrastructure]] position illustrates possible [[PoliticalRegulatoryLeverage]] in strategic procurement, not proof of guaranteed continuity. [[PaulVixie]]’s [[DarkFiber]] example offers a historical analogy for later usefulness of latent networks. [[SpaceBasedAIInfrastructure]] remains hypothetical pending [[OrbitalDataCenterEconomics]], [[OrbitalDataCenterThermalManagement]], launch cadence, links and [[OrbitalComputeGovernance]]. Sources: [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]], [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]], [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]], [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]].
+
+## Counterevidence & Qualifications
+- The geopolitical coding-tool anecdote and many company orders are isolated reports, not cross-service reliability statistics.
+- Orbital compute is a proposal, not a deployed failover; installed dark fiber is historical analogy rather than a current fix.
+- Power, memory and finance dependencies can constrain expansion without independently causing an outage.
+
+## What Changed
+- The page now distinguishes the buildout pipeline from live-service fallback and tests each proposed workaround for new failure modes.
+
+## Related Concepts
+- [[AIInferenceCostStructure]] - prices the tokens whose supply must remain usable
+- [[DataCenterPhysicalResilience]] - covers facility-level survivability
+- [[AIEnergyBottleneck]] - sets the grid and generation ceiling on capacity
+- [[DataCenterPowerBottleneck]] - isolates power delivery within the wider continuity problem
+- [[AIInfrastructureDebtFinancing]] - connects long-run credit capacity to construction schedules
+- [[AIStorageSupercycle]] - captures memory investment needed to feed accelerators
+- [[MemoryWall]] - describes bandwidth limitations even when compute chips exist
+- [[ProductiveBubbleSpillovers]] - helps interpret infrastructure built before demand arrives
+- [[TokenPerWatt]] - measures useful inference against scarce power
+- [[CAPEXOPEXSubstitution]] - frames up-front hardware versus ongoing service economics
