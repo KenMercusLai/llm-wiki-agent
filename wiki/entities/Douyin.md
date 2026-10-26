@@ -2,61 +2,92 @@
 title: "Douyin"
 type: entity
 tags: [company, short-video, platform, travel, local-commerce, short-drama, china]
-sources: [xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054, no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305, 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja, 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7, 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]
+sources:
+  - xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195
+  - kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054
+  - no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305
+  - 167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja
+  - 159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7
+  - 141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj
+  - musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz
+  - kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun
+  - fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1
+  - vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244
+  - 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob
+  - touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d
+  - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
+  - 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx
+  - faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0
+  - cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc
 last_updated: 2026-08-16
+knowledge_schema: synthesis-v1
 ---
 
 # Douyin
 
-[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]] adds Douyin to the episode's platform-centralization comparison. The source treats stronger algorithmic feed control as closer to a centralized regime for creators, making Douyin an example for [[AlgorithmicDispersedKnowledge]] and [[AlgorithmicPublicAppearance]] rather than only short-video distribution.
+## Overview
+Douyin 是字节跳动在中国的短视频推荐、广告与交易入口；它的注意力优势可延伸至短剧、本地生活和旅行，但这些业务的审核、履约及主动购买逻辑并不等同于刷视频。
 
-[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]] adds Douyin as one of the Chinese comparison surfaces in [[AlgorithmicDiversityDividend]]. The episode argues that no single platform escapes filtering, but moving between Douyin, [[Xiaohongshu]], books, audio, and conversation can make filter differences more visible than staying inside one feed.
+## Current Profile
+资料从算法容器、组织化增长、内容产业链和交易边界来刻画平台。它能汇聚流量、测试创意并出售分发，却不能因此推定图文社区、OTA 或本地商家履约已被其替代。
 
-[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]] adds Douyin as a short-video distribution surface in [[CreatorDrivenFinancialNarrative]]. The source does not analyze Douyin's product strategy directly; it treats the platform as one place where creator commentary and algorithmic attention can reinforce market narratives.
+## Key Characteristics
+- 全屏推荐容器擅长短视频发现，但与搜索/收藏/双列比较习惯存在适配边界。
+- 增长依赖长期 LTV 预算、内容事件、广告归因和红包激励等系统协同。
+- 短剧分发同时掌握流量、付费放大、审查和变现闸口。
+- 本地生活与旅行将内容发现转成交易，同时暴露佣金、商家履约和信任问题。
+- 与 TikTok 的产品知识互通，却不能直接复制跨国文化和语言环境。
+- 竞争与算法公共性是外部解释框架，不应被当成平台内部意图的事实证明。
 
-[[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds Douyin as the domestic benchmark and contrast case for [[TikTok]]. [[Vanessa]] says Douyin data could inform TikTok, but it was not a standard answer because TikTok had to operate across multiple countries, languages, and cultural contexts. The source also uses Douyin's attempts to absorb [[Xiaohongshu]]-style image/text content to illustrate [[ProductContainer]] mismatch in a full-screen swipe feed.
+## Evidence
+- **容器与公共性：** [[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]]记其观察到用户从“搜小红书”转向“搜且逛”，遂加图文和种草入口，但全屏推荐与[[Xiaohongshu]]搜索、收藏和双列选择不天然等价（[[ProductContainer]]、[[LifestyleSearchCommunity]]）。[[167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja]]借哲学类比讨论集中式[[AlgorithmicPublicAppearance]]与[[AlgorithmicDispersedKnowledge]]；[[159-suanfa-de-liufu-miankong-ta-shi-ruhe-cong-chuli-shuju-biancheng-dingyi-women-shi-shui-de-lh5ng5mbvkworfxlq9l-coscepc7]]则强调跨 Douyin、书籍、音频和其他平台的[[AlgorithmicDiversityDividend]]可暴露不同过滤机制，并非某一平台绝对封闭。
+- **增长系统：** [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]]把早期推送、分享、红点、春节自然裂变与《中国有嘻哈》内容事件连接到[[ByteDanceGrowthSystem]]，称长期用户价值预测让付费获客容忍短期亏损；Douyin 行为底座还帮助[[QishuiMusic]]个性化。[[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]]记[[DouyinLite]]用金币、任务和红包训练初期使用，再依主信息流与广告留存，[[Doushenshen]]以券与低价日常订单尝试[[CouponLedTransactionGrowth]]；这些不是全部品类通用的增长公式。
+- **内容分发与闸口：** [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]]称 Douyin 是[[AIShortDrama]]的测试/推荐入口，相对[[Hongguo]]当时较偏真人短剧，IAP 向广告变现的转向改变[[ShortDramaEconomics]]。[[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]]记[[AnhuiXiaoMujiang]]约 3000 元成本作品累计 3.5 亿播放，却涉及发行方与付费投流，后续三部作品被拒审或下架；[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]]中[[Taitai]]把制作、投流、平台三方区分，并将 Douyin、Hongguo 与[[Seedance]]置于内容工具—审核—变现链（[[ShortDramaPaidTrafficDistribution]]）。
+- **交易与履约：** [[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]]把 Douyin、[[Meituan]]、[[Fliggy]]、[[JDTravel]]视为可能挑战[[Ctrip]]的注意力/交易入口，而非已经取代[[OnlineTravelAgency]]库存。[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]]记商户称[[Doubao]]导入 Douyin 酒店订单的综合费率约 12%且高于此前 Douyin 自然流订单，Doubao 则称生活服务无付费推广、仅订单完成后收费，两说并置（[[AITravelCommerceTrust]]、[[PlatformIntermediationTax]]）。[[fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1]]描述鲜花/蛋糕直播间以全国一小时送达揽单再转本地店履约的压力；[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]]报道电商上半年 GMV 增速低于内部预期，剔除视频/直播引导后主动搜索下单仅占小份额。[[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]]的广州听众仅提供蓝月亮在 Douyin 投放的城市商业观察，不证明交易深度。
+- **本土与跨国差异：** [[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]]中[[Vanessa]]说 Douyin 数据对[[TikTok]]有参考价值，却不是多语言、多国家市场的标准答案；与[[MusicalLy]]整合、内容密度及本地化运营属于另一问题（[[GlobalProductLocalization]]）。
+- **竞争与注意力：** [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]]将[[NeihanDuanzi]]关停后的监管压力和[[Tencent]]舆论冲突解释为 Douyin 生存威胁；其 UGC 推荐生态区别于[[TencentWeishi]]和内嵌微信的[[WeChatChannels]]。[[141-jiageng-yinwei-boke-wo-shouyao-qu-gelunbiya-daxue-zuo-fangwenxuezhe-le-lluk9kruhveokkbmfo0adrj7etpj]]仅把它列为[[CreatorDrivenFinancialNarrative]]的注意力分发面，与[[Kuaishou]]、[[Xueqiu]]等并列，并不研究 Douyin 内部证券算法。
 
-[[no-214-xunzhao-tonglei-xiaohongshu-bilibili-yiji-wuhuabamen-de-naxie-shequ-zhongguo-hulianwang-gushi-26-1005977305]] gives that Xiaohongshu competition more source detail. The episode says Douyin noticed users moving from "search Xiaohongshu" to "search plus browse Xiaohongshu", then added image-text sections and seed-shopping entries. The result reinforces [[ProductContainer]] and [[LifestyleSearchCommunity]]: Xiaohongshu's search, collection, and two-column comparison behavior is not naturally equivalent to Douyin's full-screen recommendation loop.
+## Qualifications
+- 算法与政治哲学节目使用类比，不能据此认定平台治理的实证机制或政治制度。跨平台消费能缓解但不能消除[[InformationCocoon]]。
+- 3.5 亿播放是单个作品且含投流，审核失败说明复制风险；商户 12% 综合费率与 Doubao 官方说法不能抹平。鲜花/蛋糕转单是中介案例，不能自动归责于平台本身。
+- OTA 竞争是潜在可能而非已完成替代；增长机制在低摩擦免费内容之外效果有边界，电商主动搜索比例也属于报道时点。[[Doushenshen]]向日常交易迁移尚未证实。
 
-Douyin appears in [[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]] as a possible later challenger to [[Ctrip]] in travel booking. The source's point is not that Douyin is already the same kind of OTA, but that attention platforms can turn discovery, recommendations, local commerce, and booking intent into travel distribution.
+## What Changed
+- 将发现与交易、自然流量与投流、国内产品借鉴与跨国适配分开判断。
 
-This makes Douyin part of the broader question of whether [[OnlineTravelAgency]] concentration can be weakened by platforms whose strength starts outside lodging inventory.
-
-[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds the [[Doubao]]-to-Douyin hotel-order version of that travel question. The source says merchants reported separate Doubao channel attribution and a higher comprehensive fee than earlier Douyin natural-flow orders, while Doubao said merchants could not pay to influence recommendation or ranking.
-
-[[fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1]] adds a local-commerce angle. The source says flower and cake live rooms on Douyin can advertise national one-hour delivery while transferring orders to nearby shops for actual fulfillment. The page should not overstate Douyin's direct responsibility for every intermediary practice, but it does make Douyin a visible surface where attention, live sales, local delivery promises, and merchant margin pressure meet.
-
-[[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] adds a lighter city-commerce observation: a Guangzhou submission mentions Blue Moon investing in Douyin, placing the platform inside everyday brand marketing and local commercial attention rather than only travel or live-commerce fulfillment.
-
-[[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds Douyin as the main current distribution and testing surface for [[AIShortDrama]] in the guests' account. The episode describes Douyin's algorithmic testing, paid-traffic amplification, IAP-to-IAA monetization shift, and short-video consumption scene as central to [[ShortDramaEconomics]].
-
-[[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]] adds Douyin as the platform that turned the [[ToutengWar]] from abstract company rivalry into an urgent conflict. The hosts argue that after [[NeihanDuanzi]] was shut down and short-video products were being rectified, ByteDance treated public pressure from [[Tencent]] and youth-safety narratives as a survival risk for Douyin. The same source contrasts Douyin's UGC/recommendation ecology with [[TencentWeishi]] and [[WeChatChannels]].
-
-[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Douyin as a repeated growth case: old Toutiao-style push, sharing, red dots, long-term LTV modeling, Spring Festival natural裂变, China Has Hip Hop-style content events, and Douyin Lite red-packet segmentation all show how [[ByteDanceGrowthSystem]] connects product, content, paid traffic, and retention. The source also treats Douyin as the account and behavior base that helps [[QishuiMusic]] personalize music recommendations.
-
-[[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds Douyin as the decisive approval, distribution, and monetization surface for [[AnhuiXiaoMujiang]]. The episode says the work reached 350 million plays after distributor and paid-traffic amplification, while later AI short dramas from the same creator failed Douyin review or were removed, making Douyin a gatekeeper as much as a traffic pool.
-
-[[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds two Douyin growth extensions. [[DouyinLite]] is the short-video Lite-app version where coins, tasks, and red packets train early use while the core feed and ad system create retention. [[Doushenshen]] is the local-life direction where coupons and low-price daily offers try to move Douyin from content seeding and campaign traffic toward repeat transaction demand.
-
-[[cong-yangshi-jilupian-dao-baokuan-ai-duanju-di-yi-pi-zhuanshen-de-daoyan-s10e11-3c05e3d5-d8f6-44c1-97ca-698261d7b2bc]] adds Douyin to the producer-side [[ShortDramaPaidTrafficDistribution]] map. [[Taitai]] describes the short-drama chain as production side, traffic-buying side, and platform side, with Douyin sitting beside [[Hongguo]] and C-DANCE/[[Seedance]] in the source's ByteDance-adjacent stack where traffic, review, and monetization power concentrate.
-
-[[kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054]] adds an ecommerce growth warning. The source says Douyin ecommerce's first-half GMV growth was below internal expectations and that, after excluding short-video and livestream guidance,主动搜索下单 accounted for only a small share of GMV. This adds a transaction-depth caveat to the page's existing attention and local-commerce branches.
-
-## Connections
-- [[AlgorithmicDispersedKnowledge]], [[AlgorithmicPublicAppearance]], and [[PublicRelevanceAlgorithms]] - episode 167's platform-centralization comparison.
-- [[AlgorithmicDiversityDividend]], [[Xiaohongshu]], [[FeedCuration]], and [[InformationCocoon]] - episode 159's multi-platform comparison branch.
-- [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
-- [[Doubao]], [[AITravelCommerceTrust]], and [[PlatformIntermediationTax]] — hotel-order channel and fee context added by 声动早咖啡.
-- [[TikTok]], [[MusicalLy]], [[GlobalProductLocalization]], and [[ProductContainer]] — globalization and container-fit comparison added by the Musical.ly/TikTok source.
-- [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — concept links.
-- [[LocalLifePlatformDependency]] and [[PlatformIntermediationTax]] — local-commerce fulfillment and margin-split context from the flower/cake teaser.
-- [[CityCommercialObservation]] — broader listener-submission frame for seeing Douyin as a city-commerce surface.
-- [[Hongguo]], [[AIShortDrama]], [[ShortDramaEconomics]], and [[AIVideoProductionWorkflow]] — short-drama distribution and AI-video creator context from episode 266.
-- [[AnhuiXiaoMujiang]], [[XiaoGuoGege]], and [[ShortDramaPaidTrafficDistribution]] — episode 267 creator case, approval constraint, and paid-traffic mechanism.
-- [[ToutengWar]], [[NeihanDuanzi]], [[TencentWeishi]], [[WeChatChannels]], and [[RecommendationDistributionAdvantage]] — ByteDance/Tencent short-video rivalry context from the Touteng source.
-- [[ByteDanceGrowthSystem]], [[RedPacketGrowth]], [[LTVBasedGrowthBudgeting]], [[CreativeMaterialIndustrialization]], [[QishuiMusic]], and [[AIConsumerGrowthMetrics]] — growth and account-system context added by the episode 7 source.
-- [[DouyinLite]], [[Doushenshen]], [[LiteAppGrowth]], [[CouponLedTransactionGrowth]], and [[SpringFestivalGrowthCampaign]] — Lite-app and local-life growth context added by episode 8.
-- [[Taitai]], [[Chouxiangzai]], [[YiWanFuWengHuiGui]], [[AIShortDramaOverseasLocalization]], and [[AIDirectorCoreWorkflow]] — AI short-drama producer-side branch added by What's Next.
-- [[CreatorDrivenFinancialNarrative]], [[InformationCocoon]], [[Xiaohongshu]], [[Kuaishou]], and [[Xueqiu]] — episode 141's market-narrative distribution extension.
-- [[LifestyleSearchCommunity]], [[ChineseMobileInternetCommunities]], and [[ProductContainer]] - Xiaohongshu competition branch added by episode 214.
-- [[ByteDance]], [[Doubao]], [[ByteDanceGrowthSystem]], and [[AIConsumerGrowthMetrics]] - ecommerce growth and AI-shopping branch added by 声动早咖啡.
+## Relationships
+- [[ByteDance]] - 平台母公司和增长组织背景。
+- [[ByteDanceGrowthSystem]] - 长期 LTV 与创意/投放协作的增长机制。
+- [[DouyinLite]] - 以激励启动使用的轻量入口。
+- [[Doushenshen]] - 探索券驱动日常交易的本地生活方向。
+- [[Xiaohongshu]] - 搜索/浏览容器不同的竞争参照。
+- [[TikTok]] - 跨国产品参照，非直接复制品。
+- [[Kuaishou]] - 短视频与注意力市场的竞争参照。
+- [[Hongguo]] - 短剧分发链的关联平台。
+- [[Ctrip]] - 潜在旅行竞争中的既有 OTA。
+- [[Doubao]] - 争议酒店订单导流入口。
+- [[Tencent]] - 短视频争议中的公司对手。
+- [[ToutengWar]] - 监管与竞争相互纠缠的来源解释。
+- [[ProductContainer]] - 全屏推荐和图文搜索的适配界限。
+- [[RecommendationDistributionAdvantage]] - 平台可测试和放大内容的优势。
+- [[ShortDramaPaidTrafficDistribution]] - 发行、投放、审核的组合机制。
+- [[LocalLifePlatformDependency]] - 本地店承接平台流量与履约的风险。
+- [[PlatformAntitrust]] - OTA 集中度讨论的邻近政策议题，不是已证实的 Douyin 违法判定。
+- [[CityCommercialObservation]] - 广州品牌投放的旁证而非平台战略实测。
+- [[AIShortDramaOverseasLocalization]] - 制片节目相邻的海外语言适配话题，非国内 Douyin 已完成成果。
+- [[AIDirectorCoreWorkflow]] - 制片人相邻的制作工作流，非平台独占技术。
+- [[AIConsumerGrowthMetrics]] - AI-product growth metrics in ByteDance's broader organization, not Douyin's direct outcome.
+- [[AIVideoProductionWorkflow]] - AI short-drama production workflow distributed on Douyin, not owned by it.
+- [[ChineseMobileInternetCommunities]] - community-history frame explaining why recommendation is not synonymous with social ties.
+- [[Chouxiangzai]] - short-drama creator appearing in the producer-side account, not a platform executive.
+- [[CreativeMaterialIndustrialization]] - scaling ad-creative supply as part of ByteDance growth.
+- [[FeedCuration]] - user control and exposure differences across recommendation feeds.
+- [[LTVBasedGrowthBudgeting]] - modeled future value used for paid acquisition.
+- [[LiteAppGrowth]] - acquisition pattern Douyin Lite adapts with rewards.
+- [[OTAPlatformConcentration]] - potential travel competition context, not a completed displacement.
+- [[PublicRelevanceAlgorithms]] - philosophical question of whose content becomes publicly visible.
+- [[RedPacketGrowth]] - reward infrastructure for early app engagement.
+- [[SpringFestivalGrowthCampaign]] - seasonal content and user-spread growth case.
+- [[TravelSuperAppConvenience]] - incumbent travel bundling that attention-led entry has yet to match.
+- [[XiaoGuoGege]] - creator case adjacent to the AI-drama distribution discussion.
+- [[YiWanFuWengHuiGui]] - named AI short-drama work in the producer account, not proof of platform-wide performance.
