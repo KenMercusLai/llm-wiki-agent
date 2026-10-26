@@ -2,37 +2,53 @@
 title: "Garry Tan"
 type: entity
 tags: [person, startups, venture-capital, y-combinator]
-sources: [tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio, tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+sources:
+  - tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio
+  - tsr-s5-ronconway-v5-tsr-s5-ronconway-v5
+  - tsr-s4-harj-v3-tsr-s4-harj-v3
+  - socialradarspod-garrytan-final
+  - socialradarspod-brianarmstrong-final
+  - tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final
 last_updated: 2026-08-04
+knowledge_schema: synthesis-v1
 ---
 
 # Garry Tan
 
-Garry Tan is the interview subject in [[socialradarspod-garrytan-final]], where [[JessicaLivingston]] and [[CarolynLevy]] trace his path from [[StanfordUniversity]] and early web work through [[Microsoft]], [[Palantir]], [[Posterous]], [[InitializedCapital]], and his return to [[YCombinator]] as president and CEO.
+## Overview
+Garry Tan从设计与软件建设者、[[Posterous]]创业者、[[InitializedCapital]]投资人转为[[YCombinator]]总裁和CEO。访谈呈现他将产品经验、投资支持和社区建设转化为对创始人的具体辅导，而不是仅把“founder mode”当作口号。
 
-[[tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]] adds Tan in his current YC role at the founder-mode retreat. In that source, he treats [[FounderMode]] as a way to legitimize founder engagement that might otherwise be dismissed as micromanagement, while drawing a boundary against both tyranny and absentee autonomy. His preferred operating pattern is founder attention paired with empowerment and accountability.
+## Current Profile
+他的几条线相互制约：Posterous的时机、冲突与授权失败提供反面经验；投资和YC社区工具提供支持创始人的制度场景；SVB危机则显示YC可以把分散公司的现金风险转为公共倡议。
 
-The source presents Tan as a builder-investor whose core identity is tied to making useful things: code, design, photography, startup products, investor support, YC community tools, and videos. His story gives the wiki a bridge between [[BuilderCenteredInstitutions]], [[FounderInvestorLearning]], and the personal side of startups: the same person can be shaped by market timing, missed opportunities, co-founder conflict, therapy, investor judgment, and community design.
+## Key Characteristics
+- 从早期大公司与Palantir的经历形成偏重实际建设者的机构观。
+- Posterous的产品窗口和合伙冲突塑造其对诚实与授权的强调。
+- Initialized与YC工作使投资支持延伸到种子轮之后和社区基础设施。
+- 对创始人模式主张参与细节但赋能并问责，而非独裁或放任。
+- 通过YC参与SVB周末的请愿与工资影响数据整理。
 
-Tan's Posterous experience is the cautionary center of the episode. The company benefited from the iPhone timing window, YC launch support, and fast growth, but later hit Instagram competition and founder disagreement. Tan frames the lesson as partly product and timing, but also [[CoFounderConflict]] and [[FounderHonesty]]: founders need candid conversations before avoidance becomes strategic and physical damage.
+## Evidence
+- **建设者背景：**[[socialradarspod-garrytan-final]]追溯他在[[StanfordUniversity]]、[[Microsoft]] Windows Mobile、[[Palantir]]的经历，并以[[LargeCompanyOrganizationalInertia]]对照YC重视动手做产品的[[BuilderCenteredInstitutions|机构文化]]；YC的[[StartupSchool]]促成其申请。
+- **创业教训：**[[socialradarspod-garrytan-final]]称[[Posterous]]利用iPhone时代的电邮发照片窗口，种子融资恰逢雷曼倒闭日，后来[[Instagram]]竞争、[[CoFounderConflict|合伙人分歧]]与倦怠使窗口收窄；[[tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]]中Tan自述过度亲自做重要工作、给团队只剩低风险任务，故将[[FounderHonesty]]与[[FounderDelegationDiscipline|授权纪律]]连在一起。
+- **投资与社区：**[[socialradarspod-garrytan-final]]记[[InitializedCapital]]最初作为YC合伙人和运营者的投资副线，后来认识到创始人在种子轮后仍需帮助，并参与建设[[Bookface]]以维持批次扩张后的互信与联系；[[socialradarspod-brianarmstrong-final]]的[[BrianArmstrong]]采访补充Tan在[[Coinbase]]初期的非正式CEO辅导，是具体个案而非他指导所有公司之证据。
+- **YC领导：**[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]]中[[PaulGraham]]说[[SamAltman]]转向[[OpenAI]]后[[JeffRalston]]领导YC，随后Tan因亲历YC、获LP信任和组织能量被视为合适继任者；[[tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]]将[[FounderMode]]定义为创始人关注细节、团队授权与问责的平衡，并以五至十人实现数千万美元收入的AI公司作为他在闭门会观察到的[[AIStartupUnitEconomics|例子]]，不是所有小团队的预测。
+- **银行危机：**[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]]中[[RonConway]]回忆2023年[[SiliconValleyBank|SVB]]周末，Tan和YC组织请愿与全国企业工资影响数据，把存款保障问题从投资者损失扩展为[[StartupPayrollSystemicRisk|发薪和传染风险]]；政府担保是多方行动，不能归功Tan一人。
 
-The offsite source revisits [[Posterous]] from a different angle: Tan says he was in the details but did not delegate enough, leaving the company short of what it could have become. That turns his biography into a [[FounderDelegationDiscipline]] case as well as a product-timing and conflict case.
+## Qualifications
+- Posterous和founder mode的教训是Tan回顾；Graham与Conway对YC和SVB的评价是参与者口述，不是独立效果审计。[[tsr-s4-harj-v3-tsr-s4-harj-v3]]的[[HarjTaggar]]访谈仅在YC网络的关联注记中点名Tan与[[PaulBuchheit]]，不提供足以确认Tan参与特定出访或承担当地角色的细节。
 
-[[socialradarspod-brianarmstrong-final]] adds Tan as an informal CEO coach for [[BrianArmstrong]] before and during early [[Coinbase]]. The source extends Tan's wiki role from founder-investor and YC institution builder into direct founder-support work for a [[StartupHighBetaBet]].
+## What Changed
+- 将创业失败、投资支持、YC治理和危机动员作为不同角色串联，并限制参与者评价的证据强度。
 
-[[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Tan through [[HarjTaggar]]'s early [[YCombinator]] institutional-memory thread. Harj briefly recalls a Moscow trip with Tan, [[PaulBuchheit]], and Aaron Iba connected to Russian government interest in startups; the episode treats it as an example of the strange, informal moments around early YC rather than a major Tan biography point.
-
-[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds Tan through the [[SiliconValleyBank]] weekend. [[RonConway]] praises Tan and [[YCombinator]] for organizing a petition and payroll-impact data showing that affected companies were national and employee-facing, not only a Silicon Valley investor problem. The source extends Tan from YC operating and founder-mode leadership into [[StartupPayrollSystemicRisk]] and [[DepositGuaranteeCrisisResponse]].
-
-[[tsr-s5-pg-v6final-audio-tsr-s5-pg-v6final-audio]] adds Tan through [[PaulGraham]]'s account of YC's post-Altman leadership repair. Graham says [[JeffRalston]] led [[YCombinator]] after [[SamAltman]] chose [[OpenAI]], and that Tan later became an especially strong fit because he had gone through YC, was trusted by LPs, brought energy, and made Graham feel better about YC than he had in years.
-
-## Connections
-- [[YCombinator]], [[StartupSchool]], and [[Bookface]] - community and institution arc.
-- [[Posterous]] and [[StartupTimingWindows]] - founder/product case.
-- [[InitializedCapital]] and [[FounderInvestorLearning]] - investing and later founder-support path.
-- [[FounderMode]], [[FounderDelegationDiscipline]], [[AIStartupUnitEconomics]], and [[AIOrganizationDesign]] - YC offsite leadership and AI-era startup economics context.
-- [[Microsoft]], [[Palantir]], and [[LargeCompanyOrganizationalInertia]] - early career and builder-value context.
-- [[JessicaLivingston]], [[CarolynLevy]], and [[TheSocialRadars]] - interview context.
-- [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], and [[FounderMotivationEvolution]] - coaching context added by the Armstrong episode.
-- [[HarjTaggar]], [[PaulBuchheit]], [[YCombinator]], and [[StartupCommunityInfrastructure]] - early YC network-memory context added by the Harj Taggar episode.
-- [[SiliconValleyBank]], [[RonConway]], [[StartupPayrollSystemicRisk]], and [[DepositGuaranteeCrisisResponse]] - SVB petition and payroll-data context added by the Season Five Conway episode.
+## Relationships
+- [[JessicaLivingston]] - Tan人物访谈的采访者和YC早期机构参与者。
+- [[CarolynLevy]] - 人物及SVB访谈的共同采访者。
+- [[TheSocialRadars]] - 这些口述材料所在访谈节目。
+- [[StartupHighBetaBet]] - Coinbase的相邻案例，Tan只被描述为早期辅导者。
+- [[DepositGuaranteeCrisisResponse]] - SVB周末政策背景，不表示Tan单独决定担保。
+- [[AIOrganizationDesign]] - founder mode在小型AI团队中的邻近讨论。
+- [[FounderInvestorLearning]] - Tan从创业和投资经历转化出的辅导角色。
+- [[FounderMotivationEvolution]] - Armstrong访谈中的相邻创始人动机主题，非Tan本人的动机结论。
+- [[StartupCommunityInfrastructure]] - Bookface等使YC社区在批次扩张后继续联络的工具。
+- [[StartupTimingWindows]] - Posterous先受益于iPhone早期窗口、后遭Instagram收窄。
