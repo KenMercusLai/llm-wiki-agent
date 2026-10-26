@@ -2,43 +2,52 @@
 title: "Alex Goldmark"
 type: entity
 tags: [media, podcasting, publishing]
-sources: [how-we-got-free-agents-in-baseball, our-book-vs-the-global-supply-chain, how-to-make-a-book-into-a-bestseller, inside-a-book-auction, bookstore-economics, the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]
+sources:
+  - how-we-got-free-agents-in-baseball
+  - our-book-vs-the-global-supply-chain
+  - how-to-make-a-book-into-a-bestseller
+  - inside-a-book-auction
+  - bookstore-economics
+  - the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough
 last_updated: 2026-08-07
+knowledge_schema: synthesis-v1
 ---
 
 # Alex Goldmark
 
-Alex Goldmark appears in [[inside-a-book-auction]] as the [[PlanetMoney]] executive producer deciding whether and how the show should become a book. The source presents him as initially lukewarm because the idea began as a commercial opportunity through agents retained by [[NPR]], not as a reporting experiment.
+## Overview
+Alex Goldmark is a [[PlanetMoney]] executive producer whose documented active role in these sources is the show's book project. Two other economics episodes name him in production credits, not as a commentator on their subjects.
 
-Goldmark's decision changes as the project becomes a broad field guide to the economy and as publishers show unusually strong interest. His final choice of [[WWNorton|W. W. Norton]] over a higher-money Big Five offer makes him the source's clearest example of mission fit shaping a media-business decision.
+## Current Profile
+His book-project role spans acquisition and publisher choice, physical design negotiation, launch promotion, and observation of retail discovery. Those stages expose different constraints on turning a public-explanation show into a manufactured, sold book.
 
-[[our-book-vs-the-global-supply-chain]] adds Goldmark as a product-shape voice. His ideas for flip-book effects, currency-like paper, playful inserts, and a smaller trim size become [[PhysicalBookDesignTradeoff]] cases once [[TomMayer]] and [[JuliaDruskin]] test them against cost, printing signatures, schedule, and printer capability.
+## Key Characteristics
+- He moved a commercially proposed book idea toward a field guide to the economy and chose a publisher for educational fit.
+- His playful physical-design proposals were tested against print, unit-cost, and schedule constraints.
+- He participated in a concentrated launch campaign whose visibility still depended on fulfillment and bookstore placement.
+- His executive-producer credits establish editorial context for other episodes, not personal views on baseball or labor economics.
 
-[[bookstore-economics]] returns to Goldmark on launch day, when he and [[AlexiHorowitzGhazi]] visit [[McNallyJackson]] near the South Street Seaport to see whether the [[PlanetMoneyBook]] is visible in the store. The scene shifts him from acquisition decision maker to participant watching retail placement and reader uncertainty become real.
+## Evidence
+- **Acquisition and mission fit:** Goldmark initially saw a book as a business opportunity after [[NPR]]'s agent connection. With [[AlexMaiassi]], agents [[LauraNolan]] and [[JaneVonMehren]], the team developed a proposal grounded partly in Planet Money's T-shirt, oil-barrel, comic, record, and board-game projects. Following 23 meetings and 16 first-round bids, he favored [[WWNorton]]'s full-color and educational-distribution pitch over a larger Big Five offer; the reported deal was between $1 million and $2 million. [[inside-a-book-auction]]
+- **Making a physical object:** Ideas such as a flip-book, money-like paper, inserts, and a smaller trim size met [[TomMayer]] and [[JuliaDruskin]]'s constraints: approximately $30 retail pricing, 16-page printing signatures, printer capability, and a fixed schedule. The size change affected thickness and cover and illustration fit; [[MitoHabeEvans]]'s four-color chapter art became part of the design compromise. These were proposals and production tradeoffs, not all features shipped. [[our-book-vs-the-global-supply-chain]]
+- **Launch and retail visibility:** On launch day Goldmark and [[AlexiHorowitzGhazi]] visited [[McNallyJackson]] near South Street Seaport to see the [[PlanetMoneyBook]] on shelves. He also worked on city-specific tour promotion and response to missing-poster confusion that generated early one-star reviews. Preorders and bookstore-linked events concentrated first-week demand; the book reached number three on both the print hardcover nonfiction and combined print/e-book [[NewYorkTimesBestsellerList]] lists. Ranking is not a measure of lifetime profit. [[bookstore-economics]] [[how-to-make-a-book-into-a-bestseller]]
+- **Production rather than subject attribution:** The Curt Flood/[[BaseballReserveClause]] account and the Alien/monopsony account identify Goldmark as executive producer. Neither establishes his own thesis about [[CurtFlood]], [[MajorLeagueBaseball]], [[BaseballFreeAgency]], [[AlienFilm]], [[WeylandYutani]], [[ArinDube]], or [[LaborMonopsony]]. [[how-we-got-free-agents-in-baseball]] [[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]]
 
-[[how-to-make-a-book-into-a-bestseller]] keeps Goldmark in the launch role as the team converts audience attention into first-week demand. The source connects his city-specific tour promotion and poster-problem response to [[PreOrderLaunchConcentration]] and [[ProductLaunchUnderConstraint]] before the book lands on the [[NewYorkTimesBestsellerList|New York Times bestseller list]].
+## Qualifications
+The book-production episodes show his participation, not sole authorship of publisher, printer, or retailer decisions. [[StephenPace]] handled publisher sales planning, while [[RachelSalzman]] coordinated publicity. Retail display and list placement depend on distribution and list rules beyond a producer's control.
 
-[[how-we-got-free-agents-in-baseball]] adds Goldmark in the production context as [[PlanetMoney]] executive producer. The episode itself centers on [[CurtFlood]], [[MajorLeagueBaseball|MLB]], and [[BaseballFreeAgency|baseball free agency]], but the credit keeps Goldmark tied to the show's economics-history editorial branch.
+## What Changed
+- Goldmark's active book role is distinguished from producer-only credits in unrelated subject episodes.
+- Mission fit, manufacture, and launch are treated as interdependent decisions rather than proof of long-term commercial success.
 
-[[the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough]] adds Goldmark in the same executive-producer context for a labor-economics episode connecting [[AlienFilm|Alien]], [[ArinDube|Arin Dube]], and [[LaborMonopsony]].
-
-## Key Claims
-- Goldmark connected the book to Planet Money's history of participatory projects, including a T-shirt, oil barrel, comic book, record, and board game.
-- He worked with [[AlexMaiassi]], [[LauraNolan]], and [[JaneVonMehren|Jane von Mehren]] to turn a vague book possibility into a proposal.
-- He chose Norton because its [[EducationalDistributionStrategy|educational distribution]] pitch matched Planet Money's public-explanation mission.
-- His manufacturing-source role shows that mission and playfulness still have to pass through [[PrintingSignatureConstraint]], price, and supply-chain feasibility.
-- The launch-day visit reinforces that a successful book deal still depends on [[RetailShelfPlacement]] and actual reader discovery.
-- Slow ticket sales and the missing-poster issue show that even a strong [[AuthorPlatformRiskReduction|platform]] needs operational follow-through during launch week.
-- Bestseller placement confirms the launch strategy worked in the first-week ranking window, while leaving long-term profitability unresolved.
-- The Curt Flood episode extends Goldmark's page only through production context, not as a reported source voice.
-- The Alien labor-economics episode likewise extends Goldmark through production credit rather than as an interviewed source voice.
-
-## Connections
-- [[PlanetMoney]] and [[NPR]] - show and network context.
-- [[LauraNolan]], [[JaneVonMehren|Jane von Mehren]], and [[AlexMaiassi]] - proposal and auction collaborators.
-- [[TomMayer]], [[JuliaDruskin]], [[MitoHabeEvans]], [[StephenPace]], and [[WWNorton|W. W. Norton]] - editor, production lead, designer, sales leader, and publisher selected for the book.
-- [[PlanetMoneyBook]], [[McNallyJackson]], and [[RetailShelfPlacement]] - launch-day retail observation.
-- [[RachelSalzman]] - Norton publicity lead coordinating launch sequencing.
-- [[BookPublishingEconomics]], [[AuthorPlatformRiskReduction]], [[EducationalDistributionStrategy]], [[PhysicalBookDesignTradeoff]], [[PrintingSignatureConstraint]], [[BookPrinterSelectionRisk]], [[PreOrderLaunchConcentration]], and [[ProductLaunchUnderConstraint]] - concepts grounded through his decision, design, and launch work.
-- [[CurtFlood]], [[MajorLeagueBaseball]], [[BaseballReserveClause]], and [[BaseballFreeAgency]] - episode subject added through production credit.
-- [[AlienFilm|Alien]], [[WeylandYutani]], [[ArinDube]], and [[LaborMonopsony]] - labor-economics episode subject added through production credit.
+## Relationships
+- [[BookPublishingEconomics]] - auction, acquisition, and downstream sales constraints.
+- [[AuthorPlatformRiskReduction]] - the show's audience supported the proposal without guaranteeing sales.
+- [[EducationalDistributionStrategy]] - Norton's distribution plan influenced selection.
+- [[PhysicalBookDesignTradeoff]] - creative format choices had per-copy costs.
+- [[PrintingSignatureConstraint]] - special paper could require a full 16-page section.
+- [[BookPrinterSelectionRisk]] - print location and capacity limited design and timing.
+- [[RetailShelfPlacement]] - the store visit tested whether readers could encounter the book.
+- [[PreOrderLaunchConcentration]] - timed purchases shaped the ranking window.
+- [[ProductLaunchUnderConstraint]] - poster fulfillment and city tours needed operational repair.
+- [[NPR]] - network context for Planet Money and its commercial book opportunity.
