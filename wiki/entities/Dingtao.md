@@ -2,31 +2,53 @@
 title: "陶 / 定陶 / Dingtao"
 type: entity
 tags: [place, song-state, qi-state, qin-state, pre-qin, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw, zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo, zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]
+sources:
+  - zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave
+  - zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw
+  - zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo
+  - zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5
+  - zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
-# 陶 / 定陶 / Dingtao
+## Overview
+陶, identified by the historical podcast with present-day Dingtao in Shandong, recurs across Warring States fief politics, the Qin collapse and a distinct late-Han battle. It is a useful chronological and geographic anchor, not one continuous army or unchanged political regime. All five notes retell episodes from the same history show.
 
-陶 / 定陶 / Dingtao enters the wiki through [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] as the place behind a correction to [[ZizhiTongjian|《资治通鉴》]]'s Wei Ran enfeoffment notice. The episode says the chronicle's statement that [[WeiRan|魏冉]] was enfeoffed at both Rang and Tao cannot belong to the current year, because Tao was not yet held by [[QinState|秦国]].
+## Current Profile
+The place is presented as prosperous Song territory coveted by Qi and by ministers seeking private holdings; its transfer to Qi and later Qin makes the dating of [[WeiRan|魏冉]]'s Tao fief a source-critical issue. Centuries later [[ZhangHanQin|章邯]] kills [[XiangLiang|项梁]] there, and still later [[CaoCao|曹操]] defeats [[LyuBu|吕布]] in a separate Dingtao engagement. The military outcomes depend on their own period-specific forces and terrain, not a permanent property of the site.
 
-The source identifies Tao with present-day Dingtao in Shandong and describes it as one of the prosperous central-plains cities of the time. It says Tao originally belonged to [[SongState|宋国]], passed to [[QiState|齐国]] after [[QiMinWang|齐湣王]] destroyed Song in 286 BCE, and only became available to Qin after the 284 BCE anti-Qi campaign led by [[LeYi|乐毅]], when Qin and Wei forces took Dingtao.
+## Key Characteristics
+- Tao's central-plains wealth and changing state control made it a coveted site before Qin could hold it.
+- The ownership sequence constrains where Wei Ran's enfeoffment can be placed in a chronicle; a correction is not a newly verified replacement year.
+- Ministers' interest in Tao links public campaigns to potential private-fief expansion at more than one stage.
+- Zhang Han's night attack and Xiang Liang's death made Dingtao a hinge for Chu coalition reorganization against Qin.
+- Cao Cao's later dike-and-forest ambush turned a weak camp position into Yanzhou base recovery, a different battle with different actors.
 
-The page is mainly a source-critical marker. It shows why a place-name notice should be checked against ownership chronology before being attached to an official's fief history.
+## Evidence
+- **Wealth and contested sovereignty:** [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] places Tao in wealthy [[SongState|宋国]], attractive to [[QiState|齐国]] and to the private interests of Wei Ran and [[LiDui|李兑]] even during the east/west-emperor diplomatic probe. [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] says [[QiMinWang|齐湣王]] conquered Song in 286 BCE and Tao became accessible to [[QinState|秦国]] only after the 284 BCE anti-Qi campaign associated with [[LeYi|乐毅]] and Qin/[[WeiState|魏国]] forces. The place identification and prosperity are this show's account.
+- **Source-critical dating:** [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] objects to the [[ZizhiTongjian|《资治通鉴》]] notice assigning Wei Ran both Rang and Tao in the earlier year: Qin did not yet possess Tao. This is [[ChronicleChronologyDrift|编年错位]], not a precise corrected investiture date.
+- **Private-fief motive:** The pre-conquest [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] describes Li Dui and Wei Ran's prospective fief interests in Song; [[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] later says Wei Ran sent [[KeqingZao|客卿灶 / 客卿造]] against Qi's Gang and Shou around 270 BCE because gains would enlarge territory around his Tao fief even if less useful for Qin's broader strategy. The host reads this as [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]], an interpretation of ministerial incentive rather than a universal explanation of the war.
+- **Qin collapse:** [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw]] reports [[SongYi|宋义]] warning after Xiang Liang's victories that overconfidence exposed the army; reinforced Zhang Han night-attacked and killed him at Dingtao. [[MiXin|芈心 / 楚怀王]] then moved his center to Pengcheng, took more direct control of Chu armies and set the [[HuaiwangAgreement|怀王之约]] assigning the Guanzhong race and Zhao relief. The episode title advertises Xiang Yu's later Julu achievement but this Dingtao passage precedes it.
+- **Late Han:** [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]] says [[XunYu|荀彧]] persuaded Cao Cao to secure [[YanzhouLateHan|兖州]] rather than pursue [[Xuzhou|徐州]] after Tao Qian's death. In 195 CE, the show estimates Lü Bu and [[ChenGongLateHan|陈宫]] brought over 10,000 while fewer than 1,000 remained in Cao Cao's camp during wheat harvest; Cao Cao hid troops behind a western dike, used a southern forest and exposed force to draw an advance, then recaptured Dingtao and surrounding counties. [[BattlefieldInformationControl|战场信息控制]] here describes this specific ambush, not the earlier Qin engagement.
 
-[[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo]] adds the pre-destruction context for why Tao/Dingtao is attractive before it becomes Wei Ran's later base. The episode places it in the prosperous [[SongState|宋国]] region and says both [[WeiRan|魏冉]] and [[LiDui|李兑]] have private-fief reasons to care about Song and Tao. Dingtao therefore anchors [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] earlier than the later Qin attack on Qi: ministerial maps already matter before the campaign is launched.
+## Qualifications
+- The title's 陶-to-modern-Dingtao identification, ancient dates, force sizes and inferred motives follow podcast retelling, not independent archaeological or primary-source verification. The chronological objection rules out an early enfeoffment notice but does not itself prove a new year.
+- The prewar ministerial interest and later Tao fief must not be treated as simultaneous possession. The Qin-collapse Dingtao night assault and late-Han [[DingtaoBattleLateHan|定陶之战]] are separate events centuries apart.
+- Xiang Liang's arrogance, Wei Ran's incentives and Cao Cao's strategic restraint include narrator interpretation; the late-Han figures are episode numbers rather than independently reconciled battle counts.
 
-[[zizhi-tongjian-zhouji-88-ni-zenme-kandai-fenghuangnan-1-lpuxkdq-rvnifuoneq212g53w5z5]] turns Tao/Dingtao from a chronology correction into an active power-base problem. The episode says [[WeiRan|魏冉]] recommends [[KeqingZao|客卿灶 / 客卿造]] to attack [[QiState|齐国]] for Gang and Shou because those gains expand the territory around his Tao fief, making the campaign a case of [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]].
+## What Changed
+- The profile organizes Tao's value, control chronology, ministerial incentives and two distinct battles by period, replacing a sequence of source arrivals with a constrained place history.
 
-[[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] gives Dingtao a Qin-collapse battlefield role. After [[XiangLiang|项梁]] wins there and elsewhere, [[SongYi|宋义]] warns that the victories have made the Chu commander arrogant. [[ZhangHanQin|章邯]] then receives reinforcements, night-attacks Dingtao, defeats the Chu army, and kills Xiang Liang. The site therefore becomes the hinge between Xiang Liang's Chu-centered command and [[MiXin|芈心 / 楚怀王]]'s later reorganization at [[Xuzhou|彭城]].
-
-[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds a late-Han battlefield layer. After [[XunYu|荀彧]] persuades [[CaoCao|曹操]] to secure [[YanzhouLateHan|兖州]] before pursuing [[Xuzhou|徐州]], [[LyuBu|吕布]] and [[ChenGongLateHan|陈宫]] advance near Dingtao with a larger force. Cao Cao uses dike-and-forest terrain to set an ambush, defeats Lü Bu, captures Dingtao, and then settles surrounding counties; this distinct event is tracked as [[DingtaoBattleLateHan|定陶之战]].
-
-## Connections
-- [[WeiRan|魏冉]] - figure whose enfeoffment notice is corrected.
-- [[ZizhiTongjian|《资治通鉴》]] and [[ChronicleChronologyDrift|编年错位]] - source and correction frame.
-- [[SongState|宋国]], [[QiState|齐国]], [[QiMinWang|齐湣王]], [[LeYi|乐毅]], [[QinState|秦国]], and [[WeiState|魏国]] - ownership and campaign sequence.
-- [[LiDui|李兑]], [[EastWestEmperorDiplomaticProbe|东西二帝试探]], and [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-1-lss3e9g45jyndnvmsexwibwce5oo|Zhouji 68 part 1]] - pre-destruction fief-interest layer around Song and Tao.
-- [[KeqingZao|客卿灶 / 客卿造]] and [[PrivateFiefExpansionThroughStateWar|以国战扩私邑]] - Zhouji 88 campaign and concept tied to Wei Ran's private-base expansion.
-- [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]], [[XiangLiang|项梁]], [[SongYi|宋义]], [[ZhangHanQin|章邯]], and [[HuaiwangAgreement|怀王之约]] - Xiang Liang's death and post-defeat Chu reorganization.
-- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[DingtaoBattleLateHan|定陶之战]], [[CaoCao|曹操]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], and [[BattlefieldInformationControl|战场信息控制]] - late-Han ambush and base-recovery layer.
+## Relationships
+- [[SongState]] - earlier polity containing prosperous Tao in the show's account.
+- [[QiState]] - acquired Song and later faced Qin pressure around Tao.
+- [[QinState]] - later possessor, whose earlier fief notice is disputed.
+- [[WeiRan]] - recipient of the disputed early notice and later fief-holder in the narrative.
+- [[LiDui]] - minister with pre-conquest private interests in the region.
+- [[EastWestEmperorDiplomaticProbe]] - adjacent diplomacy setting in the pre-destruction Song story.
+- [[XiangLiang]] - commander killed at Dingtao in the Qin collapse.
+- [[ZhangHanQin]] - attacker in the Qin-collapse battle.
+- [[CaoCao]] - victor of the separate late-Han Dingtao battle.
+- [[LyuBu]] - opponent in the late-Han battle.
+- [[HuaiwangAgreement]] - political reorganization following Xiang Liang's defeat.
