@@ -2,32 +2,45 @@
 title: "吕强 / Lyu Qiang (late Han)"
 type: entity
 tags: [person, eunuch, late-han, court, china]
-sources: [zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g, zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg, zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic, zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut]
+sources:
+  - zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g
+  - zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg
+  - zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic
+  - zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 吕强 / Lyu Qiang (late Han)
 
-[[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] adds Lyu Qiang's earlier corrective-insider branch. When [[CaiYong|蔡邕]] and his uncle face death after [[ChengHuangLateHan|程璜]]'s accusation, Lyu Qiang intercedes; [[EmperorLingOfHan|汉灵帝]] commutes the sentence to exile. This makes Lyu Qiang a protective palace insider before his later refused-title and Yellow Turban memorials.
+## Overview
+本页按主题区分有出处的事件、解释及其局限。 吕强为蔡邕叔侄求情，并以无功不侯为由拒都乡侯、批评宦官特权。
 
-[[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]] backfills Lyu Qiang before the private-treasury and Yellow Turban branches. When [[EmperorLingOfHan|汉灵帝]] wants to make him a 都乡侯, Lyu Qiang refuses and invokes the no-merit-no-marquis rule, turning his own refusal into criticism of eunuch favorites such as [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]].
+## Current Profile
+吕强为蔡邕叔侄求情，并以无功不侯为由拒都乡侯、批评宦官特权。 反对帝王私库征求增加地方负担，涉及车马、财物、赋役。 批评由三公举荐转向尚书或诏令任官后，失去举荐责任链。 黄巾危机中建议赦党人、惩腐与选贤；赵忠、夏韵诬告后自尽，显示宫内谏诤脆弱。
 
-The same memorial is wider than title refusal. Lyu Qiang links eunuch privilege, palace women, taxes and corvee, [[CaiYong|蔡邕]]'s leaked remonstrance, and [[DuanJiongLateHan|段熲]]'s family punishment into one failed-correction case: loyal advice reaches Ling, is recognized as loyal, but does not change policy.
+## Key Characteristics
+- 吕强为蔡邕叔侄求情，并以无功不侯为由拒都乡侯、批评宦官特权。
+- 反对帝王私库征求增加地方负担，涉及车马、财物、赋役。
+- 批评由三公举荐转向尚书或诏令任官后，失去举荐责任链。
+- 黄巾危机中建议赦党人、惩腐与选贤；赵忠、夏韵诬告后自尽，显示宫内谏诤脆弱。
 
-[[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]] first adds Lyu Qiang as a corrective palace insider before the Yellow Turban emergency. He memorializes [[EmperorLingOfHan|汉灵帝]] against dividing imperial wealth into public and private stores, warning that extra private-treasury demands make local officials requisition goods, carriages, horses, fees, and labor from already burdened households.
+## Evidence
+- **Palace protection and principled refusal:** As an insider eunuch, 吕强 interceded for [[CaiYong|蔡邕]] and his uncle after [[ChengHuangLateHan|程璜]]'s accusation, leading [[EmperorLingOfHan|汉灵帝]] to commute death to exile. Later he refused a 都乡侯 title under the no-merit-no-marquis principle and criticized favors to [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]]. His memorial linked eunuch privilege, palace women, taxes and corvee, Cai Yong's leaked remonstrance and [[DuanJiongLateHan|段熲]]'s family punishment: the emperor heard but did not enact the correction. [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g]] [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg]]
+- **Fiscal remonstrance:** He argued that the emperor already possessed the realm and should not extract extra goods for a separate [[ImperialPrivateTreasuryExtraction|private treasury]]: demands for money, carriages, horses, levies and labor passed through local officials to burdened households. This was a warning, not evidence the demands ceased. [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]]
+- **Appointment accountability:** In the same memorial he contrasted accountable selection by the Three Excellencies with placements by Shangshu or direct edict: once the recommender was bypassed, bad appointments lacked an identifiable sponsor to answer for them, a [[CourtOfficeCapture|personnel-channel]] problem alongside the fiscal one. [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic]]
+- **Emergency reform and fatal accusation:** During the 184 CE [[YellowTurbansLateHan|Yellow Turban]] emergency, he urged release of banned party figures, punishment of corrupt attendants, evaluation of provincial officials and appointment of capable people, contributing to [[PartyBanCrisisAmnesty|党锢赦免]]. [[ZhaoZhongLateHan|赵忠]] and [[XiaYunLateHan|夏韵]] then accused him of party ties and family corruption; summoned by an armed messenger, he warned of disorder after his death and killed himself rather than submit. His case shows [[CourtFeedbackCollapse|feedback collapse]] even when accurate remonstrance comes from within the palace. [[zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut]]
 
-The same memorial also gives Lyu Qiang an institutional role before his later death. He says appointment channels have shifted away from accountable Three-Excellencies selection and toward Shangshu or direct-edict placement, so failed appointees no longer create clear responsibility for the officials who recommended them. Hanji 921 therefore makes him an early witness for both [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] and [[CourtOfficeCapture|朝廷开府任官失序]].
+## Qualifications
+The host’s inferences about personal motives are not independently verified. His success in urging party-ban amnesty did not entail safety from palace accusations.
 
-[[zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut|Hanji 924]] later adds Lyu Qiang as a palace eunuch who still gives corrective advice during the 184 CE [[YellowTurbansLateHan|Yellow Turban]] emergency. He urges [[EmperorLingOfHan|汉灵帝]] to release banned party figures, punish corrupt attendants, evaluate provincial officials, and use capable people.
+## What Changed
+- 蔡邕案、拒侯与私库/任官谏诤，展示了黄巾危机前的宫内纠偏工作，而非只以死亡结局定义人物。
 
-His advice helps produce the [[PartyBanCrisisAmnesty|党锢危机赦免]], but it also makes him vulnerable inside the palace. [[ZhaoZhongLateHan|赵忠]] and [[XiaYunLateHan|夏韵]] accuse him of party ties and family corruption; when an armed messenger summons him, Lyu Qiang says disorder will follow his death and kills himself rather than submit to humiliating prosecution.
-
-The source makes Lyu Qiang a boundary figure for [[CourtFeedbackCollapse|君臣反馈失灵]]. Correct information can come from inside the eunuch channel, but that does not protect the speaker when the same channel controls accusation, access, and interpretation.
-
-## Connections
-- [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]], [[CaiYong|蔡邕]], [[ChengHuangLateHan|程璜]], and [[EmperorLingOfHan|汉灵帝]] - intercession that changes Cai Yong's death sentence into exile.
-- [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]], [[MeritBasedRewardPunishment|因功赏罚]], [[UntimelyExtravagance|时绌举赢]], [[CaiYong|蔡邕]], and [[DuanJiongLateHan|段熲]] - refused title and broad remonstrance against eunuch privilege, palace burden, punished speech, and punished merit.
-- [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]], [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]], and [[CourtOfficeCapture|朝廷开府任官失序]] - private-treasury remonstrance and appointment-accountability diagnosis.
-- [[zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut|Hanji 924]], [[EmperorLingOfHan|汉灵帝]], [[HuangfuSongLateHan|皇甫嵩]], and [[PartyBanCrisisAmnesty|党锢危机赦免]] - emergency amnesty and personnel-repair advice.
-- [[ZhaoZhongLateHan|赵忠]], [[XiaYunLateHan|夏韵]], and [[TenAttendantsLateHan|十常侍]] - accusation and retaliation field.
-- [[CourtFeedbackCollapse|君臣反馈失灵]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[SystemicErrorAmplification|细小错误系统性放大]] - concepts supported by his death.
+## Relationships
+- [[HuangfuSongLateHan]] - 184年黄巾危机中二人分别向灵帝提出赦党人、充军资等补救建议；皇甫嵩此后出征，吕强遭宫廷指控。
+- [[MeritBasedRewardPunishment]] - 吕强以无功不侯拒都乡侯，反对曹节等近侍无功得赏及忠谏者受罚。
+- [[PalaceAccessMonopoly]] - 身为宦官仍被赵忠、夏韵的指控压过谏言，说明宫廷近侍渠道能阻断内部纠偏。
+- [[SystemicErrorAmplification]] - 黄巾应急虽一度赦党人，吕强遭诬后自尽表明局部修补无法抵消受保护的宫廷势力。
+- [[TenAttendantsLateHan]] - 赵忠等近侍把批评特权的吕强指为党人同谋；不能把整个宦官群体与吕强等同。
+- [[UntimelyExtravagance]] - 他反对宫中财物、女官及私库索求转嫁民间赋役，将浪费问题放在东汉财政负担中批评。
