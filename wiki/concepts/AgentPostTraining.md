@@ -2,41 +2,49 @@
 title: "Agent Post-Training"
 type: concept
 tags: [agents, model-training, post-training]
-sources: [zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1, cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi, e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11, vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+sources:
+  - zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1
+  - cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi
+  - e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11
+  - vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo
+  - 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf
 last_updated: 2026-08-17
+knowledge_schema: synthesis-v1
 ---
-
 # Agent Post-Training
 
-[[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] adds [[AgentTrajectoryDistillation]] to the post-training map. The source says post-training data can now include full agent task traces, not just prompts and answers, but it distinguishes teacher-behavior imitation from using a stronger model only as an evaluator in reinforcement learning.
+## Definition
+Agent post-training adapts an already pretrained model to multi-step tool-using tasks through supervised examples, reinforcement feedback, evaluation environments and model–harness interaction. It is not synonymous with polishing chat style or merely appending a skill file.
 
-[[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] adds [[MengFanqing|孟繁青]]'s "post-training is data" interpretation. The source says that once internal model-lab training services stabilize, researcher leverage shifts toward [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], correctness checks, anti-cheating filters, difficulty control, and whether training on the data actually improves the model.
-
-Agent post-training is [[LuoFuli]]'s frame in [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] for moving SFT, RL, evaluation, and model adaptation from chat behavior toward real agent workflows. The source says agent systems such as [[OpenClaw]] and [[OpenCloud]] expose different requirements: memory, tools, long context, active tasks, cost routing, skills, and multi-step recovery.
-
-[[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] adds the conversational-content boundary next to the agent boundary. [[TonyContentEngineer|东尼 / Tony]]'s voice-agent case shows that model adaptation can target dialogue feel, follow-up depth, and example-conditioned host behavior before the system becomes a full tool-using agent; [[ContentEngineering]] therefore feeds post-training quality even when the product surface is conversation.
-
-The concept extends [[ModelHarnessCoEvolution]]. A model trained only for chat may look strong in isolated answers but behave poorly when a framework asks it to plan, call tools, maintain memory, delegate, and verify results. Agent post-training therefore uses simulated user agents, multi-round interaction data, task traces, workflow feedback, and [[AISkills]] to teach the model how to operate inside an [[AgentHarness]].
-
-[[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] adds a broader [[ModelPostTrainingBottleneck]] frame through [[ZhangQi|张奇]]. The episode argues that post-training has to match knowledge already latent in pretraining and that reinforcement-learning or expert-labeling stages can remain costly even when [[DeepSeek]] changes the perceived cost of pretraining and inference.
+## Current Synthesis
+The sources distinguish simulated/user traces, evaluated environment rollouts, teacher-trajectory imitation, and a strong teacher used only as an RL judge. Each supplies different evidence and governance constraints. Data quality, verifiable task improvement, expert labeling and the base model's prior knowledge remain limiting factors.
 
 ## Key Claims
-- Post-training becomes more important when the product surface is an agent framework rather than a chatbot.
-- Agent data must include environment feedback, tool results, memory updates, task persistence, and failure recovery.
-- SFT and RL can be built from user-agent simulations and real framework traces, not only preference comparisons over one-turn answers.
-- Different frameworks may require different adaptation because memory shape, tool affordances, channel structure, and cost routing differ.
-- Agent post-training makes [[AICodingVerification]], [[LongHorizonAI]], and [[ModelWorkflowFit]] part of model training rather than only deployment evaluation.
-- Post-training can be the hidden reproduction barrier when a model's visible architecture or cost story is easier to discuss than its data recipes, expert labels, evaluation loops, and failure-recovery training.
-- The Evolvent AI source adds that agent post-training data may itself become an RSI surface when a model generates, filters, and uses data to improve another model or future behavior.
-- LateTalk episode 179 adds that agent post-training can become commercially and legally sensitive when the most useful trajectories come from restricted closed frontier models.
+- Chat-optimized SFT/RL does not necessarily train models to maintain state, call tools, recover errors or finish long-horizon agent tasks.
+- Environment benchmarks and synthetic trajectories need correctness, difficulty and anti-cheating filters, followed by measured downstream task improvement.
+- Imitating a teacher's complete task trajectory differs technically and legally from using that teacher only to evaluate RL outcomes.
+- Post-training can refine available capability but cannot reliably unlock knowledge absent from pretraining with a handful of examples.
+- Model and harness can be co-adapted, yet changing memory, tools or task protocols does not imply every framework necessarily needs a separate trained model.
 
-## Connections
-- [[MengFanqing]], [[EvolventAI]], [[EnvironmentBasedAgentBenchmarks]], [[SyntheticAgentData]], and [[RSIData]] — data and environment branch added by the Evolvent AI source.
-- [[LuoFuli]], [[MemoVR]], and [[Xiaomi]] — source speaker, model series, and team context.
-- [[ContentEngineering]], [[AIAnswerEvaluation]], and [[VoiceInteraction]] — E245's conversational-quality extension.
-- [[OpenClaw]], [[OpenCloud]], and [[AgentHarness]] — framework layer that changes post-training targets.
-- [[AgentRL]], [[TrainingComputeAllocation]], and [[AgentOptimizedModelArchitecture]] — infrastructure, compute, and architecture constraints.
-- [[AISkills]], [[PersistentAgentMemory]], and [[AgentSelfEvolution]] — reusable workflow and memory signals for training.
-- [[MLCoding]], [[ResearchTaste]], and [[ModelHarnessCoEvolution]] — research-loop and co-evolution context.
-- [[ZhangQi|张奇]], [[DeepSeek]], and [[ModelPostTrainingBottleneck]] — vol.114's broader post-training bottleneck and DeepSeek-cost qualification.
-- [[AgentTrajectoryDistillation]], [[ModelDistillationEvidence]], and [[AIModelDistillationGovernance]] — distillation boundary added by LateTalk episode 179.
+## Evidence
+- **Task-shaped training:** [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] has [[LuoFuli]] argue that [[AgentRL|RL]] and SFT must shift from chat responses to simulated users, multiple tool rounds, long-context state and feedback inside [[OpenClaw]] / [[OpenCloud]]-like systems. Memory, [[AISkills|skills]], cost routing and multi-step recovery are [[AgentHarness|harness]] affordances that change the training distribution; her [[MemoVR]] / [[Xiaomi]] work is an interview account, not an independent benchmark. [[ModelHarnessCoEvolution]] is a proposal to iterate both sides of that interface.
+- **Data and environments:** [[cong-zhengliu-dao-hecheng-shuju-dao-rsi-moxing-jingzheng-de-xiayige-jiaodian-shi-shenme-duitan-evolvent-ai-lianchuang-mengfanqing-lq1xnhp4muc3ividqhvd0ul77qmi]] records [[MengFanqing]] of [[EvolventAI]] arguing that [[EnvironmentBasedAgentBenchmarks|environments]], [[SyntheticAgentData|synthetic trajectories]], validity/anti-cheating checks, difficulty balance and measured gains form the real data product. His [[RSIData|RSI data]] outlook is a forecast; service-like internal post-training and automatic data generation are not themselves proof of recursive improvement. [[TrainingComputeAllocation]] and [[AgentOptimizedModelArchitecture]] remain economic and model-design constraints.
+- **Teachers and provenance:** [[zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1]] distinguishes [[AgentTrajectoryDistillation|whole teacher traces]] from asking a teacher to judge an [[AgentRL]] rollout. Restrictions in service terms and data ownership create [[AIModelDistillationGovernance|governance]] questions; public accusations of distillation and model identity slips are incomplete [[ModelDistillationEvidence|evidence]], not verdicts.
+- **Limits and adjacent adaptation:** [[vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo]] has [[ZhangQi]] argue that small-sample fine-tuning cannot summon knowledge the base model never learned, while expert labels and RL remain costly even under the [[DeepSeek]] efficiency narrative: a [[ModelPostTrainingBottleneck|post-training bottleneck]]. [[e245-cangzai-damoxing-beihoude-xinwenren-gptmen-de-huifu-shi-zheyang-xie-chulaide-5aeaeb64-9165-4271-9884-23329b511e11]] describes [[TonyContentEngineer]]'s voice-agent dialogue style, follow-up depth and [[ContentEngineering|content engineering]]; this is an [[AIAnswerEvaluation|conversational evaluation]] analogy, not evidence of trained tool trajectories.
+
+## Counterevidence & Qualifications
+- The notes do not supply a universal gain rate or demonstrate that one harness-specific model beats all general models. Simulated trajectories can reward shortcuts and fail real tasks unless verified.
+- LateTalk's legal/service-terms issue remains disputed; neither a model's self-identification nor a public claim proves a prohibited teacher source was used.
+- Conversational voice adaptation and actual agent task completion have different outcome tests; [[VoiceInteraction]] alone cannot validate [[LongHorizonAI|long-horizon]] behavior.
+
+## What Changed
+- Distinguished data/environment design, teacher imitation, RL judging and chat-content adaptation.
+- Replaced blanket framework-specific training claims with measurable workflow-fit conditions.
+
+## Related Concepts
+- [[ModelWorkflowFit]] - Evaluate completion and recovery in the task environment rather than isolated answers.
+- [[AICodingVerification]] - Testable coding tasks can provide feedback for agent-training claims.
+- [[PersistentAgentMemory]] - External state shapes trajectories without itself updating model weights.
+- [[AgentSelfEvolution]] - Skill accumulation and model retraining are separate improvement layers.
+- [[MLCoding]] - Automated training-code changes require independent experimental verification.
+- [[ResearchTaste]] - Human selection of worthwhile problems remains outside a raw reward score.
