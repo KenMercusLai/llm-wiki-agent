@@ -2,41 +2,61 @@
 title: "灌婴 / Guan Ying"
 type: entity
 tags: [person, han, chu-han, military]
-sources: [zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz, zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb, zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3, zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l, zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l, zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8, zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn, zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe, zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]
+sources:
+  - zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz
+  - zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb
+  - zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3
+  - zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l
+  - zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l
+  - zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8
+  - zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu
+  - zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn
+  - zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe
+  - zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb
 last_updated: 2026-08-23
+knowledge_schema: synthesis-v1
 ---
 
 # 灌婴 / Guan Ying
 
-灌婴 / Guan Ying enters the wiki through [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144]] as one of [[LiuBang|刘邦]]'s officers who backs an immediate attack on [[XiangYu|项羽]] after Liu Bang is made Han king in [[Hanzhong|汉中]]. The episode groups him with [[ZhouBo|周勃]] and [[FanKuai|樊哙]] as part of the military faction whose anger must be acknowledged before [[XiaoHe|萧何]] can make retreat acceptable.
+## Overview
+灌婴 is a [[LiuBang|刘邦]]-side commander whose cavalry and pursuit roles recur from the break out of [[Hanzhong|汉中]] through conquest of Qi and early Han suppression of rebellions. The source notes also place him among veteran officers who objected to [[ChenPing|陈平]]'s swift promotion; that political episode must not be conflated with battlefield command.
 
-[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] gives Guan Ying an active role in [[HanXin|韩信]]'s Three Qin operation. He is sent out by the Ziwu route to pressure [[ZhangHanQin|章邯]]'s left-side attention, then enters [[GuanzhongRegion|关中]] after the central breakthrough. The episode also highlights his cavalry talent, calling him a major commander of long-range cavalry movement and linking him to the seizure of [[LiyangQinHan|栎阳]] / Liyang after Zhang Han's position breaks.
+## Current Profile
+His recurring military value lies in exploiting an opening made by larger strategy: diversion, flank pressure, mounted defense, fast pursuit, or enveloping attack. The podcast's ranking of his cavalry skill is an assessment, not an independently established order of generals.
 
-[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] makes Guan Ying the visible commander of [[HanCavalryFormation|汉军骑兵建设]] after the [[PengchengBattle|彭城之战]]. [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]] supply former Qin cavalry expertise but recommend that Liu Bang use a trusted Han-side rider as chief commander; Guan Ying is appointed general while they serve as deputies. The episode then gives him an early victory east of [[YingyangWarringStates|荥阳]], where Han cavalry checks Chu cavalry and helps keep [[XiangYu|项羽]] from pushing beyond the Xingyang front.
+## Key Characteristics
+- **Officer in a constrained settlement.** Alongside [[ZhouBo|周勃]] and [[FanKuai|樊哙]], he favors attacking [[XiangYu|项羽]] after the Hanzhong assignment, before [[XiaoHe|萧何]] argues for building a base rather than immediate war.
+- **Three Qin mobile operator.** Under [[HanXin|韩信]], he takes the Ziwu diversion against [[ZhangHanQin|章邯]] and then advances into [[GuanzhongRegion|关中]]; his seizure of [[LiyangQinHan|栎阳]] is linked to its later use as Liu Bang's capital.
+- **Cavalry organizer and defensive check.** After [[PengchengBattle|彭城之战]], former Qin riders [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]] recommend him as trusted Han-side chief, serving as deputies; his force checks Chu cavalry east of [[YingyangWarringStates|荥阳]].
+- **Pursuit across several fronts.** Cavalry presses [[WeiBao|魏豹]] after the hidden Xiayang crossing, helps pacify Qi after [[WeishuiBattle|潍水之战]], and pursues Xiang Yu from [[GaixiaBattle|垓下之战]].
+- **Early Han internal pacification.** He defeats [[HouChang|侯昶]] at [[QuniCounty|曲逆]] in the [[ChenXiRebellion|陈豨之乱]] and leads a northwest enveloping force against [[YingBu|英布]] after Liu Bang waits for Qi reinforcements.
+- **Veteran-faction tension.** With Zhou Bo and other old officers he accuses Chen Ping of corruption and misconduct; the later source treats the sexual allegation as weakly sourced rather than established fact.
 
-[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] confirms Liyang's strategic afterlife by making it Liu Bang's capital after the Guanzhong breakthrough, so Guan Ying's earlier seizure belongs to the geography Liu Bang soon uses as a rear capital base.
+## Evidence
+- **Settlement:** [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb]] groups Guan Ying among angry officers whom Xiao He must persuade; the host calls Liu Bang's anger possibly staged, not proven coordination.
+- **Three Qin:** [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe]] identifies his Ziwu-route feint before Han Xin's [[ChenCang|陈仓]] breakthrough and the Liyang seizure; [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]] identifies Liyang as a later Han capital, not a separate seizure by Guan Ying.
+- **Cavalry construction:** [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu]] describes the Qin specialists' deputy arrangement and the first mounted victory east of Xingyang as part of a broader defensive and supply recovery, not a solo reversal of Pengcheng.
+- **Multi-front pursuit:** [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l]] has [[CaoShen|曹参]] press Anyi and Guan Ying pursue after the real crossing at [[XiayangChuHan|下阳]]. [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l]] credits him with capturing the Qi chancellor Tian Guang (distinct from the Qi king [[TianGuangQiKing|田广]]), entering Boyang and defeating [[TianHeng|田横]] at Ying County after [[LongJuChuGeneral|龙且]]'s death. [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3]] reports Xiang Yu's breakout with eight hundred, Guan Ying's dispatch with five thousand cavalry, and the fleeing party's reduction to a little over one hundred after crossing the Huai; near Yinling a farmer misdirects the fugitives, allowing the pursuit to close in. The host interprets this as lost popular support, not a demonstrated motive for the farmer.
+- **Post-founding campaigns:** [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb]] pairs him with [[JinXiHanGeneral|靳歙]] on Hou Chang's branch and credits him with killing Hou Chang and recovering Zhao positions. [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz]] places him alongside Cao Shen and [[LiShang|郦商]] in the final multi-sided Ying Bu attack after [[LiuFeiQiKing|刘肥]]'s reinforcement arrives.
+- **Accusations:** [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8]] separates Chen Ping's admitted receipt of gifts from “盗嫂”: the host questions old generals' access to family events, particularly Guan Ying's Suiyang origin versus Chen Ping's Yangwu/Huyou ties.
 
-[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] follows up the closing accusation from Hanji 153 part 2. The host treats Guan Ying, grouped with [[ZhouBo|周勃]] and other old generals, as part of a veteran circle resentful of [[ChenPing|陈平]]'s rapid outsider promotion. Because Guan Ying is identified as a Suiyang figure rather than someone close to Chen Ping's family setting, the episode treats the "盗嫂" detail as weakly grounded and likely added to the more concrete "受金" complaint.
+## Qualifications
+The sources are podcast retellings and judgments; “second only to Xiang Yu” in cavalry is a host's evaluation. Xiang Yu's exact losses during the final chase and the attributed motives of officers are source-scoped. Liyang's later capital use does not make Guan Ying the architect of the move. Chen Ping's “受金” has an explanation in the later episode; the “盗嫂” accusation is unproven and considered likely slander by the host, not grounds to assert misconduct by Chen Ping. The Qi chancellor Tian Guang should not be confused with the captured king Tian Guang or the Yan elder of the same name.
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] puts Guan Ying back into field command under [[HanXin|韩信]]. After Han Xin's hidden crossing at [[XiayangChuHan|下阳]] exposes [[WeiBao|魏豹]], Guan Ying's cavalry crosses and pursues while [[CaoShen|曹参]] presses from the Anyi side, helping convert the river deception into Wei Bao's capture.
+## What Changed
+- Diversion, cavalry formation, pursuit, and early Han suppression are now separate recurring roles rather than sequential source additions.
+- The veterans' Chen Ping accusation is distinguished from military achievement and qualified by the later source's evidentiary challenge.
 
-[[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] adds Guan Ying to the follow-up after [[WeishuiBattle|潍水之战]]. After [[LongJuChuGeneral|龙且]] is killed and [[TianGuangQiKing|田广]] is captured, Guan Ying captures the Qi chancellor Tian Guang, enters Boyang, and later defeats [[TianHeng|田横]] at Ying County. The source therefore extends Guan Ying from cavalry repair and pursuit roles into the eastern pacification that finishes [[QiState|齐国]] for Han.
-
-[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] returns Guan Ying to pursuit cavalry at the end of [[GaixiaBattle|垓下之战]]. After [[XiangYu|项羽]] breaks out with eight hundred men, Han forces discover the escape at dawn and send Guan Ying with five thousand cavalry. The source uses the chase to show that Xiang Yu's remaining force is no longer a battle army: after the Huai River crossing he has only a little over one hundred men before the Yinling misdirection lets Han cavalry close in.
-
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] adds a post-founding pursuit case. During the [[ChenXiRebellion|陈豨之乱]] suppression, Guan Ying and [[JinXiHanGeneral|靳歙]] pursue the [[HouChang|侯昶]] branch toward [[QuniCounty|曲逆]]; Guan Ying defeats and kills Hou Chang and recovers several Zhao-region positions. This extends Guan Ying's role from Chu-Han cavalry pursuit into early Han internal pacification.
-
-[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] adds Guan Ying to the final [[YingBu|英布 / 黥布]] campaign. When [[LiuBang|刘邦]] finally attacks after [[CaoShen|曹参]] and [[LiuFeiQiKing|刘肥]] arrive, Guan Ying leads the rapid force that wraps from the northwest, matching his recurring cavalry-pursuit profile but now in early Han internal rebellion suppression rather than Chu-Han conquest.
-
-## Connections
-- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[YingBu|英布 / 黥布]], [[LiuBang|刘邦]], [[CaoShen|曹参]], and [[LiShang|郦商]] - northwest enveloping role in Ying Bu's final battlefield defeat.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[HouChang|侯昶]], [[JinXiHanGeneral|靳歙]], [[QuniCounty|曲逆]], and [[ChenXiRebellion|陈豨之乱]] - Quni pursuit and rebel-branch elimination.
-- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]], [[WeishuiBattle|潍水之战]], [[QiState|齐国]], [[TianHeng|田横]], and [[CaoShen|曹参]] - capture and follow-up battles after Long Ju's defeat.
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]], [[GaixiaBattle|垓下之战]], and [[XiangYu|项羽]] - five-thousand-cavalry pursuit after Xiang Yu's night breakout.
-- [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[ZhouBo|周勃]], and [[FanKuai|樊哙]] - Liu Bang-side reaction field after the settlement.
-- [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[ThreeQinContainment|三秦压制]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - constrained base and retreat strategy.
-- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], [[HanXin|韩信]], and [[ChenCang|陈仓]] - Ziwu-route feint and cavalry exploitation after the breakthrough.
-- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiyangQinHan|栎阳]], and [[StrategicCapitalRelocation|战略性迁都]] - later capital-base use of the place seized after the breakthrough.
-- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]], [[HanCavalryFormation|汉军骑兵建设]], [[LiBiQinCavalry|李璧]], [[LuoJiaQinCavalry|骆甲]], and [[XingyangStandoff|荥阳相持]] - post-Pengcheng cavalry command and first defensive payoff.
-- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[ChenPing|陈平]], [[ZhouBo|周勃]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[VeteranMeritCliqueSupervision|功臣旧将监督]] - accusation follow-up and weak-access reading of the "盗嫂" claim.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[WeiBao|魏豹]], [[CaoShen|曹参]], and [[RiverCrossingDeception|渡河欺敌]] - cavalry pursuit after Han Xin's hidden crossing.
+## Relationships
+- [[QiState|齐国]] - 韩信伐齐战役的地区背景，非灌婴所属政权。
+- [[HanCavalryFormation]] - Guan Ying's command combines trusted leadership and former Qin specialist deputies.
+- [[LayeredFeintCentralBreakthrough]] - his Ziwu movement distracts from Han Xin's central attack.
+- [[ThreeQinContainment]] - the breakthrough opens the confinement around the Han base.
+- [[StrategicRetreatBaseBuilding]] - Xiao He's advice restrains the officers' initial urge to attack immediately.
+- [[StrategicCapitalRelocation]] - Liyang's later capital role gives geographic significance to the earlier seizure.
+- [[XingyangStandoff]] - mounted defense supports the prolonged Han line after Pengcheng.
+- [[RiverCrossingDeception]] - his cavalry exploits Han Xin's hidden crossing against Wei Bao.
+- [[VeteranMeritCliqueSupervision]] - rapid outsider promotion triggers old-guard resistance.
+- [[MoralSlanderReframing]] - the sexual accusation is assessed through weak information access, not accepted as fact.
+- [[BaShu|巴蜀]] - adjacent constrained resource base in Xiao He's retreat argument.
