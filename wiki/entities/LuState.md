@@ -2,55 +2,52 @@
 title: "鲁国 / Lu State"
 type: entity
 tags: [state, pre-qin, spring-and-autumn, warring-states, china]
-sources: [zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd, zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe, zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf, zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem, zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb, zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]
+sources:
+  - zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r
+  - zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod
+  - zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd
+  - zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe
+  - zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf
+  - zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa
+  - zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si
+  - zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem
+  - zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb
+  - zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm
+  - zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d
 last_updated: 2026-08-21
+knowledge_schema: synthesis-v1
 ---
 
 # 鲁国 / Lu State
 
-鲁国 / Lu State appears in [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] through a 394 BCE notice: [[QiState|齐国]] attacks Lu and occupies Zui, located southeast of present-day Qufu in the source's geography.
+## Overview
+本页按主题区分有出处的事件、解释及其局限。 鲁国与齐楚的春秋、战国军事及经济纠纷包含394、385、373 BCE攻伐与子贡间接救鲁、齐国纨绮经济战。
 
-The page is source-scoped. Lu's role here is a territorial-war notice in the episode's broader claim that early [[WarringStatesPeriod|战国时期]] conflict is becoming faster and more frequent.
+## Current Profile
+鲁国与齐楚的春秋、战国军事及经济纠纷包含394、385、373 BCE攻伐与子贡间接救鲁、齐国纨绮经济战。 377、355、346 BCE继承记载及“鲁酒薄而邯郸围”是不同层级的编年和轶事。 鲁的周室联系、孔子与史官传统延续文化声望；它不等于军事实力。 楚占领鲁、迁君至莒与卞城、降为庶民的层次不能合并为一次事件；大国相互牵制解释其晚存。
 
-[[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] adds another Qi-Lu pressure notice in 385 BCE: [[QiState|齐国]] attacks Lu while Tian-family Qi is still consolidating after formal recognition. The episode uses the notice as part of the broader conflict field, not as a developed Lu-centered narrative.
+## Key Characteristics
+- 鲁国与齐楚的春秋、战国军事及经济纠纷包含394、385、373 BCE攻伐与子贡间接救鲁、齐国纨绮经济战。
+- 377、355、346 BCE继承记载及“鲁酒薄而邯郸围”是不同层级的编年和轶事。
+- 鲁的周室联系、孔子与史官传统延续文化声望；它不等于军事实力。
+- 楚占领鲁、迁君至莒与卞城、降为庶民的层次不能合并为一次事件；大国相互牵制解释其晚存。
 
-[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds a compact 377 BCE succession notice: [[LuMugong|鲁穆公]] dies and his son Ji Fen succeeds as [[LuGonggong|鲁共公]]. The same episode's [[Zisi|子思]] biography also keeps the Confucian branch near Lu's cultural setting.
+## Evidence
+- **Interstate survival and war:** In the [[WarringStatesPeriod|Warring States]] notices, [[QiState|齐国]] seized Zui southeast of present-day Qufu in 394 BCE, attacked again in 385 BCE while Tian-family Qi consolidated, and 鲁国 attacked Qi and took Yangguan in 373 BCE under [[ZhouLiewang|周烈王]]. Earlier Spring-and-Autumn stories differ in genre: [[Confucius|孔子]] sent [[Zigong|子贡]] to divert a threatened Qi attack through [[WuState|吴国]], [[YueState|越国]] and [[JinState|晋国]] ([[InterstateCascadeDiplomacy|indirect rescue]]); [[LuHuanGong|鲁桓公]] was killed on a Qi visit amid [[QiXiangGong|齐襄公]] and [[WenJiang|文姜]]'s scandal. In the [[GuanZhong|管仲]] textile story, Qi promoted Lu gauze, suppressed its own cloth and drew Lu and [[LiangState|梁国]] away from grain; cutting the market later brought price pressure, flight and submission. These are distinct military, diplomatic and economic narratives, not one continuous campaign. [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] [[zizhi-tongjian-zhouji-08-yidai-mingjiang-wuqi-cansi-3-ltca-ikuzo9ej7a0lfrgwv2-wulb]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] [[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]]
+- **Succession and alliance cascades:** In 377 BCE [[LuMugong|鲁穆公]] died and Ji Fen succeeded as [[LuGonggong|鲁共公]]; that source also places [[Zisi|子思]] near Lu's Confucian world. In 355 BCE Lu Gong Gong died and [[LuKanggong|鲁康公]] succeeded. The separate [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] anecdote says Gong Gong's late arrival, poor wine and refusal to apologize provoked [[ChuXuanwang|楚宣王]] and Qi to attack Lu, distracting Chu before [[WeiState|魏国]] besieged [[Handan|邯郸]]. In 346 BCE Lu Kang Gong died and his son became [[LuJinggong|鲁景公]]. Keep the annalistic succession notices distinct from the explanatory wine story. [[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]]
+- **Ritual and record authority:** The episodes connect Lu's lasting cultural weight to proximity to the [[ZhouRoyalHouse|周王室]], record keeping and [[Confucius|孔子]]'s access to historical materials ([[HistoricalRecordAuthority|record authority]]), despite military weakness. After [[ChuState|楚国]] took [[LanlingWarringStates|兰陵]] in Lu's cultural region, [[Chunshenjun|春申君]] appointed [[Xunzi|荀子]] there as a form of cultural pacification. Neither Confucian afterlife nor scholar administration should be conflated with sovereign Lu policy. [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] [[zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe]]
+- **Chu conquest and chronology:** A later account has Chu occupy Lu, exile its ruler to Ju and leave the polity only nominally intact; another distinguishes the final removal of Lu Qing Gong from Ju to Biancheng and his reduction to commoner. The source describes Lu as a long-lived Zhou enfeoffed state, still present until roughly twenty-five years before Qin's final annexation wars, and interprets its survival as [[SmallStateSurvivalByDistraction|major-power distraction]]: Qin, Han, Zhao and Wei fought westward, [[YanState|燕国]] was distant, and Qi under [[QiWangJian|齐王建]] and [[HouSheng|后胜]] was weakened and isolationist, leaving Chu able to expand eastward. Its association of Lu's end and Eastern Zhou's terminal stage with a Qin Zhaoxiang Wang fifty-second-year frame conflicts with the separate notice placing Eastern Zhou's destruction under [[QinZhuangxiangwang|秦庄襄王]]; do not merge those chronologies. [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod]]
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-1-lq3t7lwpmq1oyb8zmmmn2tywnu8d]] adds Lu's 373 BCE attack on [[QiState|齐国]] and occupation of Yangguan, one of several quick war notices in [[ZhouLiewang|周烈王]]'s early reign.
+## Qualifications
+The Lu-wine chain is an inherited explanatory story, not a demonstrated single cause of the siege. Occupation, nominal existence, exile and formal deposition are different stages; the final destruction date has source-layer tension. The [[GongziPengsheng|公子彭生]] identification in the Lu Huan Gong death story is a cross-reference to an earlier 《左传》 branch noted by the declared Zhouji 75-2 source, not independently established by this page's ordered source inventory.
 
-[[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem]] adds Lu's 355 BCE succession from [[LuGonggong|鲁共公]] to [[LuKanggong|鲁康公]]. It also gives Lu an outsized causal role through the [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] story: Lu Gong Gong's late attendance, poor wine, and refusal to apologize anger [[ChuXuanwang|楚宣王]], causing Chu and [[QiState|齐国]] to attack Lu and creating the strategic distraction that [[WeiState|魏国]] reads before besieging [[Handan|邯郸]].
+## What Changed
+- 晚期楚占鲁、君主迁徙与降为庶民的分段材料，补足早期齐鲁边境攻伐的政治结局。
 
-[[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds another compact succession notice. In 346 BCE [[LuKanggong|鲁康公]] dies, and his son succeeds as [[LuJinggong|鲁景公]].
-
-[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds an earlier rescue story through [[Zigong|子贡 / 端木赐]]. When [[QiState|齐国]] plans to attack Lu, [[Confucius|孔子]] sends Zigong, who saves Lu indirectly by redirecting the conflict through [[WuState|吴国]], [[YueState|越国]], and [[JinState|晋国]]. Lu's role here is the weak state whose survival depends on [[InterstateCascadeDiplomacy|多国连锁外交]] rather than direct military resistance.
-
-[[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] adds an earlier Spring-Autumn scandal branch. [[LuHuanGong|鲁桓公]] is killed during a visit to [[QiState|齐国]] after [[QiXiangGong|齐襄公]] and [[WenJiang|文姜]]'s scandal, making Lu the harmed neighboring state in the disorder that precedes [[GuanZhong|管仲]]'s reforms.
-
-[[zizhi-tongjian-zhouji-75-3-gudai-de-jingji-zhanzheng-neng-you-duo-kepa-liybgoz8lspypax6dhuke2js0pxf]] returns Lu to the Guan Zhong branch as an economic-war target. The episode says [[QiState|齐国]] makes Lu gauze fashionable and suppresses its own Qi silk, causing Lu and [[LiangState|梁国]] to chase cloth income and neglect grain production. When Qi later cuts off the market, Lu faces food-price pressure, population flight, and eventual submission.
-
-[[zizhi-tongjian-qinji-99-2-mingming-yilian-baixiang-de-caize-ping-shenme-baixiang-lhfyb6hzcqkpbzdrwsxajb7hhmhe]] adds Lu's cultural afterlife after military loss. The episode says [[ChuState|楚国]] takes [[LanlingWarringStates|兰陵 / Lanling]] while Qin is occupied elsewhere, but emphasizes that Lu's ritual and scholar tradition does not disappear with territorial control. That is why [[Chunshenjun|黄歇 / 春申君]]'s appointment of [[Xunzi|荀子]] matters as cultural pacification.
-
-[[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] adds the sharper terminal notice. The source says Chu occupies Lu, sends Lu's ruler into exile at Ju, and leaves Lu's land absorbed while the state exists only in name. This turns the earlier Lanling cultural-pacification branch into part of Lu's political afterlife: Lu's ritual prestige and scholar world remain meaningful even as its territorial sovereignty collapses.
-
-[[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod]] sharpens the terminal step again. The episode says [[ChuState|楚国]] destroys Lu, moves Lu Qing Gong from Ju to Biancheng, and makes him a commoner. It also stresses that Lu did not disappear early in the Warring States story; it survived until about twenty-five years before Qin's final annexation wars, making Lu one of the last old enfeoffed states still visible in the annalistic field.
-
-[[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] explains that late survival instead of merely restating it. The episode treats Lu as culturally powerful because of its closeness to the [[ZhouRoyalHouse|周王室]], its record-keeping role, and its link to [[Confucius|孔子]]'s access to historical materials. This creates [[HistoricalRecordAuthority|史官记录话语权]] even though Lu is militarily weak.
-
-The same source makes Lu a case of [[SmallStateSurvivalByDistraction|小国因大国无暇而存续]]. Qin, Han, Zhao, and Wei are busy in the western war field, [[YanState|燕国]] is too distant, and [[QiState|齐国]] is too damaged and isolationist under [[QiWangJian|齐王建 / 田建]] and [[HouSheng|后胜]] to act. [[ChuState|楚国]] therefore becomes the actor with both restored capacity and eastern-expansion appetite to destroy Lu. The source also creates a chronology tension by associating Lu's destruction and Eastern Zhou's terminal episode with a Qin Zhaoxiang Wang fifty-second-year frame, while [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]] places Eastern Zhou's destruction under [[QinZhuangxiangwang|秦庄襄王]].
-
-## Connections
-- [[QiState|齐国]] - attacker in the source notice.
-- [[EarlyWarringStatesInterstateWar]] - frame for repeated sparse attack notices involving Lu.
-- [[TerritorialControlChurn]] - adjacent concept for repeated conflict over cities and borderland.
-- [[WarringStatesPeriod|战国时期]] - period setting.
-- [[LuMugong|鲁穆公]], [[LuGonggong|鲁共公]], and [[Zisi|子思]] - Zhouji 09 succession and Confucian branch.
-- [[QiState|齐国]], [[WeyState|卫国]], and [[YanState|燕国]] - Zhouji 10 attack cluster.
-- [[LuGonggong|鲁共公]], [[LuKanggong|鲁康公]], [[ChuXuanwang|楚宣王]], [[WeiState|魏国]], [[Handan|邯郸]], and [[LuWineHandanWarCascade|鲁酒薄而邯郸围]] - Zhouji 15 succession and wine-triggered interstate chain.
-- [[LuKanggong|鲁康公]] and [[LuJinggong|鲁景公]] - Zhouji 18 succession notice.
-- [[Zigong|子贡 / 端木赐]], [[Confucius|孔子]], [[WuState|吴国]], [[YueState|越国]], [[JinState|晋国]], and [[InterstateCascadeDiplomacy|多国连锁外交]] - Zhouji 57 rescue branch.
-- [[LuHuanGong|鲁桓公]], [[QiXiangGong|齐襄公]], [[WenJiang|文姜]], and [[GongziPengsheng|公子彭生]] - Zhouji 75-2 and related Zuo Zhuan scandal branch.
-- [[LiangState|梁国]], [[GuanZhong|管仲]], [[DemandInducedAgrarianDisruption|需求诱导式弃农]], [[GrainBorderCoercion|粮食与封边胁迫]], and [[InterstateEconomicWarfare|跨国经济战]] - Zhouji 75-3 textile-war branch.
-- [[ChuState|楚国]], [[Chunshenjun|黄歇 / 春申君]], [[Xunzi|荀子]], [[LanlingWarringStates|兰陵 / Lanling]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Qinji 99 part 2 former Lu cultural territory under Chu administration.
-- [[ZhouRoyalHouse|周王室]] and [[WarringStatesPeriod|战国时期]] - Qinji 99 part 4 old-order collapse frame around Lu's nominal survival.
-- [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]] and [[ChuState|楚国]] - Lu Qing Gong's final demotion to commoner and Lu's late survival note.
-- [[HistoricalRecordAuthority|史官记录话语权]], [[SmallStateSurvivalByDistraction|小国因大国无暇而存续]], [[HouSheng|后胜]], and [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r|Qinji 102-2]] - Lu's record authority and external-timing explanation for late survival and destruction.
+## Relationships
+- [[DemandInducedAgrarianDisruption]] - 齐国炒热鲁缟后，鲁人逐布利而荒粮产，是管仲所述经济战的第一阶段。
+- [[GrainBorderCoercion]] - 齐断购鲁缟、控制粮食与边境贸易后，鲁国遭粮价及人口流失压力，区别于最初的布匹需求诱导。
+- [[InterstateEconomicWarfare]] - 鲁是齐国以布匹市场与粮储削弱邻国的目标国之一，而非该策略的发动者。
+- [[OccupationPacificationStrategy]] - 楚占鲁文化区域兰陵后任用荀子，试图通过儒者声望治理新得之地；不能倒推仍由鲁国执政。
