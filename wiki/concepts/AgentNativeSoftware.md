@@ -2,67 +2,60 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435
+  - 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto
+  - vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1
+  - vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1
+  - vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1
+  - openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6
+  - vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1
+  - vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1
+  - 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m
+  - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
+  - ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
-
 # Agent Native Software
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s direct test for agent-native businesses: if removing AI or the agent leaves the business basically intact, the product is not truly AI native or agent native. The episode applies this test to startup opportunities, arguing that infrastructure, memory, search, sandbox, collaboration harnesses, and agent-cloud services are more plausible near-term opportunities than thin applications that merely add an AI layer to old workflows.
+## Definition
+Agent-native software is organized around an acting agent rather than a conventional app with an optional AI feature: under the source's operational test, removing the agent removes the product's core reason to exist. The broader [[AgenticSoftware]] category can also include incumbent software exposing atomic capabilities without passing that stricter test.
 
-[[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] adds [[NikeshArora|Nikesh Arora]]'s enterprise-systems version. He argues that systems of record and systems of work will be reinvented as agents perform work behind or instead of human-facing UI, turning products such as [[Salesforce]] and [[Oracle]] into substrates for agent execution and [[AgentManagedAuditTrails]].
-
-Agent-native software is software whose core substrate is an agent rather than a traditional app with an AI feature bolted on. In [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], [[JustinYan]] and [[Zili]] frame [[OpenClaw]] this way: the surrounding code, tools, channels, UI, and [[AISkills]] act as the agent's hands, senses, and work environment, while the agent itself is what makes the product coherent.
-
-[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] sharpens the adjacent [[AgenticSoftware]] definition. The hosts argue that simply adding an AI assistant, MCP-style tool access, or skills to existing software is not enough; the deeper change is decomposing products into callable abilities, dynamic interfaces, and human-agent review loops.
-
-[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a non-engineer perception shift. [[XuTao]] starts from an ordinary chat surface and only later realizes that the useful part of "小龙虾" is a programmable, layered system doing work behind the conversation. That makes agent-native software legible as a new way to package back-end routines, memory, and scheduled action for people who would not normally describe themselves as software builders.
-
-[[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds [[AirJelly]] as a context-first agent-native case. [[HuangBote]] argues that task execution and orchestration alone can be copied quickly, while the harder product layer is giving the agent senses, memory, timing, and privacy-aware context. This reframes agent-native software as not only "what can the agent do," but "what can the agent know safely and at the right moment."
-
-[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds a packaging-centered view. [[YaGe]] and [[Haoda]] argue that [[OpenClaw]] became legible because it combined [[IMAgentInterfaces]], [[LocalAgentExecution]], memory, skills, and tool feedback into a product users could treat as a trainable assistant rather than a normal app with an AI button.
-
-[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] extends the form into [[TokenDrivenSoftware]]. Instead of only treating the agent as a worker behind fixed app screens, the hosts imagine software whose interface, interaction flow, and world behavior are generated at run time from context. This makes [[ModelRoutingCostControl]] and [[AIInferenceCostStructure]] part of product design, because dynamic behavior can become expensive if every generated surface uses the top model.
-
-[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the product-prototyping version. [[OpenClaw]] and [[HermesAgent]]-style agents can be configured in IM threads for article triage, translation, todo aggregation, and calendar/reminder synthesis, letting a builder test a product idea through conversation before deciding whether to engineer it as a stable app or skill.
-
-[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the enterprise-system redesign version. [[Freda]] argues that many AI CRM or ERP products still resemble old software with automation added. The stronger agent-native opportunity is to record previously invisible decision context, make systems persistent and real-time enough for agents, and redesign communication, permissions, memory, and workflow around nonhuman operators.
-
-[[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] adds a conservative incumbent version through [[SAP]]. The source says SAP wants to make the application layer thinner and move from record system toward executable system through [[SAPJoule]] and agents, but it keeps [[EnterpriseResourcePlanning|ERP]] process, data, permissions, and localization as the governed substrate rather than treating agents as a full replacement.
-
-[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]] as a multi-agent workspace form. The product is agent-native not because it adds an assistant to chat, but because channels, threads, documents, memory, task claiming, and review surfaces are designed around many agents as active participants in the workspace.
+## Current Synthesis
+The product center shifts from fixed screens to an [[AgentHarness|execution loop]] with callable tools, skills, channels, memory, context and permissioned review. Consumer proactive companions and enterprise persistent workspaces add different constraints; examples are product and interview claims, not proof that all agent-native software is profitable or autonomous.
 
 ## Key Claims
-- Agent-native software differs from AI-assisted software because removing the agent would remove the product's reason to exist.
-- [[AgenticSoftware]] can include agent-native products, but it also describes how existing software may be rebuilt around [[AtomicCapabilityServices]] and agent-facing access.
-- The design center shifts from screens and static feature menus toward [[AgentHarness]] choices: tools, permissions, channels, triggers, memory, and feedback loops.
-- [[AISkills]] become product surface because they define reusable capabilities and can sometimes be created or refined by the agent itself.
-- [[OnDemandApps]] are one possible downstream form: the agent assembles or generates capabilities at the moment of need instead of exposing only prebuilt app functions.
-- Agent-native software increases the importance of [[AgentPermissionBoundaries]] because broader action capacity also broadens failure and leakage risk.
-- Context capture and memory can be as much a product surface as tools and skills, especially for personal agents that need to act before being prompted.
-- Accessibility and entry point can be as important as raw capability: an IM surface plus local runtime can expose existing CLI-agent power to many more users.
-- Token-driven interaction broadens agent-native software from task execution into dynamic experience generation, but increases cost, latency, and quality-control requirements.
-- Agent-native prototypes can start as configured conversations, but durable products still need stable memory, permission boundaries, and deterministic pieces when repeated work becomes clear.
-- For non-technical users, agent-native software can reveal the programmatic structure behind work: chat becomes the surface for routines, state, memory, and tool execution.
-- Agent-native enterprise software may need to capture why decisions were made, who objected, what constraints mattered, and which approvals shaped the outcome, not only the final structured record.
-- SAP adds that incumbent enterprise software can move toward agent-native execution without abandoning the ERP substrate, especially when auditability and global compliance remain central.
-- Persistent, real-time systems can matter because agents may need to stay online, react to events, and maintain state rather than operate as one-shot assistants.
-- Agent-native collaboration software may need to be readable by two kinds of workers at once: humans scanning progress and agents consuming structured event history.
-- E249 adds that "agent native" is an existential product test, not a marketing label: without the agent, the business should lose its core reason to exist.
+- An agent-native product depends existentially on agent action, not simply an AI button on legacy workflow.
+- Skills, local execution, IM entry, tools and feedback make the agent the operating center while human interfaces still show results and allow intervention.
+- Context and durable memory may differentiate proactive products more than bare action orchestration, but privacy and timing are limiting conditions.
+- Enterprise agent-native work needs persistent, structured decision context and dual human/agent collaboration views rather than just record fields.
+- Dynamic generated interfaces are a possible form, not a deployed industry norm; runtime model cost, audit and ERP substrate constrain it.
 
-## Connections
-- [[OpenClaw]] — source example of an agent-native product form.
-- [[ShengdongJixi]], [[XuTao]], and [[VibeCoding]] — crossover case where agent-native software becomes visible to non-engineers through workflow prototypes.
-- [[AgentHarness]], [[AgenticWorkflow]], and [[AgentFacingInterfaces]] — infrastructure and interface layer that agent-native software depends on.
-- [[AISkills]], [[AgentSelfEvolution]], and [[PersistentAgentMemory]] — mechanisms for durable and self-improving capability.
-- [[HeadlessSoftware]] — adjacent thesis that software value should be callable by agents rather than trapped in GUI-first flows.
-- [[OnDemandApps]] and [[AgentPermissionBoundaries]] — new concepts added by the same source.
-- [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[ProactiveAgents]] — context-first agent-native case added by the AirJelly source.
-- [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw product-mechanics case added by the 20-question episode.
-- [[TokenDrivenSoftware]], [[GeneratedWorkInterfaces]], and [[ModelRoutingCostControl]] — Vol. 170's dynamic-interface and cost-control extension.
-- [[IMAgentInterfaces]], [[HermesAgent]], [[PersistentAgentMemory]], and [[AISkills]] — configured personal-agent prototype layer added by Vol. 167.
-- [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164's broader software-architecture frame.
-- [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentPermissionBoundaries]] — episode 141's workflow, team, and infrastructure redesign frame.
-- [[SlockAI|Slock.ai]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[HumanAgentCollaboration]] — multi-agent workspace case added by the RC episode.
-- [[SAP]], [[SAPJoule]], [[EnterpriseResourcePlanning]], [[ERPTrustMoat]], and [[AutonomousEnterprise]] — incumbent ERP-to-agent execution branch added by LateTalk.
-- [[Dongxu]], [[TokenEfficientAgentWorkflow]], [[AgentHarness]], [[PersistentAgentMemory]], and [[AgentRuntimeExecutionLayer]] — E249's agent-native startup and infrastructure frame.
+## Evidence
+- **Existential and architectural test:** [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] has [[Dongxu]] ask whether the company still makes sense if AI is removed; he points to [[PersistentAgentMemory|memory]], search, sandbox, runtime and collaboration infrastructure as more plausible opportunities than thin wrappers, while noting [[HermesAgent]]'s skill capture does not solve long-term memory. [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] has co-hosts [[JustinYan]] and [[Zili]] discuss the agent-removal test through Justin's [[OpenClaw]] build: tools, UI and [[AISkills|skills]] serve as the agent's hands. [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] instead imagines [[TencentMeeting]] exposing [[AtomicCapabilityServices|recording, media and communication atoms]] to agents; an incumbent undergoing this decomposition need not itself meet the strict native test.
+- **Entry and execution:** [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] has [[YaGe]] and [[Haoda]] describe [[IMAgentInterfaces|IM]], [[LocalAgentExecution|local files/tools]], skills, memory and execution feedback as OpenClaw's bundle. [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] follows [[XuTao]] and [[ShengdongJixi]] prototypes: [[VibeCoding|coding]] and scheduled routines reveal programmatic work to non-engineers, but a demo is not durable product validation. [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] describes [[HermesAgent]]/OpenClaw IM prototypes for translation, article triage, todo and calendar synthesis that need stable permissions before repeated unattended use.
+- **Context and proactivity:** [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] gives [[AirJelly]] founder [[HuangBote]]'s distinction between periodic screen capture and selective [[IntentContext|Enter-key intent]] events, merging entities/events in memory with time decay and retrieval for [[ProactiveAgents|timely help]]. [[OSLevelContext]] entails privacy and false-trigger risk, not a proven general product moat. [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] imagines [[TokenDrivenSoftware|runtime-generated interactions]], subject to [[ModelRoutingCostControl]] and [[AIInferenceCostStructure|token cost]]; these are host projections rather than deployed norms.
+- **Enterprise dual surface:** [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] records [[Freda]]'s argument that enterprises should record why choices were made, objections and approvals, not just final CRM/ERP rows; persistent live context is an investment thesis, not an observed universal migration. [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] describes [[SlockAI]]'s [[AgentDynamics|multi-agent]] channels, documents, [[AgentTaskClaiming|task claims]] and [[HumanAgentCollaboration|human review]] with separate structured events for agents. [[all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435]] gives [[NikeshArora]]'s forecast that [[Salesforce]] and [[Oracle]] systems of record become substrates for agent work and [[AgentManagedAuditTrails|auditable actions]]; a vendor forecast is not achieved replacement.
+- **Incumbent boundary:** [[ai-chongji-qiye-ruanjian-jutou-yu-sap-yuanxin-liao-damoxing-to-b-de-dianfu-yu-bianjie-1-174-1]] describes [[SAP]] / [[SAPJoule]] moving from records toward executable workflows but explicitly preserving [[EnterpriseResourcePlanning|ERP]] process, data, localization, permissions and compliance. This [[ERPTrustMoat|trust substrate]] qualifies claims of immediate [[AutonomousEnterprise|autonomy]].
+
+## Counterevidence & Qualifications
+- The five Fengyan Fengyu volumes are recurring hosts, not five independent tests of market-wide success. The Vol. 170 generated-world proposal and All-In enterprise displacement are predictions.
+- Native software cannot waive [[AgentPermissionBoundaries|permission]], audit, human acceptance or enterprise data governance. Tokens per successful task and maintenance cost matter more than novelty of an interface.
+
+## What Changed
+- Applied the strict remove-the-agent test while separating broader incumbent agentification.
+- Grouped contexts, execution, enterprise decision history and cost/governance constraints instead of source chronology.
+
+## Related Concepts
+- [[AgenticWorkflow]] - Multi-step goal execution is the behavior that differentiates an agent from a static AI feature.
+- [[AgentFacingInterfaces]] - Callable tools and structured events are the practical action surface.
+- [[HeadlessSoftware]] - Capability access may be less tied to human GUI operation without eliminating GUI review.
+- [[OnDemandApps]] - Agents may assemble temporary capabilities rather than only fixed app screens.
+- [[AgentSelfEvolution]] - Saved workflows can improve future agent work without implying autonomous model retraining.
+- [[GeneratedWorkInterfaces]] - A generated human view is a contingent presentation form, not the definition of agent-native.
+- [[AgentRuntimeExecutionLayer]] - Durable execution, backups and observability underlie long-running product claims.
+- [[TokenEfficientAgentWorkflow]] - Successful task economics limit the viability of repeated dynamic agent actions.
+- [[AIEconomicDiffusion]] - Organization-level adoption is separate from a compelling isolated demonstration.
+- [[AIOrganizationDesign]] - Business processes and supervisory roles have to change for enterprise use.
