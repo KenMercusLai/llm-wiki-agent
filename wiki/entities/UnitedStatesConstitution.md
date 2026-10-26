@@ -2,40 +2,48 @@
 title: "United States Constitution"
 type: entity
 tags: [document, law, constitution, politics]
-sources: [tech-20260814-tech-pod-128-tech-20260814-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]
+sources:
+  - tech-20260814-tech-pod-128-tech-20260814-tech-pod-128
+  - tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128
+  - sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978
+  - 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809
+  - under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271
 last_updated: 2026-08-14
+knowledge_schema: synthesis-v1
 ---
 
-# United States Constitution
+## Overview
+The United States Constitution is treated by these sources as both a separation-of-powers framework and a hard-to-amend set of constraints. Historical impeachment and incapacity processes sit beside contemporary First Amendment disputes over platform access, political deepfakes and religious confession.
 
-[[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] adds a First Amendment political-deepfake branch. [[MariaCurie|Maria Curi]] says attempts to regulate AI-generated political content often face constitutional concerns, and the episode describes a [[California]] AI political-content law as having been struck down as unconstitutional. The source links the Constitution to [[PoliticalDeepfakeRegulation]] by showing that election-integrity rules still have to respect speech limits.
+## Current Profile
+The document supplies an institutional repair mechanism for presidential abuse, but Article V's amendment thresholds make structural revision difficult. The three contemporary legal episodes describe claims, proposals or discrete court outcomes; they do not settle every constitutional challenge nationwide.
 
-[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the Constitution as a constraint on reform as well as a source of repair mechanisms. [[LinYao|林垚]] emphasizes Article V's two-thirds congressional threshold and three-fourths state-ratification threshold, linking them to slavery-era compromise and to the present difficulty of changing Electoral College, Senate, federalism, or [[PresidentialSystem|presidential-system]] structures.
+## Key Characteristics
+- Separates the House's impeachment power from Senate trial and conviction and preserves a distinct incapacity route.
+- Sets a high formal amendment threshold that can protect stability and entrench defects at the same time.
+- Protects political speech and lawful access even as states try to manage deepfakes and youth platform harms.
+- Religious-liberty claims around confession can conflict with child-abuse reporting duties; protections vary by jurisdiction.
 
-The United States Constitution appears in [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] as the institutional "ancestral code" that makes the [[PresidentialSystem|U.S. presidential system]] both powerful and constrained. The episode uses its impeachment clauses, [[SeparationOfPowers]], and later amendments to explain why removing a president is deliberately harder than removing a parliamentary cabinet.
+## Evidence
+- **Executive accountability and institutional repair:** In a [[CassSunstein]]-based reading, the House impeaches, the Senate tries, the [[SupremeCourt]] Chief Justice presides at presidential trials and conviction needs two-thirds of senators. [[HighCrimesAndMisdemeanors]] concerns public-office abuse rather than mere disagreement or all private misconduct; the [[TwentyFifthAmendment]] addresses incapacity separately. [[AndrewJohnson]], [[RichardNixon]], [[BillClinton]] and [[DonaldTrump]] serve as distinct boundary cases for [[PresidentialSystem]], [[SeparationOfPowers]] and conditional [[ConstitutionalRobustness]], not a general no-confidence vote. [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] [[LinYao]] counters that Article V's two-thirds congressional proposal and three-fourths state ratification, slavery-era compromises, equal-state Senate power and federalism make structural [[USConstitutionalReformConstraint|repair]] hard; [[NationalPopularVoteInterstateCompact]] is a partial Electoral College workaround, not a cure for [[USConstitutionalCrisisRisk]]. [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]]
+- **First Amendment speech conflicts:** [[MariaCurie|Maria Curi]] describes 29 states with some political-deepfake rules, a [[California]] AI-content law struck down on First Amendment grounds and an Oregon election-image dispute still under test: [[PoliticalDeepfakeRegulation]] and [[AIPoliticalAdDisclosurePatchwork]] do not share a final national verdict. [[tech-20260814-tech-pod-128-tech-20260814-tech-pod-128]] [[AaronMackey]] of EFF separately challenges proposed [[CaliforniaAB1709]] minors' platform bans and ID checks as burdens on [[YouthOnlineSpeechRights]] and adults' lawful access, advocating [[ComprehensiveConsumerDataPrivacy]] instead; that is an advocate's position, not adjudication of the proposal. [[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]]
+- **Confession, abuse reporting and federalism:** The U.S. segment of a UK-titled episode juxtaposes [[PeterEisley]]'s abuse account, [[CatholicChurch]] arguments for the confession seal and child-safety advocates' counterclaim. State reporting regimes differ: a Washington State religious-liberty victory does not create a national exemption, while Missouri and Vermont bills failed in committee. [[ClergyMandatoryReportingConflict]] remains a rights and protection dispute, not British constitutional law. [[under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]]
 
-In the source, the Constitution is not treated as flawless text. It is treated as a patched operating system: old, awkward, partly ambiguous, and still valuable because it encodes earlier solutions to problems of monarchy, executive energy, legislative domination, and emergency succession.
+## Qualifications
+The Sunstein-based reading distinguishes serious private wrongdoing from an impeachable misuse of office and the Twenty-Fifth Amendment from punishment. Lin Yao's pessimism about reform is a speaker judgment. Political deepfake and age-gate cases have different procedural statuses; the California ruling does not decide Oregon or every state law. The confession discussion is in the American segment of a British-state episode, not a claim about UK constitutional law.
 
-[[tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128]] adds a First Amendment platform-access branch. [[AaronMackey]] argues that [[CaliforniaAB1709]] and similar state laws can violate constitutional rights when they broadly block minors from lawful online speech or require age-verification gates that also burden adults.
+[[AlexanderHamilton]] is the founding-era reference for an energetic but accountable executive in the impeachment discussion; [[AmericanDemocraticResilience]] is the episode's proposed recovery test, not an automatic property of the text. The platform-access discussion links [[SocialMediaAgeGateSpeechBurden]] to lawful-speech and identity-check costs for minors and adults. [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]]
 
-[[under-strain-breaking-the-british-state-6a799563523b3dfcd83c7271]] adds a First Amendment religious-freedom branch through [[ClergyMandatoryReportingConflict]]. The episode reports that [[CatholicChurch|Catholic Church]] lawyers argue forced reporting from confession violates religious liberty, while child-safety advocates argue abuse prevention is a compelling state interest.
+## What Changed
+- Paired constitutional repair with amendment rigidity instead of treating robustness or crisis as the sole verdict.
+- Grouped current First Amendment disputes by their distinct speech and religious-freedom claims.
 
-## Source Position
-- The Constitution gives the House the impeachment power and the Senate the trial power.
-- Presidential impeachment trials involve the Chief Justice of the [[SupremeCourt]] and a two-thirds Senate conviction threshold.
-- [[HighCrimesAndMisdemeanors]] creates interpretive flexibility without making impeachment a general dissatisfaction vote.
-- The [[TwentyFifthAmendment]] adds a separate incapacity mechanism, showing how the system handles failure modes beyond guilt or misconduct.
-- The sequel stresses that Article V amendment design can protect stability while also producing [[USConstitutionalReformConstraint]].
-- The Marketplace Tech source adds that constitutional speech protections constrain state child-safety technology laws when those laws restrict lawful online communication by age.
-- The Intelligence source adds a religious-freedom conflict where mandatory child-abuse reporting may collide with confession privilege.
-- The August 14 Marketplace Tech source adds that AI political-content regulation can be limited by First Amendment political-speech protections.
-
-## Connections
-- [[UnitedStates]] - political system and country governed by the document.
-- [[PresidentialSystem]], [[SeparationOfPowers]], [[PresidentialImpeachment]], and [[TwentyFifthAmendment]] - constitutional design concepts from the episode.
-- [[AlexanderHamilton]] - founding-era figure used to defend a strong but accountable executive.
-- [[ConstitutionalRobustness]] and [[AmericanDemocraticResilience]] - source synthesis about institutional recovery capacity.
-- [[USConstitutionalReformConstraint]], [[NationalPopularVoteInterstateCompact]], and [[USConstitutionalCrisisRisk]] - sequel reform-limit branch.
-- [[CaliforniaAB1709]], [[AaronMackey]], [[YouthOnlineSpeechRights]], and [[SocialMediaAgeGateSpeechBurden]] - First Amendment branch added by Marketplace Tech.
-- [[CatholicChurch]], [[PeterEisley]], and [[ClergyMandatoryReportingConflict]] - First Amendment religious-liberty branch added by The Intelligence.
-- [[PoliticalDeepfakeRegulation]], [[AIPoliticalAdDisclosurePatchwork]], and [[California]] - political-deepfake speech branch added by Marketplace Tech.
+## Relationships
+- [[UnitedStates]] - polity governed by this document.
+- [[SeparationOfPowers]] - distribution of presidential and legislative powers.
+- [[PresidentialImpeachment]] - remedy for grave abuse of executive office.
+- [[TwentyFifthAmendment]] - distinct incapacity procedure.
+- [[USConstitutionalReformConstraint]] - Article V and institutional entrenchment problem.
+- [[YouthOnlineSpeechRights]] - lawful-speech interest raised by age bans.
+- [[ClergyMandatoryReportingConflict]] - religious liberty versus child-safety reporting dispute.
+- [[PoliticalDeepfakeRegulation]] - election-integrity policy tested against speech protection.
