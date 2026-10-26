@@ -2,102 +2,77 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk, e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no, guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
+sources:
+  - 11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk
+  - e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923
+  - 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs
+  - 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto
+  - agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b
+  - renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o
+  - tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3
+  - dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd
+  - weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces
+  - ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan
+  - vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1
+  - biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1
+  - ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax
+  - agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq
+  - weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun
+  - women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1
+  - vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1
+  - 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no
+  - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
+  - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
 last_updated: 2026-08-07
+knowledge_schema: synthesis-v1
 ---
-
 # Agent-Facing Interfaces
 
-[[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] adds [[Creo]]'s agent-as-consumer version. [[ChenKaiCreo|陈凯]] and [[PeterCreo|Peter]] argue that future content and SaaS products may be read, queried, or prioritized by agents before humans inspect them, making MCP-like access, APIs, permissioned data structures, and agent-readable task state part of product value.
+## Definition
+Agent-facing interfaces are tool and data contracts that let software agents discover, invoke, observe and recover actions in existing services. A chat or autocomplete surface for the *human* is not itself an agent-callable contract.
 
-Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that let agents call software capabilities without navigating a human GUI. In [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b]], [[CangShifu]] uses FFmpeg-style CLI work as an example: people no longer need to memorize difficult commands if a model can translate intent into tool calls.
-
-[[11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk]] adds a regulated-finance case through [[AirwallexAgentOS]]. [[WuKai]] says [[Airwallex]] exposes financial capabilities through command-line and API/MCP-style surfaces so customer-owned agents can call payment and finance operations. This makes permissions, auditability, and transaction safety part of the interface design rather than a later compliance add-on.
-
-[[TianjieJack]] generalizes the point beyond software companies. If a company exchanges some value with society, and agents can help users reach that value faster, then the company may need an agent-callable interface. The strategic risk is that opening such an interface can weaken control over the user entry point.
-
-[[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds a human-facing variant through [[Paperboy]]. Instead of only exposing back-end tool calls, Paperboy explores OS-wide autocomplete, meeting-prep prompts, and IM/inbox-like surfaces where the agent appears inside the user's existing work context.
-
-[[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] sharpens the interface claim through [[LaiXinlu]]'s CLI-first argument. He treats command-line tools as unusually effective agent interfaces because models have extensive exposure to Unix, shell, and Linux patterns, and he argues that GitHub CLI or Feishu CLI-style tools may outperform newer MCP-like abstractions when agents need composability and reliable task completion.
-
-[[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds the Skill-plus-CLI sharing frame. The source argues that ordinary users may find skills plus CLI easier to write, share, and spread than protocol-first abstractions, while also describing Claude Code as moving toward [[OpenCloud]]-like reachability through IM, scheduled tasks, mobile control, and memory.
-
-[[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds a plain enterprise requirement: old CRM, order-management, and office systems must expose APIs before [[DigitalEmployees]] can complete real tasks inside customer workflows.
-
-[[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] adds the data-infrastructure version through [[PingCAP]] and [[TiDB]]. [[Dongxu]] argues that databases may need to support agents as users, which makes governed data access, context tools, and memory interfaces part of the agent-facing surface rather than back-office plumbing.
-
-[[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the AI coding interface split. [[ClaudeCode]] and [[GeminiCLI]] show why CLI is a strong agent-facing surface, while the hosts still expect GUI affordances for human review, diff selection, rollback, and workflow trust.
-
-[[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] adds [[SuYu]]'s GUI/CLI qualification. He agrees that coding can break many boundaries in the digital world, but argues that GUI will not disappear because humans rely on visual interfaces for understanding, verification, trust, and audit, and because much business logic is already encoded in graphical software.
-
-[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds browser, operating-system, and infrastructure surfaces. [[Google]] is criticized for not yet turning [[Gemini]] in Chrome into a strong browser agent, [[Apple]] and [[Siri]] are treated as possible OS-level agent entry points, and [[Cloudflare]] shows how deployable infrastructure becomes more useful when agents can operate it directly.
-
-[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the [[AtomicCapabilityServices]] angle. Agent-facing interfaces are not only endpoints for commands; in the [[TencentMeeting]] thought experiment, they expose stable communication, recording, media, storage, and interface capabilities that agents can compose into a user-specific workflow.
-
-[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds everyday tool-finding and app-displacement examples. [[Ryo]] uses AI to identify Linux I/O inspection tools and argues that when AI can complete tasks directly, the front end may become less central than the callable action surface.
-
-[[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds the [[Podwise]] product checklist. The episode argues that an [[AgentOptimizedCLI]] should expose atomic actions rather than copy the whole SaaS interface, support discovery before action, preserve pipeable text behavior, separate human terminal rendering from machine-readable output, and return errors that tell agents how to recover.
-
-[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[RC]]'s [[KimiCLI|Kimi CLI]] and [[SlockAI|Slock.ai]] split. Kimi CLI shows the direct CLI-agent surface, while Slock shows that a collaborative agent interface must serve two audiences at once: humans need channels, progress, and review; agents need linear events, identifiers, summaries, and callable context.
-
-[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the distinction between human-facing and agent-facing entry points. [[IMAgentInterfaces]] may be the low-friction human entry, but the agent still needs APIs, local tools, skill descriptions, and device or desktop access to complete work through [[LocalAgentExecution]].
-
-[[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds a workspace-format version through [[Moxt]]. The agent-facing layer is not only CLI or API access; it can also be the structure of the workspace itself, where Markdown, CSV, JSON, HTML, and file-system-like organization make documents, data, and views easier for [[AICoworkers]] to inspect and modify.
-
-[[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds the platform-resistance version through [[ChinaAgentMarketFriction]]. The source argues that users may want agents to operate super-app workflows, but platforms such as [[WeChat]] may resist becoming invisible tools because agent-facing access can reduce dwell time, advertising inventory, and conversion control.
-
-[[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] adds a workaround version. When delivery-platform APIs are too limited for a flower-shop AI system, the agent-facing surface may begin as [[OperationalDataCapture]] from printer output, OCR, photos, and voice rather than a formal API, then become useful only after it fits the worker's hands-busy store routine.
-
-[[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds a to-agent distribution case through [[Meitu]]. The episode treats Meitu's packaging of image/video capabilities as [[AISkills]] for external agents as different from old developer APIs: the agent-facing surface may reach users through an agent's task flow rather than through a developer building a standalone app.
+## Current Synthesis
+CLI, APIs, skills, structured workspaces and event streams can each expose actions to agents; a graphical interface remains valuable for human inspection and existing business workflows. Which surface is useful depends on action granularity, context, permissions and a recoverable result, not on one universal protocol.
 
 ## Key Claims
-- CLI was historically difficult for people but is comparatively natural for agents.
-- Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
-- Companies may gain distribution and developer attention by opening agent interfaces, even before heavy usage appears.
-- The same move can threaten platform control because users may ask an agent rather than enter the company's app, mini-program, or website.
-- Useful agent interfaces need permissions, context, state, and result surfaces, not only command syntax.
-- Some agent interfaces may be ambient or embedded, such as autocomplete and meeting-prep prompts, rather than separate command centers.
-- CLI/Unix-style interfaces may be especially agent-native when the model can compose commands from well-represented training patterns.
-- Agent-facing interfaces need [[AgentIdentityAndAuthentication]] once agents invoke accounts, payments, or external services directly.
-- Enterprise deployment requires legacy systems to expose reliable APIs, not only new agent-native tools.
-- Databases and enterprise data systems may need agent-facing interfaces because agents increasingly need to query, interpret, and act on business data directly.
-- In coding tools, CLI may be natural for agents while GUI remains important for human inspection, selective acceptance, and history recovery.
-- Browser, OS, and cloud-infrastructure entry points can matter as much as standalone agent apps because they determine what context the agent can see and what actions it can take.
-- Tool discovery is an interface problem too: AI can bridge user intent to existing command-line and operating-system tools when those tools expose clear, composable behavior.
-- Agent-facing CLI should include discovery, idempotency, non-interactive auth, structured output, copyable examples, and actionable errors; otherwise the agent must spend context and tokens guessing how to use the tool.
-- A familiar IM surface can increase usage without replacing the need for reliable tool descriptions, local APIs, and recoverable execution feedback.
-- Agent-readable workspace formats can function as interfaces too, especially when agents need to generate or update documents, tables, dashboards, and project views.
-- In closed app ecosystems, agent-facing interfaces may be blocked by platform business incentives even when the technical value is obvious.
-- In offline retail, the first agent-facing interface may be a captured operational artifact, such as a printout or fridge photo, rather than an intentionally designed software API.
-- Atomic SaaS capabilities need agent-facing descriptions and boundaries before agents can recombine them without losing reliability or accountability.
-- GUI access remains part of agent-facing design when the user needs visual trust and when existing operational knowledge is embedded in graphical workflows.
-- Agent-facing interfaces can become distribution, not only integration: a company may expose capabilities to agents to reach user intent without owning the entire front-end session.
-- If agents become the first reader or buyer-facing researcher, SaaS products may need agent-readable priority, API, MCP, and permission surfaces even when the human dashboard remains useful for review.
-- Dual UX becomes central in multi-agent products: the same workspace event must be legible to humans as progress and to agents as structured context.
-- Financial agent-facing interfaces need stronger permission, audit, and confirmation design because agent calls may create payments, policy workflows, reconciliation records, or other regulated financial actions.
+- Atomic, discoverable, idempotent actions with structured output and actionable errors reduce fragile guessing and allow agent workflows to recover.
+- Legacy enterprise systems and regulated finance need callable operations plus governed data access and explicit action authority, not a decorative chatbot.
+- Agent-readable files and events can be interfaces alongside CLI and APIs, while dual human/agent views retain reviewability.
+- Human IM, autocomplete and GUI are complementary presentation and verification surfaces, not replacements for executable tools.
+- When formal APIs are closed or absent, constrained operational capture may bridge a particular workflow but introduces permission, accuracy and maintenance limits.
+- Agent distribution changes product incentives: vendors can become callable capability suppliers, while closed platforms may defend the end-user entry point.
 
-## Connections
-- [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
-- [[AgenticWorkflow]] — user workflow pattern enabled by these interfaces.
-- [[AISkills]] — package repeatable use of agent-facing tools.
-- [[OpenCloud]] — episode example that made CLI and skill concepts more visible in China.
-- [[WeChat]] and [[Doubao]] — possible contexts where chat entry points and agent interfaces could reshape user behavior.
-- [[Paperboy]], [[OSLevelContext]], and [[HumanAgentCollaboration]] — example of agent interfaces built around personal context and existing work surfaces.
-- [[AgentHarness]] and [[KComputer]] — harness and virtual-computer layer where CLI-style surfaces become executable agent infrastructure.
-- [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — domestic agent-product context where reachability, skills, and memory shape the interface expectation.
-- [[BairongIntelligence]], [[DigitalEmployees]], and [[BusinessLedAITransformation]] — enterprise case where API exposure is a rollout prerequisite.
-- [[AIDataMemoryInfrastructure]], [[PingCAP]], and [[TiDB]] — database and enterprise-data extension added by the PingCAP source.
-- [[ClaudeCode]], [[GeminiCLI]], [[Cursor]], and [[VibeCoding]] — coding interface cases added by EP108.
-- [[Google]], [[Gemini]], [[Apple]], [[Siri]], and [[Cloudflare]] — platform and operations surfaces added by Vol. 166.
-- [[TaskAsAService]] and [[AIProgrammingEngineShift]] — task-completion and programming-shift examples added by Neihe Konghuang.
-- [[Podwise]] and [[AgentOptimizedCLI]] — concrete product checklist added by EP124.
-- [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OpenClaw]] — human-entry plus local-tooling pattern added by the 20-question source.
-- [[Moxt]], [[AINativeWorkspace]], [[OrganizationalContext]], and [[GeneratedWorkInterfaces]] — workspace-format and generated-interface case added by the Moxt source.
-- [[Manus]], [[ChinaAgentMarketFriction]], and [[AIAgentOverseasCommercialization]] — domestic platform-friction and overseas-automation case added by the Keji Luandun source.
-- [[OperationalDataCapture]], [[OfflineAIImplementation]], and [[LocalLifePlatformDependency]] — flower-shop case where printers, OCR, and voice become practical agent data surfaces.
-- [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164 case where SaaS capabilities become agent-composable atoms.
-- [[SuYu]], [[ComputerUseAgent]], [[LanguageAgent]], and [[UniversalDigitalAgent]] — GUI/CLI boundary-dissolution frame added by episode 139.
-- [[Meitu]], [[ToAgentDistribution]], [[AISkills]], and [[AIApplicationLayerMoat]] — capability-node distribution case added by Luanfanshu.
-- [[Creo]], [[HarnessEngineering]], [[AIFirstOrganization]], and [[OrganizationalContext]] — agent-as-product-consumer and agent-readable workplace surface added by E238.
-- [[KimiCLI]], [[SlockAI|Slock.ai]], [[RC]], and [[AgentDynamics]] — CLI-agent and many-agent workspace interface branch added by the RC episode.
-- [[AirwallexAgentOS]], [[Airwallex]], [[IntelligentFinance]], and [[AgentPaymentInfrastructure]] — regulated finance interface branch added by the Airwallex source.
+## Evidence
+- **Executable tool contracts:** [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] gives [[Podwise]]'s [[AgentOptimizedCLI|CLI]] checklist: discover capabilities before acting, atomic commands rather than mirroring the whole SaaS GUI, pipeable text, separate structured machine output, idempotency, noninteractive authentication, examples and recoverable errors. [[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] records [[LaiXinlu]]'s argument for composable Unix/CLI patterns in an [[AgentHarness]], not a measured proof that CLI always beats MCP; his [[KComputer]] is ShareAI's proposed lightweight virtual-computer execution substrate, not itself a universal CLI benchmark. [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] presents [[HermesAgent]] skills plus CLI as shareable user tooling. [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] extends this with [[RC]]'s [[KimiCLI]] and agent-readable event IDs, summaries and thread state in [[SlockAI]] while people see channel progress.
+- **Enterprise and finance:** [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] makes [[BairongIntelligence]]'s [[DigitalEmployees|digital employees]] dependent on legacy CRM/order/office APIs. [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] has [[Dongxu]] describe governed [[PingCAP]] / [[TiDB]] context and database access. [[11-nian-110-yi-meijin-ranhou-ne-duihua-airwallex-wu-kai-ai-shidai-xiayizhan-1000-yi-lr4tvdrq25by7fugoqkqojw6vwdk]] records [[WuKai]]'s [[AirwallexAgentOS]] proposal to expose payment and financial workflows to customer agents; permissions, confirmation and audit are part of [[AgentIdentityAndAuthentication|authorization]], not an afterthought. Vendor descriptions do not verify safety or scale.
+- **Workspace and ambient contexts:** [[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] describes [[Moxt]]'s [[AINativeWorkspace|Markdown/CSV/JSON workspace]] as agent-readable state. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] explores [[Paperboy]] OS-wide autocomplete and meeting preparation based on [[OSLevelContext]]; it is primarily a human-assistance surface, not a callable API. [[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] interviews [[PeterCreo]] and [[ChenKaiCreo]] among the Creo guests and describes [[Creo]]'s hypothesis that agents may become first readers of SaaS data, requiring agent-readable tasks and permissioned access as [[AIFirstOrganization|organizations]] adapt. The note attributes distinct harness and organizational claims to the two guests, not this particular product-consumer claim to both individually.
+- **Human entry and review:** [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] separates [[IMAgentInterfaces|IM]] from [[LocalAgentExecution|local tools]], memory and skills in [[OpenClaw]]. [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] compares [[ClaudeCode]] and [[GeminiCLI]] execution with [[Cursor]]'s GUI for diff selection and rollback. [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] has [[SuYu]] defend graphical knowledge, trust and audit while forecasting a [[UniversalDigitalAgent|cross-surface digital agent]]; that future convergence is not a current universal interface. [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b]] uses [[CangShifu]]'s FFmpeg example to argue for [[HeadlessSoftware|callable productivity tools]] without abolishing review GUIs; [[TianjieJack]]'s investor thesis is to avoid GUI-first productivity designs, not to abolish human visual review. [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] discusses [[Google]]/[[Gemini]] browser entry, [[Apple]]/[[Siri]] OS entry and [[Cloudflare]] operating infrastructure: reachability matters, but each claim is a source-time expectation.
+- **Product capabilities and distribution:** [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] imagines [[TencentMeeting]] video, recording and media as [[AtomicCapabilityServices|atomic capabilities]] recomposed by an agent; it is a design thought experiment. [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] discusses [[Meitu]]'s [[ToAgentDistribution|skills distribution]] instead of only developer APIs. [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] contrasts agent access to overseas browser/SEO/paid-software workflows with [[WeChat]]-like closed domestic platforms: this is an [[AIAgentOverseasCommercialization|overseas commercialization]] interpretation of [[Manus]]' market fit linked to interface availability, not proof of a universal ban or verified acquisition terms. [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] has [[Ryo]] illustrate [[TaskAsAService|tool discovery]] through Linux I/O commands.
+- **No official integration:** [[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] describes one flower shop's [[OperationalDataCapture|printer-output capture]], OCR, photos and voice because delivery-platform APIs were limited. It depends on permission, data-quality review and hands-busy worker routines; it is not general authorization to intercept systems or a replacement for APIs.
+
+- **Boundary cases:** [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] proposes decomposed [[AgenticSoftware|agentic services]], while [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] distinguishes [[ComputerUseAgent|computer-use]] and [[LanguageAgent|language agents]] that can operate existing GUIs without a purpose-built contract. [[OpenCloud]] is cited for entry via channels and skills, not proof of API superiority. [[VibeCoding]] may make a quick adapter but still requires review. [[HarnessEngineering]] concerns the execution and feedback envelope, not just a command syntax. [[AgentDynamics]] makes structured event streams important when many agents coordinate.
+
+## Counterevidence & Qualifications
+- [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] and vendor interviews are design/market assertions; no note independently benchmarks CLI against API/MCP or verifies agent-consumed revenue. A CLI can be unsuitable when interactive auth, ambiguous state or audit requirements are unresolved.
+- Human-facing [[HumanAgentCollaboration|collaboration]] is not identical to a tool contract. Closed-platform [[ChinaAgentMarketFriction|business incentives]] and regulated finance constrain access even when a technical adapter is feasible.
+
+## What Changed
+- Consolidated twenty source arrivals into six interface mechanisms rather than twenty product notices.
+- Separated callable action/data surfaces from human IM, autocomplete and graphical review.
+- Treated vendor scale, platform access and printer capture as bounded claims.
+
+## Related Concepts
+- [[Airwallex]] - Its proposed Agent OS illustrates regulated finance capability exposure.
+- [[IntelligentFinance]] - Finance actions need permission and reconciliation around callable endpoints.
+- [[BusinessLedAITransformation]] - Enterprise legacy access must follow actual workflow ownership.
+- [[AIDataMemoryInfrastructure]] - Governed retrieval is a prerequisite for useful database-backed agent context.
+- [[OfflineAIImplementation]] - The flower-shop adaptation illustrates why physical workflow fit matters more than an ideal API.
+- [[LocalLifePlatformDependency]] - Delivery-platform data bottlenecks drove that specific printer workaround.
+- [[AICoworkers]] - Moxt's workspace is intended for agents acting on documents and views.
+- [[AIProgrammingEngineShift]] - Linux tool discovery is an example of delegation replacing memorized software operations.
+- [[AISkills]] - Skills explain how an agent can invoke and combine underlying tools.
+- [[AgenticWorkflow]] - An interface matters when it supports recoverable end-to-end task execution.
+- [[AgentPaymentInfrastructure]] - Financial calls require bounded spend and auditable settlement.
+- [[OrganizationalContext]] - Agent-readable workplace state includes task history and decision constraints.
+- [[GeneratedWorkInterfaces]] - A generated view is a presentation artifact, not automatically an action contract.
+- [[AIApplicationLayerMoat]] - To-agent distribution changes the application company's route to demand.
