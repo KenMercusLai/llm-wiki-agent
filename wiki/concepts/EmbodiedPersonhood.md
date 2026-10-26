@@ -2,34 +2,45 @@
 title: "Embodied Personhood"
 type: concept
 tags: [embodiment, personhood, science-fiction, ai]
-sources: [ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx, 166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+sources:
+  - ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx
+  - 166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059
+  - 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172
+  - sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-07
 ---
 
 # Embodied Personhood
 
-[[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] adds a prosthetic-and-landscape version through [[AStretchOfHighwayTwoLanesWide|《一段双车道公路》]]. Andy's personhood is not reducible to flesh, device, or brain signal: the episode reads his road-arm experience as [[EmbodiedIdentityBoundary]], where a removed chip can be mourned because it carried sensation, place, and attachment.
+## Definition
+Embodied personhood is an interpretive question about how sensation, vulnerability, memory and care matter to being a person; it is not a proven biological eligibility test.
 
-Embodied personhood is the idea that becoming or remaining a person depends on body, sensation, vulnerability, affect, and situated experience rather than only intelligence or information. [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] develops this through [[RogerZelazny|Zelazny]]'s [[ForABreathITarry|《趁生命气息逗留》]], where Frost studies humanity but only approaches human status through bodily feeling and fear.
-
-[[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a nonfiction biology-and-AI version. [[TuMotuo|土摩托]] argues that human intelligence is inseparable from evolved body, emotion, sensation, and [[MeaningAsEvolvedFunction|meaning processing]], which makes [[EmbodiedIntelligence|embodied intelligence]] a personhood boundary as well as an AI capability problem.
-
-The source also uses the concept negatively. In [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]], digital upload does not guarantee a higher form of life; the uploaded ex-husband can remain lonely, possessive, and coercive. In [[PermafrostZelazny|《永久冻土》]], Glenda's merger with mycelium shows another bodily transformation: not clean transcendence, but a shift into land, fungi, and nonhuman perception.
-
-[[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] extends the frame backward into fairy tale through [[Pinocchio]]. The source treats the puppet's humanity as embodied in pain, hunger, burned feet, donkey transformation, swimming, carrying [[Geppetto]], laboring for milk, and giving saved money to [[BlueFairy|the Blue Fairy]]. Becoming human is therefore not only gaining flesh; it is becoming vulnerable enough to care.
+## Current Synthesis
+Fictional machines, prostheses and a puppet probe different edges of the question, while a philosophical AI interview argues that human agency is situated in lived bodily action. A body can be extended; possessing a particular physiology is not a moral prerequisite.
 
 ## Key Claims
-- Personhood in this source is embodied as much as cognitive.
-- Fear, poetry, touch, landscape, and bodily vulnerability can mark the difference between knowledge about humans and human life.
-- Digital or artificial intelligence does not automatically escape human weakness.
-- Transformation can expand agency, but it can also erase or distort the feelings that make a life recognizable.
-- Bodily suffering can mark moral growth when it turns self-preservation into care for another person.
-- EP256 adds that meaningful human agency depends on embodied life, not only on cognitive output or language capability.
+- Knowing facts about humanity is not the same literary experience as sensing fear or vulnerability.
+- Prosthetic sensation and attachment can extend bodily identity rather than divide a person into flesh and device.
+- Becoming a protector, not merely gaining organic flesh, marks the fairy-tale puppet's moral development.
+- Uploading or transforming a body does not automatically free a subject from domination, loneliness or responsibility.
 
-## Connections
-- [[RobotHumanBoundary]] - broader machine/person frame.
-- [[FreeWill]], [[BiologicalAgency]], [[MeaningAsEvolvedFunction]], and [[EmbodiedIntelligence]] - EP256's biological personhood extension.
-- [[Pinocchio]], [[Geppetto]], [[BlueFairy]], and [[GrowthAsProtectorRole]] - fairy-tale embodiment branch added by episode 122.
-- [[ForABreathITarry|《趁生命气息逗留》]], [[PermafrostZelazny|《永久冻土》]], and [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]] - main source examples.
-- [[WetStateHumanAgency]], [[EmbodiedJudgment]], and [[TranscendenceAgainstHumanFeeling]] - adjacent wiki concepts.
-- [[DigitalTranscendenceAsControl]] - disembodied transformation risk.
+## Evidence
+- [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]]'s reading of [[RogerZelazny|Zelazny]]'s [[ForABreathITarry|《趁生命气息逗留》]] treats Frost's poetry, learning, fear and bodily sensation as a humanizing narrative turn. [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] has [[TuMotuo|土摩托]] discuss [[EmbodiedIntelligence]] through walking, gripping a cup, pain and action, rather than equating language output with human experience.
+- [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]]'s [[AStretchOfHighwayTwoLanesWide|《一段双车道公路》]] makes Andy's prosthetic arm, phantom pain, road hallucination and grief after chip removal a reading of [[EmbodiedIdentityBoundary]]: sensory relations can include technology, landscape and memory without being ordinary romance or simply psychosis.
+- [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] reads [[Pinocchio]]'s hunger, burned feet, donkey transformation, shark-belly rescue of [[Geppetto]], work for milk and saved money given to [[BlueFairy|the Blue Fairy]] as [[GrowthAsProtectorRole]]; the original's darker 1881 serial history complicates a Disney-style obedience moral.
+- [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] reads [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]] as an uploaded former husband retaining surveillance and possessive control, a [[DigitalTranscendenceAsControl]] warning; [[PermafrostZelazny|《永久冻土》]] imagines Glenda's fungal merger as a nonhuman perception, not clinical evidence of transformation.
+
+## Counterevidence & Qualifications
+- [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]], [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] and [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] are readings within [[MihuanChishu|蜜獾吃书]], not independent experiments. [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]]'s [[BiologicalAgency|biological-agency]] and [[FreeWill|free-will]] discussion remains conditional and does not show that present LLMs are persons. The prosthetic case resists any assertion that a particular unassisted body is necessary for personhood.
+
+## What Changed
+- Made the interpretations explicitly literary/philosophical and retained the tension between bodily dependence and bodily extension.
+
+## Related Concepts
+- [[RobotHumanBoundary]] - asks how machine capacities relate to, but do not settle, personhood.
+- [[MeaningAsEvolvedFunction]] - connects biological signal interpretation to Tu Motuo's agency argument.
+- [[NonhumanBecomingHumanMotif]] - places Pinocchio's care-based change in a wider fairy-tale pattern.
+- [[TranscendenceAgainstHumanFeeling]] - tests what an upload may lose or carry forward.
+- [[EmbodiedJudgment]] - practical sensory decisions are narrower than moral personhood.
+- [[WetStateHumanAgency]] - EP256's living, sensing agent contrasts with a purely verbal model of choice.
