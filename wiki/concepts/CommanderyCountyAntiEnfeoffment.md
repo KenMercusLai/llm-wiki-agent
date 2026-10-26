@@ -1,46 +1,52 @@
 ---
 title: "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [statecraft, administration, commandery-county-system, qin-history, centralization]
-sources: [zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u, zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2, zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l, zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr, zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]
+sources:
+  - zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u
+  - zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2
+  - zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l
+  - zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr
+  - zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv
 last_updated: 2026-08-22
 ---
 
 # Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局
 
-Commandery-county anti-enfeoffment settlement / 郡县制反分封定局 is the institutional choice [[zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]] identifies after [[QinState|秦国]] completes unification in 221 BCE. The core problem is whether the empire should rely on hereditary royal fiefs in distant conquered regions, or whether all territory should be placed under directly appointed commandery and county officials.
+## Definition
+郡县制反分封定局 is the post-221 BCE Qin settlement that favored centrally appointed commandery and county officials over hereditary territorial grants to imperial kin or meritorious nobles; it was a choice about governing a unified realm, not the invention of local administration from nothing.
 
-The source sets up the decision through [[QinWangWan|王绾]] and [[LiSi|李斯]]. Wang Wan's proposal treats distance from [[Xianyang|咸阳]] as a reason to enfeoff imperial sons in former [[YanState|燕国]], [[QiState|齐国]], and [[ChuState|楚国]] territory. Li Si answers that the [[ZhouRoyalHouse|周王室]] precedent produced long-run fragmentation: kinship bonds weaken across generations, and hereditary lords become armed competitors.
-
-The concept's key distinction is between expansion-by-enfeoffment and division-after-conquest. In the episode's reading, early Zhou enfeoffment under [[ZhouWenwang|周文王]] and [[ZhouWuwang|周武王]] was partly an authorization to occupy and develop contested regions beyond the royal core. Qin's situation is different because the land has already been conquered and can be administered directly; to enfeoff it again would convert unified territory back into future rival states.
-
-This makes the commandery-county system the administrative counterpart to [[ImperialSymbolicStandardization|帝国符号标准化]]. Qin's title, color, calendar, and law symbolism define the new center; the commandery-county settlement defines how that center reaches local society without granting territorial sovereignty to royal relatives.
-
-[[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] adds the social engineering that makes the settlement harder to contest. The source says Qin Shi Huang moves 120,000 powerful households to [[Xianyang|咸阳]], weakening local elite networks before appointed local governments impose the new order. The concept therefore includes not only the rejection of royal fiefs, but the coercive removal of regional intermediaries who might obstruct direct administration.
-
-[[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] adds the backlash-and-enforcement sequel. Eight years after unification, [[ChunyuYue|淳于越]] revives the enfeoffment argument at court by appealing to Xia-Shang-Zhou precedent. [[LiSi|李斯]] answers not with another narrow administrative comparison, but by treating复古 speech itself as a threat to the settlement. The resulting [[QinBookBurningPolicy|秦代焚书令]] shows direct rule being defended through control of texts and teaching as well as through counties, offices, and elite relocation.
-
-[[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] supplies a contrastive correction to the common Xiang Yu comparison. The episode says Xiang Yu's partition should not be reduced to a simple rollback from Qin's commandery-county settlement to Zhou feudalism. Unlike Qin after full conquest, Xiang Yu lacks the force and administrative capacity to impose direct rule over the eastern world, so his [[ZhouQinHybridOrder|周秦混合制]] mixes military-merit enfeoffment, restored kings, surrendered Qin leaders, and hegemonic obligations. The comparison keeps Qin's anti-enfeoffment logic intact while making Xiang Yu's alternative a constrained and unstable post-coalition settlement rather than mere antiquarian復古.
-
-[[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] adds a Western Han complication to the anti-enfeoffment story. Liu Bang reintroduces kingdoms through [[SameSurnameKingEnfeoffment|同姓王分封]], but the episode frames the move as postwar control of unstable regions after Han Xin's demotion rather than as a simple ideological rejection of Qin direct rule. The contrast remains source-scoped: early Han uses kingdoms to solve succession, trust, and frontier problems that Qin's unified commandery-county model had tried to prevent by refusing hereditary territorial power.
+## Current Synthesis
+[[QinWangWan|王绾]] proposed giving imperial sons distant former [[YanState|Yan]], [[QiState|Qi]] and [[ChuState|Chu]] lands because a capital at [[Xianyang|咸阳]] might struggle to reach them. [[LiSi|李斯]] countered that [[ZhouRoyalHouse|Zhou]] kinship fiefs had eventually produced armed descendants and wars; Qin could reward relatives and officials from tax revenues without granting territorial sovereignty. [[QinShiHuang|秦始皇]]'s court chose appointed commanderies and counties. Implementation also entailed [[EliteRelocationControl|moving powerful former-state households]] to the capital and restricting weapons, an [[ImperialHomogenization|imperial integration]] measure, not merely changing an organizational chart. [[ChunyuYue|淳于越]] later revived the fief argument; the response included the 213 BCE [[QinBookBurningPolicy|book-burning policy]], with a cultural cost involving [[OfficialLearningMonopoly|control over learning]] beyond the institutional debate. Subsequent [[XiangYu|项羽]] partitions and [[LiuBang|刘邦]] same-surname kingdoms in the [[WesternHanDynasty|early Western Han]] show why postwar capacity and political compromise complicate any simple centralization-versus-feudalism verdict.
 
 ## Key Claims
-- The commandery-county decision is a post-unification settlement, not only a continuation of pre-imperial reform.
-- Distance can support a reasonable argument for delegated rule, but delegated hereditary rule carries a succession-time risk.
-- Li Si's anti-enfeoffment argument uses Zhou as a negative precedent: kinship solves the first generation less well than it creates armed later generations.
-- Qin's direct-rule capacity changes the institutional choice available after conquest.
-- Rewarding royal sons and meritorious officials through tax revenues rather than fiefs separates status compensation from territorial sovereignty.
-- The episode uses [[XiangYu|项羽]], [[LiuBang|刘邦]], and [[HanWudi|汉武帝]] as later evidence that enfeoffment can recreate separatist power even after an empire is founded.
-- Qinji 120-4 shows the implementation layer: commandery-county rule is reinforced by moving local elites away from their home networks and into capital surveillance.
-- Qinji 124 shows the ideological enforcement layer: revived enfeoffment argument is treated as a political threat, leading to book burning and official-learning control.
-- Hanji 174 adds that early Western Han enfeoffment should be read as a control compromise in an unstable founding field, not a clean return to Zhou-style decentralization.
+- Wang Wan's distance argument was a governance proposal; Li Si's Zhou-successor objection concerned the future autonomy of hereditary heirs.
+- Direct appointments and revenue-based rewards separated imperial compensation from independent armed territorial rule after conquest.
+- Centralization depended on coercive relocation and disarmament of former elites as well as formal administrative design.
+- Renewed fief advocacy faced political and intellectual repression in 213 BCE; book burning cannot be treated as a cost-free implementation step.
+- Xiang Yu's and Liu Bang's later hybrid settlements reflected constrained postwar control, not proof that Qin's policy permanently eliminated separatist power.
 
-## Connections
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]], [[SameSurnameKingEnfeoffment|同姓王分封]], [[WesternHanDynasty|西汉]], and [[HanXin|韩信]] - early Han royal kingdoms as postwar control after a different-surname king's demotion.
-- [[QinAdministrativeStandardization|秦国行政标准化]] - broader Qin pattern of making territory, households, measures, and offices legible to the state.
-- [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - conquest-facing version that turns defeated states into commandery units before the empire-wide settlement.
-- [[QinShiHuang|嬴政 / 秦始皇]], [[LiSi|李斯]], and [[QinWangWan|王绾]] - decision-maker, anti-enfeoffment advocate, and partial-enfeoffment advocate in the source.
-- [[ZhouRoyalHouse|周王室]], [[ZhouWenwang|周文王]], and [[ZhouWuwang|周武王]] - precedent whose conditions the source says cannot be copied directly by Qin.
-- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[HanWudi|汉武帝]], and [[WesternHanDynasty|西汉]] - later comparison cases used in the episode's long-run validation argument.
-- [[EliteRelocationControl|豪杰迁徙控制]], [[ImperialHomogenization|帝国整齐划一]], and [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr|Qinji 120-4]] - coercive implementation after the anti-enfeoffment decision.
-- [[ChunyuYue|淳于越]], [[QinBookBurningPolicy|秦代焚书令]], [[OfficialLearningMonopoly|学在王官式知识垄断]], and [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l|Qinji 124]] - later复古 challenge and intellectual-policy enforcement.
+## Evidence
+### Competing designs after unification
+- [[zizhi-tongjian-qinji-120-3-jiemi-qinshihuang-weihe-faming-junxianzhi-li4bzz54trstteapodnonxzdzkuv]] records Wang Wan's former Yan/Qi/Chu proposal and Li Si's succession argument, as well as centrally selected local officials and fiscal rewards rather than hereditary fiefs. The episode describes 36 commanderies, each with civil, military and supervisory offices; this is its reported post-unification count, not a claim that [[QinState|Qin]] invented counties; [[ConquestCommanderyTransition|pre-unification conquest administration]] preceded the settlement. The comparison with early Zhou under [[ZhouWenwang|文王]] and [[ZhouWuwang|武王]] concerns expansion into less-secured lands versus dividing already conquered territory.
+### Coercive and intellectual enforcement
+- [[zizhi-tongjian-qinji-120-4-bing-liuguo-hou-qinshihuang-jiao-ni-ruhe-shou-jiangshan-lgwsd0c3wkl-cphma8sm3ftkowwr]] says the court relocated 120,000 powerful households to Xianyang and collected/destroyed weapons to weaken former-state bases; the number remains source-attributed.
+- [[zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l]] recounts Chunyu Yue's court appeal to Zhou precedent and the ensuing 213 BCE book-policy dispute; it does not document the separate later 坑儒 incident as part of this decision.
+### Capacity-limited alternatives
+- [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2]] presents Xiang Yu's partition, including Liu Bang's Han/Ba/Shu placement and three Qin surrendering generals in Guanzhong, as a [[ZhouQinHybridOrder|Zhou-Qin hybrid]] shaped by coalition reward and limited direct control.
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u]] describes Liu Bang's same-surname kings as an early-Han postwar control compromise, rather than an uncomplicated return to Zhou institutions.
+
+## Counterevidence & Qualifications
+- Hereditary rule was not the only way to reward allies; nor does Qin's adoption prove the system had no administrative predecessors.
+- The Qin centralizing choice did not itself prevent later rebellion. The host's cultural assessment of book policy and claimed numerical totals are source perspectives.
+- Xiang Yu and Liu Bang faced different military and legitimacy constraints from the freshly unified Qin court.
+
+## What Changed
+- Connected design, coercive implementation, revived opposition and later hybrid compromises while keeping the 213 BCE policy distinct from later 坑儒.
+
+## Related Concepts
+- [[SameSurnameKingEnfeoffment]] - early-Han qualified return to hereditary territorial rule.
+- [[ImperialSymbolicStandardization]] - complementary centralization of titles, symbols and law.
+- [[SuccessionCrisisIntervention]] - armed hereditary claims can invite external intervention.
+- [[CoalitionSettlementFailure]] - postwar distribution can undermine a victorious regime.
