@@ -2,39 +2,52 @@
 title: "Digital Infrastructure War Risk"
 type: concept
 tags: [infrastructure, geopolitics, cloud, ai]
-sources: [tech-20260820-tech-pod-128-tech-20260820-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]
+sources:
+  - tech-20260820-tech-pod-128-tech-20260820-tech-pod-128
+  - tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128
+  - chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun
+  - tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-24
 ---
 
-# Digital Infrastructure War Risk
+## Definition
+Digital infrastructure war risk is the exposure of data centers, cloud and AI facilities, cables and network access to physical conflict, military use and deliberate state partition. The mechanisms differ: an attacked facility, cut cable and policy-controlled blackout are not interchangeable.
 
-[[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] adds a submarine-cable version of the risk. [[ErinMurphy]] explains that [[UnderseaDataCables]] carry most global internet and telecom traffic plus large financial flows, so sabotage, vendor trust, landing-point equipment, and route redundancy can become security issues even when most cable cuts are accidental, natural, or wear-related.
+## Current Synthesis
+A cloud region's buildings, GPU clusters, power, cooling, fiber, parts and staff make AI serving physically and geographically exposed. [[KejiLuandun]] argues that low-latency Middle Eastern hubs can concentrate this risk and that recovery may depend on travel, evacuation and repeated-strike conditions. [[MarketplaceTech]] reports Iran-linked threats against U.S. private technology suppliers and reported [[AmazonWebServices|AWS]] facility attacks in a dual-use setting; the threats and attack reports should not be mistaken for independent confirmation of damage.
 
-Digital infrastructure war risk is the possibility that data centers, submarine cables, internet exchange points, cloud regions, AI compute clusters, and nearby power infrastructure become explicit targets or pressure points in a military conflict. [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] uses the Iran-related conflict to argue that servers are no longer just an invisible background for the internet; they are physical assets with addresses, power draw, cooling needs, staff, and strategic value.
+[[RegionalNetworkTopologyRisk]] links business-friendly Gulf hubs to concentrated exposure; [[AsymmetricInfrastructureAttack]] is a possible cost mechanism rather than proof of any individual strike. [[SaaSReliabilityUnderPolicyRisk]] concerns loss of service access without necessarily destroying a facility. [[UnderseaDataCables]] carry the majority of global communications; cable landing equipment, trusted suppliers and diversified routes affect resilience, though most cuts are accidental and rerouting often works. [[AmirRashidi]] describes a distinct Iranian wartime partition: the [[NationalInformationNetwork]] leaves some local services running while outside news, global platforms and independent alerting are blocked. Continuity planning must therefore distinguish destruction, route loss and intentional access controls, and ask which civilians and services remain reachable.
 
-The concept extends the wiki's existing [[SaaSReliabilityUnderPolicyRisk]] thread. Policy can interrupt access to AI or SaaS services, but physical conflict can interrupt the underlying places where tokens, storage, routing, payment, messaging, and business workflows run.
-
-[[tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]] adds the deliberate partition version. [[AmirRashidi]] describes [[Iran]]'s wartime blackout as leaving the [[NationalInformationNetwork|National Information Network]] available while blocking global internet access, so digital infrastructure war risk can come from state routing and access control as well as from destroyed data centers, cables, or power systems.
-
-[[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds the private-vendor targeting version. [[PareshDave]] says [[Iran]]-linked threats named U.S. technology companies with Middle East infrastructure, and the episode discusses reported attacks on [[AmazonWebServices|AWS]] data centers whose customers include the [[USDepartmentOfDefense|U.S. military]]. This turns [[DualUseTechInfrastructureTargeting]] into a specific mechanism inside the broader war-risk frame.
+[[ErinMurphy]] discusses cable accidents and national-security funding; [[PareshDave]] reports threats against U.S. technology firms including customers connected to the [[USDepartmentOfDefense]]. In [[Iran]], selective [[DomesticServiceCensorship]] inside approved platforms is a different harm from broken fiber. [[MaaSInfrastructure]] inherits physical power and cooling constraints even though its product is model access.
 
 ## Key Claims
-- Submarine cables add a wide-area routing layer to war risk because high-impact disruption can occur outside data centers or cloud regions.
-- Digital infrastructure has become basic social and commercial infrastructure, so disruption can affect communication, finance, work, and AI-assisted production.
-- Data centers are visible in practice because large buildings, power demand, network links, and satellite imagery make them hard to hide.
-- The more AI compute becomes production capacity, the more [[AIComputeContinuity]] resembles factory, power-grid, or logistics continuity.
-- War risk is different from ordinary outage risk because staff access, spare parts, flights, insurance, and repeated targeting can all break recovery assumptions.
-- Central regional hubs can be both good business locations and exposed geopolitical nodes.
-- A domestic network can keep selected local services operating while global news, social media, alerting, and some emergency-service functions fail.
-- Private technology infrastructure can become targetable when cloud, AI, chips, and platform services are embedded in military or intelligence operations.
+- Latency-efficient regional compute hubs can concentrate physical exposure and complicate recovery under active conflict.
+- Private cloud capacity can become a reported target when it serves military or intelligence workflows, but threat statements do not establish verified strikes.
+- Submarine connectivity is strategically important yet usually resilient to a single accidental cut through alternate routes; landing points and repair remain security surfaces.
+- Deliberate domestic-network partition can maintain selected local apps while severing global information and emergency coordination.
+- War-aware recovery depends on staff, spares, power, network topology and repeated-attack conditions, not only software failover.
 
-## Connections
-- [[UnderseaDataCables]], [[CableNetworkResilience]], and [[CableLandingPointSecurity]] - submarine-cable infrastructure and landing-point trust branch added by Marketplace Tech.
-- [[DataCenterPhysicalResilience]] — facility-level resilience against attack and recovery constraints.
-- [[WarAwareDisasterRecovery]] — business-continuity planning under active conflict.
-- [[RegionalNetworkTopologyRisk]] — geographic and network-path exposure.
-- [[AsymmetricInfrastructureAttack]] — low-cost attacks against high-value infrastructure.
-- [[MaaSInfrastructure]] and [[AIComputeContinuity]] — AI serving capacity as a physical dependency.
-- [[SaaSReliabilityUnderPolicyRisk]] — related cloud reliability risk from access, policy, and geopolitics.
-- [[DomesticNetworkSovereignty]], [[DomesticServiceCensorship]], and [[InternetBlackoutPublicSafetyRisk]] — deliberate network partitioning and civilian consequences added by the Iran blackout source.
-- [[DualUseTechInfrastructureTargeting]], [[AmazonWebServices|AWS]], [[IslamicRevolutionaryGuardCorps]], and [[USDepartmentOfDefense]] - private-vendor targeting branch added by Marketplace Tech.
+## Evidence
+- Compute concentration: [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] discusses Middle Eastern siting and latency alongside concentrated data-center exposure; it explicitly lacks independent verification for some wartime claims.
+- Dual-use targeting: [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] reports [[IslamicRevolutionaryGuardCorps]] threats naming U.S. technology firms and alleged AWS facility attacks linked to military customers, not independently verified strikes.
+- Cable routing: [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] quotes episode estimates of 95–99% of telecommunications data and roughly $10 trillion in daily financial transactions through subsea cables, around 200 annual damage incidents mostly from ordinary causes, and a proposed U.S. $175 million-plus regional replacement program.
+- Domestic isolation: [[tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128]] relays Rashidi’s account of Iran’s approved domestic services, blocked global news, restricted war search, the [[MahsaAlert]] workaround and disrupted medical and police services.
+- Conflict recovery: [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] contrasts software failover with staff, cooling, power and repeat-attack constraints; [[tech-20260820-tech-pod-128-tech-20260820-tech-pod-128]] explains how alternate cable routes absorb many single breaks but do not eliminate landing-point and repair exposure.
+
+## Counterevidence & Qualifications
+The April claims are episode-reported and some strike/target lists unverified in their transcript. Cable damage does not imply sabotage: most incidents are ordinary and traffic can reroute. The Iranian blackout is selective rather than total loss of domestic connectivity; Rashidi's account of motive is his interpretation. A remote backup may lower strike concentration but worsen latency and network reliability.
+
+## What Changed
+- Separated physical targeting, cable-route failure and deliberate access partition into distinct mechanisms.
+- Preserved routine cable redundancy and uncertainty about wartime reports alongside exposure.
+
+## Related Concepts
+- [[DataCenterPhysicalResilience]] - facility power, cooling and repair govern recovery after damage.
+- [[WarAwareDisasterRecovery]] - tests recovery plans against conflict-specific staff and repeat-strike limits.
+- [[CableNetworkResilience]] - diversified submarine routes can absorb many single cuts.
+- [[CableLandingPointSecurity]] - terrestrial equipment and supplier trust widen the cable security surface.
+- [[DualUseTechInfrastructureTargeting]] - military customers can expose private cloud providers to targeting claims.
+- [[DomesticNetworkSovereignty]] - Iranian partition preserves controlled domestic services while isolating global access.
+- [[InternetBlackoutPublicSafetyRisk]] - severed alerting and medical coordination create civilian consequences.
+- [[AIComputeContinuity]] - production dependence on GPU serving raises the cost of outages.
