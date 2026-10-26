@@ -2,47 +2,52 @@
 title: "Samsung"
 type: entity
 tags: [company, smartphone, android, consumer-electronics, semiconductors, memory]
-sources: [tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128, vol-266-yi-ci-xing-gao-dong-etf-1002344828, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+sources:
+  - tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128
+  - vol-266-yi-ci-xing-gao-dong-etf-1002344828
+  - e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b
+  - tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128
+  - no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376
+  - no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci
 last_updated: 2026-08-07
+knowledge_schema: synthesis-v1
 ---
 
 # Samsung
 
-[[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] adds Samsung to a global memory-stock selloff discussion. [[AnitaRamaswamy]] groups Samsung with [[SKHynix|SK Hynix]] as a memory-chip supplier tied to AI training and inference demand, while preserving the cyclical warning that memory markets can overbuild after demand surges.
+## Overview
+Samsung is described in these sources as a smartphone maker, memory supplier and advanced foundry participant. The market position in one segment does not establish leadership in every chip generation or geography.
 
-Samsung appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] as the Android-era handset company that captured much of the market opportunity after [[HTC]]'s early lead. The episode uses Samsung to show that once [[Android]] became the open non-Apple platform, the winning hardware maker still needed scale, supply chain, marketing, and product iteration.
+## Current Profile
+Android scale and execution are contrasted with China-market retreat following Note 7 and local competition. AI-related memory demand and HBM forecasts sit beside cyclical overbuild risk, consumer-device input costs, and speculative alternatives to TSMC capacity.
 
-[[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds Samsung as a memory-market peer in the AI hardware cycle. [[AnitaRamaswamy]] names Samsung alongside [[MicronTechnology]] and [[SKHynix]] as companies seeing strong memory demand, and the episode uses a Samsung drive price jump as a consumer-facing example of [[AIHardwareSupplyChainPressure]].
+## Key Characteristics
+- **Android handset execution:** Shared Android access did not itself ensure leadership; the later China-market account links Samsung’s retreat to Note 7 and local competition.
+- **Memory-cycle exposure:** AI demand, HBM positioning and consumer drive prices point to both upside and allocation pressure, alongside the risk of capacity overbuild.
+- **Foundry and financial-market context:** Leading-edge manufacturing and possible Nvidia supply alternatives are conditional, while Korean single-stock leveraged ETFs add a distinct volatility exposure.
 
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Samsung to the [[AIStorageSupercycle]] and HBM-share discussion. The source says Samsung lagged in the cited HBM3E split but may move into a stronger second-place position in later HBM generations, while its broader consumer-electronics business also makes memory-price allocation more complex.
+## Evidence
+- **Handset execution and China retreat:** [[Android]] provided a shared non-[[Apple]] [[SmartphoneOperatingSystemEcosystems|operating-system platform]]: after [[HTC]]’s early lead, Samsung’s manufacturing scale, channels, marketing and iteration helped it become a global handset leader. That did not guarantee durable China share: the account of its retreat combines the Galaxy Note 7 battery/recall crisis, brand damage and stronger local product and channel competition, while the source describes a later China-market retreat without a quantified Samsung share. [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]]
+- **Memory upside with cyclical and consumer costs:** [[AnitaRamaswamy]] groups Samsung with [[SKHynix|SK Hynix]] and [[MicronTechnology]] as beneficiaries of AI training and inference memory demand, but warns that supply can overshoot after a boom; a Samsung consumer drive reportedly rose from about $7 to $20 amid the squeeze. A separate [[AIStorageSupercycle]] discussion puts Samsung behind SK Hynix in the cited HBM3E split while considering a stronger later-generation position; its phone and device businesses may also pay higher memory input costs. Korean single-stock leveraged ETF enthusiasm involving Samsung and SK Hynix exposes investors to product-specific volatility rather than proving a permanent memory winner. [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] [[vol-266-yi-ci-xing-gao-dong-etf-1002344828]]
+- **Advanced manufacturing option, not an immediate substitute:** Samsung remains among the few pursuing leading-edge process nodes with [[TSMC]] and [[Intel]], a sign of wafer-manufacturing concentration and cost. An [[Nvidia]] supply-chain discussion treats Samsung as a possible foundry or [[AdvancedPackaging|packaging]] complement, contingent on technology, commercial cooperation and capacity allocation—not a demonstrated replacement for TSMC. [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]]
 
-[[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] adds Samsung's China-market retreat after its Android high point. The episode says Samsung was the global smartphone leader and once held a large China share, but the Galaxy Note 7 battery and recall crisis, local competition, and brand damage helped drive its China share below 1% by 2018.
+## Qualifications
+The cited HBM split and future ranking are source-period descriptions and forecasts, not permanent share. Samsung’s memory upside can coexist with higher consumer-hardware input costs; leveraged ETF performance is product- and period-specific. Its possible foundry or packaging role does not establish an immediate TSMC replacement.
 
-[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds Samsung as one of the few companies still pursuing the most advanced wafer process nodes, alongside [[TSMC]] and [[Intel]]. In this source, Samsung's role is mainly to show how concentrated and capital-intensive leading-edge manufacturing has become.
+## What Changed
+- The current profile groups the original source-scoped observations by role and mechanism rather than source arrival; no new source or later event is asserted.
 
-[[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds Samsung as a potential foundry and packaging alternative inside the [[Nvidia]] supply discussion. The source does not present Samsung as an immediate replacement for [[TSMC]], but it includes Samsung in the set of companies whose technology, commercial cooperation, and capacity allocation could affect future AI infrastructure supply.
-
-[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds Samsung as part of the Korean memory-stock cluster affected by single-stock leveraged ETF enthusiasm. The source says South Korea approved multiple single-stock leveraged ETFs tied mainly to [[SKHynix|SK Hynix]] and Samsung Electronics, and uses subsequent weak performance to argue that retail-heavy leverage can spread volatility beyond one product.
-
-## Source Position
-- Samsung is not a main character in the old "Motorola, Nokia, Ericsson" part of the episode, but it becomes important as the successor Android camp consolidates.
-- The source positions Samsung as a beneficiary of [[SmartphoneOperatingSystemEcosystems]]: Android gave many manufacturers a shared platform, but not equal results.
-- Samsung's role also foreshadows the later Chinese smartphone era, where hardware brands competed inside a common Android-derived ecosystem.
-- The What's Next source separates Samsung's memory upside from its consumer-hardware exposure: the same AI-driven shortage can benefit memory operations while pressuring phone and device supply chains.
-- Episode 210 uses Samsung as a reminder that global Android scale did not guarantee durable China-market power once product trust and local competitive rhythm broke.
-- EP270 uses Samsung as a leading-edge semiconductor manufacturing peer rather than as a handset-market case.
-- E230 uses Samsung as one of several capacity alternatives or complements around foundry and packaging, while leaving commercial fit and allocation constraints unresolved.
-- Vol.266 uses Samsung as the peer Korean memory-stock context for [[ETF7709HK|7709.HK]] and the post-approval wave of single-stock leveraged ETFs.
-
-## Connections
-- [[Android]] and [[Google]] — platform context.
-- [[HTC]] — early Android participant whose lead did not translate into lasting dominance.
-- [[IPhone]] and [[Apple]] — premium closed-platform contrast.
-- [[ChinaHandsetSupplyChain]] — the broader supply-chain and manufacturing competition background.
-- [[MicronTechnology]], [[SKHynix]], and [[HighBandwidthMemory]] — AI memory-market branch added by Marketplace Tech.
-- [[AIHardwareSupplyChainPressure]] — consumer-storage pressure connected to AI data-center demand.
-- [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], and [[MemoryCapacityLockIn]] — memory-cycle context added by What's Next.
-- [[HandsetMarketConcentration]] and [[SmartphoneBrandSupplyChainExecution]] — China-market retreat and consolidation frame added by episode 210.
-- [[Intel]], [[TSMC]], [[PhotolithographyBottleneck]], and [[MooreLaw]] — leading-edge process context added by EP270.
-- [[AdvancedPackaging]], [[AIHardwareSupplyChainPressure]], and [[NvidiaVeraRubinPlatform]] - E230's supply-chain alternative context.
-- [[ETF7709HK|7709.HK]], [[SingleStockLeveragedETF]], [[SouthKorea|South Korea / 韩国]], and [[LeveragedProductSuitability]] - Korean leveraged ETF branch added by Vol.266.
+## Relationships
+- [[Android]], [[Google]] - platform context.
+- [[HTC]] - early Android participant whose lead did not translate into lasting dominance.
+- [[IPhone]], [[Apple]] - premium closed-platform contrast.
+- [[ChinaHandsetSupplyChain]] - the broader supply-chain and manufacturing competition background.
+- [[MicronTechnology]], [[SKHynix]], [[HighBandwidthMemory]] - AI memory-market branch.
+- [[AIHardwareSupplyChainPressure]] - consumer-storage pressure connected to AI data-center demand.
+- [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], [[MemoryCapacityLockIn]] - memory-cycle context.
+- [[HandsetMarketConcentration]], [[SmartphoneBrandSupplyChainExecution]] - China-market retreat and consolidation frame.
+- [[Intel]], [[TSMC]], [[PhotolithographyBottleneck]], [[MooreLaw]] - leading-edge process context.
+- [[AdvancedPackaging]], [[AIHardwareSupplyChainPressure]], [[NvidiaVeraRubinPlatform]] - E230's supply-chain alternative context.
+- [[ETF7709HK|7709.HK]], [[SingleStockLeveragedETF]], [[SouthKorea|South Korea / 韩国]], [[LeveragedProductSuitability]] - Korean leveraged ETF branch added by Vol.266.
