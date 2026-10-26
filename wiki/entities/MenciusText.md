@@ -2,43 +2,53 @@
 title: "《孟子》 / Mencius"
 type: entity
 tags: [book, chinese-classics, pre-qin, confucianism, political-theory]
-sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p, zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]
+sources:
+  - zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade
+  - zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p
+  - zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41
+  - zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn
+  - 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138
+  - zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
 # 《孟子》 / Mencius
 
-[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds the text's Wenwang/Qi Xuan garden passage as a contested court citation. The episode uses the contrast to define [[SharedPleasureGovernanceTest|shared pleasure]] by public access and livelihood impact: [[ZhouWenwang|King Wen of Zhou]]'s large park is acceptable because people can still use it, while [[QiXuanWang|King Xuan of Qi]]'s smaller park becomes oppressive when access is forbidden and punished. It also shows [[ClassicCitationLegitimationCapture|classic citation legitimation capture]] when attendants invoke the passage to support [[EmperorLingOfHan|Emperor Ling]]'s field-consuming gardens while ignoring those limiting conditions.
+## Overview
+《孟子》 is the classical text preserving arguments in a [[WarringStatesPeriod|Warring States]] setting attributed to [[Mengzi]] with rulers, students and rivals; modern podcast interpretations and later uses of those passages are distinguished from the text's historical setting.
 
-《孟子》 / Mencius is the classical text through which [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] reconstructs [[Mengzi|孟子 / Mencius]] as a political speaker. The episode treats the book not as exam material or a storehouse of isolated sayings, but as a sequence of confrontations with rulers, students, rival teachings, and the moral vocabulary of [[WarringStatesPeriod|战国时期]] politics.
+## Current Profile
+Read together, the cited passages test political legitimacy by renyi, the governed people's livelihood and welcome, restraint in war, and the ability to correct mistakes. Other episodes cite the book for family ritual and as an easily appropriated court authority.
 
-The source uses the text's opening with [[LiangHuiWang|梁惠王]] to frame [[RighteousnessOverProfit|righteousness over profit]], its stories around [[QiXuanWang|齐宣王]] to frame compassion and [[WangdaoVsBadao|王道 versus 霸道]], and its statements on tyrants and Heaven to frame [[MencianPeopleBasedLegitimacy]]. It also keeps the text imperfectly historical: Mencius's early life remains uncertain, and the episode treats some anecdotes as later or source-scoped rather than secure biography.
+## Key Characteristics
+- The Liang Hui Wang opening orders benefit under renyi rather than rejecting benefit itself.
+- Dialogues with Qi Xuan Wang and Wei Xiang Wang distinguish conquering, governing and durable legitimacy.
+- The text's moral criteria extend to diplomats, ordinary livelihoods and marriage procedure.
+- Later quotation can abstract a phrase from its original conditions.
 
-[[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]] cites the text's "天时、地利、人和" formula to interpret [[WeiWenhou|魏文侯]]. The episode uses the line less as a Mencius textual study than as a compact name for [[RenhePoliticalPower|人和政治力量]].
+## Evidence
+- **Profit and people:** At the opening [[LiangHuiWang|魏罃 / 梁惠王]] asks what benefits his state; “何必曰利，仁义而已” in [[RighteousnessOverProfit]] is read by the host alongside [[Zisi]]'s benefit-first formulation and [[SimaGuang]]'s reconciliation as [[RenyiBenefitOrdering]], not anti-welfare rhetoric. The same host says Sima Guang disliked Mencius enough to write [[YiMeng|《疑孟》]], whereas [[WangAnshi]] helped lift his Song reception; that is later reception, not the book’s own politics. The 336 BCE episode contrasts the longer argumentative texture with [[Analects]] and attributes to [[ZhuXi]] a conjecture of Mencius's editorial review; the earlier Wei succession note identifies the interlocutor, while the Wei Wenhou episode borrows “天时、地利、人和” for [[RenhePoliticalPower]] about [[WeiWenhou]]; that historical use is distinct from the succession context at [[ZhuozeBattle]] and [[CoalitionSettlementFailure]]. [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]]
+- **Rulership and war:** The rereading of Mencius treats Liang Hui Wang's relief gestures and [[QiXuanWang]]'s “以羊易牛” as incomplete starting points for [[MencianBenevolentGovernment]], [[MencianPeopleBasedLegitimacy]], [[ConstantPropertyConstantHeart]] and [[WangdaoVsBadao]]. The Yan dialogue conditions acceptable conquest on Yan people's welcome, as in the [[ShangTang]] rescue analogy, with release of captives, return of treasure, consultation, installation of a ruler and withdrawal as proposed remedies; the [[ChenJiaWarringStates]] exchange invokes [[ZhouGong]] and favors [[CorrectableLeadershipError|correction over excuses]]. To [[WeiXiangwang]], [[NonKillingUnification|“不爱杀人者能一之”]] is an ideal about lasting order, not proof conquest never uses force. [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]]
+- **Moral and family tests:** The [[MencianGreatManCriterion|“大丈夫” answer]] rejects [[GongsunYan]] and [[ZhangYiStrategist]] as standards merely because rulers fear them; wealth, poverty and coercion test steadfastness. The Teng Wen Gong Xia marriage-procedure material is invoked to explain [[TaishiJiao]]'s disapproval of [[JunWangHou]] and [[TianFazhang]]'s [[CrisisAutonomousMarriage|unsanctioned crisis bond]]. [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]]
+- **Contested citation:** The [[ZhouWenwang|Wenwang]]/Qi Xuan garden comparison approves public use and livelihood access, not park size alone. Courtiers' invocation for [[EmperorLingOfHan]]'s field-consuming gardens—where exclusion and punishment of ordinary people invert the comparison—despite [[YangCiLateHan]]'s court-remonstrance setting strips away those conditions, illustrating [[ClassicCitationLegitimationCapture]]. [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade]]
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-3-lmhj4le2mwu1yhhl-qmuoqkfmhjf]] reaches the text from the opposite direction. It identifies the earlier Wei succession winner [[LiangHuiWang|魏罃]] as the later Liang Hui Wang whom [[Mengzi|孟子 / Mencius]] meets at the opening of the book.
+## Qualifications
+A podcast's account of [[JixiaAcademy]] as Mencius's formative environment is tentative, not secure biography; the book is not the same entity as its attributed speaker. The host's Qin-versus-Han analogy tests the non-killing ideal retrospectively; Zhu Xi's textual-authorship inference and Han-court appropriation are later interpretations. “天时、地利、人和” is used by a later episode as an analogy about Wei Wenhou, not direct evidence of that ruler adopting Mencius. [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] [[zizhi-tongjian-zhouji-05-guangcai-duomu-de-weiwenhou-1-lmkxzbmwhw3nhurape-eebydqcdl]]
 
-[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] returns to that opening as the main event in the [[ZizhiTongjian|《资治通鉴》]] chronology for 336 BCE. The episode contrasts the book's longer, more continuous argument style with [[Analects|《论语》]], cites [[ZhuXi|朱熹]] for the claim that the text's coherence suggests Mencius's own review, and uses the "梁惠王" opening to refine [[RighteousnessOverProfit|义利之辨]] into [[RenyiBenefitOrdering|仁义优先的利益秩序]].
+## What Changed
+- Reorganized textual passages by claim and marked later quotations as interpretations.
+- Made the legitimacy test conditional rather than treating every cited conquest as endorsed.
 
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds another Liang/Wei dialogue from the text through [[WeiXiangwang|魏襄王]]. The episode foregrounds Mencius's answer that unity requires a ruler who does not love killing, making the text a source for [[NonKillingUnification|不爱杀人者能一之]] as well as renyi-benefit ordering.
-
-[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] adds the Qi-Xuan-Wang-and-Yan passage. The text is used to show Mencius's conditional view of conquest: the people's welcome, not the conqueror's claimed mandate, determines whether the action resembles rescue. The later [[ChenJiaWarringStates|陈甲]] exchange adds [[CorrectableLeadershipError|犯错能改的领导力]] to the text's governance afterlife.
-
-[[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] adds the text's "大丈夫" passage to the same political-ethical branch. The episode uses Mencius's response about [[GongsunYan|犀首公孙衍]] and [[ZhangYiStrategist|张仪]] to argue that political power, fear, and effect do not define greatness unless the actor can hold to the right way under wealth, poverty, and coercion.
-
-[[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] uses the text differently, through the marriage-procedure material associated with Teng Wen Gong Xia. The episode invokes parental command and matchmaker mediation to explain why [[TaishiJiao|太史敫 / 太史角]] refuses to recognize [[JunWangHou|君王后]]'s crisis relationship with [[TianFazhang|田法章]], making [[MarriageRitualOrthodoxy|marriage ritual orthodoxy]] part of the wiki's Mencius branch.
-
-## Connections
-- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]], [[SharedPleasureGovernanceTest|与民同乐治理检验]], [[ClassicCitationLegitimationCapture|引经据典式欲望包装]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[ZhouWenwang|周文王]], and [[QiXuanWang|齐宣王]] - Wenwang/Qi Xuan garden passage as contested court citation.
-- [[Mengzi|孟子 / Mencius]] - central speaker and thinker.
-- [[LiangHuiWang|梁惠王]] and [[QiXuanWang|齐宣王]] - major interlocutors emphasized by the source.
-- [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]] - political and intellectual context.
-- [[RighteousnessOverProfit]], [[MencianBenevolentGovernment]], [[WangdaoVsBadao]], [[ConstantPropertyConstantHeart]], and [[MencianPeopleBasedLegitimacy]] - concept cluster.
-- [[ClassicReadingComplexity]] - broader wiki frame for rereading canonical texts beyond school labels.
-- [[WeiWenhou|魏文侯]] and [[RenhePoliticalPower]] - Zhouji 05 use of the "人和" formula.
-- [[ZhuozeBattle|浊泽之战]] and [[CoalitionSettlementFailure]] - earlier political path by which Wei Ying becomes the later Liang Hui Wang.
-- [[Analects|《论语》]], [[ZhuXi|朱熹]], [[Zisi|子思]], and [[RenyiBenefitOrdering|仁义优先的利益秩序]] - Zhouji 26 textual-comparison and renyi-benefit extension.
-- [[WeiXiangwang|魏襄王]] and [[NonKillingUnification|不爱杀人者能一之]] - Zhouji 45 unity and non-killing-ruler extension.
-- [[YanState|燕国]], [[ShangTang|商汤]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest and mistake-correction passages.
-- [[GongsunYan|犀首公孙衍]], [[ZhangYiStrategist|张仪]], and [[MencianGreatManCriterion|孟子大丈夫标准]] - Zhouji 56 "great man" passage and zonghengjia evaluation.
-- [[JunWangHou|君王后]], [[TaishiJiao|太史敫 / 太史角]], [[CrisisAutonomousMarriage|患难自主婚姻]], and [[MarriageRitualOrthodoxy|婚姻礼法正当性]] - Zhouji 79 marriage-procedure and family-ritual branch.
+## Relationships
+- [[YanState]] - setting of the conditional conquest dialogue, not an endorsement of occupation.
+- [[ZizhiTongjian]] - later chronicle that quotes the text, rather than its original composition record.
+- [[ClassicReadingComplexity]] - later adaptations require separating a classic’s argument from excerpts used as slogans.
+- [[Mengzi]] - attributed speaker; biography belongs on the separate person page.
+- [[LiangHuiWang]] - interlocutor in the opening benefit exchange.
+- [[QiXuanWang]] - interlocutor in compassion and Yan-conquest passages.
+- [[SharedPleasureGovernanceTest]] - public-access condition in the garden passage.
+- [[MarriageRitualOrthodoxy]] - later use of a textual norm in a family dispute.
