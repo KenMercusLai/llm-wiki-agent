@@ -2,36 +2,76 @@
 title: "National Basketball Association"
 type: entity
 tags: [sports, basketball, league]
-sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, how-we-got-free-agents-in-baseball, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640
+  - how-we-got-free-agents-in-baseball
+  - kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684
+  - planet-money-vs-the-nbas-tanking-problem
+  - diary-of-a-wnba-negotiator
+  - tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128
+  - e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6
 last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
 ---
 
 # National Basketball Association
 
-[[how-we-got-free-agents-in-baseball]] adds the NBA as a comparison league in the spread of professional-sports free agency. The source says basketball also saw challenges that made it easier for players to become free agents in 1976, and it contrasts NBA salary caps with [[MajorLeagueBaseball|MLB]] payroll freedom in the [[SportsCompetitiveBalance|competitive-balance]] debate.
+## Overview
+The NBA is represented here through labor rules, league incentives, media-rights economics and integrity governance, not a complete league history.
 
-The National Basketball Association appears in [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] through the [[JontayPorter]] betting scandal. The source uses the NBA case to show how regulated sports-betting data can expose manipulation when unusual wagers, player conduct, sportsbooks, integrity monitors, leagues, and regulators are connected.
+## Current Profile
+The league’s free-agency and salary-cap rules distribute bargaining power, while its draft lottery tries to balance weak-team recovery against incentives to lose. Sportsbook monitoring, WNBA ownership comparisons and rising media-rights expectations add integrity, labor and franchise-finance dimensions.
 
-The NBA page's wiki role is not league history; it is sports-integrity context. The Porter case becomes the episode's practical contrast to prediction markets that may offer sports or event contracts without equivalent [[SportsbookIntegrityMonitoring]].
+## Key Characteristics
+- Player mobility and labor bargaining.
+- Draft incentives.
+- Integrity monitoring.
+- Media rights and franchise value.
 
-[[diary-of-a-wnba-negotiator]] adds the NBA as owner and comparison case for [[WNBA]] labor negotiations. The episode says the NBA originally owned the WNBA and remains the majority owner, while [[ClaudiaGoldin]] uses NBA-WNBA revenue comparisons to support the players' argument for [[SportsLaborRevenueSharing]].
+## Evidence
+- **球员流动与劳资分配：** 在职业体育自由球员制度的比较中，节目称篮球运动员在1976年的制度挑战后更容易转为自由球员，NBA工资帽与[[MajorLeagueBaseball|MLB]]不设工资帽构成[[SportsCompetitiveBalance|竞争平衡]]的对照。NBA最初拥有、仍是[[WNBA]]多数所有者；为WNBA球员谈判提供意见的[[ClaudiaGoldin]]按赛季、场次与球队数调整收入，认为平均薪资应约为NBA的四分之一至三分之一，而当时实际约为八十分之一。这是球员方的比较模型，不是NBA工资审计。[[how-we-got-free-agents-in-baseball]] [[diary-of-a-wnba-negotiator]]
+- **选秀与胜负激励：** NBA弱队争取高顺位选秀的机制可能奖励[[SportsTanking|摆烂]]；节目将现行乐透与[[DraftWheel]]、[[GoldPlan]]及[[NoDraftPlayerMarket|取消选秀的球员市场]]并列，讨论弱队补强和诚实竞赛之间的权衡，而非宣称任何替代方案已被采纳。[[planet-money-vs-the-nbas-tanking-problem]]
+- **博彩数据的完整性监督：** [[JontayPorter]]承认与赌徒协调、在2024年两场比赛中故意表现不佳；一场比赛后相关赌徒成为当日[[DraftKings]] NBA投注的最大赢家。节目以此说明持牌博彩公司、地理定位、实时异常投注和独立监察如何形成[[SportsbookIntegrityMonitoring|侦测链]]，并与监管较不相同的预测市场对比。[[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]]
+- **版权、估值与受众：** 中国[[Tencent]] NBA转播权在多个周期上涨，美国新一轮NBA版权同[[NationalFootballLeague|NFL]]和[[UFC]]被用作流媒体竞价推高[[SportsMediaRights|体育版权]]价格的例子；[[LosAngelesLakers|湖人]]据报估值125亿美元部分受预期版权收入支持，不代表全联盟估值。前老板[[MarkCuban]]认为全球及社媒球迷仍在增长，第二层奢侈税规则使三巨头配置更难、或增强平衡；他又将球队估值联系到直播体育对订阅留存的作用，均属其观点。[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] [[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] [[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]]
 
-[[planet-money-vs-the-nbas-tanking-problem]] adds the NBA's draft-design branch. The episode treats [[SportsTanking|tanking]] as an incentive problem created by draft rewards and lottery odds, then compares the NBA's current system with the [[DraftWheel]], [[GoldPlan]], and [[NoDraftPlayerMarket|no-draft player market]].
+## Qualifications
+- The $12.5 billion Lakers figure and Cuban’s growth/parity view are attributed reports or opinion. WNBA wage comparisons are Goldin’s model in the players’ account; a rights benchmark does not make the NBA the negotiating party for every contract.
 
-[[e237-yangshi-he-fifa-tanpan-fenzheng-beihou-tiyu-saishi-zhuanboquan-de-boyi-yu-shengyi-c3607c08-6eb6-48bd-8250-b41b5b8272e6]] adds the NBA as both a China-rights and U.S.-rights benchmark. The episode says [[Tencent]]'s China NBA rights rose sharply across cycles, while the newest U.S. NBA rights cycle is used with the [[NationalFootballLeague|NFL]] and [[UFC]] to illustrate why top American sports rights can keep inflating under streaming competition.
+## What Changed
+- Labor mobility and WNBA revenue comparisons sit beside draft incentives, rather than being treated as one league rule.
+- Betting integrity and franchise valuation supply different tests of the league’s governance and economics.
 
-[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds a team-valuation signal through the [[LosAngelesLakers|Los Angeles Lakers]]. The source says the Lakers' reported $12.5 billion valuation was helped by expectations for the NBA's new media-rights income, making the league relevant to asset valuation as well as rights pricing, labor bargaining, betting integrity, and draft design.
-
-[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s former-owner view. Cuban says the NBA has not peaked because global and social-media fan growth remain strong, while apron rules make three-star roster construction harder and may increase parity. The same discussion links NBA and sports-team valuations to [[SportsMediaRights]] and streaming-subscription retention rather than only attendance or wins.
-
-## Connections
-- [[MajorLeagueBaseball]], [[NationalFootballLeague|NFL]], [[BaseballFreeAgency]], [[SportsCollectiveBargaining]], [[SportsLaborRevenueSharing]], and [[SportsCompetitiveBalance]] - free-agency and salary-cap comparison branch added by Planet Money.
+## Relationships
+- [[MajorLeagueBaseball]] - comparison for player mobility, labor bargaining or competitive-balance rules.
+- [[NationalFootballLeague]] - comparison for player mobility, labor bargaining or competitive-balance rules.
+- [[BaseballFreeAgency]] - comparison for player mobility, labor bargaining or competitive-balance rules.
+- [[SportsCollectiveBargaining]] - comparison for player mobility, labor bargaining or competitive-balance rules.
+- [[SportsLaborRevenueSharing]] - comparison for player mobility, labor bargaining or competitive-balance rules.
+- [[SportsCompetitiveBalance]] - comparison for player mobility, labor bargaining or competitive-balance rules.
 - [[JontayPorter]] - player whose underperformance case grounds the episode.
 - [[DraftKings]] - sportsbook named in the betting-winner detail.
 - [[SportsbookIntegrityMonitoring]] - monitoring layer used in the episode's comparison.
-- [[PredictionMarketIntegrityOversight]] and [[EventContractManipulationRisk]] - broader prediction-market regulatory lessons drawn from the sports case.
-- [[WNBA]], [[WNBAPlayersAssociation]], [[ClaudiaGoldin]], and [[SportsLaborRevenueSharing]] - labor-revenue comparison branch added by the WNBA negotiation source.
-- [[AdamSilver]], [[ZachLowe]], [[HoustonRockets]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[DraftLotteryTradeoff]], [[DraftWheel]], [[GoldPlan]], and [[NoDraftPlayerMarket]] - tanking and draft-design branch added by the new Planet Money source.
-- [[Tencent]], [[SportsMediaRights]], [[SportsRightsBusinessModel]], [[SportsRightsBubble]], and [[UFC]] - rights-market branch added by E237.
-- [[LosAngelesLakers]], [[SportsEntertainmentFlywheel]], and [[AIResistantExperientialConsumption]] - premium team valuation branch added by 声动早咖啡.
-- [[MarkCuban|Mark Cuban]], [[SportsMediaRights]], [[LiveSportsStreamingTransition]], and [[SportsEntertainmentFlywheel]] - NBA growth, roster-parity, and streaming-valuation branch added by All-In.
+- [[PredictionMarketIntegrityOversight]] - broader prediction-market regulatory lessons drawn from the sports case.
+- [[EventContractManipulationRisk]] - broader prediction-market regulatory lessons drawn from the sports case.
+- [[WNBA]] - WNBA labor-revenue negotiation counterpart or analytical frame.
+- [[WNBAPlayersAssociation]] - WNBA labor-revenue negotiation counterpart or analytical frame.
+- [[ClaudiaGoldin]] - WNBA labor-revenue negotiation counterpart or analytical frame.
+- [[AdamSilver]] - actor or alternative mechanism in the draft-incentive debate.
+- [[ZachLowe]] - actor or alternative mechanism in the draft-incentive debate.
+- [[HoustonRockets]] - actor or alternative mechanism in the draft-incentive debate.
+- [[SportsDraftIncentiveDesign]] - actor or alternative mechanism in the draft-incentive debate.
+- [[SportsTanking]] - actor or alternative mechanism in the draft-incentive debate.
+- [[DraftLotteryTradeoff]] - actor or alternative mechanism in the draft-incentive debate.
+- [[DraftWheel]] - actor or alternative mechanism in the draft-incentive debate.
+- [[GoldPlan]] - actor or alternative mechanism in the draft-incentive debate.
+- [[NoDraftPlayerMarket]] - actor or alternative mechanism in the draft-incentive debate.
+- [[Tencent]] - buyer, peer league or economic mechanism in sports-rights pricing.
+- [[SportsMediaRights]] - buyer, peer league or economic mechanism in sports-rights pricing.
+- [[SportsRightsBusinessModel]] - buyer, peer league or economic mechanism in sports-rights pricing.
+- [[SportsRightsBubble]] - buyer, peer league or economic mechanism in sports-rights pricing.
+- [[UFC]] - buyer, peer league or economic mechanism in sports-rights pricing.
+- [[LosAngelesLakers]] - case or mechanism linking team valuation to expected rights income.
+- [[SportsEntertainmentFlywheel]] - case or mechanism linking team valuation to expected rights income.
+- [[AIResistantExperientialConsumption]] - case or mechanism linking team valuation to expected rights income.
+- [[MarkCuban]] - Cuban’s attributed view of fan growth, roster parity or live-sports value.
+- [[LiveSportsStreamingTransition]] - Cuban’s attributed view of fan growth, roster parity or live-sports value.
