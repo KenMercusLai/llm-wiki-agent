@@ -2,39 +2,45 @@
 title: "Confucian Military Idealism Limits / 儒家军事理想的限度"
 type: concept
 tags: [confucianism, warfare, realism, statecraft, warring-states]
-sources: [zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4, zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l, zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]
+sources:
+  - zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2
+  - zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4
+  - zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l
+  - zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-24
 ---
 
-# Confucian Military Idealism Limits / 儒家军事理想的限度
+## Definition
+Confucian military idealism limits names the gap between a morally justified, civilian-protecting campaign and the coercion, logistics and command discipline required to conduct it.
 
-Confucian military idealism limits / 儒家军事理想的限度 is the critique added by [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]]. The source does not reject [[Xunzi|荀子]]'s [[XunzianMilitaryLegitimacy|renyi army]] or his demand that armies protect civilians. It argues that Confucian military thought can become unrealistic when it imagines that righteous punitive force will make enemies simply welcome conquest and dissolve war into near-nonviolence.
-
-The episode uses [[CarlVonClausewitz|克劳塞维茨]] as a foil. Where Xunzi and [[Mengzi|孟子 / Mencius]] can describe ideal punitive war as rescuing people from harmful rulers, the host stresses that war still operates through coercive violence. This makes "有诛而无战" a political hope that must be checked against the brutal and resistant conditions visible in the [[WarringStatesPeriod|战国时期]].
-
-The concept extends [[MencianIdealismLimits|孟子理想主义的限度]] from benevolent conquest into military theory more broadly. It also qualifies [[ConfucianIdealGovernance|儒家理想治理]]: renyi may discipline the use of force, but it cannot by itself erase battlefield fear, resistance, casualties, reprisals, and the administrative burden after victory.
-
-[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] adds a different limit case through [[ChenYu|陈馀]]. Chen Yu invokes a righteous-army self-image to reject [[LiZuoChe|李左车]]'s plan to cut [[HanXin|韩信]] and [[ZhangEr|张耳]]'s supply line at [[JingxingPass|井陉口]]. The problem is not that the source rejects moral restraint; it is that Chen Yu turns moralized language into a refusal to use terrain and logistics, while still carrying private hostility toward Zhang Er.
-
-[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] adds that Chen Yu's problem is not simple ignorance of "兵者诡道也." The episode reads him as choosing a public, straight-looking victory and badly misjudging Han Xin's strength. The limit case is therefore moral vocabulary becoming entangled with face politics and false confidence, not Confucian ethics by itself.
-
-[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] adds a late-Han command-restraint case through [[LiuYuLateHan|刘虞]]. Liu Yu's refusal to burn and his order to kill only [[GongsunZan|公孙瓒]] align with civilian-protection instincts, but the source treats the result as a [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]] because the army cannot execute the target-limited attack. This extends the concept from moralized theory into command practice: restraint must be designed, not merely announced.
+## Current Synthesis
+[[Xunzi]]'s ideal army restricts harm to crops, elders, fugitives and those who submit, with officers disciplined by role and an aim of removing abusive rule rather than taking profit. The host's comparison to [[CarlVonClausewitz|Clausewitz]] questions the expectation that righteous punishment could become “有诛而无战”; it does not invalidate civilian protection. The [[JingxingPass|Jingxing]] and Liu Yu stories test different failures of execution: [[ChenYu|Chen Yu]] declines a proposed supply interdiction while misjudging [[HanXin|Han Xin]], whereas [[LiuYuLateHan|Liu Yu]]'s narrow targeting order against [[GongsunZan|Gongsun Zan]] meets an army unable to carry it out. Moral language, personal face, reconnaissance, supply and operational design must be distinguished.
 
 ## Key Claims
-- Moral purpose can restrain warfare, but it does not remove war's coercive structure.
-- Claims to rescue the people must be tested against army behavior, enemy resistance, and post-conquest administration.
-- Xunzi's "仁义之师" remains valuable as a limit on indiscriminate violence, but the source warns against treating it as an automatic path to bloodless victory.
-- The episode links Mencius's doubt about "血流漂杵" to the same tendency to protect a moralized image of sage-kings from the uglier reality of war.
-- The concept sits between renyi statecraft and realism: it asks for moral constraint without pretending that violence has disappeared.
-- Hanji 156 adds that righteous-army rhetoric can become operationally costly when it forbids stratagem without producing a stronger practical alternative.
-- Hanji 156 part 2 adds that moralized command can fail through public-performance pressure and bad intelligence even when the commander knows the formal value of deception.
-- Hanji 972 adds that humane restraint requires command discipline and feasible tactics; otherwise it can collapse against a smaller but clearer counterattack.
+- A just-war purpose and rules of restraint are meaningful limits on force, not proof that resistance and casualties disappear.
+- Xunzi's civilian protections and command discipline require enforceable roles and preparation; “有诛而无战” is a disputed aspiration.
+- At Jingxing, Chen Yu rejects Li Zuoche's proposed supply cut from a professed “righteous army” position while seeking a visible victory, underrating Han Xin and retaining a personal grievance against [[ZhangEr|Zhang Er]].
+- Han Xin's spies, hidden two-thousand cavalry, backwater line and capture of Zhao's camp show the logistical and deceptive chain that a moralized battlefield account can miss.
+- Liu Yu's order to spare civilians and target only Gongsun Zan was not executable by his loose force; his defeat did not extinguish his moral standing or Tian Chou's later local governance.
 
-## Connections
-- [[Xunzi|荀子]], [[XunziText|《荀子》]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], and [[XunzianCommandRestraint|五权三制]] - source military ideal and command limits.
-- [[Mengzi|孟子 / Mencius]], [[MencianIdealismLimits|孟子理想主义的限度]], [[ShangTang|商汤]], and [[ZhouWuwang|周武王]] - classical punitive-war ideal and its limits.
-- [[CarlVonClausewitz|克劳塞维茨]] and [[MachiavellianRealism|Machiavellian Realism]] - realist comparison frames.
-- [[WarringStatesWarBrutalization|战国战争残酷化]], [[WarringStatesMilitaryTransformation|战国军事形态转变]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - war-reality checks inside the same historical field.
-- [[ConfucianIdealGovernance|儒家理想治理]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[WangdaoVsBadao|王道 versus 霸道]] - broader governance and legitimacy frames.
-- [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]], [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]], [[ChenYu|陈馀]], [[LiZuoChe|李左车]], [[JingxingPass|井陉口]], and [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] - Chu-Han command-failure extension from rejected stratagem to completed defeat.
-- [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]], [[LiuYuLateHan|刘虞]], [[GongsunZan|公孙瓒]], and [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]] - late-Han case where humane targeting rules fail without executable command design.
+## Evidence
+- Ethical rule and realist challenge: [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] reads [[XunziText|the Xunzi text]] on restraint toward noncombatants and officers' duties; the host uses Clausewitz to question a near-bloodless punitive war and connects [[Mengzi|Mencius]]'s doubt about “血流漂杵”.
+- Missed interdiction: [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l]] reports [[LiZuoChe|Li Zuoche]]'s proposed thirty-thousand-man side-path strike on the Han supply line through Jingxing and Chen Yu's refusal; [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]] says Chen Yu knew deception doctrine, sought an open victory, and underestimated Han strength.
+- Tactical execution: [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4]] details Han Xin's intelligence, two thousand red-flag cavalry, river-backed deployment, feigned retreat and Zhao-camp seizure—not a victory produced by backwater terrain alone.
+- Humane but weak command: [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2]] describes Liu Yu forbidding fire and limiting the target to Gongsun Zan; the larger undisciplined force broke against a small counterattack, while [[TianChou|Tian Chou]] later used loyalty, law, rites and schooling at Xu Wu Mountain.
+
+## Counterevidence & Qualifications
+These episodes are from the same historical commentary series. Chen Yu's phrase is a comparative moralized-command example, not evidence he subscribed to Confucian doctrine. The host's “too soft” verdict on Liu Yu and the Clausewitz foil are interpretations; neither establishes that civilian restraint itself caused defeat. Jingxing also depended on enemy errors and supply conditions, while Han strength estimates are source-scoped. The later respect for Liu Yu cautions against treating ruthlessness as the solution.
+
+## What Changed
+- Replaced a solely philosophical critique with separate operational tests of logistics, reconnaissance and executable restraint.
+
+## Related Concepts
+- [[XunzianMilitaryLegitimacy]] - supplies the righteous-army ideal being tested.
+- [[XunzianCommandRestraint]] - specifies the command rules that make restraint operational.
+- [[MoralizedAntiDeceptionCommand]] - captures Chen Yu's rejection of deception at Jingxing.
+- [[BackwaterBattle]] - shows Han Xin's combined tactical counterexample.
+- [[BenevolentCommandExecutionGap]] - identifies Liu Yu's gap between orders and force capability.
+- [[MencianIdealismLimits]] - earlier benevolent-conquest ideal whose battlefield assumptions are tested here.
+- [[ConfucianIdealGovernance]] - broader governance ideal whose military application is at issue.
