@@ -2,38 +2,58 @@
 title: "Jerome Powell"
 type: entity
 tags: [person, central-bank, macro]
-sources: [146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu, vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb, indicators-of-2025-and-what-to-watch-in-2026, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, jerome-powell-and-the-test-of-fed-independence]
+sources:
+  - 146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu
+  - vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb
+  - indicators-of-2025-and-what-to-watch-in-2026
+  - ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5
+  - jerome-powell-and-the-test-of-fed-independence
+knowledge_schema: synthesis-v1
 last_updated: 2026-08-06
 ---
 
 # Jerome Powell
 
-[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]] adds Powell as the current chair in a source-dated U.S. market discussion. The episode treats [[DonaldTrump]]'s public dissatisfaction with Powell, reports of possible firing letters, and market reaction to those reports as part of a continuing [[CentralBankIndependence]] stress test rather than only a personality conflict.
+## Overview
+鲍威尔是这些来源中美联储利率政策沟通与央行独立性压力的代表人物；对其抗压表现的评价应与其具体货币政策是否正确分开。
 
-Jerome Powell appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] through the episode's discussion of [[FederalReserve]] communication, nonfarm payroll data, and short-term March 2025 volatility. The speakers contrast Powell and the Fed's typically ambiguous language with [[DonaldTrump]]'s more direct policy messaging.
+## Current Profile
+2025年节目在劳动力与政府停摆数据不全、关税和市场估值变化中观察鲍威尔的利率表述；2025年底把2026年5月主席任期届满视为潜在制度转折。2026年5月《Planet Money》则回顾他卸任主席当天与特朗普压力、司法部调查及继任安排。主席任期不等同美联储理事任期。
 
-[[jerome-powell-and-the-test-of-fed-independence]] makes Powell the direct case study for [[CentralBankIndependence]]. The [[PlanetMoney]] source presents his final day as Fed chair through pandemic policy, inflation's rise and fall, Trump pressure, a DOJ investigation tied to Fed construction-project testimony, and comparisons with [[WilliamMcChesneyMartin]] and [[ArthurBurns]].
+## Key Characteristics
+- 利率决策在通胀、就业、经济滞后信号之间权衡，宽松措辞也可能被解读为经济转弱。
+- 独立性面临总统公开批评、罢免传闻和围绕国会证词的司法调查压力。
+- 通过公开解释国会授权和数据来维护制度立场，而不是单靠个人与总统争辩。
+- 继任主席、理事罢免诉讼及内部异议决定个人任期之后的制度弹性。
 
-[[indicators-of-2025-and-what-to-watch-in-2026]] adds a source-dated forward-looking version. The 2025-12-31 episode says Powell's chair term was due to end in May 2026, making the federal funds rate a live signal for chair succession, Fed dissent, [[DonaldTrump]] pressure, and whether [[CentralBankIndependence]] remained credible.
+## Evidence
+- **利率沟通：**[[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]]的2025年3月投资者认为非农数据与美联储含糊表达不易判断：降息既利于流动性，也可表示经济恶化，因而建议避免急于抄底。[[146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu]]讨论2025年11月停摆造成就业/官方数据盲区、关税通胀与市场反应，特朗普不满鲍威尔及所谓解雇信报道属于[[CentralBankIndependence]]风险而非已发生免职。
+- **机构压力：**[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]]在2025年5月、首次日内瓦谈判结果公布前，称鲍威尔仍在守住独立线，但[[OfficeOfManagementAndBudget|OMB]]、[[DepartmentOfGovernmentEfficiency|DOGE]]及下任主席任命可能带来更深的[[IndependentAgencyControlPressure]]。[[jerome-powell-and-the-test-of-fed-independence]]报道围绕美联储建筑项目国会证词的DOJ传票；鲍威尔将潜在刑事指控与不符合总统偏好的利率决定相连，属其公开解释，不是司法定论。
+- **历史与公开论证：**[[jerome-powell-and-the-test-of-fed-independence]]中[[BurtonAbrams]]认为他在独立性上更接近抵制约翰逊压力的[[WilliamMcChesneyMartin]]而非受尼克松影响的[[ArthurBurns]]，同时不替其疫情及通胀政策背书；[[LaelBrainard]]强调对国会授权、数据及决策理由的持续公开解释。
+- **继任制度：**[[indicators-of-2025-and-what-to-watch-in-2026]]于2025-12-31记联邦基金利率3.5%—3.75%，三次连续降息后[[WaylonWong]]把它选为2026观察指标，彼时称鲍威尔主席任期将在5月结束、[[DonaldTrump]]要求更低利率、[[LisaCook]]免职诉讼未决。[[jerome-powell-and-the-test-of-fed-independence]]在2026年5月描述[[KevinWarsh]]为特朗普提名继任主席，Cook案检验模糊的“for cause”罢免标准，[[StephenMiran]]的异议不能自动证明央行独立性已经崩溃。
 
-[[vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb]] adds an earlier May 2025 live-discussion view. The source says Powell was still "holding" the independence line, but the deeper risk may be the next [[FederalReserve]] chair and institutional environment if [[DonaldTrump]] can shape appointments, regulatory review, and political incentives.
+## Qualifications
+五月2025及年底2025来源的“即将交接”是当时前瞻，不能覆盖2026年5月的回顾；主席与理事任期有别。DOJ调查、罢免传闻及鲍威尔对其动因的解释要区分。Martin/Burns比较是一位专家的制度评价，不等于通胀路径的因果证明；停摆数据缺失降低实时判断把握。
 
-## Source Position
-- Powell is used as the public face of the Fed's difficult communication problem.
-- The source argues that Fed signals can either calm markets or be interpreted as evidence that policymakers see economic trouble.
-- His comments are tied to [[MonetaryPolicyLag]], [[USRecessionRisk]], and [[IndexReentryDiscipline]] because investors are advised to wait for more stable policy and data signals before adding aggressively.
-- Planet Money separates Powell's independence record from the broader question of whether his monetary-policy choices were correct.
-- The source treats the DOJ subpoenas as Powell's defining pressure moment because he publicly framed possible criminal charges as a consequence of rate decisions made against presidential preference.
-- The crossover source treats Powell's approaching May 2026 chair transition as part of [[FederalFundsRateAsPolicySignal]], not just as a biographical endpoint.
-- The Qizhulou vol.128 source treats Powell as a current resistance case while moving the main institutional concern to succession and [[IndependentAgencyControlPressure]].
-- Episode 146 adds shutdown-disrupted data and market reaction to removal rumors as reasons Powell's independence signal can affect both rate expectations and equity risk appetite.
+## What Changed
+- 从股市择时的利率信号，转为主席交接与独立性制度边界的案例。
+- 把本人抗压、历史比较与继任后的理事免职争议分层，而非混同政策成败。
 
-## Connections
-- [[FederalReserve]] — institution Powell represents in the source.
-- [[DonaldTrump]] — contrasting political-policy actor in the episode's market frame.
-- [[InvestmentRiskManagement]] — reason the speakers caution against immediate bottom-fishing around policy-data events.
-- [[LaelBrainard]], [[BurtonAbrams]], [[WilliamMcChesneyMartin]], and [[ArthurBurns]] - Planet Money's insider, expert, and historical comparison set.
-- [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - governance concepts extended by the Powell episode.
-- [[FederalFundsRateAsPolicySignal]], [[WaylonWong]], and [[LisaCook]] - 2026 rate-watch and Fed-removal branch added by the crossover source.
-- [[StephenMiran]] and [[GovernmentShutdownDataBlindness]] - appointment and data-visibility context added by the Qizhulou/美轮美换 crossover.
-- [[IndependentAgencyControlPressure]], [[OfficeOfManagementAndBudget]], and [[DepartmentOfGovernmentEfficiency]] - May 2025 agency-control context added by Qizhulou Yan Binke.
+## Relationships
+- [[FederalReserve]] - 鲍威尔担任主席的机构。
+- [[CentralBankIndependence]] - 总统压力下的核心制度测试。
+- [[DonaldTrump]] - 公开降息施压及继任提名的总统。
+- [[FederalFundsRateAsPolicySignal]] - 2025年底被选作2026政策指标。
+- [[MonetaryPolicyLag]] - 降息利好与衰退信号并存的原因。
+- [[GovernmentShutdownDataBlindness]] - 停摆削弱利率判断所需数据。
+- [[ForCauseRemovalStandard]] - 理事Cook诉讼牵出的法律界限。
+- [[InflationBias]] - 历史上对政治化央行的担忧。
+- [[LisaCook]] - 罢免争议不等同主席任期变化。
+- [[StephenMiran]] - 内部异议可与独立性并存。
+- [[LaelBrainard]] - 对公开解释美联储授权的前官员视角。
+- [[WilliamMcChesneyMartin]] - Abrams引用的抗压历史参照。
+- [[ArthurBurns]] - Abrams引用的政治影响反面参照。
+- [[IndexReentryDiscipline]] - 市场来源据政策不确定性提出的谨慎入市建议，非鲍威尔本人建议。
+- [[InvestmentRiskManagement]] - 投资者因利率数据不明而审慎配置的建议，非其本人投资意见。
+- [[PlanetMoney]] - 2026年主席交接独立性回顾的节目出处。
+- [[USRecessionRisk]] - 降息可能被市场解读为经济压力的背景。
