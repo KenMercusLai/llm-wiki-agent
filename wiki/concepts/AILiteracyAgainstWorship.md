@@ -2,46 +2,66 @@
 title: "AI Literacy Against Worship"
 type: concept
 tags: [ai, education, governance, agency]
-sources: [ep-9-chatgpt-and-education-systems, tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, kate-crawford-mapping-empires]
+sources:
+  - ep-9-chatgpt-and-education-systems
+  - tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128
+  - tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128
+  - e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0
+  - 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1
+  - kate-crawford-mapping-empires
 last_updated: 2026-08-18
+knowledge_schema: synthesis-v1
 ---
 
-# AI Literacy Against Worship
+# AILiteracyAgainstWorship
 
-[[ep-9-chatgpt-and-education-systems]] adds the teacher-and-student classroom version. [[JosephStrader]] and [[SamDataScienceWithSam|Sam]] argue that teachers across subjects need enough AI literacy to explain [[ChatGPT]], use it for bounded assistance, and distinguish responsible learning from [[AIShortcutRisk]] rather than answering the technology only with bans.
+## Definition
+AI literacy against worship means understanding what AI can and cannot do, its incentives and material costs, and one's own purpose before treating a fluent tool as authority or surrendering learning and judgment to it.
 
-AI literacy against worship is the episode's argument that public AI education should begin with orientation, limits, and self-command before tool training. In [[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]], [[WeiQing]] warns that people can move from AI admiration into sensory capture and surrender if they learn tools without learning how tools shape attention and desire.
-
-The concept supports public basic AI education and services, but treats commercial "free" AI differently when the product directly acts on the user's attention and cognition. Literacy means understanding capability, hidden price, language framing, data and information boundaries, personal-agent choices, and the human responsibility that remains after the tool becomes powerful.
-
-[[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds the student version. Literacy includes knowing when AI is helping learning and when it is becoming [[AIShortcutRisk]]: a convenient path that removes the reasoning, recall, and error correction needed for [[SelfDirectedLearning]].
-
-[[kate-crawford-mapping-empires]] adds the democratic-infrastructure version. [[KateCrawford]] uses Carl Sagan's warning about public understanding of science and technology to argue that AI must be mapped, questioned, and governed collectively rather than treated as a technical priesthood or inevitable empire.
-
-[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds a government worker-training contrast through the [[USDepartmentOfLabor|U.S. Department of Labor]]'s text-message AI course. The course supports baseline [[AIWorkerLiteracy]], but the episode warns that pro-AI reassurance and prompting practice do not answer worker anxiety about displacement, safeguards, or who captures productivity gains.
-
-[[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds the writing-classroom version through [[ChristyGerdhary]]. AI literacy means students learn what the tool can and cannot do, why prompt engineering is a writing practice rather than magic, how to make collaboration visible, and why [[AIDetectorBias]] makes automated policing ethically risky.
+## Current Synthesis
+Practical tool access matters, but education must include output evaluation, attribution, attention, labor and democratic control. Classroom, worker and public-policy contexts have different stakes: a helpful answer can be a poor learning action, and a short prompting course cannot settle job displacement.
 
 ## Key Claims
-- AI education should not start only with prompt tricks or product walkthroughs.
-- People need concepts for AI limits, incentives, language framing, attention capture, and final responsibility.
-- Public baseline education or services can reduce access gaps if they do not simply become another attention-capture channel.
-- Tool fluency without self-command can deepen AI worship, overtrust, and passive consumption.
-- Literacy should preserve human agency: why to use AI, when not to use it, and what kind of person is being amplified.
-- In education, AI literacy includes recognizing that a correct answer can still be a bad learning action if it bypasses the student's own thinking.
-- Public AI literacy includes understanding material costs, data extraction, media manipulation, and infrastructure power before accepting claims of progress or inevitability.
-- Worker-facing AI literacy should not collapse into tool optimism; it also needs labor, governance, and displacement context.
-- Classroom AI literacy includes transparent authorship, output evaluation, and detector-bias awareness, not only cheating rules.
-- EP9 adds that teacher literacy is an access issue: students and parents need educators who can translate AI into practical classroom language instead of treating it as distant expert jargon.
+- Teachers and students need bounded AI assistance and visible authorship rather than a choice between blanket bans and unexamined use.
+- Output fluency cannot replace a learner's reasoning, error correction and self-directed practice.
+- Naming, attention incentives and default interfaces shape how users understand agency and responsibility.
+- Worker literacy is incomplete without safeguards, displacement and who captures productivity gains.
+- Public scientific literacy must include data, resource and governance power, not merely prompt techniques.
 
-## Connections
-- [[AIWorkerLiteracy]] and [[USDepartmentOfLabor|U.S. Department of Labor]] - worker-training branch added by Marketplace Tech.
-- [[TeacherAILiteracy]], [[TeacherAIAugmentation]], [[AIAcademicIntegrity]], and [[JosephStrader]] - K-12 education branch added by Data Science With Sam EP9.
-- [[WeiQing]] — source speaker.
-- [[HumanAgencyUnderAI]] and [[HumanMachineAmplification]] — literacy starts from the user's state and purpose.
-- [[AttentionIndustrialization]] and [[AIUsePacing]] — practical risks literacy must cover.
-- [[LanguagePrecision]] — naming AI systems changes what people believe they are using.
-- [[AIGovernanceAndCompliance]] — organizational and public guardrails around AI use.
-- [[AIShortcutRisk]], [[AIAsTutor]], and [[LearningHowToLearn]] — student-learning branch added by Yangcong Xueyuan.
-- [[KateCrawford]], [[AIMetabolicInfrastructure]], and [[PublicInterestAI]] — democratic and material-infrastructure branch added by the Long Now source.
-- [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - writing-classroom literacy branch added by Marketplace Tech.
+## Evidence
+- [[JosephStrader]] and [[SamDataScienceWithSam|Sam]] discuss [[ChatGPT]] for differentiated lesson plans and explanations alongside cheating and unequal computer-science access; their “human-driven AI” view rejects both teacher replacement and reliance only on early detector or school-ban reactions. [[ChristyGerdhary]] proposes assignments showing collaboration, color-coded authorship and output critique; her report warns [[AIDetectorBias]] can disproportionately harm marginalized writers, while a family-memory/clay-rose example locates learning outside generic essay generation. [[ep-9-chatgpt-and-education-systems]] [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]]
+- [[YangLingfeng]] describes [[SelfDirectedLearning]] as willingness, capability, tools and belief; a quick AI answer can bypass the system-two effort mathematics and other subjects train. His company's 5–8-minute designed lessons and AI-as-context support are offered as ways to lower effort barriers without removing the learner's thinking. [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]]
+- [[WeiQing]] argues that terms such as “intelligence,” “robot” and “employee” affect expectation, while free algorithmic services can capture attention. His [[HumanMachineAmplification]] warning is that strong tools magnify existing judgment **or** low-volition behavior; personal agents should filter by a user's values rather than platform incentives. [[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]]
+- A [[USDepartmentOfLabor|U.S. Department of Labor]] SMS course was described as roughly ten minutes a day over a week, covering prompts and basic models. [[MariaCurie|Maria Curi]] treats its reassurance as limited: it does not prevent layoffs or answer worker anxiety about the distribution of gains. [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]]
+- [[KateCrawford]] invokes [[CarlSagan]]'s public-science warning while mapping data extraction, minerals, power, water, labor and waste in [[CalculatingEmpires]]. Her proposed [[PublicInterestAI]] response combines consent, narrower use, renewables and democratic oversight; it is a governance argument, not an observed settled AI regime. [[kate-crawford-mapping-empires]]
+
+## Counterevidence & Qualifications
+- Limited-access education can itself widen inequity; responsible assistance is not abstinence, and teacher preparation cannot be reduced to technical experts alone. [[ep-9-chatgpt-and-education-systems]]
+- Detector claims may be biased, while students' disclosure and real independent thinking require pedagogical design rather than one universal policing rule. [[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]]
+- The Labor Department's basic course may improve confidence but cannot resolve structural employment and infrastructure impacts by itself. [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] [[kate-crawford-mapping-empires]]
+
+## What Changed
+- Literacy is separated into classroom learning, attention and language autonomy, worker rights and public material governance.
+- Practical AI assistance remains compatible with skepticism when humans retain evaluation and responsibility.
+
+## Related Concepts
+- [[TeacherAILiteracy]] - educators need enough understanding to scaffold safe use across subjects.
+- [[TeacherAIAugmentation]] - lesson planning can help teachers without replacing them.
+- [[AIAcademicIntegrity]] - disclosure and learning assessment cannot rest solely on detectors.
+- [[AIWritingPedagogy]] - writing assignments can make collaboration and evaluation visible.
+- [[AIDetectorBias]] - unreliable policing can penalize students unfairly.
+- [[AIShortcutRisk]] - quick answers can crowd out actual reasoning practice.
+- [[SelfDirectedLearning]] - meaningful AI help should preserve learner agency.
+- [[AIWorkerLiteracy]] - basic tool competence needs labor and protection context.
+- [[AttentionIndustrialization]] - platforms can turn apparently free assistance into attention capture.
+- [[LanguagePrecision]] - terminology changes expectations of the tool's authority.
+- [[HumanAgencyUnderAI]] - user purpose and responsibility are the normative boundary.
+- [[AIMetabolicInfrastructure]] - public understanding includes extractive and ecological costs.
+- [[PublicInterestAI]] - democratic oversight is proposed instead of technical priesthood.
+- [[KateCrawford]] - articulates the material and political literacy dimension.
+- [[WeiQing]] - develops the self-command and language-framing critique.
+- [[AIAsTutor]] - contextual tutoring returns students to reasoning.
+- [[LearningHowToLearn]] - metacognition matters more than answers.
+- [[TransparentAIUse]] - visible collaboration clarifies student-authored work.
+- [[AIUsePacing]] - deliberate limits counter attention capture.
+- [[AIGovernanceAndCompliance]] - public rules address incentives beyond fluency.
