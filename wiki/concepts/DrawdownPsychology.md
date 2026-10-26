@@ -1,61 +1,58 @@
 ---
 title: "Drawdown Psychology"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [investing, psychology, risk]
-sources: [suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2, 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources:
+  - suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq
+  - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
+  - 157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2
+  - 145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi
+  - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
+  - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
+  - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
+  - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
+  - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
 last_updated: 2026-08-07
 ---
 
 # Drawdown Psychology
 
-[[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] adds the low-risk product client version. The source says former deposit and bank-wealth clients form a satisfaction distribution: a 2%-plus drawdown can be acceptable to some holders and trust-breaking to others, so the manager's job is to keep the middle majority inside the product's psychological floor rather than maximize single-period return.
+## Definition
+Drawdown psychology concerns how the depth, duration and relative context of investment losses affect an actual holder's capacity to keep and manage a position.
 
-[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds the bull-market relative-loss version. The source says losing money or lagging badly inside a bull market can feel worse than ordinary drawdown because other people's gains make the investor's own result feel like both loss and missed status, increasing the urge to switch tracks late.
-
-[[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] adds the giveback version. [[DavidWeng|大卫翁]] recalls that after earlier gains, buying what looked like an early post-crash bargain in January 2016 still cost about 10% of liquid assets, showing how giving back prior gains can feel like a fresh loss and trigger worse reentry behavior.
-
-Drawdown psychology is the investor-behavior constraint emphasized in [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]]: losses hurt not only by how deep they get, but by how long they last and how much agency they drain. The episode uses the ulcer index idea to focus on drawdown area, meaning the combined burden of depth and duration.
-
-This concept connects market risk to life experience. A portfolio can look acceptable in a backtest while still being impossible for an ordinary investor to hold through multi-year losses, comparison with faster-rising assets, or the regret of having "had" gains without realizing them.
-
-[[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the self-discovery version. The episode argues that risk tolerance cannot be read reliably from a questionnaire; investors discover it when market movement makes them unable to sleep, sit still, or stop worrying.
-
-[[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version. In a [[PersonalPensionAccount|个人养老金账户]], drawdown psychology matters because the investor must keep contributing and holding over years; if direct index beta would cause panic selling, a [[TargetDateFund|target-date fund]] or FOF may be a behavioral design choice rather than merely a performance bet.
-
-[[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the gold version. [[MaoDong|毛冬]] says he bought gold-linked exposure near a high point and then avoided checking the account during the pullback, while [[TangTao|唐涛]] argues that sleeplessness usually comes from buying too much, buying too high, or borrowing to buy. The source shows why an asset with a safety narrative still has to be sized for the path the investor can actually live with.
-
-[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds the bull-market regret version. [[DavidWeng|大卫翁]] says even a profitable quarter can produce discomfort when investors compare themselves with better-performing friends, missed stocks, or imagined perfect exits. That makes [[MarketPullbackVsTrendEnd]] psychological as well as analytical: the investor needs enough rules and allocation structure to avoid turning every ordinary drawdown into a full portfolio referendum.
-
-[[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] adds the advisory-service version. The episode argues that [[InvestmentBehaviorCoaching]] is a central part of [[FundInvestmentAdvisory|fund advisory]] because clients need market explanation, plan reminders, and trusted accompaniment before and during drawdowns, not only a rebalancing notice after the fact.
+## Current Synthesis
+A maximum loss point is not the whole experience: time underwater, purchase date, previously enjoyed gains and comparison with others alter perceived loss. Product design, portfolio sizing and advisory support can make a path more holdable, but neither a metric nor a recommended asset mix predicts every investor's reaction. The cited episodes are largely host and guest interpretations, several from the same programme.
 
 ## Key Claims
-- Maximum drawdown misses part of the problem because it records the worst point but not the duration of being underwater.
-- The fixed-income-plus source adds that different entry dates produce different drawdown psychology on the same net-value curve because newer clients lack earlier accumulated gains.
-- Long, slow losses can reduce attention, patience, family tolerance, and the willingness to add at better prices.
-- Floating profit can become psychologically owned before it is realized, making later drawdown feel like a real loss.
-- Holding defensive or dividend assets in a growth-led bull market can create regret even if the absolute return is positive.
-- Cash, bonds, gold, trend rules, tail hedges, and staged exits can all be understood as tools for preserving action capacity.
-- A good investment plan must be holdable by the investor who will actually live through the path.
-- Vol.105 adds that risk tolerance is an empirical boundary: the portfolio should be revised around what the investor can actually hold, not only what they say they can accept.
-- Vol.109 adds that pension-account products should be judged by whether they help the investor keep contributing and holding through retirement-relevant drawdowns.
-- EP268 adds that account avoidance can be a symptom of path discomfort; gram-counting and long horizons can help only if position size and funding source are already reasonable.
-- Episode 143 adds that regret after gains can be as destabilizing as fear after losses, because comparison pressure pushes investors to overtrade, abandon rebalancing, or seek perfect top-calling.
-- Episode 145 adds that drawdown support is a service capability: an advisor must have enough prior trust and client knowledge to keep volatility from becoming panic redemption.
-- Episode 157 adds that giving back prior gains can feel and behave like a fresh loss, especially when early dip-buying turns a prior win into regret.
-- Episode 171 adds that relative underperformance during a visible bull market can produce FOMO pressure even without a large absolute drawdown.
+- Depth and time underwater jointly burden holders; the same net-value curve means different things to clients entering on different dates.
+- Returning paper gains or lagging peers in a rising market can produce regret, FOMO, early bottom-fishing and excessive trading even with a positive absolute return.
+- Portfolio suitability is tested by goals, liquidity, understanding and lived reactions such as sleeplessness, not a questionnaire or backtest alone.
+- Rules, diversification and position size can preserve action capacity without guaranteeing a market-top forecast or painless losses.
+- Trust built before a decline and explanations during it are part of an advisory service, not simply after-the-fact rebalancing.
 
-## Connections
-- [[BullMarketProfitPreservation]], [[MarketPullbackVsTrendEnd]], and [[PaperWealthVsCashValue]] - episode 157's profit-giveback branch.
-- [[RollingHoldingPeriodExperience]], [[RiskBudgetedAbsoluteReturn]], [[FixedIncomePlusProduct]], and [[FundLiabilityMatching]] - product-client drawdown extension from the 面基 source.
-- [[InvestmentRiskManagement]] — broader discipline for sizing, exits, hedging, and survival.
-- [[BehavioralInvestingBiases]] — loss aversion, regret, anchoring, and herding pressures that worsen drawdowns.
-- [[PaperWealthVsCashValue]] — floating gains become painful when treated as already-owned wealth.
-- [[RetailBullMarketPsychology]] — crowd excitement and comparison pressure that make drawdowns harder to tolerate.
-- [[MultiStrategyAllocation]] — portfolio answer for reducing dependence on a single path.
-- [[FundLiabilityMatching]] — professional version of matching strategy path to holder behavior.
-- [[PortfolioSuitability]] and [[CircleOfCompetence]] — vol.105's personal-fit frame for matching path risk to the investor.
-- [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account behavior and product-choice context.
-- [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[GoldMonetaryAnchor]], and [[MaoDong]] — EP268's gold drawdown and accumulation-behavior context.
-- [[MarketPullbackVsTrendEnd]], [[OneToOneToOneAllocation]], and [[InvestmentCooldownDiscipline]] — episode 143's bull-market pullback and behavior-control context.
-- [[FundInvestmentAdvisory]], [[InvestmentBehaviorCoaching]], [[GoalBasedClientProfiling]], and [[TrustAsBusinessAsset]] — episode 145's advisory accompaniment branch.
-- [[LateBullMarketLossRisk]], [[MarketBreadthNarrowing]], and [[RetailBullMarketPsychology]] - episode 171's relative-loss and late-switching extension.
+## Evidence
+- Duration and entry: [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] invokes the ulcer-index drawdown area rather than only maximum drawdown, as Zhang Yizhen discusses reducing exposure above 4,000 A-share points while leaving room for more gains. [[suoyou-jingzhi-quxian-beihou-doushi-ren-zhengtai-fenbu-de-putongren-lsnrkqhtktjlmrscow2-mt2df0yq]] describes former deposit and bank-wealth clients entering [[FixedIncomePlusProduct|fixed-income-plus]] products with differing tolerances for a 2%-plus fall and notes that new money lacks the old holders' return cushion; the manager's [[RiskBudgetedAbsoluteReturn|low-risk product]] cannot assume all clients experience one curve alike.
+- Regret and comparison: [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] distinguishes absolute loss, index underperformance and the failure to keep gains over a full bull-bear cycle; its host reports -2.9% by June 2026 and argues late-cycle concentration and active turnover can amplify peer pressure. This is [[LateBullMarketLossRisk|late-bull loss risk]], not a measured forecast of the cycle’s end. [[157-ruhe-daizou-niushi-de-shengli-guoshi-lory40ilowkjfe-lt-hiwjdsdbq2]] recounts [[DavidWeng|David Weng]] losing about 10% of liquid assets after buying an apparent early bargain in January 2016 and advocates rules for speculative positions, including his own 20%-from-high exit reference as an example of [[BullMarketProfitPreservation|profit-preservation discipline]], not a universal sell trigger. [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] says his profitable 2025 Q3 still brought comparisons to friends and missed stocks; its [[OneToOneToOneAllocation|one-third/one-third/one-third allocation]] and thesis checks are his method, not a universal prescription.
+- Suitability and product design: [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] links purpose, understanding and tolerance, recommending liquidity and [[InvestmentCooldownDiscipline|waiting rules]] (the host waits on decisions above 1% of liquid assets and caps monthly moves at 5%). [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] contrasts [[PassiveInvesting|direct low-fee index exposure]] with [[FOFProductDesign|FOF]] and target-date funds in [[PersonalPensionAccount|pension accounts]]: glide paths, contribution discipline and allocation may help a holder stay invested, while fees and management quality remain material. [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] records [[MaoDong|Mao Dong]] avoiding an account after a gold pullback and [[TangTao|Tang Tao]]'s view that too-large, too-expensive or borrowed exposure disrupts sleep; his roughly 10% gold weight and the account-avoidance anecdote illustrate [[OnlineGoldAccumulation|online gold accumulation]] and drawdown discomfort, not allocation advice or a return estimate.
+- Support before redemption: [[145-jijin-tougu-zhide-xinren-ma-lrckug0zjqolcczni8ajikb0k5mi]] argues that [[GoalBasedClientProfiling|adviser-client profiling]], fee/conflict disclosure, advance trust, market explanations and continuing contact during falls matter more than a bare fund basket in [[FundInvestmentAdvisory|fund advisory]]. The episode describes a Chinese pilot and contrasts U.S. fiduciary/retirement infrastructure as dated programme evidence, not a verified service-performance trial.
+
+## Counterevidence & Qualifications
+- The ulcer index summarizes a path but does not measure individual distress. Positive returns can still feel inadequate; that feeling does not establish an actual loss.
+- The portfolio and advisory episodes from 起朱楼宴宾客 share a programme/host orbit; the low-risk product and ulcer-index discussions share 面基. Their examples complement one another but are not independent experiments.
+- Gold avoidance and sleep are anecdotes. Stop rules, FOFs, hedges and defensive allocations carry costs and may underperform; no source establishes one optimal mix for all holders.
+
+## What Changed
+- Recast multiple dated investment-account examples as path, comparison, suitability and advisory mechanisms.
+- Kept personal positions and rules source-attributed instead of converting them into recommendations.
+
+## Related Concepts
+- [[RollingHoldingPeriodExperience]] - entry-date variation changes the same product curve's felt loss.
+- [[PaperWealthVsCashValue]] - surrendered floating profit can be experienced as a fresh loss.
+- [[RetailBullMarketPsychology]] - peer comparisons and crowded winners intensify relative regret.
+- [[MarketPullbackVsTrendEnd]] - thesis checks can prevent a normal fall becoming an all-or-nothing decision.
+- [[PortfolioSuitability]] - goals and lived tolerance determine whether a strategy is holdable.
+- [[InvestmentBehaviorCoaching]] - trusted explanation during drawdowns can affect redemption decisions.
+- [[TargetDateFund]] - glide paths are a possible pension holding aid, not a return guarantee.
+- [[HouseholdGoldSavings]] - gold's perceived safety still depends on size, funding and liquidity.
+- [[GoldMonetaryAnchor]] - a monetary-safety narrative does not remove the discomfort of a gold price drawdown.
