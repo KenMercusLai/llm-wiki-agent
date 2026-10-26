@@ -2,54 +2,52 @@
 title: "陈宫 / Chen Gong (late Han)"
 type: entity
 tags: [person, late-han, adviser, military, gentry]
-sources: [zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz, zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr, zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave, zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68, zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]
+sources:
+  - zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz
+  - zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd
+  - zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr
+  - zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv
+  - zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis
+  - zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave
+  - zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68
+  - zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1
 last_updated: 2026-08-26
+knowledge_schema: synthesis-v1
 ---
 
-# 陈宫 / Chen Gong (late Han)
+## Overview
+陈宫是东汉末兖州政局中先助曹操入州、后联合张邈迎吕布的谋士；之后随吕布作战，在下邳城破前遭吕布部将捕获，终为曹操所杀。连续十篇同系列播客从政治联盟、城池攻守与派系嫌疑三个角度描述他。
 
-[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] is treated cautiously as a backfill for Chen Gong's earliest Yanzhou invitation role. The transcript renders the persuader as "成公," but the content matches the existing Yanzhou branch in which Chen Gong helps make [[CaoCao|曹操]] acceptable to local officials after [[LiuDaiLateHan|刘岱]] dies. This page records the connection as source-scoped transcript normalization rather than an independent new certainty.
+## Current Profile
+他的转向不能只讲成个人背信：节目提出地方士族在边让被杀后的安全忧惧，但这一动机与屯田时序均须来源限定。离曹后他既能组织政治拥立，也受制于曹方据点防御、吕布的派系不信任与下邳军心崩坏。
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] gives Chen Gong's open action before Hanji 974 supplies the motive layer. With [[CaoCao|曹操]] campaigning in [[Xuzhou|徐州]], Chen Gong and [[ZhangMiaoLateHan|张邈]] welcome [[LyuBu|吕布]] into [[YanzhouLateHan|兖州]], cutting Cao Cao's rear down to a few remaining cities.
+## Key Characteristics
+- 早期兖州邀请曹操的身份有“成公”转录歧义，不能作独立确证。
+- 与张邈等人的反曹联合使徐州外征变成兖州后方危机。
+- 进逼范县与东阿、渡口受阻及定陶败战显示政治转向并未保证军事实控。
+- 郝萌事变中被曹性指控却未受罚，体现吕布阵营派系平衡但不证明有罪。
+- 下邳围城时其谋议空间被压缩，部将倒戈导致被俘、处死及家属受照顾的复杂结局。
 
-The source uses the action as a cliffhanger rather than a full explanation. It marks Chen Gong as the practical bridge between Cao Cao's external campaign and the internal Yanzhou collapse that later pages analyze through local-elite fear and adviser faction.
+## Evidence
+- **身份与入兖：**汉纪964在[[LiuDaiLateHan|刘岱]]死后记[[BaoXin|鲍信]]、[[WanQianLateHan|万潜]]请[[CaoCao|曹操]]入兖州，劝说者转录成“成公”，节目按背景谨慎归并为陈宫而非直接字形证明。[[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq]]
+- **反曹的政治转换：**曹操远攻[[Xuzhou|徐州]]时，陈宫与[[ZhangMiaoLateHan|张邈]]迎[[LyuBu|吕布]]为[[YanzhouLateHan|兖州]]牧，使曹方仅保鄄城、[[FanCountyLateHan|范县]]和[[DongALateHan|东阿]]等据点。汉纪974在行动前回溯[[BianRangLateHan|边让]]遇害后的[[LocalEliteSecurityPanic|士族恐慌]]及张邈受袁绍压力，称陈宫与[[XuSiLateHan|许汜]]、[[WangKaiLateHan|王楷]]、[[ZhangChaoLateHan|张超]]向张邈建议引吕布；这是主持人对动机的解释。[[XunYu|荀彧]]由使者称曹操为“曹公”而非州牧、吕布行军方向察觉异常。[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet]] [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd]] [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]]
+- **据点争夺：**陈宫与吕布威胁东阿，[[ChengYu|程昱]]说服[[JinYunLateHan|靳允]]守范县、诱杀[[FanYiLateHan|范仪]]；陈宫欲经[[CangtingFordLateHan|仓亭津]]至东阿，程昱先遣骑守渡并移走船，[[ZaoZhi|枣祗]]组织城防，曹方保住根据地。195 CE陈宫与吕布自东明率节目所称万余人攻[[DingtaoBattleLateHan|定陶]]，曹操以堤与林木伏兵获胜。陈宫的政治影响不等于可以拿下残余城池。[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv]] [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]]
+- **派系嫌疑：**196 CE[[HaoMeng|郝萌]]袭吕布于下邳，[[GaoShun|高顺]]击破后，反戈的[[CaoXingLateHan|曹性]]当着吕布指陈宫和[[YuanShu|袁术]]涉事；陈宫据称脸红，吕布未罚。主持人以陈宫的兖州士族/谋臣渠道对照高顺、[[ZhangLiao|张辽]]的并州军人基础，解释[[LyuBuFactionalBalance|派系平衡]]和[[PoliticalSurvivalFirst|先求生存]]；指控出自有利害关系的曹性，不能从脸红推出通谋。[[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68]]
+- **下邳终局：**[[XunYou|荀攸]]、[[GuoJia|郭嘉]]认为陈宫有智而决策慢，劝曹操趁吕布未定策攻城；水攻与援军失效后陈宫反对吕布投降，[[HouChengLateHan|侯成]]、[[SongXianLateHan|宋宪]]、[[WeiXuLateHan|魏续]]俘陈宫与高顺、献兵。陈宫称吕布不从其计，接受处死；曹操虽杀陈宫，据节目又赡其母、安排妻子家属。这与曹操对其他降将的[[StrategicDefectorIncorporation|选择性吸纳]]相区别，也体现[[CourtFeedbackCollapse|建议未被采纳]]而非他对吕布全部成败负责。[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz]] [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1]]
 
-[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] supplies the source's motive layer before Chen Gong appears in the open [[YanzhouLateHan|兖州]] rupture. The episode presents Chen Gong as a Yanzhou-side elite actor who had helped bring [[CaoCao|曹操]] into the province, then becomes alarmed after [[BianRangLateHan|边让]] is killed and Cao Cao's reliance on kin and outsiders seems to narrow local elite security.
+## Qualifications
+“成公”归并陈宫仅为上下文识别；边让之死导致反曹的动机解释，以及把此事归于早期屯田/清田压力的时间线，均非已证因果。曹性在郝萌案是利害相关指控者，陈宫脸红与袁术灰色联系不能断作事实。吕布不处罚陈宫的派系考量是节目推断；下邳侯成的禁酒令冲突是引爆点而非陈宫失败的唯一原因。十篇为同一播客连续讲述，不构成十份独立证据。
 
-In this source, Chen Gong's advice to [[ZhangMiaoLateHan|张邈]] turns fear into a strategic proposal. With Cao Cao away in [[Xuzhou|徐州]], Chen Gong, [[XuSiLateHan|许汜]], [[WangKaiLateHan|王楷]], and [[ZhangChaoLateHan|张超]] argue that Zhang Miao can invite [[LyuBu|吕布]] and jointly control Yanzhou. This makes Chen Gong part of [[LocalEliteSecurityPanic|地方士族安全恐慌]] before later pages treat him as Lü Bu's Yanzhou gentry channel.
+## What Changed
+- 把兖州拥立、攻守失利、派系嫌疑及下邳结局分为不同身份和行动。
+- 将动机与转录疑义明确标为节目解释，不升级为确定传记事实。
 
-[[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] adds Chen Gong's first role in the Yanzhou rupture before the later Fan County and Cangting branches. While [[CaoCao|曹操]] is away in [[Xuzhou|徐州]], Chen Gong and [[ZhangMiaoLateHan|张邈]] welcome [[LyuBu|吕布]] as [[YanzhouLateHan|兖州]] governor, turning Cao Cao's rear into a legitimacy and command crisis.
-
-This source does not yet develop Chen Gong's later tactical movement toward [[DongALateHan|东阿]]. Its contribution is the earlier political conversion: internal officials and local actors are described as joining the rebellion, so Chen Gong's role begins as an insider alignment shift that [[XunYu|荀彧]] has to detect before it becomes a completed provincial loss.
-
-[[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] adds Chen Gong as a pressure actor in the immediate pre-Cangting Yanzhou crisis. The source says [[ChengYu|程昱]] is sent east because Chen Gong is threatening [[DongALateHan|东阿]], and Cheng Yu's persuasion of [[JinYunLateHan|靳允]] at [[FanCountyLateHan|范县]] is framed partly by comparing Chen Gong and [[LyuBu|吕布]]'s durability against [[CaoCao|曹操]].
-
-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds Chen Gong's failed approach to [[DongALateHan|东阿]] before his later field defeat with [[LyuBu|吕布]]. He tries to reach the remaining Cao Cao-side base through [[CangtingFordLateHan|仓亭津]], but [[ChengYu|程昱]] blocks the crossing and pulls away boats, preventing the attack from converting Yanzhou betrayal into complete base loss.
-
-[[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] adds Chen Gong's immediately earlier field role before the Xiapi factional-balance episode. He appears with [[LyuBu|吕布]] leading more than ten thousand troops from Dongming against [[CaoCao|曹操]] in [[YanzhouLateHan|兖州]], only to be defeated when Cao Cao uses the dike and forest terrain at [[DingtaoBattleLateHan|定陶之战]].
-
-陈宫 / Chen Gong (late Han) enters the wiki through [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] as the high-ranking [[LyuBu|吕布]] adviser whom [[CaoXingLateHan|曹性]] accuses of involvement in [[HaoMeng|郝萌]]'s Xiapi revolt. The source says Chen Gong is sitting beside Lü Bu when named and reportedly blushes, but Lü Bu does not punish him.
-
-The episode's interpretation is that Chen Gong cannot be read only as an individual suspect. He represents the Yanzhou士族 and adviser channel that helped Lü Bu after he entered Cao Cao's former Yanzhou base, while [[GaoShun|高顺]] and [[ZhangLiao|张辽]] represent Lü Bu's Bingzhou military core. Punishing Chen Gong would therefore risk breaking a factional balance Lü Bu still needs.
-
-The page keeps several claims source-scoped: possible gray contact with [[YuanShu|袁术]], the meaning of Chen Gong's blush, and the idea that shame could be used as political performance. The wiki records those as part of [[LyuBuFactionalBalance|吕布集团派系平衡]], not as settled independent proof of Chen Gong's role in the revolt.
-
-[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] adds the immediate pre-execution position. [[XunYou|荀攸]] and [[GuoJia|郭嘉]] tell [[CaoCao|曹操]] that Chen Gong has wisdom but is slow to decide, so the Xiapi siege should be pressed before he settles a plan. Inside the city, Chen Gong opposes [[LyuBu|吕布]]'s surrender impulse, but [[HouChengLateHan|侯成]], [[SongXianLateHan|宋宪]], and [[WeiXuLateHan|魏续]] capture him with [[GaoShun|高顺]] and hand over the troops, turning his protected factional position into lost command leverage.
-
-[[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] gives Chen Gong's endpoint after [[CaoCao|曹操]] captures [[Xiapi|下邳]]. Chen Gong says [[LyuBu|吕布]] failed because he did not follow Chen Gong's advice, then accepts execution after Cao Cao asks about his mother, wife, and children. The source adds a political-memory layer: Cao Cao kills Chen Gong but later supports his mother and arranges care for his family.
-
-## Connections
-- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[WanQianLateHan|万潜]], and [[CaoCao|曹操]] - source-scoped "成公" invitation normalization.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[ZhangMiaoLateHan|张邈]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[Xuzhou|徐州]], and [[YanzhouLateHan|兖州]] - open rebellion while Cao Cao is away.
-- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[BianRangLateHan|边让]], [[XuSiLateHan|许汜]], [[WangKaiLateHan|王楷]], [[ZhangChaoLateHan|张超]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - motive layer and plotting group before open rebellion.
-- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], [[ZhangMiaoLateHan|张邈]], [[LyuBu|吕布]], [[YanzhouLateHan|兖州]], [[CaoCao|曹操]], and [[XunYu|荀彧]] - insider-alignment rupture before the Fan County and Cangting branches.
-- [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]], [[FanCountyLateHan|范县]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - pressure actor in Cheng Yu's pre-Cangting persuasion branch.
-- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[CangtingFordLateHan|仓亭津]], [[DongALateHan|东阿]], [[ChengYu|程昱]], and [[ZaoZhi|枣祗]] - failed crossing and base-defense sequence before Dingtao.
-- [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]], [[YanzhouLateHan|兖州]], [[DingtaoBattleLateHan|定陶之战]], and [[CaoCao|曹操]] - earlier field defeat while accompanying Lü Bu.
-- [[LyuBu|吕布]] - leader who depends on Chen Gong but does not punish him after the allegation.
-- [[HaoMeng|郝萌]] and [[CaoXingLateHan|曹性]] - revolt actor and accuser.
-- [[YuanShu|袁术]] - outside actor allegedly connected to the revolt.
-- [[GaoShun|高顺]] and [[ZhangLiao|张辽]] - Bingzhou military-side contrast in the episode's faction reading.
-- [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], [[HouChengLateHan|侯成]], [[SongXianLateHan|宋宪]], [[WeiXuLateHan|魏续]], and [[SuspicionTriggeredCommandMutiny|猜疑触发的部下倒戈]] - pre-surrender pressure reading and capture inside Xiapi.
-- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], [[Xiapi|下邳]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - endpoint where ignored advice, execution, and family care are separated.
-- [[LyuBuFactionalBalance|吕布集团派系平衡]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts used to interpret Chen Gong's protected position.
+## Relationships
+- [[CaoCao]] - 从获邀兖州的盟友变为叛乱对手及处决者。
+- [[ZhangMiaoLateHan]] - 共同邀请吕布，连接兖州本地政治网络。
+- [[LyuBu]] - 被辅佐者，既不处罚嫌疑亦未采纳末期反降意见。
+- [[XingshiqingStrategicAssessment]] - 程昱以曹、吕两方持久性说服地方守将。
+- [[SuspicionTriggeredCommandMutiny]] - 侯成等人在下邳内讧中俘其献兵。
+- [[Xiapi]] - 郝萌指控及最终被俘的同一据点，时间不同。
