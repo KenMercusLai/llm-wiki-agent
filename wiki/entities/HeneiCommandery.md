@@ -2,31 +2,47 @@
 title: "河内郡 / Henei Commandery"
 type: entity
 tags: [place, commandery, warring-states, chu-han, late-han]
-sources: [zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29, zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h, zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]
+sources:
+  - zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29
+  - zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl
+  - zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h
+  - zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 河内郡 / Henei Commandery
 
-河内郡 / Henei Commandery enters this wiki as a named page through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], where [[LiuBang|刘邦]] captures [[SimaAng|司马卬]] and sets the newly occupied territory as Henei Commandery.
+## Overview
+河内郡 is the Yellow River-adjacent commandery named in these Chu-Han and late-Han podcast accounts. Its recurring significance is access: conquest and administration, reception of people crossing the river, troop deployment near Luoyang, and a route to the displaced imperial court. This is a source-bounded political geography, not an exhaustive map of the commandery's changing borders.
 
-The region had already appeared in scattered source context as a strategically important Yellow River-adjacent area. In this episode its function is direct: once Liu Bang crosses from Linjin and takes Henei, he has broken another line that [[XiangYu|项羽]]'s settlement had depended on to contain him.
+## Current Profile
+The Chu-Han creation scene and the late-Han episodes are separated by centuries. They illustrate different uses of the same regional name, not continuous control by one regime.
 
-The page remains source-scoped rather than a full geography. It now records Henei across a Chu-Han commandery conversion and several later route, personnel, and mobilization uses.
+## Key Characteristics
+- **Conquest-to-commandery conversion:** After [[LiuBang|刘邦]] captures the Yin king [[SimaAng|司马卬]], the episode says he administers occupied territory as Henei, weakening [[XiangYu|项羽]]'s Yellow River containment line.
+- **Receiving corridor for mobile talent:** At [[Xiuwu|修武]], [[ChenPing|陈平]] reaches Liu Bang's camp after crossing the river, introduced through [[WeiWuzhi|魏无知]].
+- **Late-Han home region and outward route:** [[SimaZhiLateHan|司马直]] is described as a Henei man sent toward [[JuluCommanderyLateHan|巨鹿郡]]; at Mengjin he writes his death memorial rather than finance office entry through extraction.
+- **Pressure position near the capital:** [[HeJin|何进]] sends [[DingYuanLateHan|丁原]] into Henei while drawing outside forces toward [[LuoyangLateHan|洛阳]] against the eunuchs.
+- **Gateway to court contact:** [[ZhangYangLateHan|张杨]] controls passage used by [[CaoCao|曹操]]'s envoy; [[DongZhaoLateHan|董昭]] secures permission and a recommendation as Cao Cao tries to reach the [[EmperorXianOfHan|汉献帝]] court.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] adds a personnel layer to the same region. The episode places [[LiuBang|刘邦]]'s camp at [[Xiuwu|修武]], where [[ChenPing|陈平]] arrives after crossing the Yellow River and is introduced through [[WeiWuzhi|魏无知]]. Henei is therefore not only territory Liu Bang absorbs; it is also a receiving zone for mobile talent.
+## Evidence
+- **Conquest and administration:** [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn]] places Henei after Sima Ang's capture among Liu Bang's territorial gains, alongside [[HenanCommanderyChuHan|河南郡]], [[LiyangQinHan|栎阳]], and the surrender of [[WeiBao|魏豹]].
+- **Talent corridor:** [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h]] locates Chen Ping's arrival at Xiuwu and Wei Wuzhi's introduction; the wider Henei setting is not itself proof that the whole commandery recruited him.
+- **Home and outward route:** [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29]] identifies Sima Zhi as from Henei, appointed to Julu, and reaching Mengjin before his protest against [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]].
+- **Military pressure:** [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl]] says Ding Yuan is ordered to Henei and burns Mengjin amid He Jin's wider summons; the host frames this as escalation, not an inevitable outcome caused by Henei itself.
+- **Court access:** [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]] records Zhang Yang's initial refusal and Dong Zhao's persuasion to admit Cao Cao's envoy; [[MaoJie|毛玠]]'s legitimacy strategy still required more than physical passage.
 
-[[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]] adds an earlier late-Han personal-route use. [[SimaZhiLateHan|司马直]] is identified as a Henei man, and his forced movement toward [[JuluCommanderyLateHan|巨鹿郡]] reaches Mengjin before he writes a death memorial against [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]].
+## Qualifications
+The place name spans different regimes and periods; these notes do not establish exact borders or an uninterrupted administrative identity. The Sima Zhi case concerns a native of Henei traveling *to* Julu, not governance of Henei. The court-route account describes an early diplomatic opening, not Cao Cao's completed control of the emperor. Psychological explanations of He Jin and Zhang Yang are podcast interpretations.
 
-[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds a late-Han use of Henei as the route corridor [[CaoCao|曹操]] needs to contact the [[EmperorXianOfHan|汉献帝]] court after adopting [[MaoJie|毛玠]]'s legitimacy strategy. [[ZhangYangLateHan|张杨]] controls the passage and initially refuses, but [[DongZhaoLateHan|董昭]] persuades him to allow the envoy through and recommend Cao Cao.
+## What Changed
+- The page distinguishes Henei's territorial, personnel, military, and diplomatic functions across the two historical settings rather than presenting them as one continuous campaign.
+- The Xiuwu and Mengjin episodes are narrowed to their actual roles instead of treating every person crossing the area as a commandery-wide policy.
 
-[[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] backfills an earlier late-Han Henei pressure role. [[HeJin|何进]] orders [[DingYuanLateHan|丁原]] into Henei as part of the anti-eunuch mobilization around [[LuoyangLateHan|洛阳]], making the commandery part of [[ExternalTroopInvitationRisk|外兵入京升级风险]] before the later Dong Zhuo and emperor-route branches.
-
-## Connections
-- [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]], [[SimaZhiLateHan|司马直]], [[JuluCommanderyLateHan|巨鹿郡]], and [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] - late-Han personal-route and death-memorial setting.
-- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]], [[HeJin|何进]], [[DingYuanLateHan|丁原]], [[LuoyangLateHan|洛阳]], and [[ExternalTroopInvitationRisk|外兵入京升级风险]] - early late-Han mobilization around the capital.
-- [[LiuBang|刘邦]] and [[SimaAng|司马卬]] - captor and Yin king captured in the episode.
-- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[CaoCao|曹操]], [[ZhangYangLateHan|张杨]], [[DongZhaoLateHan|董昭]], and [[LegitimacyWindowSeizure|合法性窗口抢占]] - late-Han court-contact route.
-- [[Xiuwu|修武]], [[ChenPing|陈平]], and [[WeiWuzhi|魏无知]] - Hanji 150 part 2 camp and introduction scene inside the wider Henei setting.
-- [[WeiBao|魏豹]], [[HenanCommanderyChuHan|河南郡]], and [[LiyangQinHan|栎阳]] - neighboring Liu Bang-side expansion sequence in Hanji 149 part 2.
-- [[ConquestCommanderyTransition|灭国后的郡县化过渡]] and [[CoalitionSettlementFailure|联军战后安排失败]] - commandery conversion after Xiang Yu's line breaks.
+## Relationships
+- [[ConquestCommanderyTransition]] - Liu Bang's seizure of Sima Ang's territory becomes an administrative conversion.
+- [[CoalitionSettlementFailure]] - Xiang Yu's partition loses its Henei containment function.
+- [[ExternalTroopInvitationRisk]] - He Jin's deployment near Luoyang expands a court conflict into armed pressure.
+- [[LegitimacyWindowSeizure]] - the controlled corridor enables Cao Cao's attempted access to the emperor's court.
