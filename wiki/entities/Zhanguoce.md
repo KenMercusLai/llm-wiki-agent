@@ -2,67 +2,106 @@
 title: "《战国策》 / Zhanguo Ce"
 type: entity
 tags: [book, chinese-history, pre-qin, historiography]
-sources: [zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc, zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg, zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck, zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq, zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade, zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv, zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy, zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r, zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz, zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0, zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw, zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij, zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]
+sources:
+  - zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc
+  - zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg
+  - zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck
+  - zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n
+  - zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok
+  - zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq
+  - zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade
+  - zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv
+  - zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy
+  - zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r
+  - zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix
+  - zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz
+  - zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0
+  - zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw
+  - zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij
+  - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi
 last_updated: 2026-08-22
+knowledge_schema: synthesis-v1
 ---
 
 # 《战国策》 / Zhanguo Ce
 
-[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] cites [[Zhanguoce|《战国策》]] for the famous formulation around [[YuRang|豫让]]: "士为知己者死." In this wiki branch, that phrase anchors [[RetainerReciprocityEthic|retainer reciprocity]] alongside the [[Shiji|《史记》]] version of Yu Rang's explanation.
+## Overview
+《战国策》在本页的证据是播客对战国游说与人物故事的转述及与《史记》《资治通鉴》的对读，不是直接校勘原典。其价值既在说客如何以利益、名分和处境改变决策，也在与编年史异文并列时提醒不能把动人情节当作确定史实。
 
-《战国策》 / Zhanguo Ce enters the wiki through [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] as the source for a variant of the [[NieZheng|聂政]] assassination story. In the episode's summary of that version, [[XiaLei|侠累]] and [[HanAihou|韩哀侯]] are both at a large meeting, Xia Lei holds onto the ruler, and Nie Zheng kills both.
+## Current Profile
+它是多个篇章的叙事载体而非一种统一的史实保证：从豫让、聂政、苏秦、张仪，到触龙、庄辛、姚贾、唐雎，来源对引语、次序与人物归属多有取舍。应把这些作为所引节目中的文本传统与史源差异。
 
-The page's role is historiographical. It helps keep source variants visible instead of flattening them into the [[ZizhiTongjian|《资治通鉴》]] notice. That makes it adjacent to [[HistoricalDetectiveReasoning]] and [[ChronicleSourceGaps]].
+## Key Characteristics
+- 借人物处境和恩义转折构造可记忆的政治说服场面。
+- 游说把私人关系、庭前接近机会与跨国力量计算连接起来。
+- 与《史记》《资治通鉴》的异文可改变事件顺序、动机和责任归属。
+- 对王权、将相及外交的叙事包含有用机制，也需对年代与细节存疑。
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] returns to the same variant. The host says [[Zhanguoce|《战国策》]] appears to treat the [[NieZheng|聂政]] killing of [[XiaLei|侠累]] and [[YanZhongzi|严遂]]'s later killing of [[HanAihou|韩哀侯]] as one event, while [[Shiji|《史记》]] and [[ZizhiTongjian|《资治通鉴》]] keep them apart.
+## Evidence
+- **恩义与关系叙事：** 豫让“士为知己者死”的《战国策》说法与《史记》的国士受遇解释互为不同表述；苏秦游说秦失利、衣破钱尽而家人冷待，与后来衣锦返乡的前倨后恭形成对比。[[zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik]] [[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] 孟尝君面对与妻有私的门客，放其至卫以缓和内宅风险并后来用于劝卫勿伐齐；此情节可能经叙事润色，不等于所有门客风险皆可转化。[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] 卫国使者为魏惠王奔走三年却不得接见，武夏借秦魏关系作类比提醒魏王：不可忽略替自己办事者；这与卫嗣君索还逃犯的故事并列，不是卫嗣君本人接见该使者。[[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]]
+- **游说与战略算计：** 苏秦读书的《太公阴符之谋》与《史记》“周书阴符”有书名差异，所谓与《六韬》关联仅为推测；张仪的 311 BCE 巡说行程由节目参照《战国策》《史记》估算，后续秦武王继位后的赴魏、借齐攻魏再劝齐撤军被节目置于 310 BCE，而非早期《通鉴》错置的 322 BCE；里程并非原文直接记载。[[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] 韩宣惠王并立两相故事警惕双首长争权，但原文未明确支持《通鉴》所置 321 BCE 年份，单一权臣亦可危险。[[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] 白起伊阙解释在范雎问答中重视地形、敌方结盟裂缝，芒卯故事有道德歧义；庄辛对楚顷襄王的“亡羊补牢”是战后进谏与接受劝告的叙事。[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] 节目称姚贾原为赵使，李斯在赵散布其借出使谋私的传言使其被逐，随后又荐他入秦；秦王授财物和名分后，他以贿赂与游说瓦解赵韩魏楚合纵。韩非后来攻击其门吏出身与旧盗案，不能倒写为韩非使其在赵失位。[[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] 唐雎与安陵君故事具有强文学性，但年龄、安陵时序和荆轲事后秦廷安保使其真实性待核。[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]]
+- **对读时的断裂：** 聂政刺侠累一事，《战国策》转述让侠累与韩哀侯同场被刺，而另一节目称它可能把严遂后杀韩哀侯与刺侠累并作一事；《史记》《通鉴》分叙，不把两个解释叠成一个已证事件。[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] 田忌事《通鉴》写“欲行事”，《史记》《战国策》写“欲为大事”，《通鉴》也略去一段齐威王前对峙。[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] 上党冯亭在《战国策》有拒赵奖、归韩的版本，与后随赵括死长平的传统不能合并。[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]]
+- **材料的边界：** 赵奢可能曾为燕上谷守只是节目依《战国策》作的重建，不能写成可靠履历。[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] 信陵君管城、苏高和安陵君故事为《通鉴》采自《魏策四》的游说义务场景；这说明史书选材，不保证对话逐字发生。[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] 触龙与赵威后围绕长安君赴齐为质的说辞，先从缓步入见、健康与幼子谈起，再转向对子女长远处境的关切；该期停在说服中途，不能据此声称质子已成行。[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]]
 
-[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] adds a source-variant note around [[TianJi|田忌]]'s fall. The episode says [[ZizhiTongjian|《资治通鉴》]] uses "欲行事," while Shiji and Zhanguo Ce use "欲为大事," and also says Zizhi Tongjian omits a Zhanguo Ce confrontation scene before [[QiWeiwang|齐威王]]. The wiki records this as variant texture around the [[TreasonAccusationTrap|treason accusation]] rather than harmonizing all versions.
+## Qualifications
+- 引文和事件年份来自已登记播客 Source Notes，而非原典全书版本校对；对聂政、田忌、冯亭及唐雎等异文保留分歧。[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] [[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] [[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] [[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]]
+- 同一节目兼论白起、芒卯或苏秦并不构成《战国策》全书性质的统计结论；“亡羊补牢”等名句亦需区分文本流传与史实。[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]]
 
-[[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]] cites Zhanguo Ce for the label 《太公阴符之谋》 in [[SuQin|苏秦]]'s study story. The episode compares that label with [[Shiji|《史记》]]'s 《周书阴符》 and says the possible [[Liutao|《六韬》]] connection is less convincing for explaining Su Qin's [[ChuaimoTechnique|揣摩]].
+- 触龙围绕[[ChangAnJunZhao]]安全说服威后，可用[[EmotionalDeescalationPersuasion]]读其文本结构，但不能证明逐字发生。[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] 苏秦失意后的[[FailureDrivenSelfStudy]]与《[[YinfuJing]]》书名异文也不等于普遍逆袭规律。[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] [[zizhi-tongjian-zhouji-30-suqin-de-kaigua-rensheng-lkmn-fruukdxgkddx7zb4lc3o9bw]]
+- 韩宣惠王两相故事涉及[[MiuLiu]]、[[GongzhongHan]]和[[GongshuHan]]；[[ChronicleChronologyDrift]]提醒所置年份未由原故事确认。张仪又称[[ZhangYiStrategist]]，[[QinWuwang]]继位与[[QiXuanWang]]时代次序须对读。[[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] [[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] 管城叙事关乎[[Xinlingjun]]，后世注家[[HuSanxing]]不是亲历人。[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]]
+- 姚贾遭[[HanFei]]和[[LiSi]]攻讦，其使命是破[[HezongAlliance]]；聂政案另涉[[HanGui]]，不同版本不可合并。[[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-2-lmnqfjmydygqnfec6xhzpixralvi]] 唐雎布衣之怒属于[[ClothCladAngerPersuasion]]和[[FaceSlappingReversalNarrative]]的修辞，不能证明近身威胁秦王。[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]]
+- [[ZouJi]]谗田忌的[[QiState]]朝廷与[[QinState]]外交场景是故事背景；赵奢在[[ZhaoState]]治税涉及[[Pingyuanjun]]和[[EliteFiscalLawCompliance]]，燕国履历仍存疑。[[zizhi-tongjian-zhouji-21-zouji-xia-yinzhao-tianji-guowai-binan-lkvmjoxolgfgw-ig7ir-ngvjifij]] [[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] [[Shangdang]]冯亭异文与楚国的[[StrategicDepthDefense]]是不同史事，不能合并成说客技法。[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] [[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]]
 
-[[zizhi-tongjian-zhouji-33-lishi-diyi-shuangwen-nanzhujiao-suqin-lvebjyhvzctjgaevwwoddpvg9nr0]] uses Zhanguo Ce for the detailed low-point before Su Qin's return. In the episode's summary, Su Qin fails repeatedly with [[YingSi|秦惠文王]], spends his money, wears out his fine clothing, returns poor and ashamed, and is ignored by his wife, sister-in-law, and parents. This provides the underside of the later [[Shiji|《史记》]] homecoming and grounds [[QianjuHougongReversal|前倨后恭]] in a before/after contrast.
+## What Changed
+- 从来源逐期追记重组为游说机制、恩义叙事和史源异文三类用途。
+- 将细节生动的故事保留为有条件的引述，不以整齐的编年顺序强行调和。
 
-[[zizhi-tongjian-zhouji-36-weisijun-de-diwang-zhishu-lt5cpdm9yqdj4erwykd0kubfpucz]] adds a Wey-Wei supplement. A [[WeyState|卫国]] envoy works for [[LiangHuiWang|魏惠王 / 梁惠王]] for three years without an audience; [[WuxiaWarringStates|武夏]] then uses Wei's need to attend to [[QinState|秦国]] as an analogy to make the neglected envoy visible. The page keeps this as another example of Zhanguo Ce's interest in persuasion scenes that turn minor access problems into ruler-statecraft lessons.
-
-[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds another persuasion-and-placement story. A retainer has an affair with [[Mengchangjun|孟尝君 / 田文]]'s wife; Mengchang Jun avoids immediate punishment, later sends him to [[WeyState|卫国]], and the retainer eventually persuades Wey's ruler not to attack [[QiState|齐国]]. The wiki records this as [[RetainerRiskConversion|门客风险转化]] while keeping the episode's caution that the Wey campaign may be narratively embellished.
-
-[[zizhi-tongjian-zhouji-44-yi-ge-gongsi-weishenme-buneng-you-liang-wei-ceo-lsz0xk6-0wwznkc62k-xkoxgz-r]] adds the [[HanXuanhuiwang|韩宣惠王]] joint-chief-minister story. The host says direct reading of Zhanguo Ce does not reveal why [[SimaGuang|司马光]] placed it in the 321 BCE Zhou Xian Wang frame, so the wiki keeps the story as a selected governance lesson about [[DualExecutivePowerRisk|双首长权力风险]] rather than a chronology anchor.
-
-[[zizhi-tongjian-zhouji-55-zhangyi-tongshi-guiren-qinhuiwang-lsclfbwn06fgzooipf5up9sdkedy]] cites Zhanguo Ce alongside [[ZizhiTongjian|《资治通鉴》]] and [[Shiji|《史记》]] for Zhang Yi's 311 BCE circuit and final Wei/Qi maneuver. The episode uses that comparison to keep the story's strategic mechanism while treating Zhouji 55 as the cleaner post-Qin-Huiwen-Wang placement.
-
-[[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] uses Zhanguo Ce in two ways. It supplies the [[FanJu|范雎]] dialogue in which [[BaiQi|白起]] explains the [[YiqueBattle|伊阙之战]], and it supplies story material around [[MangMao|芒卯]] that the host treats as persuasive but morally ambiguous rather than as straightforward biography.
-
-[[zizhi-tongjian-zhouji-82-daqin-de-hewuqi-baiqi-laile-lo0w8mifkijhzmx7fdwcimmv7ade]] uses Zhanguo Ce for [[ZhuangXin|庄辛]]'s remonstrance to [[MiHeng|楚顷襄王]]. The episode takes the "亡羊补牢" story as a post-catastrophe recovery frame after [[BaiQi|白起]] attacks Chu, making Zhanguo Ce a source not only for strategist persuasion but also for idiom reception and delayed ruler correction.
-
-[[zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq]] cites Zhanguo Ce for the source-limited background that [[ZhaoShe|赵奢]] may have served in [[YanState|燕国]] as 上谷守 before returning to [[ZhaoState|赵国]] as a tax official. The episode uses the material cautiously: it helps explain Zhao She's soldierly tax-enforcement style, but does not turn the sparse notice into a fully certain early biography.
-
-[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] draws on the famous [[ChuLong|触龙]] and [[ZhaoWeihou|赵威后]] persuasion scene. In the wiki, that makes Zhanguo Ce a source not only for adversarial strategist speech, but also for gradual emotional access: bodily weakness, family concern, and the future-security of children become the path into a blocked state decision.
-
-[[zizhi-tongjian-zhouji-93-zai-mengli-cangzhe-toutian-gaiming-2-lrlulw0b6v0fb2xpr2i5ifem1h4n]] uses Zhanguo Ce as a variant around [[FengTing|冯亭]] after the [[Shangdang|上党]] offer. The episode records one tradition in which Feng Ting later follows [[ZhaoKuo|赵括]] and dies at [[ChangpingBattle|长平之战]], but says Zhanguo Ce instead has Feng Ting reject Zhao's reward and return to Han. This keeps the Feng Ting page from turning a source-variant afterlife into a single settled biography.
-
-[[zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck]] uses Zhanguo Ce for the [[SuGao|苏高]], [[AnlingJun|安陵君]], and [[GuanchengWarringStates|管城]] story. The episode says [[ZizhiTongjian|《资治通鉴》]] carries the account from 《战国策·魏策四》, making this another case where a persuasion-and-duty scene is preserved inside the chronicle sequence rather than treated as neutral annalistic notice.
-
-[[zizhi-tongjian-qinji-112-1-yaojia-shi-ruhe-ping-yizhangzui-po-siguo-hezong-lthw0fvvinmf6ghxpqut60agsueg]] uses Zhanguo Ce for the [[YaoJia|姚贾]] story. The episode draws from it for Han Fei's attack on Yao Jia's low origin and past record, Yao Jia's Zhao mission, his expulsion after Li Si's rumors, and his Qin-backed disruption of a Zhao-Han-Wei-Chu hezong plan. In this wiki branch, Zhanguo Ce again supplies a persuasion scene where character attack, court suspicion, and interstate strategy are inseparable.
-
-[[zizhi-tongjian-qinji-117-1-papa-dalian-lishishang-shuangwen-de-kaishan-bizu-lr0h-kfeguvatattnj-mz8fgvnc]] adds the [[TangJuEnvoy|唐雎]] and [[AnlingJun|安陵君]] story. The episode values the scene's literary power while also treating it as evidence that must be checked: Tang Ju's reported age, Anling's chronology, and post-[[JingKe|荆轲]] Qin security all make the story better handled as a rhetorically charged historical anecdote than as a simple transcript.
-
-## Connections
-- [[NieZheng|聂政]], [[XiaLei|侠累]], and [[HanAihou|韩哀侯]] - variant story branch.
-- [[YuRang|豫让]] and [[RetainerReciprocityEthic]] - Zhouji 04 "士为知己者死" branch.
-- [[ZizhiTongjian|《资治通鉴》]] - chronicle frame being supplemented or contrasted.
-- [[HistoricalDetectiveReasoning]] and [[ChronicleSourceGaps]] - source-reading concepts.
-- [[YanZhongzi|严遂]], [[HanGui|韩廆]], and [[Shiji|《史记》]] - later variant-comparison branch.
-- [[TianJi|田忌]], [[ZouJi|成侯邹忌]], [[QiWeiwang|齐威王]], and [[TreasonAccusationTrap]] - Zhouji 21 accusation wording and confrontation-variant branch.
-- [[SuQin|苏秦]], [[YinfuJing|《阴符》]], [[Liutao|《六韬》]], and [[ChuaimoTechnique|揣摩]] - Zhouji 30 text-version branch.
-- [[QianjuHougongReversal|前倨后恭]], [[YingSi|秦惠文王]], and [[FailureDrivenSelfStudy|失败后的自学翻身]] - Zhouji 33 failed-lobbying and family-humiliation branch.
-- [[WuxiaWarringStates|武夏]], [[WeyState|卫国]], [[LiangHuiWang|魏惠王 / 梁惠王]], and [[QinState|秦国]] - Zhouji 36 neglected-envoy and great-power analogy branch.
-- [[HanXuanhuiwang|韩宣惠王]], [[MiuLiu|谬刘]], [[GongzhongHan|公众]], [[GongshuHan|公叔]], and [[DualExecutivePowerRisk|双首长权力风险]] - Zhouji 44 dual-minister warning branch.
-- [[ZhangYiStrategist|张仪]], [[QinWuwang|秦武王]], [[QiXuanWang|齐宣王]], and [[ChronicleChronologyDrift|编年错位]] - Zhouji 55 source comparison around final Zhang Yi branch.
-- [[BaiQi|白起]], [[FanJu|范雎]], [[YiqueBattle|伊阙之战]], and [[MangMao|芒卯]] - Zhouji 67 military explanation and ambiguous persuader-story material.
-- [[ZhuangXin|庄辛]], [[MiHeng|楚顷襄王]], and [[StrategicDepthDefense|战略纵深防御]] - Zhouji 82 "亡羊补牢" remonstrance and Chu recovery branch.
-- [[ZhaoShe|赵奢]], [[YanState|燕国]], [[Pingyuanjun|平原君]], and [[EliteFiscalLawCompliance|贵族税法同遵]] - Zhouji 86 Zhao She background and fiscal-law persuasion branch.
-- [[ChuLong|触龙]], [[ZhaoWeihou|赵威后]], [[ChangAnJunZhao|长安君]], and [[EmotionalDeescalationPersuasion|情绪降温式说服]] - Zhouji 91 gentle-access persuasion branch.
-- [[FengTing|冯亭]], [[Shangdang|上党]], [[ZhaoKuo|赵括]], and [[ChangpingBattle|长平之战]] - Zhouji 93 part 2 variant around Feng Ting's later fate.
-- [[SuGao|苏高]], [[AnlingJun|安陵君]], [[GuanchengWarringStates|管城]], [[Xinlingjun|信陵君]], and [[HuSanxing|胡三省]] - Qinji 103-1 Zhanguo Ce Wei-policy story as carried into Zizhi Tongjian and later commentary.
-- [[YaoJia|姚贾]], [[HanFei|韩非]], [[LiSi|李斯]], and [[HezongAlliance|合纵]] - Qinji 112-1 persuasion, character attack, and anti-coalition story.
-- [[TangJuEnvoy|唐雎]], [[ClothCladAngerPersuasion|布衣之怒]], [[FaceSlappingReversalNarrative|打脸反杀叙事]], and [[HistoricalDetectiveReasoning|historical detective reasoning]] - Qinji 117-1 Tang Ju story and reliability caution.
+## Relationships
+- [[ZizhiTongjian]] - 采用并重新编排若干《战国策》故事的编年文本。
+- [[Shiji]] - 反复提供人物叙事和聂政等事不同版本。
+- [[YuRang]] - 士为知己者死语句所系复仇人物。
+- [[RetainerReciprocityEthic]] - 豫让故事把受遇程度和报答义务联系。
+- [[NieZheng]] - 刺侠累事件在不同史源的合并/分叙待辨。
+- [[XiaLei]] - 聂政刺杀的主要目标。
+- [[HanAihou]] - 在部分《战国策》版本与侠累同场遇害。
+- [[YanZhongzi]] - 另一叙法中后续韩哀侯之死的相关人物。
+- [[HistoricalDetectiveReasoning]] - 对材料冲突需要比较叙述而非择一顺读。
+- [[ChronicleSourceGaps]] - 编年史省略背景时此书提供另一场景但并非自动解答。
+- [[TianJi]] - “欲行事”与“欲为大事”的异文关联人。
+- [[TreasonAccusationTrap]] - 田忌被谗故事展示身份指控怎样改变君臣信任。
+- [[QiWeiwang]] - 田忌事件在不同版本有无当庭冲突的君主。
+- [[SuQin]] - 阴符书名异文与前倨后恭故事的说客。
+- [[Liutao]] - 苏秦阴符书名可能关联之书，仅作推测。
+- [[ChuaimoTechnique]] - 苏秦学习揣摩处境与人心的游说方法。
+- [[QianjuHougongReversal]] - 苏秦家人的前后态度反转形成故事张力。
+- [[YingSi]] - 苏秦早年求见失败的秦惠文王。
+- [[WeyState]] - 门客后期劝说与使者求见类比所涉卫国。
+- [[WuxiaWarringStates]] - 用魏对秦的战略需要比拟被怠慢使者。
+- [[LiangHuiWang]] - 三年未见卫国使者的魏王。
+- [[Mengchangjun]] - 遣与妻有私门客出使的故事主角。
+- [[RetainerRiskConversion]] - 孟尝君故事展示而非证明普遍有效的转化策略。
+- [[HanXuanhuiwang]] - 并立相位故事中的君主。
+- [[DualExecutivePowerRisk]] - 两相争权的风险，仍需与单相专权对照。
+- [[SimaGuang]] - 选入《通鉴》并赋予编年位置的编者。
+- [[ZhangYi]] - 被节目跨史源对照的外交游说者。
+- [[FanJu]] - 白起伊阙解释的问答对象。
+- [[BaiQi]] - 伊阙军事叙事与楚国战后进谏背景的将领。
+- [[YiqueBattle]] - 白起解释如何利用韩魏联盟裂痕的战役。
+- [[MangMao]] - 劝说故事中的道德歧义人物。
+- [[ZhuangXin]] - 借亡羊补牢向楚王进谏者。
+- [[MiHeng]] - 此处专指楚顷襄王的既有页面，而非晚汉同名者。
+- [[ZhaoShe]] - 燕上谷守履历仅是节目对材料的推断。
+- [[YanState]] - 赵奢可能早年出仕的地区，不作定论。
+- [[ChuLong]] - 以亲子未来利益说服赵威后的人物。
+- [[ZhaoWeihou]] - 触龙说辞针对的摄政者。
+- [[FengTing]] - 归韩与长平身死为相冲的文本支线。
+- [[ZhaoKuo]] - 冯亭另一传统中的长平关联人。
+- [[ChangpingBattle]] - 冯亭归宿版本冲突发生的战役背景。
+- [[SuGao]] - 信陵君与安陵君管城故事中的人物。
+- [[AnlingJun]] - 管城及唐雎两段游说叙事所涉封君。
+- [[GuanchengWarringStates]] - 《魏策四》故事的空间节点。
+- [[YaoJia]] - 应对韩非攻击并执行破合纵外交的秦臣。
+- [[TangJuEnvoy]] - 文学力量与史实可信度需分开的使秦故事。
+- [[JingKe]] - 用来质疑唐雎故事中秦廷近身安保情节的前案。
