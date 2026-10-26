@@ -2,36 +2,44 @@
 title: "Financial Operations Resilience"
 type: concept
 tags: [finance, operations, resilience, banking]
-sources: [tsr-s5-ronconway-v5-tsr-s5-ronconway-v5, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, socialradarsseason2-dimitri-final]
+sources:
+  - tsr-s5-ronconway-v5-tsr-s5-ronconway-v5
+  - tsr-s4-gusto-v3-tsr-s4-gusto-v3
+  - tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128
+  - socialradarsseason2-dimitri-final
+knowledge_schema: synthesis-v1
 last_updated: 2026-07-25
 ---
 
 # Financial Operations Resilience
 
-Financial operations resilience is a company's ability to keep making payroll, collecting funds, sending payments, and reconciling accounts when a banking partner or payment workflow fails. In [[socialradarsseason2-dimitri-final]], [[DimitriDadiomov]] uses the [[SiliconValleyBank]] crisis to argue that companies need resilience in financial operations, not only in technology or team structure.
+## Definition
+Financial operations resilience is the ability to maintain account access, incoming collections, outgoing payments and payroll execution, visibility and reconciliation when a banking or interface dependency fails.
 
-The source's strongest distinction is between having a theoretical backup and having an operational backup. Companies that had multiple bank accounts already connected to [[ModernTreasury]] could respond differently from companies that had opened backup accounts but had not finished setup. The episode treats bank diversification as a live operating system, not a board-slide risk item.
-
-[[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds a narrower online-access version through [[BankingDDoSResilience]]. The 2011-2013 Iran-aligned attacks did not need to break core payment rails to create disruption: making retail and business banking websites intermittently unavailable still affected customer access and trust.
-
-[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the payroll-vendor version through [[Gusto]]. During the March 2023 [[SiliconValleyBank]] crisis, the source says almost 10,000 Gusto customer companies banked with SVB and that Gusto put substantial company capital at risk so affected employees could still be paid.
-
-[[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]] adds the public-policy side of the same resilience problem. [[RonConway]] argues that uninsured deposits at [[SiliconValleyBank]] were not only venture balances but operating cash for payroll and small businesses, turning a company-level continuity problem into [[StartupPayrollSystemicRisk]] and a [[DepositGuaranteeCrisisResponse]] argument.
+## Current Synthesis
+Three participant interviews describe different roles in the March 2023 SVB crisis—not three independent bank failures. A separate cyber episode covers website availability, which is narrower than payment settlement.
 
 ## Key Claims
-- One bank relationship can become an operational single point of failure even for companies that are otherwise technically resilient.
-- Backup accounts help only when payment flows, approvals, reconciliation, and access are actually configured before the crisis.
-- Financial operations resilience includes bank introductions, status visibility, wire and ACH state, reporting, international payments, and payroll readiness.
-- Diversified banking can reduce the ethical pressure to pull all funds during a bank run because the company can continue operating without treating one institution as all-or-nothing.
-- Online banking availability is a narrower but still material resilience layer because customers may experience website access failure as financial-service disruption.
-- Payroll vendors can become resilience infrastructure when their own risk tolerance, payment processors, and crisis decisions determine whether customer employees get paid.
-- When enough companies rely on one bank for operating cash, financial-operations fragility can become a public-policy problem rather than only a CFO planning failure.
+- A second bank account only becomes a working fallback when connections, approvals, flows and reconciliation are configured and tested in advance.
+- Cross-bank visibility into ACH, wires and reporting makes time-critical decisions actionable.
+- Payroll intermediaries can absorb operational risk if they have redundant payment routes and enough resources to keep employees paid.
+- Concentrated operating deposits can turn firm-level payroll continuity into a policy tradeoff between contagion and moral hazard.
+- Customer-facing bank website outages disrupt access without necessarily disabling underlying settlement rails.
 
-## Connections
-- [[ModernTreasury]], [[DimitriDadiomov]], [[SiliconValleyBank]], and [[SignatureBank]] - source cases.
-- [[Gusto]], [[JoshReeves]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-continuity case added by the Gusto episode.
-- [[MoneyMovementInfrastructure]] - operational layer that can support resilience.
-- [[AcceleratedBankRuns]] - risk pattern making resilience more urgent.
-- [[RonConway]], [[StartupPayrollSystemicRisk]], [[DepositGuaranteeCrisisResponse]], and [[CivicRelationshipsAsCrisisInfrastructure]] - public-policy version added by the Season Five Conway episode.
-- [[TrustAsBusinessAsset]] - trust can depend on making critical financial operations reliable under stress.
-- [[BankingDDoSResilience]] and [[IranLinkedCyberOperations]] - bank website-availability branch added by Marketplace Tech.
+## Evidence
+- [[socialradarsseason2-dimitri-final]]'s [[DimitriDadiomov]] says [[ModernTreasury]] customers with multiple connected banks could check or redirect workflows during [[SiliconValleyBank]]'s March 2023 shutdown, unlike firms with paper backup accounts. His [[LendingHome]] origin case handled 50,000–70,000 monthly ACH and wire payments; human review, statements and reconciliation remain necessary in [[MoneyMovementInfrastructure]].
+- [[socialradarsseason2-dimitri-final]] also describes cross-bank ACH/wire state, reporting and international payments in the SVB and [[SignatureBank]] weekend, including uncertainty around pending transfers. Having a working second bank reduced the all-or-nothing pressure to withdraw every deposit in a run. Connected visibility does not itself guarantee settlement; [[AcceleratedBankRuns]] compressed the response window.
+- [[tsr-s4-gusto-v3-tsr-s4-gusto-v3]]'s [[JoshReeves]], [[EddieKim]] and [[TomerLondon]] say nearly 10,000 [[Gusto]] customer companies banked with SVB, and Gusto risked substantial company capital to maintain payroll. London mentions multiple processors; [[PayrollInfrastructureTrust]] rests on compliance, privacy and continuity, not a breakable beta; this is [[TrustAsBusinessAsset|trust earned by delivery]] rather than a software uptime slogan.
+- [[tsr-s5-ronconway-v5-tsr-s5-ronconway-v5]]'s [[RonConway]] describes a weekend campaign for deposit guarantees, citing payroll exposure beyond venture firms; he recounts contacts with [[WallyAdeyemo]], [[NancyPelosi]], [[BarackObama]], [[KamalaHarris]] and [[YCombinator]]. This is a participant account of [[StartupPayrollSystemicRisk]] and [[DepositGuaranteeCrisisResponse]], not proof that his advocacy alone produced the outcome; policymakers weighed [[MoralHazardContagionTradeoff]].
+- [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] reports [[RafePilling]] of [[Sophos]] describing 2011–2013 Iran-aligned DDoS against nearly 50 US financial institutions: retail and business banking websites were intermittently inaccessible. [[BankingDDoSResilience]] concerns front-end traffic and customer access, not a demonstrated ACH or core-ledger failure.
+
+## Counterevidence & Qualifications
+- SVB founder/operator/investor testimony is one crisis seen from different roles; Conway's contacts and causal credit remain his recollection. Diversification cannot avert all correlated failures. [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] is chiefly a cyber-risk interview and its DDoS example cannot establish settlement outage or current attack frequency.
+
+## What Changed
+- Distinguished pretested redundancy, incident visibility, vendor risk, public response and narrow online-access failures.
+
+## Related Concepts
+- [[MoneyMovementInfrastructure]] - ACH and wire integration is the substrate of failover.
+- [[CivicRelationshipsAsCrisisInfrastructure]] - emergency policy advocacy differs from company-controlled backup paths.
+- [[IranLinkedCyberOperations]] - website denial is one cyber tactic, not the SVB bank-failure mechanism.
