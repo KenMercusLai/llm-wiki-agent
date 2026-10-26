@@ -2,47 +2,64 @@
 title: "长安 / Chang'an (Han capital)"
 type: entity
 tags: [city, han, capital, china]
-sources: [zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh, zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk, zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u, zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3, zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet, zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis, zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5, zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz, zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]
+sources:
+  - zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh
+  - zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk
+  - zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u
+  - zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3
+  - zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet
+  - zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis
+  - zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5
+  - zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz
+  - zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # 长安 / Chang'an (Han capital)
 
-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] adds the late-Han forced-relocation prelude before the later assassination and Li-Guo collapse branches. [[DongZhuo|董卓]] argues that Chang'an is easier to defend than [[LuoyangLateHan|洛阳]], closer to his western base, and supported by [[GuanzhongRegion|关中]] terrain and resources.
+## Overview
+长安作为汉都，在这些史事节目中既是西汉以关中地形与供给建立政权的选择，也是东汉末年被强迁、军阀争夺并最终失去粮食与治安的都城。早期战略优势不等于晚期可保护百姓。
 
-The source also makes Chang'an's late-Han return morally inverted. What was a defensible capital base in early-Han founding memory becomes the destination of [[CoerciveCapitalRelocation|强制迁都]] when the move is enforced by military threat, punished court opposition, confiscations, and civilian displacement.
+## Current Profile
+[[LouJing|楼敬]]与[[ZhangLiang|张良]]劝[[LiuBang|刘邦]]舍洛阳而用关中，是建国的都城选择；[[DongZhuo|董卓]]以相似防御理由强迁[[EmperorXianOfHan|汉献帝]]，却伴随武力、没收与人口迁徙。董卓死后城内短暂庆祝迅速转向李傕郭汜夺城、任官渠道被军队占有以及赈灾失效，最终皇帝离去、城中饥乱。
 
-[[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] adds the capital's reaction immediately after [[DongZhuo|董卓]] is killed. The episode shows Chang'an as a public stage: soldiers accept the edict-limited punishment, residents celebrate in the streets, Dong Zhuo's family is killed, and his corpse becomes a [[PublicCorpseHumiliation|公开尸体羞辱]] spectacle.
+## Key Characteristics
+- 西汉建都依托关中屏障、田地、河运及巴蜀等资源，而不只依托都城象征。
+- 东汉末年的西迁虽援引地理优势，却以胁迫皇室和居民为代价。
+- 董卓之死及其余部反扑使长安成为公共复仇和武力夺城的舞台。
+- 即使仍有朝仪，皇帝成年与内廷密谋也无法扭转军人对官职和安全的支配。
+- 天灾、粮价、军队劫掠与赈济舞弊叠加，致使都城粮食获取崩坏。
+- 皇帝离去后持续逾四十日的无序将“易守”的旧都反转成饥馑与逃散象征。
 
-[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] backfills the entry-point catastrophe before Hanji 967's retrospective analysis. [[LiJueLateHan|李傕]] grows from a desperate [[DongZhuo|董卓]] remnant commander into the leader of a large force approaching Chang'an, then combines with [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and other remnant forces. A mutiny inside [[LyuBu|吕布]]'s side opens the city, and the episode describes the capital's fall through palace fighting, plunder, corpses, and the exposed young [[EmperorXianOfHan|汉献帝]].
+## Evidence
+- **建都资源：** [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk]] 记楼敬、张良向刘邦主张关中山河与[[HanguPass|函谷关]]屏障、沃土、[[BaShu|巴蜀]]、北方牧产及黄河渭河运输，反对只凭周都[[Luoyi|洛邑]]的中心象征定都；节目称刘邦当日西行并封赏楼敬。
+- **强迁代价：** [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh]] 记董卓认为长安比[[LuoyangLateHan|洛阳]]易守且近凉州根基，[[YangBiao|杨彪]]等则忧祖庙陵寝与人口损失；反对者受惩、财产没收、百姓被杀掳并强迁，使[[CoerciveCapitalRelocation|强制迁都]]不同于刘邦的建都抉择。
+- **刺杀与夺城：** [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk]] 记董卓在192年被杀后城中庆祝、按诏行刑、家属被杀与尸体示众。[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]] 和 [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]] 接续[[JiaXu|贾诩]]劝[[LiJueLateHan|李傕]]等不散而攻，合[[GuoSiLateHan|郭汜]]、[[FanChouLateHan|樊稠]]等兵力；吕布部内应开城，宫廷交战与劫掠。[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]] 援引[[HouHanshu|《后汉书》]]所载尸横街巷与死者以万计，须视为节目引史而非新的人口核算。
+- **仪式与名器：** [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet]] 记194年汉献帝成年、仍可为[[WangMeirenLateHan|王美人]]行礼，但[[ZhongShaoLateHan|种劭]]、[[MaYuLateHan|马宇]]、[[LiuFanLateHan|刘范]]反李傕的内应计划败露。[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] 记李傕、郭汜、樊稠等获开府授官权，朝廷官职渠道被军势侵占。
+- **赈灾与破坏：** [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]] 记旱灾地震、粮价暴涨及人相食的叙述；汉献帝命[[HouWenLateHan|侯汶]]以官仓米豆作粥，死亡未减后检查发现救济失效/舞弊。[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5]] 记195年三辅在董卓死后仍有人口，却遭军阀劫掠与饥荒；[[LiXianLateHan|李暹]]带皇帝出宫，宫女财物被掠、李傕移金帛入营，宫室官署民舍被焚。
+- **离城后的残局：** [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz]] 记皇帝离去后长安四十余日无统治，强者外逃，弱者困于饥馑，节目引“强者四散，羸者相食”；与早期地形、运力带来的战略优势形成对照，不意味着同一政权及时代的无缝因果链。
 
-[[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] backfills the immediate post-[[DongZhuo|董卓]] catastrophe. After [[JiaXu|贾诩]] advises [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and other remnant commanders not to disband but to counterattack, Chang'an is taken and plundered. The episode cites [[HouHanshu|《后汉书》]] for the scale of corpses, bloodshed, and deaths, making Chang'an the site where survival advice becomes an urban disaster.
+## Qualifications
+- 所有死者数量、人相食与超过四十日的场景均为节目转述史料；不能据此重算城市人口。董卓的可守地形论不为强迁、烧掠提供正当性。
+- 西汉刘邦建都与东汉末汉献帝迁徙相隔时代，关中资源并不自动产生有效供给；粮食危机同时有旱震、战争抽空农业劳力、分配和军人夺取等作用。
+- 194年成年和行礼是形式能力，军阀仍左右实权；贾诩建议的道德后果是节目分析，不等于他直接指挥全部烧掠。
 
-[[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]] adds the 194 CE court-plot setting before the later open Li-Guo devastation. [[EmperorXianOfHan|汉献帝]] formally comes of age in Chang'an and the court can still perform rites for [[WangMeirenLateHan|王美人]], but the same city contains an exposed internal conspiracy by [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] against [[LiJueLateHan|李傕]].
+## What Changed
+- 以战略建都与胁迫迁都的同地对照解释长安的不同政治功能。
+- 将宫廷仪式、夺城、军阀官职与赈济失败放进城市秩序的演变，而非按节目先后堆叠。
 
-长安 / Chang'an enters the wiki as the early [[WesternHanDynasty|西汉]] capital chosen in [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]]. The page uses the `ChangAnHanCapital` key to avoid confusion with [[ChangAnTang|唐代长安]], [[ChangAnJunZhao|长安君]], and [[ChanganTown|长安镇]].
-
-In the episode, Chang'an is not introduced as a cultural-symbolic capital first. It is the city that makes [[GuanzhongRegion|关中]] usable as an imperial base after [[LouJing|楼敬]] and [[ZhangLiang|张良]] persuade [[LiuBang|刘邦]] to leave [[Luoyi|洛阳 / 洛邑]]. Its value comes from the surrounding region: protected approaches, fertile land, links to [[BaShu|巴蜀]], northern pastoral supply, and Yellow River / Wei River transport for moving resources and armies.
-
-The source therefore makes Chang'an part of [[StrategicCapitalRelocation|战略性迁都]]. The founding court's move west turns a war-won Qin heartland into a durable Han capital base rather than treating Luoyang's Zhou-centered prestige as sufficient for the new dynasty.
-
-[[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] adds an earlier late-Han famine and relief-corruption layer. Drought, earthquakes, an extreme grain-price spike, and reported cannibalism make [[ChangAnHanCapital|长安]] a capital where natural shock, warlord pressure, and failed distribution combine. [[EmperorXianOfHan|汉献帝]] orders [[HouWenLateHan|侯汶]] to distribute rice-bean gruel from the imperial granary, then audits the output when deaths do not decline.
-
-[[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] adds the earlier late-Han destruction prelude. The source says the Sanfu / [[GuanzhongRegion|关中]] area still had a large population after [[DongZhuo|董卓]] died, but plunder by [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and related forces plus famine ruins ordinary life. After [[LiXianLateHan|李暹]] removes [[EmperorXianOfHan|汉献帝]] from the palace, soldiers seize palace women and goods, Li Jue moves gold and silk to camp, and palaces, offices, and civilian houses are burned.
-
-[[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] adds the late-Han inversion of that capital-security image. After [[EmperorXianOfHan|汉献帝]] leaves, Chang'an falls into more than forty days of unmanaged disorder; the strong flee, the weak remain, and the source's quoted "强者四散，羸者相食" makes the old capital a symbol of order collapse rather than protected abundance.
-
-## Connections
-- [[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]], [[DongZhuo|董卓]], [[EmperorXianOfHan|汉献帝]], [[LuoyangLateHan|洛阳]], [[GuanzhongRegion|关中]], and [[CoerciveCapitalRelocation|强制迁都]] - late-Han forced relocation destination and strategic rationale.
-- [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[DongZhuo|董卓]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], and [[PublicCorpseHumiliation|公开尸体羞辱]] - assassination celebration and corpse-spectacle branch.
-- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]], [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[HouHanshu|《后汉书》]], and [[ExecutorCharacterAdviceRisk]] - first Li-Guo counterattack and plunder layer.
-- [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]], [[LyuBu|吕布]], [[WangYunLateHan|王允]], [[SongYiLateHan|宋翼]], and [[RigidObedienceCrisisFailure]] - breach, palace fighting, and captured-court summons trap.
-- [[zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet|Hanji 973]], [[WangMeirenLateHan|王美人]], [[ZhongShaoLateHan|种劭]], [[MaYuLateHan|马宇]], and [[LiuFanLateHan|刘范]] - 194 CE court rite and failed internal plot.
-- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[HouWenLateHan|侯汶]], [[EmperorXianOfHan|汉献帝]], [[DisasterResponseStateCapacity|Disaster Response State Capacity]], and [[CourtOfficeCapture|朝廷开府任官失序]] - earlier famine, relief fraud, and court-capacity branch.
-- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] - source case.
-- [[LiuBang|刘邦]], [[LouJing|楼敬]], [[ZhangLiang|张良]], and [[WesternHanDynasty|西汉]] - ruler, advisers, and dynasty tied to the capital choice.
-- [[GuanzhongRegion|关中]], [[HanguPass|函谷关]], and [[BaShu|巴蜀]] - strategic setting that makes Chang'an useful.
-- [[Luoyi|洛阳 / 洛邑]] - rejected alternative capital.
-- [[StrategicCapitalRelocation|战略性迁都]] and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - concept frames for the move.
-- [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]], [[LiangzhouWarlordClique|凉州系军阀]], [[FanChouLateHan|樊稠]], [[LiXianLateHan|李暹]], [[WarDisasterCompounding]], and [[FamineEntitlementFailure]] - late-Han plunder, famine, palace seizure, and burning before Hanji 992.
-- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]], [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[GuanzhongRegion|关中]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], and [[FamineEntitlementFailure|Famine Entitlement Failure]] - late-Han capital collapse and starvation branch.
+## Relationships
+- [[WesternHanDynasty]] - 建都的早期朝代；[[LiuBang]] - 采纳楼敬、张良的西迁建议。
+- [[GuanzhongRegion]] - 城市供给与防御的周边基础；[[BaShu]] - 资源腹地；[[Luoyi]] - 初期所舍弃的都城选择。
+- [[DongZhuo]] - 晚汉强迁主导者；[[LuoyangLateHan]] - 晚汉出发地；[[EmperorXianOfHan]] - 被迁与后来离去的君主。
+- [[LiJueLateHan]] 与 [[GuoSiLateHan]] - 攻占与掠夺者；[[JiaXu]] - 劝余部反攻的幕僚。
+- [[WangYunLateHan]] - 董卓之死后的执政者；[[LyuBu]] - 随后失城的军人。
+- [[DisasterResponseStateCapacity]] - 侯汶赈灾暴露的能力边界；[[FamineEntitlementFailure]] - 战祸下获得粮食的崩坏。
+- [[ChangAnTang]] - 不同朝代的同地名；[[ChangAnJunZhao]] 和 [[ChanganTown]] - 名称相似而非本页都城实体。
+- [[StrategicCapitalRelocation]] - 刘邦迁都的建国决策；[[BattlefieldVictoryToFoundingOrder]] - 将秦地战略资源转成西汉政权基础的相邻分析。
+- [[PublicCorpseHumiliation]] - 董卓死后示尸的都城景观；[[ExecutorCharacterAdviceRisk]] - 节目对贾诩建议被李郭执行后果的限定判断。
+- [[CourtOfficeCapture]] - 军人开府对朝廷选官的侵夺；[[LiangzhouWarlordClique]] - 李傕郭汜樊稠联盟破裂的背景。
+- [[RigidObedienceCrisisFailure]] - [[SongYiLateHan]]被动听命的邻接反例，不是城市自身的能动行为。
+- [[WarDisasterCompounding]] - 军事劫掠与旱震饥荒叠加；[[WartimeAgriculturalLaborCollapse]] - 劳力流失加剧取粮失败的节目解释。
+- [[ChangAnHanCapital]] - 本页的同一都城实体键；与唐长安和其他同名地点有意区分。
