@@ -2,50 +2,47 @@
 title: "Agent Self-Evolution"
 type: concept
 tags: [agents, learning, memory, workflow]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd
+  - vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1
+  - ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz
+  - vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1
+  - e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di
+  - 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
-
 # Agent Self-Evolution
 
-Agent self-evolution is the episode's practical frame for agents improving through memory, saved workflows, skills, and model-harness feedback loops. In [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]], [[HermesAgent]] turns successful work traces into reusable [[AISkills]], while [[MiniMax]] describes model plus harness doing most of a model-development pipeline with humans keeping judgment, taste, and direction.
+## Definition
+Agent self-evolution covers improvements carried into later work through external memory, reusable skills, harness changes or model post-training. These are distinct mechanisms: saving a workflow does not automatically change model weights, and one feedback cycle is not [[RecursiveSelfImprovement|stable recursive self-improvement]].
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] reinforces the practical, non-mystical version through [[Dongxu]]. Hermes is valued because it reflects on work and saves reusable skill-like procedures; this makes self-evolution a way to reduce repeated prompting and improve future tasks inside [[TokenEfficientAgentWorkflow]], not a claim that the agent has independent consciousness.
-
-[[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] raises the same theme from workflow memory into [[RecursiveSelfImprovement]]. [[Apodex]] splits self-evolution into pretraining data work, post-training diagnosis and recipe generation, and harness improvement. The source's boundary is that one self-improvement loop is not full recursion: without [[AIVerification]], [[AICodingVerification]], and [[ResearchTaste]], the loop can drift or optimize the wrong proxy.
-
-[[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a smaller personal-agent example. [[JustinYan]] lets his [[OpenClaw]]-inspired agent inspect available services and write new skills for itself, which turns self-evolution from a model-training idea into a local product behavior inside an [[AgentHarness]].
-
-[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds a work-habit version. The hosts argue that skills often emerge from repeated small tasks: when the same email, podcast, testing, deployment, or cost-monitoring workflow returns enough times, the agent or user can turn it into a reusable skill and keep refining it.
-
-[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a user-facing interpretation through [[OpenClaw]]. The episode treats self-evolution less as mystical autonomy and more as an agent repeatedly waking, remembering, using feedback, and improving work methods through [[AISkills]].
-
-[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds a model-training version through [[LuoFuli]]. She separates future directions into framework self-evolution, agent self-evolution, human-agent co-evolution, and model-agent mutual adaptation, making self-evolution part of [[AgentPostTraining]] and [[ModelHarnessCoEvolution]] rather than only personal workflow memory.
+## Current Synthesis
+The observable near-term pattern is workflow-level skill accumulation and reflection, with more ambitious model/harness loops described in interviews and research forecasts. Better future-task outcomes, verification, human objectives and permissions determine whether any layer merits the word improvement.
 
 ## Key Claims
-- The source's self-evolution is closer to engineering feedback than fully autonomous self-improvement.
-- [[PersistentAgentMemory]] lets agents preserve what worked, what failed, and what the user prefers.
-- [[AISkills]] compress repeated successful workflows into reusable procedures.
-- [[ModelHarnessCoEvolution]] turns real task execution, tests, deployments, and feedback into signals for both model and harness improvement.
-- Human goals, taste, creativity, and value judgment remain part of the loop rather than disappearing.
-- Self-written skills increase the need for [[AgentPermissionBoundaries]] because the agent can expand its own action surface.
-- Repeated mundane work is a practical source of agent improvement because it exposes stable steps, tools, and acceptance criteria.
-- [[RoutineAgentAutomation]] makes self-evolution visible at the workflow layer: better routines come from observing what keeps recurring and what keeps failing.
-- Scheduled wakeups and feedback loops make self-evolution feel practical to ordinary users because the agent can keep revisiting work instead of waiting for a complete prompt each time.
-- Model self-evolution is a stronger version of the pattern: the model may help construct its own data, training tasks, tests, and harness rather than only remembering a user workflow.
-- Recursive self-improvement needs verification and taste because repeated loops can amplify small errors, weak tests, or shallow objectives.
-- Framework self-evolution needs evaluation systems stronger than today's failure-prevention checks; otherwise the framework may optimize local behavior without improving real tasks.
-- E249 adds that self-evolution should be judged by whether the next task needs less re-teaching and less token waste, not by anthropomorphic behavior inside agent chats.
+- Repeated work can be distilled into reusable skills and memories that reduce re-teaching, without retraining the underlying model.
+- An agent may discover services and draft its own skills, but expanding its action surface requires explicit authorization and tests.
+- Reflecting on successes and failures can update a harness or workflow; effect should be judged on subsequent tasks and token use.
+- Model-level improvement uses data, post-training and framework co-adaptation, which need stronger experimental verification than file-level skill reuse.
+- Autonomous research loops require independent validation and human research taste; optimistic timelines are predictions, not achieved full recursion.
 
-## Connections
-- [[HermesAgent]] and [[Tommy]] — source example of memory becoming skills.
-- [[MiniMax]], [[Adao]], and [[Zeying]] — model-company context for model plus harness doing more of the training workflow.
-- [[PersistentAgentMemory]], [[AISkills]], and [[AgentHarness]] — mechanisms that make the loop practical.
-- [[YouyouAgent]] — adjacent agent-native experiment where an agent pursues a long-running goal.
-- [[HumanJudgmentUnderAI]] — boundary condition that humans still set goals and evaluate outputs.
-- [[OpenClaw]] and [[AgentNativeSoftware]] — personal-agent case where software can add capability to itself.
-- [[RoutineAgentAutomation]] and [[AISkills]] — EP127's repeated-work route to skill accumulation.
-- [[WangJunyu]], [[OpenClaw]], and [[ProactiveAgents]] — Vol. 165's scheduled, memory-based, trainable-agent interpretation.
-- [[Apodex]], [[RecursiveSelfImprovement]], [[DeepResearch]], and [[AIVerification]] — stronger model-training version added by the Silicon Valley 101 source.
-- [[LuoFuli]], [[OpenClaw]], [[OpenCloud]], [[AgentPostTraining]], and [[ModelHarnessCoEvolution]] — framework and model mutual-adaptation version added by episode 138.
-- [[Dongxu]], [[HermesAgent]], [[TokenEfficientAgentWorkflow]], and [[PersistentAgentMemory]] — E249's reflection-to-skill operating case.
+## Evidence
+- **Workflow accumulation:** [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] describes [[JustinYan]] letting a simplified [[OpenClaw]] agent inspect services and draft [[AISkills|skills]], while separating trusted skills from agent-authored ones. [[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] turns recurrent email, podcast, testing and release/cost-monitoring steps into [[RoutineAgentAutomation|repeatable workflows]], not weight updates. [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] has [[WangJunyu]] connect scheduled wakeups, skills and [[PersistentAgentMemory|long-term memory]] to [[ProactiveAgents|proactive help]], without claiming that repeated activation self-trains the model.
+- **Experience and harness:** [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] has [[Tommy]] describe [[HermesAgent]] turning successful traces into skills, while [[MiniMax]] guests [[Adao]] and [[Zeying]] discuss model plus [[AgentHarness|harness]] taking on more of the development workflow under human direction. [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] has [[Dongxu]] judge that mechanism by less repeated prompting and [[TokenEfficientAgentWorkflow|lower wasted token cost]]; the same source says durable memory is unsolved. These are interview/practitioner descriptions, not independent longitudinal measurements.
+- **Model and research loop:** [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] has [[LuoFuli]] separate framework, agent and human–agent co-evolution from [[AgentPostTraining|model adaptation]], with [[OpenCloud]] as an adjacent harness context. [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] has [[Apodex]] divide the effort into data, post-training and harness self-change, supported by [[DeepResearch|search]] and coding. It warns that [[AIVerification|verification]], [[AICodingVerification|executable tests]] and [[ResearchTaste|problem choice]] are not solved by a model merely proposing and running experiments; a first post-training loop in as little as six months is its forecast, not stable recursion.
+
+## Counterevidence & Qualifications
+- Saving a skill or updating a memory file can make an agent seem to learn while the model parameters remain unchanged. Apparent improvement can be due to task selection, extra tokens or a new harness rather than self-updated intelligence.
+- Internal Hermes/MiniMax mechanisms are guest descriptions; longer-lived memory remains an open engineering problem. Self-written skills increase [[AgentPermissionBoundaries|permission risk]].
+- One validated improvement cycle does not prove indefinitely compounding improvement; reward hacking, weak tests and unsupervised goal choice can reverse gains. [[HumanJudgmentUnderAI|Human judgment]] remains necessary.
+
+## What Changed
+- Distinguished external skill/memory, harness revision, model post-training and genuine recursion.
+- Attributed the six-month claim as a possible first loop rather than achieved autonomous improvement.
+
+## Related Concepts
+- [[ModelHarnessCoEvolution]] - Model behavior and scaffold can be revised together but require separate attribution of gains.
+- [[AgentNativeSoftware]] - Self-created skills may expand a product's action surface without making it fully autonomous.
+- [[YouyouAgent]] - A long-running goal experiment is adjacent to, not proof of, learning across tasks.
