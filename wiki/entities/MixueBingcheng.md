@@ -2,39 +2,46 @@
 title: "Mixue Bingcheng"
 type: entity
 tags: [company, tea-drinks, ice-cream, coffee, china, franchising]
-sources: [lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195, 132-xuegao-jianghu-fengtouquan-1-132-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]
+sources:
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195
+  - 132-xuegao-jianghu-fengtouquan-1-132-1
+  - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
+  - vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv
 last_updated: 2026-08-24
+knowledge_schema: synthesis-v1
 ---
 
 # Mixue Bingcheng
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds Mixue through its coffee subsidiary [[LuckyCoffee|幸运咖]]. The source says Lucky Coffee is entering higher-tier city office and industrial-park locations after exceeding 10,000 stores, while also slowing 2026 new-store additions to reduce cannibalization. This extends Mixue from tea, ice cream, and low-price beverage scale into a more explicit office-coffee challenge.
+## Overview
+Mixue Bingcheng is a Chinese tea-drink and low-price soft-serve chain discussed through its franchise supply chain, coffee extensions and category competition. A headline about Starbucks-related OEM rumors does **not** establish a Starbucks–Mixue supply relationship.
 
-Mixue Bingcheng appears in [[132-xuegao-jianghu-fengtouquan-1-132-1]] as the low-price soft-serve counterexample inside China's ice-cream category. The episode says that by store count it may be China's largest ice-cream chain because ice cream was an early important product and the brand now has an enormous tea-drink store network.
+## Current Profile
+The episodes link low price and large-format reach to franchise procurement and self-production, while differentiating the main brand's coffee offerings from [[LuckyCoffee]]'s separate store expansion. Competitive forecasts and contemporary store counts remain attributed.
 
-[[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] adds Mixue as a coffee-market threat from outside coffee-native brands. The episode says Mixue has begun selling coffee through its main brand store network, making it a key case for [[BeverageCategoryConvergence]] and for the operating power of mature tea-drink franchise systems.
+## Key Characteristics
+- Low-price soft serve through a large beverage-store network is not the same category as specialist [[FreshMadeIceCreamRetail|gelato or premium ice cream]].
+- The franchise supply-chain model is portrayed as a key economic and expansion mechanism.
+- Coffee is added through the main brand and Lucky Coffee, with different site strategies.
+- A widely circulated OEM rumor is documented only as a rumor and denial.
 
-[[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]] adds Mixue as a consumer-demand migration and supply-chain case. [[DavidWeng|大卫翁]] contrasts weak luxury and credit-card signals with demand moving toward brands such as Mixue, then uses Mixue's franchise scale, core ingredient self-production, and Southeast Asia focus as evidence that Chinese consumer chains can globalize through operating systems rather than brand slogans alone.
+## Evidence
+- **Soft serve and pricing:** The ice-cream episode treats Mixue as *arguably* China's largest chain by ice-cream-selling store count, because its beverage network sells soft serve, while explicitly refusing to benchmark it as a specialist ice-cream shop like [[YerenXiansheng]] or [[DairyQueen]]. It reports an early roughly 1 RMB offering and a common later 2–3 RMB range, and expects scale to affect price competition. [[132-xuegao-jianghu-fengtouquan-1-132-1]]
+- **Franchise economics and globalization:** [[DavidWeng]] cites consumer movement toward inexpensive brands like Mixue amid weaker luxury/credit-card signals. His annual-report reading emphasizes ingredients made in-house, supply-chain services sold to franchisees rather than just franchise fees, quick store openings/closures as iteration under [[ChineseCorporateGladiatorCompetition]], and Southeast Asian expansion, alongside [[SFHolding]] and [[ThreeLayerScaleEconomies]] and [[GlobalResourceAllocationCompany]] comparisons. These are his interpretations rather than audited financial claims here. [[vol-127-nianbaoji-zhong-de-zhenshi-zhongguo-2025-lqjy2pnfy09zyewj0ljxjuc3gxqv]]
+- **Coffee-market crossings:** The 2026 coffee episode says Mixue's main-brand stores have begun to sell coffee, while [[Guming]] is another tea-chain comparator and coffee-native chains may struggle to add fresh-fruit tea. An August 19, 2026 news episode says subsidiary [[LuckyCoffee]] has passed 10,000 stores, is testing higher-tier office and industrial-park locations after lower-tier saturation, and is slowing 2026 new-store additions to avoid cannibalization; [[LuckinCoffee]]'s dense office footprint and membership system are cited as a defense. The 10,000 count and intentions are that episode's contemporary account. [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]]
+- **Rumor boundary:** A Starbucks China item is titled around “蜜雪冰城代工” talk but records a denial of seriously inaccurate online claims; it does not confirm Mixue produced Starbucks goods or that a [[CoffeeSupplyChainLocalization|supply agreement]] exists. [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]]
 
-[[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]] adds Mixue as a rumor-context page rather than a verified participant. The source title mentions "Mixue Bingcheng OEM" rumors around [[Starbucks]] China, but the transcript excerpt records Starbucks China's denial of seriously inaccurate online information rather than confirming a Mixue role.
+## Qualifications
+Store-count superlatives are qualified, not a census; past prices and the Lucky Coffee count are episode-time numbers. Lucky Coffee's stores are not automatically main-brand stores. A report of Starbucks denial does not itself resolve every supply-chain detail, and the headline is not evidence of partnership. [[132-xuegao-jianghu-fengtouquan-1-132-1]] [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]]
 
-## Source Position
-- The episode says Mixue's early ice cream was once around 1 RMB and is now commonly around 2-3 RMB.
-- The hosts do not treat Mixue as the main specialist ice-cream case because consumers mostly understand it today as a tea-drink chain.
-- Mixue is used to separate low-price soft serve from premium or gelato-style store-made ice cream.
-- The source names Mixue as one of the larger players that could influence future ice-cream price competition.
-- Episode 141 adds that Mixue's tea-drink network may make coffee easier to add than tea is for coffee-native brands, because standardized coffee can fit existing store traffic and supply-chain routines.
-- Vol.127 adds that Mixue's revenue model is mainly supply-chain solutions to franchisees rather than franchise fees alone.
-- Vol.127 treats Mixue's store openings and closures as evidence of fast iteration under [[ChineseCorporateGladiatorCompetition]].
-- The 声动早咖啡 Starbucks source should not be read as proving Mixue supplied Starbucks; it only makes Mixue part of the public rumor context.
-- The 2026-08-19 声动早咖啡 update treats Lucky Coffee's move into higher-tier business districts as a growth search after low-tier-city site saturation.
+## What Changed
+- Separated ice cream, franchise supply chain, the two coffee channels and unsupported OEM rumor.
+- Retained date and attribution constraints on price and scale claims.
 
-## Connections
-- [[YerenXiansheng]] and [[DairyQueen]] - store-based comparison cases.
-- [[LowPriceBrandPerception]] - existing concept relevant to low-price credibility and mass-market volume.
-- [[FranchiseLedConsumerChainExpansion]] - chain-expansion context.
-- [[FreshMadeIceCreamRetail]] - adjacent but not identical store-made category frame.
-- [[Guming]], [[LuckinCoffee]], and [[BeverageCategoryConvergence]] - coffee/tea boundary shift added by episode 141.
-- [[LuckyCoffee]], [[LuckinCoffee]], and [[FranchiseLedConsumerChainExpansion]] - higher-tier coffee push added by 声动早咖啡.
-- [[SFHolding]], [[ThreeLayerScaleEconomies]], and [[GlobalResourceAllocationCompany]] - vol.127's supply-chain and globalization context.
-- [[Starbucks]] and [[CoffeeSupplyChainLocalization]] - source-scoped rumor context added by 声动早咖啡.
+## Relationships
+- [[LuckyCoffee]] - coffee subsidiary expanding into higher-tier workplace locations.
+- [[FranchiseLedConsumerChainExpansion]] - supply-chain and store-system account of scale.
+- [[BeverageCategoryConvergence]] - main-brand coffee expansion across category lines.
+- [[Starbucks]] - subject of an unverified OEM rumor and recorded denial, not a proven partner.
+- [[LowPriceBrandPerception]] - price-led consumer positioning, distinct from specialist ice cream.
