@@ -2,43 +2,55 @@
 title: "Steve Jobs"
 type: entity
 tags: [person, founder, apple, product]
-sources: [disney-the-renaissance-and-the-empire-1, we-almost-had-a-smartphone-in-the-90s-why-did-it-fail, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources:
+  - disney-the-renaissance-and-the-empire-1
+  - we-almost-had-a-smartphone-in-the-90s-why-did-it-fail
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5
+  - tsr-s4-samaltman-v4-tsr-s4-samaltman-v4
+  - 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0
+  - tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final
 last_updated: 2026-08-11
+knowledge_schema: synthesis-v1
 ---
 
 # Steve Jobs
 
-[[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]] adds Jobs as the Apple decision-maker who greenlit [[TonyFadell]]'s [[IPod]] project while [[Apple]] was financially constrained. The episode uses that decision less as founder myth than as [[ConstraintDrivenProductDiscipline]]: a limited budget, an urgent deadline, and a clear customer promise created a sharper path than [[GeneralMagic]]'s unconstrained [[SonyMagicLink]] launch.
+## Overview
+Steve Jobs appears in the registered sources as an Apple product decision-maker, Pixar financier and negotiator, and reference point in founder-management debates.
 
-Steve Jobs appears in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] as the comparison shadow over [[TimCook]]'s Apple tenure. The episode says media narratives often cast Jobs as the creator, artist, and revolutionary product figure, while Cook is cast as the operator, accountant, and supply-chain manager.
+## Current Profile
+These episodes focus on particular decisions and retrospective testimony, not a full biography. Product focus, platform control and capital leverage are distinct parts of the profile.
 
-The source does not dispute Jobs's centrality to [[Apple]] or [[IPhone]]. Instead, it argues that using the Jobs-era product-revolution standard as the only evaluation frame misses Cook's different contribution: turning values into durable institutional practice.
+## Key Characteristics
+- Jobs backed focused products under constraints, as illustrated by the iPod comparison with General Magic.
+- Owning a platform can make a useful independent application strategically vulnerable.
+- His involvement in collaborators’ work can be interpreted as productive partnership rather than blanket micromanagement.
+- Pixar financing and negotiation made creative output a durable independent asset before Disney acquisition.
+- The Jobs myth is a foil for evaluating Cook’s different institutional legacy.
 
-[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Jobs as part of [[SamAltman]]'s [[Looped]] story. Altman says he rehearsed an App Store-era demo in front of Jobs in a dark theater, froze, and expected to lose the demo slot, but Apple still invited him to final rehearsals.
+## Evidence
+- **Product discipline came from a narrower target, not scarcity by itself.** [[TonyFadell]] contrasts the 1994, roughly $800 [[SonyMagicLink]]—a [[GeneralMagic]] device that sold fewer than 3,000 units—with Jobs approving [[IPod]] at a financially constrained [[Apple]]. A deadline, off-the-shelf components and a clearer music promise illustrate [[ConstraintDrivenProductDiscipline]], not proof that Jobs alone created the product or that constraints always yield success. [[we-almost-had-a-smartphone-in-the-90s-why-did-it-fail]]
+- **Platform ownership changed the terms for independent builders.** Jobs told [[DrewHouston]] that [[Dropbox]] was a feature rather than a company; the warning gained force as [[Apple]], [[Google]] and [[Microsoft]] bundled file sync at the operating-system layer, an [[IncumbentPlatformPressure]] and [[PlatformDependencyRisk]] rather than a verdict on Dropbox’s eventual viability. Jobs also watched an App Store-era [[Looped]] demo at which [[SamAltman]] says he froze; Apple nonetheless offered final rehearsals. Both encounters show how builders navigated [[SmartphoneOperatingSystemEcosystems]], not an identical Jobs response. [[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]]
+- **Close involvement has a relational test.** [[PaulGraham]] uses Jobs and [[JonyIve]] as one anecdote for [[FounderMode]] and [[FounderProximity]]: an expert may experience hands-on founder intervention as collaboration when it improves the work, rather than as micromanagement. Graham explicitly leaves the boundaries of that style unfinished; the pair do not provide a universal management prescription. [[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]]
+- **Pixar needed capital leverage and a separate creative engine.** An [[Acquired]] account has Jobs buy [[Pixar]] from [[GeorgeLucas]], finance difficult years, take it public after *Toy Story*, and negotiate a stock-based sale with [[BobIger]] that made him Disney’s largest shareholder. Those steps protected negotiating independence, while [[JohnLasseter]] and [[EdCatmull]] belong to the company’s [[CreativeCoreRenewal]], not Jobs’s solitary authorship. In a distinct retrospective, [[DavidEllison]] says Jobs urged him away from acting or purchasing screen time toward a [[Skydance]] company with Pixar-level seriousness—an [[EntertainmentIPFlywheel]] aspiration, not evidence Skydance became Pixar. [[disney-the-renaissance-and-the-empire-1]] [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]]
+- **Succession comparisons are judgments about institutions.** The [[TimCook]] episode contrasts Jobs’s founder/artist and [[IPhone]]-era symbolism with Cook’s operator reputation, then argues for evaluating [[ValuesAsOperationalAsset]] in privacy, accessibility, environment and supplier rules rather than measuring Cook only by another iPhone-scale breakthrough. That is the host’s evaluative framework, not evidence that Jobs lacked values or Cook lacked product leadership. [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]]
 
-[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Jobs as the person who warned [[DrewHouston]] that [[Dropbox]] was a feature rather than a product. In the episode, the warning becomes a concise expression of [[IncumbentPlatformPressure]]: Dropbox had a loved product but did not control the operating-system layer where file sync could be bundled.
+## Qualifications
+Founder and mentor anecdotes are source-scoped; Jobs’s role in financing Pixar should not erase others’ creative work. The Cook comparison is a contested evaluative frame, not a claim that Jobs lacked values or Cook lacked product leadership.
 
-[[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds Jobs through [[PaulGraham]]'s [[FounderMode]] discussion. Graham uses Jobs and [[JonyIve]] as an example of intense founder involvement that can still be collaboration rather than micromanagement when the involvement improves the work and the expert partner experiences it as joint creation.
+## What Changed
+- Product and platform decisions are considered separately from Pixar financing and Disney negotiation.
+- The Cook and founder-mode comparisons remain attributed interpretations, not a single measure of Jobs’s legacy.
 
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds Jobs as a mentor figure for [[DavidEllison]]. The episode says Jobs challenged Ellison to think less about acting or buying screen time and more about whether he could build a [[Skydance|Skydance]]-like company that might reach Pixar-level seriousness inside Hollywood.
-
-[[disney-the-renaissance-and-the-empire-1]] adds Jobs as the owner and negotiator who turns [[Pixar]] from a computer graphics group into a public company with leverage over [[TheWaltDisneyCompany]]. The source makes him central to the Disney-Pixar deal: he buys the group from [[GeorgeLucas]], funds Pixar through its hard years, takes it public after Toy Story, and later sells to [[BobIger]] for Disney stock while becoming Disney's largest shareholder.
-
-## Source Position
-- Jobs represents the Apple of product myth, founder charisma, and "Think Different" symbolism.
-- The episode uses Jobs mainly to explain why Cook is often judged unfairly by the wrong metric.
-- Cook's contribution is framed as less spectacular but more systematic: values embedded into product, supplier, legal, and policy systems.
-- The Dropbox source uses Jobs as the strategic voice of platform ownership: a great product may still be exposed if the OS owner can absorb the category.
-- The Disney sequel source uses Jobs as Pixar's capital and negotiating force: Pixar's creative culture mattered, but Jobs gave it independence, leverage, and a post-founder home inside Disney.
-
-## Connections
-- [[Apple]] — company shaped first by Jobs's product era and then Cook's institutional era.
-- [[TimCook]] — successor whose legacy the episode reframes.
-- [[IPhone]] and [[SmartphoneOperatingSystemEcosystems]] — Jobs-era product and ecosystem reference.
-- [[TonyFadell]], [[IPod]], [[GeneralMagic]], and [[ConstraintDrivenProductDiscipline]] - iPod greenlight and constraint branch added by Planet Money.
-- [[ValuesAsOperationalAsset]] — contrast between symbolic values and executable values.
-- [[Looped]], [[SamAltman]], and [[Apple]] - App Store demo context added by The Social Radars.
-- [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[PlatformDependencyRisk]] - file-sync platform warning added by The Social Radars.
-- [[JonyIve]], [[FounderMode]], and [[FounderProximity]] - collaboration-versus-micromanagement example added by the YC offsite source.
-- [[DavidEllison]], [[Skydance]], and [[EntertainmentIPFlywheel]] - media-company-building prompt added by 商业就是这样.
-- [[Pixar]], [[JohnLasseter]], [[EdCatmull]], [[GeorgeLucas]], [[BobIger]], and [[CreativeCoreRenewal]] - Disney-Pixar branch added by Acquired.
+## Relationships
+- [[Apple]] - company where Jobs greenlit iPod and influenced platform decisions
+- [[TimCook]] - successor evaluated with a different operational-values frame
+- [[TonyFadell]] - iPod product lead
+- [[IPod]] - constraint-driven product example
+- [[GeneralMagic]] - contrasting early smartphone effort
+- [[Dropbox]] - application exposed to platform-owner pressure
+- [[FounderMode]] - management idea illustrated by Jobs and Ive
+- [[Pixar]] - creative company Jobs financed and negotiated for
+- [[TheWaltDisneyCompany]] - buyer of Pixar in the cited account
+- [[DavidEllison]] - media founder who recounts a Jobs prompt
