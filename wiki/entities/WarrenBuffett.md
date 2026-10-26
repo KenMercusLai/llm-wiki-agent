@@ -2,51 +2,61 @@
 title: "Warren Buffett"
 type: entity
 tags: [person, investing]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8, vanguard-1]
+sources:
+  - vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw
+  - tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2
+  - ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p
+  - e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls
+  - ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1
+  - ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9
+  - ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj
+  - ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i
+  - paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78
+  - vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq
+  - vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8
+  - vanguard-1
 last_updated: 2026-08-06
+knowledge_schema: synthesis-v1
 ---
 
-# Warren Buffett
+## Overview
+Warren Buffett appears in these sources as a patient value investor and Berkshire Hathaway steward whose company cases, Japanese trading-company investments, option example, cash position and advocacy of low-cost index funds are repeatedly used to teach different investment disciplines. Some sources are comparisons or fictionalized educational conversations, not biographical first-hand accounts.
 
-Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] as a comparison point for [[JimSimons]]. The episode contrasts Buffett's long-term, business-quality, patience-oriented investing with Simons's data-driven [[QuantitativeInvesting]], while noting that both traditions still converge on discipline, humility, and patience.
+## Current Profile
+The strongest recurring pattern is selection of durable businesses and sufficient margin for error rather than automatic adherence to one product or valuation ratio. Investor patience, capital structure, cash optionality and low fees appear in distinct settings. Speakers' explanations of his motives, especially Japan and market timing, remain attributed interpretations.
 
-[[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds Buffett as a live market-sentiment reference: the speakers discuss [[BerkshireHathaway]]'s large cash position, reduced [[Apple]] exposure, and earlier Japan-related financing as signals of caution and optionality rather than as proof of a specific crash call.
+## Key Characteristics
+- Business-quality investing stresses durable consumer trust, management and cash flow, not only cheap book-value assets.
+- Berkshire's liquidity, insurance float and position sizing provide optionality but do not prove correct market-timing forecasts.
+- Japanese sogo shosha exposure is interpreted through resources, financing and trade intermediation, with deglobalization intent conjectural.
+- Cash-secured options and broad low-cost index funds demonstrate discipline for different investors, not a blanket invitation to sell options.
+- Buffett is also a cultural reference for founders and comparisons with quantitative investors, which carry weaker biographical weight.
 
-[[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]] adds Buffett through the Japanese trading-company discussion. The episode treats his interest in [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]], and [[Marubeni]] as partly explainable by resources and governance, but its more distinctive claim is a source-level [[DeglobalizationTradeIntermediation]] conjecture: trusted intermediaries may regain value as trade and supply chains become harder to coordinate directly.
+## Evidence
+- **Business quality, capital and financial reading:** A fictionalized [[CharlieMunger]] dialogue explains Buffett's departure from cigar-butt bargains through [[SeesCandies]]' gift trust and pricing power, [[AmericanExpress]]'s resilient cardholder/merchant network after the salad-oil scandal, and [[CocaCola]]'s distribution and consumer habit; its [[ConsumerBrandMoat]] argument is not a verified historical conversation. [[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] A separate accounting lesson uses his variable-coupon-bond analogy to introduce [[ReturnOnEquityAnalysis]], while [[FinancialStatementAnalysis]], leverage and [[ProfitAndCashFlowQuality]] prevent ROE from standing alone. [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] [[XuZhe]] interprets [[BerkshireHathaway]]'s long-duration insurance float and hard-to-replace assets via [[AsymmetricPayoff]] and [[ValueInvesting]], an attributed analogy rather than proof of bounded downside. [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]]
+- **Liquidity and international exposure:** During the August 2024 sell-off, speakers read Berkshire's large cash position, reduced [[Apple]] stake and Japanese financing as [[InvestmentRiskManagement|flexibility]] under [[MarketMeanReversion]], not proof Buffett predicted a crash. [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] Holdings in [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]] and [[Marubeni]] are discussed through resources, governance and cheap-yen financing; the host's [[DeglobalizationTradeIntermediation]] thesis says global intermediary networks may become more valuable amid [[LongDistanceTradeFriction]], not that Buffett said this was his motive or that [[JapaneseEquityRepricing]] guarantees domestic revival or reverses [[JapanComfortableStagnation]]. [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]] [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]]
+- **Risk discipline is not one universal technique:** A 2026 lesson uses a cash-secured Coca-Cola put for [[OptionSellingDiscipline]]: premium is compensation for an obligation to buy at the effective assigned price, suitable only when collateral and desired ownership are present, unlike naked premium chasing. [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] [[ZhuNing]] invokes Buffett and Munger for patience, survival and [[PositionSizing]] rather than leverage; his [[BubbleNecessaryConditions]] warn but do not time a crash, and era/country beta matters. [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] A worldview discussion contrasts Buffett's patient mature-company entry with [[RayDalio]] and [[JimSimons]] to argue for [[InvestmentWorldviewFit]] and [[PortfolioSuitability]]; a separately fictionalized Simons dialogue compares him and [[PeterLynch]] to [[QuantitativeInvesting]], not an actual debate among them. [[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]]
+- **Public influence and the low-fee alternative:** [[RonConway]] recalls Buffett warning at a May 2000 [[SVAngel]] event that many internet firms would fail, and says [[LarryPage]] and [[SergeyBrin]] drew on Buffett's annual-letter style for [[Google]]'s IPO letter; this does not prove Buffett directed the company. [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] An [[Acquired]] history credits Buffett's public [[Vanguard]]/[[JohnBogle]]-style low-cost [[PassiveInvesting]] endorsement and a 2007 ten-year bet between the Vanguard 500 Index Fund and a hedge-fund portfolio as evidence for [[CostMattersHypothesis]] for ordinary savers, not abandonment of his own active strategy. [[vanguard-1]]
 
-[[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] repeats that interpretation inside a broader Japan-economy discussion. The episode says the Buffett trade should be read through cheap yen financing, resources, and deglobalization supply-chain value, not as a simple claim that Japanese domestic demand or startup dynamism has returned.
+## Qualifications
+EP80's imagined Munger dialogue and EP88's fictional Simons persona cannot be treated as historical Buffett/Munger/Simons statements. The Japanese trade-intermediary explanation is a host conjecture; low-cost yen financing and resource exposure do not exhaust possible motives. The 2024 cash and Apple discussion cannot identify a coming crash. ROE alone confounds leverage and business quality. Selling puts is risky unless collateral, desired ownership and assignment consequences are understood. Buffett's endorsement of index funds is advice to ordinary investors, not evidence Berkshire stopped active investing. Era beta, external macro conditions and investment duration all qualify hero narratives.
 
-[[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds Buffett to a financial-statement reading frame. The episode uses his view of stocks as a kind of variable-coupon bond to introduce [[ReturnOnEquityAnalysis]], while warning that a high ROE still needs leverage, cash-flow, and business-quality checks.
+The Japanese-market discussion distinguishes holdings from broad [[JapaneseEquityRepricing]]; the options episode uses [[OptionContractMechanics]] to explain the obligation Buffett would accept on an assigned put. [[JohnBogle]]'s index-fund design is the separate Vanguard path Buffett later endorsed. [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]]
 
-[[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] adds Buffett through the [[CharlieMunger]] partnership and three value-investing cases: [[SeesCandies]] as the shift from cigar-butt bargains to great businesses, [[AmericanExpress]] as crisis observation of a surviving trust network, and [[CocaCola]] as a long-duration consumer-habit investment.
+[[ZhuNing]]'s [[BubbleNecessaryConditions]] are warning signs, not a timing model, and [[PositionSizing]] is his practical alternative to copying any famous investor's all-in bet. [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]]
 
-[[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds Buffett as the episode's disciplined put-selling example. The source presents his Coca-Cola put sale as [[OptionSellingDiscipline]]: collect premium only when the investor has the cash, wants the company, and is willing to buy at the assigned price.
+## What Changed
+- Grouped 12 appearances into business quality, capital optionality, instrument discipline and public influence rather than source chronology.
+- Elevated format and motive caveats so teaching analogies are not recast as Buffett's direct statements or independently established investment causes.
 
-[[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds Buffett as an [[AsymmetricPayoff]] and [[ValueInvesting]] reference. [[XuZhe]] uses Buffett's long-duration liabilities, insurance float, and hard-to-replace assets as a way to show that value investing can resemble option thinking when downside is limited and upside remains open.
-
-[[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds Buffett as [[ZhuNing]]'s patience and era-redemption reference. The source uses Buffett and [[CharlieMunger]] to illustrate willingness to become rich slowly, the importance of surviving without excessive leverage, and the role of broader beta such as country, education, and long economic growth in investment outcomes.
-
-[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Buffett to [[Google]]'s early public-company culture. [[RonConway]] says [[SVAngel]] hosted a May 2000 event where Buffett warned many internet companies would fail, and that [[LarryPage]] and [[SergeyBrin]] later drew on Buffett-style annual letters when writing Google's IPO letter.
-
-[[vanguard-1]] adds Buffett as a public validator of [[Vanguard]]-style low-cost [[PassiveInvesting]]. The episode cites his Berkshire shareholder-letter endorsement of low-cost index funds and his 2007 bet that the Vanguard 500 Index Fund would outperform a hedge-fund portfolio over ten years, connecting Buffett's patience and fee discipline to [[CostMattersHypothesis]].
-
-[[vol-110-touzi-jiushi-dui-shijieguan-de-toupiao-maichu-zichan-peizhi-di-yi-bu-wanjiepian-lk5jkgnzvzerymcixylsdqdtn7f8]] uses Buffett as an [[InvestmentWorldviewFit]] example. The host contrasts Buffett's patient, mature-company entry style with investors who believe more strongly in technological progress or cannot wait for an asset to become extremely cheap, making Buffett a model to understand rather than a method to copy mechanically.
-
-## Connections
-- [[JimSimons]] — contrasting investment master in the episode.
-- [[PeterLynch]] — another comparison point for fundamental investing.
-- [[PassiveInvesting]] — ordinary-investor recommendation that shares Buffett-like patience more than institutional quant trading.
-- [[InvestmentRiskManagement]] — practical principle common to multiple investing styles.
-- [[BerkshireHathaway]] and [[Apple]] — EP38's public-market example of cash preference and position reduction.
-- [[JapaneseSogoShosha]], [[DeglobalizationTradeIntermediation]], and [[LongDistanceTradeFriction]] — vol.108's Japan trading-company interpretation of Buffett's exposure.
-- [[JapaneseEquityRepricing]] and [[JapanComfortableStagnation]] — vol.125's distinction between investable Japan themes and national growth limits.
-- [[MarketMeanReversion]] — valuation discipline and waiting for better risk/reward are discussed through Buffett's cash.
-- [[ReturnOnEquityAnalysis]], [[FinancialStatementAnalysis]], and [[ProfitAndCashFlowQuality]] — EP86's accounting and metric-reading context.
-- [[CharlieMunger]] — paired inversion reference for looking first at how a company can fail.
-- [[SeesCandies]], [[AmericanExpress]], [[CocaCola]], and [[ConsumerBrandMoat]] — EP80's business-quality and intangible-asset case cluster.
-- [[OptionSellingDiscipline]] and [[OptionContractMechanics]] — EP90's options example built around willingness to own Coca-Cola at a lower effective price.
-- [[AsymmetricPayoff]] and [[ValueInvesting]] — E43's reading of Buffett-style investing through asymmetry and float.
-- [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — 42章经 interview context around slow compounding, survival, and era beta.
-- [[Google]], [[LarryPage]], [[SergeyBrin]], [[RonConway]], and [[SVAngel]] — Silicon Valley event and IPO-letter context added by the Conway Part 3 episode.
-- [[Vanguard]], [[JohnBogle]], [[CostMattersHypothesis]], and [[PassiveInvesting]] — low-cost index validation added by the Acquired Vanguard episode.
-- [[InvestmentWorldviewFit]], [[ValueInvesting]], and [[PortfolioSuitability]] — vol.110's style-fit reading of Buffett.
+## Relationships
+- [[BerkshireHathaway]] - company and investing vehicle in the sources.
+- [[CharlieMunger]] - business-quality and patience collaborator in educational accounts.
+- [[SeesCandies]] - consumer-brand case for intangible value.
+- [[AmericanExpress]] - trust-network crisis case in the episode.
+- [[CocaCola]] - enduring consumer-habit and cash-secured-put illustration.
+- [[JapaneseSogoShosha]] - category of the reported Japanese holdings.
+- [[OptionSellingDiscipline]] - collateral and assignment boundary in the put example.
+- [[PassiveInvesting]] - broad-index approach he is reported to have endorsed for others.
+- [[JimSimons]] - contrasting quantitative method, not a rival in a documented debate.
+- [[Google]] - company whose IPO letter Conway says drew on Buffett's shareholder communication.
