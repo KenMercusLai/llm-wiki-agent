@@ -2,78 +2,75 @@
 title: "Data Center Debt Risk"
 type: concept
 tags: [ai, data-centers, finance, infrastructure]
-sources: [all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640, all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555, all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920, tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128, 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1, 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz, 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52, tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for, tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
+sources:
+  - all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640
+  - all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555
+  - all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920
+  - tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128
+  - 151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1
+  - 143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz
+  - 7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52
+  - tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - tech-20260213-tech-pod-128-tech-20260213-tech-pod-128
+  - tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128
+  - so-are-we-in-an-ai-bubble-here-are-clues-to-look-for
+  - tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128
+  - all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
 # Data Center Debt Risk
 
-[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds a compute-price version of the risk. [[BradGerstner|Brad Gerstner]] warns that the same AI infrastructure story can trade down if seller financing, customer demand, or GPU rental rates look weaker, especially where capacity plans assume very large gigawatt-scale buildouts.
+## Definition
+Data center debt risk is the possibility that borrowed capital, leases and project-company obligations for AI capacity cannot be serviced by realized utilization and customer revenue, even when the underlying technology remains useful.
 
-[[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]] adds [[MarkCuban|Mark Cuban]]'s data-center overbuild warning. Cuban says large AI infrastructure programs are "planning for perfection" when they spend cash flow and borrow on top of it, and he compares the risk to dot-com [[DarkFiber|dark fiber]]: later performance improvements and power efficiency can leave useful infrastructure behind while current owners or lenders still suffer poor returns.
-
-[[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] adds the "dark GPUs" overbuild analogy. [[DavidSacks|David Sacks]] says the biggest risk is not zero AI demand but a glut of compute similar to dot-com [[DarkFiber|dark fiber]], while [[GavinBaker|Gavin Baker]] argues [[Nvidia]] could reduce lender uncertainty through residual value guarantees inside [[GPUComputeAssetBackedFinancing]].
-
-[[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] adds the [[Crusoe]] qualification. The source argues that an AI data-center project can be financeable when it has a long-term customer lease, such as Crusoe's 15-year [[Oracle]] agreement in Abilene, but it still leaves debt risk tied to power delivery, gas turbines, skilled labor, customer durability, and whether another model company would want the capacity if one customer failed.
-
-[[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] adds the public bond-market absorption layer. [[JulieOsk|Julie Osk]] treats long-term bonds as a plausible match for data centers' long physical lives, but the episode also adds risks from rising rates, repeated issuance, uncertain token demand, [[DataCenterBacklash]], resource constraints, regulation, and capex that can outpace revenue or free cash flow.
-
-[[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] adds the private-credit financing layer through [[AIDataCenterPrivateCreditFinancing]]. The source's [[XAI|xAI]] and [[Meta]] cases show that data-center risk can sit in chip leases, project companies, private-credit funds, long-dated debt, and termination-option structures even when a headline technology company does not carry the full debt directly.
-
-Data center debt risk is the financial fragility that can emerge when AI infrastructure expansion depends on heavy borrowing, third-party developers, leases, and future cloud demand. [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds this concept through [[Oracle]]'s AI data-center buildout and Financial Times reporting that [[BlueOwlCapital]] pulled out of a $10 billion Oracle-linked Michigan project.
-
-[[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] adds a circular-demand qualification. The source's [[Nvidia]]-[[OpenAI]]-[[CoreWeave]] example is not mainly about bank loans; it shows how equity investment, compute leases, and GPU purchases can make infrastructure demand look self-reinforcing. That demand still has to be tested against utilization, GPU rental prices, customer payment capacity, and cloud margins.
-
-The concept extends the wiki's AI infrastructure branch beyond power and permitting. [[DataCenterBacklash]], [[DataCenterCostShifting]], and [[AIEnergyBottleneck]] explain why facilities can be hard to build locally; this source adds that financing structure matters too. If a cloud provider relies on debt and third-party facilities rather than a large owned hyperscaler footprint, delays, utility-price conflict, or weak investor confidence can become part of the AI capacity bottleneck.
-
-[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds a stronger-credit version through [[Alphabet]]. [[JewelBurkeSolomon]] says Alphabet raised tens of billions of dollars for AI projects, including a 100-year British-pound bond, despite already having a strong balance sheet. That makes the concept less one-sided: debt can be a fragility signal in some data-center structures, but it can also be a long-horizon financing choice for a hyperscaler that wants to preserve flexibility while committing to years of AI infrastructure investment.
-
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds a political-certainty qualification around [[Oracle]]. The episode says AI demand and a large [[OpenAI]] data-center relationship can support Oracle's infrastructure story, but it also argues that [[StargateAIInfrastructure]] and political access may improve Oracle's position in strategic AI buildout. That means debt risk should be read alongside [[PoliticalRegulatoryLeverage]], not only balance-sheet strain.
-
-[[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds a macro-stability comparison. The source says a possible AI crash may be less bank-system-threatening than the 2008 housing crash if AI companies are not borrowing directly from banks at similar scale, but it keeps open the question of private-credit leverage and broader spillovers through jobs, spending, and infrastructure finance.
-
-[[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]] adds the historical caution around infrastructure bankruptcies. [[PaulVixie]] argues dot-com fiber capacity ultimately paid off as [[DarkFiber]] became useful, but the source still notes a wave of telecom bankruptcies after the buildout. That makes productive spillovers compatible with severe financing losses.
-
-[[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] adds the investor-expertise angle through [[DavidKirsch]]. The episode notes that AI speculation may be less retail-public than the dot-com boom, but Kirsch still treats many debt, data-center, private-credit, or hedge-fund participants as novices if they do not understand AI's technical and adoption risks.
-
-[[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]] adds a portfolio-risk framing through [[BubbleFinancingStructure]]. The source says AI infrastructure can remain a productive bubble while still becoming dangerous if the financing base shifts from equity and hyperscaler cash flow toward debt and private credit; [[Oracle]] is the host's concrete warning example.
+## Current Synthesis
+Risk follows the borrower and contract, not merely an "AI bubble" label. A well-capitalized hyperscaler, a developer with a long lease and a chip-collateral project can borrow for the same capacity but transmit losses differently. Power delivery, local consent, rental prices, hardware replacement and final third-party demand determine whether financing survives the buildout.
 
 ## Key Claims
-- The August 8 All-In source adds that compute rental price is itself a financing variable: lenders and equity holders are exposed not only to construction risk, but also to whether rented GPUs keep commanding expected rates.
-- AI data centers can create balance-sheet and credit risk before their long-term cloud revenue is proven.
-- Third-party data-center development can make capacity growth faster, but it can also expose cloud providers to lease, financing, counterparty, and project-delay risk.
-- Local opposition and rezoning fights can matter to lenders and investors because they change the timetable and perceived certainty of a project.
-- Large AI cloud deals, including Oracle's reported deal with [[OpenAI]], can lift market expectations while also raising questions about capex, debt, and return on infrastructure.
-- Debt risk is part of [[AIComputeContinuity]] because model availability depends on whether planned capacity is actually financed, built, powered, and connected.
-- Long-duration debt can also become a market signal of AI commitment, especially when issued by a company such as [[Alphabet]] whose balance sheet is stronger than the project-finance cases that look immediately fragile.
-- Strategic-policy backing can change perceived financing risk by making demand, approvals, or procurement roles look more certain, even if the infrastructure still needs power, capital, and execution.
-- AI infrastructure debt risk should be separated by financing channel: direct bank exposure, private credit, leases, and strong-balance-sheet borrowing do not transmit stress the same way.
-- Useful post-bust assets do not remove debt risk; the dot-com fiber story shows that infrastructure can become socially valuable after some builders fail.
-- Professional investors can still function as novices when the financing structure is familiar but the technology, demand path, and adoption clock are not.
-- Circular compute demand can amplify data-center finance risk even without a conventional bank-debt story, because leases and GPU orders may depend on the same AI revenue assumptions.
-- Episode 143 adds that financing structure should be monitored as a regime signal: productive assets funded by debt can still transmit losses more severely than productive assets funded by equity.
-- Episode 151 adds that private-credit and project-company structures can make data-center debt harder to see in operating-company balance sheets while still exposing insurers, private funds, and fixed-income buyers.
-- Lease termination rights, chip collateral, and borrower identity matter because they determine who absorbs losses if AI data-center utilization disappoints.
-- Crusoe adds the optimistic project-finance case: customer leases and transferable compute demand can reduce lender risk, but only if the site is powered, built, connected, and useful to future AI workloads.
-- The August 14 All-In source adds that overbuild risk can sit inside the chip fleet itself: GPUs may remain technically useful while still producing weak returns if rental rates, utilization, or customer demand disappoint.
-- Cuban's source adds a price-performance risk: if AI efficiency improves faster than data-center demand, financed capacity can become another useful-but-misowned infrastructure cycle.
+- Distinguish public bonds, bank loans, private credit, chip leases and third-party project finance before assigning loss exposure.
+- Customer leases and strong sponsor balance sheets may support borrowing, but counterparty, construction and power risks remain.
+- Utilization, compute rental rates, chip obsolescence and independently paying end customers determine return on invested capacity.
+- Grid and permitting delays can strain debt even if eventual AI demand proves real.
+- Productive infrastructure can outlive bankrupt owners; GPU residual value is not identical to long-lived fiber.
+- Systemic spillovers depend on creditor and insurer exposure, not a categorical analogy to the 2008 housing crisis.
 
-## Connections
-- [[AIComputePriceRisk]], [[SpaceX]], [[BradGerstner|Brad Gerstner]], [[AIInfrastructureDebtFinancing]], [[Anthropic]], and [[Google]] - August 8 All-In branch on compute rental prices, demand scares, and seller-financed AI capacity.
-- [[GPUComputeAssetBackedFinancing]], [[Nvidia]], [[CoreWeave]], [[AIRevenueLegibility]], [[AIInfrastructureDebtFinancing]], and [[DarkFiber]] - August 14 All-In branch on compute overbuild, residual guarantees, and utilization risk.
-- [[AIDataCenterPrivateCreditFinancing]], [[PrivateCreditMarket]], [[XAI|xAI]], [[Meta]], [[ApolloGlobalManagement]], [[BlueOwlCapital]], and [[PIMCO]] - private-credit and project-company extension added by episode 151.
-- [[Oracle]] - main company case in the source.
-- [[Alphabet]] - stronger-credit case added by the later Marketplace Tech Bytes episode.
-- [[BlueOwlCapital]] - finance-market signal in the Michigan project.
-- [[OpenAI]] - reported cloud-services customer tied to Oracle's market expectations.
-- [[DataCenterBacklash]] and [[DataCenterCostShifting]] - local and utility-policy risks that can affect project financing.
-- [[AIEnergyBottleneck]] and [[AIComputeContinuity]] - infrastructure capacity frames extended by debt risk.
-- [[AIInfrastructureDebtFinancing]] and [[AIEquityValuationRisk]] - broader debt-financing and investor-return frames.
-- [[StargateAIInfrastructure]] and [[PoliticalRegulatoryLeverage]] - political-certainty layer added by 商业就是这样.
-- [[LeanVersusCleanBubblePolicy]], [[ProductiveBubbleSpillovers]], and [[AIEquityValuationRisk]] - macro-stability and post-bust usefulness branch added by Planet Money.
-- [[PaulVixie]] and [[DarkFiber]] - Marketplace Tech's historical example of bankruptcies coexisting with later infrastructure value.
-- [[DavidKirsch]] and [[TechBubbleConditions]] - novice-investor and private-credit context added by the later Marketplace Tech episode.
-- [[AICircularInfrastructureFinancing]], [[CoreWeave]], [[AIRevenueLegibility]], and [[AICapexReturnWindow]] - circular demand and commercial-window extension added by What's Next.
-- [[BubbleFinancingStructure]] and [[PrivateCreditTailRisk]] - episode 143's debt-versus-equity and private-credit escalation branch.
-- [[Crusoe]], [[Oracle]], [[EnergyFirstNeocloud]], [[DataCenterPowerBottleneck]], and [[AIInfrastructureDebtFinancing]] - Abilene project-finance branch added by All-In.
-- [[MarkCuban]], [[PrivateMarketBubbleOpacity]], [[DarkFiber]], and [[WorldModels]] - Cuban interview branch around who owns the overbuild risk and what workload could prove it wrong.
+## Evidence
+- **Funding channels:** [[JulieOsk]] describes repeated AI bond issuance and interest-rate/market-absorption risk in a Marketplace Tech interview. [[tech-20260721-0721-mp-tech-pod-128-tech-20260721-0721-mp-tech-pod-128]] [[DavidWeng]] separates [[XAI|xAI]] chip leasing and [[Meta]] project vehicles financed by private credit, including collateral, termination rights and insurers' capital exposure; [[ApolloGlobalManagement]], [[BlueOwlCapital]] and [[PIMCO]] are different participants, not interchangeable borrowers. These less-visible project and fund liabilities connect debt risk to [[PrivateMarketBubbleOpacity]], without establishing a crisis. [[151-simu-xindai-private-credit-jiasu-ai-jianshe-de-tianshi-haishi-youfa-jinrong-weiji-de-emo-nlahybjwcrimit8dff7yhzpbupm1]] His earlier October 2025 assessment regarded cash-flow/equity finance as less contagious while warning about [[Oracle]] debt migration. [[143-ruhe-panduan-yiduan-hangqing-shi-huitiao-haishi-jieshu-sanjidu-touzi-zhang-fupan-lnmkuiw9mfdi5tqojzi07vnaorqz]]
+- **Credit differences:** [[JewelBurkeSolomon]] says [[Alphabet]] reportedly issued tens of billions of debt including a century sterling bond against an AI spending plan up to $185 billion; a strong parent balance sheet does not eliminate return-on-capex scrutiny. [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] [[Crusoe]]'s claimed 15-year [[Oracle]] Abilene lease can improve project bankability but power, gas turbines, skilled labor, customer survival and transferability remain conditional. [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]] Marketplace Tech cited Financial Times reporting that Blue Owl withdrew from a $10 billion Oracle-linked Michigan proposal, alongside Oracle's reported $300 billion [[OpenAI]] cloud agreement and utility/rezoning concerns; that is a project signal, not a full credit audit. [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]]
+- **Demand and asset value:** A reported $700 billion hyperscaler capex forecast and the [[Nvidia]]→OpenAI→[[CoreWeave]] investment/compute/GPU cycle invite a test of independent buyers, utilization, GPU rental price, margins and the proposed one-to-three-year revenue window. [[7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52]] [[BradGerstner]] warns seller finance and compute prices can reprice large buildouts. [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] [[DavidSacks]] raises a hypothetical "dark GPUs" glut while [[GavinBaker]] proposes residual guarantees as a possible financing tool, not a demonstrated guarantee. [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]] [[MarkCuban]] argues borrowing atop cash flow plans for perfection, but acknowledges world-model/robotics demand could defeat his bearish case. [[all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640]]
+- **Timing and contagion:** [[DavidKirsch]] counts AI as seven of eight on his bubble heuristic, including professional investors inexperienced in AI; it is a probabilistic warning. [[tech-20260130-0130-mp-tech-pod-128-tech-20260130-0130-mp-tech-pod-128]] [[RobinGreenwood]] calls the market tentatively an early bubble, [[EugeneFama]] disputes reliable prediction, and [[GadiBarlevy]] emphasizes bank leverage, lending and jobs rather than a bubble label. [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] [[PaulVixie]] describes dot-com [[DarkFiber]] later used by the internet despite telecom bankruptcies; by 2007 an estimated two-thirds of 45 million fiber miles were unlit, but GPU power and depreciation differ. [[tech-20260128-0128-mp-tech-pod-128-tech-20260128-0128-mp-tech-pod-128]]
+- **Political context:** An Ellison-family narrative connects [[StargateAIInfrastructure]] and political access to Oracle's prospects, but offers no creditor guarantee or quantified debt-risk reduction. [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]]
+
+## Counterevidence & Qualifications
+Four All-In discussions reflect overlapping investor views; the two David Weng episodes are not independent confirmation. The reported Nvidia $500 billion frame, residual guarantee and future workloads are forecasts or proposals. Oracle, Crusoe and Alphabet do not have the same balance sheet. Planet Money notes lower apparent direct bank exposure than 2008 while private-credit transmission remains uncertain. Later societal use of assets does not assure their initial lenders a return.
+
+## What Changed
+- Replaced a chronology of financing headlines with borrower/contract, return, execution and contagion tests.
+- Kept optimistic lease and productive-spillover arguments next to loss-bearing and obsolescence risks.
+
+## Related Concepts
+- [[AIDataCenterPrivateCreditFinancing]] - project entities and chip leases can move obligations outside operating-company debt.
+- [[GPUComputeAssetBackedFinancing]] - chip collateral and residual values change lender recovery.
+- [[AICircularInfrastructureFinancing]] - internal investment and capacity purchases must be tested against outside demand.
+- [[AIComputePriceRisk]] - rent per unit of compute determines debt-service capacity.
+- [[DataCenterBacklash]] - local opposition can delay the asset before it earns revenue.
+- [[DataCenterCostShifting]] - utility-rate disputes can become project and permitting risk.
+- [[ProductiveBubbleSpillovers]] - later useful assets do not rescue the original owner.
+- [[AIComputeContinuity]] - unfunded or unpowered projects cannot deliver promised capacity.
+- [[AICapexReturnWindow]] - revenue must arrive within the funding and investor patience horizon.
+- [[AIEnergyBottleneck]] - power interconnection can postpone debt-financed capacity.
+- [[AIEquityValuationRisk]] - equity repricing differs from creditor losses but can tighten financing.
+- [[AIInfrastructureDebtFinancing]] - distinguishes parent-company borrowing from project and developer liabilities.
+- [[AIRevenueLegibility]] - observable outside customer payments test projected debt service.
+- [[BubbleFinancingStructure]] - the same useful asset can produce different loss transmission under equity or debt.
+- [[DataCenterPowerBottleneck]] - site power and gas-turbine delivery are project-completion risks.
+- [[EnergyFirstNeocloud]] - Crusoe builds power and long leases into its capacity underwriting.
+- [[LeanVersusCleanBubblePolicy]] - systemic response depends on bank exposure and labor spillovers.
+- [[PoliticalRegulatoryLeverage]] - access may shape perceived project prospects without guaranteeing creditors.
+- [[PrivateCreditMarket]] - insurers and funds can carry risk outside headline cloud balance sheets.
+- [[PrivateCreditTailRisk]] - opaque project lending can concentrate losses during demand disappointment.
+- [[TechBubbleConditions]] - novice investors and narrative uncertainty warn against certain bubble predictions.
+- [[WorldModels]] - Cuban identifies a possible future compute-demand scenario against his overbuild thesis.
