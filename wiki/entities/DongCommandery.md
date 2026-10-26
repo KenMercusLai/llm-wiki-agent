@@ -2,40 +2,57 @@
 title: "东郡 / Dong Commandery"
 type: entity
 tags: [place, commandery, qin-state, wei-state, pre-qin, warring-states, late-han]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr, zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76, zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i, zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe, zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw, zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]
+sources:
+  - zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo
+  - zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr
+  - zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76
+  - zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i
+  - zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe
+  - zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw
+  - zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el
 last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
 ---
 
-# 东郡 / Dong Commandery
+## Overview
+东郡 was a commandery first described here as Qin's administrative consolidation of former Wei territory, later reassigned within early Han kingdoms and contested by late-Han commanders. Its history in these seven episodes links conquest to institutions and then to office, logistics and siege. The name of the commandery must not be confused with its seats, counties or nearby battles.
 
-东郡 / Dong Commandery enters the wiki through [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] as the [[QinState|秦国]] commandery created in 242 BCE after [[MengAo|蒙敖]] attacks [[WeiState|魏国]] and captures twenty cities. The source treats it as the administrative result of Qin continuing to move east even after the prior year's locust and epidemic disasters.
+## Current Profile
+[[MengAo|蒙敖]]'s capture of twenty [[WeiState|魏国]] cities in 242 BCE gave [[QinState|秦国]] a durable eastward foothold despite recent disaster. Later the district was folded into a Liu-family kingdom after [[PengYue|彭越]]'s removal. In the late Han, [[CaoCao|曹操]] gained its administrator office amid Black Mountain attacks, then [[ZangHong|臧洪]] defended it against [[YuanShao|袁绍]] for a very different loyalty claim. A meteor-inscription story places it in Qin Shi Huang's ominous final years without proving the inscription's exact wording.
 
-Its importance is strategic rather than merely bureaucratic. By turning captured Wei territory into a commandery, Qin converts campaign gains into governed space, making [[QinEastwardPressure|秦国东进压力]] harder for the eastern states to reverse. The episode also says Wei's weakening removes a central-plains support point for future [[HezongAlliance|合纵]] efforts.
+## Key Characteristics
+- The Qin commandery turned battlefield gains into governed territory and weakened the central-plains basis of anti-Qin coalitions.
+- Its Puyang-associated gains and Qin-era omen show distinct uses of the same administrative place across late Warring States and imperial Qin.
+- Early Han reassignment changed its jurisdictional function after Peng Yue's removal.
+- Late-Han administrator appointments and control of nearby routes let Cao Cao build an early base against insurgent pressure.
+- Dong Wuyang relief and Neihuang action show indirect defense of the commandery, not that all those locations were the same place.
+- Zang Hong's resistance later made the office a setting for costly conflict between old-superior loyalty and regional survival.
 
-Dong Commandery therefore belongs with [[SanchuanWarringStates|三川]] and [[TaiyuanWarringStates|太原]] as late-Warring-States Qin administrative consolidation. In this source, the commandery shows that disaster did not interrupt Qin's expansion tempo for long.
+## Evidence
+- **Conquest and administration:** [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el]] says Qin, despite the previous year's locusts and epidemic, sent Meng Ao in 242 BCE, took twenty Wei cities and formed Dong Commandery after the deaths of [[WeiAnxiWang|魏安釐王]] and Xinlingjun in the preceding year, under the succession of [[WeiJingminWang|魏景湣王]]. Alongside [[SanchuanWarringStates|三川]] and [[TaiyuanWarringStates|太原]], the episode reads this as [[QinEastwardPressure|秦国东进压力]] becoming administered territory and eroding a [[HezongAlliance|合纵]] support point.
+- **Coalition aftermath and ambiguity:** [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] places Qin's Chaoge and [[PuyangLateHan|濮阳]] acquisitions on the pressure map after the unsuccessful 241 BCE final coalition. The episode admits incompatible accounts of that coalition and ambiguous Wei/[[WeyState|卫国]] wording around [[WeyYuanjun|卫元君]] and [[WeyJunJiao|卫君角]]; neither can be silently collapsed into [[WeiState|魏国]].
+- **Late-Qin sign:** [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] locates a meteor and transmitted “始皇死而地分” inscription in Dong Commandery in 211 BCE. It recounts [[QinShiHuang|秦始皇]]'s failed search for a culprit, collective punishment and destruction of the stone within [[QinLateOmenCrisis|秦始皇晚年异象危机]], while questioning whether the exact “始皇” wording was contemporary.
+- **Han reassignment:** [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i]] says [[LiuBang|刘邦]] reassigned Dong Commandery into the Liang kingdom for Liu Hui after Peng Yue's execution, in a [[SameSurnameKingEnfeoffment|同姓王分封]] shift. It does not make the Western Han arrangement identical to the earlier Qin or later late-Han district.
+- **Cao's foothold:** [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]] attributes to [[BaoXin|鲍信]] the suggestion that Cao Cao occupy the commandery as a counterweight to Yuan Shao. With administrator [[WangGongLateHan|王肱]] unable to withstand [[HeishanArmy|黑山军]]-linked [[YuDuLateHan|于毒]], [[BaiRaoLateHan|白绕]] and [[SuiGuLateHan|眭固]], Cao defeats Bai Rao near Puyang, receives Yuan Shao's recommendation and locates his office at [[DongWuyangLateHan|东武阳]]. [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr]] adds [[ChengYu|程昱]]'s regional background: he counseled [[LiuDaiLateHan|刘岱]] under [[GongsunZan|公孙瓒]]'s pressure. Its 192 CE relief account has Cao threatening Yu Du's mountain base from [[DunqiuLateHan|顿丘]] instead of marching directly to besieged Dong Wuyang, then defeating Sui Gu and Yufuluo near [[NeihuangBattleLateHan|内黄之战]].
+- **Siege and loyalty:** [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76]] says Zang Hong, then Dong Commandery administrator, requested help for former superior [[ZhangChaoLateHan|张超]] besieged at [[YongqiuLateHan|雍丘]], was refused by Yuan Shao and resisted him after Cao killed Zhang Chao. The defense reached rats, leather and thin gruel, a concubine killed for food and mass starvation; the episode treats loyalty as sincere yet disastrous, not an unqualified moral success.
 
-[[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw]] keeps Dong Commandery in the next episode's pressure map. After the final anti-Qin [[HezongAlliance|合纵]] fails, Qin continues by taking Chaoge and Puyang in the source's summary and associating those gains with Dong Commandery. The episode's transcript also carries a Wei/Wey wording ambiguity around [[WeyYuanjun|卫元君]] and [[WeyJunJiao|卫君角]], so this page records the administrative-pressure point without collapsing [[WeiState|魏国]] and [[WeyState|卫国]].
+## Qualifications
+- All seven notes come from one historical podcast. The omen's wording is source-critically uncertain; the final-coalition sources differ on commander, membership and route. No supernatural event or exact inscription can be established from these notes alone.
+- Wei and Wey are distinct; Dong Commandery is not identical to [[DongWuyangLateHan|东武阳]], [[PuyangLateHan|濮阳]] or [[NeihuangBattleLateHan|内黄之战]]. The early-Han incorporation is a distinct jurisdictional phase.
+- The episode on Zang Hong stops before its fuller sequel; siege details and the host's assessment of fatal loyalty are scoped to this narrative, not independently verified quantitative casualty data.
 
-[[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe]] gives Dong Commandery a late-Qin omen role. In Qin Shi Huang's thirty-sixth year, a meteor falls there and is inscribed with "始皇死而地分," becoming part of [[QinLateOmenCrisis|秦始皇晚年异象危机]]. The source reads the event as a public-resentment signal and also marks source-critical uncertainty around whether the transmitted wording was exactly contemporary.
+## What Changed
+- The profile separates territorial creation, later jurisdictional assignment, military offices and siege from the chronologically distant omen rather than inferring a constant political role from a shared place-name.
 
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] gives Dong Commandery an early-Western-Han reassignment note. After [[PengYue|彭越]] is removed, [[LiuBang|刘邦]] abolishes Dong Commandery into the Liang kingdom while assigning Liu-family kingship over the region, making it part of the [[SameSurnameKingEnfeoffment|同姓王分封]] replacement map.
-
-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds the immediate late-Han office opening before Hanji 961. [[BaoXin|鲍信]] urges [[CaoCao|曹操]] to use Dong Commandery as a foothold against [[YuanShao|袁绍]]'s growing northern position, and [[WangGongLateHan|王肱]]'s inability to withstand [[HeishanArmy|黑山军]]-linked attackers creates the practical opening.
-
-The source names [[YuDuLateHan|于毒]], [[BaiRaoLateHan|白绕]], and [[SuiGuLateHan|眭固]] in the attacking field. Cao Cao defeats Bai Rao around [[PuyangLateHan|濮阳]], receives Yuan Shao's recommendation as administrator, and places the commandery office at [[DongWuyangLateHan|东武阳]]. This makes Dong Commandery the bridge between Bao Xin's early strategy and Cao Cao's later Neihuang operations.
-
-[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] adds a late-Han Cao-side use before the Zang Hong branch. [[ChengYu|程昱]] is introduced as a Dong Commandery man whose advice helps [[LiuDaiLateHan|刘岱]] survive [[GongsunZan|公孙瓒]]'s pressure, while [[CaoCao|曹操]] later holds a command position in the same regional field around [[DunqiuLateHan|顿丘]], [[DongWuyangLateHan|东武阳]], and [[NeihuangBattleLateHan|内黄之战]].
-
-[[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] adds a late-Han use. [[ZangHong|臧洪]] is serving as Dong Commandery administrator when [[ZhangChaoLateHan|张超]] is trapped at [[YongqiuLateHan|雍丘]]. After [[YuanShao|袁绍]] refuses rescue and Zhang Chao is killed by [[CaoCao|曹操]], Dong Commandery becomes the place where Zang Hong's old-superior loyalty turns into armed resistance, siege, starvation, and mass death.
-
-## Connections
-- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[BaoXin|鲍信]], [[CaoCao|曹操]], [[WangGongLateHan|王肱]], [[BaiRaoLateHan|白绕]], [[PuyangLateHan|濮阳]], and [[DongWuyangLateHan|东武阳]] - office opening and early Cao-side foothold.
-- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]], [[ChengYu|程昱]], [[CaoCao|曹操]], [[DunqiuLateHan|顿丘]], [[DongWuyangLateHan|东武阳]], and [[NeihuangBattleLateHan|内黄之战]] - late-Han advice and early Cao-side campaign field.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[PengYue|彭越]], [[LiuBang|刘邦]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - early-Han incorporation into the Liang replacement map.
-- [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]], [[ZangHong|臧洪]], [[YuanShao|袁绍]], [[ZhangChaoLateHan|张超]], and [[YongqiuLateHan|雍丘]] - late-Han siege and loyalty branch.
-- [[QinState|秦国]], [[QinShiHuang|嬴政 / 秦始皇]], and [[MengAo|蒙敖]] - state, ruler frame, and commander attached to its creation.
-- [[WeiState|魏国]], [[WeiAnxiWang|魏安釐王]], and [[WeiJingminWang|魏景湣王 / 魏增]] - target state and succession context.
-- [[QinEastwardPressure|秦国东进压力]] and [[HezongAlliance|合纵]] - expansion and coalition-consequence frames.
-- [[SanchuanWarringStates|三川]] and [[TaiyuanWarringStates|太原]] - adjacent Qin commandery-consolidation examples.
-- [[TerminalHezongFailure|末次合纵失败]], [[WeyState|卫国]], [[WeyYuanjun|卫元君]], [[WeyJunJiao|卫君角]], and [[zizhi-tongjian-qinji-107-zuihou-yici-hezong-faqin-fa-le-ge-jimo-lrzq1qks7z-oromd-5f-dgqjwjhw|Qinji 107]] - post-coalition territorial pressure and source-scoped Wei/Wey ambiguity.
-- [[QinLateOmenCrisis|秦始皇晚年异象危机]], [[AuspiciousOmenPolitics|祥瑞政治]], and [[zizhi-tongjian-qinji-126-qinshihuang-siyin-zhimi-1-lgtlhau6ixqglk1ict1fs0jexjwe|Qinji 126]] - meteor inscription and late Qin death-omen narrative.
+## Relationships
+- [[QinState]] - established the commandery from conquered Wei cities.
+- [[WeiState]] - source of the conquered territory and weakened coalition base.
+- [[WeyState]] - separate polity in an ambiguous adjacent source passage.
+- [[MengAo]] - commander in the 242 BCE creation account.
+- [[LiuBang]] - ruler who reassigned its territory after Peng Yue's removal.
+- [[CaoCao]] - early late-Han administrator and indirect-relief commander.
+- [[YuanShao]] - recommended Cao's office earlier, refused Zang Hong's rescue request later.
+- [[ZangHong]] - later administrator whose siege tested loyalty against collective survival.
+- [[ChengYu]] - regional adviser appearing in Cao's early field.
+- [[TerminalHezongFailure]] - neighboring coalition outcome, not proof of an identical Dong Commandery battle.
+- [[AuspiciousOmenPolitics]] - interpretive context for the disputed meteor inscription.
