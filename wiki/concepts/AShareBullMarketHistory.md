@@ -2,43 +2,50 @@
 title: "A-Share Bull Market History"
 type: concept
 tags: [investing, markets, china, history]
-sources: [a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx, 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+knowledge_schema: synthesis-v1
+sources:
+  - a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx
+  - 171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk
+  - ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2
+  - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
 last_updated: 2026-08-08
 ---
 
 # A-Share Bull Market History
 
-[[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] adds the practitioner season version. [[WuWeizhi|吴伟志]] reads A-shares through [[AShareMarketSeasons|spring, summer, autumn, and winter]], comparing current AI-themed heat with 2000 U.S. internet stocks, 2015 A-shares, and 2021 core assets/new energy, while treating the recorded market as source-dated summer rather than as an exact top call.
+## Definition
+A-share bull market history compares China's equity rallies by institutions, policy, liquidity, fundamentals, leverage and investor behavior; recurring patterns are context, not a timing formula.
 
-[[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] adds two late-cycle A-share examples. The 2007 market is used to show [[MarketBreadthNarrowing]] after the May 30 stamp-duty shock: the index later reached 6124, but many small-cap theme stocks did not return to their earlier highs. The 2014-2015 cycle is used for [[BubbleWealthRedistribution]], where small accounts entered late and traded actively while large accounts reduced exposure sooner after the peak.
-
-A-share bull market history is the Chinese equity-market cycle frame introduced by [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]]. The episode reviews several major A-share rallies from the early 1990s to 2015 and treats them as combinations of market scarcity, policy change, liquidity, regulatory learning, investor psychology, and real-economy follow-through.
-
-The concept is not a single prediction model. Its value in the source is pattern recognition: early markets can rise because there are few shares, policy can ignite a rally, liquidity can extend it, but lasting bull markets require economic, industry, and company fundamentals to improve enough to support prices.
-
-[[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds a contemporary post-rally checkpoint after A-shares moved above 4000. The episode does not replay the full history; it uses [[AShareValuationIndicators]], deposit movement, fund-return heat, and log-scale thinking to ask whether the market has moved from valuation repair into a more sentiment-dependent phase.
+## Current Synthesis
+Early scarcity and rule formation, policy-fueled expansions, reform-backed valuation changes and leveraged late cycles do not share one cause. An index can keep climbing after participation narrows, while profits can vanish before investors realize them.
 
 ## Key Claims
-- The early 1990s market was unusually scarce: few listed shares, early trading systems, subscription certificates, and changing rules made price movement extreme.
-- [[ShanghaiStockExchange]] appears as the institutional starting point, but the source emphasizes that the market's rules and supervision were built while trading was already happening.
-- High deposit rates, new stock supply, government-bond issuance, and regulatory tightening can end a rally even after enthusiasm has formed.
-- The 1996-2001 cycle added more information disclosure, policy support, and the "twelve gold medals" warning pattern, showing a market caught between confidence building and speculation control.
-- The 2005-2007 cycle is treated as a stronger structural bull market because share-split reform, RMB appreciation, and liquidity changed incentives and capital flow.
-- The 2008-2009 recovery shows fiscal stimulus and economic rebound supporting a market repair after a global shock.
-- The 2014-2015 rally shows how financing tools and off-market leverage can convert a rising market into a fragile [[LeverageDrivenBullMarket]].
-- The source's practical lesson is to separate market history from market prophecy: repeated patterns can warn investors, but they do not give a mechanical buy or sell point.
-- E145 adds that current-cycle indicators should be interpreted as risk context rather than as proof that a top has arrived.
-- Episode 171 adds that a headline index high can hide sector-level damage after breadth narrows, and that the full bubble-crash cycle can redistribute trading wealth from small accounts to large accounts.
-- The 面基 Wu Weizhi source adds that A-share history can be used as a season map for exposure and sector judgment, but not as a precise turning-point machine.
+- Market structure and policy can initiate rallies, but price durability depends on earnings and conditions after the catalyst.
+- Liquidity and leverage intensify both participation and reversal; the 2014–15 cycle is not interchangeable with share-reform gains in 2005–07.
+- Index strength can hide [[LateBullMarketLossRisk|sector losses]] and small-investor exit risk late in a bull market.
+- Season labels and valuation indicators are source-dated risk lenses, not mechanical top signals or individualized advice.
 
-## Connections
-- [[PolicyDrivenMarketRally]] — repeated catalyst across multiple A-share cycles.
-- [[LeverageDrivenBullMarket]] — specific fragile form of the 2014-2015 cycle.
-- [[RetailBullMarketPsychology]] — human behavior that recurs across cycles.
-- [[InvestmentRiskManagement]] — practical response to recurring boom-bust patterns.
-- [[MarketRegimeShift]] — each cycle changes which rule, policy, liquidity, or instrument matters most.
-- [[SpeculativeBubblePsychology]] — broader crowd-and-story pattern seen in A-share episodes.
-- [[ChinaSecuritiesRegulatoryCommission]] — regulator that gradually shaped market constraints and warnings.
-- [[AShareValuationIndicators]], [[DrawdownPsychology]], and [[PaperWealthVsCashValue]] — E145's post-rally indicator and profit-capture layer.
-- [[MarketBreadthNarrowing]], [[LateBullMarketLossRisk]], and [[BubbleWealthRedistribution]] - episode 171's 2007 and 2014-2015 late-cycle extension.
-- [[AShareMarketSeasons]], [[ASharePlantingCompanyTaxonomy]], and [[InvestmentStrategyFit]] - Wu Weizhi's source-scoped extension from market history into current-cycle action.
+## Evidence
+- **Institutional and policy regimes.** [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] reviews the [[ShanghaiStockExchange]]'s early-1990s scarcity, T+0, subscription certificates and evolving limits/supervision later associated with [[ChinaSecuritiesRegulatoryCommission]], then the brief 1994 policy rally and 1996–2001 disclosure/policy cycle with “twelve gold medals” warnings and [[SichuanChanghong]] as a post-panic blue-chip anchor. High deposit rates, government-bond issues, new stock supply and tightening can draw funds away. In 2005–07, share-split reform aligned tradable and large-holder interests with RMB appreciation and liquidity; 2008–09 fiscal stimulus supported repair after the global shock. Margin and off-market borrowing magnified 2014–15 gains and deleveraging amplified the fall; the episode uses personal examples to distinguish [[PaperWealthVsCashValue|paper gains]] from realized proceeds.
+- **Breadth and distribution.** [[171-weishenme-niushi-houqi-geng-rongyi-kuiqian-banniandu-touzi-zhang-fupan-lkkafvbea1ztxdwc0eempdinc4yk]] distinguishes absolute loss, lagging the headline index and ending a full cycle without retained gain. Its 2007 example says the May 30 stamp-duty shock damaged many small-cap themes even as the index later reached 6124; the 2014–15 account has late small accounts trading actively while larger accounts reduced exposure sooner, a source-scoped [[BubbleWealthRedistribution]] account. New lows, advance/decline, stocks over moving averages and those beating the index can reveal [[MarketBreadthNarrowing]], not predict an exact top. The host's June 2026 portfolio near −2.9%, equity below 30% and cash-like holdings near half are personal source-dated positioning, not a model allocation.
+- **Interpretation, not prophecy.** [[a-gu-de-chun-xia-qiu-dong-zhongshu-zhongliang-zhongcai-ljzicmfbl9guxoqmcdd8ikdn6jbx]] attributes to [[WuWeizhi|吴伟志]] a [[AShareMarketSeasons|spring–summer–autumn–winter]] framework: in August 2026 he called the overall market summer or possibly late summer, AI themes nearer autumn and some consumption nearer late winter. He compares thematic heat with 2000 U.S. internet, 2015 A-shares and 2021 core assets/new energy; his roughly 15–20% AI theme exposure is his own bounded liquidity/diversification choice. [[InvestmentStrategyFit]] warns against buying on trend and rationalizing a fall as value. [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] has [[ZhangYizhen]] assess a market above 4000 with PE, stock-bond relative value, deposits versus market cap, three-year fund returns, moving-average deviation and log charts; valuation repair needs earnings follow-through, and [[MultiStrategyAllocation]] can manage [[DrawdownPsychology]] rather than identify a peak.
+
+## Counterevidence & Qualifications
+- Podcast recollections and investor interviews do not establish causal attribution or future returns. The 2026 market levels, weights and “summer” diagnosis were contemporary assessments and must not be read as current advice. Past index peaks and participant cohorts are examples, not guaranteed repetitions; correlations among defensive assets can rise in a shock.
+
+## What Changed
+- Put historic regimes, late-cycle breadth and present-at-recording indicators into separate causal groups.
+- Preserved distinct 2007 and 2014–15 mechanisms rather than collapsing all bull markets into one bubble.
+
+## Related Concepts
+- [[PolicyDrivenMarketRally]] - policy can spark a cycle before profits catch up.
+- [[LeverageDrivenBullMarket]] - borrowed exposure accelerates the 2014–15 boom and reversal.
+- [[MarketBreadthNarrowing]] - index resilience can conceal weakening participation.
+- [[RetailBullMarketPsychology]] - visible gains can draw households in too late.
+- [[AShareMarketSeasons]] - Wu's dated, approximate regime language.
+- [[AShareValuationIndicators]] - multiple lenses frame risk without calling the exact top.
+- [[PaperWealthVsCashValue]] - nominal gains do not secure realized return.
+- [[InvestmentRiskManagement]] - portfolio sizing and exit discipline respond to repeated drawdowns.
+- [[MarketRegimeShift]] - changing rules and instruments limit naive historical analogy.
+- [[ASharePlantingCompanyTaxonomy]] - Wu's company-type metaphor complements, but does not replace, his market-season frame.
+- [[SpeculativeBubblePsychology]] - late buyers and sentiment can sustain prices after earnings support weakens.
