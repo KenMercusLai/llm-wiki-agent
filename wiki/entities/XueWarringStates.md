@@ -2,26 +2,39 @@
 title: "薛地 / Xue"
 type: entity
 tags: [place, fief, qi-state, pre-qin, warring-states]
-sources: [zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix, zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf, zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4, zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]
+sources:
+  - zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix
+  - zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf
+  - zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4
+  - zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t
 last_updated: 2026-08-19
+knowledge_schema: synthesis-v1
 ---
 
 # 薛地 / Xue
 
-薛地 / Xue appears in [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]] as the fief granted to [[TianYing|田婴]], who is also called Jingguo Jun in the episode. The source uses Xue less as a geography node than as a test of political security.
+## Overview
+薛地 / Xue: Tian Ying’s Xue fief depended more on his position in Qi than on new walls.
 
-After Tian Ying gains control of [[QiState|齐国]] affairs, he wants to build walls at Xue. His retainers argue against the plan by comparing him to a large fish: as long as the fish remains in the sea it is safe, but once it leaves the water, even small creatures can eat it. In the episode's reading, Qi is Tian Ying's sea. Fortifying Xue cannot protect him if he loses the larger state platform that gives his position real force.
+## Current Profile
+Tian Ying’s Xue fief depended more on his position in Qi than on new walls. Tian Wen inherited Xue and used its wealth to support an extensive retainer household. Sima Guang’s patronage critique and Sima Qian’s reported local observations are distinct judgments on that legacy.
 
-[[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]] turns Xue from Tian Ying's security problem into [[Mengchangjun|孟尝君 / 田文]]'s patronage base. After Tian Wen wins recognition and is recommended as heir, he inherits Xue and uses its wealth to house, feed, and honor wandering士人, retainers, and fugitives in the system later summarized as [[WarringStatesRetainerPatronage|战国养士]].
+## Key Characteristics
+- Tian Ying’s Xue fief depended more on his position in Qi than on new walls.
+- Tian Wen inherited Xue and used its wealth to support an extensive retainer household.
+- Sima Guang’s patronage critique and Sima Qian’s reported local observations are distinct judgments on that legacy.
 
-[[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] adds the critical side of that base. [[SimaGuang|司马光]] treats Mengchang Jun's use of wealth for indiscriminate retainer gathering as politically suspect because the resources ultimately come from a state-linked aristocratic position, not from a purely private household.
+## Evidence
+- **Tian Ying’s Xue fief depended more on his position in Qi than on new walls:** [[TianYing|田婴]], enfeoffed at Xue as Jingguo Jun, wanted walls after gaining influence in [[QiState|齐]]. His retainers' big-fish-at-sea analogy warned that losing the larger Qi political “sea” would make a fortified fief unsafe: an argument later called [[FiefSecurityIllusion|fief-security illusion]], not a measured outcome. [[zizhi-tongjian-zhouji-40-5-yue-chusheng-de-haizi-re-shui-la-ll9e-thidxl5cqoacfrbz-ygw8-t]]
+- **Tian Wen inherited Xue and used its wealth to support an extensive retainer household:** After overcoming household resistance and becoming heir, [[Mengchangjun|田文 / 孟尝君]] inherited the estate and spent its resources on food, lodging and respectful treatment for mobile scholars, fugitives and other guests; Xue financed [[WarringStatesRetainerPatronage|retainer patronage]] as well as being a place on a map. [[zizhi-tongjian-zhouji-41-mengchangjun-wo-shi-ruhe-dabai-zhe-40-duo-wei-gege-de-ltxgq6oxo1zlkkc6xqjo8-5htns4]]
+- **Sima Guang’s patronage critique and Sima Qian’s reported local observations are distinct judgments on that legacy:** [[SimaGuang|司马光]] faults indiscriminate recruitment of the worthy and unworthy with aristocratic, state-linked resources, while also crediting Mengchang Jun's willingness to accept correction; his criticism concerns selection and political purpose. [[zizhi-tongjian-zhouji-42-gei-mengchangjun-ti-yijian-de-houguo-lr1jp0tpiaboaca3j5-yvyhyn4vf]] [[SimaQian|司马迁]] instead reports hearing around old Xue that recruitment had attracted many bold and quarrelsome households. His local observation is not the same moral verdict, nor does it establish an exact population count. [[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]]
 
-[[zizhi-tongjian-zhouji-43-mengchangjun-qizi-touqing-bei-faxian-ta-zha-chuli-lr2idcktgfxtdkik1biaj9tiz8ix]] adds Xue's remembered social residue. The episode says [[SimaQian|司马迁]] later traveled around Mengchang Jun's old place and heard that his recruitment had drawn many brave and combative households there, turning [[WarringStatesRetainerPatronage|战国养士]] into a local social legacy rather than only a household practice.
+## Qualifications
+The fish-and-sea warning is recorded advice, not a measured counterfactual; later commentators offer different moral readings of patronage.
 
-## Connections
-- [[TianYing|田婴]] - fief-holder who wants to fortify Xue and whose wealth becomes Tian Wen's reputational resource.
-- [[QiState|齐国]] and [[QiWeiwang|齐威王]] - larger state setting that makes the fief meaningful.
-- [[FiefSecurityIllusion|封地筑城安全幻觉]] - source concept built from the wall-building warning.
-- [[Mengchangjun|孟尝君 / 田文]] - later inheritor of Xue.
-- [[WarringStatesRetainerPatronage|战国养士]] - patronage system that uses Xue as a material base.
-- [[SimaGuang|司马光]] - critic of the private-power use of Xue-backed resources.
+## What Changed
+- Xue’s material role in Mengchangjun’s retainer household is distinguished from Tian Ying’s earlier fortification warning and later moral judgments.
+
+## Relationships
+- [[QiWeiwang]] - larger state setting that makes the fief meaningful.
+- [[FiefSecurityIllusion]] - source concept built from the wall-building warning.
