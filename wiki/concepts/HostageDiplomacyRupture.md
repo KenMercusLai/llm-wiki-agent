@@ -2,51 +2,55 @@
 title: "Hostage Diplomacy Rupture / 质子外交破裂"
 type: concept
 tags: [diplomacy, hostage, alliance, pre-qin-history, warring-states]
-sources: [zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx, zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7, zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok, zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19, zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff, zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1, zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]
+knowledge_schema: synthesis-v1
+sources:
+  - zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx
+  - zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp
+  - zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7
+  - zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok
+  - zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19
+  - zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff
+  - zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1
+  - zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc
 last_updated: 2026-08-21
 ---
 
-# Hostage Diplomacy Rupture / 质子外交破裂
+## Definition
+Hostage diplomacy rupture is the failure or threatened failure of a person sent to guarantee interstate aid or alignment to remain an effective guarantee. It can follow violence, flight, succession pressure, or a domestic refusal to dispatch; a successful hostage bargain is a necessary contrast, not itself a rupture.
 
-Hostage diplomacy rupture / 质子外交破裂 names the failure mode introduced by [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]]. [[ChuHuaiwang|楚怀王]] sends crown prince [[MiHeng|芈横]] to [[QinState|秦国]] as hostage to secure Qin's help against the [[QiState|齐国]]-[[HanState|韩国]]-[[WeiState|魏国]] attack on [[ChuState|楚国]].
-
-The hostage arrangement initially works because Qin sends [[KeqingTong|客卿通]] and the attackers withdraw. It fails when Mi Heng kills a Qin official after a quarrel and escapes back to Chu without apology. A person meant to guarantee alliance trust instead becomes the cause of diplomatic rupture.
-
-[[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] shows the pattern repeating rather than simply ending. After the Qin-Chu rupture leads to attacks on Chu, [[ChuHuaiwang|楚怀王]] sends Mi Heng to [[QiState|齐国]] as hostage to seek peace. The same prince therefore moves from violating one hostage arrangement to anchoring another, showing how hostage diplomacy can remain necessary even after it has recently failed.
-
-[[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] adds the succession version. Once [[QinZhaoxiangwang|秦昭襄王]] detains [[ChuHuaiwang|楚怀王]], [[MiHeng|芈横 / 楚顷襄王]]'s hostage status in Qi becomes a question of whether [[ChuState|楚国]] can continue the royal line. [[QiMinWang|齐湣王]] considers holding him for land but releases him because a retained hostage may become worthless if Chu installs another king.
-
-[[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] adds a Qin-facing puzzle rather than a clean rupture. [[QinDaotaizi|秦悼太子]] dies while serving as hostage in [[WeiState|魏国]], even as Qin is attacking Wei under [[YuanjiaoJingongStrategy|远交近攻]]. The episode uses the case to question how hostage safety, succession preference, and military strategy interact when the sending state is stronger than the receiving state.
-
-[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] gives the pre-rupture decision point. [[ZhaoState|赵国]] seeks help from [[QiState|齐国]] while under [[QinState|秦国]] attack, and Qi demands [[ChangAnJunZhao|长安君]] as hostage before committing aid. [[ZhaoWeihou|赵威后]]'s refusal shows that hostage diplomacy can fail before dispatch if domestic affection blocks the credibility instrument; [[ChuLong|触龙]]'s persuasion works on that emotional precondition rather than on interstate terms alone.
-
-[[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] completes the positive version of that pre-rupture case. After Chu Long changes Zhao Weihou's mind, Chang'an Jun goes to Qi as hostage, Qi sends aid, and Qin withdraws. The case therefore shows the narrow path by which a domestic emotional veto can be overcome before the alliance mechanism fails.
-
-[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] adds a hostage-succession escape case. [[MiWan|芈完 / 楚考烈王]] is still in [[QinState|秦国]] when [[MiHeng|楚顷襄王]] becomes gravely ill, so [[Chunshenjun|黄歇 / 春申君]] tries to turn the hostage's return into Qin's interest: a returned heir may become a grateful Chu king, but a detained heir may become useless if another prince succeeds. Qin's suspicion and Huang Xie's disguise plan show that hostage diplomacy can fail through successful flight as well as through open rupture.
-
-[[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] completes that escape case. Mi Wan's return makes Qin's original leverage unrecoverable, so [[FanJu|范雎]] argues that killing Huang Xie would only waste the remaining relationship channel. The case adds a post-rupture salvage pattern: once a hostage has become the new ruler, the receiving state may gain more from sparing and returning the accomplice than from revenge.
+## Current Synthesis
+A hostage is leverage only if both courts still value the person's safety or future position. The same [[MiHeng]] first became a Qin–Chu alliance guarantee, broke that relationship, then served as a hostage in Qi and returned as Chu's successor. Other cases illustrate different limits: Zhao overcame a domestic veto and obtained aid; a Qin heir died in Wei without a proven explanation of intent; and Mi Wan escaped Qin when his father's illness made succession urgent. These episodes belong to one historical podcast series, not independent verification of every motive.
 
 ## Key Claims
-- Hostage diplomacy can make an alliance credible only while the hostage remains politically controllable.
-- A private conflict involving a hostage can become a state-level breach if it harms a host-state official.
-- Failure to apologize or repair the incident can turn an alliance guarantee into a war pretext.
-- The concept supports [[WarringStatesAllianceSwitching|战国同盟转向]] because hostage failure helps Qin pivot from helping Chu to preparing against Chu.
-- A failed hostage arrangement does not remove hostage diplomacy from the toolkit; pressured rulers may reuse the same mechanism with another state.
-- A hostage can become succession infrastructure: once the sending ruler is captured, the receiving state must decide whether the hostage is leverage or a depreciating asset.
-- A hostage can also reveal succession preference: if the sending ruler attacks the host state anyway, the hostage may not be politically decisive.
-- A hostage demand can rupture domestically before it ruptures between states when the sending court cannot convert a beloved child into diplomatic collateral.
-- When the domestic veto is overcome, the hostage can still perform its basic guarantee function and convert requested aid into actual intervention.
-- Succession danger can make a hostage depreciate quickly: the receiving state must decide whether holding the prince still creates leverage or merely loses the chance to influence the next ruler.
-- Escape can be an alternative rupture path when the sending side needs the hostage home faster than formal negotiation allows.
-- After escape succeeds, the host state still faces a salvage decision: punish the cover man, or preserve access to the newly installed ruler through him.
+- The Qin–Chu bargain initially obtained military help; Mi Heng's killing of a Qin official and flight without apology converted a credibility pledge into a diplomatic breach and later war pretext.
+- A failed guarantee can be reused elsewhere: Mi Heng's subsequent residence in Qi tied the same person to a new alignment after Qin attacked Chu.
+- A hostage loses bargaining value if succession can bypass him; Qi's decision to return Mi Heng after Chu Huaiwang's detention reflects this political depreciation.
+- Zhao's attempted refusal to send Chang'an Jun shows a domestic pre-dispatch failure mode; Chu Long's persuasion enabled a successful Qi aid bargain, rather than an actual rupture.
+- The death of Qin Daotaizi in Wei while Qin fought Wei poses a hostage/security puzzle, but does not prove he was deliberately sacrificed.
+- Mi Wan's clandestine return from Qin and Fan Ju's subsequent advice show that a host may salvage future relations after losing physical leverage over an heir.
 
-## Connections
-- [[MiHeng|芈横]], [[ChuHuaiwang|楚怀王]], [[ChuState|楚国]], and [[QinState|秦国]] - hostage, sending ruler, sending state, and receiving state.
-- [[KeqingTong|客卿通]] - Qin rescue commander who proves the hostage bargain initially works.
-- [[QinZhaoxiangwang|秦昭襄王]] - ruler who later cites the incident against Chu.
-- [[QiState|齐国]] - later hostage destination in Zhouji 61.
-- [[QiMinWang|齐湣王]] - ruler who decides whether Mi Heng remains leverage or returns to Chu in Zhouji 62.
-- [[WarringStatesAllianceSwitching|战国同盟转向]] and [[EnvoyKillingTaboo|不斩来使]] - adjacent diplomatic-rupture concepts.
-- [[QinDaotaizi|秦悼太子]], [[QinXiaowenwang|安国君柱 / 秦孝文王]], [[WeiState|魏国]], and [[YuanjiaoJingongStrategy|远交近攻]] - Zhouji 89 Qin crown-prince hostage puzzle.
-- [[ZhaoWeihou|赵威后]], [[ChangAnJunZhao|长安君]], [[ChuLong|触龙]], and [[QiState|齐国]] - Zhouji 91 hostage-demand persuasion case.
-- [[MiWan|芈完 / 楚考烈王]], [[Chunshenjun|黄歇 / 春申君]], [[MiHeng|楚顷襄王]], [[FanJu|范雎]], and [[QinState|秦国]] - Zhouji 92 hostage-succession, escape-cover, and post-escape salvage case.
+## Evidence
+- Breach after initial performance: [[zizhi-tongjian-zhouji-60-zhongguo-di-yi-wei-bachi-chaozheng-de-taihou-jingshi-ta-ltazis9qo0dwvwmzxikk8mmpvosc]] recounts [[ChuHuaiwang]] sending crown prince [[MiHeng]] to [[QinState]] during a [[QiState]]–[[HanState]]–[[WeiState]] attack on [[ChuState]]. [[KeqingTong]]'s relief force arrived, but the prince later killed a Qin official after a quarrel and fled without apology. [[zizhi-tongjian-zhouji-61-shui-shi-lishishang-daner-zui-fei-de-diwang-lvpoaszanascnlrmu2atinlxzmk1]] then describes Qin and allies' attack at Chongqiu, further Qin gains and Chu's sending Mi Heng to Qi in 300 BCE.
+- Succession depreciation: [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff]] recounts [[QinZhaoxiangwang]]'s 299 BCE [[Wuguan]] trap and detention of Chu Huaiwang after Chu refused to cede Wu and Qianzhong. With the heir in Qi, Chu considered another prince; [[QiMinWang]] weighed demanding territory north of the Huai but released Mi Heng so Qi would not be left with a politically obsolete captive. The host also emphasizes Chu's prior alliance reversals and ignored warnings, not kinship alone.
+- Domestic veto and successful countercase: [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-1-lmgd7kdl1nrfwcrtkqttumtlpqok]] places the newly enthroned [[ZhaoState]] court and [[ZhaoWeihou]] under Qin attack in 265 BCE; Qi demands [[ChangAnJunZhao]] before helping. [[ChuLong]] reframes maternal protection as securing the son's future status. [[zizhi-tongjian-zhouji-91-chulong-ruhe-qiaokai-shougua-zhaotaihou-de-men-2-liy5yulg2ysop-jwfigvdkub1pk7]] reports his dispatch to Qi with over one hundred carriages, Qi's aid and Qin's withdrawal; the host questions Chu Long's separate merit-based explanation of noble decline.
+- Death without established intent: [[zizhi-tongjian-zhouji-89-qinwang-jing-bei-ta-dui-mabaonan-ljugedx8qxhtuzd1ja-xiwxgse19]] notes [[QinDaotaizi]] dying as hostage in [[WeiState]] while Qin pursued [[YuanjiaoJingongStrategy]] against Wei. The later designation of [[QinXiaowenwang]] does not substantiate the host's conjecture that the dead heir was expendable.
+- Escape and residual channel: [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-1-lmwf0q0-3hxb6d4hro8fdmc3zdxp]] recounts [[Chunshenjun]] arguing that [[MiWan]] could become a Qin-friendly Chu king if returned, but might be displaced if held after [[MiHeng]] fell ill. He sends Mi Wan out disguised as a Chu envoy's driver. [[zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx]] says [[FanJu]] counseled sparing Huang Xie after the escape to preserve Qin's influence; Mi Wan succeeded his father three months later and made Huang Xie chancellor and Chunshenjun.
+
+## Counterevidence & Qualifications
+Zhao's case succeeded, so it is a boundary test for threatened failure. The prince's death in Wei is a notice, not evidence of intentional sacrifice or a clear breach. The Mi Heng in Qin, then Qi, and later ruling Chu is the same person at different times, whereas Mi Wan is a later Chu heir. Qi's and Qin's calculations are reported through this one podcast's narrative. A hostage may provide temporary credibility without ensuring alliance permanence; [[EnvoyKillingTaboo]] concerns envoys rather than establishing a rule for hostages.
+
+## What Changed
+- Organized the repeated chronology by breach, reuse, succession depreciation, successful contrast, unresolved death and post-escape salvage.
+- Removed any inference that Qin deliberately sacrificed its heir; kept the contested intention visible as a gap.
+- Distinguished actual interstate rupture from Zhao's resolved domestic veto.
+
+## Related Concepts
+- [[WarringStatesAllianceSwitching]] - Qin–Chu alignment reversed after the Mi Heng incident and subsequent warfare.
+- [[MiHeng]] - crown prince whose Qin and Qi hostage roles preceded his Chu accession.
+- [[ChuHuaiwang]] - sent the heir to two different courts and was later detained at Wuguan.
+- [[QiMinWang]] - evaluated whether a hostage would retain leverage after Chu's succession crisis.
+- [[ChuLong]] - persuasion resolved Zhao's refusal to offer Qi a credible hostage.
+- [[Chunshenjun]] - protected Mi Wan's return and remained a diplomatic channel after flight.
+- [[FanJu]] - argued against punishment that would destroy Qin's residual access to the new Chu ruler.
+- [[YuanjiaoJingongStrategy]] - Qin's attack on Wei frames, but does not explain, its heir's death there.
+- [[EnvoyKillingTaboo]] - adjacent norm governing messengers, analytically distinct from a hostage prince's breach.
