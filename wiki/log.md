@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-11-15] ingest | The Trust Diagnosis
+
+Added source `the-trust-diagnosis`; and resynthesized [[ClinicalTrustBuilding]], [[SecondOpinionStrategy]], [[MedicalDiagnosticReasoning]], [[MalcolmGladwell|Malcolm Gladwell]], and [[RevisionistHistory]] from each page's complete preserved evidence inventory before appending the new source once. Core synthesis: high-stakes trust is neither automatic deference nor confidence in a desired outcome; it can be earned through disciplined record review, independent opinions, clear reasoning, candid limits, and a decision process that remains honest about residual uncertainty. No settled contradiction was adopted. Dan's favorable outcome does not establish that minority opinions, surgery, large consultation counts, or intuition are generally superior; diagnosis, staging, recommendations, procedure details, PSA changes, and prognosis remain episode-reported because the supplied file is a structured summary rather than medical records, a transcript, or comparative clinical evidence. The automatic `wiki/overview.md` was read for context but not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,977 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, knowledge schema, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
 
 Added source `77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8`; created [[TokenRevenueSharingCompute]]; and resynthesized [[Nvidia]], [[JensenHuang|Jensen Huang]], [[FounderLedPlatformSuccessionRisk]], [[AICircularInfrastructureFinancing]], and [[DomesticAIChipCatchUp]] from their preserved evidence inventories before appending the new source once.
