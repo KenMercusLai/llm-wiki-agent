@@ -40276,10 +40276,6 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
-## [2026-11-16] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-11-16] ingest | The RFK Jr. Problem
 
 Added the [[RevisionistHistory]] episode comparing [[RobertFKennedyJr|Robert F. Kennedy Jr.]]'s claims about [[RotaTeq]] with package-insert traceability, an approximately 68,000-infant placebo-controlled trial, and expert interpretation from [[PaulOffit]] and [[SafiBahcall]]. Created bounded profiles for RotaTeq, Offit, and Bahcall; established [[ControlledTrialAdverseEventInterpretation]] and [[GermTheoryTerrainTheoryConflict]]; and resynthesized Kennedy, [[MalcolmGladwell]], and Revisionist History while preserving each existing evidence inventory before appending the new source once.
@@ -40640,6 +40636,10 @@ Added a short [[RevisionistHistory]] season trailer framing Berlin 1936 as a Naz
 Core synthesis: the trailer is orientation rather than independent historical evidence. It previews the claim that [[NaziGermany]] helped create the modern Olympic spectacle and used it to promote racial supremacy, mobilize Germans, and display international power, while the nine already-ingested full episodes supply the detailed evidence and qualifications. No canonical entity or concept judgment changed, so mature knowledge pages were not rewritten and their source inventories were preserved. No settled contradiction is adopted. Motives, causal influence, the transformation claim, and the implied *Giles v. Harris* connection remain preview-scoped because the supplied file is a structured summary of a four-minute trailer rather than the full series, transcript, or primary archive. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,054 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
