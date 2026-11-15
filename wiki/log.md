@@ -40183,3 +40183,7 @@ Added the [[RevisionistHistory]] episode comparing [[RobertFKennedyJr|Robert F. 
 Core synthesis: adverse events occurring after vaccination do not establish causation without comparator rates, denominators, outcome definitions, and uncertainty; passive reports generate signals rather than standalone causal verdicts. The episode's trial-based critique is stronger than its terrain-theory explanation of Kennedy's motive because Kennedy did not provide a recorded response. The reported decline in severe childhood diarrheal disease remains a combined result of vaccination, oral rehydration, sanitation, and broader care rather than RotaTeq alone. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,016 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
