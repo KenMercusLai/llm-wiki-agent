@@ -39570,7 +39570,6 @@ No settled contradiction was adopted. The episode's “greatest lost opportunity
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-11-15] ingest | 378-歌德如何看待通用人工智能
 
 Added the source note and connected Goethe's broom, Homunculus, and Faust's land-reclamation project to control and corrigibility, artificial-life generation, and the boundary between technical execution and worthy human goals.
@@ -39819,3 +39818,9 @@ Added source `why-would-i-do-that-to-jennifer-lopez-the-mistakes-series-why-woul
 ## [2026-11-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-15] ingest | A Tragedy in Texas | The Mistakes Series
+
+Added the [[RevisionistHistory]] episode in which [[HeatherWilson]] and [[DavidGoldfein]] explain the [[UnitedStatesAirForce|U.S. Air Force]] response after the [[SutherlandSpringsChurchShooting]] exposed its failure to report the gunman's violent conviction to the FBI. Created bounded profiles for Wilson, Goldfein, the Air Force, and the shooting, and added [[InstitutionalFailureOwnership]] and [[ServantLeadershipTrustRenewal]].
+
+Core synthesis: current leaders can owe an institution's disclosure, correction, and representation without being personally culpable for the initiating act; prior notice of a deficient system strengthens that duty; and presence among harmed stakeholders should follow their guidance rather than center the leader's rank. No settled factual contradiction was adopted. Causation, dialogue, audit history, press and congressional effects, reform outcomes, litigation, community response, and trust repair remain episode-scoped because the supplied file is a structured summary rather than a transcript, audit, personnel or court record, FBI data, reform evaluation, or victim account. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,981 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The full-corpus link scan still reports 55 unrelated pre-existing broken links; none were introduced by this ingest.
