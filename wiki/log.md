@@ -40255,3 +40255,7 @@ Added the [[ShiDiFuShuo|史蒂夫说]] episode in which [[SteveShiDiFuShuoHost|S
 Core synthesis: intent can remain uncertain while manipulative behavior and its effects are examined. Depletion, self-doubt, constricted behavior, reduced judgment, and illegitimate-feeling anger can be warnings without serving as standalone proof. Delaying a response, retaining one's interpretation, naming an implied attack, returning attention to the original issue, and widening outside support can restore agency; motive-focused reassurance or repair belongs only in sufficiently safe relationships and does not excuse harm. No settled contradiction was adopted. Cultural, developmental, gender, depression, “real self,” and manipulator-motive claims remain source-scoped, and the automatic `wiki/overview.md` was read for context but not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,022 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
