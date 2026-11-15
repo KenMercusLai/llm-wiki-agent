@@ -40331,3 +40331,7 @@ Added the [[RevisionistHistory]] conversation and audiobook excerpt in which [[R
 Core synthesis: trust is neither certainty nor the absence of accountability. Consequential decisions improve when confidence is tested against relevant information and proportionate verification, while ongoing relationships can use clear expectations, time frames, boundaries, and escalation rules instead of universal monitoring. No settled contradiction was adopted. Oversight can remain justified by law, safety, safeguarding, fiduciary duty, demonstrated misconduct, or credible fraud risk. Survey, familiarity, face-resemblance, thin-slice, and con-artist claims remain source-scoped because the supplied file is a structured summary rather than a transcript, audiobook text, cited studies, or systematic review. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,029 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
