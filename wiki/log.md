@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-11-16] ingest | The Future of Healthcare Technology with Eli Lilly and Company's Diogo Rau
+
+Added the [[RevisionistHistory]] interview with [[DiogoRau]] on [[EliLilly|Eli Lilly's]] patient-facing digital transformation; created [[PatientCenteredHealthcareDelivery]], [[MedicationAuthenticationAndSafety]], [[TreatmentFeedbackAndAdherence]], and [[PharmaceuticalDevelopmentTimeHorizon]]; and resynthesized Eli Lilly, [[PatientControlledHealthDataInteroperability]], and [[WearableHealthInsight]] from each page's complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: digital transformation in pharmaceuticals joins two different clocks. Access, mitigation, and feedback can often be shortened, while discovery, biological validation, trials, manufacturing, and approval remain long and uncertain. Secure packaging may strengthen product identity without proving custody or correct use; patient-visible data can coexist with professional interpretation; and treatment feedback may support adherence, but the episode explicitly leaves that effect as a hypothesis. No settled contradiction was adopted. Authentication performance, pharmacy-desert figures, wearable effects, same-day-access feasibility, privacy, clinical outcomes, economics, and AI-discovered medicines remain source-scoped because the supplied file is a structured summary rather than a transcript, technical specification, trial, dataset, regulatory record, or implementation evaluation. Broad [[MalcolmGladwell]], Revisionist History, [[Apple]], and the automatic `wiki/overview.md` were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,027 sources across 810 overview paragraphs and nine topics.
+
 ## [2026-11-16] ingest | Malcolm Breaks Down the Perfect Break Up Song
 
 Added the [[RevisionistHistory]] Valentine's Day comparison of R&B, folk, and country love songs; created [[Babyface]] and [[LoveSongGenreConventions]]; and resynthesized [[BenNaddaffHafrey]], [[SongwritingEmotionalProcessing]], and [[EmotionalSpecificityInStorytelling]] from each page's complete preserved evidence inventory before appending the new source once.
