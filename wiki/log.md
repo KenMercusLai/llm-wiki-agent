@@ -40408,3 +40408,7 @@ Added the [[ShizilukouCrossing|十字路口Crossing]] year-end conversation with
 Core synthesis: RSI is already emerging as a human-supervised engineering continuum wherever older models can contribute to later data, architecture, kernels, inference, or experiments, but rapid compounding depends on evaluation that is objective enough, automated, inexpensive, and hard to game. Computer Use can recover attention in tedious legacy workflows, while decision authority, exception handling, repository coherence, relationships, and responsibility remain human constraints. No settled contradiction was adopted. The title/body 赵晨阳/赵成阳 variation and Redix/Radix/Ridix ARK/ARC variants are preserved as source ambiguities; the TTS gain, productivity counts, personal outcomes, social forecasts, and historical causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, benchmark artifact, repository record, economic study, or historical source analysis. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,036 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
