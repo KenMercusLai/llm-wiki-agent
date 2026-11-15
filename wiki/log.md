@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-11-15] ingest | 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+
+Added source `77706b7f-cf2f-4400-826c-0331ae6c62a8-77706b7f-cf2f-4400-826c-0331ae6c62a8`; created [[TokenRevenueSharingCompute]]; and resynthesized [[Nvidia]], [[JensenHuang|Jensen Huang]], [[FounderLedPlatformSuccessionRisk]], [[AICircularInfrastructureFinancing]], and [[DomesticAIChipCatchUp]] from their preserved evidence inventories before appending the new source once.
+
+Core synthesis: the episode-reported resignation is a platform succession test because product judgment, Taiwan supplier trust, China-facing diplomacy, and ecosystem credit were concentrated around Huang; competitor share gains can coexist with slower aggregate infrastructure growth; import scarcity can reprice installed Chinese compute and force domestic adaptation without solving fabrication, software, or training reliability; and token revenue sharing can aggregate third-party compute while reallocating rather than eliminating capex, utilization, and governance risk. No settled contradiction was adopted. Resignation status, investigations, political motives, employee counts, orders, delivery ratios, server prices, compute gaps, successor candidates, revenue splits, and asset-price forecasts remain episode-attributed because the supplied file is a structured summary rather than primary corporate, legal, policy, contract, or market evidence. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 4,973 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-15] ingest | Frankenfood | The Mistakes Series
 
 Added the [[RevisionistHistory]] episode comparing the GMO tomato backlash with the naming and tasting of [[CultivatedMeat]]. Created bounded profiles for [[BarbaraStuckey]] and [[UpsideFoods]], and resynthesized [[ProductNamingAsPositioning]] and Revisionist History from their complete preserved evidence inventories before appending the new source once.
