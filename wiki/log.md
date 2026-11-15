@@ -40154,7 +40154,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-11-16] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran deterministic and graph-aware lint without saving a report. Semantic checks were unavailable because the configured LiteLLM model lacked a provider prefix.
 
 ## [2026-11-16] lint | Wiki health check
 
@@ -40167,3 +40167,7 @@ Added the [[HiddenBrain]] episode connecting [[LianeYoung]]'s research on [[Theo
 Core synthesis: people need inferred beliefs and intentions to distinguish accidents from attempts, coordinate conversation, and assess danger, but outcomes, taboo, political identity, and group loyalty can distort those judgments. Charitable interpretation is useful under ambiguity only when it remains revisable and does not erase observable risk. Forgiveness can reduce bitterness while preserving grief, estrangement, trust boundaries, and action against genuine threat; self-forgiveness comes after acknowledgment, remorse, apology, feasible amends, and concrete prevention rather than replacing them. No settled contradiction was adopted. Developmental timing, neural localization and stimulation effects, group comparisons, gratitude associations, arousal claims, and practical outcomes remain source-scoped because the supplied file is a structured summary rather than a transcript, study report, systematic review, clinical protocol, or individualized guidance. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,015 sources across 810 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
