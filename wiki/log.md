@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Malcolm on No Small Endeavor
+
+Added [[LeeCCamp]]'s [[NoSmallEndeavor]] interview with [[MalcolmGladwell]] about the family habits, childhood freedom, cultural movement, failure, and work commitments behind Gladwell's public method. Created bounded profiles for Camp and the program, plus [[CuriousConfidence]], [[PluralIdentitySelfPrioritization]], [[NarrativeMoralRehearsal]], and [[WholeLifeComparison]].
+
+Core synthesis: curiosity requires both humility about what one knows and enough self-security to expose ignorance; plural identity includes personal agency over which affiliations matter while remaining constrained by social treatment; and concrete stories can make ethical situations recognizable and action imaginable without replacing principles, evidence, or risk judgment. Whole-life comparison corrects envy by restoring hidden costs to visible advantages, while Gladwell's closing emphasis on effort and sacrifice presents commitment as a form of care without establishing idleness as a universal moral failure.
+
+No settled contradiction was adopted. The intuition claim qualifies universal readings of instinct by requiring expertise and education. Identity choice remains limited by discrimination and power; moral stories can manipulate or oversimplify; and the elite-university critique, personal recollections, dialogue, therapy effects, motives, and audience effects remain episode-scoped because the supplied file is a structured summary rather than a transcript, institutional study, clinical record, or independent biography. The broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and automatic `wiki/overview.md` were kept closed because the focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,056 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | Show 71 - Mania for Subjugation
 
 Added the opening [[HardcoreHistory]] installment on [[PhilipIIMacedon|Philip II of Macedon]] as the institutional precondition for [[AlexanderTheGreat|Alexander the Great]]. Created [[BattleOfChaeronea]], [[LeagueOfCorinth]], and [[Epaminondas]], and resynthesized Alexander, Philip, [[Olympias]], [[Thebes]], [[AlexanderLegendFormation]], [[TerrainConstrainedCombinedArms]], and [[HardcoreHistory]] from their complete preserved source inventories before appending the new source once.
