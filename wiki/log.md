@@ -41052,3 +41052,7 @@ Core synthesis: sociometry made attraction, rejection, isolation, and possible t
 No settled contradiction was adopted. The possible identification of Fitzgerald as coded resident “GA,” her exact cottage, study participation, manner of departure, and some abuse details remain uncertain or attributed. Escape rates, resident and data totals, intervention effects, dialogue, and claims about researcher motive remain source-scoped because the supplied file is a structured summary rather than a transcript, institutional archive, sociometric dataset, investigative record, or controlled study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,088 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
