@@ -41206,3 +41206,7 @@ Core synthesis: endings can disproportionately reorganize audience judgment, but
 No settled contradiction was adopted. Gladwell's distinction between anecdotes that fulfill expectations and stories that betray them remains a craft heuristic rather than a universal definition, because fulfillment, accumulation, inevitability, ambiguity, and deliberate nonresolution can also succeed. Audience judgment, professor first-impression research, Waymo reception, artistic intent, alternate-ending effects, and funeral meaning remain episode-scoped because the supplied file is a structured summary rather than a transcript, cited study, production archive, funeral record, or reception dataset. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,099 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
