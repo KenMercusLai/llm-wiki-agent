@@ -41940,3 +41940,7 @@ Core synthesis: disconfirmation does not operate outside identity, hope, and pri
 No settled contradiction was adopted. The episode complicates any simple expectation that decisive falsification automatically corrects belief, but two narrative cases do not establish a universal backfire effect, prevalence, or a complete causal model. Martin's motive and mental state, the scammer's verified identity, exact transactions, and clinical effects remain source-scoped because the supplied document is a structured summary rather than primary records or a verbatim transcript.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,150 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
