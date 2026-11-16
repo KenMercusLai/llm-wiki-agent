@@ -40928,3 +40928,7 @@ Core synthesis: unresolved childhood trauma, grief, status competition, firearm 
 The annual murder total, mass-shooting share, trauma-center history, number trained, childhood-bereavement prevalence, firearm modifications, program outcomes, and causal claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, dataset, evaluation, or policy study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,079 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
