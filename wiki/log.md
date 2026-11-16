@@ -40715,3 +40715,7 @@ Added a [[RevisionistHistory]] episode in which [[GaryGoldman]] and [[AngusFletc
 Core synthesis: the screenplay creates an [[AlgorithmicAutonomyParadox]] rather than a simple anti-AI warning. Cole's intuition repeatedly fails and Plato's advice repeatedly succeeds, yet prediction accuracy does not settle informed consent, legitimate authority, moral responsibility, or who defines the objective. The development history adds [[VisionBackedFilmFinancing]]: actor and producer interest could not make a roughly $120 million, morally difficult project financeable without a director trusted to turn its premise into an execution plan. No settled contradiction is adopted. The ending, screenplay, actor and director attachments, budget, financing sequence, narrative-hardware claim, and algorithmic company's failure remain source-scoped because the supplied file is a structured summary rather than a transcript, screenplay, production archive, cited paper, or financial record. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,062 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
