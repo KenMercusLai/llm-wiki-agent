@@ -41912,3 +41912,7 @@ Added a short [[RevisionistHistory]] teaser on [[AlLevitt|Al Levitt]]'s New York
 Core synthesis: the First Motion Picture Unit brought politically divergent Hollywood personnel into the same wartime media institution. Reagan narrated military films there, while Levitt later remembered his cavalry-dress arrival as a source of ridicule. No settled contradiction was adopted: the anecdote supplies a deflating firsthand perspective, not an objective verdict about Reagan's service or the opinion of the entire post. The teaser does not explain the later compromises in its title, and its political, employment, draft-board, workplace-reputation, and production details remain source-scoped without personnel records, production credits, a transcript, or the full bonus episode.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,148 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
