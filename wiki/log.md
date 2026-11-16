@@ -41751,10 +41751,6 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 Ran lint. See lint-report.md for details.
 
-## [2026-11-17] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-11-17] ingest | Cede of doubt: a NATO offer to Ukraine
 
 Added a [[TheIntelligence]] episode connecting an unaccepted NATO-for-territory proposal, the uneven constraints of American divided government, and a South London classroom lesson in AI scrutiny and evidence-based disagreement. Created [[NegotiatedSecurityGuaranteeCredibility]] to separate treaty labels from allied authorization, operational specificity, adversary acceptance, and political durability, and created [[DividedGovernmentExecutiveConstraint]] to distinguish congressional oversight and fiscal leverage from continuing delegated presidential authority.
@@ -41990,6 +41986,10 @@ No settled contradiction was adopted. The episode strengthens existing identity 
 The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,152 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-11-17] lint | Wiki health check
 
