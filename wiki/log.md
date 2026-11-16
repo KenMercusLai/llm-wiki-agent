@@ -41108,3 +41108,7 @@ Core synthesis: puberty-related plateaus or temporary decline should not automat
 No settled contradiction was adopted. Scholarship abolition remains a proposed incentive intervention rather than an evaluated policy, and the episode's developmental curves, participation gaps, abuse surveys, comparative sport systems, uniform claims, and talent-prediction claims remain source-scoped because the supplied file is a structured summary rather than a transcript, study, or policy analysis. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,092 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
