@@ -41666,3 +41666,7 @@ Core synthesis: experiments can do more than rank interventions. Failed teacher 
 No settled contradiction was adopted. The episode extends the Busia textbook lesson and qualifies simple randomized-trial optimism. Study locations, samples, effects, mechanisms, and external validity remain episode-scoped because the supplied file is a structured summary rather than a transcript, protocol, dataset, or systematic review. The broad [[HiddenBrain]] profile remained closed because focused pages capture the durable additions without reopening its unrelated evidence inventory. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,130 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
