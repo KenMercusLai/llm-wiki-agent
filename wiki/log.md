@@ -41820,3 +41820,7 @@ Core biodetection synthesis: trained dogs were fast, mobile, and popular in back
 No settled contradiction was adopted. The expanded Stride biography complements rather than resolves the uncertainty over whether she and [[CatherineEddowes]] had the same killer. Historical syphilis and treatment details remain source-scoped medical history, and tour use does not establish that canine screening can replace conventional testing. Broad hub profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening large unrelated evidence inventories.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,141 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
