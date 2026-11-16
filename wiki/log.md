@@ -42004,3 +42004,7 @@ Core synthesis: regret is constructive when comparison with an imagined alternat
 No settled contradiction was adopted. Context can qualify responsibility without excusing harmful conduct, while accountability need not become total self-condemnation. The listener stories, symptom associations, action-versus-inaction timing, cultural attribution, medalist satisfaction, grade-threshold, and decision-strategy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, or replication evidence. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,155 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
