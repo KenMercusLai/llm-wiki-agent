@@ -42310,3 +42310,7 @@ Core synthesis: precision bombing was not one proposition but a chain from aircr
 No settled contradiction was adopted. The Saint-Nazaire result does not establish general precision feasibility, and biographical memories, lecture calculations, institutional counts, anti-aircraft probabilities, mission results, B-29 performance, motives, and aesthetic reactions remain episode-scoped because the supplied file is a structured summary rather than a transcript, doctrine archive, or comparative campaign history. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,178 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
