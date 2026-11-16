@@ -42190,3 +42190,7 @@ Core synthesis: institutional progress can be meaningful without being complete;
 No settled contradiction was adopted. Georgia Tech's program figures and representation claims remain episode-reported, Isbell's experiences qualify any complete racial-progress narrative, the split computer-vision result does not authenticate the painting, and Gladwell's LSAT argument does not independently settle standardized-test validity.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,169 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
