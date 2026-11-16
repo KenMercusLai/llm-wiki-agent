@@ -40775,3 +40775,7 @@ Added a short [[RevisionistHistory]] preview in which [[MalcolmGladwell]] introd
 Core synthesis: an abandoned project can retain creative, diagnostic, relational, and emotional value without its nonproduction proving either hidden greatness or institutional error. The source extends [[UnrealizedCreativeWorkValue]] with a development-system frame while keeping the film–pharmaceutical comparison qualified. No settled contradiction is adopted. Industry prevalence, project quality, emotional impact, and causes of nonproduction remain source-scoped because the supplied file is a promotional summary rather than a transcript, completed mini-series, production archive, or independent industry study. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,067 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
