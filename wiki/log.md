@@ -41150,3 +41150,7 @@ Core synthesis: debate aimed at persuasion must understand the undecided audienc
 No settled contradiction was adopted. The episode leaves the mainstream-versus-alternative-media question unresolved and does not show that audience values are always sound, that persuasive victory establishes truth, or that flowing transfers automatically beyond debate. Polling, historical-superlative, motive, learning-time, and performance claims remain episode-scoped because the supplied file is a structured summary rather than a debate transcript, polling methodology, or educational study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,095 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
