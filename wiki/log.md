@@ -40996,3 +40996,7 @@ Core synthesis: the episode identifies a narrative structure in which institutio
 No settled contradiction was adopted. The proposed influence of childhood television on Alito or Brett Kavanaugh remains speculative, and the source does not provide the complete *Bruen* record or establish that historical regulations were uniform, continuously enforced, or equivalent to modern law. Episode counts, homicide calculations, historical totals, ordinance coverage, quotations, legal reasoning, and causal media effects remain source-scoped because the supplied file is a structured summary rather than a transcript, legal record, ordinance archive, audience study, or comprehensive history. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,084 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
