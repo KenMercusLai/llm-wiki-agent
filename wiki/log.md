@@ -42164,3 +42164,7 @@ Core synthesis: responsible judgment considers constraints, feasible alternative
 No settled contradiction was adopted. Grant's emphasis on civilian suffering qualifies Gladwell's contextual sympathy, their apparent dispute about obsession narrows through the harmonious-versus-pressured distinction, and the BlackBerry exchange exposes competing units of evaluation rather than one factual conflict. Historical bombing claims, counterfactual war outcomes, passion effects, and the BlackBerry ecosystem argument remain source-scoped because the supplied file is a structured summary rather than a transcript, archival history, research review, or causal evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,167 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
