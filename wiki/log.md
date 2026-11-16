@@ -41834,3 +41834,7 @@ Core synthesis: babies are active participants in social and learning loops. Syn
 No settled contradiction was adopted. Planned ignoring remains dependent on behavioral function and cannot override safety or assessment; gardener parenting remains compatible with boundaries and explicit teaching; and experimental percentages, short-term vocal changes, arousal measures, robot comparisons, and developmental outcomes remain episode-scoped because the supplied document is a structured summary rather than the underlying research.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,142 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
