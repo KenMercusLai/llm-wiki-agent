@@ -41696,3 +41696,7 @@ Core synthesis: private access to mistakes, insecurity, intentions, and self-foc
 No settled contradiction was adopted. More charitable forecasts do not establish that every approach is welcome or safe, and privacy, culture, power, prejudice, or genuine rejection can change both evaluation and the cost of testing it. Lifespan, social-anxiety, narcissism, study-design, effect-size, cultural, and clinical claims remain unresolved or episode-scoped because the supplied file is a structured summary rather than a transcript, paper set, dataset, or clinical guideline. The broad [[HiddenBrain]] profile remained closed because the focused pages capture the durable addition without reopening its unrelated evidence inventory. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,132 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
