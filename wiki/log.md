@@ -41738,3 +41738,7 @@ Created focused profiles for [[TopicalTalk]] and the [[EconomistEducationalFound
 No settled contradiction was adopted. The NATO offer is reported as neither deliverable nor accepted rather than as an available peace settlement; a prisoner exchange remains independently valuable without resolving territorial and deterrence disputes; and the programme's reported sevenfold skill gain remains source-attributed because the supplied file does not include the evaluation design or outcome measure. Broad Ukraine, Russia, Trump, Zelensky, and Robert Guest profiles remained closed because focused pages capture the durable additions without reopening unrelated evidence inventories. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,135 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
