@@ -41682,3 +41682,7 @@ Created [[RacializedSlaveryAfterlife]] to distinguish the legal rupture of aboli
 No settled contradiction was adopted. African supplier participation does not cancel European demand-side, financial, maritime, and imperial responsibility; explaining Haitian retaliatory violence through slavery and colonial war does not excuse massacre; and abolition's incompleteness does not make segregation identical to chattel slavery. Counts, demographic claims, atrocity descriptions, motives, timelines, and causal weights remain episode-scoped because the supplied file is a structured summary rather than a transcript, archival study, or systematic review.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,131 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
