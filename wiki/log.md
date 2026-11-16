@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-16] ingest | Healing 2.0: Disrupting Death
+
+Added the [[HiddenBrain]] episode following [[JustinHarrison]] and [[MelodyHarrison]] from terminal illness and cryonics planning into [[YouOnlyVirtual]] and its relationship-specific Versona. Created bounded profiles for Harrison, Melody, and the company, then resynthesized [[AIGriefBots]] and Hidden Brain from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: a grief bot can derive emotional force from familiar concern, advice, tone, voice, and shared relational expectations even when an outside observer finds it repetitive or diminished. That emotional reality does not make the system the deceased person, establish therapy, or guarantee factual fidelity. Continuing learning can sustain an evolving interaction while also making later output increasingly reflect the survivor, model, and product design rather than the historical person. The founder case strengthens the long-term boundary because an attempt to preserve one bond was associated with debt, health decline, excessive drinking, house loss, unpaid work, and marriage breakdown, although the source cannot assign every loss causally to the technology.
+
+No settled contradiction is adopted. Harrison's claim that grief should be eliminated conflicts with adaptation-oriented accounts at the level of stated judgment, but one founder narrative cannot determine whether continuing digital contact supports or obstructs grieving. Melody's consent, training sufficiency, product capability, adoption, benefit, harm, company viability, cryonics prospects, and personal causation remain source-scoped because the supplied file is a structured summary rather than a transcript, product audit, clinical study, financial record, or independent company report. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,072 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
 ## [2026-11-16] ingest | The Birthday Party with Charles Randolph | Development Hell
 
 Added the [[RevisionistHistory]] conversation in which [[CharlesRandolph]] explains [[BirthdayPartyFilm|The Birthday Party]], his unproduced adaptation of Stanley Alpert's kidnapping account. Created focused profiles for Randolph, the screenplay, and [[MilosForman|Miloš Forman]], plus [[AdaptationInventedInternalConflict]], [[CollaborativeCrossCulturalAuthorship]], and [[RepresentationalRiskInFilmDevelopment]]. Resynthesized [[AdaptationAsMoralReframing]] and [[UnrealizedCreativeWorkValue]] from their complete preserved evidence inventories before appending the new source once.
