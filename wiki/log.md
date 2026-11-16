@@ -42074,3 +42074,7 @@ Core synthesis: calm intentions do not guarantee access to the same priorities u
 No settled contradiction was adopted. Failure to leave, confront, or resist does not establish consent, while state-dependent explanation does not erase accountability. The ice-water, sexual-arousal, harassment, training, addiction, and policy claims remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, ethics materials, replication evidence, or policy evaluation. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,160 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide validator still reports 60 pre-existing broken wikilinks outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
