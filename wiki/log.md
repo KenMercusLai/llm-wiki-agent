@@ -40823,3 +40823,7 @@ Added a sponsored [[RevisionistHistory]] episode on the [[LasVegasGrandPrix]], w
 Core synthesis: [[ConnectedSportsExperience]] joins operational access with spectator legibility, live coaching, and personalized coverage, while [[ConnectivityEnabledWorkflowRedesign]] now includes the shared infrastructure behind admission, movement, commerce, production, and race data. [[FormulaOne]] gains a connected-venue layer and [[TMobile]] gains a distinct sports test-bed case. No settled contradiction is adopted. The episode is a paid T-Mobile partnership; speeds, site counts, crowd service, fan benefit, athlete-data use, privacy, cost, reliability, and comparison with alternative architectures remain unverified or source-scoped. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,071 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
