@@ -42032,3 +42032,7 @@ Core synthesis: memory is useful but reconstructive. Later stories, images, ques
 No settled contradiction was adopted. The episode strengthens the wiki's existing reconstruction and contamination accounts while adding imagination-driven source confusion and a stereotype-threat boundary around later-life memory testing. Historical experiments, induced-memory rates, aging effects, stereotype-threat effects, sleep mechanisms, and learning benefits remain episode-scoped because the supplied file is a structured summary without underlying methods, samples, effect sizes, uncertainty intervals, or replication history. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,157 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
