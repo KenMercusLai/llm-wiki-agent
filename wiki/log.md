@@ -41926,3 +41926,7 @@ Core synthesis: self-compassion combines self-kindness, mindful acknowledgment o
 No settled contradiction was adopted. Accurate standards, safety requirements, consequences, and repair remain necessary, while autobiographical, threat-response, motivation, well-being, health-behavior, suicidality, and relationship claims remain episode-scoped because the supplied document is a structured summary without underlying methods, samples, effect sizes, adverse-event reporting, or replication detail.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,149 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
