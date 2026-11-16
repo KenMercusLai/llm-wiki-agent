@@ -41890,3 +41890,7 @@ Core synthesis: deep work is a role-specific and socially negotiated condition r
 No settled contradiction was adopted. Newport's missed interview keeps the inconvenience of reduced availability visible, and emergency, service, and relationship-heavy roles preserve a genuine boundary on isolation. Hospital retention, attention residue, working-memory capacity, productivity, and broader stimulation effects remain episode-scoped because the supplied file is a structured summary without underlying papers, methods, sample sizes, effect sizes, adverse-event reporting, or replication detail. The efficiency discussion extends the workplace ratchet: saved time becomes leisure only when people and institutions choose not to refill it with more work.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts cover 5,146 sources across 811 overview paragraphs and nine topics. Added-line wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
