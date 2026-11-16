@@ -41278,3 +41278,7 @@ Core synthesis: vocal style can influence perceived authority without establishi
 No settled contradiction was adopted. The episode complements [[PilotVoice]] by showing a differently gendered authority stereotype, but its vocal demonstrations, historical lineage, prevalence claim, and account of celebrity contagion remain cultural interpretation rather than acoustic-corpus, controlled-perception, audience, or causal evidence. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[MarilynMonroe]], [[KimKardashian]], automatic `wiki/overview.md`, and adjacent multi-source pages were kept closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,104 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
