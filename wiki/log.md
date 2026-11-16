@@ -41638,3 +41638,7 @@ Core synthesis: nonviolent resistance can outperform armed struggle because it u
 No settled contradiction was adopted. Sudan's later turmoil qualifies a near-term success classification, and the reported 3.5 percent pattern is a descriptive rule of thumb rather than a guarantee. Campaign coding, success rates, participation estimates, Spanish support effects, casualty totals, and case-specific causal claims remain episode-scoped because the supplied file does not contain the underlying dataset, surveys, coding decisions, or later outcome audit. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening unrelated evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,128 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
