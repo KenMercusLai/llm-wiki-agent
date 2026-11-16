@@ -41752,3 +41752,7 @@ Core synthesis: accurate knowledge makes affection and trust personally meaningf
 No settled contradiction was adopted. Feeling understood is not proof of accuracy, agreement, compatibility, benign intent, or safe contact, and limited protective blind spots may sometimes be adaptive. Gender differences, medical and educational outcomes, political loyalty, friendship patterns, prejudice effects, conflict outcomes, and relationship-satisfaction claims remain episode-scoped because the supplied file is a structured summary rather than a transcript, study set, clinical protocol, or systematic review. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,136 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
