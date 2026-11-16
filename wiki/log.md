@@ -41862,3 +41862,7 @@ Core synthesis: measurable routine work can produce more remotely while career v
 No settled contradiction was adopted. The Ctrip result concerns volunteers doing measurable call-center work and should not be generalized to creative, collaborative, involuntary, or poorly equipped home work. Productivity, savings, attrition, promotion, survey percentages, and pandemic-era forecasts remain episode-scoped because the supplied document is a structured summary rather than the underlying studies or a verbatim transcript.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,144 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
