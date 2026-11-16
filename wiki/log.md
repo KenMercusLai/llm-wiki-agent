@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | May the Best Firebomb Win
+
+Added a [[RevisionistHistory]] episode reconstructing napalm's development from gel chemistry and improvised prototypes through competitive trials, the M69 bomb, and reconstructed Japanese and German housing at Dugway. Created synthesis-first profiles for [[HoytHottel]] and [[EBHirschberg|E. B. Hirschberg]], plus [[TechnicalOptimizationMoralAbstraction]], then resynthesized [[LouisFieser]], [[CurtisLeMay]], and [[NapalmWarfare]] from their complete preserved evidence inventories before appending the new source once.
+
+Core synthesis: rigorous measurement can establish whether a weapon works without establishing whether it should be used. Napalm's optimized adhesion, dispersal, and burn performance made urban destruction practical and therefore exerted pressure on a precision-bombing doctrine that had formally excluded civilian populations as primary targets.
+
+No settled contradiction was adopted. The episode's biblical temptation frame may compress institutional and strategic causes; chemical details, competition results, the reported 68 percent category-A result, M69 performance, participant motives, and the division of inventive credit remain source-scoped because the supplied file is a structured summary rather than a transcript, technical report, or archival campaign study. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,177 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | You 2.0: Our Pursuit of Happiness
 
 Added a [[HiddenBrain]] episode with [[EmilyBalcetis]] on how visual attention and representation can shape perceived effort, motivation, and goal pursuit. Created focused synthesis-first pages for [[GoalMaterialization]] and [[WideBracketGoalReview]], then resynthesized Balcetis, [[VisualFocusEffortTool]], [[ChoiceArchitecture]], [[FutureSelfContinuity]], [[MentalContrastingImplementationIntentions]], and [[ProgressTrackingSelfAssessment]] from their complete preserved evidence inventories before appending the new source once.
