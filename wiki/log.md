@@ -40886,3 +40886,7 @@ Core synthesis: retained mineral rights preserved Osage value after dispossessio
 No settled contradiction with the existing wiki was adopted. The episode directly qualifies a narrow history in which Hale's conviction solved the murders. Exact victim totals, causes of unresolved deaths, dialogue, motives, family recollections, medical claims, and the full scope of official complicity remain source-scoped because the supplied file is a structured summary rather than a transcript, case archive, medical record, or comprehensive Osage history. The broad [[RevisionistHistory]], [[PoliticalResourceCurse]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic; the maximum-age gate triggered global compaction. Refreshed artifacts validate 5,076 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
