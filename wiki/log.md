@@ -41876,3 +41876,7 @@ Core synthesis: constructive rebellion is not disruption as identity. Useful cha
 The episode's research-integrity warning is material. It reports fabrication allegations against Gino, her denial, multiple retractions, and the retraction of the karaoke study discussed in the episode. That study contributes no evidence to the wiki; surgeon, guitarist, sneaker, workplace, and leadership claims remain episode-scoped pending underlying methods and independent verification. No settled contradiction was adopted. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,145 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
