@@ -41506,3 +41506,7 @@ No settled contradiction was adopted. The episode aligns with immune modulation 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,119 sources across 811 overview paragraphs and nine topics. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream synthesis hard boundary.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
