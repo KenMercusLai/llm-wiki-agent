@@ -41568,3 +41568,7 @@ No settled contradiction was adopted. Post-regime disavowal cannot identify sinc
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,123 sources across 811 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
