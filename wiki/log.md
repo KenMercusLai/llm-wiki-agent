@@ -41766,3 +41766,7 @@ Core synthesis: decisive protection does not require overriding a frightened chi
 No settled contradiction was adopted. The helper's identity, motives, later actions, exact dialogue, and travel details remain unknown or episode-scoped, and one retrospective childhood narrative cannot establish that the intervention alone caused Wendy's career, parenting, or worldview. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening a large unchanged evidence inventory.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,137 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
