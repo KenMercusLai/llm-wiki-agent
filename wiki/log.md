@@ -41944,3 +41944,13 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 ## [2026-11-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-17] ingest | Politics Is for Power: Moving Beyond Political Hobbyism
+
+Added a [[HiddenBrain]] episode with political scientist [[EytanHirsch]] distinguishing [[PoliticalHobbyism]] from action designed to move voters, policy, institutions, or other people. Created Hirsch's profile and focused synthesis-first pages for political hobbyism and [[CommunityServicePowerBuilding]], then resynthesized [[DeepCanvassing]] from its complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: intense attention, partisan feeling, voting, donation, and public expression do not automatically create power; their political role depends on whether they connect to strategy, persuasion, turnout, service, organization, or institutional accountability. The episode's immigrant-community case shows practical citizenship help accumulating into trust, mobilization capacity, and leverage, while its Klan, Hamas, and ISIS examples make clear that service is a morally neutral organizing method whose value depends on means and ends.
+
+No settled contradiction was adopted. Political information and expression can indirectly support action, while time, money, disability, caregiving, safety, citizenship, access, and institutional responsiveness constrain visible participation. The deep-canvassing synthesis excludes the fabricated early study from evidence and treats later reported findings as episode-scoped pending methods and effect sizes. The source frontmatter/H1 title mismatch is preserved in the source note, and the automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,151 sources across 811 overview paragraphs and nine topics.
