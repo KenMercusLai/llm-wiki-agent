@@ -41136,3 +41136,7 @@ Core synthesis: stadium-scale success can increase response while reducing the c
 No settled contradiction was adopted. Martin's stadium account does not show that large venues always prevent experimentation, Gopnik's three-phase chronology is a critical interpretation rather than an objective ranking, and the career, production, reception, and craft claims remain source-scoped because the supplied file is a structured summary of an eleven-minute promotional excerpt rather than the complete audiobook, transcript, production archive, filmography analysis, or audience study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[StandupComedyIteration]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,094 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
