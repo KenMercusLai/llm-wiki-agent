@@ -41652,3 +41652,7 @@ Created Naomi Rothman, Emotional Ambivalence, [[AmbivalentLeadership]], and [[Pa
 No settled contradiction was adopted. Advice receptiveness is useful only when advice is sound, cooperation moderates rather than guarantees benefit, and paradox mindset remains a hypothesis rather than an established intervention. Experimental effects, gender differences, earnings-call findings, team-performance mechanisms, and personal cases remain episode-scoped because the supplied file is a structured summary rather than a transcript, study report, dataset, or systematic review.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,129 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
