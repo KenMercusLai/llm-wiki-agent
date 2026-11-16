@@ -41164,3 +41164,7 @@ Core synthesis: biological designs can move more like information, but candidate
 No settled contradiction was adopted. The episode adds a counterweight to sources that portray Fauci mainly through institutional criticism, but neither threats against him nor conflict allegations adjudicate pandemic policy or misconduct. The 1947–COVID comparison is suggestive rather than controlled, a seven-day Moderna design claim does not compress the full development process, and claims about ferret intervention, engineered pathogens, manufacturing benefits, campaign totals, vaccine safety, and refusal deaths remain source-scoped because the supplied file is a structured summary rather than a transcript, scientific review, archival study, or public-health dataset. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` pages were kept closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,096 sources across 810 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
