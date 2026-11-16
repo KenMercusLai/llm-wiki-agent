@@ -42060,3 +42060,7 @@ Core synthesis: elevated marital expectations can increase both fragility and po
 No settled contradiction was adopted. The episode qualifies the idea of one timeless traditional marriage and strengthens existing support-diversification and interaction-developed compatibility accounts. The historical sequence, legal chronology, care-work estimate, social-portfolio association, relationship interventions, growth-mindset effects, and consensual-non-monogamy outcomes remain episode-scoped because the supplied file is a structured summary without underlying archives, methods, samples, effect sizes, or replication evidence. Growth framing and generous interpretation do not excuse coercion, abuse, chronic danger, or repeated refusal of accountability. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,159 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
