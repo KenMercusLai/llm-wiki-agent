@@ -42228,3 +42228,7 @@ Core synthesis: the hoax succeeded by making research, documents, performance, l
 No settled contradiction was adopted. Literary ingenuity and emotional insight do not legitimate forged attribution, financial fraud, or publication without consent; mental-health, injury, motive, expert-reaction, and manuscript-value claims remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,172 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
