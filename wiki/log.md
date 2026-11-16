@@ -41685,7 +41685,7 @@ Downstream synthesis found no dirty controlled topic and global compaction was n
 
 ## [2026-11-17] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran deterministic and graph-aware lint without saving a report. Semantic checks were unavailable because `LLM_MODEL` was not provider-qualified for LiteLLM.
 
 ## [2026-11-17] ingest | Teaser: Pushkin’s Dirty Laundry
 
@@ -41954,3 +41954,7 @@ Core synthesis: intense attention, partisan feeling, voting, donation, and publi
 No settled contradiction was adopted. Political information and expression can indirectly support action, while time, money, disability, caregiving, safety, citizenship, access, and institutional responsiveness constrain visible participation. The deep-canvassing synthesis excludes the fabricated early study from evidence and treats later reported findings as episode-scoped pending methods and effect sizes. The source frontmatter/H1 title mismatch is preserved in the source note, and the automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,151 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
