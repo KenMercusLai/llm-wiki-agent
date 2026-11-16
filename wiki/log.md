@@ -41848,3 +41848,7 @@ Core synthesis: achievement does not automatically become self-trust when privat
 No settled contradiction was adopted. The new source extends rather than displaces the wiki's distinction between false inadequacy and genuine capability, ethical, or role-fit problems. Gender, race, GPA, anxiety, depression, stereotype, praise, and belonging claims remain episode-scoped without the underlying studies, while public-figure examples do not establish diagnosis or a universal threshold for productive doubt. The broad [[HiddenBrain]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable addition without reopening a large unrelated evidence inventory.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,143 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
