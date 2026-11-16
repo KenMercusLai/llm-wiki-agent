@@ -42350,3 +42350,7 @@ Core synthesis: usefulness, emotion, aesthetic attention, and autobiographical m
 No settled contradiction was adopted. The museum-hoarding comparison remains an argumentative analogy rather than a clinical equivalence, and the episode's collection counts, financial history, accounting effects, and institutional motives remain source-scoped. Broad [[MalcolmGladwell]], Revisionist History, Tolkien, and dragon profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,181 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
