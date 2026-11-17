@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-11-17] ingest | Malcolm Gladwell Debates Adam Grant
+
+Added a live [[RevisionistHistory]] conversation in which [[MalcolmGladwell]] and [[AdamGrant]] debate creativity, performance, organizational fit, empathy, career experimentation, workplace dissent, automation, disclosure, and institutional purpose. Created focused synthesis-first pages for [[ContextDependentPerformance]] and [[SpecificityAndSurprise]], then resynthesized Adam Grant from his complete preserved evidence inventory before appending the new source once.
+
+Core synthesis: visible performance can depend on familiar collaborators, routines, coaching, culture, and role fit, while too much team stability can produce rigidity. Memorable ideas pair concrete, inspectable detail with a plausible departure from expectation; specificity alone may merely confirm what an audience already believes.
+
+No settled contradiction was adopted. Gladwell and Grant retain productive disagreements over preserving teams, cultural fit, and empathy for favorites versus underdogs. Sports, surgery, aviation, team-life-cycle, productivity, AI, attribution, and corporate-disclosure claims remain episode-scoped because the supplied file is a structured bilingual summary rather than a transcript or the underlying studies and records. The broad [[MalcolmGladwell]] profile and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening a large unchanged inventory or manually rewriting derived synthesis.
+
+Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,212 sources across 811 overview paragraphs and nine topics.
+
 ## [2026-11-17] ingest | Strong Verbs, Short Sentences
 
 Added the [[RevisionistHistory]] episode using [[BernadineHealy]], [[RameshSharma]], and [[JohnDingell]] to reconstruct the collapse of an early-1990s scientific-fraud panic. Created synthesis-first profiles for all three figures plus [[ScientificMisconductDueProcess]] and [[ScientificFraudPanic]], then resynthesized the [[NationalInstitutesOfHealth]] from its complete preserved evidence inventory before appending the new source once.
