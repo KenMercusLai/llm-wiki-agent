@@ -42572,3 +42572,7 @@ Core synthesis: uniform timing can improve comparison while favoring rapid probl
 No settled contradiction was adopted. Scalia's praise of Sutton weakens his categorical school filter without proving that selectivity contains no information, while Gladwell's proposed school-name ban could conceal relevant training or shift signaling elsewhere. Timing, admissions-weight, capacity, score-distribution, interview-retention, and firm-performance claims remain episode-scoped because the supplied file is a structured summary rather than technical documentation, datasets, models, or independent replication. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,197 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
