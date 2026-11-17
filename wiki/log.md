@@ -42769,3 +42769,7 @@ Core synthesis: Article IV can be read to permit state subdivision when the rele
 No settled contradiction was adopted. The supplied file is a structured summary rather than the underlying law review article, constitutional drafting record, 1845 resolution, transcript, judicial authority, or demographic model. Broad [[MalcolmGladwell]], [[RevisionistHistory]], party, Senate, Congress, and automatic `wiki/overview.md` profiles remained closed; Texas and the U.S. Constitution were migrated to `synthesis-v1` from their complete bounded inputs because the new source materially changes their current profiles.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,211 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, canonical index coverage, log coverage, identities, synthesis-v1 structure, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
