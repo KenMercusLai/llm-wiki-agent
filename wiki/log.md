@@ -42859,3 +42859,7 @@ The episode extends institutional self-coordination from accusation-building to 
 No settled contradiction was adopted. The supplied file is a structured episode summary rather than the trial transcript, police and medical files, appellate record, or an independent investigation. The reported later request for forgiveness remains hearsay, and the *To Kill a Mockingbird* discussion is interpretive comparison rather than evidence about Johnson's case. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,217 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
