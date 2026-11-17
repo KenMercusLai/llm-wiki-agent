@@ -42699,3 +42699,7 @@ Core synthesis: numerical inclusion is not equivalent to secure belonging or sha
 No settled contradiction was adopted. Kanter's study concerned women in one male sales force, so applying it to race, celebrity, and politics is an episode-level analogy. The framework complicates judgment without proving that Davis lacked agency or could not have refused particular choices. Claims about motives, dialogue, financial dependence, audience response, and causal structure remain episode-scoped because the supplied file is a structured summary rather than a transcript, archive, biography, or original research study. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and [[RichardNixon]] profiles and automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,206 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
