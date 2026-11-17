@@ -42364,3 +42364,7 @@ Core synthesis: effective de-escalation in a status-sensitive conflict can combi
 No settled contradiction was adopted. Guan Yu's insecurity, vanity, and anger mechanism remain presenter interpretations; dialogue, ranks, flood mechanics, force and captive totals, surrender circumstances, execution sequence, wall damage, defections, relocation deliberation, and delay effects remain source-scoped. The automatic `wiki/overview.md` remained unchanged under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,182 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
