@@ -42951,3 +42951,7 @@ Core synthesis: democratic oversight and investigative reporting were warranted 
 No settled contradiction was adopted. Rizzo's account implies publication led to the killing, while Weiner argues that CIA procedure and official dissemination created the danger. The classified record does not establish how the asset was identified or allocate exclusive responsibility among recruitment, oversight disclosure, editorial judgment, the asset's refusal of evacuation, and hostile investigation. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[NewYorkTimes]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,223 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
