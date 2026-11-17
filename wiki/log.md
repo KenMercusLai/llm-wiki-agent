@@ -43143,3 +43143,7 @@ Core synthesis: Western Wei–Northern Zhou growth joined coalition identity, la
 No settled contradiction was adopted. The duration of the Guanlong Group remains disputed; a fixed Liang–Eastern Wei encirclement lacks direct support in the episode; He Ba Sheng's diplomatic influence and Li Mi's abdication strategy remain conjectural; and Li Hu's Tang-era elevation is qualified by pre-Tang epitaph evidence for some titles. The supplied file is a structured episode summary rather than a transcript, monograph, dynastic-history edition, or archaeological publication. Broad [[HuzuoHuyou]], [[GuanzhongRegion]], [[BaShu]], [[XiaoYanLiangWudi]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving zero pending ingests; refreshed artifacts validate 5,237 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
