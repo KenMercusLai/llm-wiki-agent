@@ -42685,3 +42685,7 @@ Core synthesis: a decision-maker can protect reputation by accepting conventiona
 No settled contradiction was adopted. The hockey timings remain model-dependent; the home-invasion discussion is a fictional thought experiment rather than universal safety guidance; the stand-your-ground estimates and proposed mechanism require the underlying study and later literature; and Brown's Treasury and poker claims remain personal positions. Broad [[MalcolmGladwell]], [[SamHarris]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because the focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,205 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
