@@ -42965,3 +42965,7 @@ Core synthesis: a rule intended to preserve recreational open space can also cre
 No settled contradiction was adopted. The original episode and [[revenge-of-a-good-walk-spoiled-revenge-of-a-good-walk-spoiled|2026 follow-up]] belong to the same reporting lineage and are not independent corroboration. Valuations, tax payments, course capacity, usage, CEO-performance associations, membership turnover, and comparative-access details remain episode-scoped pending primary records. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,224 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
