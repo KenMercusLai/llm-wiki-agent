@@ -42979,3 +42979,7 @@ Core synthesis: gradual replacement can preserve temporal continuity while elimi
 No settled contradiction was adopted. The trailer explicitly leaves its season-wide theory open to disagreement and cannot substitute for the full evidence in the later golf-course and french-fry episodes. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable addition without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,225 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, health, derived synthesis, whitespace, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
