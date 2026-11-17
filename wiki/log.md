@@ -42642,3 +42642,7 @@ Core synthesis: Western coercion and racial hierarchy made rapid modernization a
 No settled contradiction was adopted. The source reinforces Bushido as an evolving construction and Meiji modernization as an imperial entanglement rather than a clean defensive-to-aggressive switch. Cultural intensity is explanatory only when joined to education, command, family pressure, sanctions, and limited choices; Western double standards do not excuse Japanese empire or atrocity. Claims about Onoda's inner world, imperial belief, the emperor's responsibility, public motives, atrocity totals, and battle figures remain contested or source-scoped. The automatic `wiki/overview.md` remained closed in accordance with the downstream synthesis boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving seven pending ingests; refreshed artifacts validate 5,202 sources across 811 overview paragraphs and nine topics. Changed-page whitespace, health, canonical index coverage, log coverage, identities, synthesis-v1 structure, generated synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
