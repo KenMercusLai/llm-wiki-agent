@@ -43007,3 +43007,7 @@ Core synthesis: institutional loyalty and moral disobedience can reinforce each 
 No settled contradiction was adopted. The Princeton analogy is weaker than Wenger's combined risk to family, faith, vocation, and communal identity; anger, confrontation, litigation, outsider pressure, and refusal may also be necessary. Wilson's racism and federal segregation role, church procedure, dialogue, audience reach, and persuasion effects remain source-scoped because the supplied document is a structured summary rather than a transcript or primary record. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,227 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
