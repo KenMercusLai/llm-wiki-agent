@@ -42937,3 +42937,7 @@ This file substantially overlaps the existing [[revisited-ms-buchanan-s-period-o
 Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the source adds no distinct host- or show-level finding requiring their large evidence inventories to be reopened.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,222 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, derived synthesis, and publish validation passed. The corpus-wide ingest checker still reports 61 pre-existing broken links outside the changed pages.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
