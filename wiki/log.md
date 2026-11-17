@@ -42460,3 +42460,7 @@ Core synthesis: the response to HIV/AIDS did not begin from an empty conceptual 
 No settled contradiction was adopted. The episode's heroic small-club narrative does not reconstruct the full international HIV-discovery record, competing priority claims, or the wider research network. Dates, dialogue, motives, experimental credit, Gallo's role, and the amount of response time saved remain episode-scoped because the supplied file is a structured summary rather than primary papers, laboratory records, or a comprehensive scientific history. Broad [[MalcolmGladwell]] and Revisionist History profiles and the automatic `wiki/overview.md` remained closed because focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,189 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
