@@ -42905,3 +42905,7 @@ The Churchill profile was revised from its complete prior 11-source inventory an
 No settled contradiction was adopted. The source focuses heavily on two personalities inside a wider colonial, military, administrative, environmental, and market system, and the supplied file is a structured summary rather than the transcript, original bombing study, Lindemann memoranda, shipping archive, famine inquiry, Cabinet record, or complete historiography. Broad [[MalcolmGladwell]] and [[RevisionistHistory]] profiles remained closed because the episode adds no distinct biographical or show-level finding requiring their large evidence inventories to be reopened. The automatic `wiki/overview.md` was left for the deterministic synthesis workflow rather than edited manually.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,220 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
