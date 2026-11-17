@@ -42558,3 +42558,7 @@ Core synthesis: constitutional principle, monopoly fear, illicit-market income, 
 No settled contradiction was adopted. The new commercial evidence complicates rather than disproves the established constitutional account, and the drug-dealer, Mafia, and colonial-founder analogies do not establish equivalence of commodities, harms, organizations, or historical settings. Smuggling scale, participant motives, insurance interpretation, family identification, generation counts, and post-independence tax comparisons remain episode-scoped because the supplied file is a structured summary rather than an archive, transcript, monograph, or independent historiographic review. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,196 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
