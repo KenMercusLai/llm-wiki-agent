@@ -42418,3 +42418,7 @@ Core synthesis: the Lower Falls operation recovered weapons but became a strateg
 No settled contradiction was adopted. The episode agrees with prior coverage that weapons were recovered and Catholic trust was damaged, while its classroom analogy does not make education and counterinsurgency equivalent. Exact casualty responsibility, the representativeness of individual testimony, and wider republican and loyalist motives remain source-scoped. Broad [[MalcolmGladwell]], [[TheTroubles]], [[BritishArmy]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving six pending ingests; refreshed artifacts validate 5,186 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
