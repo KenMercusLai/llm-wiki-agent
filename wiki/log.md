@@ -43059,3 +43059,7 @@ Core synthesis: expanding aid lowers collected tuition and can increase dependen
 No settled contradiction was adopted. The supplied file is a structured argumentative summary rather than a transcript, audited financial statement, admissions dataset, applicant survey, or comparative institutional study. Financial figures, Pell shares, rankings, preferences, and endowment returns remain episode-scoped; the Bowdoin comparison does not prove a dollar-for-dollar substitution between dining and aid. Broad [[MalcolmGladwell]], [[RevisionistHistory]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,231 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
