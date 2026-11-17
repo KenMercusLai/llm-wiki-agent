@@ -43184,3 +43184,7 @@ Created focused pages for Takehiko Nakao, the Asian Development Bank, Japanese m
 No settled contradiction was adopted. The source strengthens the interest-differential account of yen weakness while retaining trade, income, reinvestment, service-payment, expectation, and hedging qualifications; faster normalization benefits savers and may reduce currency and asset-price distortion while raising borrower costs. Japanese relationship infrastructure may improve durability while slowing action, whereas Chinese speed and scale can strengthen capability while intensifying host-country displacement and legitimacy concerns. Numeric rate benchmarks, purchasing-power comparisons, development-finance history, and organizational explanations remain episode-attributed because the supplied file is a structured summary rather than primary data, official loan records, company filings, or a verbatim transcript.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,240 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
