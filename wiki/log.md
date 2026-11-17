@@ -43226,3 +43226,7 @@ Created [[AliGhodsi]], [[DatabricksGenie]], [[EnterpriseAIDeploymentBottlenecks]
 No settled contradiction was adopted. Ghodsi's four-condition test is treated as a stricter boundary for runaway general recursion rather than a refutation of partial human-supervised RSI. Genie's company context may reduce information loss and managerial latency while increasing surveillance, privacy, consent, causal-validity, and metric-gaming risks. Revenue, growth, employee-survey, engineering-output, productivity, model-spend, healthcare, risk, and 10–15-year diffusion claims remain episode-attributed because the supplied file is a structured summary rather than audited company data, product documentation, benchmark evidence, clinical research, or a verbatim transcript.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,243 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide link scan still reports 61 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
