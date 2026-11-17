@@ -43170,3 +43170,7 @@ Added source on Nvidia's leadership and export-control aftershocks, Britain's po
 No settled contradiction was adopted. The Huang leadership dispute, congressional scrutiny, cabinet accusations, export-control changes, migration forecast, Pattinson casting, and Amazon MGM control remain episode-attributed because the supplied file is a structured summary rather than primary corporate, government, statistical, or studio documentation. The automatic `wiki/overview.md` remained closed because the focused pages capture the durable additions without reopening the global artifact.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,239 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
