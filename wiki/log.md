@@ -43045,3 +43045,7 @@ Core synthesis: the value of a gift depends on the recipient's starting resource
 No settled contradiction was adopted. The supplied file is a structured, argumentative summary rather than a transcript, donor agreement, audited financial record, employment study, or comparative impact evaluation. Gift counts, endowments, tuition, enrollment, employment, scholarship costs, rankings, and causal effects remain episode-scoped, while the source gives limited attention to elite research spillovers, donor restrictions, selection effects, and counterfactual spending. Broad [[MalcolmGladwell]], [[RevisionistHistory]], [[StanfordUniversity]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening large unchanged inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving nine pending ingests; refreshed artifacts validate 5,230 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
