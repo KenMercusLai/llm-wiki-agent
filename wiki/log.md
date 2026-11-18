@@ -4605,6 +4605,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-11-18] ingest | Two ways big bets on data centers might affect you (Two Indicators)
+
+Added the Planet Money source on hyperscaler bond issuance, long-duration data-center finance, Oracle's OpenAI concentration, credit-market repricing, and circular infrastructure exposure. Created [[MattSheridan]], migrated [[Oracle]] and [[DataCenterDebtRisk]] to synthesis-v1, and refreshed [[AIInfrastructureDebtFinancing]] and [[AICircularInfrastructureFinancing]]. No settled contradiction was adopted; default, crash, fraud, and systemic-risk outcomes remain conditional rather than established.
+
 ## [2026-11-15] ingest | Encore: Hallelujah
 
 Added the [[RevisionistHistory]] episode on [[ElvisCostello]], [[LeonardCohen]], [[JohnCale]], [[JeffBuckley]], and [[HallelujahSong|“Hallelujah.”]] Created bounded profiles for Costello, Cale, Buckley, the song, and economist [[DavidGalenson]]; established [[ConceptualAndExperimentalInnovation]] and [[IterativeCreativeReinterpretation]]; resynthesized Cohen from his complete two-source evidence inventory; and resynthesized [[MalcolmGladwell]] from his complete preserved evidence inventory before appending the new source once.
