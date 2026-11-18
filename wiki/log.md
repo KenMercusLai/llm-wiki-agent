@@ -43282,3 +43282,7 @@ Resynthesized How I Built This and Guy Raz from their complete preserved 28-sour
 No settled contradiction was adopted. The dates and frequencies are forward-looking programming commitments rather than evidence that the 2027 schedule was delivered; the supplied file does not identify upcoming founders or archive selections, compare audio and video outcomes, or report audience and production results.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,247 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
