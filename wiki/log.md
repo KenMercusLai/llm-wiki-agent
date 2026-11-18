@@ -43355,3 +43355,7 @@ Added source `zizhi-tongjian-hanji-1170-zuoshi-cun-jiaoxing-zhen-de-hui-wanjiebu
 No settled contradiction was adopted. Troop and camp counts, place-name readings, letters, motives, tactical timing, supply responsibility, surrender mechanics, execution, relief measures, and pursuit-restraint logic remain episode-attributed pending comparison with underlying chronicles.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,253 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide scan still reports 62 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
