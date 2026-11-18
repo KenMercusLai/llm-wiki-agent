@@ -43330,3 +43330,7 @@ Added source `f1a5dcb1554991d25f471399cbe83e83-f1a5dcb1554991d25f471399cbe83e83m
 No settled contradiction was adopted. Summit attendance, motives, agenda, and outcomes remained prospective; endometriosis prevalence, delay, funding, genetic, diagnostic, and treatment claims remain episode-reported rather than clinical guidance or primary research; and gaming revenue, budget, staffing, play-time, hardware-price, and industry-direction claims remain estimates or forecasts. Broad [[DonaldTrump]], [[XiJinping]], [[VladimirPutin]], [[EconomistPodcasts]], [[WomensHealthDiagnosticGap]], [[EndometriosisRecurrenceManagement]], [[Microsoft]], and automatic `wiki/overview.md` profiles remained closed because focused pages capture the durable additions without reopening larger unchanged evidence inventories or manually rewriting derived synthesis.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,251 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
