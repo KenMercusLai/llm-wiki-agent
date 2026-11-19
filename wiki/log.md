@@ -43419,3 +43419,7 @@ Core synthesis: Nvidia's survival joined architecture correction with runway. Th
 No settled contradiction was adopted. The interview was recorded in April 2026 and explicitly does not address later events, so it adds historical evidence without reversing later episode-attributed resignation and succession material. Early product, contract, cash, workforce, family, AI-safety, employment, and geopolitical claims remain participant or episode-reported rather than independently verified. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,258 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
