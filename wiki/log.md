@@ -43503,3 +43503,7 @@ Core synthesis: product-led growth joins a complete low-friction activation path
 No settled contradiction was adopted. Render's team-seat fees were later removed, making the episode evidence for customer research and reversible pricing rather than a universal seat-fee rule. ARR, signup, conversion, customer-share, margin, and recommendation claims remain participant-reported, and the developer-infrastructure context limits generalization. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,264 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
