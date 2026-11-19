@@ -43475,3 +43475,7 @@ Core synthesis: the Anthropic/OpenAI segment is a forecast-bound capital-race sn
 No settled contradiction was adopted. Anthropic and OpenAI valuations, revenues, listing dates, technological rankings, mineral investment figures, development effects, nutrition mechanisms, and study findings remain source-scoped because the supplied file is a structured episode summary rather than filings, project records, development data, clinical guidelines, or the underlying research papers. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic; the max-age gate triggered global compaction. Refreshed artifacts validate 5,262 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed. The corpus-wide scan still reports 62 pre-existing broken links outside this ingest's changed pages.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
