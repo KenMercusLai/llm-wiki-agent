@@ -43379,3 +43379,7 @@ Core synthesis: Nvidia's reported board refusal narrows the immediate reinstatem
 No settled contradiction was adopted. The source is a structured business-news summary rather than board minutes, airline terms and redemption data, court pleadings or judgments, platform audit records, contracts, or audited company reporting. Broad company pages remained closed where focused pages capture the durable additions without reopening large unchanged evidence inventories or manually rewriting the automatic `wiki/overview.md`.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,255 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
