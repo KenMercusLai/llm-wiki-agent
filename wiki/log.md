@@ -43601,3 +43601,7 @@ Core synthesis: broader IPO access and first-day enthusiasm do not establish dur
 No settled contradiction was adopted. Anthropic's reported $2 trillion first-day value remains unreconciled with earlier forecasts and lacks primary exchange or filing detail. Nvidia compensation, employee-question, investigation, and resignation claims remain episode-attributed, as do outage, patch, formal-verification, and defensive-model claims. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,271 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
