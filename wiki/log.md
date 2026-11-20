@@ -43615,3 +43615,7 @@ Core synthesis: the Majestic X's episode-reported $42 million in roughly six wee
 No settled contradiction was adopted. The source distinguishes prize-court revival for regular naval forces from renewed privateering, and it leaves ownership, valuation, costs, claimant rights, speed, violence, jurisdiction, and the legal meaning of war source-scoped or untested. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,272 sources across 811 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
