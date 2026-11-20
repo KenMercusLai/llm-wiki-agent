@@ -43573,3 +43573,7 @@ Core synthesis: data centers create overlapping rather than uniform public inter
 No settled contradiction was adopted. Project costs, water and electricity use, wholesale-price changes, utility arrears, polling, employment, tax expenditure, wages, property values, and political effects remain episode-attributed because the supplied file is a structured summary rather than the underlying reporting, datasets, legislation, utility dockets, or corporate records. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,269 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
