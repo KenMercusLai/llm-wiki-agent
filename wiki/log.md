@@ -43559,3 +43559,7 @@ Core synthesis: authoritative legal recognition can restore dignity, name a pers
 No settled contradiction was adopted. The genocide vote, atrocity details, remedy forecast, cyber incidents, benchmark results, access rules, near-term attacker advantage, Uglev's technical authorship, and state-use claims remain episode-attributed because the supplied file is a structured summary rather than the judgment, campaign artifacts, benchmark documentation, laboratory archive, or official investigation. The episode's juxtaposition of A234's cardiac effects with Uglev's reported heart-attack death is not treated as evidence of poisoning. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,268 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
