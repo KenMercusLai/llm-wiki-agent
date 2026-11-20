@@ -43587,3 +43587,7 @@ Core synthesis: housing may affect family formation through price, stability, eq
 No settled contradiction was adopted. Kearney's lack of a clear rent-fertility relationship and the episode's emphasis on family-sized homes narrow rather than overturn the earlier housing-access claim. Fertility, desired-family-size, housing-gap, review-time, cost, upzoning, mortgage, legislation, and causal claims remain episode-attributed because the supplied file is a structured summary rather than the underlying research, statutes, administrative data, or full transcript. The automatic `wiki/overview.md` was read for context and was not manually rewritten under the downstream synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic; the age gate triggered global compaction. Refreshed artifacts validate 5,270 sources across 811 overview paragraphs and nine topics.
+
+## [2026-11-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
