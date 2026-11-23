@@ -43755,3 +43755,7 @@ Resynthesized [[FilmDistributionGatekeeping]] and [[TheSocialReckoning]] from th
 No settled contradiction was adopted. The existence of a coherent film cycle, Hollywood's motives, founder characterization, reported distribution difficulty, the 1970s analogy, and the dystopian reading of *The Internship* remain source-scoped interpretations rather than industry-wide causal findings.
 
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,282 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
