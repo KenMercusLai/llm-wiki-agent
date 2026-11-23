@@ -43713,3 +43713,7 @@ Resynthesized [[MentalIllnessDestigmatization]] and [[SeriousMentalIllnessFamily
 No settled contradiction was adopted. The episode's single family, single workshop, policy-implementation claims, and reported epidemiological figures remain source-scoped and do not constitute individualized clinical, crisis, or legal guidance.
 
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,279 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
