@@ -43769,3 +43769,7 @@ The automatic `wiki/overview.md` was read for context and not manually rewritten
 ## [2026-11-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
