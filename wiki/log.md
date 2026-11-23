@@ -43727,3 +43727,7 @@ Resynthesized [[DementiaCaregiverBurden]] from its complete preserved evidence i
 No settled contradiction was adopted. Near-nine-tenths service coverage and continuing severe cases measure different things: resources may exist while assessment alerts, referrals, affordability, understanding, trust, or sustained intervention still fail. Case counts, gender distribution, coverage figures, policy corrections, and causal interpretations remain source-scoped rather than population-level proof or individualized clinical, legal, or crisis guidance.
 
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary. Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,280 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
