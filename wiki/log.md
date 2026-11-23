@@ -43671,3 +43671,7 @@ Core synthesis: Cook's navigational, cartographic, chronometer-supported, and An
 No settled contradiction was adopted. The source corroborates the earlier first-voyage notes and extends them chronologically. Its comparison with conquistadors can clarify differences in immediate purpose and conduct without removing imperial coercion or consequence, while Pacific perspectives, casualty totals, quoted wording, sexual exchange, cannibalism accounts, Omai's later life, and Cook's health remain source-scoped through European records.
 
 Downstream synthesis refreshed `science-health-and-climate`; material candidate change triggered global compaction. Refreshed artifacts validate 5,276 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
