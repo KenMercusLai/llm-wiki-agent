@@ -43938,3 +43938,7 @@ No settled contradiction was adopted. Regulation and citizen participation can c
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic; the age gate required global compaction. Refreshed artifacts validate 5,294 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
