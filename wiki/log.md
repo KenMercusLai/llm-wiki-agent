@@ -43895,3 +43895,7 @@ No settled contradiction was adopted. Strong compute demand and backlog can coex
 The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due; refreshed artifacts validate 5,291 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
