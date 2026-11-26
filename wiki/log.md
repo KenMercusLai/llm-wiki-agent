@@ -44014,3 +44014,7 @@ Created synthesis-first profiles for Qilin, the book, Martin, and Qipeishi, plus
 No settled contradiction was adopted. The title-body 齐林/麒麟 discrepancy remains explicit; historical-photography authorship claims, conflict and casualty accounts, route details, conservation politics, and the effects of documentary images remain source-scoped because the supplied file is a structured summary without complete citations or transcript context. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,299 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
