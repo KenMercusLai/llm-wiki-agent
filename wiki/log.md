@@ -44056,3 +44056,7 @@ Created synthesis-first pages for Zhong, [[WetMarketFoodSystem]], [[LocalFreshne
 No settled contradiction was adopted. The source strengthens the coexistence view of wet markets, supermarkets, community stores, and platforms rather than claiming one channel is universally superior. Freshness, safety, sustainability, market counts, platform effects, agricultural structure, and renovation outcomes remain source-scoped because the supplied file is a structured episode summary rather than a transcript, census, comparative food-safety study, platform audit, or farm dataset. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving one pending ingest. Refreshed artifacts validate 5,302 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
