@@ -43984,3 +43984,7 @@ No settled contradiction was adopted. The British humane-martyr image conflicts 
 Downstream synthesis refreshed the dirty history-and-geopolitics and science-health-and-climate topics from their complete bounded inputs. Global compaction was not due. The rendered artifacts cover 5,297 sources across 812 overview paragraphs and nine topics.
 
 Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
