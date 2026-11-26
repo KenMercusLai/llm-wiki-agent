@@ -44070,3 +44070,7 @@ Created synthesis-first pages for Brady Brickner-Wood and [[AIFoodAdvertising]].
 No settled contradiction was adopted. The source qualifies cost and technical-quality defenses of AI advertising: free generation does not prove practical accessibility or commercial effectiveness, and improving photorealism does not by itself establish appetite, sensory credibility, or human purpose. Examples, adoption frequency, budgets, audience response, and future model performance remain source-scoped because the supplied file is a short structured summary without campaign data, restaurant-owner interviews, customer research, or a full transcript. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due, leaving one pending ingest. Refreshed artifacts validate 5,303 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
