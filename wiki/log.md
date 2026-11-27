@@ -44124,3 +44124,7 @@ Resynthesized [[AIInvestmentMetrics]], [[AICapexReturnWindow]], [[AIRevenueLegib
 No settled contradiction was adopted. Lower public-equity prices can reduce one form of bubble risk without resolving customer ROI, infrastructure leverage, contract fragility, or application adoption. Strong HBM orders do not remove ordinary-memory cyclicality, and long compute contracts improve bankability without making end demand or counterparties risk-free. Nvidia leadership events, Anthropic listing performance, company valuations, policy trajectories, market reactions, and 2027 forecasts remain episode-scoped because the supplied file is a structured summary rather than a transcript, filing, audited financial record, regulator notice, or market dataset. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,307 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
