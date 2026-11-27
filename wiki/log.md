@@ -44210,3 +44210,7 @@ Core synthesis: information transparency and post-complaint sanctions cannot by 
 No settled contradiction was adopted. Direct ownership may improve accountability without establishing clinical appropriateness, outcomes, group profitability, or thousand-store transferability. Revenue, traffic, procedure volume, store growth, unit profitability, payback, market comparisons, cash, and demand claims remain founder- or episode-reported; the AI-native clinic, physician-assisting robotics, and long-term rollout remain prospective. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic. The global compact map was refreshed because its maximum-age gate was due, preserving nine complete domain summaries and eight grounded executive claims. Rendered artifacts validate 5,313 sources across 812 overview paragraphs and nine topics. Changed-page wikilinks, canonical index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
