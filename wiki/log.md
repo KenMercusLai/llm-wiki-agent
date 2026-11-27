@@ -44180,3 +44180,7 @@ Created synthesis-first pages for [[AIEmissionsAccounting]], [[CaliforniaCorpora
 No settled contradiction was adopted. The appellate outcome is treated as a scope boundary: the initial direct and purchased-energy reports survived in the episode's account while the following year's detailed supply-chain reports did not. Coverage, thresholds, legal holdings, disclosure histories, inventory practices, and climate-benefit claims remain episode-scoped because the supplied file is a structured summary rather than statutory text, a judicial opinion, audited emissions data, company reports, or underlying research. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,311 sources across 812 overview paragraphs and nine topics. New canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
