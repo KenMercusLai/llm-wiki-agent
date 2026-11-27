@@ -44226,3 +44226,7 @@ Core synthesis: paid benefits can create private value while financing a wider f
 No settled contradiction was adopted. Prices, platform fees, contribution rates, lifetime subscription returns, churn, administrative costs, allocation, advertising effects, and product benefits remain episode- and date-scoped because the supplied file is a structured summary and institutional fundraising explanation rather than a transcript, audited financial record, platform contract, station allocation report, or independent market study. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Rendered artifacts validate 5,314 sources across 812 overview paragraphs and nine topics.
+
+## [2026-11-28] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
