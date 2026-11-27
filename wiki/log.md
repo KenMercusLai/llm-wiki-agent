@@ -44098,3 +44098,7 @@ Created synthesis-first profiles for [[Cosmax]], [[KolmarKorea|Kolmar Korea]], a
 No settled contradiction was adopted. The episode's speed thesis is also its main qualification: shared manufacturing and distribution can produce repeated hits while increasing homogeneity, traffic dependence, and short brand lives. Export rankings, household penetration, company metrics, R&D ratios, development times, retail shares, and comparative efficacy claims remain source-scoped. Topical PDRN products are not equated with injections, and immediate sensory or visual change is not treated as long-term efficacy proof. The automatic `wiki/overview.md` was read for context and not manually rewritten under the downstream-synthesis hard boundary.
 
 Downstream synthesis found no dirty controlled topic and global compaction was not due. Refreshed artifacts validate 5,305 sources across 812 overview paragraphs and nine topics. New and updated canonical-page wikilinks, index coverage, source inventories, identities, synthesis-v1 structure, whitespace, health, derived synthesis, and publish validation passed.
+
+## [2026-11-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
